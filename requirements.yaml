@@ -1,0 +1,14 @@
+name: capstone
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - nltk==3.6.3
+  - pyarrow
+  - acl-anthology
+  - numpy==1.21.2
+  - pandas==1.3.3
+  - requests==2.27.1
+  - jupyter==1.0.0
+  - pip
