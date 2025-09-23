@@ -1,0 +1,1180 @@
+{
+  "authorId": "3372941",
+  "name": "Rotem Dror",
+  "affiliations": [],
+  "paperCount": 20,
+  "citationCount": 1006,
+  "hIndex": 13,
+  "papers": [
+    {
+      "paperId": "984db2c52f8220dc2c7f0024bf8695cad261b744",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/984db2c52f8220dc2c7f0024bf8695cad261b744",
+      "title": "The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically Justify Replacing Human Annotators with LLMs",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2135910736",
+          "name": "Nitay Calderon"
+        },
+        {
+          "authorId": "2249760179",
+          "name": "Roi Reichart"
+        },
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        }
+      ]
+    },
+    {
+      "paperId": "049fedc2004836b51899c4456d96365efbbd5906",
+      "publicationVenue": {
+        "id": "7a0efb6b-cefe-4d69-a8ab-0b3b25a2e4e2",
+        "name": "User Modeling, Adaptation, and Personalization",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf User Model Adapt Pers",
+          "UMAP",
+          "User Model Adapt Pers",
+          "International Conference on User Modeling, Adaptation, and Personalization"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/049fedc2004836b51899c4456d96365efbbd5906",
+      "title": "The Curator's Helper",
+      "venue": "User Modeling, Adaptation, and Personalization",
+      "year": 2024,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "2308666290",
+          "name": "Daniel Hutchinson"
+        },
+        {
+          "authorId": "145881022",
+          "name": "Mason Jones"
+        },
+        {
+          "authorId": "2308666247",
+          "name": "Victoria Van Hyning"
+        },
+        {
+          "authorId": "1770193",
+          "name": "T. Kuflik"
+        }
+      ]
+    },
+    {
+      "paperId": "8dce168f723158b771b526401113064c36fc875e",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/8dce168f723158b771b526401113064c36fc875e",
+      "title": "State of What Art? A Call for Multi-Prompt LLM Evaluation",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 113,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1396412520",
+          "name": "Moran Mizrahi"
+        },
+        {
+          "authorId": "2277302614",
+          "name": "Guy Kaplan"
+        },
+        {
+          "authorId": "2082022055",
+          "name": "Daniel Malkin"
+        },
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "1805894",
+          "name": "Dafna Shahaf"
+        },
+        {
+          "authorId": "2126417012",
+          "name": "Gabriel Stanovsky"
+        }
+      ]
+    },
+    {
+      "paperId": "d44996a04e77c990177b589261ceebee5a80ef01",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d44996a04e77c990177b589261ceebee5a80ef01",
+      "title": "Human-in-the-loop Schema Induction",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "123437034",
+          "name": "Tianyi Zhang"
+        },
+        {
+          "authorId": "2065421682",
+          "name": "Isaac Tham"
+        },
+        {
+          "authorId": "2165225503",
+          "name": "Zhaoyi Hou"
+        },
+        {
+          "authorId": "2111472779",
+          "name": "J. Ren"
+        },
+        {
+          "authorId": "2202592542",
+          "name": "Liyang Zhou"
+        },
+        {
+          "authorId": "2283763073",
+          "name": "Hainiu Xu"
+        },
+        {
+          "authorId": "72436283",
+          "name": "Li Zhang"
+        },
+        {
+          "authorId": "145262322",
+          "name": "Lara J. Martin"
+        },
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "2109154767",
+          "name": "Sha Li"
+        },
+        {
+          "authorId": "2072975661",
+          "name": "Heng Ji"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        },
+        {
+          "authorId": "1783500",
+          "name": "S. Brown"
+        },
+        {
+          "authorId": "2209984833",
+          "name": "Reece Suchocki"
+        },
+        {
+          "authorId": "1763608",
+          "name": "Chris Callison-Burch"
+        }
+      ]
+    },
+    {
+      "paperId": "d96e228ce2e10d2215fa1d9833238bb1f2157656",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d96e228ce2e10d2215fa1d9833238bb1f2157656",
+      "title": "The Eval4NLP 2023 Shared Task on Prompting Large Language Models as Explainable Metrics",
+      "venue": "EVAL4NLP",
+      "year": 2023,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "66122857",
+          "name": "Christoph Leiter"
+        },
+        {
+          "authorId": "32781138",
+          "name": "Juri Opitz"
+        },
+        {
+          "authorId": "2264072172",
+          "name": "Daniel Deutsch"
+        },
+        {
+          "authorId": "2261669912",
+          "name": "Yang Gao"
+        },
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "2264186499",
+          "name": "Steffen Eger"
+        }
+      ]
+    },
+    {
+      "paperId": "396833983f6d7d77957e12c3839e5da05feb053a",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/396833983f6d7d77957e12c3839e5da05feb053a",
+      "title": "RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 33,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "13728923",
+          "name": "Xinya Du"
+        },
+        {
+          "authorId": "2116461591",
+          "name": "Zixuan Zhang"
+        },
+        {
+          "authorId": "2109154767",
+          "name": "Sha Li"
+        },
+        {
+          "authorId": "1390880371",
+          "name": "Ziqi Wang"
+        },
+        {
+          "authorId": "144808890",
+          "name": "Pengfei Yu"
+        },
+        {
+          "authorId": "2108986414",
+          "name": "Hongwei Wang"
+        },
+        {
+          "authorId": "145242558",
+          "name": "T. Lai"
+        },
+        {
+          "authorId": "48030192",
+          "name": "Xudong Lin"
+        },
+        {
+          "authorId": "2166112050",
+          "name": "Iris Liu"
+        },
+        {
+          "authorId": "2108536188",
+          "name": "Ben Zhou"
+        },
+        {
+          "authorId": "4428136",
+          "name": "Haoyang Wen"
+        },
+        {
+          "authorId": "2118482058",
+          "name": "Manling Li"
+        },
+        {
+          "authorId": "153060461",
+          "name": "Darryl Hannan"
+        },
+        {
+          "authorId": "46665218",
+          "name": "Jie Lei"
+        },
+        {
+          "authorId": "51270689",
+          "name": "Hyounghun Kim"
+        },
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "34269118",
+          "name": "Haoyu Wang"
+        },
+        {
+          "authorId": "145666891",
+          "name": "Michael Regan"
+        },
+        {
+          "authorId": "145653969",
+          "name": "Qi Zeng"
+        },
+        {
+          "authorId": "1904906987",
+          "name": "Qing Lyu"
+        },
+        {
+          "authorId": "2110963190",
+          "name": "Charles Yu"
+        },
+        {
+          "authorId": "48870109",
+          "name": "Carl N. Edwards"
+        },
+        {
+          "authorId": "2149111828",
+          "name": "Xiaomeng Jin"
+        },
+        {
+          "authorId": "1381900594",
+          "name": "Yizhu Jiao"
+        },
+        {
+          "authorId": "51203051",
+          "name": "Ghazaleh Kazeminejad"
+        },
+        {
+          "authorId": "2052036545",
+          "name": "Zhenhailong Wang"
+        },
+        {
+          "authorId": "1763608",
+          "name": "Chris Callison-Burch"
+        },
+        {
+          "authorId": "1856025",
+          "name": "Carl Vondrick"
+        },
+        {
+          "authorId": "143977268",
+          "name": "Mohit Bansal"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        },
+        {
+          "authorId": "2111759643",
+          "name": "Jiawei Han"
+        },
+        {
+          "authorId": "2122374530",
+          "name": "Shih-Fu Chang"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        },
+        {
+          "authorId": "2113323573",
+          "name": "Heng Ji"
+        }
+      ]
+    },
+    {
+      "paperId": "8e75aa56f8450d5742b11b187b7bc40cbf283c96",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8e75aa56f8450d5742b11b187b7bc40cbf283c96",
+      "title": "Zero-Shot On-the-Fly Event Schema Induction",
+      "venue": "Findings",
+      "year": 2022,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "34269118",
+          "name": "Haoyu Wang"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "9a2a11cd49434a30dbaba8430886cd83258d1e45",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/9a2a11cd49434a30dbaba8430886cd83258d1e45",
+      "title": "Re-Examining System-Level Correlations of Automatic Summarization Evaluation Metrics",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 43,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145346875",
+          "name": "Daniel Deutsch"
+        },
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "b5306e0217eb51e1fbaee1c39522750f9f294b1a",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/b5306e0217eb51e1fbaee1c39522750f9f294b1a",
+      "title": "On the Limitations of Reference-Free Evaluations of Generated Text",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 42,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145346875",
+          "name": "Daniel Deutsch"
+        },
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "dfb4e80deb187bcb85708f751c5d466c399f76f3",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/dfb4e80deb187bcb85708f751c5d466c399f76f3",
+      "title": "A Statistical Analysis of Summarization Evaluation Metrics Using Resampling Methods",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 71,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145346875",
+          "name": "Daniel Deutsch"
+        },
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "10d13307242462903d3935e5cf73e65d366b130b",
+      "publicationVenue": {
+        "id": "400d73aa-0d51-4582-9144-2069958881cd",
+        "name": "Synthesis Lectures on Human Language Technologies",
+        "type": "journal",
+        "alternate_names": [
+          "Synth Lect Hum Lang Technol"
+        ],
+        "issn": "1947-4040",
+        "url": "https://www.morganclaypool.com/toc/hlt/1/1"
+      },
+      "url": "https://www.semanticscholar.org/paper/10d13307242462903d3935e5cf73e65d366b130b",
+      "title": "Statistical Significance Testing for Natural Language Processing",
+      "venue": "Synthesis Lectures on Human Language Technologies",
+      "year": 2020,
+      "citationCount": 45,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "1659314445",
+          "name": "Lotem Peled-Cohen"
+        },
+        {
+          "authorId": "20513655",
+          "name": "Segev Shlomov"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        }
+      ]
+    },
+    {
+      "paperId": "4e13d73ab3ac3a2cb0cc341c1c9c5f42785d8c01",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4e13d73ab3ac3a2cb0cc341c1c9c5f42785d8c01",
+      "title": "SustaiNLP: Workshop on Simple and Ef\ufb01cient Natural Language Processing",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2182290",
+          "name": "N. Moosavi"
+        },
+        {
+          "authorId": "2260861210",
+          "name": "TU Darmstadt"
+        },
+        {
+          "authorId": "2286609159",
+          "name": "Angela Fan"
+        },
+        {
+          "authorId": "2288154134",
+          "name": "Sam Bowman"
+        },
+        {
+          "authorId": "2064112151",
+          "name": "Eneko Agirre"
+        },
+        {
+          "authorId": "2347956",
+          "name": "Mikel Artetxe"
+        },
+        {
+          "authorId": "2260405239",
+          "name": "Dennis Aumiller"
+        },
+        {
+          "authorId": "3150063",
+          "name": "Guy Boudoukh"
+        },
+        {
+          "authorId": "2220548276",
+          "name": "Samuel Cahyawijaya"
+        },
+        {
+          "authorId": "2288159940",
+          "name": "Elizabeth Clark"
+        },
+        {
+          "authorId": "2288154316",
+          "name": "Alexis Conneau"
+        },
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "2260119864",
+          "name": "G\u00e9rard Dupont"
+        },
+        {
+          "authorId": "46217681",
+          "name": "Nouha Dziri"
+        },
+        {
+          "authorId": "2288165448",
+          "name": "Kiril Gashteovski"
+        },
+        {
+          "authorId": "2265058484",
+          "name": "Sebastian Gehrmann"
+        },
+        {
+          "authorId": "2320509",
+          "name": "Marjan Ghazvininejad"
+        },
+        {
+          "authorId": "2288225199",
+          "name": "Samujjwal Ghosh"
+        },
+        {
+          "authorId": "36209516",
+          "name": "Andreas Hanselowski"
+        },
+        {
+          "authorId": "2288153526",
+          "name": "Benjamin Heinz-erling"
+        },
+        {
+          "authorId": "2257034335",
+          "name": "Ari Holtzman"
+        },
+        {
+          "authorId": "2329943",
+          "name": "Ozan Irsoy"
+        },
+        {
+          "authorId": "2284762857",
+          "name": "Srinivasan Iyer"
+        },
+        {
+          "authorId": "2477428",
+          "name": "Peter Izsak"
+        },
+        {
+          "authorId": "2286939725",
+          "name": "Mandar Joshi"
+        },
+        {
+          "authorId": "2023642",
+          "name": "Ehsan Kamalloo"
+        },
+        {
+          "authorId": "2288270694",
+          "name": "Gyuwan Kim"
+        },
+        {
+          "authorId": "2288224813",
+          "name": "Young Jin Kim"
+        },
+        {
+          "authorId": "1830914",
+          "name": "Guillaume Lample"
+        },
+        {
+          "authorId": "2288129545",
+          "name": "Phong Le"
+        },
+        {
+          "authorId": "2288176693",
+          "name": "Ji-Ung Lee"
+        },
+        {
+          "authorId": "2288165445",
+          "name": "Seyed Louis Martin"
+        },
+        {
+          "authorId": "2288158454",
+          "name": "Abolghasem Mirroshandel"
+        },
+        {
+          "authorId": "2269460274",
+          "name": "Marius Mosbach"
+        },
+        {
+          "authorId": "40511414",
+          "name": "Myle Ott"
+        },
+        {
+          "authorId": "2567321",
+          "name": "Daraksha Parveen"
+        },
+        {
+          "authorId": "2286061618",
+          "name": "Matthew E. Peters"
+        },
+        {
+          "authorId": "2148941887",
+          "name": "Jonas Pfeiffer"
+        },
+        {
+          "authorId": "1717641",
+          "name": "Mohammad Taher Pilehvar"
+        },
+        {
+          "authorId": "2288155502",
+          "name": "Barbara Plank"
+        },
+        {
+          "authorId": "2029669151",
+          "name": "Simone Paolo Ponzetto"
+        },
+        {
+          "authorId": null,
+          "name": "O\ufb01r Press"
+        },
+        {
+          "authorId": "2516777",
+          "name": "Hannah Rashkin"
+        },
+        {
+          "authorId": "2286656700",
+          "name": "Siva Reddy"
+        },
+        {
+          "authorId": "2284877159",
+          "name": "Ines Rehbein"
+        },
+        {
+          "authorId": "22240011",
+          "name": "Andreas R\u00fcckl\u00e9"
+        },
+        {
+          "authorId": "2285868436",
+          "name": "Victor Sanh"
+        },
+        {
+          "authorId": "2285460685",
+          "name": "Roy Schwartz"
+        },
+        {
+          "authorId": "2287143987",
+          "name": "Edwin Simpson"
+        },
+        {
+          "authorId": "2126417012",
+          "name": "Gabriel Stanovsky"
+        },
+        {
+          "authorId": "2288155391",
+          "name": "A. S\u00f8gaard"
+        },
+        {
+          "authorId": "2288158439",
+          "name": "Prasetya Urmish Thakker"
+        },
+        {
+          "authorId": "2288154842",
+          "name": "Ajie Utama"
+        },
+        {
+          "authorId": "89493901",
+          "name": "Ivan Vuli\u00b4c"
+        },
+        {
+          "authorId": "2134755",
+          "name": "Moshe Wasserblat"
+        },
+        {
+          "authorId": "2275364244",
+          "name": "Genta Indra"
+        },
+        {
+          "authorId": "2288153858",
+          "name": "Sam Winata"
+        },
+        {
+          "authorId": "2288155395",
+          "name": "Caiming Wiseman"
+        },
+        {
+          "authorId": "2288156203",
+          "name": "Canwen Xiong"
+        },
+        {
+          "authorId": "2286241104",
+          "name": "Xu"
+        },
+        {
+          "authorId": "2286906583",
+          "name": "Mona Diab"
+        }
+      ]
+    },
+    {
+      "paperId": "5558ef62ff31735585f2d01b020f853b6bca6d9c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/5558ef62ff31735585f2d01b020f853b6bca6d9c",
+      "title": "The Structured Weighted Violations MIRA",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1396416935",
+          "name": "Dor Ringel"
+        },
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        }
+      ]
+    },
+    {
+      "paperId": "6e58524b53f201552fa85644ffca10136e8b8b10",
+      "publicationVenue": {
+        "id": "027ffd21-ebb0-4af8-baf5-911124292fd0",
+        "name": "bioRxiv",
+        "type": "journal",
+        "url": "http://biorxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6e58524b53f201552fa85644ffca10136e8b8b10",
+      "title": "Protozoa populations are ecosystem engineers that shape prokaryotic community structure and function of the rumen microbial ecosystem",
+      "venue": "bioRxiv",
+      "year": 2020,
+      "citationCount": 32,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "52219145",
+          "name": "Ronnie Solomon"
+        },
+        {
+          "authorId": "11300491",
+          "name": "Tanita Wein"
+        },
+        {
+          "authorId": "79471639",
+          "name": "Bar Levy"
+        },
+        {
+          "authorId": "2105472775",
+          "name": "Shahar Eshed"
+        },
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "10189108",
+          "name": "Veronica Reiss"
+        },
+        {
+          "authorId": "50812800",
+          "name": "Tamar Zehavi"
+        },
+        {
+          "authorId": "48531941",
+          "name": "Ori Furman"
+        },
+        {
+          "authorId": "46980956",
+          "name": "I. Mizrahi"
+        },
+        {
+          "authorId": "145598346",
+          "name": "Elie Jami"
+        }
+      ]
+    },
+    {
+      "paperId": "6a7769116c6733dffa347444b2835e50129e0143",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6a7769116c6733dffa347444b2835e50129e0143",
+      "title": "Deep Dominance - How to Properly Compare Deep Neural Models",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 149,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "20513655",
+          "name": "Segev Shlomov"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        }
+      ]
+    },
+    {
+      "paperId": "1f183074396c5ae948c3f6d675a316cb63288414",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/1f183074396c5ae948c3f6d675a316cb63288414",
+      "title": "Appendix - Recommended Statistical Significance Tests for NLP Tasks",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        }
+      ]
+    },
+    {
+      "paperId": "d10df96b3fb0ab5c6b1d0cc22c7400d0acccc3cc",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d10df96b3fb0ab5c6b1d0cc22c7400d0acccc3cc",
+      "title": "The Hitchhiker\u2019s Guide to Testing Statistical Significance in Natural Language Processing",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 352,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "13666022",
+          "name": "G. Baumer"
+        },
+        {
+          "authorId": "20513655",
+          "name": "Segev Shlomov"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        }
+      ]
+    },
+    {
+      "paperId": "b0c177c41556dedf5be01328847dbe83d909f355",
+      "publicationVenue": {
+        "id": "d732841e-83f9-49ec-95ca-389e5568634b",
+        "name": "Annual Conference on Genetic and Evolutionary Computation",
+        "type": "conference",
+        "alternate_names": [
+          "GECCO",
+          "Annu Conf Genet Evol Comput",
+          "Genet Evol Comput Conf",
+          "Genetic and Evolutionary Computation Conference"
+        ],
+        "url": "http://www.sigevo.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b0c177c41556dedf5be01328847dbe83d909f355",
+      "title": "Set-SMAA for finding preferable multi-objective solutions",
+      "venue": "Annual Conference on Genetic and Evolutionary Computation",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "1703796",
+          "name": "Amir Kantor"
+        },
+        {
+          "authorId": "1797055",
+          "name": "M. Masin"
+        },
+        {
+          "authorId": "20513655",
+          "name": "Segev Shlomov"
+        }
+      ]
+    },
+    {
+      "paperId": "ecf189b8871403a3a4f646debe5139656c2a0f4c",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ecf189b8871403a3a4f646debe5139656c2a0f4c",
+      "title": "Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2017,
+      "citationCount": 75,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "13666022",
+          "name": "G. Baumer"
+        },
+        {
+          "authorId": "143774350",
+          "name": "Marina Bogomolov"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        }
+      ]
+    },
+    {
+      "paperId": "6b280fc096e6af4295c2e9b8bb81cb4c2d0c2ac1",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/6b280fc096e6af4295c2e9b8bb81cb4c2d0c2ac1",
+      "title": "The Structured Weighted Violations Perceptron Algorithm",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2016,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3372941",
+          "name": "Rotem Dror"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        }
+      ]
+    }
+  ]
+}

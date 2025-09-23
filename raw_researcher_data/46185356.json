@@ -1,0 +1,670 @@
+{
+  "authorId": "46185356",
+  "name": "Elior Sulem",
+  "affiliations": [],
+  "paperCount": 18,
+  "citationCount": 1577,
+  "hIndex": 11,
+  "papers": [
+    {
+      "paperId": "5c6cccfb3458240ffddc2d7fec37c398ea08ce44",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/5c6cccfb3458240ffddc2d7fec37c398ea08ce44",
+      "title": "Penn & BGU BabyBERTa+ for Strict-Small BabyLM Challenge",
+      "venue": "Proceedings of the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning",
+      "year": 2023,
+      "citationCount": 2,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2108877550",
+          "name": "Yahan Yang"
+        },
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "2266807124",
+          "name": "Insup Lee"
+        },
+        {
+          "authorId": "2266750433",
+          "name": "Dan Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "da443d54407db4a9967d8712513e10e14f913ac8",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/da443d54407db4a9967d8712513e10e14f913ac8",
+      "title": "Bootstrapping Small & High Performance Language Models with Unmasking-Removal Training Policy",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108877550",
+          "name": "Yahan Yang"
+        },
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "2266807124",
+          "name": "Insup Lee"
+        },
+        {
+          "authorId": "2266750433",
+          "name": "Dan Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "1b57be433e179bb5ce993abb1e0f7101d5ae8347",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/1b57be433e179bb5ce993abb1e0f7101d5ae8347",
+      "title": "Yes, No or IDK: The Challenge of Unanswerable Yes/No Questions",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "153035400",
+          "name": "Jamaal Hay"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "33cf9813ba401a428cf3b07deca6a8a4436265c0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/33cf9813ba401a428cf3b07deca6a8a4436265c0",
+      "title": "Capturing the Content of a Document through Complex Event Identification",
+      "venue": "STARSEM",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2072539729",
+          "name": "Zheng Qi"
+        },
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "34269118",
+          "name": "Haoyu Wang"
+        },
+        {
+          "authorId": "3099583",
+          "name": "Xiaodong Yu"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "3047c31521e919b8bad3e9682358e33b0e3aa8bd",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3047c31521e919b8bad3e9682358e33b0e3aa8bd",
+      "title": "Zero-shot Event Extraction via Transfer Learning: Challenges and Insights",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 97,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1904906987",
+          "name": "Qing Lyu"
+        },
+        {
+          "authorId": "2111112132",
+          "name": "Hongming Zhang"
+        },
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "4e38f52fdcbb3341b9c07d29016cab1a0b84912f",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4e38f52fdcbb3341b9c07d29016cab1a0b84912f",
+      "title": "BabyBERTa: Learning More Grammar With Small-Scale Child-Directed Language",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2021,
+      "citationCount": 97,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "32271184",
+          "name": "Philip A. Huebner"
+        },
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "145512773",
+          "name": "C. Fisher"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "b61c9799f10e4de9cd222dfd8e423bbd950a7c44",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/b61c9799f10e4de9cd222dfd8e423bbd950a7c44",
+      "title": "Do We Know What We Don't Know? Studying Unanswerable Questions beyond SQuAD 2.0",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "153035400",
+          "name": "Jamaal Hay"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "c23d9d44e8bc68408cea9f305d1f24d915bc0d0d",
+      "publicationVenue": {
+        "id": "7b2adce0-d53f-49d6-8784-b0645604fe62",
+        "name": "ACM Computing Surveys",
+        "type": "journal",
+        "alternate_names": [
+          "ACM Comput Surv"
+        ],
+        "issn": "0360-0300",
+        "url": "http://www.acm.org/pubs/surveys/",
+        "alternate_urls": [
+          "http://portal.acm.org/csur",
+          "https://csur.acm.org/",
+          "http://csur.acm.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c23d9d44e8bc68408cea9f305d1f24d915bc0d0d",
+      "title": "Recent Advances in Natural Language Processing via Large Pre-trained Language Models: A Survey",
+      "venue": "ACM Computing Surveys",
+      "year": 2021,
+      "citationCount": 954,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1875233",
+          "name": "Bonan Min"
+        },
+        {
+          "authorId": "2136457937",
+          "name": "Hayley Ross"
+        },
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "3460489",
+          "name": "Amir Pouran Ben Veyseh"
+        },
+        {
+          "authorId": "1811211",
+          "name": "Thien Huu Nguyen"
+        },
+        {
+          "authorId": "1724648481",
+          "name": "Oscar Sainz"
+        },
+        {
+          "authorId": "1733049",
+          "name": "Eneko Agirre"
+        },
+        {
+          "authorId": "2136480655",
+          "name": "Ilana Heinz"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "209fc5a72077a5808626d0894e37ecb6e5c6e689",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/209fc5a72077a5808626d0894e37ecb6e5c6e689",
+      "title": "Semantic Structural Decomposition for Neural Machine Translation",
+      "venue": "STARSEM",
+      "year": 2020,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "2769805",
+          "name": "Omri Abend"
+        },
+        {
+          "authorId": "145009917",
+          "name": "A. Rappoport"
+        }
+      ]
+    },
+    {
+      "paperId": "3ac112897f09ed967a1499febf5300428dbfb99f",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3ac112897f09ed967a1499febf5300428dbfb99f",
+      "title": "SemEval-2019 Task 1: Cross-lingual Semantic Parsing with UCCA",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2019,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2086349",
+          "name": "Daniel Hershcovich"
+        },
+        {
+          "authorId": "46258223",
+          "name": "Zohar Aizenbud"
+        },
+        {
+          "authorId": "41019330",
+          "name": "Leshem Choshen"
+        },
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "145009917",
+          "name": "A. Rappoport"
+        },
+        {
+          "authorId": "2769805",
+          "name": "Omri Abend"
+        }
+      ]
+    },
+    {
+      "paperId": "3c5adcf4d926da92e7e9ba3313cf405089ba7595",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3c5adcf4d926da92e7e9ba3313cf405089ba7595",
+      "title": "A Semantic Structural Approach to Text Simplification (\u05db\u05d5\u05ea\u05e8 \u05e0\u05d5\u05e1\u05e3 \u05d1\u05e2\u05d1\u05e8\u05d9\u05ea: \u05d2\u05d9\u05e9\u05d4 \u05e1\u05de\u05e0\u05d8\u05d9\u05ea \u05de\u05d1\u05e0\u05d9\u05ea \u05dc\u05e4\u05d9\u05e9\u05d5\u05d8 \u05d8\u05e7\u05e1\u05d8)",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        }
+      ]
+    },
+    {
+      "paperId": "786c27b75eec2e9bdfc6d49cf80d2c5e6bcd251a",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/786c27b75eec2e9bdfc6d49cf80d2c5e6bcd251a",
+      "title": "The Language of Legal and Illegal Activity on the Darknet",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "41019330",
+          "name": "Leshem Choshen"
+        },
+        {
+          "authorId": "16336548",
+          "name": "D. Eldad"
+        },
+        {
+          "authorId": "2086349",
+          "name": "Daniel Hershcovich"
+        },
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "2769805",
+          "name": "Omri Abend"
+        }
+      ]
+    },
+    {
+      "paperId": "408ef68fa98b3527a40faf0ce5122f624bdfef48",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/408ef68fa98b3527a40faf0ce5122f624bdfef48",
+      "title": "SemEval 2019 Shared Task: Cross-lingual Semantic Parsing with UCCA - Call for Participation",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2064295987",
+          "name": "Daniel Hershcovich"
+        },
+        {
+          "authorId": "41019330",
+          "name": "Leshem Choshen"
+        },
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "46258223",
+          "name": "Zohar Aizenbud"
+        },
+        {
+          "authorId": "145009917",
+          "name": "A. Rappoport"
+        },
+        {
+          "authorId": "2769805",
+          "name": "Omri Abend"
+        }
+      ]
+    },
+    {
+      "paperId": "776b83142108681862e8ef6cff6322c2ab39c660",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/776b83142108681862e8ef6cff6322c2ab39c660",
+      "title": "BLEU is Not Suitable for the Evaluation of Text Simplification",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 187,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "2769805",
+          "name": "Omri Abend"
+        },
+        {
+          "authorId": "145009917",
+          "name": "A. Rappoport"
+        }
+      ]
+    },
+    {
+      "paperId": "98010d874616a9aada03fd0c99f80e4187ac7dee",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/98010d874616a9aada03fd0c99f80e4187ac7dee",
+      "title": "Simple and Effective Text Simplification Using Semantic and Neural Methods",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 72,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "2769805",
+          "name": "Omri Abend"
+        },
+        {
+          "authorId": "145009917",
+          "name": "A. Rappoport"
+        }
+      ]
+    },
+    {
+      "paperId": "ba893d41d5e81a94ca15618d68f5e03f6fbded5c",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/ba893d41d5e81a94ca15618d68f5e03f6fbded5c",
+      "title": "Semantic Structural Evaluation for Text Simplification",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 91,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "2769805",
+          "name": "Omri Abend"
+        },
+        {
+          "authorId": "145009917",
+          "name": "A. Rappoport"
+        }
+      ]
+    },
+    {
+      "paperId": "24278f95235375f383788ede3b0071674f9ad029",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/24278f95235375f383788ede3b0071674f9ad029",
+      "title": "Proceedings of the 1st Workshop on Semantics-Driven Statistical Machine Translation",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "2769805",
+          "name": "Omri Abend"
+        },
+        {
+          "authorId": "145009917",
+          "name": "A. Rappoport"
+        }
+      ]
+    },
+    {
+      "paperId": "69fde0ea22b628e6347922f787e4340eafda503d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/69fde0ea22b628e6347922f787e4340eafda503d",
+      "title": "Conceptual Annotations Preserve Structure Across Translations: A French-English Case Study",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46185356",
+          "name": "Elior Sulem"
+        },
+        {
+          "authorId": "2769805",
+          "name": "Omri Abend"
+        },
+        {
+          "authorId": "145009917",
+          "name": "A. Rappoport"
+        }
+      ]
+    }
+  ]
+}

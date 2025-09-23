@@ -1,0 +1,956 @@
+{
+  "authorId": "22243769",
+  "name": "Nelson F. Liu",
+  "affiliations": [
+    "Stanford University"
+  ],
+  "paperCount": 20,
+  "citationCount": 4839,
+  "hIndex": 13,
+  "papers": [
+    {
+      "paperId": "1733eb7792f7a43dd21f51f4d1017a1bffd217b5",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/1733eb7792f7a43dd21f51f4d1017a1bffd217b5",
+      "title": "Lost in the Middle: How Language Models Use Long Contexts",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 1277,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "48085802",
+          "name": "Kevin Lin"
+        },
+        {
+          "authorId": "145430120",
+          "name": "John Hewitt"
+        },
+        {
+          "authorId": "40404493",
+          "name": "Ashwin Paranjape"
+        },
+        {
+          "authorId": "143802044",
+          "name": "Michele Bevilacqua"
+        },
+        {
+          "authorId": "40052301",
+          "name": "F. Petroni"
+        },
+        {
+          "authorId": "145419642",
+          "name": "Percy Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "7889a1b170df653820f152a74f8b6326f85b40c1",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/7889a1b170df653820f152a74f8b6326f85b40c1",
+      "title": "Anchor Prediction: Automatic Refinement of Internet Links",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "2110237268",
+          "name": "Kenton Lee"
+        },
+        {
+          "authorId": "3259253",
+          "name": "Kristina Toutanova"
+        }
+      ]
+    },
+    {
+      "paperId": "e03dc5bd72bea7d1db03de380d4c43b7e610fbee",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/e03dc5bd72bea7d1db03de380d4c43b7e610fbee",
+      "title": "Evaluating Verifiability in Generative Search Engines",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 220,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "2146331419",
+          "name": "Tianyi Zhang"
+        },
+        {
+          "authorId": "145419642",
+          "name": "Percy Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "a1762b22d9222c52ba607b28c09977d76f709ba8",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a1762b22d9222c52ba607b28c09977d76f709ba8",
+      "title": "Are Sample-Efficient NLP Models More Robust?",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "32423266",
+          "name": "Ananya Kumar"
+        },
+        {
+          "authorId": "145419642",
+          "name": "Percy Liang"
+        },
+        {
+          "authorId": "3422908",
+          "name": "Robin Jia"
+        }
+      ]
+    },
+    {
+      "paperId": "5505d608a1d482fdc083796db812379ec1cb8723",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/5505d608a1d482fdc083796db812379ec1cb8723",
+      "title": "Can Small and Synthetic Benchmarks Drive Modeling Innovation? A Retrospective Study of Question Answering Modeling Approaches",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "2110585783",
+          "name": "Tony Lee"
+        },
+        {
+          "authorId": "3422908",
+          "name": "Robin Jia"
+        },
+        {
+          "authorId": "145419642",
+          "name": "Percy Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "90a70fc5658fbafd364cb798dd55dc7b074506a4",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/90a70fc5658fbafd364cb798dd55dc7b074506a4",
+      "title": "Making Heads and Tails of Models with Marginal Calibration for Sparse Tagsets",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "35470059",
+          "name": "Michael Kranzlein"
+        },
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "145254207",
+          "name": "Nathan Schneider"
+        }
+      ]
+    },
+    {
+      "paperId": "bcb40a7f2009259e660e14d12ec75bae1c184b1e",
+      "publicationVenue": {
+        "id": "8b169440-4c13-4cf4-b3f9-1dc7c39dc888",
+        "name": "Workshop on Representation Learning for NLP",
+        "type": "conference",
+        "alternate_names": [
+          "RepL4NLP",
+          "Workshop Represent Learn NLP"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/bcb40a7f2009259e660e14d12ec75bae1c184b1e",
+      "title": "Identifying the Limits of Cross-Domain Knowledge Transfer for Pretrained Models",
+      "venue": "Workshop on Representation Learning for NLP",
+      "year": 2021,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47039337",
+          "name": "Zhengxuan Wu"
+        },
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "144922861",
+          "name": "Christopher Potts"
+        }
+      ]
+    },
+    {
+      "paperId": "c326c5948f58271a9dd2056bded87f5a293c8927",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c326c5948f58271a9dd2056bded87f5a293c8927",
+      "title": "Do Question Answering Modeling Improvements Hold Across Benchmarks?",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "2110585783",
+          "name": "Tony Lee"
+        },
+        {
+          "authorId": "3422908",
+          "name": "Robin Jia"
+        },
+        {
+          "authorId": "145419642",
+          "name": "Percy Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "3f9514630194a9fba9505b594ec921b247fecb48",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3f9514630194a9fba9505b594ec921b247fecb48",
+      "title": "Evaluating Models\u2019 Local Decision Boundaries via Contrast Sets",
+      "venue": "Findings",
+      "year": 2020,
+      "citationCount": 378,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40642935",
+          "name": "Matt Gardner"
+        },
+        {
+          "authorId": "3167681",
+          "name": "Yoav Artzi"
+        },
+        {
+          "authorId": "1750652",
+          "name": "Jonathan Berant"
+        },
+        {
+          "authorId": "50757607",
+          "name": "Ben Bogin"
+        },
+        {
+          "authorId": "2087205",
+          "name": "Sihao Chen"
+        },
+        {
+          "authorId": "33546336",
+          "name": "Dheeru Dua"
+        },
+        {
+          "authorId": "51131518",
+          "name": "Yanai Elazar"
+        },
+        {
+          "authorId": "1471885977",
+          "name": "Ananth Gottumukkala"
+        },
+        {
+          "authorId": "2285178",
+          "name": "Nitish Gupta"
+        },
+        {
+          "authorId": "2548384",
+          "name": "Hannaneh Hajishirzi"
+        },
+        {
+          "authorId": "2123694087",
+          "name": "Gabriel Ilharco"
+        },
+        {
+          "authorId": "1783281",
+          "name": "Daniel Khashabi"
+        },
+        {
+          "authorId": "2154184644",
+          "name": "Kevin Lin"
+        },
+        {
+          "authorId": "2262374",
+          "name": "Jiangming Liu"
+        },
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "46244238",
+          "name": "Phoebe Mulcaire"
+        },
+        {
+          "authorId": "3333257",
+          "name": "Qiang Ning"
+        },
+        {
+          "authorId": "34650964",
+          "name": "Sameer Singh"
+        },
+        {
+          "authorId": "144365875",
+          "name": "Noah A. Smith"
+        },
+        {
+          "authorId": "17097887",
+          "name": "Sanjay Subramanian"
+        },
+        {
+          "authorId": "145217343",
+          "name": "Eric Wallace"
+        },
+        {
+          "authorId": "2153658440",
+          "name": "Ally Zhang"
+        },
+        {
+          "authorId": "145360756",
+          "name": "Ben Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "9fec5868542b4d9070306f1418d1d21666226e90",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/9fec5868542b4d9070306f1418d1d21666226e90",
+      "title": "Evaluating NLP Models via Contrast Sets",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 84,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40642935",
+          "name": "Matt Gardner"
+        },
+        {
+          "authorId": "3167681",
+          "name": "Yoav Artzi"
+        },
+        {
+          "authorId": "90929602",
+          "name": "Victoria Basmova"
+        },
+        {
+          "authorId": "1750652",
+          "name": "Jonathan Berant"
+        },
+        {
+          "authorId": "50757607",
+          "name": "Ben Bogin"
+        },
+        {
+          "authorId": "2087205",
+          "name": "Sihao Chen"
+        },
+        {
+          "authorId": "2697425",
+          "name": "Pradeep Dasigi"
+        },
+        {
+          "authorId": "33546336",
+          "name": "Dheeru Dua"
+        },
+        {
+          "authorId": "51131518",
+          "name": "Yanai Elazar"
+        },
+        {
+          "authorId": "1471885977",
+          "name": "Ananth Gottumukkala"
+        },
+        {
+          "authorId": "2285178",
+          "name": "Nitish Gupta"
+        },
+        {
+          "authorId": "2548384",
+          "name": "Hannaneh Hajishirzi"
+        },
+        {
+          "authorId": "1387994137",
+          "name": "Gabriel Ilharco"
+        },
+        {
+          "authorId": "1783281",
+          "name": "Daniel Khashabi"
+        },
+        {
+          "authorId": "48085802",
+          "name": "Kevin Lin"
+        },
+        {
+          "authorId": "2262374",
+          "name": "Jiangming Liu"
+        },
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "46244238",
+          "name": "Phoebe Mulcaire"
+        },
+        {
+          "authorId": "3333257",
+          "name": "Qiang Ning"
+        },
+        {
+          "authorId": "34650964",
+          "name": "Sameer Singh"
+        },
+        {
+          "authorId": "144365875",
+          "name": "Noah A. Smith"
+        },
+        {
+          "authorId": "17097887",
+          "name": "Sanjay Subramanian"
+        },
+        {
+          "authorId": "2799181",
+          "name": "Reut Tsarfaty"
+        },
+        {
+          "authorId": "145217343",
+          "name": "Eric Wallace"
+        },
+        {
+          "authorId": "2153658440",
+          "name": "Ally Zhang"
+        },
+        {
+          "authorId": "145360756",
+          "name": "Ben Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "a66fd96f3ea9473a5e7ff30eb5c876850492e7e1",
+      "publicationVenue": {
+        "id": "284f6875-f418-4d0b-919f-db5a22388281",
+        "name": "Workshop on Multiword Expressions",
+        "type": "conference",
+        "alternate_names": [
+          "MWE",
+          "Workshop Multiword Expr"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a66fd96f3ea9473a5e7ff30eb5c876850492e7e1",
+      "title": "Lexical Semantic Recognition",
+      "venue": "Workshop on Multiword Expressions",
+      "year": 2020,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "2086349",
+          "name": "Daniel Hershcovich"
+        },
+        {
+          "authorId": "35470059",
+          "name": "Michael Kranzlein"
+        },
+        {
+          "authorId": "145254207",
+          "name": "Nathan Schneider"
+        }
+      ]
+    },
+    {
+      "paperId": "3838387ea8dd1bb8c2306be5a63c1c120075c5a2",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/3838387ea8dd1bb8c2306be5a63c1c120075c5a2",
+      "title": "Quoref: A Reading Comprehension Dataset with Questions Requiring Coreferential Reasoning",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 170,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2697425",
+          "name": "Pradeep Dasigi"
+        },
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "3451494",
+          "name": "Ana Marasovi\u0107"
+        },
+        {
+          "authorId": "144365875",
+          "name": "Noah A. Smith"
+        },
+        {
+          "authorId": "40642935",
+          "name": "Matt Gardner"
+        }
+      ]
+    },
+    {
+      "paperId": "96901acc92d68350443774596fa2b38bc522a0ce",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/96901acc92d68350443774596fa2b38bc522a0ce",
+      "title": "Barack\u2019s Wife Hillary: Using Knowledge Graphs for Fact-Aware Language Modeling",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 182,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1387915630",
+          "name": "IV RobertL.Logan"
+        },
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "39139825",
+          "name": "Matthew E. Peters"
+        },
+        {
+          "authorId": "40642935",
+          "name": "Matt Gardner"
+        },
+        {
+          "authorId": "144171580",
+          "name": "Sameer Singh"
+        }
+      ]
+    },
+    {
+      "paperId": "9fed0a5813d5c7ea87c48bf3ce7862b0c2fbf0f7",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/9fed0a5813d5c7ea87c48bf3ce7862b0c2fbf0f7",
+      "title": "Inoculation by Fine-Tuning: A Method for Analyzing Challenge Datasets",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 104,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "4671928",
+          "name": "Roy Schwartz"
+        },
+        {
+          "authorId": "144365875",
+          "name": "Noah A. Smith"
+        }
+      ]
+    },
+    {
+      "paperId": "f6fbb6809374ca57205bd2cf1421d4f4fa04f975",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/f6fbb6809374ca57205bd2cf1421d4f4fa04f975",
+      "title": "Linguistic Knowledge and Transferability of Contextual Representations",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 713,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "40642935",
+          "name": "Matt Gardner"
+        },
+        {
+          "authorId": "2083259",
+          "name": "Yonatan Belinkov"
+        },
+        {
+          "authorId": "39139825",
+          "name": "Matthew E. Peters"
+        },
+        {
+          "authorId": "144365875",
+          "name": "Noah A. Smith"
+        }
+      ]
+    },
+    {
+      "paperId": "35f2251a8af92ff45859692af4c58b34bafbc4ec",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/35f2251a8af92ff45859692af4c58b34bafbc4ec",
+      "title": "Discovering Phonesthemes with Sparse Regularization",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "1733034",
+          "name": "Gina-Anne Levow"
+        },
+        {
+          "authorId": "144365875",
+          "name": "Noah A. Smith"
+        }
+      ]
+    },
+    {
+      "paperId": "897913d46235a777e59f08c40ec6d35dd923a018",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/897913d46235a777e59f08c40ec6d35dd923a018",
+      "title": "Augmenting Statistical Machine Translation with Subword Translation of Out-of-Vocabulary Words",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "143823227",
+          "name": "Jonathan May"
+        },
+        {
+          "authorId": "2120440",
+          "name": "Michael Pust"
+        },
+        {
+          "authorId": "152971314",
+          "name": "Kevin Knight"
+        }
+      ]
+    },
+    {
+      "paperId": "93b4cc549a1bc4bc112189da36c318193d05d806",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/93b4cc549a1bc4bc112189da36c318193d05d806",
+      "title": "AllenNLP: A Deep Semantic Natural Language Processing Platform",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 1269,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40642935",
+          "name": "Matt Gardner"
+        },
+        {
+          "authorId": "40695489",
+          "name": "Joel Grus"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "3385516",
+          "name": "Oyvind Tafjord"
+        },
+        {
+          "authorId": "2697425",
+          "name": "Pradeep Dasigi"
+        },
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "39139825",
+          "name": "Matthew E. Peters"
+        },
+        {
+          "authorId": "144874222",
+          "name": "Michael Schmitz"
+        },
+        {
+          "authorId": "1982950",
+          "name": "Luke Zettlemoyer"
+        }
+      ]
+    },
+    {
+      "paperId": "cbc2b7cd7db78e9bd06de035a0b0ec7e187016f8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/cbc2b7cd7db78e9bd06de035a0b0ec7e187016f8",
+      "title": "LSTMs Exploit Linguistic Attributes of Data",
+      "venue": "Rep4NLP@ACL",
+      "year": 2018,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "39455775",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "4671928",
+          "name": "Roy Schwartz"
+        },
+        {
+          "authorId": "40348583",
+          "name": "Chenhao Tan"
+        },
+        {
+          "authorId": "144365875",
+          "name": "Noah A. Smith"
+        }
+      ]
+    },
+    {
+      "paperId": "932a5de79d8a8ebb75ea0c43493450fd9922e738",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/932a5de79d8a8ebb75ea0c43493450fd9922e738",
+      "title": "Crowdsourcing Multiple Choice Science Questions",
+      "venue": "NUT@EMNLP",
+      "year": 2017,
+      "citationCount": 435,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1851564",
+          "name": "Johannes Welbl"
+        },
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "40642935",
+          "name": "Matt Gardner"
+        }
+      ]
+    }
+  ]
+}

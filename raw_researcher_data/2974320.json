@@ -1,0 +1,1854 @@
+{
+  "authorId": "2974320",
+  "name": "Victor Veitch",
+  "affiliations": [],
+  "paperCount": 45,
+  "citationCount": 3743,
+  "hIndex": 24,
+  "papers": [
+    {
+      "paperId": "4595e8e0b80ab4a8fd2bbfe3b79a7b441805ac16",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/4595e8e0b80ab4a8fd2bbfe3b79a7b441805ac16",
+      "title": "Concept Algebra for Text-Controlled Vision Models",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2117422663",
+          "name": "Zihao Wang"
+        },
+        {
+          "authorId": "2304463030",
+          "name": "Lin Gui"
+        },
+        {
+          "authorId": "91016529",
+          "name": "Jeffrey Negrea"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        }
+      ]
+    },
+    {
+      "paperId": "574114328240db66ae3f2d689b2fde97ba5d9c6e",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/574114328240db66ae3f2d689b2fde97ba5d9c6e",
+      "title": "Concept Algebra for (Score-Based) Text-Controlled Generative Models",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Zihao Wang"
+        },
+        {
+          "authorId": "2304463030",
+          "name": "Lin Gui"
+        },
+        {
+          "authorId": "91016529",
+          "name": "Jeffrey Negrea"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        }
+      ]
+    },
+    {
+      "paperId": "114c99105f680af8662df5cde9e5d2a753785fe4",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/114c99105f680af8662df5cde9e5d2a753785fe4",
+      "title": "Invariant and Transportable Representations for Anti-Causal Domain Shifts",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "citationCount": 32,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "116503613",
+          "name": "Yibo Jiang"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        }
+      ]
+    },
+    {
+      "paperId": "422b68799bfc5cae91febc5c33d59e28b067a368",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/422b68799bfc5cae91febc5c33d59e28b067a368",
+      "title": "Efficient Conditionally Invariant Representation Learning",
+      "venue": "International Conference on Learning Representations",
+      "year": 2022,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "47067953",
+          "name": "Roman Pogodin"
+        },
+        {
+          "authorId": "96261124",
+          "name": "Namrata Deka"
+        },
+        {
+          "authorId": "2144417088",
+          "name": "Yazhe Li"
+        },
+        {
+          "authorId": "36326783",
+          "name": "Danica J. Sutherland"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "1708497",
+          "name": "A. Gretton"
+        }
+      ]
+    },
+    {
+      "paperId": "5cd83a86584065c82837cd9e73fc844fb2b2e18e",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5cd83a86584065c82837cd9e73fc844fb2b2e18e",
+      "title": "Causal Estimation for Text Data with (Apparent) Overlap Violations",
+      "venue": "International Conference on Learning Representations",
+      "year": 2022,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2304463030",
+          "name": "Lin Gui"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        }
+      ]
+    },
+    {
+      "paperId": "846096ebb8fb7d475c09cccd952335c4c8344fe8",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/846096ebb8fb7d475c09cccd952335c4c8344fe8",
+      "title": "A Unified Causal View of Domain Invariant Representation Learning",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2129735133",
+          "name": "Zihao Wang"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        }
+      ]
+    },
+    {
+      "paperId": "cbe253f9ffd120b023600ed89ef0107731e89300",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cbe253f9ffd120b023600ed89ef0107731e89300",
+      "title": "Using Embeddings for Causal Estimation of Peer Influence in Social Networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "102713067",
+          "name": "Irina Cristali"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        }
+      ]
+    },
+    {
+      "paperId": "f2060c0cb3e67e0c07f01254a3d812f1074c5e1e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f2060c0cb3e67e0c07f01254a3d812f1074c5e1e",
+      "title": "The Causal Structure of Domain Invariant Supervised Representation Learning",
+      "venue": "",
+      "year": 2022,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2129735133",
+          "name": "Zihao Wang"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        }
+      ]
+    },
+    {
+      "paperId": "130d432ccbc836380a212bea618f84ff094a6a52",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/130d432ccbc836380a212bea618f84ff094a6a52",
+      "title": "Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 230,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "145137850",
+          "name": "Katherine A. Keith"
+        },
+        {
+          "authorId": "2125374460",
+          "name": "Emaad A. Manzoor"
+        },
+        {
+          "authorId": "2253657208",
+          "name": "Reid Pryzant"
+        },
+        {
+          "authorId": "153485411",
+          "name": "Dhanya Sridhar"
+        },
+        {
+          "authorId": "1411379613",
+          "name": "Zach Wood-Doughty"
+        },
+        {
+          "authorId": "144154709",
+          "name": "Jacob Eisenstein"
+        },
+        {
+          "authorId": "2361828",
+          "name": "Justin Grimmer"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        },
+        {
+          "authorId": "2464550",
+          "name": "Margaret E. Roberts"
+        },
+        {
+          "authorId": "28924497",
+          "name": "Brandon M Stewart"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "2143919864",
+          "name": "Diyi Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "6aecc93c2d61da073b70dec19795172ca1ff3405",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6aecc93c2d61da073b70dec19795172ca1ff3405",
+      "title": "Counterfactual Invariance to Spurious Correlations: Why and How to Pass Stress Tests",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 88,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "1396841807",
+          "name": "A. D'Amour"
+        },
+        {
+          "authorId": "2856607",
+          "name": "Steve Yadlowsky"
+        },
+        {
+          "authorId": "144154709",
+          "name": "Jacob Eisenstein"
+        }
+      ]
+    },
+    {
+      "paperId": "6c3155e37db216929b3a3c7a3ecf6b1124cba56c",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6c3155e37db216929b3a3c7a3ecf6b1124cba56c",
+      "title": "Counterfactual Invariance to Spurious Correlations in Text Classification",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "citationCount": 79,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "1396841807",
+          "name": "A. D'Amour"
+        },
+        {
+          "authorId": "2856607",
+          "name": "Steve Yadlowsky"
+        },
+        {
+          "authorId": "2065533890",
+          "name": "Jacob Eisenstein"
+        }
+      ]
+    },
+    {
+      "paperId": "933393df9068059dd49f555eaa67f5f9ce58aeec",
+      "publicationVenue": {
+        "id": "e07422f9-c065-40c3-a37b-75e98dce79fe",
+        "name": "The Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Conf",
+          "WWW"
+        ],
+        "url": "http://www.iw3c2.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/933393df9068059dd49f555eaa67f5f9ce58aeec",
+      "title": "Assessing the Effects of Friend-to-Friend Texting onTurnout in the 2018 US Midterm Elections",
+      "venue": "The Web Conference",
+      "year": 2021,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50545056",
+          "name": "Aaron Schein"
+        },
+        {
+          "authorId": "70025184",
+          "name": "Keyon Vafa"
+        },
+        {
+          "authorId": "153485411",
+          "name": "Dhanya Sridhar"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "2050597",
+          "name": "Jeffrey M. Quinn"
+        },
+        {
+          "authorId": "2037183204",
+          "name": "James Moffet"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        },
+        {
+          "authorId": "145931139",
+          "name": "D. Green"
+        }
+      ]
+    },
+    {
+      "paperId": "dd9660e521f5d99ec653563d35783d5a6176a8d8",
+      "publicationVenue": {
+        "id": "0d763373-8322-40e6-9451-d72fed2cde85",
+        "name": "Electronic Journal of Statistics",
+        "type": "journal",
+        "alternate_names": [
+          "Electron J Stat"
+        ],
+        "issn": "1935-7524",
+        "url": "http://resolver.sub.uni-goettingen.de/purl?gs-1/15226",
+        "alternate_urls": [
+          "http://projecteuclid.org/ejs",
+          "https://projecteuclid.org/DPubS?handle=euclid.ejs&service=UI&verb=Display&version=1.0",
+          "http://imstat.org/ejs/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/dd9660e521f5d99ec653563d35783d5a6176a8d8",
+      "title": "Bootstrap estimators for the tail-index and for the count statistics of graphex processes",
+      "venue": "Electronic Journal of Statistics",
+      "year": 2021,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2555184",
+          "name": "Zacharie Naulet"
+        },
+        {
+          "authorId": "39331522",
+          "name": "Daniel M. Roy"
+        },
+        {
+          "authorId": "8125549",
+          "name": "Ekansh Sharma"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        }
+      ]
+    },
+    {
+      "paperId": "1ce96d8dbf69199ebd043de6cfa25d7e48b8ab03",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/1ce96d8dbf69199ebd043de6cfa25d7e48b8ab03",
+      "title": "Causal Effects of Linguistic Properties",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 44,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2253657208",
+          "name": "Reid Pryzant"
+        },
+        {
+          "authorId": "35540755",
+          "name": "Dallas Card"
+        },
+        {
+          "authorId": "1746807",
+          "name": "Dan Jurafsky"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "153485411",
+          "name": "Dhanya Sridhar"
+        }
+      ]
+    },
+    {
+      "paperId": "2d5aa5d01caf418e6d5fe21acdcd3928f851e001",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2d5aa5d01caf418e6d5fe21acdcd3928f851e001",
+      "title": "Sense and Sensitivity Analysis: Simple Post-Hoc Analysis of Bias Due to Unobserved Confounding",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "citationCount": 49,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science",
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "5103606",
+          "name": "A. Zaveri"
+        }
+      ]
+    },
+    {
+      "paperId": "44071a76a00a37caea959068800f5be1b0192f1c",
+      "publicationVenue": {
+        "id": "f9af8000-42f8-410d-a622-e8811e41660a",
+        "name": "Conference on Uncertainty in Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Uncertainty in Artificial Intelligence",
+          "UAI",
+          "Conf Uncertain Artif Intell",
+          "Uncertain Artif Intell"
+        ],
+        "url": "http://www.auai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/44071a76a00a37caea959068800f5be1b0192f1c",
+      "title": "Invariant Representation Learning for Treatment Effect Estimation",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2020,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "133797256",
+          "name": "Claudia Shi"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        }
+      ]
+    },
+    {
+      "paperId": "71a85e735a3686bef8cce3725ae5ba82e2cabb1b",
+      "publicationVenue": {
+        "id": "c22e7c36-3bfa-43e1-bb7b-edccdea2a780",
+        "name": "Journal of machine learning research",
+        "type": "journal",
+        "alternate_names": [
+          "Journal of Machine Learning Research",
+          "J mach learn res",
+          "J Mach Learn Res"
+        ],
+        "issn": "1532-4435",
+        "alternate_issns": [
+          "1533-7928"
+        ],
+        "url": "http://www.ai.mit.edu/projects/jmlr/",
+        "alternate_urls": [
+          "http://jmlr.csail.mit.edu/",
+          "http://www.jmlr.org/",
+          "http://portal.acm.org/affiliated/jmlr"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/71a85e735a3686bef8cce3725ae5ba82e2cabb1b",
+      "title": "Underspecification Presents Challenges for Credibility in Modern Machine Learning",
+      "venue": "Journal of machine learning research",
+      "year": 2020,
+      "citationCount": 653,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1396841807",
+          "name": "A. D'Amour"
+        },
+        {
+          "authorId": "145993598",
+          "name": "K. Heller"
+        },
+        {
+          "authorId": "40497400",
+          "name": "D. Moldovan"
+        },
+        {
+          "authorId": "1874006",
+          "name": "Ben Adlam"
+        },
+        {
+          "authorId": "2327021506",
+          "name": "Babak Alipanahi"
+        },
+        {
+          "authorId": "2638246",
+          "name": "Alex Beutel"
+        },
+        {
+          "authorId": "2110195795",
+          "name": "Christina Chen"
+        },
+        {
+          "authorId": "1695378",
+          "name": "Jonathan Deaton"
+        },
+        {
+          "authorId": "144154709",
+          "name": "Jacob Eisenstein"
+        },
+        {
+          "authorId": "28552618",
+          "name": "M. Hoffman"
+        },
+        {
+          "authorId": "2420527",
+          "name": "F. Hormozdiari"
+        },
+        {
+          "authorId": "2815290",
+          "name": "N. Houlsby"
+        },
+        {
+          "authorId": "3108448",
+          "name": "Shaobo Hou"
+        },
+        {
+          "authorId": "3451901",
+          "name": "Ghassen Jerfel"
+        },
+        {
+          "authorId": "6413143",
+          "name": "A. Karthikesalingam"
+        },
+        {
+          "authorId": "34302129",
+          "name": "Mario Lucic"
+        },
+        {
+          "authorId": "2146275249",
+          "name": "Yi-An Ma"
+        },
+        {
+          "authorId": "6322777",
+          "name": "Cory Y. McLean"
+        },
+        {
+          "authorId": "2007712128",
+          "name": "Diana Mincu"
+        },
+        {
+          "authorId": "4836115",
+          "name": "A. Mitani"
+        },
+        {
+          "authorId": "145071265",
+          "name": "A. Montanari"
+        },
+        {
+          "authorId": "81408931",
+          "name": "Zachary Nado"
+        },
+        {
+          "authorId": "144223091",
+          "name": "Vivek Natarajan"
+        },
+        {
+          "authorId": "2065412355",
+          "name": "Christopher Nielson"
+        },
+        {
+          "authorId": "25897803",
+          "name": "T. Osborne"
+        },
+        {
+          "authorId": "2035210",
+          "name": "R. Raman"
+        },
+        {
+          "authorId": "88478180",
+          "name": "K. Ramasamy"
+        },
+        {
+          "authorId": "144042306",
+          "name": "R. Sayres"
+        },
+        {
+          "authorId": "3212089",
+          "name": "Jessica Schrouff"
+        },
+        {
+          "authorId": "6454443",
+          "name": "Martin G. Seneviratne"
+        },
+        {
+          "authorId": "2007741250",
+          "name": "Shannon Sequeira"
+        },
+        {
+          "authorId": "46537606",
+          "name": "Harini Suresh"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "3316311",
+          "name": "Max Vladymyrov"
+        },
+        {
+          "authorId": "1524732527",
+          "name": "Xuezhi Wang"
+        },
+        {
+          "authorId": "20825661",
+          "name": "Kellie Webster"
+        },
+        {
+          "authorId": "2856607",
+          "name": "Steve Yadlowsky"
+        },
+        {
+          "authorId": "2520251",
+          "name": "T. Yun"
+        },
+        {
+          "authorId": "2743563",
+          "name": "Xiaohua Zhai"
+        },
+        {
+          "authorId": "1733143",
+          "name": "D. Sculley"
+        }
+      ]
+    },
+    {
+      "paperId": "98f187018efa3a983982ee1f8749f96df3efff34",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/98f187018efa3a983982ee1f8749f96df3efff34",
+      "title": "Valid Causal Inference with (Some) Invalid Instruments",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics",
+        "Economics"
+      ],
+      "authors": [
+        {
+          "authorId": "32745519",
+          "name": "Jason S. Hartford"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "153485411",
+          "name": "Dhanya Sridhar"
+        },
+        {
+          "authorId": "1388404060",
+          "name": "Kevin Leyton-Brown"
+        }
+      ]
+    },
+    {
+      "paperId": "a75c9e46d5d5d84fb5b089186af123a20e22d8e6",
+      "publicationVenue": {
+        "id": "75d7a8c1-d871-42db-a8e4-7cf5146fdb62",
+        "name": "Social Science Research Network",
+        "type": "journal",
+        "alternate_names": [
+          "SSRN, Social Science Research Network (SSRN) home page",
+          "SSRN Electronic Journal",
+          "Soc Sci Res Netw",
+          "SSRN",
+          "SSRN Home Page",
+          "SSRN Electron J",
+          "Social Science Electronic Publishing presents Social Science Research Network"
+        ],
+        "issn": "1556-5068",
+        "url": "http://www.ssrn.com/",
+        "alternate_urls": [
+          "www.ssrn.com/",
+          "https://fatcat.wiki/container/tol7woxlqjeg5bmzadeg6qrg3e",
+          "https://www.wikidata.org/wiki/Q53949192",
+          "www.ssrn.com/en",
+          "http://www.ssrn.com/en/",
+          "http://umlib.nl/ssrn",
+          "umlib.nl/ssrn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a75c9e46d5d5d84fb5b089186af123a20e22d8e6",
+      "title": "A Digital Field Experiment Reveals Large Effects of Friend-to-Friend Texting on Voter Turnout",
+      "venue": "Social Science Research Network",
+      "year": 2020,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Political Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50545056",
+          "name": "Aaron Schein"
+        },
+        {
+          "authorId": "70025184",
+          "name": "Keyon Vafa"
+        },
+        {
+          "authorId": "153485411",
+          "name": "Dhanya Sridhar"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "2050597",
+          "name": "Jeffrey M. Quinn"
+        },
+        {
+          "authorId": "2037183204",
+          "name": "James Moffet"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        },
+        {
+          "authorId": "145931139",
+          "name": "D. Green"
+        }
+      ]
+    },
+    {
+      "paperId": "09428af106c378616d7767a37c4f4070a2664e5a",
+      "publicationVenue": {
+        "id": "f9af8000-42f8-410d-a622-e8811e41660a",
+        "name": "Conference on Uncertainty in Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Uncertainty in Artificial Intelligence",
+          "UAI",
+          "Conf Uncertain Artif Intell",
+          "Uncertain Artif Intell"
+        ],
+        "url": "http://www.auai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/09428af106c378616d7767a37c4f4070a2664e5a",
+      "title": "Adapting Text Embeddings for Causal Inference",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2019,
+      "citationCount": 95,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "153485411",
+          "name": "Dhanya Sridhar"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        }
+      ]
+    },
+    {
+      "paperId": "298b72096b8a770b0cdb263dd53cf2463b8a1a1d",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/298b72096b8a770b0cdb263dd53cf2463b8a1a1d",
+      "title": "Using Text Embeddings for Causal Inference",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "153485411",
+          "name": "Dhanya Sridhar"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        }
+      ]
+    },
+    {
+      "paperId": "a278c07c8bd2921e59dd862cd91a0540dd340030",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a278c07c8bd2921e59dd862cd91a0540dd340030",
+      "title": "Adapting Neural Networks for the Estimation of Treatment Effects",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "citationCount": 339,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "133797256",
+          "name": "Claudia Shi"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        }
+      ]
+    },
+    {
+      "paperId": "f432e55bfb342435da59e5c3f896778f436117f2",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f432e55bfb342435da59e5c3f896778f436117f2",
+      "title": "Using Embeddings to Correct for Unobserved Confounding",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "citationCount": 56,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science",
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "2108734693",
+          "name": "Yixin Wang"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        }
+      ]
+    },
+    {
+      "paperId": "fdd1587f21e80863ef296b9b195c954ff059d9ce",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/fdd1587f21e80863ef296b9b195c954ff059d9ce",
+      "title": "PAC-BAYESIAN COMPRESSION APPROACH",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2118883171",
+          "name": "Wenda Zhou"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "9548350",
+          "name": "Morgane Austern"
+        }
+      ]
+    },
+    {
+      "paperId": "46d635cd88b452a300d51486af397aa8a9725eef",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/46d635cd88b452a300d51486af397aa8a9725eef",
+      "title": "Compressibility and Generalization in Large-Scale Deep Learning",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2118883171",
+          "name": "Wenda Zhou"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "9548350",
+          "name": "Morgane Austern"
+        },
+        {
+          "authorId": "1722180",
+          "name": "Ryan P. Adams"
+        },
+        {
+          "authorId": "2344616383",
+          "name": "Peter Orbanz"
+        }
+      ]
+    },
+    {
+      "paperId": "74fe26e60f04055af52a88a513a1d6229ade5781",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/74fe26e60f04055af52a88a513a1d6229ade5781",
+      "title": "Non-vacuous Generalization Bounds at the ImageNet Scale: a PAC-Bayesian Compression Approach",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "citationCount": 208,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "47862579",
+          "name": "Wenda Zhou"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "9548350",
+          "name": "Morgane Austern"
+        },
+        {
+          "authorId": "1722180",
+          "name": "Ryan P. Adams"
+        },
+        {
+          "authorId": "2344616383",
+          "name": "Peter Orbanz"
+        }
+      ]
+    },
+    {
+      "paperId": "850e3676a1288939ad299d69a5f02ac8d596cb91",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/850e3676a1288939ad299d69a5f02ac8d596cb91",
+      "title": "The Holdout Randomization Test: Principled and Easy Black Box Feature Selection",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "145305182",
+          "name": "Wesley Tansey"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "46702624",
+          "name": "H. Zhang"
+        },
+        {
+          "authorId": "40620158",
+          "name": "R. Rabad\u00e1n"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        }
+      ]
+    },
+    {
+      "paperId": "a6b62f412e74edb5daccfbb1c46db887ad9b5ea4",
+      "publicationVenue": {
+        "id": "2d136b11-c2b5-484b-b008-7f4a852fd61e",
+        "name": "International Conference on Artificial Intelligence and Statistics",
+        "type": "conference",
+        "alternate_names": [
+          "AISTATS",
+          "Int Conf Artif Intell Stat"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a6b62f412e74edb5daccfbb1c46db887ad9b5ea4",
+      "title": "Empirical Risk Minimization and Stochastic Gradient Descent for Relational Data",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2018,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "9548350",
+          "name": "Morgane Austern"
+        },
+        {
+          "authorId": "47862579",
+          "name": "Wenda Zhou"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        },
+        {
+          "authorId": "2344616383",
+          "name": "Peter Orbanz"
+        }
+      ]
+    },
+    {
+      "paperId": "f7725abd17be6bf40f286de54be6aeeee61e0bcf",
+      "publicationVenue": {
+        "id": "4d1db669-f64b-4a44-bd66-992fdc502ddd",
+        "name": "Journal of Computational And Graphical Statistics",
+        "type": "journal",
+        "alternate_names": [
+          "Journal of Computational and Graphical Statistics",
+          "J Comput Graph Stat"
+        ],
+        "issn": "1061-8600",
+        "url": "http://openurl.ingenta.com/content?genre=journal&issn=1061-8600",
+        "alternate_urls": [
+          "http://www.jstor.org/journals/10618600.html",
+          "https://www.jstor.org/journal/jcompgrapstat",
+          "http://www.tandfonline.com/loi/ucgs20",
+          "http://www.amstat.org/publications/jcgs.cfm"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f7725abd17be6bf40f286de54be6aeeee61e0bcf",
+      "title": "The Holdout Randomization Test for Feature Selection in Black Box Models",
+      "venue": "Journal of Computational And Graphical Statistics",
+      "year": 2018,
+      "citationCount": 36,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145305182",
+          "name": "Wesley Tansey"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "46702624",
+          "name": "H. Zhang"
+        },
+        {
+          "authorId": "40620158",
+          "name": "R. Rabad\u00e1n"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        }
+      ]
+    },
+    {
+      "paperId": "1e4621dffd50875d26f2d159df4a7536123615f7",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1e4621dffd50875d26f2d159df4a7536123615f7",
+      "title": "An estimator for the tail-index of graphex processes",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2555184",
+          "name": "Zacharie Naulet"
+        },
+        {
+          "authorId": "8125549",
+          "name": "Ekansh Sharma"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "39331522",
+          "name": "Daniel M. Roy"
+        }
+      ]
+    },
+    {
+      "paperId": "45c42f3597d205568867e3969ac1128ce8040471",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/45c42f3597d205568867e3969ac1128ce8040471",
+      "title": "Sparse) Exchangeable Random Graphs",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        }
+      ]
+    },
+    {
+      "paperId": "4ceaba4a7075cd6c17bd59a20a815a6b6dcff6bf",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4ceaba4a7075cd6c17bd59a20a815a6b6dcff6bf",
+      "title": "Exchangeable modelling of relational data: checking sparsity, train-test splitting, and sparse exchangeable Poisson matrix factorization",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "8125549",
+          "name": "Ekansh Sharma"
+        },
+        {
+          "authorId": "2555184",
+          "name": "Zacharie Naulet"
+        },
+        {
+          "authorId": "39331522",
+          "name": "Daniel M. Roy"
+        }
+      ]
+    },
+    {
+      "paperId": "7dc088d8268c3ca209d225b13dcda0cb366583f0",
+      "publicationVenue": {
+        "id": "9002e5d9-39cf-4799-9c5e-b560179c161f",
+        "name": "Annals of Probability",
+        "type": "journal",
+        "alternate_names": [
+          "Ann Probab"
+        ],
+        "issn": "0091-1798",
+        "url": "https://www.jstor.org/journal/annaprob",
+        "alternate_urls": [
+          "http://www.jstor.org/journals/00911798.html",
+          "http://www.imstat.org/aop/",
+          "https://projecteuclid.org/DPubS?handle=euclid.aop&service=UI&verb=Display&version=1.0"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7dc088d8268c3ca209d225b13dcda0cb366583f0",
+      "title": "Sampling perspectives on sparse exchangeable graphs",
+      "venue": "Annals of Probability",
+      "year": 2017,
+      "citationCount": 33,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1721812",
+          "name": "C. Borgs"
+        },
+        {
+          "authorId": "1695997",
+          "name": "J. Chayes"
+        },
+        {
+          "authorId": "2370241",
+          "name": "Henry Cohn"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        }
+      ]
+    },
+    {
+      "paperId": "ba5a47b35da878776e578ffb04c9767ce1a21df4",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ba5a47b35da878776e578ffb04c9767ce1a21df4",
+      "title": "Spekkens \u2019 toy model in all dimensions and its relationship with stabiliser quantum mechanics",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 10,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "102727068",
+          "name": "S. Mousavian"
+        },
+        {
+          "authorId": "1775192",
+          "name": "D. Gottesman"
+        },
+        {
+          "authorId": "2406710",
+          "name": "A. Chailloux"
+        },
+        {
+          "authorId": "2658063",
+          "name": "Iordanis Kerenidis"
+        },
+        {
+          "authorId": null,
+          "name": "Srijita Kundu"
+        },
+        {
+          "authorId": "2625463",
+          "name": "C. Ferrie"
+        },
+        {
+          "authorId": "12495843",
+          "name": "Andrew J. P. Garner"
+        },
+        {
+          "authorId": "2754694",
+          "name": "O. Dahlsten"
+        }
+      ]
+    },
+    {
+      "paperId": "aaec821911c9a3805ed214958ce71f4f2a29b6ce",
+      "publicationVenue": {
+        "id": "c1e97d21-f68c-48bf-b745-f822afd9cb58",
+        "name": "Annals of Statistics",
+        "type": "journal",
+        "alternate_names": [
+          "Ann Stat"
+        ],
+        "issn": "0090-5364",
+        "url": "https://www.jstor.org/journal/annalsstatistics",
+        "alternate_urls": [
+          "https://projecteuclid.org/DPubS?handle=euclid.aos&service=UI&verb=Display&version=1.0",
+          "http://www.jstor.org/journals/00905364.html",
+          "http://www.imstat.org/aos/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/aaec821911c9a3805ed214958ce71f4f2a29b6ce",
+      "title": "Sampling and Estimation for (Sparse) Exchangeable Graphs",
+      "venue": "Annals of Statistics",
+      "year": 2016,
+      "citationCount": 48,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "39331522",
+          "name": "Daniel M. Roy"
+        }
+      ]
+    },
+    {
+      "paperId": "d4c23081a4dc2c1940e47b5def2d27a08c023a87",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/d4c23081a4dc2c1940e47b5def2d27a08c023a87",
+      "title": "The Class of Random Graphs Arising from Exchangeable Random Measures",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "citationCount": 100,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "39331522",
+          "name": "Daniel M. Roy"
+        }
+      ]
+    },
+    {
+      "paperId": "08ef8db26cedbfe5eb13310fe3b6985b7250b24e",
+      "publicationVenue": {
+        "id": "6c24a0a0-b07d-4d7b-a19b-fd09a3ed453a",
+        "name": "Nature",
+        "type": "journal",
+        "issn": "0028-0836",
+        "url": "https://www.nature.com/",
+        "alternate_urls": [
+          "http://www.nature.com/nature/",
+          "https://www.nature.com/nature/",
+          "http://www.nature.com/nature/archive/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/08ef8db26cedbfe5eb13310fe3b6985b7250b24e",
+      "title": "Contextuality supplies the \u2018magic\u2019 for quantum computation",
+      "venue": "Nature",
+      "year": 2014,
+      "citationCount": 562,
+      "fieldsOfStudy": [
+        "Physics",
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "145363659",
+          "name": "M. Howard"
+        },
+        {
+          "authorId": "35174179",
+          "name": "Joel J. Wallman"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "46703490",
+          "name": "J. Emerson"
+        }
+      ]
+    },
+    {
+      "paperId": "a00d793613665216cfdc57d52305678e6e180bf1",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a00d793613665216cfdc57d52305678e6e180bf1",
+      "title": "The whole is greater than the sum of the parts: on the possibility of purely statistical interpretations of quantum theory",
+      "venue": "",
+      "year": 2013,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "46703490",
+          "name": "J. Emerson"
+        },
+        {
+          "authorId": "2082273719",
+          "name": "Dmitry Serbin"
+        },
+        {
+          "authorId": "121573444",
+          "name": "Chris Sutherland"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        }
+      ]
+    },
+    {
+      "paperId": "daf59c4b10cf8d5d7c52585a97728dc10a77e097",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/daf59c4b10cf8d5d7c52585a97728dc10a77e097",
+      "title": "Negative Quasi-Probability in the Context of Quantum Computation",
+      "venue": "",
+      "year": 2013,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        }
+      ]
+    },
+    {
+      "paperId": "e089995b1d5212a59f8865ffa2ceedefc2d31dbb",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e089995b1d5212a59f8865ffa2ceedefc2d31dbb",
+      "title": "The resource theory of stabilizer quantum computation",
+      "venue": "",
+      "year": 2013,
+      "citationCount": 379,
+      "fieldsOfStudy": [
+        "Physics",
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "102727068",
+          "name": "S. Mousavian"
+        },
+        {
+          "authorId": "1775192",
+          "name": "D. Gottesman"
+        },
+        {
+          "authorId": "46703490",
+          "name": "J. Emerson"
+        }
+      ]
+    },
+    {
+      "paperId": "0682a89b14a2dc996ecbfeab21be60bf3dae47b3",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/0682a89b14a2dc996ecbfeab21be60bf3dae47b3",
+      "title": "Magically, the negativity of the discrete Wigner function is useful",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "2625463",
+          "name": "C. Ferrie"
+        },
+        {
+          "authorId": "46703490",
+          "name": "J. Emerson"
+        }
+      ]
+    },
+    {
+      "paperId": "1658f29df687f7a6bccbc1676f5fa27802b9a45a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1658f29df687f7a6bccbc1676f5fa27802b9a45a",
+      "title": "Negative Quasi-Probability Representation is a Necessary Resource for Magic State Distillation",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "2625463",
+          "name": "C. Ferrie"
+        },
+        {
+          "authorId": "46703490",
+          "name": "J. Emerson"
+        }
+      ]
+    },
+    {
+      "paperId": "17775612ccb08f4c26a6ca33bda92a6579ddf706",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/17775612ccb08f4c26a6ca33bda92a6579ddf706",
+      "title": "Corrigendum: Negative quasi-probability as a resource for quantum computation",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 225,
+      "fieldsOfStudy": [
+        "Physics",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "2625463",
+          "name": "C. Ferrie"
+        },
+        {
+          "authorId": "144296103",
+          "name": "D. Gross"
+        },
+        {
+          "authorId": "46703490",
+          "name": "J. Emerson"
+        }
+      ]
+    },
+    {
+      "paperId": "712bb2d4d499f8f94d7be585257dee62e8d8c5be",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/712bb2d4d499f8f94d7be585257dee62e8d8c5be",
+      "title": "Negative quasi-probability as a resource for quantum computation",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 129,
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "2625463",
+          "name": "C. Ferrie"
+        },
+        {
+          "authorId": "144296103",
+          "name": "D. Gross"
+        },
+        {
+          "authorId": "46703490",
+          "name": "J. Emerson"
+        }
+      ]
+    },
+    {
+      "paperId": "c6029f2f8375fbe5d1d28a492d667e744c366a01",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c6029f2f8375fbe5d1d28a492d667e744c366a01",
+      "title": "Efficient simulation scheme for a class of quantum optics experiments with non-negative Wigner representation",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 102,
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "3253856",
+          "name": "N. Wiebe"
+        },
+        {
+          "authorId": "2625463",
+          "name": "C. Ferrie"
+        },
+        {
+          "authorId": "46703490",
+          "name": "J. Emerson"
+        }
+      ]
+    }
+  ]
+}

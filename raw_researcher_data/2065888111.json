@@ -1,0 +1,552 @@
+{
+  "authorId": "2065888111",
+  "name": "Ryan Leary",
+  "affiliations": [],
+  "paperCount": 12,
+  "citationCount": 1533,
+  "hIndex": 10,
+  "papers": [
+    {
+      "paperId": "e836ac99d874b812106922146d72d4e9f8c7f818",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e836ac99d874b812106922146d72d4e9f8c7f818",
+      "title": "Pre-trained RNN-T model",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2065888111",
+          "name": "Ryan Leary"
+        },
+        {
+          "authorId": "2145091507",
+          "name": "Marek Wawrzos"
+        },
+        {
+          "authorId": "2087028584",
+          "name": "Sam Davis"
+        }
+      ]
+    },
+    {
+      "paperId": "3f5f0899751f4222217e1b0c39c5ee8eac527f5c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3f5f0899751f4222217e1b0c39c5ee8eac527f5c",
+      "title": "NeMo: a toolkit for building AI applications using Neural Modules",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 280,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2787022",
+          "name": "Oleksii Kuchaiev"
+        },
+        {
+          "authorId": "2108997048",
+          "name": "Jason Li"
+        },
+        {
+          "authorId": "1389428973",
+          "name": "Huyen Nguyen"
+        },
+        {
+          "authorId": "29891116",
+          "name": "Oleksii Hrinchuk"
+        },
+        {
+          "authorId": "2065888111",
+          "name": "Ryan Leary"
+        },
+        {
+          "authorId": "31963005",
+          "name": "Boris Ginsburg"
+        },
+        {
+          "authorId": "1380253623",
+          "name": "Samuel Kriman"
+        },
+        {
+          "authorId": "49134105",
+          "name": "Stanislav Beliaev"
+        },
+        {
+          "authorId": "46200473",
+          "name": "Vitaly Lavrukhin"
+        },
+        {
+          "authorId": "2115139947",
+          "name": "Jack Cook"
+        },
+        {
+          "authorId": "2876279",
+          "name": "P. Castonguay"
+        },
+        {
+          "authorId": "143890811",
+          "name": "Mariya Popova"
+        },
+        {
+          "authorId": "1390669078",
+          "name": "Jocelyn Huang"
+        },
+        {
+          "authorId": "2110960104",
+          "name": "Jonathan M. Cohen"
+        }
+      ]
+    },
+    {
+      "paperId": "741f3c2fdaf45af5afff11ab9ef5a8b851984e5b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/741f3c2fdaf45af5afff11ab9ef5a8b851984e5b",
+      "title": "Training Deep Networks with Stochastic Gradient Normalized by Layerwise Adaptive Second Moments",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "31963005",
+          "name": "Boris Ginsburg"
+        },
+        {
+          "authorId": "2876279",
+          "name": "P. Castonguay"
+        },
+        {
+          "authorId": "29891116",
+          "name": "Oleksii Hrinchuk"
+        },
+        {
+          "authorId": "2787022",
+          "name": "Oleksii Kuchaiev"
+        },
+        {
+          "authorId": "46200473",
+          "name": "Vitaly Lavrukhin"
+        },
+        {
+          "authorId": "2065888111",
+          "name": "Ryan Leary"
+        },
+        {
+          "authorId": "2108997048",
+          "name": "Jason Li"
+        },
+        {
+          "authorId": "1389428973",
+          "name": "Huyen Nguyen"
+        },
+        {
+          "authorId": "2145957511",
+          "name": "Yang Zhang"
+        },
+        {
+          "authorId": "2110960104",
+          "name": "Jonathan M. Cohen"
+        }
+      ]
+    },
+    {
+      "paperId": "7b9aed71f9dbf143ceb759d2ee865936410122ef",
+      "publicationVenue": {
+        "id": "0d6f7fba-7092-46b3-8039-93458dba736b",
+        "name": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Acoust Speech Signal Process",
+          "IEEE Int Conf Acoust Speech Signal Process",
+          "ICASSP",
+          "International Conference on Acoustics, Speech, and Signal Processing"
+        ],
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000002"
+      },
+      "url": "https://www.semanticscholar.org/paper/7b9aed71f9dbf143ceb759d2ee865936410122ef",
+      "title": "Gpu-Accelerated Viterbi Exact Lattice Decoder for Batched Online and Offline Speech Recognition",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2019,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2052979277",
+          "name": "Hugo Braun"
+        },
+        {
+          "authorId": "2297795243",
+          "name": "Justin Luitjens"
+        },
+        {
+          "authorId": "2065888111",
+          "name": "Ryan Leary"
+        }
+      ]
+    },
+    {
+      "paperId": "a0070675b4a7f55777cc1fceb5463c368e236337",
+      "publicationVenue": {
+        "id": "0d6f7fba-7092-46b3-8039-93458dba736b",
+        "name": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Acoust Speech Signal Process",
+          "IEEE Int Conf Acoust Speech Signal Process",
+          "ICASSP",
+          "International Conference on Acoustics, Speech, and Signal Processing"
+        ],
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000002"
+      },
+      "url": "https://www.semanticscholar.org/paper/a0070675b4a7f55777cc1fceb5463c368e236337",
+      "title": "Quartznet: Deep Automatic Speech Recognition with 1D Time-Channel Separable Convolutions",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2019,
+      "citationCount": 284,
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1380253623",
+          "name": "Samuel Kriman"
+        },
+        {
+          "authorId": "49134105",
+          "name": "Stanislav Beliaev"
+        },
+        {
+          "authorId": "31963005",
+          "name": "Boris Ginsburg"
+        },
+        {
+          "authorId": "1390669078",
+          "name": "Jocelyn Huang"
+        },
+        {
+          "authorId": "2787022",
+          "name": "Oleksii Kuchaiev"
+        },
+        {
+          "authorId": "46200473",
+          "name": "Vitaly Lavrukhin"
+        },
+        {
+          "authorId": "2065888111",
+          "name": "Ryan Leary"
+        },
+        {
+          "authorId": "2108997048",
+          "name": "Jason Li"
+        },
+        {
+          "authorId": "2145957511",
+          "name": "Yang Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "d02bdac2e1abafcb0116862eb358da72a189fdfa",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/d02bdac2e1abafcb0116862eb358da72a189fdfa",
+      "title": "Stochastic Gradient Methods with Layer-wise Adaptive Moments for Training of Deep Networks",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 94,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "31963005",
+          "name": "Boris Ginsburg"
+        },
+        {
+          "authorId": "2876279",
+          "name": "P. Castonguay"
+        },
+        {
+          "authorId": "29891116",
+          "name": "Oleksii Hrinchuk"
+        },
+        {
+          "authorId": "2787022",
+          "name": "Oleksii Kuchaiev"
+        },
+        {
+          "authorId": "46200473",
+          "name": "Vitaly Lavrukhin"
+        },
+        {
+          "authorId": "2065888111",
+          "name": "Ryan Leary"
+        },
+        {
+          "authorId": "2108997048",
+          "name": "Jason Li"
+        },
+        {
+          "authorId": "1389428973",
+          "name": "Huyen Nguyen"
+        },
+        {
+          "authorId": "2110960104",
+          "name": "Jonathan M. Cohen"
+        }
+      ]
+    },
+    {
+      "paperId": "d85b2af4f163383bbfa62b73d5f0b179868cc9a8",
+      "publicationVenue": {
+        "id": "af90489e-312f-4514-bea2-bcb399cb8ece",
+        "name": "Interspeech",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Int Speech Commun Assoc",
+          "INTERSPEECH",
+          "Conference of the International Speech Communication Association"
+        ],
+        "issn": "2308-457X",
+        "url": "https://www.isca-speech.org/iscaweb/index.php/conferences/interspeech",
+        "alternate_urls": [
+          "http://www.isca-speech.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/d85b2af4f163383bbfa62b73d5f0b179868cc9a8",
+      "title": "Jasper: An End-to-End Convolutional Neural Acoustic Model",
+      "venue": "Interspeech",
+      "year": 2019,
+      "citationCount": 259,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2108997048",
+          "name": "Jason Li"
+        },
+        {
+          "authorId": "46200473",
+          "name": "Vitaly Lavrukhin"
+        },
+        {
+          "authorId": "31963005",
+          "name": "Boris Ginsburg"
+        },
+        {
+          "authorId": "2065888111",
+          "name": "Ryan Leary"
+        },
+        {
+          "authorId": "2787022",
+          "name": "Oleksii Kuchaiev"
+        },
+        {
+          "authorId": "2110960104",
+          "name": "Jonathan M. Cohen"
+        },
+        {
+          "authorId": "1389428973",
+          "name": "Huyen Nguyen"
+        },
+        {
+          "authorId": "51909876",
+          "name": "R. Gadde"
+        }
+      ]
+    },
+    {
+      "paperId": "c8ff66d1b15e2349c53a7c63ec740dc424787d74",
+      "publicationVenue": {
+        "id": "7ab85f1f-de6f-4932-a062-28c7d2f01204",
+        "name": "Biomedical Informatics Insights",
+        "alternate_names": [
+          "Biomed Informatics Insight"
+        ],
+        "issn": "1178-2226",
+        "url": "http://www.la-press.com/biomedical-informatics-insights-journal-j82",
+        "alternate_urls": [
+          "http://insights.sagepub.com/journal-biomedical-informatics-insights-j82",
+          "https://journals.sagepub.com/home/bii"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c8ff66d1b15e2349c53a7c63ec740dc424787d74",
+      "title": "Natural Language Processing of Social Media as Screening for Suicide Risk",
+      "venue": "Biomedical Informatics Insights",
+      "year": 2018,
+      "citationCount": 367,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "4366352",
+          "name": "Glen A. Coppersmith"
+        },
+        {
+          "authorId": "2065888111",
+          "name": "Ryan Leary"
+        },
+        {
+          "authorId": "4529178",
+          "name": "P. Crutchley"
+        },
+        {
+          "authorId": "36119407",
+          "name": "Alex B. Fine"
+        }
+      ]
+    },
+    {
+      "paperId": "5ed8dc3e7fe13421d36c057268692c249abd3bf8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/5ed8dc3e7fe13421d36c057268692c249abd3bf8",
+      "title": "Scalable mental health analysis in the clinical whitespace via natural language processing",
+      "venue": "2017 IEEE EMBS International Conference on Biomedical & Health Informatics (BHI)",
+      "year": 2017,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Psychology",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "4366352",
+          "name": "Glen A. Coppersmith"
+        },
+        {
+          "authorId": "2553683",
+          "name": "Casey Hilland"
+        },
+        {
+          "authorId": "1741208",
+          "name": "O. Frieder"
+        },
+        {
+          "authorId": "2065888111",
+          "name": "Ryan Leary"
+        }
+      ]
+    },
+    {
+      "paperId": "3bb21a197b29e2b25fe8befbe6ac5cec66d25413",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3bb21a197b29e2b25fe8befbe6ac5cec66d25413",
+      "title": "Exploratory Analysis of Social Media Prior to a Suicide Attempt",
+      "venue": "CLPsych@HLT-NAACL",
+      "year": 2016,
+      "citationCount": 139,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "4366352",
+          "name": "Glen A. Coppersmith"
+        },
+        {
+          "authorId": "2065695245",
+          "name": "Kim Ngo"
+        },
+        {
+          "authorId": "2065888111",
+          "name": "Ryan Leary"
+        },
+        {
+          "authorId": "2056991975",
+          "name": "A. Wood"
+        }
+      ]
+    },
+    {
+      "paperId": "faa324883b954543cefdb6a660ee7700d76f1ba4",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/faa324883b954543cefdb6a660ee7700d76f1ba4",
+      "title": "Quantifying Suicidal Ideation via Language Usage on Social Media",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 68,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "4366352",
+          "name": "Glen A. Coppersmith"
+        },
+        {
+          "authorId": "2065888111",
+          "name": "Ryan Leary"
+        },
+        {
+          "authorId": "70336190",
+          "name": "Eric Whyne"
+        }
+      ]
+    },
+    {
+      "paperId": "2924f085cee16c80448e9c48c4b0da138359a84b",
+      "publicationVenue": {
+        "id": "af90489e-312f-4514-bea2-bcb399cb8ece",
+        "name": "Interspeech",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Int Speech Commun Assoc",
+          "INTERSPEECH",
+          "Conference of the International Speech Communication Association"
+        ],
+        "issn": "2308-457X",
+        "url": "https://www.isca-speech.org/iscaweb/index.php/conferences/interspeech",
+        "alternate_urls": [
+          "http://www.isca-speech.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2924f085cee16c80448e9c48c4b0da138359a84b",
+      "title": "Random projections for large-scale speaker search",
+      "venue": "Interspeech",
+      "year": 2014,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2065888111",
+          "name": "Ryan Leary"
+        },
+        {
+          "authorId": "144941335",
+          "name": "Walter Andrews"
+        }
+      ]
+    }
+  ]
+}

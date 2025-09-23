@@ -1,0 +1,2545 @@
+{
+  "authorId": "3436466",
+  "name": "Palash Goyal",
+  "affiliations": [
+    "Amazon Alexa AI-NU"
+  ],
+  "paperCount": 61,
+  "citationCount": 3444,
+  "hIndex": 15,
+  "papers": [
+    {
+      "paperId": "0bce2795374e0070138e89c84917bcba9ce9dee3",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/0bce2795374e0070138e89c84917bcba9ce9dee3",
+      "title": "Data Advisor: Dynamic Data Curation for Safety Alignment of Large Language Models",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2024,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47939052",
+          "name": "Fei Wang"
+        },
+        {
+          "authorId": "51997673",
+          "name": "Ninareh Mehrabi"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "2139538015",
+          "name": "Rahul Gupta"
+        },
+        {
+          "authorId": "2256646555",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        }
+      ]
+    },
+    {
+      "paperId": "3a742d6d261cb9fabd6c0dd8bd016f4d6b12fb51",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/3a742d6d261cb9fabd6c0dd8bd016f4d6b12fb51",
+      "title": "Attribute Controlled Fine-tuning for Large Language Models: A Case Study on Detoxification",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2056088060",
+          "name": "Tao Meng"
+        },
+        {
+          "authorId": "51997673",
+          "name": "Ninareh Mehrabi"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "2266838160",
+          "name": "Anil Ramakrishna"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        },
+        {
+          "authorId": "2261362897",
+          "name": "Richard Zemel"
+        },
+        {
+          "authorId": "2256646555",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "2139538015",
+          "name": "Rahul Gupta"
+        },
+        {
+          "authorId": "102648923",
+          "name": "Charith Peris"
+        }
+      ]
+    },
+    {
+      "paperId": "8f22fb1ded314b43922d5cec71deab5fc8b63e06",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8f22fb1ded314b43922d5cec71deab5fc8b63e06",
+      "title": "MICo: Preventative Detoxification of Large Language Models through Inhibition Control",
+      "venue": "NAACL-HLT",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2313541602",
+          "name": "Roy Siegelmann"
+        },
+        {
+          "authorId": "51997673",
+          "name": "Ninareh Mehrabi"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "38774604",
+          "name": "Prasoon Goyal"
+        },
+        {
+          "authorId": "2308474837",
+          "name": "Lisa Bauer"
+        },
+        {
+          "authorId": "3475586",
+          "name": "J. Dhamala"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        },
+        {
+          "authorId": "2139538015",
+          "name": "Rahul Gupta"
+        },
+        {
+          "authorId": "2313538923",
+          "name": "Reza Ghanadan"
+        }
+      ]
+    },
+    {
+      "paperId": "e3c5a7fc28c28ef5d521afb1994c5970890a308b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e3c5a7fc28c28ef5d521afb1994c5970890a308b",
+      "title": "BELIEVE: Belief-Enhanced Instruction Generation and Augmentation for Zero-Shot Bias Mitigation",
+      "venue": "TRUSTNLP",
+      "year": 2024,
+      "citationCount": 2,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2308474837",
+          "name": "Lisa Bauer"
+        },
+        {
+          "authorId": "51997673",
+          "name": "Ninareh Mehrabi"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "2256646555",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        },
+        {
+          "authorId": "2139538015",
+          "name": "Rahul Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "19443d48399d4fe89a4b0a96917c50c6fd9c5af1",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/19443d48399d4fe89a4b0a96917c50c6fd9c5af1",
+      "title": "FLIRT: Feedback Loop In-context Red Teaming",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 54,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51997673",
+          "name": "Ninareh Mehrabi"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "34866641",
+          "name": "Christophe Dupuy"
+        },
+        {
+          "authorId": "2192042848",
+          "name": "Qian Hu"
+        },
+        {
+          "authorId": "2134759582",
+          "name": "Shalini Ghosh"
+        },
+        {
+          "authorId": "1804104",
+          "name": "R. Zemel"
+        },
+        {
+          "authorId": "2782886",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        },
+        {
+          "authorId": "2139538015",
+          "name": "Rahul Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "283c4236d56e970a20859b442e048c9f197d15c5",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/283c4236d56e970a20859b442e048c9f197d15c5",
+      "title": "Tokenization Matters: Navigating Data-Scarce Tokenization for Gender Inclusive Language Technologies",
+      "venue": "NAACL-HLT",
+      "year": 2023,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51494507",
+          "name": "Anaelia Ovalle"
+        },
+        {
+          "authorId": "51997673",
+          "name": "Ninareh Mehrabi"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "3475586",
+          "name": "J. Dhamala"
+        },
+        {
+          "authorId": "2256646555",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "2261362897",
+          "name": "Richard Zemel"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        },
+        {
+          "authorId": "1826312",
+          "name": "Yuval Pinter"
+        },
+        {
+          "authorId": "2139538015",
+          "name": "Rahul Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "6eaa00edbf2378b5456aa614a30ab45e0fff36ee",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/6eaa00edbf2378b5456aa614a30ab45e0fff36ee",
+      "title": "The steerability of large language models toward data-driven personas",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2265795411",
+          "name": "Junyi Li"
+        },
+        {
+          "authorId": "51997673",
+          "name": "Ninareh Mehrabi"
+        },
+        {
+          "authorId": "102648923",
+          "name": "Charith Peris"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "2256646555",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        },
+        {
+          "authorId": "2261362897",
+          "name": "Richard Zemel"
+        },
+        {
+          "authorId": "2261363543",
+          "name": "Rahul Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "9327dbbbe8218cb5780e66f21d09bb7571984e17",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/9327dbbbe8218cb5780e66f21d09bb7571984e17",
+      "title": "Faithful Model Evaluation for Model-Based Metrics",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2261280199",
+          "name": "Qian Hu"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "2261363539",
+          "name": "Rahul Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "a0b5d3025a1560274d392846d54d6c93ae518856",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a0b5d3025a1560274d392846d54d6c93ae518856",
+      "title": "Resolving Ambiguities in Text-to-Image Generative Models",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51997673",
+          "name": "Ninareh Mehrabi"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "3363380",
+          "name": "Apurv Verma"
+        },
+        {
+          "authorId": "3475586",
+          "name": "J. Dhamala"
+        },
+        {
+          "authorId": "40574366",
+          "name": "Varun Kumar"
+        },
+        {
+          "authorId": "2192042848",
+          "name": "Qian Hu"
+        },
+        {
+          "authorId": "2782886",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "1804104",
+          "name": "R. Zemel"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        },
+        {
+          "authorId": "2139538015",
+          "name": "Rahul Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "af4e2bc2da111f2a9da9846a6d19d43ce5e63729",
+      "publicationVenue": {
+        "id": "ea38228f-6ed3-4222-a3ce-d963d8cc9516",
+        "name": "Web Search and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "Web Search Data Min",
+          "WSDM"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=3158"
+      },
+      "url": "https://www.semanticscholar.org/paper/af4e2bc2da111f2a9da9846a6d19d43ce5e63729",
+      "title": "Incorporating Fairness in Large Scale NLU Systems",
+      "venue": "Web Search and Data Mining",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2139538015",
+          "name": "Rahul Gupta"
+        },
+        {
+          "authorId": "12620674",
+          "name": "Lisa Bauer"
+        },
+        {
+          "authorId": "2782886",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "3475586",
+          "name": "J. Dhamala"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "2192042848",
+          "name": "Qian Hu"
+        },
+        {
+          "authorId": "33882114",
+          "name": "Avni Khatri"
+        },
+        {
+          "authorId": "3262272",
+          "name": "Rohit Parimi"
+        },
+        {
+          "authorId": "102648923",
+          "name": "Charith Peris"
+        },
+        {
+          "authorId": "3363380",
+          "name": "Apurv Verma"
+        },
+        {
+          "authorId": "1804104",
+          "name": "R. Zemel"
+        },
+        {
+          "authorId": "2104644641",
+          "name": "Premkumar Natarajan"
+        }
+      ]
+    },
+    {
+      "paperId": "d42625e5d8c0ba481fc58be28849c3231250aa0b",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/d42625e5d8c0ba481fc58be28849c3231250aa0b",
+      "title": "JAB: Joint Adversarial Prompting and Belief Augmentation",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51997673",
+          "name": "Ninareh Mehrabi"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "2266838160",
+          "name": "Anil Ramakrishna"
+        },
+        {
+          "authorId": "3475586",
+          "name": "J. Dhamala"
+        },
+        {
+          "authorId": "2267024420",
+          "name": "Shalini Ghosh"
+        },
+        {
+          "authorId": "2261362897",
+          "name": "Richard Zemel"
+        },
+        {
+          "authorId": "2256646555",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        },
+        {
+          "authorId": "2139538015",
+          "name": "Rahul Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "e46bc16bf3dc13aa49b93f25b3e0462ac869cfe4",
+      "publicationVenue": {
+        "id": "cdc83875-a82d-445c-b097-cbe91afe99a8",
+        "name": "Conference on Fairness, Accountability and Transparency",
+        "type": "conference",
+        "alternate_names": [
+          "FAccT",
+          "Conf Fairness Account Transpar"
+        ],
+        "url": "https://facctconference.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e46bc16bf3dc13aa49b93f25b3e0462ac869cfe4",
+      "title": "\u201cI\u2019m fully who I am\u201d: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation",
+      "venue": "Conference on Fairness, Accountability and Transparency",
+      "year": 2023,
+      "citationCount": 53,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51494507",
+          "name": "Anaelia Ovalle"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "3475586",
+          "name": "J. Dhamala"
+        },
+        {
+          "authorId": "20742874",
+          "name": "Zachary Jaggers"
+        },
+        {
+          "authorId": "2110821190",
+          "name": "Kai Wei Chang"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        },
+        {
+          "authorId": "1804104",
+          "name": "R. Zemel"
+        },
+        {
+          "authorId": "2139538015",
+          "name": "Rahul Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "f63576c582299a56844ec99a30d9a4cea9c28d03",
+      "publicationVenue": {
+        "id": "6a8c0041-d0b7-4e32-b52c-33adef005c7e",
+        "name": "Frontiers in Artificial Intelligence",
+        "alternate_names": [
+          "Front Artif Intell"
+        ],
+        "issn": "2624-8212",
+        "url": "https://www.frontiersin.org/journals/artificial-intelligence#"
+      },
+      "url": "https://www.semanticscholar.org/paper/f63576c582299a56844ec99a30d9a4cea9c28d03",
+      "title": "Editorial: Deep learning with limited labeled data for vision, audio, and text",
+      "venue": "Frontiers in Artificial Intelligence",
+      "year": 2023,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "4662918",
+          "name": "M. Orescanin"
+        },
+        {
+          "authorId": "2596816",
+          "name": "L. Smith"
+        },
+        {
+          "authorId": "144756035",
+          "name": "Saurabh Sahu"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "3408299",
+          "name": "Sujit Rokka Chhetri"
+        }
+      ]
+    },
+    {
+      "paperId": "6c77e4cf3ae78913d5bcf3faf2101bfe28bd19b3",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6c77e4cf3ae78913d5bcf3faf2101bfe28bd19b3",
+      "title": "Is the Elephant Flying? Resolving Ambiguities in Text-to-Image Generative Models",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51997673",
+          "name": "Ninareh Mehrabi"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "3363380",
+          "name": "Apurv Verma"
+        },
+        {
+          "authorId": "3475586",
+          "name": "J. Dhamala"
+        },
+        {
+          "authorId": "2256788347",
+          "name": "Varun Kumar"
+        },
+        {
+          "authorId": "2192042848",
+          "name": "Qian Hu"
+        },
+        {
+          "authorId": "2256646555",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "1804104",
+          "name": "R. Zemel"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        },
+        {
+          "authorId": "2139538015",
+          "name": "Rahul Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "0c7559b7d5573cfb6922aa0d86cf6a3602a14506",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/0c7559b7d5573cfb6922aa0d86cf6a3602a14506",
+      "title": "Can't Fool Me: Adversarially Robust Transformer for Video Understanding",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2064181287",
+          "name": "D. Choudhary"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "144756035",
+          "name": "Saurabh Sahu"
+        }
+      ]
+    },
+    {
+      "paperId": "3e5d0463ca67bddcbdc6384d856ecf06e5508f05",
+      "publicationVenue": {
+        "id": "25ae4109-9fc4-4bcf-9726-d3f3cbd40754",
+        "name": "Journal of Engineering Research",
+        "type": "journal",
+        "alternate_names": [
+          "The Journal of Engineering Research",
+          "J Eng Res",
+          "Journal of engineering researches",
+          "J eng res"
+        ],
+        "issn": "2356-9441",
+        "alternate_issns": [
+          "2687-3192",
+          "2735-4873",
+          "1726-6009",
+          "2764-1317"
+        ],
+        "url": "https://journals.squ.edu.om/index.php/tjer/index"
+      },
+      "url": "https://www.semanticscholar.org/paper/3e5d0463ca67bddcbdc6384d856ecf06e5508f05",
+      "title": "CFD Simulation of Helical Shell and Tube Heat Exchanger Using Optimization Techniques",
+      "venue": "Journal of Engineering Research",
+      "year": 2021,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "100767922",
+          "name": "V. Parihar"
+        },
+        {
+          "authorId": "2069692761",
+          "name": "Shrikant Pandey"
+        },
+        {
+          "authorId": "34569051",
+          "name": "R. K. Malviya"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        }
+      ]
+    },
+    {
+      "paperId": "5ae5470cede900dbb1f616cf680a675a3293fe52",
+      "publicationVenue": {
+        "id": "0d6f7fba-7092-46b3-8039-93458dba736b",
+        "name": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Acoust Speech Signal Process",
+          "IEEE Int Conf Acoust Speech Signal Process",
+          "ICASSP",
+          "International Conference on Acoustics, Speech, and Signal Processing"
+        ],
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000002"
+      },
+      "url": "https://www.semanticscholar.org/paper/5ae5470cede900dbb1f616cf680a675a3293fe52",
+      "title": "Leveraging Local Temporal Information for Multimodal Scene Classification",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144756035",
+          "name": "Saurabh Sahu"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        }
+      ]
+    },
+    {
+      "paperId": "95c85ddd9c153626537a0c0206e725328559d4a6",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/95c85ddd9c153626537a0c0206e725328559d4a6",
+      "title": "Using Machine Learning, Image Processing and Neural Networks to Sense Bullying in K-12 Schools: Enhanced",
+      "venue": "Data Engineering for Smart Systems",
+      "year": 2021,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2014821209",
+          "name": "L. Kumar"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "2140932313",
+          "name": "Karan Malik"
+        },
+        {
+          "authorId": "145604445",
+          "name": "Rishav Kumar"
+        },
+        {
+          "authorId": "2140516988",
+          "name": "Dhruv Shrivastav"
+        }
+      ]
+    },
+    {
+      "paperId": "ba2f63bb520b7f08e8403214c844b7222617234e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/ba2f63bb520b7f08e8403214c844b7222617234e",
+      "title": "Enhancing Transformer for Video Understanding Using Gated Multi-Level Attention and Temporal Adversarial Training",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144756035",
+          "name": "Saurabh Sahu"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        }
+      ]
+    },
+    {
+      "paperId": "d46e4d5b960d81da6435b25b96ce5027364a3799",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d46e4d5b960d81da6435b25b96ce5027364a3799",
+      "title": "Creativity in Machines: Music Composition Using Artificial Intelligence that Passes Lovelace 2.0 Test",
+      "venue": "Algorithms for Intelligent Systems",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2133103405",
+          "name": "Shagaf Hasnain"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "145604445",
+          "name": "Rishav Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "005631eb6570f18def063d553ed31e4cfe4fe890",
+      "publicationVenue": {
+        "id": "075968bb-1038-4b36-afac-363c024621e1",
+        "name": "Asian journal of convergence in technology",
+        "type": "journal",
+        "alternate_names": [
+          "Asian j converg technol"
+        ],
+        "issn": "2350-1146",
+        "url": "http://www.asianssr.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/005631eb6570f18def063d553ed31e4cfe4fe890",
+      "title": "Using Machine Learning, Image Processing & Neural Networks to Sense Bullying in K-12 Schools",
+      "venue": "Asian journal of convergence in technology",
+      "year": 2020,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2014821209",
+          "name": "L. Kumar"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "2074264071",
+          "name": "Karan Malik"
+        },
+        {
+          "authorId": "145604445",
+          "name": "Rishav Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "28bdf2d338d63035f361c16d3852c79570f6cf03",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/28bdf2d338d63035f361c16d3852c79570f6cf03",
+      "title": "Graph embedding algorithms for attributed and temporal graphs",
+      "venue": "SIGWEB Newsl.",
+      "year": 2020,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        }
+      ]
+    },
+    {
+      "paperId": "348d4c60ca892ed1f04ebec9fa8538612082298e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/348d4c60ca892ed1f04ebec9fa8538612082298e",
+      "title": "Cross-modal Learning for Multi-modal Video Categorization",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "144756035",
+          "name": "Saurabh Sahu"
+        },
+        {
+          "authorId": null,
+          "name": "Shalini Ghosh"
+        },
+        {
+          "authorId": "2118656748",
+          "name": "Chul Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "44f397b2365201bf82cc280232e04c12054d9720",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/44f397b2365201bf82cc280232e04c12054d9720",
+      "title": "Exploiting Temporal Coherence for Multi-modal Video Categorization",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "144756035",
+          "name": "Saurabh Sahu"
+        },
+        {
+          "authorId": null,
+          "name": "Shalini Ghosh"
+        },
+        {
+          "authorId": "2118656748",
+          "name": "Chul Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "4d0146679527de1208d801d253ab30f9de92bd39",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4d0146679527de1208d801d253ab30f9de92bd39",
+      "title": "Modeling Dialogues with Hashcode Representations: A Nonparametric Approach",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2020,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144529280",
+          "name": "S. Garg"
+        },
+        {
+          "authorId": "2109771",
+          "name": "I. Rish"
+        },
+        {
+          "authorId": "40193335",
+          "name": "G. Cecchi"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "3092863",
+          "name": "Shuyang Gao"
+        },
+        {
+          "authorId": "3022427",
+          "name": "Sarik Ghazarian"
+        },
+        {
+          "authorId": "1719898",
+          "name": "G. V. Steeg"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        }
+      ]
+    },
+    {
+      "paperId": "5667e7b93d8103c52732f8631850f521e8c74289",
+      "publicationVenue": {
+        "id": "075968bb-1038-4b36-afac-363c024621e1",
+        "name": "Asian journal of convergence in technology",
+        "type": "journal",
+        "alternate_names": [
+          "Asian j converg technol"
+        ],
+        "issn": "2350-1146",
+        "url": "http://www.asianssr.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5667e7b93d8103c52732f8631850f521e8c74289",
+      "title": "Creativity in machines: Music composition using artificial intelligence",
+      "venue": "Asian journal of convergence in technology",
+      "year": 2020,
+      "citationCount": 4,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2014821209",
+          "name": "L. Kumar"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "145604445",
+          "name": "Rishav Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "71d117718ebfd5dcde01ed844debc9d33d03e8c9",
+      "publicationVenue": {
+        "id": "f2c85de5-7cfa-4b92-8714-a0fbdcf0274e",
+        "name": "ACM Multimedia",
+        "type": "conference",
+        "alternate_names": [
+          "MM"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/71d117718ebfd5dcde01ed844debc9d33d03e8c9",
+      "title": "Cross-modal Non-linear Guided Attention and Temporal Coherence in Multi-modal Deep Video Models",
+      "venue": "ACM Multimedia",
+      "year": 2020,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144756035",
+          "name": "Saurabh Sahu"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": null,
+          "name": "Shalini Ghosh"
+        },
+        {
+          "authorId": "2118656748",
+          "name": "Chul Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "f4b9d3adb6a265992c1047d9683a00f91f082fc8",
+      "publicationVenue": {
+        "id": "67f7f831-711a-43c8-8785-1e09005359b5",
+        "name": "International Joint Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Jt Conf Artif Intell",
+          "IJCAI"
+        ],
+        "url": "http://www.ijcai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f4b9d3adb6a265992c1047d9683a00f91f082fc8",
+      "title": "Hierarchical Class-Based Curriculum Loss",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2020,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": null,
+          "name": "Shalini Ghosh"
+        }
+      ]
+    },
+    {
+      "paperId": "021cbcd59c0438ac8a50c511be7634b0c00a1b89",
+      "publicationVenue": {
+        "id": "c22e7c36-3bfa-43e1-bb7b-edccdea2a780",
+        "name": "Journal of machine learning research",
+        "type": "journal",
+        "alternate_names": [
+          "Journal of Machine Learning Research",
+          "J mach learn res",
+          "J Mach Learn Res"
+        ],
+        "issn": "1532-4435",
+        "alternate_issns": [
+          "1533-7928"
+        ],
+        "url": "http://www.ai.mit.edu/projects/jmlr/",
+        "alternate_urls": [
+          "http://jmlr.csail.mit.edu/",
+          "http://www.jmlr.org/",
+          "http://portal.acm.org/affiliated/jmlr"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/021cbcd59c0438ac8a50c511be7634b0c00a1b89",
+      "title": "Pykg2vec: A Python Library for Knowledge Graph Embedding",
+      "venue": "Journal of machine learning research",
+      "year": 2019,
+      "citationCount": 32,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "150311558",
+          "name": "S. Yu"
+        },
+        {
+          "authorId": "3408299",
+          "name": "Sujit Rokka Chhetri"
+        },
+        {
+          "authorId": "145073400",
+          "name": "A. Canedo"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "1755024",
+          "name": "M. A. Faruque"
+        }
+      ]
+    },
+    {
+      "paperId": "4199089b239c6d38e5051208210cb66454bdbba0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4199089b239c6d38e5051208210cb66454bdbba0",
+      "title": "Deep Learning for Natural Language Processing",
+      "venue": "Apress",
+      "year": 2019,
+      "citationCount": 459,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "35244579",
+          "name": "Sumit Pandey"
+        },
+        {
+          "authorId": "1911631",
+          "name": "Karan Jain"
+        }
+      ]
+    },
+    {
+      "paperId": "578ff877dce377afcc3d17f6696fb696ec9da133",
+      "publicationVenue": {
+        "id": "23e55051-44e6-467b-ac61-2eca36c7713c",
+        "name": "Journal of Computer Technology & Applications",
+        "type": "journal",
+        "alternate_names": [
+          "J Comput Technol  Appl"
+        ],
+        "issn": "2229-6964",
+        "url": "http://stmjournals.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/578ff877dce377afcc3d17f6696fb696ec9da133",
+      "title": "Smart QR Based Parking System",
+      "venue": "Journal of Computer Technology & Applications",
+      "year": 2019,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48326296",
+          "name": "S. Jain"
+        },
+        {
+          "authorId": "9140138",
+          "name": "Shivam Mishra"
+        },
+        {
+          "authorId": "1583985202",
+          "name": "Madhur Bihani"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        }
+      ]
+    },
+    {
+      "paperId": "7dc2287e058d143767dde3da11584f79c8e044e8",
+      "publicationVenue": {
+        "id": "ec4efbef-0722-428c-bdfa-603ece1d0829",
+        "name": "ACM Conference on Hypertext & Social Media",
+        "type": "conference",
+        "alternate_names": [
+          "HT",
+          "ACM Conf Hypertext  Soc Media"
+        ],
+        "url": "http://www.acm.org/sigweb/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7dc2287e058d143767dde3da11584f79c8e044e8",
+      "title": "Tracking Temporal Evolution of Graphs using Non-Timestamped Data",
+      "venue": "ACM Conference on Hypertext & Social Media",
+      "year": 2019,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3408299",
+          "name": "Sujit Rokka Chhetri"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "145073400",
+          "name": "A. Canedo"
+        }
+      ]
+    },
+    {
+      "paperId": "83a2e55be9525d3e1d1ec082006b6806ce4c4684",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/83a2e55be9525d3e1d1ec082006b6806ce4c4684",
+      "title": "Benchmarks for Graph Embedding Evaluation",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "144942207",
+          "name": "Di Huang"
+        },
+        {
+          "authorId": "2054713273",
+          "name": "Ankita Goswami"
+        },
+        {
+          "authorId": "3408299",
+          "name": "Sujit Rokka Chhetri"
+        },
+        {
+          "authorId": "145073400",
+          "name": "A. Canedo"
+        },
+        {
+          "authorId": "48898287",
+          "name": "Emilio Ferrara"
+        }
+      ]
+    },
+    {
+      "paperId": "97b8c89f8fb2ffc484eeabe5de92ee11a02b7ec0",
+      "publicationVenue": {
+        "id": "1ee52b4c-8c57-4d60-aead-d9ef4255f1e9",
+        "name": "IEEE Transactions on Automation Science and Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Autom Sci Eng"
+        ],
+        "issn": "1545-5955",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=8856"
+      },
+      "url": "https://www.semanticscholar.org/paper/97b8c89f8fb2ffc484eeabe5de92ee11a02b7ec0",
+      "title": "ArduCode: Predictive Framework for Automation Engineering",
+      "venue": "IEEE Transactions on Automation Science and Engineering",
+      "year": 2019,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "145073400",
+          "name": "A. Canedo"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "144942207",
+          "name": "Di Huang"
+        },
+        {
+          "authorId": "2070538945",
+          "name": "Amit Pandey"
+        }
+      ]
+    },
+    {
+      "paperId": "a2938dc814721323a680923daa7b665f5992668c",
+      "publicationVenue": {
+        "id": "255a371e-2a0c-42d1-b4e7-c3cf3e21c89a",
+        "name": "International Conference on Advances in Social Networks Analysis and Mining",
+        "type": "conference",
+        "alternate_names": [
+          "Advances in Social Networks Analysis and Mining",
+          "Int Conf Adv Soc Netw Anal Min",
+          "ASONAM",
+          "Adv Soc Netw Anal Min"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=239"
+      },
+      "url": "https://www.semanticscholar.org/paper/a2938dc814721323a680923daa7b665f5992668c",
+      "title": "Graph Representation Ensemble Learning",
+      "venue": "International Conference on Advances in Social Networks Analysis and Mining",
+      "year": 2019,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "144942207",
+          "name": "Di Huang"
+        },
+        {
+          "authorId": "3408299",
+          "name": "Sujit Rokka Chhetri"
+        },
+        {
+          "authorId": "145073400",
+          "name": "A. Canedo"
+        },
+        {
+          "authorId": "49405288",
+          "name": "J. Shree"
+        },
+        {
+          "authorId": "50443159",
+          "name": "Evan Patterson"
+        }
+      ]
+    },
+    {
+      "paperId": "0eabebe724178acb412a9135388472623c08ea0f",
+      "publicationVenue": {
+        "id": "7dc964d5-49e6-4c37-b1c4-a7f0de1fa425",
+        "name": "International Conference on Web and Social Media",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Weblogs Soc Media",
+          "International Conference on Weblogs and Social Media",
+          "Int Conf Web Soc Media",
+          "ICWSM"
+        ],
+        "url": "http://www.aaai.org/Library/ICWSM/icwsm-library.php"
+      },
+      "url": "https://www.semanticscholar.org/paper/0eabebe724178acb412a9135388472623c08ea0f",
+      "title": "Modeling Evolution of Topics in Large-Scale Temporal Text Corpora",
+      "venue": "International Conference on Web and Social Media",
+      "year": 2018,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2563487",
+          "name": "Elaheh Momeni"
+        },
+        {
+          "authorId": "2476111",
+          "name": "S. Karunasekera"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "1782658",
+          "name": "Kristina Lerman"
+        }
+      ]
+    },
+    {
+      "paperId": "19df0532e8618db65dd0b83a08ba971f9e378ba5",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/19df0532e8618db65dd0b83a08ba971f9e378ba5",
+      "title": "Future Automation Engineering using Structural Graph Convolutional Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145121533",
+          "name": "Jiang Wan"
+        },
+        {
+          "authorId": "2923649",
+          "name": "Blake S. Pollard"
+        },
+        {
+          "authorId": "3408299",
+          "name": "Sujit Rokka Chhetri"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "1755024",
+          "name": "M. A. Faruque"
+        },
+        {
+          "authorId": "145073400",
+          "name": "A. Canedo"
+        }
+      ]
+    },
+    {
+      "paperId": "1d49c0dd13911f44418d46ec5fac128d6c4bbf59",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/1d49c0dd13911f44418d46ec5fac128d6c4bbf59",
+      "title": "DynGEM: Deep Embedding Method for Dynamic Graphs",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 359,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "2935753",
+          "name": "Nitin Kamra"
+        },
+        {
+          "authorId": "34593690",
+          "name": "Xinran He"
+        },
+        {
+          "authorId": "2157169716",
+          "name": "Yan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "2459f759b6d8e4292b993e87409eaa32bb2b50eb",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/2459f759b6d8e4292b993e87409eaa32bb2b50eb",
+      "title": "Discovering Signals from Web Sources to Predict Cyber Attacks",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "144022002",
+          "name": "K. T. Hossain"
+        },
+        {
+          "authorId": "144003355",
+          "name": "A. Deb"
+        },
+        {
+          "authorId": "3362066",
+          "name": "N. Tavabi"
+        },
+        {
+          "authorId": "39248319",
+          "name": "Nathan Bartley"
+        },
+        {
+          "authorId": "2919118",
+          "name": "A. Abeliuk"
+        },
+        {
+          "authorId": "48898287",
+          "name": "Emilio Ferrara"
+        },
+        {
+          "authorId": "1782658",
+          "name": "Kristina Lerman"
+        }
+      ]
+    },
+    {
+      "paperId": "28b25b0d3c9fee33ad06ce112652221c8ce0a468",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/28b25b0d3c9fee33ad06ce112652221c8ce0a468",
+      "title": "Developing a Chatbot",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "35244579",
+          "name": "Sumit Pandey"
+        },
+        {
+          "authorId": "1911631",
+          "name": "Karan Jain"
+        }
+      ]
+    },
+    {
+      "paperId": "3991ab38023340cbfe71ea2621f28d364917ad30",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3991ab38023340cbfe71ea2621f28d364917ad30",
+      "title": "Dialogue Modeling Via Hash Functions",
+      "venue": "LaCATODA@IJCAI",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "144529280",
+          "name": "S. Garg"
+        },
+        {
+          "authorId": "40193335",
+          "name": "G. Cecchi"
+        },
+        {
+          "authorId": "2109771",
+          "name": "I. Rish"
+        },
+        {
+          "authorId": "3092863",
+          "name": "Shuyang Gao"
+        },
+        {
+          "authorId": "1719898",
+          "name": "G. V. Steeg"
+        },
+        {
+          "authorId": "3022427",
+          "name": "Sarik Ghazarian"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        }
+      ]
+    },
+    {
+      "paperId": "492deabdb3d4a43695533687637c668827fd47c1",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/492deabdb3d4a43695533687637c668827fd47c1",
+      "title": "DynamicGEM: A Library for Dynamic Graph Embedding Methods",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "3408299",
+          "name": "Sujit Rokka Chhetri"
+        },
+        {
+          "authorId": "51997673",
+          "name": "Ninareh Mehrabi"
+        },
+        {
+          "authorId": "48898287",
+          "name": "Emilio Ferrara"
+        },
+        {
+          "authorId": "145073400",
+          "name": "A. Canedo"
+        }
+      ]
+    },
+    {
+      "paperId": "58b1ccd3665e6d2a05149fc3178eb9e35837e180",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/58b1ccd3665e6d2a05149fc3178eb9e35837e180",
+      "title": "Introduction to Natural Language Processing and Deep Learning",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "35244579",
+          "name": "Sumit Pandey"
+        },
+        {
+          "authorId": "1911631",
+          "name": "Karan Jain"
+        }
+      ]
+    },
+    {
+      "paperId": "84ca39ca3416e0ab68a692c9f204aac80c84c89f",
+      "publicationVenue": {
+        "id": "ec4efbef-0722-428c-bdfa-603ece1d0829",
+        "name": "ACM Conference on Hypertext & Social Media",
+        "type": "conference",
+        "alternate_names": [
+          "HT",
+          "ACM Conf Hypertext  Soc Media"
+        ],
+        "url": "http://www.acm.org/sigweb/"
+      },
+      "url": "https://www.semanticscholar.org/paper/84ca39ca3416e0ab68a692c9f204aac80c84c89f",
+      "title": "Recommending Teammates with Deep Neural Networks",
+      "venue": "ACM Conference on Hypertext & Social Media",
+      "year": 2018,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "34701171",
+          "name": "Anna Sapienza"
+        },
+        {
+          "authorId": "48898287",
+          "name": "Emilio Ferrara"
+        }
+      ]
+    },
+    {
+      "paperId": "89acf5e9ffc9aeea0d7a4c385ed7a3c77513eb81",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/89acf5e9ffc9aeea0d7a4c385ed7a3c77513eb81",
+      "title": "Unfolding Recurrent Neural Networks",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "35244579",
+          "name": "Sumit Pandey"
+        },
+        {
+          "authorId": "1911631",
+          "name": "Karan Jain"
+        }
+      ]
+    },
+    {
+      "paperId": "8d8eb55dfaab1241a9a6e0612e36d5176b664d0f",
+      "publicationVenue": {
+        "id": "1236e136-01b7-42d5-8c4a-593153a3ab37",
+        "name": "Journal of Open Source Software",
+        "type": "journal",
+        "alternate_names": [
+          "The Journal of Open Source Software",
+          "J Open Source Softw"
+        ],
+        "issn": "2475-9066",
+        "url": "https://joss.theoj.org/",
+        "alternate_urls": [
+          "https://joss.theoj.org/about"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/8d8eb55dfaab1241a9a6e0612e36d5176b664d0f",
+      "title": "GEM: A Python package for graph embedding methods",
+      "venue": "Journal of Open Source Software",
+      "year": 2018,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "48898287",
+          "name": "Emilio Ferrara"
+        }
+      ]
+    },
+    {
+      "paperId": "9e69e119561df39e43fbf15b2362aa554d9ce302",
+      "publicationVenue": {
+        "id": "28df6cf4-b335-41eb-acc6-50eb3c965e5a",
+        "name": "IEEE Transactions on Computational Social Systems",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Comput Soc Syst"
+        ],
+        "issn": "2329-924X",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=6570650",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6570650"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9e69e119561df39e43fbf15b2362aa554d9ce302",
+      "title": "Capturing Edge Attributes via Network Embedding",
+      "venue": "IEEE Transactions on Computational Social Systems",
+      "year": 2018,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "2378569",
+          "name": "Homa Hosseinmardi"
+        },
+        {
+          "authorId": "48898287",
+          "name": "Emilio Ferrara"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        }
+      ]
+    },
+    {
+      "paperId": "b676647a3e7fc736c14d3b4fb469373e5552d759",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b676647a3e7fc736c14d3b4fb469373e5552d759",
+      "title": "Infogain-Driven Dialogue Modeling with Hashcode Representations",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "144529280",
+          "name": "S. Garg"
+        },
+        {
+          "authorId": "2109771",
+          "name": "I. Rish"
+        },
+        {
+          "authorId": "40193335",
+          "name": "G. Cecchi"
+        },
+        {
+          "authorId": "3022427",
+          "name": "Sarik Ghazarian"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "3092863",
+          "name": "Shuyang Gao"
+        },
+        {
+          "authorId": "1719898",
+          "name": "G. V. Steeg"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        }
+      ]
+    },
+    {
+      "paperId": "c38c0b99966e598c46a5229b4835876b4d889664",
+      "publicationVenue": {
+        "id": "165fa1b5-e07f-4b6e-9203-04493f6a7c5c",
+        "name": "Frontiers in Big Data",
+        "alternate_names": [
+          "Front Big Data"
+        ],
+        "issn": "2624-909X",
+        "url": "https://www.frontiersin.org/journals/big-data"
+      },
+      "url": "https://www.semanticscholar.org/paper/c38c0b99966e598c46a5229b4835876b4d889664",
+      "title": "Deep Neural Networks for Optimal Team Composition",
+      "venue": "Frontiers in Big Data",
+      "year": 2018,
+      "citationCount": 47,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine",
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "34701171",
+          "name": "Anna Sapienza"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "48898287",
+          "name": "Emilio Ferrara"
+        }
+      ]
+    },
+    {
+      "paperId": "cf6283e719e84d7655451c1bece95d51679bc36e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/cf6283e719e84d7655451c1bece95d51679bc36e",
+      "title": "Word Vector Representations",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "35244579",
+          "name": "Sumit Pandey"
+        },
+        {
+          "authorId": "1911631",
+          "name": "Karan Jain"
+        }
+      ]
+    },
+    {
+      "paperId": "e4853de6d86315073a9e9e5d8957500cd24402c1",
+      "publicationVenue": {
+        "id": "ec4efbef-0722-428c-bdfa-603ece1d0829",
+        "name": "ACM Conference on Hypertext & Social Media",
+        "type": "conference",
+        "alternate_names": [
+          "HT",
+          "ACM Conf Hypertext  Soc Media"
+        ],
+        "url": "http://www.acm.org/sigweb/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e4853de6d86315073a9e9e5d8957500cd24402c1",
+      "title": "Embedding Networks with Edge Attributes",
+      "venue": "ACM Conference on Hypertext & Social Media",
+      "year": 2018,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "2378569",
+          "name": "Homa Hosseinmardi"
+        },
+        {
+          "authorId": "48898287",
+          "name": "Emilio Ferrara"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        }
+      ]
+    },
+    {
+      "paperId": "e65594a323f979d3366b108fa30bddde5a9f8d90",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e65594a323f979d3366b108fa30bddde5a9f8d90",
+      "title": "Modeling Psychotherapy Dialogues with Kernelized Hashcode Representations: A Nonparametric Information-Theoretic Approach.",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "144529280",
+          "name": "S. Garg"
+        },
+        {
+          "authorId": "2109771",
+          "name": "I. Rish"
+        },
+        {
+          "authorId": "40193335",
+          "name": "G. Cecchi"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "3022427",
+          "name": "Sarik Ghazarian"
+        },
+        {
+          "authorId": "3092863",
+          "name": "Shuyang Gao"
+        },
+        {
+          "authorId": "1719898",
+          "name": "G. V. Steeg"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        }
+      ]
+    },
+    {
+      "paperId": "e6d823f91ba53eadb38c46de3c5f53a61e361008",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e6d823f91ba53eadb38c46de3c5f53a61e361008",
+      "title": "Research Paper Implementation: Sentiment Classification",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "35244579",
+          "name": "Sumit Pandey"
+        },
+        {
+          "authorId": "1911631",
+          "name": "Karan Jain"
+        }
+      ]
+    },
+    {
+      "paperId": "e8b77e1b5e16c85b84b77595a1b956d9fdcdf077",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e8b77e1b5e16c85b84b77595a1b956d9fdcdf077",
+      "title": "DarkEmbed: Exploit Prediction With Neural Language Models",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2018,
+      "citationCount": 68,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3362066",
+          "name": "N. Tavabi"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "32694783",
+          "name": "Mohammed Almukaynizi"
+        },
+        {
+          "authorId": "1900676",
+          "name": "P. Shakarian"
+        },
+        {
+          "authorId": "1782658",
+          "name": "Kristina Lerman"
+        }
+      ]
+    },
+    {
+      "paperId": "f6e59062382fdec9b95c3abef1c27efc3b2ec1c7",
+      "publicationVenue": {
+        "id": "12fff95b-d469-49a0-84a5-4fd4696c3f28",
+        "name": "Knowledge-Based Systems",
+        "type": "journal",
+        "alternate_names": [
+          "Knowl Based Syst",
+          "Knowledge Based Systems",
+          "Knowledge-based Syst"
+        ],
+        "issn": "0950-7051",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/525448/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/knowledge-based-systems",
+          "http://www.sciencedirect.com/science/journal/09507051"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f6e59062382fdec9b95c3abef1c27efc3b2ec1c7",
+      "title": "dyngraph2vec: Capturing Network Dynamics using Dynamic Graph Representation Learning",
+      "venue": "Knowledge-Based Systems",
+      "year": 2018,
+      "citationCount": 390,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "3408299",
+          "name": "Sujit Rokka Chhetri"
+        },
+        {
+          "authorId": "145073400",
+          "name": "A. Canedo"
+        }
+      ]
+    },
+    {
+      "paperId": "318768bc238f25ba0aeb9615e08bf4aad92b34e5",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/318768bc238f25ba0aeb9615e08bf4aad92b34e5",
+      "title": "Deep Learning for Steam Job Candidate Selection",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "3177953",
+          "name": "C. Cheung"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "1682695",
+          "name": "A. Tehrani"
+        },
+        {
+          "authorId": "1728271",
+          "name": "V. Prasanna"
+        }
+      ]
+    },
+    {
+      "paperId": "374b4409f6a1d2d853af31e329f025da239d375f",
+      "publicationVenue": {
+        "id": "12fff95b-d469-49a0-84a5-4fd4696c3f28",
+        "name": "Knowledge-Based Systems",
+        "type": "journal",
+        "alternate_names": [
+          "Knowl Based Syst",
+          "Knowledge Based Systems",
+          "Knowledge-based Syst"
+        ],
+        "issn": "0950-7051",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/525448/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/knowledge-based-systems",
+          "http://www.sciencedirect.com/science/journal/09507051"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/374b4409f6a1d2d853af31e329f025da239d375f",
+      "title": "Graph Embedding Techniques, Applications, and Performance: A Survey",
+      "venue": "Knowledge-Based Systems",
+      "year": 2017,
+      "citationCount": 1704,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "48898287",
+          "name": "Emilio Ferrara"
+        }
+      ]
+    },
+    {
+      "paperId": "bb65b1838098c954c60882babdd9fb5b86bbd19e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/bb65b1838098c954c60882babdd9fb5b86bbd19e",
+      "title": "OReONet: Deep convolutional network for oil reservoir optimization",
+      "venue": "2017 IEEE International Conference on Big Data (Big Data)",
+      "year": 2017,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3177953",
+          "name": "C. Cheung"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "1728271",
+          "name": "V. Prasanna"
+        },
+        {
+          "authorId": "1682695",
+          "name": "A. Tehrani"
+        }
+      ]
+    },
+    {
+      "paperId": "db81e65eca7c49323510344e4fa265cc227e2018",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/db81e65eca7c49323510344e4fa265cc227e2018",
+      "title": "Parallel Gradient Descent for Multilayer Feedforward Neural Networks",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "145260557",
+          "name": "Sungyong Seo"
+        },
+        {
+          "authorId": "2083380",
+          "name": "Vasileios Zois"
+        }
+      ]
+    },
+    {
+      "paperId": "ed3a86b0d0c90ec9f321424d7c4ab3ceea48f20e",
+      "publicationVenue": {
+        "id": "3e53351c-7355-4159-a3f2-f3b03a3aa989",
+        "name": "VISIGRAPP",
+        "type": "conference",
+        "alternate_names": [
+          "Int Jt Conf Comput Vis Imaging Comput Graph Theory Appl",
+          "International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications"
+        ],
+        "issn": "2184-4321",
+        "alternate_issns": [
+          "2184-5921"
+        ],
+        "url": "http://www.visigrapp.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ed3a86b0d0c90ec9f321424d7c4ab3ceea48f20e",
+      "title": "Facial Emotion Recognition from Kinect Data - An Appraisal of Kinect Face Tracking Library",
+      "venue": "VISIGRAPP",
+      "year": 2016,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39004576",
+          "name": "Tanwi Mallick"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "1715276",
+          "name": "P. Das"
+        },
+        {
+          "authorId": "145454587",
+          "name": "A. Majumdar"
+        }
+      ]
+    },
+    {
+      "paperId": "6e17068cb5f60e89a9353fbe5d79b83f135c235e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6e17068cb5f60e89a9353fbe5d79b83f135c235e",
+      "title": "Rapid Data Integration and Analysis for Upstream Oil and Gas Applications",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3177953",
+          "name": "C. Cheung"
+        },
+        {
+          "authorId": "3436466",
+          "name": "Palash Goyal"
+        },
+        {
+          "authorId": "144935440",
+          "name": "G. Harris"
+        },
+        {
+          "authorId": "2344108",
+          "name": "O. Patri"
+        },
+        {
+          "authorId": "2215594",
+          "name": "Ajitesh Srivastava"
+        },
+        {
+          "authorId": "2439108",
+          "name": "Yinuo Zhang"
+        },
+        {
+          "authorId": "2677264",
+          "name": "A. Panangadan"
+        },
+        {
+          "authorId": "2465749",
+          "name": "C. Chelmis"
+        },
+        {
+          "authorId": "97598226",
+          "name": "Randall G. Mckee"
+        },
+        {
+          "authorId": "115327518",
+          "name": "Monique Theron"
+        },
+        {
+          "authorId": "48001710",
+          "name": "Tam\u00e1s N\u00e9meth"
+        },
+        {
+          "authorId": "1728271",
+          "name": "V. Prasanna"
+        }
+      ]
+    }
+  ]
+}

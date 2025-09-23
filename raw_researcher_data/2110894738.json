@@ -1,0 +1,550 @@
+{
+  "authorId": "2110894738",
+  "name": "Yuan Jin",
+  "affiliations": [],
+  "paperCount": 12,
+  "citationCount": 359,
+  "hIndex": 8,
+  "papers": [
+    {
+      "paperId": "5841c4fe2edb0c8331afbd24375b0622dc66bd15",
+      "publicationVenue": {
+        "id": "12fff95b-d469-49a0-84a5-4fd4696c3f28",
+        "name": "Knowledge-Based Systems",
+        "type": "journal",
+        "alternate_names": [
+          "Knowl Based Syst",
+          "Knowledge Based Systems",
+          "Knowledge-based Syst"
+        ],
+        "issn": "0950-7051",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/525448/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/knowledge-based-systems",
+          "http://www.sciencedirect.com/science/journal/09507051"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5841c4fe2edb0c8331afbd24375b0622dc66bd15",
+      "title": "HiTSKT: A Hierarchical Transformer Model for Session-Aware Knowledge Tracing",
+      "venue": "Knowledge-Based Systems",
+      "year": 2022,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2198159538",
+          "name": "Fucai Ke"
+        },
+        {
+          "authorId": "2109080349",
+          "name": "Weiqing Wang"
+        },
+        {
+          "authorId": "2150797908",
+          "name": "Weicong Tan"
+        },
+        {
+          "authorId": "2068124441",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "2108733121",
+          "name": "Yujin Huang"
+        },
+        {
+          "authorId": "2416851",
+          "name": "Hongzhi Yin"
+        }
+      ]
+    },
+    {
+      "paperId": "5b8f1450584332cb81638b5823d48f3b632af511",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/5b8f1450584332cb81638b5823d48f3b632af511",
+      "title": "Learning Semantic Textual Similarity via Topic-informed Discrete Latent Variables",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1944346587",
+          "name": "Erxin Yu"
+        },
+        {
+          "authorId": "2068124441",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "122835755",
+          "name": "Zhepei Wei"
+        },
+        {
+          "authorId": "2118858577",
+          "name": "Yi Chang"
+        }
+      ]
+    },
+    {
+      "paperId": "516fcc326921d1062c2a4718c0237c8d1abd9d57",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/516fcc326921d1062c2a4718c0237c8d1abd9d57",
+      "title": "Transformer over Pre-trained Transformer for Neural Text Segmentation with Enhanced Topic Coherence",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2136336190",
+          "name": "Kelvin Lo"
+        },
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "2150797908",
+          "name": "Weicong Tan"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2068124441",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "70219052",
+          "name": "Wray L. Buntine"
+        }
+      ]
+    },
+    {
+      "paperId": "882a7756d91e98a498af294c6dd7d54cbe4b490b",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/882a7756d91e98a498af294c6dd7d54cbe4b490b",
+      "title": "Leveraging Information Bottleneck for Scientific Document Summarization",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Jiaxin Ju"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2134585717",
+          "name": "Huan Yee Koh"
+        },
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "1723019",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "2585415",
+          "name": "Shirui Pan"
+        }
+      ]
+    },
+    {
+      "paperId": "9db03509f2a8917dc4135c0a7dfc4ff7274f533d",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/9db03509f2a8917dc4135c0a7dfc4ff7274f533d",
+      "title": "Neural Attention-Aware Hierarchical Topic Model",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "1643682004",
+          "name": "He Zhao"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2068124441",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "70219052",
+          "name": "Wray L. Buntine"
+        }
+      ]
+    },
+    {
+      "paperId": "9fce00ceb510a5baff43470ed9aa495f6f23aad3",
+      "publicationVenue": {
+        "id": "67f7f831-711a-43c8-8785-1e09005359b5",
+        "name": "International Joint Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Jt Conf Artif Intell",
+          "IJCAI"
+        ],
+        "url": "http://www.ijcai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9fce00ceb510a5baff43470ed9aa495f6f23aad3",
+      "title": "Topic Modelling Meets Deep Neural Networks: A Survey",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2021,
+      "citationCount": 132,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1643682004",
+          "name": "He Zhao"
+        },
+        {
+          "authorId": "1749657",
+          "name": "Dinh Q. Phung"
+        },
+        {
+          "authorId": "143650225",
+          "name": "Viet Huynh"
+        },
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "1723019",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "1879212561",
+          "name": "W. Buntine"
+        }
+      ]
+    },
+    {
+      "paperId": "d1b9265e88eeba84343ce450e24143b8b2a5f032",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d1b9265e88eeba84343ce450e24143b8b2a5f032",
+      "title": "BiDKT: Deep Knowledge Tracing with BERT",
+      "venue": "ADHOCNETS/TRIDENTCOM",
+      "year": 2021,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2150797908",
+          "name": "Weicong Tan"
+        },
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2153525636",
+          "name": "Heng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "f0110d0f7e938038bc1305c4c243b2d631d32c39",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/f0110d0f7e938038bc1305c4c243b2d631d32c39",
+      "title": "Federated Learning Meets Natural Language Processing: A Survey",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 66,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2069288370",
+          "name": "Stella Ho"
+        },
+        {
+          "authorId": "2145361994",
+          "name": "Mengqi Wang"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        },
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "2153525636",
+          "name": "Heng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "293f5961dcf84695d9daeb18373819336a47c15b",
+      "publicationVenue": {
+        "id": "8dce23a9-44e0-4381-a39e-2acc1edff700",
+        "name": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+          "Int ACM SIGIR Conf Res Dev Inf Retr",
+          "SIGIR",
+          "Annu Int ACM SIGIR Conf Res Dev Inf Retr"
+        ],
+        "url": "http://www.acm.org/sigir/"
+      },
+      "url": "https://www.semanticscholar.org/paper/293f5961dcf84695d9daeb18373819336a47c15b",
+      "title": "SummPip: Unsupervised Multi-Document Summarization with Sentence Graph Compression",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2020,
+      "citationCount": 63,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46508997",
+          "name": "Jinming Zhao"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        },
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "1723019",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "1643682004",
+          "name": "He Zhao"
+        },
+        {
+          "authorId": "2153525636",
+          "name": "Heng Zhang"
+        },
+        {
+          "authorId": "2561045",
+          "name": "Gholamreza Haffari"
+        }
+      ]
+    },
+    {
+      "paperId": "566c33d6206e92fccbb4d28c70806d489cb6b541",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/566c33d6206e92fccbb4d28c70806d489cb6b541",
+      "title": "Leveraging Cross Feedback of User and Item Embeddings with Attention for Variational Autoencoder based Collaborative Filtering.",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "1643682004",
+          "name": "He Zhao"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2109414686",
+          "name": "Ye Zhu"
+        },
+        {
+          "authorId": "1723019",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        },
+        {
+          "authorId": "1879212561",
+          "name": "W. Buntine"
+        }
+      ]
+    },
+    {
+      "paperId": "84927056654712dabd3353ccd85c76fb53b6372f",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/84927056654712dabd3353ccd85c76fb53b6372f",
+      "title": "Discriminative, Generative and Self-Supervised Approaches for Target-Agnostic Learning",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "1879212561",
+          "name": "W. Buntine"
+        },
+        {
+          "authorId": "34169213",
+          "name": "F. Petitjean"
+        },
+        {
+          "authorId": "1726660",
+          "name": "Geoffrey I. Webb"
+        }
+      ]
+    },
+    {
+      "paperId": "44e2df9a5fec0c96615146f8b1290fd584754707",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/44e2df9a5fec0c96615146f8b1290fd584754707",
+      "title": "Distinguishing Question Subjectivity from Difficulty for Improved Crowdsourcing",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "2109414686",
+          "name": "Ye Zhu"
+        },
+        {
+          "authorId": "2109414686",
+          "name": "Ye Zhu"
+        },
+        {
+          "authorId": "143852850",
+          "name": "Mark J. Carman"
+        },
+        {
+          "authorId": "70219052",
+          "name": "Wray L. Buntine"
+        }
+      ]
+    }
+  ]
+}

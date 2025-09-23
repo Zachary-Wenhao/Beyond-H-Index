@@ -1,0 +1,4539 @@
+{
+  "authorId": "3238627",
+  "name": "Nikolaos Aletras",
+  "affiliations": [
+    "University of Sheffield"
+  ],
+  "paperCount": 109,
+  "citationCount": 4022,
+  "hIndex": 28,
+  "papers": [
+    {
+      "paperId": "9743be8d7ed82c6bf385008b2bde4415e8637937",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/9743be8d7ed82c6bf385008b2bde4415e8637937",
+      "title": "Compressing Language Models for Specialized Domains",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2244005949",
+          "name": "Miles Williams"
+        },
+        {
+          "authorId": "51015453",
+          "name": "G. Chrysostomou"
+        },
+        {
+          "authorId": "2347038434",
+          "name": "Vitor Jeronymo"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "0571b4ba089a01f7142bc9179933c631c2854ae3",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/0571b4ba089a01f7142bc9179933c631c2854ae3",
+      "title": "Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2024,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146630592",
+          "name": "Zhixue Zhao"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "07efed349b0c86153177d6e660334d69f828b109",
+      "publicationVenue": {
+        "id": "e783305c-5d8a-44b9-b7a2-449d474a85b2",
+        "name": "International Joint Conference on Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "IJCNLP",
+          "Int Jt Conf Nat Lang Process"
+        ],
+        "url": "https://www.aclweb.org/portal/ijcnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/07efed349b0c86153177d6e660334d69f828b109",
+      "title": "We Need to Talk About Classification Evaluation Metrics in NLP",
+      "venue": "International Joint Conference on Natural Language Processing",
+      "year": 2024,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2278432582",
+          "name": "Peter Vickers"
+        },
+        {
+          "authorId": "2934336",
+          "name": "Lo\u00efc Barrault"
+        },
+        {
+          "authorId": "38722908",
+          "name": "Emilio Monti"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "3089714fd0711983fad8fad2dc5d447f07b07e7a",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3089714fd0711983fad8fad2dc5d447f07b07e7a",
+      "title": "RISE: Robust Early-exiting Internal Classifiers for Suicide Risk Evaluation",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2024,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2161000447",
+          "name": "Ritesh Soun"
+        },
+        {
+          "authorId": "2157860264",
+          "name": "A. Neerkaje"
+        },
+        {
+          "authorId": "51042088",
+          "name": "Ramit Sawhney"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "2026545715",
+          "name": "Preslav Nakov"
+        }
+      ]
+    },
+    {
+      "paperId": "441d9c239ba5fee0be1ac122330052c7b6bf822e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/441d9c239ba5fee0be1ac122330052c7b6bf822e",
+      "title": "An Empirical Study on Cross-lingual Vocabulary Adaptation for Efficient Generative LLM Inference",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145412147",
+          "name": "Atsuki Yamaguchi"
+        },
+        {
+          "authorId": "2284592789",
+          "name": "Aline Villavicencio"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "55f50127a87d07e51316c163c2123b115fff126b",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/55f50127a87d07e51316c163c2123b115fff126b",
+      "title": "Bayesian Prompt Ensembles: Model Uncertainty Estimation for Black-Box Large Language Models",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2024,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2218103116",
+          "name": "Francesco Tonolini"
+        },
+        {
+          "authorId": "2021104091",
+          "name": "Jordan Massiah"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "2260650020",
+          "name": "Gabriella Kazai"
+        },
+        {
+          "authorId": "2310836884",
+          "name": "Entropy Regularisation"
+        },
+        {
+          "authorId": "2310902810",
+          "name": "Kaitlyn Zhou"
+        },
+        {
+          "authorId": "2256674786",
+          "name": "Dan Jurafsky"
+        },
+        {
+          "authorId": "2266400315",
+          "name": "Tatsunori Hashimoto"
+        },
+        {
+          "authorId": "2311087685",
+          "name": "Xinlei Zhou"
+        },
+        {
+          "authorId": "2311128772",
+          "name": "Han Liu"
+        },
+        {
+          "authorId": "1866603",
+          "name": "Farhad Pourpanah"
+        },
+        {
+          "authorId": "2310836807",
+          "name": "Tieyong"
+        },
+        {
+          "authorId": "2310895205",
+          "name": "Yongchao Zhou"
+        },
+        {
+          "authorId": "2189543935",
+          "name": "Andrei Ioan Muresanu"
+        },
+        {
+          "authorId": "2311315994",
+          "name": "Ziwen Han"
+        },
+        {
+          "authorId": "73775191",
+          "name": "Keiran Paster"
+        },
+        {
+          "authorId": "32305445",
+          "name": "Silviu Pitis"
+        },
+        {
+          "authorId": "2310864634",
+          "name": "Harris Chan"
+        }
+      ]
+    },
+    {
+      "paperId": "84d04da0f2aca59dda369223c0b68ff82283dc1f",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/84d04da0f2aca59dda369223c0b68ff82283dc1f",
+      "title": "Self-calibration for Language Model Quantization and Pruning",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2244005949",
+          "name": "Miles Williams"
+        },
+        {
+          "authorId": "51015453",
+          "name": "G. Chrysostomou"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "9f1b3fdf2af592c850b7e50c0022cb7cce2ae103",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/9f1b3fdf2af592c850b7e50c0022cb7cce2ae103",
+      "title": "An Empirical Study on Cross-lingual Vocabulary Adaptation for Efficient Language Model Inference",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2024,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145412147",
+          "name": "Atsuki Yamaguchi"
+        },
+        {
+          "authorId": "2284592789",
+          "name": "Aline Villavicencio"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "c2643f5653a1fe02c286802fada83dc6c1fd5730",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/c2643f5653a1fe02c286802fada83dc6c1fd5730",
+      "title": "Enhancing Data Quality through Simple De-duplication: Navigating Responsible Computational Social Science Research",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2044574846",
+          "name": "Yida Mu"
+        },
+        {
+          "authorId": "1999667117",
+          "name": "Mali Jin"
+        },
+        {
+          "authorId": "2321710652",
+          "name": "Xingyi Song"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "c76a0746402af9a7cf237de24b196ea9597895e8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c76a0746402af9a7cf237de24b196ea9597895e8",
+      "title": "How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?",
+      "venue": "",
+      "year": 2024,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145412147",
+          "name": "Atsuki Yamaguchi"
+        },
+        {
+          "authorId": "2284592789",
+          "name": "Aline Villavicencio"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "cfda87f5bcb52b0150409c5dce1b98ffdacfeeed",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/cfda87f5bcb52b0150409c5dce1b98ffdacfeeed",
+      "title": "Vocabulary Expansion of Chat Models with Unlabeled Target Language Data",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145412147",
+          "name": "Atsuki Yamaguchi"
+        },
+        {
+          "authorId": "1379579811",
+          "name": "Terufumi Morishita"
+        },
+        {
+          "authorId": "2284592789",
+          "name": "Aline Villavicencio"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "e07da9cd8cbfca5776388ff06fd69163ebe936e1",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e07da9cd8cbfca5776388ff06fd69163ebe936e1",
+      "title": "Who Is Bragging More Online? A Large Scale Analysis of Bragging in Social Media",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2024,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1999667117",
+          "name": "Mali Jin"
+        },
+        {
+          "authorId": "1976147781",
+          "name": "Daniel Preoctiuc-Pietro"
+        },
+        {
+          "authorId": "1904399",
+          "name": "A. Seza Do\u011fru\u00f6z"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "14baa9c734020fb59a0a63c24a3249f265f468e5",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/14baa9c734020fb59a0a63c24a3249f265f468e5",
+      "title": "It\u2019s about Time: Rethinking Evaluation on Rumor Detection Benchmarks using Chronological Splits",
+      "venue": "Findings",
+      "year": 2023,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2044574846",
+          "name": "Yida Mu"
+        },
+        {
+          "authorId": "1785423162",
+          "name": "Kalina Bontcheva"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "2d2b67afb71b4e90b52851548bee5f52b7bcb05f",
+      "publicationVenue": {
+        "id": "e783305c-5d8a-44b9-b7a2-449d474a85b2",
+        "name": "International Joint Conference on Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "IJCNLP",
+          "Int Jt Conf Nat Lang Process"
+        ],
+        "url": "https://www.aclweb.org/portal/ijcnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/2d2b67afb71b4e90b52851548bee5f52b7bcb05f",
+      "title": "A Multimodal Analysis of Influencer Content on Twitter",
+      "venue": "International Joint Conference on Natural Language Processing",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1661213189",
+          "name": "Danae S\u00e1nchez Villegas"
+        },
+        {
+          "authorId": "2237987307",
+          "name": "Catalina Goanta"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "3bdd3dcbf95082cde0209c844c1ec077715ec329",
+      "publicationVenue": {
+        "id": "8f1ffe40-69d7-4218-b265-32767b5373ee",
+        "name": "Journal of Political Marketing",
+        "type": "journal",
+        "alternate_names": [
+          "J Political Mark"
+        ],
+        "issn": "1537-7857",
+        "url": "http://www.tandfonline.com/loi/wplm20"
+      },
+      "url": "https://www.semanticscholar.org/paper/3bdd3dcbf95082cde0209c844c1ec077715ec329",
+      "title": "Is There a Permanent Campaign for Online Political Advertising? Investigating Partisan and Non-Party Campaign Activity in the UK between 2018\u20132021",
+      "venue": "Journal of Political Marketing",
+      "year": 2023,
+      "citationCount": 5,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "84242475",
+          "name": "K. Dommett"
+        },
+        {
+          "authorId": "114796078",
+          "name": "Samuel A. Mensah"
+        },
+        {
+          "authorId": "2146280063",
+          "name": "Junyan Zhu"
+        },
+        {
+          "authorId": "1903012",
+          "name": "T. Stafford"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "3f46f847ed0a4de5681ec1581890d18cdeaaf2e0",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3f46f847ed0a4de5681ec1581890d18cdeaaf2e0",
+      "title": "Examining the Limitations of Computational Rumor Detection Models Trained on Static Datasets",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2044574846",
+          "name": "Yida Mu"
+        },
+        {
+          "authorId": "3456762",
+          "name": "Xingyi Song"
+        },
+        {
+          "authorId": "1785423162",
+          "name": "Kalina Bontcheva"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "40443d526d9dacfe4e311022dfb53727644f6087",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/40443d526d9dacfe4e311022dfb53727644f6087",
+      "title": "Robust Weak Supervision with Variational Auto-Encoders",
+      "venue": "International Conference on Machine Learning",
+      "year": 2023,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2218103116",
+          "name": "Francesco Tonolini"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "3358500",
+          "name": "Yunlong Jiao"
+        },
+        {
+          "authorId": "1688470",
+          "name": "G. Kazai"
+        }
+      ]
+    },
+    {
+      "paperId": "667e81183bcd7cb0c2ae445b76b67a354cc1d78e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/667e81183bcd7cb0c2ae445b76b67a354cc1d78e",
+      "title": "Vocabulary-level Memory Efficiency for Language Model Fine-tuning",
+      "venue": "",
+      "year": 2023,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2244005949",
+          "name": "Miles Williams"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "66d2021641c2003d8614c898bbddb653ec349b22",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/66d2021641c2003d8614c898bbddb653ec349b22",
+      "title": "Rethinking Semi-supervised Learning with Language Models",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110398077",
+          "name": "Zhengxiang Shi"
+        },
+        {
+          "authorId": "2218103116",
+          "name": "Francesco Tonolini"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "2149472702",
+          "name": "Emine Yilmaz"
+        },
+        {
+          "authorId": "1688470",
+          "name": "G. Kazai"
+        },
+        {
+          "authorId": "3358500",
+          "name": "Yunlong Jiao"
+        }
+      ]
+    },
+    {
+      "paperId": "716864897ed59877d59be830fea092c4e1bcfc8b",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/716864897ed59877d59be830fea092c4e1bcfc8b",
+      "title": "Schema-Guided User Satisfaction Modeling for Task-Oriented Dialogues",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2047904135",
+          "name": "Yue Feng"
+        },
+        {
+          "authorId": "3358500",
+          "name": "Yunlong Jiao"
+        },
+        {
+          "authorId": "40172901",
+          "name": "Animesh Prasad"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "2149472702",
+          "name": "Emine Yilmaz"
+        },
+        {
+          "authorId": "1688470",
+          "name": "G. Kazai"
+        }
+      ]
+    },
+    {
+      "paperId": "790a4e08f6880deadd32eea9b10110714e4c37ed",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/790a4e08f6880deadd32eea9b10110714e4c37ed",
+      "title": "Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary Tasks",
+      "venue": "Findings",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1661213189",
+          "name": "Danae S\u00e1nchez Villegas"
+        },
+        {
+          "authorId": "1976147781",
+          "name": "Daniel Preoctiuc-Pietro"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "7a1db1346d95b2ec6c9706e71d2ff92532bfe78d",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/7a1db1346d95b2ec6c9706e71d2ff92532bfe78d",
+      "title": "Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance?",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2159546384",
+          "name": "Ahmed Alajrami"
+        },
+        {
+          "authorId": "82259306",
+          "name": "Katerina Margatina"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "91c37a88c2b320725057260677ae79f3cdaa492b",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/91c37a88c2b320725057260677ae79f3cdaa492b",
+      "title": "Active Learning Principles for In-Context Learning with Large Language Models",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 37,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "82259306",
+          "name": "Katerina Margatina"
+        },
+        {
+          "authorId": "32246932",
+          "name": "Timo Schick"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "2173509991",
+          "name": "Jane Dwivedi-Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "970fa99681f82f52489d2949b2bda41d6162b6e8",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/970fa99681f82f52489d2949b2bda41d6162b6e8",
+      "title": "Trading Syntax Trees for Wordpieces: Target-oriented Opinion Words Extraction with Wordpieces and Aspect Enhancement",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144950995",
+          "name": "Samuel Mensah"
+        },
+        {
+          "authorId": "2113849068",
+          "name": "Kai Sun"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "97b58563eecaae3df80936068b8793f4a982b373",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/97b58563eecaae3df80936068b8793f4a982b373",
+      "title": "Navigating Prompt Complexity for Zero-Shot Classification: A Study of Large Language Models in Computational Social Science",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2023,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2044574846",
+          "name": "Yida Mu"
+        },
+        {
+          "authorId": "2121624535",
+          "name": "Benze Wu"
+        },
+        {
+          "authorId": "2075675503",
+          "name": "William Thorne"
+        },
+        {
+          "authorId": "2218059743",
+          "name": "Ambrose Robinson"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "2064492081",
+          "name": "Carolina Scarton"
+        },
+        {
+          "authorId": "1785423162",
+          "name": "Kalina Bontcheva"
+        },
+        {
+          "authorId": "3456762",
+          "name": "Xingyi Song"
+        }
+      ]
+    },
+    {
+      "paperId": "a441e9bdac0498f85848cb0f153811ded8ece715",
+      "publicationVenue": {
+        "id": "987139ae-a65d-49bb-aaf6-fb764dc40b19",
+        "name": "Expert systems with applications",
+        "type": "journal",
+        "alternate_names": [
+          "Expert syst appl",
+          "Expert Systems With Applications",
+          "Expert Syst Appl"
+        ],
+        "issn": "0957-4174",
+        "url": "https://www.journals.elsevier.com/expert-systems-with-applications/",
+        "alternate_urls": [
+          "https://www.sciencedirect.com/journal/expert-systems-with-applications",
+          "http://www.sciencedirect.com/science/journal/09574174"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a441e9bdac0498f85848cb0f153811ded8ece715",
+      "title": "Predicting and analyzing the popularity of false rumors in Weibo",
+      "venue": "Expert systems with applications",
+      "year": 2023,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2044574846",
+          "name": "Yida Mu"
+        },
+        {
+          "authorId": "2269246009",
+          "name": "Pu Niu"
+        },
+        {
+          "authorId": "1785423162",
+          "name": "Kalina Bontcheva"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "a485aed4464ba6091c5b7be5af153c97d25c1acf",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a485aed4464ba6091c5b7be5af153c97d25c1acf",
+      "title": "On the Impact of Calibration Data in Post-training Quantization and Pruning",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2244005949",
+          "name": "Miles Williams"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "add28feeb5c1348f987d990c07793f8781c11419",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/add28feeb5c1348f987d990c07793f8781c11419",
+      "title": "Regulation and NLP (RegNLP): Taming Large Language Models",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2237987307",
+          "name": "Catalina Goanta"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "10783142",
+          "name": "Ilias Chalkidis"
+        },
+        {
+          "authorId": "2256997960",
+          "name": "S. Ranchordas"
+        },
+        {
+          "authorId": "3266578",
+          "name": "Gerasimos Spanakis"
+        }
+      ]
+    },
+    {
+      "paperId": "c169f97d1d7ca40b4cfcc00b5bf5ae199c33c23f",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c169f97d1d7ca40b4cfcc00b5bf5ae199c33c23f",
+      "title": "Incorporating Attribution Importance for Improving Faithfulness Metrics",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146630592",
+          "name": "Zhixue Zhao"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "c30deb8f4b0e942a36e5ef5c87bed01f575c0c6e",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/c30deb8f4b0e942a36e5ef5c87bed01f575c0c6e",
+      "title": "Pit One Against Many: Leveraging Attention-head Embeddings for Parameter-efficient Multi-head Attention",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152263068",
+          "name": "Huiyin Xue"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "d31f9151c5d371eedfb64c4d14ab94b86d39e1c5",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/d31f9151c5d371eedfb64c4d14ab94b86d39e1c5",
+      "title": "Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51015453",
+          "name": "G. Chrysostomou"
+        },
+        {
+          "authorId": "2146630592",
+          "name": "Zhixue Zhao"
+        },
+        {
+          "authorId": "2244005949",
+          "name": "Miles Williams"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "d3e1b1025e6fc73850156da60f85dde91334663e",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d3e1b1025e6fc73850156da60f85dde91334663e",
+      "title": "On the Limitations of Simulating Active Learning",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "82259306",
+          "name": "Katerina Margatina"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "d6d3a58fe8f87b7726e0d9ffd34d3f0a823b99c3",
+      "publicationVenue": {
+        "id": "e07422f9-c065-40c3-a37b-75e98dce79fe",
+        "name": "The Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Conf",
+          "WWW"
+        ],
+        "url": "http://www.iw3c2.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d6d3a58fe8f87b7726e0d9ffd34d3f0a823b99c3",
+      "title": "Self-training through Classifier Disagreement for Cross-Domain Opinion Target Extraction",
+      "venue": "The Web Conference",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2113849068",
+          "name": "Kai Sun"
+        },
+        {
+          "authorId": "2109975984",
+          "name": "Richong Zhang"
+        },
+        {
+          "authorId": "144950995",
+          "name": "Samuel Mensah"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "2047889",
+          "name": "Yongyi Mao"
+        },
+        {
+          "authorId": "2144513657",
+          "name": "Xudong Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "1a066314e819d34aa4a836ef59a730ff1a11a1b0",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1a066314e819d34aa4a836ef59a730ff1a11a1b0",
+      "title": "An Empirical Study on Explanations in Out-of-Domain Settings",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51015453",
+          "name": "G. Chrysostomou"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "20fefd6643c4a15870f9bf52f072c701747d7a7e",
+      "publicationVenue": {
+        "id": "266f640f-003e-453b-ab76-57e4053252f8",
+        "name": "Pattern Recognition",
+        "type": "journal",
+        "alternate_names": [
+          "Pattern Recognit"
+        ],
+        "issn": "0031-3203",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/328/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/pattern-recognition",
+          "http://www.sciencedirect.com/science/journal/00313203"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/20fefd6643c4a15870f9bf52f072c701747d7a7e",
+      "title": "Node-Feature Convolution for Graph Convolutional Networks",
+      "venue": "Pattern Recognition",
+      "year": 2022,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152831965",
+          "name": "Li Zhang"
+        },
+        {
+          "authorId": "31272142",
+          "name": "Heda Song"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "2582251",
+          "name": "Haiping Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "2da720db3ef6a5abe611b45d5176658f542570ac",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2da720db3ef6a5abe611b45d5176658f542570ac",
+      "title": "Improving Graph-Based Text Representations with Character and Word Level N-grams",
+      "venue": "AACL",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108677598",
+          "name": "Wenzhe Li"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "3a66abf5301eddb7429c1ff0a0a430163ccb2177",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3a66abf5301eddb7429c1ff0a0a430163ccb2177",
+      "title": "Domain Classification-based Source-specific Term Penalization for Domain Adaptation in Hate-speech Detection",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1956965",
+          "name": "Tulika Bose"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "1696945",
+          "name": "I. Illina"
+        },
+        {
+          "authorId": "144218727",
+          "name": "D. Fohr"
+        }
+      ]
+    },
+    {
+      "paperId": "3e2c9a50aa1e7ad80c8fb70568c3e5e40e6f72ee",
+      "publicationVenue": {
+        "id": "9edb146e-1733-42d6-9ac6-91bced84ca22",
+        "name": "Web Science Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Sci",
+          "Web Science",
+          "Web Sci Conf",
+          "WebSci"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3e2c9a50aa1e7ad80c8fb70568c3e5e40e6f72ee",
+      "title": "Identifying and Characterizing Active Citizens who Refute Misinformation in Social Media",
+      "venue": "Web Science Conference",
+      "year": 2022,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2044574846",
+          "name": "Yida Mu"
+        },
+        {
+          "authorId": "134592862",
+          "name": "Pu Niu"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "54d2b18f566664a1ed0c5b6e766bf743309816a4",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/54d2b18f566664a1ed0c5b6e766bf743309816a4",
+      "title": "A Benchmark Dataset for Legal Language Understanding in English",
+      "venue": "",
+      "year": 2022,
+      "citationCount": 3,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "10783142",
+          "name": "Ilias Chalkidis"
+        },
+        {
+          "authorId": "16228163",
+          "name": "Abhik Jana"
+        },
+        {
+          "authorId": "2273863768",
+          "name": "Dirk Hartung"
+        },
+        {
+          "authorId": "2273870001",
+          "name": "Michael Bommarito"
+        },
+        {
+          "authorId": "2273873383",
+          "name": "Androutsopoulos Daniel"
+        },
+        {
+          "authorId": "2273819279",
+          "name": "Martin Katz"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "2273814371",
+          "name": "William Wang"
+        },
+        {
+          "authorId": "2260453202",
+          "name": "Bo Wang"
+        },
+        {
+          "authorId": "2273822357",
+          "name": "Jiajun Wu"
+        },
+        {
+          "authorId": "2273822417",
+          "name": "Yuhuai Wu"
+        },
+        {
+          "authorId": "2273817032",
+          "name": "Sang Michael Wu"
+        },
+        {
+          "authorId": "2273883278",
+          "name": "Michihiro Xie"
+        },
+        {
+          "authorId": "2273871478",
+          "name": "Jiaxuan Yasunaga"
+        },
+        {
+          "authorId": "2273747323",
+          "name": "Matei You"
+        },
+        {
+          "authorId": "2273862788",
+          "name": "Michael Zaharia"
+        },
+        {
+          "authorId": "2274083479",
+          "name": "Tianyi Zhang"
+        },
+        {
+          "authorId": "2273826860",
+          "name": "Xikun Zhang"
+        },
+        {
+          "authorId": "2273913293",
+          "name": "Yuhui Zhang"
+        },
+        {
+          "authorId": "2274066345",
+          "name": "Lucia Zhang"
+        },
+        {
+          "authorId": "2273887585",
+          "name": "Zheng Kaitlyn"
+        },
+        {
+          "authorId": "2273869980",
+          "name": "Zhou Percy"
+        },
+        {
+          "authorId": "2273887362",
+          "name": "Liang. 2021"
+        },
+        {
+          "authorId": "2261083170",
+          "name": "Samuel R. Bowman"
+        },
+        {
+          "authorId": "2273887579",
+          "name": "George Dahl. 2021"
+        },
+        {
+          "authorId": "2097764147",
+          "name": "What"
+        },
+        {
+          "authorId": "66967790",
+          "name": "L. Branting"
+        },
+        {
+          "authorId": "144980318",
+          "name": "Craig Pfeifer"
+        },
+        {
+          "authorId": "2072812718",
+          "name": "Bradford Brown"
+        },
+        {
+          "authorId": "2273868830",
+          "name": "Lisa Ferro"
+        },
+        {
+          "authorId": "2757028",
+          "name": "J. Aberdeen"
+        },
+        {
+          "authorId": "51455551",
+          "name": "Brandy Weiss"
+        },
+        {
+          "authorId": "2273869895",
+          "name": "Mark Pfa \ufb00"
+        },
+        {
+          "authorId": "2261282667",
+          "name": "Tom Brown"
+        },
+        {
+          "authorId": "2056658938",
+          "name": "Benjamin Mann"
+        },
+        {
+          "authorId": "2260406867",
+          "name": "Nick Ryder"
+        },
+        {
+          "authorId": "2065894334",
+          "name": "Melanie Subbiah"
+        },
+        {
+          "authorId": "2053807409",
+          "name": "Jared Kaplan"
+        },
+        {
+          "authorId": "6515819",
+          "name": "Prafulla Dhariwal"
+        },
+        {
+          "authorId": "2072676",
+          "name": "Arvind Neelakantan"
+        },
+        {
+          "authorId": "67311962",
+          "name": "Pranav Shyam"
+        },
+        {
+          "authorId": "144864359",
+          "name": "Girish Sastry"
+        },
+        {
+          "authorId": "2220750220",
+          "name": "Amanda Askell"
+        },
+        {
+          "authorId": "144517868",
+          "name": "Sandhini Agarwal"
+        },
+        {
+          "authorId": "1404060687",
+          "name": "Ariel Herbert-Voss"
+        },
+        {
+          "authorId": "2064404342",
+          "name": "Gretchen Krueger"
+        },
+        {
+          "authorId": "103143311",
+          "name": "T. Henighan"
+        },
+        {
+          "authorId": "48422824",
+          "name": "R. Child"
+        },
+        {
+          "authorId": "1992922591",
+          "name": "A. Ramesh"
+        },
+        {
+          "authorId": "2052152920",
+          "name": "Daniel M. Ziegler"
+        },
+        {
+          "authorId": "2262006997",
+          "name": "Jeff Wu"
+        },
+        {
+          "authorId": "2059411355",
+          "name": "Clemens Winter"
+        },
+        {
+          "authorId": "2242286342",
+          "name": "Chris Hesse"
+        },
+        {
+          "authorId": "2108828435",
+          "name": "Mark Chen"
+        },
+        {
+          "authorId": "2064673055",
+          "name": "Eric Sigler"
+        },
+        {
+          "authorId": "1380985420",
+          "name": "Ma-teusz Litwin"
+        },
+        {
+          "authorId": "145565184",
+          "name": "Scott Gray"
+        },
+        {
+          "authorId": "1490681878",
+          "name": "Benjamin Chess"
+        },
+        {
+          "authorId": "2242485295",
+          "name": "J. Clark"
+        },
+        {
+          "authorId": "133740015",
+          "name": "Christopher Berner"
+        },
+        {
+          "authorId": "52238703",
+          "name": "Sam McCandlish"
+        }
+      ]
+    },
+    {
+      "paperId": "5ca0a54fa0f76ae0e1881899c61b36d35d3bd166",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5ca0a54fa0f76ae0e1881899c61b36d35d3bd166",
+      "title": "How does the pre-training objective affect what large language models learn about linguistic properties?",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2159546384",
+          "name": "Ahmed Alajrami"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "86215cda62223cde0fbdd6ab70fc5637cc89ad5d",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/86215cda62223cde0fbdd6ab70fc5637cc89ad5d",
+      "title": "Combining Humor and Sarcasm for Improving Political Parody Detection",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2164337787",
+          "name": "Xiao Ao"
+        },
+        {
+          "authorId": "1661213189",
+          "name": "Danae S\u00e1nchez Villegas"
+        },
+        {
+          "authorId": "1976147781",
+          "name": "Daniel Preoctiuc-Pietro"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "a08015c699440abdadc9f2545b5182438327f9fb",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/a08015c699440abdadc9f2545b5182438327f9fb",
+      "title": "A Hierarchical N-Gram Framework for Zero-Shot Link Prediction",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47629178",
+          "name": "Mingchen Li"
+        },
+        {
+          "authorId": "2008604",
+          "name": "J. Chen"
+        },
+        {
+          "authorId": "144950995",
+          "name": "Samuel Mensah"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "13744021",
+          "name": "Xiulong Yang"
+        },
+        {
+          "authorId": "152253048",
+          "name": "Yang Ye"
+        }
+      ]
+    },
+    {
+      "paperId": "ab5ffd0d163128d59f4949e8d88f8ba67e90bc22",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ab5ffd0d163128d59f4949e8d88f8ba67e90bc22",
+      "title": "Automatic Identification and Classification of Bragging in Social Media",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1999667117",
+          "name": "Mali Jin"
+        },
+        {
+          "authorId": "1976147781",
+          "name": "Daniel Preoctiuc-Pietro"
+        },
+        {
+          "authorId": "2158660846",
+          "name": "A. S. Dougruoz"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "bf7808b9e468bd556a3bbe2f3d0e48655d2ead33",
+      "publicationVenue": {
+        "id": "8dce23a9-44e0-4381-a39e-2acc1edff700",
+        "name": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+          "Int ACM SIGIR Conf Res Dev Inf Retr",
+          "SIGIR",
+          "Annu Int ACM SIGIR Conf Res Dev Inf Retr"
+        ],
+        "url": "http://www.acm.org/sigir/"
+      },
+      "url": "https://www.semanticscholar.org/paper/bf7808b9e468bd556a3bbe2f3d0e48655d2ead33",
+      "title": "Towards Suicide Ideation Detection Through Online Conversational Context",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2022,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51042088",
+          "name": "Ramit Sawhney"
+        },
+        {
+          "authorId": "1923351",
+          "name": "Shivam Agarwal"
+        },
+        {
+          "authorId": "2157860264",
+          "name": "A. Neerkaje"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "2026545715",
+          "name": "Preslav Nakov"
+        },
+        {
+          "authorId": "2125481734",
+          "name": "Lucie Flek"
+        }
+      ]
+    },
+    {
+      "paperId": "eae0fdca3762311b9cbd6a668f1ef632cbe2a1b1",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/eae0fdca3762311b9cbd6a668f1ef632cbe2a1b1",
+      "title": "On the Impact of Temporal Concept Drift on Model Explanations",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146630592",
+          "name": "Zhixue Zhao"
+        },
+        {
+          "authorId": "51015453",
+          "name": "G. Chrysostomou"
+        },
+        {
+          "authorId": "1723649",
+          "name": "Kalina Bontcheva"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "ee343c5eb3766d3341926354d0859f5be1a9d34e",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ee343c5eb3766d3341926354d0859f5be1a9d34e",
+      "title": "Dynamically Refined Regularization for Improving Cross-corpora Hate Speech Detection",
+      "venue": "Findings",
+      "year": 2022,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1956965",
+          "name": "Tulika Bose"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "1696945",
+          "name": "I. Illina"
+        },
+        {
+          "authorId": "144218727",
+          "name": "D. Fohr"
+        }
+      ]
+    },
+    {
+      "paperId": "feeed68c23932fda1cc9f222b5b7690b2ad7e706",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/feeed68c23932fda1cc9f222b5b7690b2ad7e706",
+      "title": "HashFormers: Towards Vocabulary-independent Pre-trained Transformers",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152263068",
+          "name": "Huiyin Xue"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "0f4197cb978525b300a764e7e62000c89ef0a23a",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0f4197cb978525b300a764e7e62000c89ef0a23a",
+      "title": "Knowledge Distillation for Quality Estimation",
+      "venue": "Findings",
+      "year": 2021,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "25703683",
+          "name": "Amit Gajbhiye"
+        },
+        {
+          "authorId": "2006017",
+          "name": "M. Fomicheva"
+        },
+        {
+          "authorId": "69930782",
+          "name": "Fernando Alva-Manchego"
+        },
+        {
+          "authorId": "1948646",
+          "name": "F. Blain"
+        },
+        {
+          "authorId": "22313325",
+          "name": "A. Obamuyide"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "2065700826",
+          "name": "Lucia Specia"
+        }
+      ]
+    },
+    {
+      "paperId": "0f9b5b32229a7245e43754430c0c88f8e7f0d8af",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0f9b5b32229a7245e43754430c0c88f8e7f0d8af",
+      "title": "In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144748442",
+          "name": "P. Vickers"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "38722908",
+          "name": "Emilio Monti"
+        },
+        {
+          "authorId": "2934336",
+          "name": "Lo\u00efc Barrault"
+        }
+      ]
+    },
+    {
+      "paperId": "1c2c7ca6436ebb3097c17cd14bd374a319ae4f8c",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1c2c7ca6436ebb3097c17cd14bd374a319ae4f8c",
+      "title": "On the Ethical Limits of Natural Language Processing on Legal Text",
+      "venue": "Findings",
+      "year": 2021,
+      "citationCount": 41,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8245526",
+          "name": "D. Tsarapatsanis"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "29584ed6d68a06fdf91440a018f6bc83a44fd177",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/29584ed6d68a06fdf91440a018f6bc83a44fd177",
+      "title": "Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 105,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "10783142",
+          "name": "Ilias Chalkidis"
+        },
+        {
+          "authorId": "121316873",
+          "name": "Manos Fergadiotis"
+        },
+        {
+          "authorId": "8245526",
+          "name": "D. Tsarapatsanis"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "1752430",
+          "name": "Ion Androutsopoulos"
+        },
+        {
+          "authorId": "1950133",
+          "name": "Prodromos Malakasiotis"
+        }
+      ]
+    },
+    {
+      "paperId": "311e48e1c4a0dcd65a6699376ffc85a24a333a56",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/311e48e1c4a0dcd65a6699376ffc85a24a333a56",
+      "title": "Enjoy the Salience: Towards Better Transformer-based Faithful Explanations with Word Salience",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2125182391",
+          "name": "G. Chrysostomou"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "32a6daa76efd00f657e65842771971decf104efc",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/32a6daa76efd00f657e65842771971decf104efc",
+      "title": "Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 36,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51015453",
+          "name": "G. Chrysostomou"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "33316e3cba3cf40859648b542187337e4f6043af",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/33316e3cba3cf40859648b542187337e4f6043af",
+      "title": "Analyzing Online Political Advertisements",
+      "venue": "Findings",
+      "year": 2021,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1661213189",
+          "name": "Danae S\u00e1nchez Villegas"
+        },
+        {
+          "authorId": "3344806",
+          "name": "S. Mokaram"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "511db1334ffd1bc78927051ea348871559a3b337",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/511db1334ffd1bc78927051ea348871559a3b337",
+      "title": "Translation Error Detection as Rationale Extraction",
+      "venue": "Findings",
+      "year": 2021,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2006017",
+          "name": "M. Fomicheva"
+        },
+        {
+          "authorId": "2065700826",
+          "name": "Lucia Specia"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "6b1462ee55b8a82bcb32d30c3bf0a4bc84f95c10",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/6b1462ee55b8a82bcb32d30c3bf0a4bc84f95c10",
+      "title": "Active Learning by Acquiring Contrastive Examples",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 177,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "82259306",
+          "name": "Katerina Margatina"
+        },
+        {
+          "authorId": "1972392392",
+          "name": "Giorgos Vernikos"
+        },
+        {
+          "authorId": "2934336",
+          "name": "Lo\u00efc Barrault"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "6e40431b649d4333eecd1ea549d2e550a7e6a619",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/6e40431b649d4333eecd1ea549d2e550a7e6a619",
+      "title": "An Empirical Study on Leveraging Position Embeddings for Target-oriented Opinion Words Extraction",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144950995",
+          "name": "Samuel Mensah"
+        },
+        {
+          "authorId": "2113849068",
+          "name": "Kai Sun"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "6fefb9bdce7c70f473574edc3ded714680030d2f",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6fefb9bdce7c70f473574edc3ded714680030d2f",
+      "title": "On the Importance of Effectively Adapting Pretrained Language Models for Active Learning",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "82259306",
+          "name": "Katerina Margatina"
+        },
+        {
+          "authorId": "2934336",
+          "name": "Lo\u00efc Barrault"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "79fc932586556ae79e6fe2970a136824d940db27",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/79fc932586556ae79e6fe2970a136824d940db27",
+      "title": "Variable Instance-Level Explainability for Text Classification",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51015453",
+          "name": "G. Chrysostomou"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "8bc20aaa5342b4cdc2bc8b1623ab326873f77444",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/8bc20aaa5342b4cdc2bc8b1623ab326873f77444",
+      "title": "Point-of-Interest Type Prediction using Text and Images",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1661213189",
+          "name": "Danae S\u00e1nchez Villegas"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "a88eb2104efba1a421700501eb56a995b3bb2b1c",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a88eb2104efba1a421700501eb56a995b3bb2b1c",
+      "title": "Flexible Instance-Specific Rationalization of NLP Models",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2021,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2125182391",
+          "name": "G. Chrysostomou"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "a9381a4b57f81400224b6dbf0915e910c1966bcc",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a9381a4b57f81400224b6dbf0915e910c1966bcc",
+      "title": "PAIRWISE PROXIMITY METRICS FOR TOPIC MODELLING EVALUATION BASED ON BERT EMBEDDINGS",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "90060615",
+          "name": "Areej Alokaili"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "2287562391",
+          "name": "Mark Stevenson"
+        },
+        {
+          "authorId": "2266238595",
+          "name": "Daniel Cer"
+        },
+        {
+          "authorId": "2285607559",
+          "name": "Yinfei Yang"
+        },
+        {
+          "authorId": "2285228812",
+          "name": "Sheng-yi Kong"
+        },
+        {
+          "authorId": "2275185405",
+          "name": "Nan Hua"
+        },
+        {
+          "authorId": "40831840",
+          "name": "Nicole Limtiaco"
+        },
+        {
+          "authorId": "2287597450",
+          "name": "Rhomni St"
+        },
+        {
+          "authorId": "40832517",
+          "name": "Noah Constant"
+        },
+        {
+          "authorId": "2261961752",
+          "name": "J. Devlin"
+        },
+        {
+          "authorId": "2262085555",
+          "name": "Ming-Wei Chang"
+        },
+        {
+          "authorId": "2262196473",
+          "name": "Kenton Lee"
+        },
+        {
+          "authorId": "2287292429",
+          "name": "Johnny Torres"
+        },
+        {
+          "authorId": "144981305",
+          "name": "Alberto Jimenez"
+        },
+        {
+          "authorId": "31014468",
+          "name": "Sixto Garc\u00eda"
+        },
+        {
+          "authorId": "32912952",
+          "name": "Andrew Valenti"
+        },
+        {
+          "authorId": "6258134",
+          "name": "Ravenna Thielstrom"
+        },
+        {
+          "authorId": "4137017",
+          "name": "Felix Gervits"
+        },
+        {
+          "authorId": "2007907408",
+          "name": "Michael Gold"
+        },
+        {
+          "authorId": "30815386",
+          "name": "Derek Egolf"
+        },
+        {
+          "authorId": "121848090",
+          "name": "matthias. scheutz"
+        },
+        {
+          "authorId": "2242152663",
+          "name": "Hanna M. Wallach"
+        },
+        {
+          "authorId": "2287603177",
+          "name": "Iain Murray"
+        },
+        {
+          "authorId": "2257253563",
+          "name": "Ruslan Salakhutdinov"
+        },
+        {
+          "authorId": "2287793997",
+          "name": "Bo Wang"
+        },
+        {
+          "authorId": "48717312",
+          "name": "M. Liakata"
+        },
+        {
+          "authorId": "2805349",
+          "name": "A. Zubiaga"
+        }
+      ]
+    },
+    {
+      "paperId": "acac699d02a972f58b091bfbef7518f0e61c8225",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/acac699d02a972f58b091bfbef7518f0e61c8225",
+      "title": "Frustratingly Simple Pretraining Alternatives to Masked Language Modeling",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145412147",
+          "name": "Atsuki Yamaguchi"
+        },
+        {
+          "authorId": "51015453",
+          "name": "G. Chrysostomou"
+        },
+        {
+          "authorId": "82259306",
+          "name": "Katerina Margatina"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "ad075acdd57625d72fac95b625c758ed8dadcf91",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/ad075acdd57625d72fac95b625c758ed8dadcf91",
+      "title": "Bayesian Active Learning with Pretrained Language Models",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "82259306",
+          "name": "Katerina Margatina"
+        },
+        {
+          "authorId": "2934336",
+          "name": "Lo\u00efc Barrault"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "bfc77a30c12c4d92efbd7be41696363ad2556316",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/bfc77a30c12c4d92efbd7be41696363ad2556316",
+      "title": "Modeling the Severity of Complaints in Social Media",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1999667117",
+          "name": "Mali Jin"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "fd33e77884e69f6bc099990fc2790248af2749d9",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/fd33e77884e69f6bc099990fc2790248af2749d9",
+      "title": "LexGLUE: A Benchmark Dataset for Legal Language Understanding in English",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 238,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "10783142",
+          "name": "Ilias Chalkidis"
+        },
+        {
+          "authorId": "16228163",
+          "name": "Abhik Jana"
+        },
+        {
+          "authorId": "2007237523",
+          "name": "D. Hartung"
+        },
+        {
+          "authorId": "50407992",
+          "name": "M. Bommarito"
+        },
+        {
+          "authorId": "1752430",
+          "name": "Ion Androutsopoulos"
+        },
+        {
+          "authorId": "1697004",
+          "name": "D. Katz"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "2b06399f7a82e5a35595fb652f3b4710c918c9d8",
+      "publicationVenue": {
+        "id": "b626864f-4ee8-4c01-a388-2eb75da466d0",
+        "name": "European Association for Machine Translation Conferences/Workshops",
+        "type": "conference",
+        "alternate_names": [
+          "EAMT",
+          "Eur Assoc Mach Transl Conf"
+        ],
+        "url": "http://www.eamt.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2b06399f7a82e5a35595fb652f3b4710c918c9d8",
+      "title": "Quality In, Quality Out: Learning from Actual Mistakes",
+      "venue": "European Association for Machine Translation Conferences/Workshops",
+      "year": 2020,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1948646",
+          "name": "F. Blain"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "1702974",
+          "name": "Lucia Specia"
+        }
+      ]
+    },
+    {
+      "paperId": "3186deef8c2aa3839b40c7f56b05807592cbe918",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/3186deef8c2aa3839b40c7f56b05807592cbe918",
+      "title": "An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 83,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "10783142",
+          "name": "Ilias Chalkidis"
+        },
+        {
+          "authorId": "121316873",
+          "name": "Manos Fergadiotis"
+        },
+        {
+          "authorId": "148076881",
+          "name": "Sotiris Kotitsas"
+        },
+        {
+          "authorId": "1950133",
+          "name": "Prodromos Malakasiotis"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "1752430",
+          "name": "Ion Androutsopoulos"
+        }
+      ]
+    },
+    {
+      "paperId": "3df275cb08c8a36e69b0c7768dcf67fce145395d",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/3df275cb08c8a36e69b0c7768dcf67fce145395d",
+      "title": "LEGAL-BERT: \"Preparing the Muppets for Court'\"",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "10783142",
+          "name": "Ilias Chalkidis"
+        },
+        {
+          "authorId": "121316873",
+          "name": "Manos Fergadiotis"
+        },
+        {
+          "authorId": "1950133",
+          "name": "Prodromos Malakasiotis"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "1752430",
+          "name": "Ion Androutsopoulos"
+        }
+      ]
+    },
+    {
+      "paperId": "579530a6fd18654b1aaf53c8554bb7977f4eb0ed",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/579530a6fd18654b1aaf53c8554bb7977f4eb0ed",
+      "title": "LegalOps: A Summarization Corpus of Legal Opinions",
+      "venue": "2020 IEEE International Conference on Big Data (Big Data)",
+      "year": 2020,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2375093",
+          "name": "A. Gargett"
+        },
+        {
+          "authorId": "147902746",
+          "name": "Robin Firth"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "6e88f1df50d99185432a0fa5306df30b5ca28025",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6e88f1df50d99185432a0fa5306df30b5ca28025",
+      "title": "Complaint Identification in Social Media with Transformer Networks",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2020,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1999667117",
+          "name": "Mali Jin"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "8380c12956a7d72988d6b42ae3d510341b4f088e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8380c12956a7d72988d6b42ae3d510341b4f088e",
+      "title": "Point-of-Interest Type Inference from Social Media Text",
+      "venue": "AACL",
+      "year": 2020,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1661213189",
+          "name": "Danae S\u00e1nchez Villegas"
+        },
+        {
+          "authorId": "1976147781",
+          "name": "Daniel Preoctiuc-Pietro"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "8ae3421420ec57d551ef2f524b48dcc78f9337fc",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/8ae3421420ec57d551ef2f524b48dcc78f9337fc",
+      "title": "Unsupervised Quality Estimation for Neural Machine Translation",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 173,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2006017",
+          "name": "M. Fomicheva"
+        },
+        {
+          "authorId": "2115306932",
+          "name": "Shuo Sun"
+        },
+        {
+          "authorId": "78447404",
+          "name": "Lisa Yankovskaya"
+        },
+        {
+          "authorId": "1948646",
+          "name": "F. Blain"
+        },
+        {
+          "authorId": "144204682",
+          "name": "Francisco Guzm\u00e1n"
+        },
+        {
+          "authorId": "2032659",
+          "name": "Mark Fishel"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "113810201",
+          "name": "Vishrav Chaudhary"
+        },
+        {
+          "authorId": "1702974",
+          "name": "Lucia Specia"
+        }
+      ]
+    },
+    {
+      "paperId": "d4b42b4e03b1996483d76154f6b4a626c5db080b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d4b42b4e03b1996483d76154f6b4a626c5db080b",
+      "title": "Measuring Linguistic Diversity During COVID-19",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2258792766",
+          "name": "Svitlana Volkova"
+        },
+        {
+          "authorId": "2258795182",
+          "name": "Natalie Ahn"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "46713318",
+          "name": "Kristen M. Altenburger"
+        },
+        {
+          "authorId": "51117195",
+          "name": "Anvesh Rao Vijjini"
+        },
+        {
+          "authorId": "2258797946",
+          "name": "Alexandra Balahur"
+        },
+        {
+          "authorId": "2258788894",
+          "name": "Timothy Baldwin"
+        },
+        {
+          "authorId": "49406399",
+          "name": "Alon Bartal"
+        },
+        {
+          "authorId": "2258803762",
+          "name": "Eric Bell"
+        },
+        {
+          "authorId": "1395927418",
+          "name": "Laura Biester"
+        },
+        {
+          "authorId": "2258792716",
+          "name": "Michael Bloodgood"
+        },
+        {
+          "authorId": "2258803592",
+          "name": "Chris Brew"
+        },
+        {
+          "authorId": "2258850133",
+          "name": "Julian Brooke"
+        },
+        {
+          "authorId": "2258044362",
+          "name": "Aron Culotta"
+        },
+        {
+          "authorId": "2258786526",
+          "name": "Steve DeNeefe"
+        },
+        {
+          "authorId": "2258793161",
+          "name": "Matthew Denny"
+        }
+      ]
+    },
+    {
+      "paperId": "d85a208e368aa2981e740289182fbf04d4c4880f",
+      "publicationVenue": {
+        "id": "138e58fc-8643-41c2-a92c-068ea4f4c607",
+        "name": "PeerJ Computer Science",
+        "alternate_names": [
+          "Peerj Comput Sci"
+        ],
+        "issn": "2376-5992",
+        "url": "https://peerj.com/archives/?journal=cs",
+        "alternate_urls": [
+          "https://peerj.com/computer-science/",
+          "http://peerj.com/cs"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/d85a208e368aa2981e740289182fbf04d4c4880f",
+      "title": "Identifying Twitter users who repost unreliable news sources with linguistic information",
+      "venue": "PeerJ Computer Science",
+      "year": 2020,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2044574846",
+          "name": "Yida Mu"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "dd07c26973bb7b2d16ce47e1aa4ad2da55136cd3",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/dd07c26973bb7b2d16ce47e1aa4ad2da55136cd3",
+      "title": "Analyzing Political Parody in Social Media",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1661214231",
+          "name": "Antonis Maronikolakis"
+        },
+        {
+          "authorId": "1661213189",
+          "name": "Danae S\u00e1nchez Villegas"
+        },
+        {
+          "authorId": "1398830377",
+          "name": "Daniel Preotiuc-Pietro"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "f27170031043adae15c285c6cc69750cb9c0c34a",
+      "publicationVenue": {
+        "id": "8dce23a9-44e0-4381-a39e-2acc1edff700",
+        "name": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+          "Int ACM SIGIR Conf Res Dev Inf Retr",
+          "SIGIR",
+          "Annu Int ACM SIGIR Conf Res Dev Inf Retr"
+        ],
+        "url": "http://www.acm.org/sigir/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f27170031043adae15c285c6cc69750cb9c0c34a",
+      "title": "Automatic Generation of Topic Labels",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2020,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "90060615",
+          "name": "Areej Alokaili"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "144324746",
+          "name": "Mark Stevenson"
+        }
+      ]
+    },
+    {
+      "paperId": "f6245b3e6270e4dc2e279c4b728030523dffcff4",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f6245b3e6270e4dc2e279c4b728030523dffcff4",
+      "title": "LEGAL-BERT: \u201cPreparing the Muppets for Court\u2019\u201d",
+      "venue": "Findings",
+      "year": 2020,
+      "citationCount": 240,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "10783142",
+          "name": "Ilias Chalkidis"
+        },
+        {
+          "authorId": "121316873",
+          "name": "Manos Fergadiotis"
+        },
+        {
+          "authorId": "1950133",
+          "name": "Prodromos Malakasiotis"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "1752430",
+          "name": "Ion Androutsopoulos"
+        }
+      ]
+    },
+    {
+      "paperId": "3a9996c9dc919b7f7c696a9502c37ff285143112",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/3a9996c9dc919b7f7c696a9502c37ff285143112",
+      "title": "Journalist-in-the-Loop: Continuous Learning as a Service for Rumour Analysis",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2568842",
+          "name": "T. Karmakharm"
+        },
+        {
+          "authorId": "1723649",
+          "name": "Kalina Bontcheva"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "7f7b93ff837dcb1bba79de29365a9d338c9c119a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/7f7b93ff837dcb1bba79de29365a9d338c9c119a",
+      "title": "Extreme Multi-Label Legal Text Classification: A Case Study in EU Legislation",
+      "venue": "Proceedings of the Natural Legal Language Processing Workshop 2019",
+      "year": 2019,
+      "citationCount": 72,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "10783142",
+          "name": "Ilias Chalkidis"
+        },
+        {
+          "authorId": "121316873",
+          "name": "Manos Fergadiotis"
+        },
+        {
+          "authorId": "1950133",
+          "name": "Prodromos Malakasiotis"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "1752430",
+          "name": "Ion Androutsopoulos"
+        }
+      ]
+    },
+    {
+      "paperId": "aca16f64ddbf187f8944118c8f72777c3d682521",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/aca16f64ddbf187f8944118c8f72777c3d682521",
+      "title": "Neural Legal Judgment Prediction in English",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 318,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "10783142",
+          "name": "Ilias Chalkidis"
+        },
+        {
+          "authorId": "1752430",
+          "name": "Ion Androutsopoulos"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "bb581633d3f477dcca1233b9e292f090e66654cd",
+      "publicationVenue": {
+        "id": "be46d9bc-380b-4b57-8140-bbd0da45ce9c",
+        "name": "International Conference on Computational Semantics",
+        "type": "conference",
+        "alternate_names": [
+          "IWCS",
+          "Int Conf Comput Semant"
+        ],
+        "url": "http://www.sigsem.org/wiki/index.php?title=IWCS"
+      },
+      "url": "https://www.semanticscholar.org/paper/bb581633d3f477dcca1233b9e292f090e66654cd",
+      "title": "Re-Ranking Words to Improve Interpretability of Automatically Generated Topics",
+      "venue": "International Conference on Computational Semantics",
+      "year": 2019,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "90060615",
+          "name": "Areej Alokaili"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "144795097",
+          "name": "Mark Stevenson"
+        }
+      ]
+    },
+    {
+      "paperId": "ddb79133c9ad4b99c7427b20a8900e73e5025b66",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ddb79133c9ad4b99c7427b20a8900e73e5025b66",
+      "title": "Automatically Identifying Complaints in Social Media",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 55,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1398830377",
+          "name": "Daniel Preotiuc-Pietro"
+        },
+        {
+          "authorId": "15344643",
+          "name": "Mihaela G\u0103man"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "edf811422430c02c3e08a004f69fc6038fa5d642",
+      "publicationVenue": {
+        "id": "ec4efbef-0722-428c-bdfa-603ece1d0829",
+        "name": "ACM Conference on Hypertext & Social Media",
+        "type": "conference",
+        "alternate_names": [
+          "HT",
+          "ACM Conf Hypertext  Soc Media"
+        ],
+        "url": "http://www.acm.org/sigweb/"
+      },
+      "url": "https://www.semanticscholar.org/paper/edf811422430c02c3e08a004f69fc6038fa5d642",
+      "title": "Predicting Twitter User Socioeconomic Attributes with Network and Language Information",
+      "venue": "ACM Conference on Hypertext & Social Media",
+      "year": 2018,
+      "citationCount": 53,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "2029302",
+          "name": "B. Chamberlain"
+        }
+      ]
+    },
+    {
+      "paperId": "f6a9b20a16556bb55e9c1b504dc84401a8620c9e",
+      "publicationVenue": {
+        "id": "7431ff67-91dc-41fa-b322-1b1ca657025f",
+        "name": "International Conference on Information and Knowledge Management",
+        "type": "conference",
+        "alternate_names": [
+          "Conference on Information and Knowledge Management",
+          "Conf Inf Knowl Manag",
+          "Int Conf Inf Knowl Manag",
+          "CIKM"
+        ],
+        "url": "http://www.cikm.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f6a9b20a16556bb55e9c1b504dc84401a8620c9e",
+      "title": "Nowcasting the Stance of Social Media Users in a Sudden Vote: The Case of the Greek Referendum",
+      "venue": "International Conference on Information and Knowledge Management",
+      "year": 2018,
+      "citationCount": 33,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "32728828",
+          "name": "Adam Tsakalidis"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "1722663",
+          "name": "A. Cristea"
+        },
+        {
+          "authorId": "1991548",
+          "name": "Maria Liakata"
+        }
+      ]
+    },
+    {
+      "paperId": "71f0a3f4779bd2d086be76de1fc23158fe348cd9",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/71f0a3f4779bd2d086be76de1fc23158fe348cd9",
+      "title": "Multimodal Topic Labelling",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2017,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145465286",
+          "name": "Timothy Baldwin"
+        },
+        {
+          "authorId": "1800564",
+          "name": "Jey Han Lau"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "1947259",
+          "name": "Ionut-Teodor Sorodoc"
+        }
+      ]
+    },
+    {
+      "paperId": "42f85cbf2e79a37c34f05b7dc572604a2506d576",
+      "publicationVenue": {
+        "id": "8ee71e17-421e-43db-ad2d-cc8af6217a0d",
+        "name": "European Conference on Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "ECIR",
+          "Eur Conf Inf Retr"
+        ],
+        "url": "https://en.wikipedia.org/wiki/European_Conference_on_Information_Retrieval"
+      },
+      "url": "https://www.semanticscholar.org/paper/42f85cbf2e79a37c34f05b7dc572604a2506d576",
+      "title": "Inferring the Socioeconomic Status of Social Media Users Based on Behaviour and Language",
+      "venue": "European Conference on Information Retrieval",
+      "year": 2016,
+      "citationCount": 58,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3006026",
+          "name": "Vasileios Lampos"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "114789971",
+          "name": "Jens K. Geyti"
+        },
+        {
+          "authorId": "2064360363",
+          "name": "Bin Zou"
+        },
+        {
+          "authorId": "1716933",
+          "name": "I. Cox"
+        }
+      ]
+    },
+    {
+      "paperId": "821cb18b33c1006babff61d4b2d11af2f801371e",
+      "publicationVenue": {
+        "id": "8ee71e17-421e-43db-ad2d-cc8af6217a0d",
+        "name": "European Conference on Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "ECIR",
+          "Eur Conf Inf Retr"
+        ],
+        "url": "https://en.wikipedia.org/wiki/European_Conference_on_Information_Retrieval"
+      },
+      "url": "https://www.semanticscholar.org/paper/821cb18b33c1006babff61d4b2d11af2f801371e",
+      "title": "Labeling Topics with Images Using a Neural Network",
+      "venue": "European Conference on Information Retrieval",
+      "year": 2016,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "2008596",
+          "name": "Arpit Mittal"
+        }
+      ]
+    },
+    {
+      "paperId": "a929a3d92e305f4ef22ad9e52d264e7782394bd4",
+      "publicationVenue": {
+        "id": "138e58fc-8643-41c2-a92c-068ea4f4c607",
+        "name": "PeerJ Computer Science",
+        "alternate_names": [
+          "Peerj Comput Sci"
+        ],
+        "issn": "2376-5992",
+        "url": "https://peerj.com/archives/?journal=cs",
+        "alternate_urls": [
+          "https://peerj.com/computer-science/",
+          "http://peerj.com/cs"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a929a3d92e305f4ef22ad9e52d264e7782394bd4",
+      "title": "Predicting judicial decisions of the European Court of Human Rights: a Natural Language Processing perspective",
+      "venue": "PeerJ Computer Science",
+      "year": 2016,
+      "citationCount": 555,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "8245526",
+          "name": "D. Tsarapatsanis"
+        },
+        {
+          "authorId": "1398830377",
+          "name": "Daniel Preotiuc-Pietro"
+        },
+        {
+          "authorId": "3006026",
+          "name": "Vasileios Lampos"
+        }
+      ]
+    },
+    {
+      "paperId": "361d31150acc250191eba07622ce65e5a66564c3",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/361d31150acc250191eba07622ce65e5a66564c3",
+      "title": "Evaluating topic representations for exploring document collections",
+      "venue": "J. Assoc. Inf. Sci. Technol.",
+      "year": 2015,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "145465286",
+          "name": "Timothy Baldwin"
+        },
+        {
+          "authorId": "1800564",
+          "name": "Jey Han Lau"
+        },
+        {
+          "authorId": "144324746",
+          "name": "Mark Stevenson"
+        }
+      ]
+    },
+    {
+      "paperId": "3812aa9f776712ff6aac521285d3ba1ce58c6217",
+      "publicationVenue": {
+        "id": "7431ff67-91dc-41fa-b322-1b1ca657025f",
+        "name": "International Conference on Information and Knowledge Management",
+        "type": "conference",
+        "alternate_names": [
+          "Conference on Information and Knowledge Management",
+          "Conf Inf Knowl Manag",
+          "Int Conf Inf Knowl Manag",
+          "CIKM"
+        ],
+        "url": "http://www.cikm.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3812aa9f776712ff6aac521285d3ba1ce58c6217",
+      "title": "TM 2015 -- Topic Models: Post-Processing and Applications Workshop",
+      "venue": "International Conference on Information and Knowledge Management",
+      "year": 2015,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "1800564",
+          "name": "Jey Han Lau"
+        },
+        {
+          "authorId": "145465286",
+          "name": "Timothy Baldwin"
+        },
+        {
+          "authorId": "144795097",
+          "name": "Mark Stevenson"
+        }
+      ]
+    },
+    {
+      "paperId": "71587670128aa44c2d58b30948f1b70e557c72a0",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/71587670128aa44c2d58b30948f1b70e557c72a0",
+      "title": "An analysis of the user occupational class through Twitter content",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2015,
+      "citationCount": 222,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1398830377",
+          "name": "Daniel Preotiuc-Pietro"
+        },
+        {
+          "authorId": "3006026",
+          "name": "Vasileios Lampos"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "7ff61b72b32c4a70077f992563f35c524e6ea510",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/7ff61b72b32c4a70077f992563f35c524e6ea510",
+      "title": "Proceedings of the 2015 Workshop on Topic Models: Post-Processing and Applications",
+      "venue": "TM@CIKM",
+      "year": 2015,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "1800564",
+          "name": "Jey Han Lau"
+        },
+        {
+          "authorId": "145465286",
+          "name": "Timothy Baldwin"
+        },
+        {
+          "authorId": "144324746",
+          "name": "Mark Stevenson"
+        }
+      ]
+    },
+    {
+      "paperId": "9708f7498472a052058a92f81cf5043b987ae1a9",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9708f7498472a052058a92f81cf5043b987ae1a9",
+      "title": "A Hybrid Distributional and Knowledge-based Model of Lexical Semantics",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2015,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "144795097",
+          "name": "Mark Stevenson"
+        }
+      ]
+    },
+    {
+      "paperId": "a332b02638c05212fd3d51d8543e6cd0784347f0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a332b02638c05212fd3d51d8543e6cd0784347f0",
+      "title": "Why are these similar? Investigating item similarity types in a large digital library",
+      "venue": "J. Assoc. Inf. Sci. Technol.",
+      "year": 2015,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1403836100",
+          "name": "Aitor Gonzalez-Agirre"
+        },
+        {
+          "authorId": "1785173",
+          "name": "German Rigau"
+        },
+        {
+          "authorId": "1733049",
+          "name": "Eneko Agirre"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "144324746",
+          "name": "Mark Stevenson"
+        }
+      ]
+    },
+    {
+      "paperId": "ba240e56732c217be36e6862f252a09ac2588a57",
+      "publicationVenue": {
+        "id": "0aed7a40-85f3-4c66-9e1b-c1556c57001b",
+        "name": "PLoS ONE",
+        "type": "journal",
+        "alternate_names": [
+          "Plo ONE",
+          "PLOS ONE",
+          "PLO ONE"
+        ],
+        "issn": "1932-6203",
+        "url": "https://journals.plos.org/plosone/",
+        "alternate_urls": [
+          "http://www.plosone.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ba240e56732c217be36e6862f252a09ac2588a57",
+      "title": "Studying User Income through Language, Behaviour and Affect in Social Media",
+      "venue": "PLoS ONE",
+      "year": 2015,
+      "citationCount": 204,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "1398830377",
+          "name": "Daniel Preotiuc-Pietro"
+        },
+        {
+          "authorId": "144762853",
+          "name": "S. Volkova"
+        },
+        {
+          "authorId": "3006026",
+          "name": "Vasileios Lampos"
+        },
+        {
+          "authorId": "1698412",
+          "name": "Yoram Bachrach"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "046ac4addb6ef50a0da9ffc18547c645f6a083bd",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/046ac4addb6ef50a0da9ffc18547c645f6a083bd",
+      "title": "Representing topics labels for exploring digital libraries",
+      "venue": "IEEE/ACM Joint Conference on Digital Libraries",
+      "year": 2014,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "145465286",
+          "name": "Timothy Baldwin"
+        },
+        {
+          "authorId": "1800564",
+          "name": "Jey Han Lau"
+        },
+        {
+          "authorId": "144795097",
+          "name": "Mark Stevenson"
+        }
+      ]
+    },
+    {
+      "paperId": "14fb7c59e0379438db28ed30ee5d8f92e8fa22b2",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/14fb7c59e0379438db28ed30ee5d8f92e8fa22b2",
+      "title": "Predicting and Characterising User Impact on Twitter",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2014,
+      "citationCount": 80,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3006026",
+          "name": "Vasileios Lampos"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "1398830377",
+          "name": "Daniel Preotiuc-Pietro"
+        },
+        {
+          "authorId": "143620680",
+          "name": "Trevor Cohn"
+        }
+      ]
+    },
+    {
+      "paperId": "5fcab9045d9209a1989b8732e4565aa298be16f0",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5fcab9045d9209a1989b8732e4565aa298be16f0",
+      "title": "Measuring the Similarity between Automatically Generated Topics",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2014,
+      "citationCount": 49,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "144795097",
+          "name": "Mark Stevenson"
+        }
+      ]
+    },
+    {
+      "paperId": "aed8d0f5af081cf1bc5c2694c6a3147a3464bd38",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/aed8d0f5af081cf1bc5c2694c6a3147a3464bd38",
+      "title": "Interpreting document collections with topic models",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        }
+      ]
+    },
+    {
+      "paperId": "d24d88d3f8a09a46b8562c20972c88ce52e93bd8",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d24d88d3f8a09a46b8562c20972c88ce52e93bd8",
+      "title": "Labelling Topics using Unsupervised Graph-based Methods",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2014,
+      "citationCount": 41,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "144795097",
+          "name": "Mark Stevenson"
+        }
+      ]
+    },
+    {
+      "paperId": "af5e4fe638c6575d64262b3baa7705128d8b0235",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/af5e4fe638c6575d64262b3baa7705128d8b0235",
+      "title": "PATHS: A System for Accessing Cultural Heritage Collections",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2013,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1733049",
+          "name": "Eneko Agirre"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "1704149",
+          "name": "Paul D. Clough"
+        },
+        {
+          "authorId": "2164679",
+          "name": "Samuel Fernando"
+        },
+        {
+          "authorId": "2165260",
+          "name": "Paula Goodale"
+        },
+        {
+          "authorId": "27577175",
+          "name": "M. Hall"
+        },
+        {
+          "authorId": "2078619062",
+          "name": "Aitor Soroa Etxabe"
+        },
+        {
+          "authorId": "144795097",
+          "name": "Mark Stevenson"
+        }
+      ]
+    },
+    {
+      "paperId": "b1105adb7be0e0dcd6b6c101c571bf2493becf89",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/b1105adb7be0e0dcd6b6c101c571bf2493becf89",
+      "title": "UBC_UOS-TYPED: Regression for typed-similarity",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2013,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1733049",
+          "name": "Eneko Agirre"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "1403836100",
+          "name": "Aitor Gonzalez-Agirre"
+        },
+        {
+          "authorId": "1785173",
+          "name": "German Rigau"
+        },
+        {
+          "authorId": "144324746",
+          "name": "Mark Stevenson"
+        }
+      ]
+    },
+    {
+      "paperId": "bcd1c98f58aa580a628cf4c690efca947f89dbae",
+      "publicationVenue": {
+        "id": "be46d9bc-380b-4b57-8140-bbd0da45ce9c",
+        "name": "International Conference on Computational Semantics",
+        "type": "conference",
+        "alternate_names": [
+          "IWCS",
+          "Int Conf Comput Semant"
+        ],
+        "url": "http://www.sigsem.org/wiki/index.php?title=IWCS"
+      },
+      "url": "https://www.semanticscholar.org/paper/bcd1c98f58aa580a628cf4c690efca947f89dbae",
+      "title": "Evaluating Topic Coherence Using Distributional Semantics",
+      "venue": "International Conference on Computational Semantics",
+      "year": 2013,
+      "citationCount": 310,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "144795097",
+          "name": "Mark Stevenson"
+        }
+      ]
+    },
+    {
+      "paperId": "c75e28ec512ed5a18cba146236905a5f1b676fe2",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/c75e28ec512ed5a18cba146236905a5f1b676fe2",
+      "title": "Representing Topics Using Images",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2013,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "144795097",
+          "name": "Mark Stevenson"
+        }
+      ]
+    },
+    {
+      "paperId": "1e198c64a14297fbacd93104ff0331924b14dbdc",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1e198c64a14297fbacd93104ff0331924b14dbdc",
+      "title": "Computing similarity between items in a digital library of cultural heritage",
+      "venue": "JOCCH",
+      "year": 2012,
+      "citationCount": 34,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "144795097",
+          "name": "Mark Stevenson"
+        },
+        {
+          "authorId": "1704149",
+          "name": "Paul D. Clough"
+        }
+      ]
+    },
+    {
+      "paperId": "430a283d56da503fb40847d506b785958d7ba63a",
+      "publicationVenue": {
+        "id": "d349ea7c-841c-4208-ba4c-0eabc3ad07eb",
+        "name": "European Workshop on Human-Computer Interaction and Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "EuroHCIR",
+          "Eur Workshop Human-computer Interact Inf Retr"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/430a283d56da503fb40847d506b785958d7ba63a",
+      "title": "User-Centred Design to Support Exploration and Path Creation in Cultural Heritage Collections",
+      "venue": "European Workshop on Human-Computer Interaction and Information Retrieval",
+      "year": 2012,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Sociology",
+        "Geography",
+        "Engineering",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2165260",
+          "name": "Paula Goodale"
+        },
+        {
+          "authorId": "1704149",
+          "name": "Paul D. Clough"
+        },
+        {
+          "authorId": "144045529",
+          "name": "N. Ford"
+        },
+        {
+          "authorId": "27577175",
+          "name": "M. Hall"
+        },
+        {
+          "authorId": "144795097",
+          "name": "Mark Stevenson"
+        },
+        {
+          "authorId": "2164679",
+          "name": "Samuel Fernando"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "39499231",
+          "name": "K. Fernie"
+        },
+        {
+          "authorId": "2075544520",
+          "name": "Phil Archer"
+        },
+        {
+          "authorId": "2891733",
+          "name": "A. D. Polo"
+        }
+      ]
+    },
+    {
+      "paperId": "7788a16930cc36e7d0015aeff26e3b1a07f969dc",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/7788a16930cc36e7d0015aeff26e3b1a07f969dc",
+      "title": "Computing Similarity between Cultural Heritage Items using Multimodal Features",
+      "venue": "LaTeCH@EACL",
+      "year": 2012,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "144795097",
+          "name": "Mark Stevenson"
+        }
+      ]
+    },
+    {
+      "paperId": "cc46472375c8ff1229ab4ef0cc32a9bbe90408a7",
+      "publicationVenue": {
+        "id": "14508953-a0fc-42e5-9a54-ab6f00373c45",
+        "name": "International Conference on Theory and Practice of Digital Libraries",
+        "type": "conference",
+        "alternate_names": [
+          "Theory Pract Digit Libr",
+          "International Conference Theory and Practice Digital Libraries",
+          "TPDL",
+          "Int Conf Theory Pract Digit Libr",
+          "Theory and Practice of Digital Libraries"
+        ],
+        "url": "http://www.tpdl.eu/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cc46472375c8ff1229ab4ef0cc32a9bbe90408a7",
+      "title": "PATHS - Exploring Digital Cultural Heritage Spaces",
+      "venue": "International Conference on Theory and Practice of Digital Libraries",
+      "year": 2012,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Sociology"
+      ],
+      "authors": [
+        {
+          "authorId": "27577175",
+          "name": "M. Hall"
+        },
+        {
+          "authorId": "1733049",
+          "name": "Eneko Agirre"
+        },
+        {
+          "authorId": "3238627",
+          "name": "Nikolaos Aletras"
+        },
+        {
+          "authorId": "33776091",
+          "name": "Runar Bergheim"
+        },
+        {
+          "authorId": "1819585",
+          "name": "K. Chandrinos"
+        },
+        {
+          "authorId": "1704149",
+          "name": "Paul D. Clough"
+        },
+        {
+          "authorId": "2164679",
+          "name": "Samuel Fernando"
+        },
+        {
+          "authorId": "39499231",
+          "name": "K. Fernie"
+        },
+        {
+          "authorId": "2165260",
+          "name": "Paula Goodale"
+        },
+        {
+          "authorId": "143939312",
+          "name": "Jillian R. Griffiths"
+        },
+        {
+          "authorId": "1715983",
+          "name": "Oier Lopez de Lacalle"
+        },
+        {
+          "authorId": "2891733",
+          "name": "A. D. Polo"
+        },
+        {
+          "authorId": "2078619062",
+          "name": "Aitor Soroa Etxabe"
+        },
+        {
+          "authorId": "144795097",
+          "name": "Mark Stevenson"
+        }
+      ]
+    }
+  ]
+}

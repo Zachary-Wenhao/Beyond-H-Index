@@ -1,0 +1,1407 @@
+{
+  "authorId": "2112677245",
+  "name": "Yu Gu",
+  "affiliations": [],
+  "paperCount": 20,
+  "citationCount": 1996,
+  "hIndex": 12,
+  "papers": [
+    {
+      "paperId": "0413a92b91e2dbcbfaa042d0519f3d919bfe57e7",
+      "publicationVenue": {
+        "id": "6171bcff-8306-41c7-af12-fa1d87117cf1",
+        "name": "Machine Learning in Health Care",
+        "type": "conference",
+        "alternate_names": [
+          "MLHC",
+          "Mach Learn Health Care"
+        ],
+        "url": "http://mucmd.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/0413a92b91e2dbcbfaa042d0519f3d919bfe57e7",
+      "title": "Scaling Clinical Trial Matching Using Large Language Models: A Case Study in Oncology",
+      "venue": "Machine Learning in Health Care",
+      "year": 2023,
+      "citationCount": 33,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "7016395",
+          "name": "C. Moung"
+        },
+        {
+          "authorId": "2228760409",
+          "name": "Jacob Abel"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "6150927",
+          "name": "R. Weerasinghe"
+        },
+        {
+          "authorId": "35695043",
+          "name": "B. Piening"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "46392172",
+          "name": "C. Bifulco"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "227d0ec1231b951c06c8dc2992e4dcdd5cd62248",
+      "publicationVenue": {
+        "id": "a631cd93-9863-44c8-8dff-9eb3fbf4f83e",
+        "name": "Clinical Natural Language Processing Workshop",
+        "type": "conference",
+        "alternate_names": [
+          "ClinicalNLP",
+          "Clin Nat Lang Process Workshop"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/227d0ec1231b951c06c8dc2992e4dcdd5cd62248",
+      "title": "Interactive Span Recommendation for Biomedical Text",
+      "venue": "Clinical Natural Language Processing Workshop",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "13794901",
+          "name": "Louis Blankemeier"
+        },
+        {
+          "authorId": "2220964895",
+          "name": "Theodore Zhao"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "39620434",
+          "name": "Sid Kiblawi"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2063969492",
+          "name": "Akshay Chaudhari"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "41209309",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "2059369124",
+          "name": "J. Preston"
+        }
+      ]
+    },
+    {
+      "paperId": "29f2640447616cbec6deb809acdfeb1332356aba",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/29f2640447616cbec6deb809acdfeb1332356aba",
+      "title": "#85\u2005Clinicopathological characteristics and oncological outcomes of three subtypes of neuroendocrine carcinoma of the cervix: a multicenter retrospective study of 288 patients",
+      "venue": "Poster/ePoster Sessions",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2248671115",
+          "name": "Xiaoxin Ma"
+        },
+        {
+          "authorId": "2240460068",
+          "name": "Guonan Zhang"
+        },
+        {
+          "authorId": "2248936654",
+          "name": "Y. Xiang"
+        }
+      ]
+    },
+    {
+      "paperId": "2da5b68b89d1d53373d122ac8e6fb2d23668c22f",
+      "publicationVenue": {
+        "id": "17bac89e-3dba-467a-b9d4-71e3baefb08b",
+        "name": "Patterns",
+        "type": "journal",
+        "issn": "2666-3899",
+        "url": "https://www.cell.com/patterns",
+        "alternate_urls": [
+          "https://www.sciencedirect.com/journal/patterns"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2da5b68b89d1d53373d122ac8e6fb2d23668c22f",
+      "title": "Toward structuring real-world data: Deep learning for extracting oncology information from clinical text with patient-level supervision",
+      "venue": "Patterns",
+      "year": 2023,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2159543147",
+          "name": "Sam Preston"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "35794791",
+          "name": "Rajesh N. Rao"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "152277155",
+          "name": "Michael R. Lucas"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "6150927",
+          "name": "R. Weerasinghe"
+        },
+        {
+          "authorId": "2190425632",
+          "name": "Soohee Lee"
+        },
+        {
+          "authorId": "35695043",
+          "name": "B. Piening"
+        },
+        {
+          "authorId": "82914668",
+          "name": "Paul D. Tittel"
+        },
+        {
+          "authorId": "48269128",
+          "name": "Naveen Valluri"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "46392172",
+          "name": "C. Bifulco"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "323edf8acda89d87cc855d9b92863e07cad50f37",
+      "publicationVenue": {
+        "id": "fdeb07d1-a046-4a1a-98aa-167e7f8e667a",
+        "name": "Frontiers in Oncology",
+        "type": "journal",
+        "alternate_names": [
+          "Front Oncol"
+        ],
+        "issn": "2234-943X",
+        "url": "https://www.frontiersin.org/journals/oncology",
+        "alternate_urls": [
+          "http://www.frontiersin.org/oncology"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/323edf8acda89d87cc855d9b92863e07cad50f37",
+      "title": "Prognostic value of systemic immune-inflammation index in non-metastatic clear cell renal cell carcinoma with tumor thrombus",
+      "venue": "Frontiers in Oncology",
+      "year": 2023,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "152240419",
+          "name": "Yao Fu"
+        },
+        {
+          "authorId": "2155248886",
+          "name": "Xin Pan"
+        },
+        {
+          "authorId": "2110321220",
+          "name": "Yulin Zhou"
+        },
+        {
+          "authorId": "6200336",
+          "name": "C. Ji"
+        },
+        {
+          "authorId": "51098167",
+          "name": "T. Zhao"
+        },
+        {
+          "authorId": "47355840",
+          "name": "H. Miao"
+        },
+        {
+          "authorId": "6310948",
+          "name": "Huicheng Lv"
+        },
+        {
+          "authorId": "2138292889",
+          "name": "Jianping Da"
+        },
+        {
+          "authorId": "47744793",
+          "name": "Jingping Ge"
+        },
+        {
+          "authorId": "2168613850",
+          "name": "Linhui Wang"
+        },
+        {
+          "authorId": "47721854",
+          "name": "Le Qu"
+        },
+        {
+          "authorId": "2105688356",
+          "name": "Silun Ge"
+        },
+        {
+          "authorId": "51396265",
+          "name": "Hongqian Guo"
+        },
+        {
+          "authorId": "7670231",
+          "name": "Wenquan Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "3f5cf8ff14da4796fb087326e036b4a659f2654b",
+      "publicationVenue": {
+        "id": "3f7605a7-7e53-4ff7-8895-42f09a5f4355",
+        "name": "Frontiers in Immunology",
+        "type": "journal",
+        "alternate_names": [
+          "Front Immunol"
+        ],
+        "issn": "1664-3224",
+        "url": "http://www.frontiersin.org/immunology",
+        "alternate_urls": [
+          "https://www.frontiersin.org/journals/immunology",
+          "http://journal.frontiersin.org/journal/immunology"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3f5cf8ff14da4796fb087326e036b4a659f2654b",
+      "title": "The anti-PD-1 era of cervical cancer: achievement, opportunity, and challenge",
+      "venue": "Frontiers in Immunology",
+      "year": 2023,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2168574729",
+          "name": "Chen Li"
+        },
+        {
+          "authorId": "48882961",
+          "name": "W. Cang"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2143421830",
+          "name": "Lihua Chen"
+        },
+        {
+          "authorId": "2164747765",
+          "name": "Yang Xiang"
+        }
+      ]
+    },
+    {
+      "paperId": "3fcb25a89dcf8c8b2d8ec344f76a8e51022613d4",
+      "publicationVenue": {
+        "id": "5fa47c5b-3769-4934-b526-7192a1720a78",
+        "name": "MedComm",
+        "type": "journal",
+        "issn": "2688-2663",
+        "url": "https://onlinelibrary.wiley.com/journal/26882663"
+      },
+      "url": "https://www.semanticscholar.org/paper/3fcb25a89dcf8c8b2d8ec344f76a8e51022613d4",
+      "title": "Development and validation of a prognostic model incorporating tumor thrombus grading for nonmetastatic clear cell renal cell carcinoma with tumor thrombus: A multicohort study",
+      "venue": "MedComm",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "47721854",
+          "name": "Le Qu"
+        },
+        {
+          "authorId": "2155549825",
+          "name": "Hui Chen"
+        },
+        {
+          "authorId": "2115811691",
+          "name": "Qi Chen"
+        },
+        {
+          "authorId": "2105688356",
+          "name": "Silun Ge"
+        },
+        {
+          "authorId": "2027402750",
+          "name": "Ai-min Jiang"
+        },
+        {
+          "authorId": "5139846",
+          "name": "Nengwang Yu"
+        },
+        {
+          "authorId": "2110321220",
+          "name": "Yulin Zhou"
+        },
+        {
+          "authorId": "38092183",
+          "name": "M. Kunc"
+        },
+        {
+          "authorId": "2161224696",
+          "name": "Ye Zhou"
+        },
+        {
+          "authorId": "2149114663",
+          "name": "Xiang Feng"
+        },
+        {
+          "authorId": "144876529",
+          "name": "W. Zhai"
+        },
+        {
+          "authorId": "1965304",
+          "name": "Zhenjie Wu"
+        },
+        {
+          "authorId": "39128603",
+          "name": "M. He"
+        },
+        {
+          "authorId": "15463117",
+          "name": "Yao-ming Li"
+        },
+        {
+          "authorId": "144313209",
+          "name": "R. Chen"
+        },
+        {
+          "authorId": "2116919020",
+          "name": "Bo Han"
+        },
+        {
+          "authorId": "71250623",
+          "name": "Xing Zeng"
+        },
+        {
+          "authorId": "152240419",
+          "name": "Yao Fu"
+        },
+        {
+          "authorId": "6200336",
+          "name": "C. Ji"
+        },
+        {
+          "authorId": "120264761",
+          "name": "X. Fan"
+        },
+        {
+          "authorId": "1786799",
+          "name": "Guangyuan Zhang"
+        },
+        {
+          "authorId": "2115458751",
+          "name": "Cheng Zhao"
+        },
+        {
+          "authorId": "49583265",
+          "name": "Taile Jing"
+        },
+        {
+          "authorId": "2117344761",
+          "name": "Chenchen Feng"
+        },
+        {
+          "authorId": "1840532214",
+          "name": "Hongwei Zhao"
+        },
+        {
+          "authorId": "2112463003",
+          "name": "Di Sun"
+        },
+        {
+          "authorId": "2144693025",
+          "name": "Liang Wang"
+        },
+        {
+          "authorId": "50497877",
+          "name": "Sheng Tai"
+        },
+        {
+          "authorId": "2155988456",
+          "name": "Cheng Zhang"
+        },
+        {
+          "authorId": "2118435239",
+          "name": "Shao-Min Chen"
+        },
+        {
+          "authorId": "2108176709",
+          "name": "Yixun Liu"
+        },
+        {
+          "authorId": "2155569451",
+          "name": "Haifeng Wang"
+        },
+        {
+          "authorId": "152238423",
+          "name": "Jinli Gao"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "47355840",
+          "name": "H. Miao"
+        },
+        {
+          "authorId": "51098167",
+          "name": "T. Zhao"
+        },
+        {
+          "authorId": "6005577",
+          "name": "X. Yi"
+        },
+        {
+          "authorId": "8355109",
+          "name": "Chaopeng Tang"
+        },
+        {
+          "authorId": "2796822",
+          "name": "D. Fu"
+        },
+        {
+          "authorId": "5377456",
+          "name": "Haowei He"
+        },
+        {
+          "authorId": "33265536",
+          "name": "Q. Rao"
+        },
+        {
+          "authorId": "7670231",
+          "name": "Wenquan Zhou"
+        },
+        {
+          "authorId": "145857599",
+          "name": "N. Xu"
+        },
+        {
+          "authorId": "153043084",
+          "name": "Gongxian Wang"
+        },
+        {
+          "authorId": "40540098",
+          "name": "C. Liang"
+        },
+        {
+          "authorId": "2109232093",
+          "name": "Zhiyu Liu"
+        },
+        {
+          "authorId": "35374062",
+          "name": "D. Xia"
+        },
+        {
+          "authorId": "2142817326",
+          "name": "Xiongbing Zu"
+        },
+        {
+          "authorId": "2108633673",
+          "name": "Ming Chen"
+        },
+        {
+          "authorId": "51396265",
+          "name": "Hongqian Guo"
+        },
+        {
+          "authorId": "39900966",
+          "name": "Weijun Qin"
+        },
+        {
+          "authorId": "2108193900",
+          "name": "Zhe Wang"
+        },
+        {
+          "authorId": "143666563",
+          "name": "W. Xue"
+        },
+        {
+          "authorId": "49340481",
+          "name": "B. Shi"
+        },
+        {
+          "authorId": "2117148449",
+          "name": "Shaogang Wang"
+        },
+        {
+          "authorId": "2145110372",
+          "name": "Junhua Zheng"
+        },
+        {
+          "authorId": "2145774685",
+          "name": "Cheng Chen"
+        },
+        {
+          "authorId": "1402019708",
+          "name": "\u0141ukasz Zapa\u0142a"
+        },
+        {
+          "authorId": "47744793",
+          "name": "Jingping Ge"
+        },
+        {
+          "authorId": "2168613850",
+          "name": "Linhui Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "6c12769939dd75bd681d37ea17cce7e6a57f5c6e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6c12769939dd75bd681d37ea17cce7e6a57f5c6e",
+      "title": "Distilling Large Language Models for Biomedical Knowledge Extraction: A Case Study on Adverse Drug Events",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "3310870",
+          "name": "Yonas G. Woldesenbet"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "2223542076",
+          "name": "Praneeth Sanapathi"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "48269128",
+          "name": "Naveen Valluri"
+        },
+        {
+          "authorId": "35009788",
+          "name": "Erika Strandberg"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "72850d64435a297d6216099b9d2809e875ab31d0",
+      "publicationVenue": {
+        "id": "fdeb07d1-a046-4a1a-98aa-167e7f8e667a",
+        "name": "Frontiers in Oncology",
+        "type": "journal",
+        "alternate_names": [
+          "Front Oncol"
+        ],
+        "issn": "2234-943X",
+        "url": "https://www.frontiersin.org/journals/oncology",
+        "alternate_urls": [
+          "http://www.frontiersin.org/oncology"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/72850d64435a297d6216099b9d2809e875ab31d0",
+      "title": "Comparison of oncological outcomes in elderly early-stage cervical cancer patients treated with radical surgery or radiotherapy: A real-world retrospective study with propensity score matching",
+      "venue": "Frontiers in Oncology",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2219052558",
+          "name": "Hongyan Cheng"
+        },
+        {
+          "authorId": "48882961",
+          "name": "W. Cang"
+        },
+        {
+          "authorId": "2108563078",
+          "name": "Lihua Chen"
+        },
+        {
+          "authorId": "2310367",
+          "name": "Junjun Yang"
+        },
+        {
+          "authorId": "2164747765",
+          "name": "Yang Xiang"
+        }
+      ]
+    },
+    {
+      "paperId": "76b99439d524ae1813c30edc4bcad487a30a1f8c",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/76b99439d524ae1813c30edc4bcad487a30a1f8c",
+      "title": "UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "citationCount": 56,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2203076",
+          "name": "Wenxuan Zhou"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "1998918",
+          "name": "Muhao Chen"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "7af9ff4f3a07db5cd489a752d12d12527cee49d1",
+      "publicationVenue": {
+        "id": "76d88559-e586-415c-aa9c-4b8946ce8ed6",
+        "name": "EClinicalMedicine",
+        "type": "journal",
+        "issn": "2589-5370",
+        "url": "https://www.journals.elsevier.com/eclinicalmedicine",
+        "alternate_urls": [
+          "https://www.thelancet.com/journals/eclinm/issue/current?code=lancet-site",
+          "https://www.thelancet.com/journals/eclinm/home"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7af9ff4f3a07db5cd489a752d12d12527cee49d1",
+      "title": "Anti-PD-1 therapy plus chemotherapy versus anti-PD-1 therapy alone in patients with high-risk chemorefractory or relapsed gestational trophoblastic neoplasia: a multicenter, retrospective study",
+      "venue": "EClinicalMedicine",
+      "year": 2023,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2118776029",
+          "name": "Xiaoyu Wang"
+        },
+        {
+          "authorId": "48882961",
+          "name": "W. Cang"
+        },
+        {
+          "authorId": "2108959929",
+          "name": "Xiaomei I. Liu"
+        },
+        {
+          "authorId": "2152730781",
+          "name": "Yu Cheng"
+        },
+        {
+          "authorId": "117908128",
+          "name": "X. Wan"
+        },
+        {
+          "authorId": "1697396",
+          "name": "F. Feng"
+        },
+        {
+          "authorId": "145487071",
+          "name": "T. Ren"
+        },
+        {
+          "authorId": "2145806919",
+          "name": "Junfeng Zhao"
+        },
+        {
+          "authorId": "51511289",
+          "name": "F. Jiang"
+        },
+        {
+          "authorId": "2219052558",
+          "name": "Hongyan Cheng"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2143421830",
+          "name": "Lihua Chen"
+        },
+        {
+          "authorId": "2168574729",
+          "name": "Chen Li"
+        },
+        {
+          "authorId": "2116525076",
+          "name": "Xiuqin Li"
+        },
+        {
+          "authorId": "2310367",
+          "name": "Junjun Yang"
+        },
+        {
+          "authorId": "2124827611",
+          "name": "Xin Lu"
+        },
+        {
+          "authorId": "70402545",
+          "name": "Yang Xiang"
+        }
+      ]
+    },
+    {
+      "paperId": "079ccce2733c3bd6f0137230c3e9625a4688d8cf",
+      "publicationVenue": {
+        "id": "142347a8-a3f6-4ce4-bc56-09bc8fc9461d",
+        "name": "Frontiers in Medicine",
+        "type": "journal",
+        "alternate_names": [
+          "Frontiers of Medicine",
+          "Front Med",
+          "Fronteras en Medicina"
+        ],
+        "issn": "2296-858X",
+        "alternate_issns": [
+          "2095-0217",
+          "2618-2459"
+        ],
+        "url": "https://www.frontiersin.org/journals/medicine",
+        "alternate_urls": [
+          "https://link.springer.com/journal/volumesAndIssues/11684",
+          "http://link.springer.com/journal/11684",
+          "http://www.frontiersin.org/Medicine",
+          "http://journal.frontiersin.org/journal/medicine",
+          "http://www.fronteras.com.ar/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/079ccce2733c3bd6f0137230c3e9625a4688d8cf",
+      "title": "Development of a model for predicting the severity of chronic obstructive pulmonary disease",
+      "venue": "Frontiers in Medicine",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2145117151",
+          "name": "Long Chen"
+        },
+        {
+          "authorId": "49961808",
+          "name": "R. Qiu"
+        },
+        {
+          "authorId": "2109514005",
+          "name": "Shu-hong Wang"
+        },
+        {
+          "authorId": "2119039870",
+          "name": "Ping Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "4fa812fd10ee0003d2b6a87c24c32abe02c7436a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4fa812fd10ee0003d2b6a87c24c32abe02c7436a",
+      "title": "[Characteristic analysis of patients with type 2 diabetes mellitus combined with advanced stage chronic liver disease: a community population-based cross-sectional study in Heping District, Shenyang City (CHESS-LN 2101)].",
+      "venue": "Zhonghua gan zang bing za zhi = Zhonghua ganzangbing zazhi = Chinese journal of hepatology",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2026293230",
+          "name": "C. Lyu"
+        },
+        {
+          "authorId": "15535652",
+          "name": "Weijin Fu"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "46659552",
+          "name": "L. Wang"
+        },
+        {
+          "authorId": "2156081042",
+          "name": "X. Wang"
+        },
+        {
+          "authorId": "1712217103",
+          "name": "X. Liu"
+        },
+        {
+          "authorId": "48737471",
+          "name": "J. Qian"
+        },
+        {
+          "authorId": "2071416174",
+          "name": "Z. Tao"
+        },
+        {
+          "authorId": "2557275",
+          "name": "Y. Chen"
+        },
+        {
+          "authorId": "123266458",
+          "name": "C. Liu"
+        },
+        {
+          "authorId": "2053864354",
+          "name": "R. He"
+        },
+        {
+          "authorId": "13337820",
+          "name": "X. Guan"
+        },
+        {
+          "authorId": "2231305595",
+          "name": "Y. Wang"
+        },
+        {
+          "authorId": "2111814394",
+          "name": "X. Qi"
+        }
+      ]
+    },
+    {
+      "paperId": "70e2fe147c3fea47d25f40b9cbf4b7e8e3228810",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/70e2fe147c3fea47d25f40b9cbf4b7e8e3228810",
+      "title": "Towards Structuring Real-World Data at Scale: Deep Learning for Extracting Key Oncology Information from Clinical Text with Patient-Level Supervision",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2159543147",
+          "name": "Sam Preston"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": null,
+          "name": "Rajesh Rao"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "152277155",
+          "name": "Michael R. Lucas"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "6150927",
+          "name": "R. Weerasinghe"
+        },
+        {
+          "authorId": "2108253855",
+          "name": "S. Lee"
+        },
+        {
+          "authorId": "35695043",
+          "name": "B. Piening"
+        },
+        {
+          "authorId": "82914668",
+          "name": "Paul D. Tittel"
+        },
+        {
+          "authorId": "48269128",
+          "name": "Naveen Valluri"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "46392172",
+          "name": "C. Bifulco"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "a9c5e23c5559bfc4d95dd166c1ed29fa026bbf2e",
+      "publicationVenue": {
+        "id": "17bac89e-3dba-467a-b9d4-71e3baefb08b",
+        "name": "Patterns",
+        "type": "journal",
+        "issn": "2666-3899",
+        "url": "https://www.cell.com/patterns",
+        "alternate_urls": [
+          "https://www.sciencedirect.com/journal/patterns"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a9c5e23c5559bfc4d95dd166c1ed29fa026bbf2e",
+      "title": "Fine-tuning large neural language models for biomedical natural language processing",
+      "venue": "Patterns",
+      "year": 2021,
+      "citationCount": 106,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "2108860856",
+          "name": "Xiaodong Liu"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "21ae09d8eb9a1169a93eaf35133feddc8d70b72a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/21ae09d8eb9a1169a93eaf35133feddc8d70b72a",
+      "title": "Clinical concept normalization with a hybrid natural language processing system combining multilevel matching and machine learning ranking",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2020,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "71063171",
+          "name": "Long Chen"
+        },
+        {
+          "authorId": "1992771249",
+          "name": "Wenbo Fu"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "1390477477",
+          "name": "Zhiyong Sun"
+        },
+        {
+          "authorId": "11306791",
+          "name": "Haodan Li"
+        },
+        {
+          "authorId": "1992782587",
+          "name": "Enyu Li"
+        },
+        {
+          "authorId": "48932375",
+          "name": "Li Jiang"
+        },
+        {
+          "authorId": "48146699",
+          "name": "Yuan Gao"
+        },
+        {
+          "authorId": "39615882",
+          "name": "Y. Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "a2f38d03fd363e920494ad65a5f0ad8bd18cd60b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a2f38d03fd363e920494ad65a5f0ad8bd18cd60b",
+      "title": "Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing",
+      "venue": "ACM Trans. Comput. Heal.",
+      "year": 2020,
+      "citationCount": 1646,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "152277155",
+          "name": "Michael R. Lucas"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "46522098",
+          "name": "Xiaodong Liu"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "16f36ae4f38b53d07bb4a6277cdd3a404eb1b42f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/16f36ae4f38b53d07bb4a6277cdd3a404eb1b42f",
+      "title": "Clinical trial cohort selection based on multi-level rule-based natural language processing system",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2019,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "49329980",
+          "name": "Long Chen"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2117710051",
+          "name": "Xin Ji"
+        },
+        {
+          "authorId": null,
+          "name": "Chao Lou"
+        },
+        {
+          "authorId": "1390477477",
+          "name": "Zhiyong Sun"
+        },
+        {
+          "authorId": "11306791",
+          "name": "Haodan Li"
+        },
+        {
+          "authorId": "48146699",
+          "name": "Yuan Gao"
+        },
+        {
+          "authorId": "153268334",
+          "name": "Y. Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "c856aeb94291da57ef7bdc63925010378fe03ca0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c856aeb94291da57ef7bdc63925010378fe03ca0",
+      "title": "Extracting medications and associated adverse drug events using a natural language processing system combining knowledge base and deep learning",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2019,
+      "citationCount": 53,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "49329980",
+          "name": "Long Chen"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2117710051",
+          "name": "Xin Ji"
+        },
+        {
+          "authorId": "1390477477",
+          "name": "Zhiyong Sun"
+        },
+        {
+          "authorId": "11306791",
+          "name": "Haodan Li"
+        },
+        {
+          "authorId": "48146699",
+          "name": "Yuan Gao"
+        },
+        {
+          "authorId": "153268334",
+          "name": "Y. Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "936db97fba0a9fcac2c206278e0707fe83cb0dbf",
+      "publicationVenue": {
+        "id": "f9827422-a381-440c-a8a4-e5e50415934e",
+        "name": "Journal of Biomedical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Informatics"
+        ],
+        "issn": "1532-0464",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622857/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-biomedical-informatics/",
+          "http://www.sciencedirect.com/science/journal/15320464",
+          "http://www.journals.elsevier.com/journal-of-biomedical-informatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/936db97fba0a9fcac2c206278e0707fe83cb0dbf",
+      "title": "Symptom severity classification with gradient tree boosting.",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2017,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152799422",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2061132074",
+          "name": "John Chu Nguyen"
+        },
+        {
+          "authorId": "11306791",
+          "name": "Haodan Li"
+        },
+        {
+          "authorId": "2107987676",
+          "name": "Jiawei Zhang"
+        },
+        {
+          "authorId": "48146699",
+          "name": "Yuan Gao"
+        },
+        {
+          "authorId": "40598692",
+          "name": "Y. Huang"
+        }
+      ]
+    }
+  ]
+}

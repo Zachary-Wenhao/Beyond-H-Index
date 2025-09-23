@@ -1,0 +1,986 @@
+{
+  "authorId": "2112748109",
+  "name": "Ming Liu",
+  "affiliations": [],
+  "paperCount": 23,
+  "citationCount": 469,
+  "hIndex": 12,
+  "papers": [
+    {
+      "paperId": "36e99d8a60c4a8e7fdd78dd0bd5cbf8dd2da816b",
+      "publicationVenue": {
+        "id": "67f7f831-711a-43c8-8785-1e09005359b5",
+        "name": "International Joint Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Jt Conf Artif Intell",
+          "IJCAI"
+        ],
+        "url": "http://www.ijcai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/36e99d8a60c4a8e7fdd78dd0bd5cbf8dd2da816b",
+      "title": "A Survey on Out-of-Distribution Evaluation of Neural NLP Models",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2023,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2220683703",
+          "name": "Xinzhe Li"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "1406062858",
+          "name": "Shang Gao"
+        },
+        {
+          "authorId": "70219052",
+          "name": "Wray L. Buntine"
+        }
+      ]
+    },
+    {
+      "paperId": "7f971363e51b582e640399a207aa6d7e6862cbdb",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/7f971363e51b582e640399a207aa6d7e6862cbdb",
+      "title": "Recent Advances in Hierarchical Multi-label Text Classification: A Survey",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "9326811",
+          "name": "Rundong Liu"
+        },
+        {
+          "authorId": "2113676094",
+          "name": "Wen-Jun Liang"
+        },
+        {
+          "authorId": "2114375712",
+          "name": "Wei Luo"
+        },
+        {
+          "authorId": "2226151757",
+          "name": "Yuxiang Song"
+        },
+        {
+          "authorId": "2153525636",
+          "name": "Heng Zhang"
+        },
+        {
+          "authorId": "2115803447",
+          "name": "Ruohua Xu"
+        },
+        {
+          "authorId": "2110442735",
+          "name": "Yunfeng Li"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "7ff336025fb377d49ba36f2796de20df4fc34826",
+      "publicationVenue": {
+        "id": "3afb600a-49ad-40aa-858c-081def027584",
+        "name": "Workshop on Biomedical Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "BioNLP",
+          "Workshop Biomed Nat Lang Process"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7ff336025fb377d49ba36f2796de20df4fc34826",
+      "title": "DeakinNLP at ProbSum 2023: Clinical Progress Note Summarization with Rules and Language ModelsClinical Progress Note Summarization with Rules and Languague Models",
+      "venue": "Workshop on Biomedical Natural Language Processing",
+      "year": 2023,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2239888996",
+          "name": "Dan Zhang"
+        },
+        {
+          "authorId": "2150797908",
+          "name": "Weicong Tan"
+        },
+        {
+          "authorId": "2153525252",
+          "name": "He Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "9a56afda4f1153d2f7bff6163b652e3b272eeaee",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9a56afda4f1153d2f7bff6163b652e3b272eeaee",
+      "title": "Can Pretrained Language Models Derive Correct Semantics from Corrupt Subwords under Noise?",
+      "venue": "STARSEM",
+      "year": 2023,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2220683703",
+          "name": "Xinzhe Li"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "1406062858",
+          "name": "Shang Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "baeeef31edbdba2d19ba3dd99079fe1a32f6720a",
+      "publicationVenue": {
+        "id": "30e39c3f-406d-4192-8192-e8d75001c38a",
+        "name": "First Workshop on Insights from Negative Results in NLP",
+        "type": "conference",
+        "alternate_names": [
+          "Insights",
+          "First Workshop Insight Negat Result NLP"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/insights/"
+      },
+      "url": "https://www.semanticscholar.org/paper/baeeef31edbdba2d19ba3dd99079fe1a32f6720a",
+      "title": "An Empirical Study on Active Learning for Multi-label Text Classification",
+      "venue": "First Workshop on Insights from Negative Results in NLP",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2145361994",
+          "name": "Mengqi Wang"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "3c5f7e7ee0ab7413ba3bf8ad3400810da542d617",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/3c5f7e7ee0ab7413ba3bf8ad3400810da542d617",
+      "title": "How Far are We from Robust Long Abstractive Summarization?",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2134585717",
+          "name": "Huan Yee Koh"
+        },
+        {
+          "authorId": null,
+          "name": "Jiaxin Ju"
+        },
+        {
+          "authorId": "2156713249",
+          "name": "He Zhang"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2153326034",
+          "name": "Shirui Pan"
+        }
+      ]
+    },
+    {
+      "paperId": "6bff077aac42605cc9a0a19cf2d7e30880ebb908",
+      "publicationVenue": {
+        "id": "640a5acb-a481-4a3e-a751-1eb880600a99",
+        "name": "Natural Language Processing and Chinese Computing",
+        "type": "conference",
+        "alternate_names": [
+          "NLPCC",
+          "Nat Lang Process Chin Comput"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6bff077aac42605cc9a0a19cf2d7e30880ebb908",
+      "title": "Overview of NLPCC2022 Shared Task 5 Track 1: Multi-label Classification for Scientific Literature",
+      "venue": "Natural Language Processing and Chinese Computing",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2153525636",
+          "name": "Heng Zhang"
+        },
+        {
+          "authorId": "66384394",
+          "name": "Yangjie Tian"
+        },
+        {
+          "authorId": "2141676",
+          "name": "Tianrui Zong"
+        },
+        {
+          "authorId": "8811761",
+          "name": "Borui Cai"
+        },
+        {
+          "authorId": "2115803447",
+          "name": "Ruohua Xu"
+        },
+        {
+          "authorId": "2110442735",
+          "name": "Yunfeng Li"
+        }
+      ]
+    },
+    {
+      "paperId": "7364cadfbb8b4d74f48bef211fea6323e24106b1",
+      "publicationVenue": {
+        "id": "640a5acb-a481-4a3e-a751-1eb880600a99",
+        "name": "Natural Language Processing and Chinese Computing",
+        "type": "conference",
+        "alternate_names": [
+          "NLPCC",
+          "Nat Lang Process Chin Comput"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7364cadfbb8b4d74f48bef211fea6323e24106b1",
+      "title": "Overview of NLPCC2022 Shared Task 5 Track 2: Named Entity Recognition",
+      "venue": "Natural Language Processing and Chinese Computing",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8811761",
+          "name": "Borui Cai"
+        },
+        {
+          "authorId": "2153525636",
+          "name": "Heng Zhang"
+        },
+        {
+          "authorId": "2186412763",
+          "name": "Fenghong Liu"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2141676",
+          "name": "Tianrui Zong"
+        },
+        {
+          "authorId": "2117037127",
+          "name": "Zhe Chen"
+        },
+        {
+          "authorId": "2110442735",
+          "name": "Yunfeng Li"
+        }
+      ]
+    },
+    {
+      "paperId": "a49e1b98079c68b7a359f1fe1e64869356871a19",
+      "publicationVenue": {
+        "id": "7431ff67-91dc-41fa-b322-1b1ca657025f",
+        "name": "International Conference on Information and Knowledge Management",
+        "type": "conference",
+        "alternate_names": [
+          "Conference on Information and Knowledge Management",
+          "Conf Inf Knowl Manag",
+          "Int Conf Inf Knowl Manag",
+          "CIKM"
+        ],
+        "url": "http://www.cikm.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a49e1b98079c68b7a359f1fe1e64869356871a19",
+      "title": "Semi-supervised Continual Learning with Meta Self-training",
+      "venue": "International Conference on Information and Knowledge Management",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2069288370",
+          "name": "Stella Ho"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "1723019",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "2110442735",
+          "name": "Yunfeng Li"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        },
+        {
+          "authorId": "2112313134",
+          "name": "Shang Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "c45418475a4f78bb2bce77dab952ee80a39844db",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c45418475a4f78bb2bce77dab952ee80a39844db",
+      "title": "Mulan: A Multiple Residual Article-Wise Attention Network for Legal Judgment Prediction",
+      "venue": "ACM Trans. Asian Low Resour. Lang. Inf. Process.",
+      "year": 2022,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108169214",
+          "name": "Junyi Chen"
+        },
+        {
+          "authorId": "1723019",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "1882859",
+          "name": "Xiabing Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "f8d44802ac8190864c61c9aaf4a8b450261873ab",
+      "publicationVenue": {
+        "id": "7b2adce0-d53f-49d6-8784-b0645604fe62",
+        "name": "ACM Computing Surveys",
+        "type": "journal",
+        "alternate_names": [
+          "ACM Comput Surv"
+        ],
+        "issn": "0360-0300",
+        "url": "http://www.acm.org/pubs/surveys/",
+        "alternate_urls": [
+          "http://portal.acm.org/csur",
+          "https://csur.acm.org/",
+          "http://csur.acm.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f8d44802ac8190864c61c9aaf4a8b450261873ab",
+      "title": "An Empirical Survey on Long Document Summarization: Datasets, Models, and Metrics",
+      "venue": "ACM Computing Surveys",
+      "year": 2022,
+      "citationCount": 114,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2134585717",
+          "name": "Huan Yee Koh"
+        },
+        {
+          "authorId": null,
+          "name": "Jiaxin Ju"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2153326034",
+          "name": "Shirui Pan"
+        }
+      ]
+    },
+    {
+      "paperId": "3443a82babef57512473c3ea00733f05c607f522",
+      "publicationVenue": {
+        "id": "79c5a18d-0295-432c-aaa5-961d73de6d88",
+        "name": "IEEE Transactions on Neural Networks and Learning Systems",
+        "alternate_names": [
+          "IEEE Trans Neural Netw Learn Syst"
+        ],
+        "issn": "2162-237X",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=5962385",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3443a82babef57512473c3ea00733f05c607f522",
+      "title": "Prototype-Guided Memory Replay for Continual Learning",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2021,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2069288370",
+          "name": "Stella Ho"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "1723019",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        },
+        {
+          "authorId": "2068334797",
+          "name": "Yong Xiang"
+        }
+      ]
+    },
+    {
+      "paperId": "516fcc326921d1062c2a4718c0237c8d1abd9d57",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/516fcc326921d1062c2a4718c0237c8d1abd9d57",
+      "title": "Transformer over Pre-trained Transformer for Neural Text Segmentation with Enhanced Topic Coherence",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2136336190",
+          "name": "Kelvin Lo"
+        },
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "2150797908",
+          "name": "Weicong Tan"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2068124441",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "70219052",
+          "name": "Wray L. Buntine"
+        }
+      ]
+    },
+    {
+      "paperId": "882a7756d91e98a498af294c6dd7d54cbe4b490b",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/882a7756d91e98a498af294c6dd7d54cbe4b490b",
+      "title": "Leveraging Information Bottleneck for Scientific Document Summarization",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Jiaxin Ju"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2134585717",
+          "name": "Huan Yee Koh"
+        },
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "1723019",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "2585415",
+          "name": "Shirui Pan"
+        }
+      ]
+    },
+    {
+      "paperId": "9db03509f2a8917dc4135c0a7dfc4ff7274f533d",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/9db03509f2a8917dc4135c0a7dfc4ff7274f533d",
+      "title": "Neural Attention-Aware Hierarchical Topic Model",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "1643682004",
+          "name": "He Zhao"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2068124441",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "70219052",
+          "name": "Wray L. Buntine"
+        }
+      ]
+    },
+    {
+      "paperId": "ce86274c3661341fc3200533ccab20fccdb32a6a",
+      "publicationVenue": {
+        "id": "b1c450c8-34d6-47e7-9b08-9446f3eac1a5",
+        "name": "Australasian Language Technology Association Workshop",
+        "type": "conference",
+        "alternate_names": [
+          "ALTA",
+          "Australas Lang Technol Assoc Workshop"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ce86274c3661341fc3200533ccab20fccdb32a6a",
+      "title": "Exploring the Vulnerability of Natural Language Processing Models via Universal Adversarial Texts",
+      "venue": "Australasian Language Technology Association Workshop",
+      "year": 2021,
+      "citationCount": 5,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "50080100",
+          "name": "Xinzhe Li"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "9576855",
+          "name": "Xingjun Ma"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "d1b9265e88eeba84343ce450e24143b8b2a5f032",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d1b9265e88eeba84343ce450e24143b8b2a5f032",
+      "title": "BiDKT: Deep Knowledge Tracing with BERT",
+      "venue": "ADHOCNETS/TRIDENTCOM",
+      "year": 2021,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2150797908",
+          "name": "Weicong Tan"
+        },
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2153525636",
+          "name": "Heng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "f0110d0f7e938038bc1305c4c243b2d631d32c39",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/f0110d0f7e938038bc1305c4c243b2d631d32c39",
+      "title": "Federated Learning Meets Natural Language Processing: A Survey",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 66,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2069288370",
+          "name": "Stella Ho"
+        },
+        {
+          "authorId": "2145361994",
+          "name": "Mengqi Wang"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        },
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "2153525636",
+          "name": "Heng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "293f5961dcf84695d9daeb18373819336a47c15b",
+      "publicationVenue": {
+        "id": "8dce23a9-44e0-4381-a39e-2acc1edff700",
+        "name": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+          "Int ACM SIGIR Conf Res Dev Inf Retr",
+          "SIGIR",
+          "Annu Int ACM SIGIR Conf Res Dev Inf Retr"
+        ],
+        "url": "http://www.acm.org/sigir/"
+      },
+      "url": "https://www.semanticscholar.org/paper/293f5961dcf84695d9daeb18373819336a47c15b",
+      "title": "SummPip: Unsupervised Multi-Document Summarization with Sentence Graph Compression",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2020,
+      "citationCount": 63,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46508997",
+          "name": "Jinming Zhao"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        },
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "1723019",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "1643682004",
+          "name": "He Zhao"
+        },
+        {
+          "authorId": "2153525636",
+          "name": "Heng Zhang"
+        },
+        {
+          "authorId": "2561045",
+          "name": "Gholamreza Haffari"
+        }
+      ]
+    },
+    {
+      "paperId": "566c33d6206e92fccbb4d28c70806d489cb6b541",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/566c33d6206e92fccbb4d28c70806d489cb6b541",
+      "title": "Leveraging Cross Feedback of User and Item Embeddings with Attention for Variational Autoencoder based Collaborative Filtering.",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "1643682004",
+          "name": "He Zhao"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2109414686",
+          "name": "Ye Zhu"
+        },
+        {
+          "authorId": "1723019",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        },
+        {
+          "authorId": "1879212561",
+          "name": "W. Buntine"
+        }
+      ]
+    },
+    {
+      "paperId": "692ed1fdd064701150adb86151aa35cafdbad098",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/692ed1fdd064701150adb86151aa35cafdbad098",
+      "title": "Leveraging Cross Feedback of User and Item Embeddings for Variational Autoencoder based Collaborative Filtering",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143618655",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "1643682004",
+          "name": "He Zhao"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "1723019",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "2110442735",
+          "name": "Yunfeng Li"
+        },
+        {
+          "authorId": "2115803447",
+          "name": "Ruohua Xu"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "98b58872fe336d81bfa91c752259ade60b8c48f2",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/98b58872fe336d81bfa91c752259ade60b8c48f2",
+      "title": "Monash-Summ@LongSumm 20 SciSummPip: An Unsupervised Scientific Paper Summarization Pipeline",
+      "venue": "SDP",
+      "year": 2020,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Jiaxin Ju"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        },
+        {
+          "authorId": "2585415",
+          "name": "Shirui Pan"
+        }
+      ]
+    },
+    {
+      "paperId": "cd618944fa87f52f01d919facd392986a582dbb7",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cd618944fa87f52f01d919facd392986a582dbb7",
+      "title": "Learning How to Active Learn by Dreaming",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "122699890",
+          "name": "Thuy-Trang Vu"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "1749657",
+          "name": "Dinh Q. Phung"
+        },
+        {
+          "authorId": "2561045",
+          "name": "Gholamreza Haffari"
+        }
+      ]
+    }
+  ]
+}

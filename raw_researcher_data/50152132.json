@@ -1,0 +1,1398 @@
+{
+  "authorId": "50152132",
+  "name": "Shuchang Liu",
+  "affiliations": [],
+  "paperCount": 26,
+  "citationCount": 1265,
+  "hIndex": 19,
+  "papers": [
+    {
+      "paperId": "0d230fe2af4fe4fd2257ba2a10cfeb91126e27a3",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/0d230fe2af4fe4fd2257ba2a10cfeb91126e27a3",
+      "title": "VIP5: Towards Multimodal Foundation Models for Recommendation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 58,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1947101",
+          "name": "Shijie Geng"
+        },
+        {
+          "authorId": "2110449137",
+          "name": "Juntao Tan"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2011378",
+          "name": "Zuohui Fu"
+        },
+        {
+          "authorId": "1591136873",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "13cc7cb462d3146cbc35ccb128f66609c788a96a",
+      "publicationVenue": {
+        "id": "e07422f9-c065-40c3-a37b-75e98dce79fe",
+        "name": "The Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Conf",
+          "WWW"
+        ],
+        "url": "http://www.iw3c2.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/13cc7cb462d3146cbc35ccb128f66609c788a96a",
+      "title": "Multi-Task Recommendations with Reinforcement Learning",
+      "venue": "The Web Conference",
+      "year": 2023,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2204700561",
+          "name": "Ziru Liu"
+        },
+        {
+          "authorId": "2204719513",
+          "name": "Jiejie Tian"
+        },
+        {
+          "authorId": "144994208",
+          "name": "Qingpeng Cai"
+        },
+        {
+          "authorId": "2116711669",
+          "name": "Xiangyu Zhao"
+        },
+        {
+          "authorId": "2161309826",
+          "name": "Jingtong Gao"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2113596993",
+          "name": "Da Chen"
+        },
+        {
+          "authorId": "2204642544",
+          "name": "Tonghao He"
+        },
+        {
+          "authorId": "2153430224",
+          "name": "Dong Zheng"
+        },
+        {
+          "authorId": "2061280682",
+          "name": "Peng Jiang"
+        },
+        {
+          "authorId": "20029557",
+          "name": "Kun Gai"
+        }
+      ]
+    },
+    {
+      "paperId": "19f57c712d0a5dd47fb499aef9f76374dd5acea9",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/19f57c712d0a5dd47fb499aef9f76374dd5acea9",
+      "title": "A Large Language Model Enhanced Conversational Recommender System",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2047904135",
+          "name": "Yue Feng"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2093481204",
+          "name": "Zhenghai Xue"
+        },
+        {
+          "authorId": "144994208",
+          "name": "Qingpeng Cai"
+        },
+        {
+          "authorId": "2191842",
+          "name": "Lantao Hu"
+        },
+        {
+          "authorId": "2061280682",
+          "name": "Peng Jiang"
+        },
+        {
+          "authorId": "20029557",
+          "name": "Kun Gai"
+        },
+        {
+          "authorId": "143770118",
+          "name": "Fei Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "5197996cb586157dc7f5a7a8bd12c2f0b1377228",
+      "publicationVenue": {
+        "id": "e07422f9-c065-40c3-a37b-75e98dce79fe",
+        "name": "The Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Conf",
+          "WWW"
+        ],
+        "url": "http://www.iw3c2.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5197996cb586157dc7f5a7a8bd12c2f0b1377228",
+      "title": "Reinforcing User Retention in a Billion Scale Short Video Recommender System",
+      "venue": "The Web Conference",
+      "year": 2023,
+      "citationCount": 39,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144994208",
+          "name": "Qingpeng Cai"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2170467924",
+          "name": "Xueliang Wang"
+        },
+        {
+          "authorId": "2204463122",
+          "name": "Tianyou Zuo"
+        },
+        {
+          "authorId": "2204463602",
+          "name": "Wentao Xie"
+        },
+        {
+          "authorId": "2118582559",
+          "name": "Bin Yang"
+        },
+        {
+          "authorId": "2153430224",
+          "name": "Dong Zheng"
+        },
+        {
+          "authorId": "2061280682",
+          "name": "Peng Jiang"
+        },
+        {
+          "authorId": "20029557",
+          "name": "Kun Gai"
+        }
+      ]
+    },
+    {
+      "paperId": "5b9d865f2e8b1e421f42b0d8ca9c85538744bc2d",
+      "publicationVenue": {
+        "id": "e07422f9-c065-40c3-a37b-75e98dce79fe",
+        "name": "The Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Conf",
+          "WWW"
+        ],
+        "url": "http://www.iw3c2.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5b9d865f2e8b1e421f42b0d8ca9c85538744bc2d",
+      "title": "Exploration and Regularization of the Latent Action Space in Recommendation",
+      "venue": "The Web Conference",
+      "year": 2023,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "144994208",
+          "name": "Qingpeng Cai"
+        },
+        {
+          "authorId": "2020121737",
+          "name": "Bowen Sun"
+        },
+        {
+          "authorId": "2185248657",
+          "name": "Yuhao Wang"
+        },
+        {
+          "authorId": "2218282111",
+          "name": "Jiadi Jiang"
+        },
+        {
+          "authorId": "2153430224",
+          "name": "Dong Zheng"
+        },
+        {
+          "authorId": "20029557",
+          "name": "Kun Gai"
+        },
+        {
+          "authorId": "2061280682",
+          "name": "Peng Jiang"
+        },
+        {
+          "authorId": "2116711312",
+          "name": "Xiang Zhao"
+        },
+        {
+          "authorId": "1739818",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "6ca1057501f8c2ac06d068cf9f1a8a984f87f60f",
+      "publicationVenue": {
+        "id": "e07422f9-c065-40c3-a37b-75e98dce79fe",
+        "name": "The Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Conf",
+          "WWW"
+        ],
+        "url": "http://www.iw3c2.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6ca1057501f8c2ac06d068cf9f1a8a984f87f60f",
+      "title": "Two-Stage Constrained Actor-Critic for Short Video Recommendation",
+      "venue": "The Web Conference",
+      "year": 2023,
+      "citationCount": 44,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144994208",
+          "name": "Qingpeng Cai"
+        },
+        {
+          "authorId": "2093481204",
+          "name": "Zhenghai Xue"
+        },
+        {
+          "authorId": "2117835555",
+          "name": "Chi Zhang"
+        },
+        {
+          "authorId": "2052308113",
+          "name": "Wanqi Xue"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2088873890",
+          "name": "Ruohan Zhan"
+        },
+        {
+          "authorId": "2170467924",
+          "name": "Xueliang Wang"
+        },
+        {
+          "authorId": "2204463122",
+          "name": "Tianyou Zuo"
+        },
+        {
+          "authorId": "2204463602",
+          "name": "Wentao Xie"
+        },
+        {
+          "authorId": "2153430224",
+          "name": "Dong Zheng"
+        },
+        {
+          "authorId": "2061280682",
+          "name": "Peng Jiang"
+        },
+        {
+          "authorId": "20029557",
+          "name": "Kun Gai"
+        }
+      ]
+    },
+    {
+      "paperId": "8b87214afe121dc39c342fabc73014c4fefb31e3",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8b87214afe121dc39c342fabc73014c4fefb31e3",
+      "title": "State Regularized Policy Optimization on Data with Dynamics Shift",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2093481204",
+          "name": "Zhenghai Xue"
+        },
+        {
+          "authorId": "144994208",
+          "name": "Qingpeng Cai"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2153430224",
+          "name": "Dong Zheng"
+        },
+        {
+          "authorId": "2061280682",
+          "name": "Peng Jiang"
+        },
+        {
+          "authorId": "20029557",
+          "name": "Kun Gai"
+        },
+        {
+          "authorId": "143706345",
+          "name": "Bo An"
+        }
+      ]
+    },
+    {
+      "paperId": "d23dcca2fd6d30cc7284346684c79aae6daabb47",
+      "publicationVenue": {
+        "id": "a0edb93b-1e95-4128-a295-6b1659149cef",
+        "name": "Knowledge Discovery and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "KDD",
+          "Knowl Discov Data Min"
+        ],
+        "url": "http://www.acm.org/sigkdd/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d23dcca2fd6d30cc7284346684c79aae6daabb47",
+      "title": "Generative Flow Network for Listwise Recommendation",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2023,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "144994208",
+          "name": "Qingpeng Cai"
+        },
+        {
+          "authorId": "51002202",
+          "name": "Zhankui He"
+        },
+        {
+          "authorId": "2020121737",
+          "name": "Bowen Sun"
+        },
+        {
+          "authorId": "35660011",
+          "name": "Julian McAuley"
+        },
+        {
+          "authorId": "2218970499",
+          "name": "Done Zheng"
+        },
+        {
+          "authorId": "2061280682",
+          "name": "Peng Jiang"
+        },
+        {
+          "authorId": "20029557",
+          "name": "Kun Gai"
+        }
+      ]
+    },
+    {
+      "paperId": "34d1b6b3e73848caebe759de74d54753c9c2f3f5",
+      "publicationVenue": {
+        "id": "a0edb93b-1e95-4128-a295-6b1659149cef",
+        "name": "Knowledge Discovery and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "KDD",
+          "Knowl Discov Data Min"
+        ],
+        "url": "http://www.acm.org/sigkdd/"
+      },
+      "url": "https://www.semanticscholar.org/paper/34d1b6b3e73848caebe759de74d54753c9c2f3f5",
+      "title": "PrefRec: Recommender Systems with Human Preferences for Reinforcing Long-term User Engagement",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2022,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2052308113",
+          "name": "Wanqi Xue"
+        },
+        {
+          "authorId": "144994208",
+          "name": "Qingpeng Cai"
+        },
+        {
+          "authorId": "2093481204",
+          "name": "Zhenghai Xue"
+        },
+        {
+          "authorId": "1992684938",
+          "name": "Shuo Sun"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2153430224",
+          "name": "Dong Zheng"
+        },
+        {
+          "authorId": "2061280682",
+          "name": "Peng Jiang"
+        },
+        {
+          "authorId": "20029557",
+          "name": "Kun Gai"
+        },
+        {
+          "authorId": "143706345",
+          "name": "Bo An"
+        }
+      ]
+    },
+    {
+      "paperId": "397542cddbac98639a8d9938ac63feff7a6eacd1",
+      "publicationVenue": {
+        "id": "0d993d4a-09ba-4df8-90a4-7dfe25f0cb9e",
+        "name": "ACM Transactions on Intelligent Systems and Technology",
+        "type": "journal",
+        "alternate_names": [
+          "ACM Trans Intell Syst Technol"
+        ],
+        "issn": "2157-6904",
+        "url": "http://portal.acm.org/tist",
+        "alternate_urls": [
+          "https://tist.acm.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/397542cddbac98639a8d9938ac63feff7a6eacd1",
+      "title": "Fairness in Recommendation: Foundations, Methods, and Applications",
+      "venue": "ACM Transactions on Intelligent Systems and Technology",
+      "year": 2022,
+      "citationCount": 33,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48515097",
+          "name": "Yunqi Li"
+        },
+        {
+          "authorId": "67228325",
+          "name": "H. Chen"
+        },
+        {
+          "authorId": "2111044480",
+          "name": "Shuyuan Xu"
+        },
+        {
+          "authorId": "152988336",
+          "name": "Yingqiang Ge"
+        },
+        {
+          "authorId": "2110449137",
+          "name": "Juntao Tan"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2145038716",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "633b93ecfe1b4fa5a80b8d71d952b81c25e8898d",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/633b93ecfe1b4fa5a80b8d71d952b81c25e8898d",
+      "title": "Fairness in Recommendation: A Survey",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 44,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48515097",
+          "name": "Yunqi Li"
+        },
+        {
+          "authorId": "67228325",
+          "name": "H. Chen"
+        },
+        {
+          "authorId": "2111044480",
+          "name": "Shuyuan Xu"
+        },
+        {
+          "authorId": "152988336",
+          "name": "Yingqiang Ge"
+        },
+        {
+          "authorId": "2110449137",
+          "name": "Juntao Tan"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "1591136873",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "6fa5d70b0d834764072f4aff3317386d6dcfb03f",
+      "publicationVenue": {
+        "id": "61275a16-1e0d-479f-ac4e-f295310761f0",
+        "name": "ACM Conference on Recommender Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Recomm Syst",
+          "RecSys",
+          "ACM Conf Recomm Syst",
+          "Conference on Recommender Systems"
+        ],
+        "url": "http://recsys.acm.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6fa5d70b0d834764072f4aff3317386d6dcfb03f",
+      "title": "Fairness-aware Federated Matrix Factorization",
+      "venue": "ACM Conference on Recommender Systems",
+      "year": 2022,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "152988336",
+          "name": "Yingqiang Ge"
+        },
+        {
+          "authorId": "2111044480",
+          "name": "Shuyuan Xu"
+        },
+        {
+          "authorId": "1739818",
+          "name": "Yongfeng Zhang"
+        },
+        {
+          "authorId": "144173226",
+          "name": "A. Marian"
+        }
+      ]
+    },
+    {
+      "paperId": "8dd0727601d40d437a182f05548da563ac60d4b3",
+      "publicationVenue": {
+        "id": "8dce23a9-44e0-4381-a39e-2acc1edff700",
+        "name": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+          "Int ACM SIGIR Conf Res Dev Inf Retr",
+          "SIGIR",
+          "Annu Int ACM SIGIR Conf Res Dev Inf Retr"
+        ],
+        "url": "http://www.acm.org/sigir/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8dd0727601d40d437a182f05548da563ac60d4b3",
+      "title": "Explainable Fairness in Recommendation",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2022,
+      "citationCount": 42,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152988336",
+          "name": "Yingqiang Ge"
+        },
+        {
+          "authorId": "2110449137",
+          "name": "Juntao Tan"
+        },
+        {
+          "authorId": "2153095583",
+          "name": "Yangchun Zhu"
+        },
+        {
+          "authorId": "35846319",
+          "name": "Yinglong Xia"
+        },
+        {
+          "authorId": "33642939",
+          "name": "Jiebo Luo"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2011378",
+          "name": "Zuohui Fu"
+        },
+        {
+          "authorId": "1947101",
+          "name": "Shijie Geng"
+        },
+        {
+          "authorId": "2109968285",
+          "name": "Zelong Li"
+        },
+        {
+          "authorId": "2145038716",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "b20c87e2925a81f57d9c913423e9e74c14de5341",
+      "publicationVenue": {
+        "id": "c34aaa9c-865d-444d-96c0-7dc7dc341575",
+        "name": "ACM Transactions on Recommender Systems",
+        "type": "journal",
+        "alternate_names": [
+          "ACM Trans Recomm Syst"
+        ],
+        "issn": "2770-6699"
+      },
+      "url": "https://www.semanticscholar.org/paper/b20c87e2925a81f57d9c913423e9e74c14de5341",
+      "title": "A Survey on Trustworthy Recommender Systems",
+      "venue": "ACM Transactions on Recommender Systems",
+      "year": 2022,
+      "citationCount": 52,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152988336",
+          "name": "Yingqiang Ge"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2011378",
+          "name": "Zuohui Fu"
+        },
+        {
+          "authorId": "2110449137",
+          "name": "Juntao Tan"
+        },
+        {
+          "authorId": "2109968285",
+          "name": "Zelong Li"
+        },
+        {
+          "authorId": "2111044480",
+          "name": "Shuyuan Xu"
+        },
+        {
+          "authorId": "48515097",
+          "name": "Yunqi Li"
+        },
+        {
+          "authorId": "2885287",
+          "name": "Yikun Xian"
+        },
+        {
+          "authorId": "2145038716",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "b65118061650446bdd79087def417e6a4de7ecdf",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/b65118061650446bdd79087def417e6a4de7ecdf",
+      "title": "PrefRec: Preference-based Recommender Systems for Reinforcing Long-term User Engagement",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2052308113",
+          "name": "Wanqi Xue"
+        },
+        {
+          "authorId": "144994208",
+          "name": "Qingpeng Cai"
+        },
+        {
+          "authorId": "2093481204",
+          "name": "Zhenghai Xue"
+        },
+        {
+          "authorId": "1992684938",
+          "name": "Shuo Sun"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2153430224",
+          "name": "Dong Zheng"
+        },
+        {
+          "authorId": "2061280682",
+          "name": "Peng Jiang"
+        },
+        {
+          "authorId": "143706345",
+          "name": "Bo An"
+        }
+      ]
+    },
+    {
+      "paperId": "df602516e28a9ef0ef665ed0aef551984d8d770d",
+      "publicationVenue": {
+        "id": "61275a16-1e0d-479f-ac4e-f295310761f0",
+        "name": "ACM Conference on Recommender Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Recomm Syst",
+          "RecSys",
+          "ACM Conf Recomm Syst",
+          "Conference on Recommender Systems"
+        ],
+        "url": "http://recsys.acm.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/df602516e28a9ef0ef665ed0aef551984d8d770d",
+      "title": "Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)",
+      "venue": "ACM Conference on Recommender Systems",
+      "year": 2022,
+      "citationCount": 415,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1947101",
+          "name": "Shijie Geng"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2011378",
+          "name": "Zuohui Fu"
+        },
+        {
+          "authorId": "152988336",
+          "name": "Yingqiang Ge"
+        },
+        {
+          "authorId": "1591136873",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "21d88678bca06989c26905f88986157eb22f4e42",
+      "publicationVenue": {
+        "id": "e07422f9-c065-40c3-a37b-75e98dce79fe",
+        "name": "The Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Conf",
+          "WWW"
+        ],
+        "url": "http://www.iw3c2.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/21d88678bca06989c26905f88986157eb22f4e42",
+      "title": "Variation Control and Evaluation for Generative Slate Recommendations",
+      "venue": "The Web Conference",
+      "year": 2021,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "143770118",
+          "name": "Fei Sun"
+        },
+        {
+          "authorId": "152988336",
+          "name": "Yingqiang Ge"
+        },
+        {
+          "authorId": "3438562",
+          "name": "Changhua Pei"
+        },
+        {
+          "authorId": "1739818",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "60ab9b82d65f333701090e4b3e22aa28188ddd5d",
+      "publicationVenue": {
+        "id": "ea38228f-6ed3-4222-a3ce-d963d8cc9516",
+        "name": "Web Search and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "Web Search Data Min",
+          "WSDM"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=3158"
+      },
+      "url": "https://www.semanticscholar.org/paper/60ab9b82d65f333701090e4b3e22aa28188ddd5d",
+      "title": "Towards Long-term Fairness in Recommendation",
+      "venue": "Web Search and Data Mining",
+      "year": 2021,
+      "citationCount": 202,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152988336",
+          "name": "Yingqiang Ge"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2986776",
+          "name": "Ruoyuan Gao"
+        },
+        {
+          "authorId": "2885287",
+          "name": "Yikun Xian"
+        },
+        {
+          "authorId": "48515097",
+          "name": "Yunqi Li"
+        },
+        {
+          "authorId": "2116711669",
+          "name": "Xiangyu Zhao"
+        },
+        {
+          "authorId": "3438562",
+          "name": "Changhua Pei"
+        },
+        {
+          "authorId": "143770118",
+          "name": "Fei Sun"
+        },
+        {
+          "authorId": "47744744",
+          "name": "Junfeng Ge"
+        },
+        {
+          "authorId": "10336865",
+          "name": "Wenwu Ou"
+        },
+        {
+          "authorId": "1739818",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "6dcd0fada5ca9e261756e29e2f6497e46e2cad08",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6dcd0fada5ca9e261756e29e2f6497e46e2cad08",
+      "title": "Discrete Knowledge Graph Embedding based on Discrete Optimization",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48515097",
+          "name": "Yunqi Li"
+        },
+        {
+          "authorId": "145670447",
+          "name": "Shuyuan Xu"
+        },
+        {
+          "authorId": "2156641285",
+          "name": "Bo Liu"
+        },
+        {
+          "authorId": "2011378",
+          "name": "Zuohui Fu"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "49795005",
+          "name": "Xu Chen"
+        },
+        {
+          "authorId": "1591136873",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "738d52b482747049fbd1bbd5bacff19438d5a7f2",
+      "publicationVenue": {
+        "id": "8dce23a9-44e0-4381-a39e-2acc1edff700",
+        "name": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+          "Int ACM SIGIR Conf Res Dev Inf Retr",
+          "SIGIR",
+          "Annu Int ACM SIGIR Conf Res Dev Inf Retr"
+        ],
+        "url": "http://www.acm.org/sigir/"
+      },
+      "url": "https://www.semanticscholar.org/paper/738d52b482747049fbd1bbd5bacff19438d5a7f2",
+      "title": "FedCT: Federated Collaborative Transfer for Recommendation",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2021,
+      "citationCount": 58,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "145670447",
+          "name": "Shuyuan Xu"
+        },
+        {
+          "authorId": "2116673491",
+          "name": "Wenhui Yu"
+        },
+        {
+          "authorId": "2011378",
+          "name": "Zuohui Fu"
+        },
+        {
+          "authorId": "1591136873",
+          "name": "Yongfeng Zhang"
+        },
+        {
+          "authorId": "144173226",
+          "name": "A. Marian"
+        }
+      ]
+    },
+    {
+      "paperId": "a64e228e071ebee87711745d013e6e0de0ce3843",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/a64e228e071ebee87711745d013e6e0de0ce3843",
+      "title": "Counterfactual Evaluation for Explainable AI",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152988336",
+          "name": "Yingqiang Ge"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2109968285",
+          "name": "Zelong Li"
+        },
+        {
+          "authorId": "2111044480",
+          "name": "Shuyuan Xu"
+        },
+        {
+          "authorId": "1947101",
+          "name": "Shijie Geng"
+        },
+        {
+          "authorId": "2125252632",
+          "name": "Yunqi Li"
+        },
+        {
+          "authorId": "2110449137",
+          "name": "Juntao Tan"
+        },
+        {
+          "authorId": "2151607300",
+          "name": "Fei Sun"
+        },
+        {
+          "authorId": "1591136873",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "f1b7d3a5a94aca969c07d72f8ec4e4f0909d125f",
+      "publicationVenue": {
+        "id": "ea38228f-6ed3-4222-a3ce-d963d8cc9516",
+        "name": "Web Search and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "Web Search Data Min",
+          "WSDM"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=3158"
+      },
+      "url": "https://www.semanticscholar.org/paper/f1b7d3a5a94aca969c07d72f8ec4e4f0909d125f",
+      "title": "Graph Collaborative Reasoning",
+      "venue": "Web Search and Data Mining",
+      "year": 2021,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "67228325",
+          "name": "H. Chen"
+        },
+        {
+          "authorId": "48515097",
+          "name": "Yunqi Li"
+        },
+        {
+          "authorId": "2072683411",
+          "name": "Shaoyun Shi"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2117693954",
+          "name": "He Zhu"
+        },
+        {
+          "authorId": "1591136873",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "f8ae681d9e345a7581ab04665ce9f97fa12cbdc2",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f8ae681d9e345a7581ab04665ce9f97fa12cbdc2",
+      "title": "Learning Causal Explanations for Recommendation",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 25,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "145670447",
+          "name": "Shuyuan Xu"
+        },
+        {
+          "authorId": "48515097",
+          "name": "Yunqi Li"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2011378",
+          "name": "Zuohui Fu"
+        },
+        {
+          "authorId": "152988336",
+          "name": "Yingqiang Ge"
+        },
+        {
+          "authorId": "49795005",
+          "name": "Xu Chen"
+        },
+        {
+          "authorId": "1591136873",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "7f24e1793db4f2510fd3412f2d87cb9273692033",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/7f24e1793db4f2510fd3412f2d87cb9273692033",
+      "title": "Learning Post-Hoc Causal Explanations for Recommendation",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145670447",
+          "name": "Shuyuan Xu"
+        },
+        {
+          "authorId": "48515097",
+          "name": "Yunqi Li"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2011378",
+          "name": "Zuohui Fu"
+        },
+        {
+          "authorId": "1739818",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "f72a8849a07990d6183bd46d39c8e11ef3f484a9",
+      "publicationVenue": {
+        "id": "8dce23a9-44e0-4381-a39e-2acc1edff700",
+        "name": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+          "Int ACM SIGIR Conf Res Dev Inf Retr",
+          "SIGIR",
+          "Annu Int ACM SIGIR Conf Res Dev Inf Retr"
+        ],
+        "url": "http://www.acm.org/sigir/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f72a8849a07990d6183bd46d39c8e11ef3f484a9",
+      "title": "Learning Personalized Risk Preferences for Recommendation",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2020,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152988336",
+          "name": "Yingqiang Ge"
+        },
+        {
+          "authorId": "2111044480",
+          "name": "Shuyuan Xu"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "2011378",
+          "name": "Zuohui Fu"
+        },
+        {
+          "authorId": "143770118",
+          "name": "Fei Sun"
+        },
+        {
+          "authorId": "1739818",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "3b0fa9ebaf796c9c198f8eedc63105dbbf93a0b1",
+      "publicationVenue": {
+        "id": "e07422f9-c065-40c3-a37b-75e98dce79fe",
+        "name": "The Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Conf",
+          "WWW"
+        ],
+        "url": "http://www.iw3c2.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3b0fa9ebaf796c9c198f8eedc63105dbbf93a0b1",
+      "title": "Maximizing Marginal Utility per Dollar for Economic Recommendation",
+      "venue": "The Web Conference",
+      "year": 2019,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152988336",
+          "name": "Yingqiang Ge"
+        },
+        {
+          "authorId": "145670447",
+          "name": "Shuyuan Xu"
+        },
+        {
+          "authorId": "50152132",
+          "name": "Shuchang Liu"
+        },
+        {
+          "authorId": "1947101",
+          "name": "Shijie Geng"
+        },
+        {
+          "authorId": "2011378",
+          "name": "Zuohui Fu"
+        },
+        {
+          "authorId": "1739818",
+          "name": "Yongfeng Zhang"
+        }
+      ]
+    }
+  ]
+}

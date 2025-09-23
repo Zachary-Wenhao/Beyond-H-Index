@@ -1,0 +1,476 @@
+{
+  "authorId": "2256778370",
+  "name": "Heng Wang",
+  "affiliations": [
+    "Xi'an Jiaotong University"
+  ],
+  "paperCount": 8,
+  "citationCount": 299,
+  "hIndex": 6,
+  "papers": [
+    {
+      "paperId": "00af36ae2b615a8300348386052e38f4ddeb32e3",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/00af36ae2b615a8300348386052e38f4ddeb32e3",
+      "title": "DELL: Generating Reactions and Explanations for LLM-Based Misinformation Detection",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2024,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2114831715",
+          "name": "Herun Wan"
+        },
+        {
+          "authorId": "2114887261",
+          "name": "Shangbin Feng"
+        },
+        {
+          "authorId": "2093186816",
+          "name": "Zhaoxuan Tan"
+        },
+        {
+          "authorId": "2256778370",
+          "name": "Heng Wang"
+        },
+        {
+          "authorId": "2249583325",
+          "name": "Yulia Tsvetkov"
+        },
+        {
+          "authorId": "2260397981",
+          "name": "Minnan Luo"
+        }
+      ]
+    },
+    {
+      "paperId": "752f684371c9901791259dc4afd04b9754e803d1",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/752f684371c9901791259dc4afd04b9754e803d1",
+      "title": "Can LLM Graph Reasoning Generalize beyond Pattern Memorization?",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2024,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2129515763",
+          "name": "Yizhuo Zhang"
+        },
+        {
+          "authorId": "2256778370",
+          "name": "Heng Wang"
+        },
+        {
+          "authorId": "2284701198",
+          "name": "Shangbin Feng"
+        },
+        {
+          "authorId": "2093186816",
+          "name": "Zhaoxuan Tan"
+        },
+        {
+          "authorId": "2257023881",
+          "name": "Xiaochuang Han"
+        },
+        {
+          "authorId": "2249540815",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2249583325",
+          "name": "Yulia Tsvetkov"
+        }
+      ]
+    },
+    {
+      "paperId": "d51475858cdefe1ecfba357a24a39850083f5399",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/d51475858cdefe1ecfba357a24a39850083f5399",
+      "title": "MMoE: Robust Spoiler Detection with Multi-modal Information and Domain-aware Mixture-of-Experts",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2290590861",
+          "name": "Zinan Zeng"
+        },
+        {
+          "authorId": "2220405893",
+          "name": "Sen Ye"
+        },
+        {
+          "authorId": "2290487420",
+          "name": "Zijian Cai"
+        },
+        {
+          "authorId": "2256778370",
+          "name": "Heng Wang"
+        },
+        {
+          "authorId": "2290529879",
+          "name": "Yuhan Liu"
+        },
+        {
+          "authorId": "2152099796",
+          "name": "Qinghua Zheng"
+        },
+        {
+          "authorId": "3326677",
+          "name": "Minnan Luo"
+        }
+      ]
+    },
+    {
+      "paperId": "3f4ccf64ffe23b5dc095ae0401eecf9445deb024",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3f4ccf64ffe23b5dc095ae0401eecf9445deb024",
+      "title": "Resolving Knowledge Conflicts in Large Language Models",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108853330",
+          "name": "Yike Wang"
+        },
+        {
+          "authorId": "2114887261",
+          "name": "Shangbin Feng"
+        },
+        {
+          "authorId": "2256778370",
+          "name": "Heng Wang"
+        },
+        {
+          "authorId": "2254168375",
+          "name": "Weijia Shi"
+        },
+        {
+          "authorId": "143820870",
+          "name": "Vidhisha Balachandran"
+        },
+        {
+          "authorId": "2249540815",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2249583325",
+          "name": "Yulia Tsvetkov"
+        }
+      ]
+    },
+    {
+      "paperId": "9e190a86b861cfb612ef36eb3baeec24bf51c776",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/9e190a86b861cfb612ef36eb3baeec24bf51c776",
+      "title": "Detecting Spoilers in Movie Reviews with External Movie Knowledge and User Networks",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2256778370",
+          "name": "Heng Wang"
+        },
+        {
+          "authorId": "49039233",
+          "name": "Wenqian Zhang"
+        },
+        {
+          "authorId": "2170130468",
+          "name": "Yuyang Bai"
+        },
+        {
+          "authorId": "2093186816",
+          "name": "Zhaoxuan Tan"
+        },
+        {
+          "authorId": "2114887261",
+          "name": "Shangbin Feng"
+        },
+        {
+          "authorId": "2152099796",
+          "name": "Qinghua Zheng"
+        },
+        {
+          "authorId": "3326677",
+          "name": "Minnan Luo"
+        }
+      ]
+    },
+    {
+      "paperId": "c93b7a5de079215bbba15c304b2d2f9541f7f88a",
+      "publicationVenue": {
+        "id": "8dce23a9-44e0-4381-a39e-2acc1edff700",
+        "name": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+          "Int ACM SIGIR Conf Res Dev Inf Retr",
+          "SIGIR",
+          "Annu Int ACM SIGIR Conf Res Dev Inf Retr"
+        ],
+        "url": "http://www.acm.org/sigir/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c93b7a5de079215bbba15c304b2d2f9541f7f88a",
+      "title": "BotMoE: Twitter Bot Detection with Community-Aware Mixtures of Modal-Specific Experts",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2023,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2169159066",
+          "name": "Yuhan Liu"
+        },
+        {
+          "authorId": "2093186816",
+          "name": "Zhaoxuan Tan"
+        },
+        {
+          "authorId": "2256778370",
+          "name": "Heng Wang"
+        },
+        {
+          "authorId": "2114887261",
+          "name": "Shangbin Feng"
+        },
+        {
+          "authorId": "2152099796",
+          "name": "Qinghua Zheng"
+        },
+        {
+          "authorId": "3326677",
+          "name": "Minnan Luo"
+        }
+      ]
+    },
+    {
+      "paperId": "df2beaae63e4d68ef8e762bcd4704c9f11f856d9",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/df2beaae63e4d68ef8e762bcd4704c9f11f856d9",
+      "title": "Can Language Models Solve Graph Problems in Natural Language?",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 162,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2256778370",
+          "name": "Heng Wang"
+        },
+        {
+          "authorId": "2114887261",
+          "name": "Shangbin Feng"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2093186816",
+          "name": "Zhaoxuan Tan"
+        },
+        {
+          "authorId": "40500540",
+          "name": "Xiaochuang Han"
+        },
+        {
+          "authorId": "2073587169",
+          "name": "Yulia Tsvetkov"
+        }
+      ]
+    },
+    {
+      "paperId": "7066c88ffd227c74479f29f917f0db73270afa24",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7066c88ffd227c74479f29f917f0db73270afa24",
+      "title": "TwiBot-22: Towards Graph-Based Twitter Bot Detection",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "citationCount": 77,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2114887261",
+          "name": "Shangbin Feng"
+        },
+        {
+          "authorId": "2093186816",
+          "name": "Zhaoxuan Tan"
+        },
+        {
+          "authorId": "2114831715",
+          "name": "Herun Wan"
+        },
+        {
+          "authorId": "2152170253",
+          "name": "Ningnan Wang"
+        },
+        {
+          "authorId": "2117098676",
+          "name": "Zilong Chen"
+        },
+        {
+          "authorId": "2134483590",
+          "name": "Binchi Zhang"
+        },
+        {
+          "authorId": "2152099796",
+          "name": "Qinghua Zheng"
+        },
+        {
+          "authorId": "49039233",
+          "name": "Wenqian Zhang"
+        },
+        {
+          "authorId": "2161968765",
+          "name": "Zhenyu Lei"
+        },
+        {
+          "authorId": "2169372154",
+          "name": "Shujie Yang"
+        },
+        {
+          "authorId": "2169404546",
+          "name": "Xinshun Feng"
+        },
+        {
+          "authorId": "2261664149",
+          "name": "Qingyue Zhang"
+        },
+        {
+          "authorId": "2169403637",
+          "name": "Hongrui Wang"
+        },
+        {
+          "authorId": "2169159066",
+          "name": "Yuhan Liu"
+        },
+        {
+          "authorId": "2170130468",
+          "name": "Yuyang Bai"
+        },
+        {
+          "authorId": "2256778370",
+          "name": "Heng Wang"
+        },
+        {
+          "authorId": "2169253157",
+          "name": "Zijian Cai"
+        },
+        {
+          "authorId": "2107964144",
+          "name": "Yanbo Wang"
+        },
+        {
+          "authorId": "1964303146",
+          "name": "Lijing Zheng"
+        },
+        {
+          "authorId": "2169172454",
+          "name": "Zihan Ma"
+        },
+        {
+          "authorId": "2344946417",
+          "name": "Jundong Li"
+        },
+        {
+          "authorId": "3326677",
+          "name": "Minnan Luo"
+        }
+      ]
+    }
+  ]
+}

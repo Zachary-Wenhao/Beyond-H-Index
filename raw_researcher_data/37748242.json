@@ -1,0 +1,783 @@
+{
+  "authorId": "37748242",
+  "name": "Shuai Zheng",
+  "affiliations": [],
+  "paperCount": 18,
+  "citationCount": 518,
+  "hIndex": 9,
+  "papers": [
+    {
+      "paperId": "bfe6d34ceece0a79bee5791b35e1314018b62201",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/bfe6d34ceece0a79bee5791b35e1314018b62201",
+      "title": "Compressed Communication for Distributed Training: Adaptive Methods and System",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2093313145",
+          "name": "Yuchen Zhong"
+        },
+        {
+          "authorId": "144586627",
+          "name": "Cong Xie"
+        },
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "49955730",
+          "name": "Haibin Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "4597219ae688ed2e57b48f9701a8d6192276590a",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/4597219ae688ed2e57b48f9701a8d6192276590a",
+      "title": "Accelerated Large Batch Optimization of BERT Pretraining in 54 minutes",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "49955730",
+          "name": "Haibin Lin"
+        },
+        {
+          "authorId": "40881843",
+          "name": "Sheng Zha"
+        },
+        {
+          "authorId": "2112144126",
+          "name": "Mu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "66f2eaf3150510ecc89de62abf6f97bb96a1b38c",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/66f2eaf3150510ecc89de62abf6f97bb96a1b38c",
+      "title": "CSER: Communication-efficient SGD with Error Reset",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "citationCount": 41,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "144586627",
+          "name": "Cong Xie"
+        },
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "143812875",
+          "name": "Oluwasanmi Koyejo"
+        },
+        {
+          "authorId": "143720373",
+          "name": "Indranil Gupta"
+        },
+        {
+          "authorId": "2112144126",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "49955730",
+          "name": "Haibin Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "6c2c4985821c2daa152b562004af47319c201b3f",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6c2c4985821c2daa152b562004af47319c201b3f",
+      "title": "LID 2020: The Learning from Imperfect Data Challenge Results",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49020088",
+          "name": "Yunchao Wei"
+        },
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "37535930",
+          "name": "Ming-Ming Cheng"
+        },
+        {
+          "authorId": "2146231364",
+          "name": "Hang Zhao"
+        },
+        {
+          "authorId": "2130339621",
+          "name": "Liwei Wang"
+        },
+        {
+          "authorId": "12081764",
+          "name": "Errui Ding"
+        },
+        {
+          "authorId": "1698559",
+          "name": "Yi Yang"
+        },
+        {
+          "authorId": "143805211",
+          "name": "A. Torralba"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "15839174",
+          "name": "Guolei Sun"
+        },
+        {
+          "authorId": "2693875",
+          "name": "Wenguan Wang"
+        },
+        {
+          "authorId": "1681236",
+          "name": "L. Gool"
+        },
+        {
+          "authorId": "116267652",
+          "name": "Wonho Bae"
+        },
+        {
+          "authorId": "48739327",
+          "name": "Junhyug Noh"
+        },
+        {
+          "authorId": "115026943",
+          "name": "Jinhwan Seo"
+        },
+        {
+          "authorId": "70308241",
+          "name": "Gunhee Kim"
+        },
+        {
+          "authorId": "49453001",
+          "name": "Hao Zhao"
+        },
+        {
+          "authorId": "123554573",
+          "name": "Ming Lu"
+        },
+        {
+          "authorId": "2021251",
+          "name": "Anbang Yao"
+        },
+        {
+          "authorId": "2527106",
+          "name": "Yiwen Guo"
+        },
+        {
+          "authorId": "2109184871",
+          "name": "Yurong Chen"
+        },
+        {
+          "authorId": "48571183",
+          "name": "Li Zhang"
+        },
+        {
+          "authorId": "17950605",
+          "name": "Chuangchuang Tan"
+        },
+        {
+          "authorId": "48941513",
+          "name": "Tao Ruan"
+        },
+        {
+          "authorId": "2258415",
+          "name": "Guanghua Gu"
+        },
+        {
+          "authorId": "46730712",
+          "name": "Shikui Wei"
+        },
+        {
+          "authorId": "2143397278",
+          "name": "Yao Zhao"
+        },
+        {
+          "authorId": "1490643731",
+          "name": "Mariia Dobko"
+        },
+        {
+          "authorId": "1750521014",
+          "name": "Ostap Viniavskyi"
+        },
+        {
+          "authorId": "1490643497",
+          "name": "Oles Dobosevych"
+        },
+        {
+          "authorId": "2108160372",
+          "name": "Zhendong Wang"
+        },
+        {
+          "authorId": "2582435",
+          "name": "Zhenyuan Chen"
+        },
+        {
+          "authorId": "1443742776",
+          "name": "Chen Gong"
+        },
+        {
+          "authorId": "83162482",
+          "name": "Huanqing Yan"
+        },
+        {
+          "authorId": "2109931599",
+          "name": "Jun He"
+        }
+      ]
+    },
+    {
+      "paperId": "2545439bf02341e89bf73afb1aa3b89530d26860",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2545439bf02341e89bf73afb1aa3b89530d26860",
+      "title": "Large scale optimization methods for machine learning",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        }
+      ]
+    },
+    {
+      "paperId": "2733574d40ce8e861d7d658bfc33ab36f529864d",
+      "publicationVenue": {
+        "id": "c22e7c36-3bfa-43e1-bb7b-edccdea2a780",
+        "name": "Journal of machine learning research",
+        "type": "journal",
+        "alternate_names": [
+          "Journal of Machine Learning Research",
+          "J mach learn res",
+          "J Mach Learn Res"
+        ],
+        "issn": "1532-4435",
+        "alternate_issns": [
+          "1533-7928"
+        ],
+        "url": "http://www.ai.mit.edu/projects/jmlr/",
+        "alternate_urls": [
+          "http://jmlr.csail.mit.edu/",
+          "http://www.jmlr.org/",
+          "http://portal.acm.org/affiliated/jmlr"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2733574d40ce8e861d7d658bfc33ab36f529864d",
+      "title": "GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing",
+      "venue": "Journal of machine learning research",
+      "year": 2019,
+      "citationCount": 190,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        },
+        {
+          "authorId": "2140062900",
+          "name": "He He"
+        },
+        {
+          "authorId": "2118328320",
+          "name": "Tong He"
+        },
+        {
+          "authorId": "8789103",
+          "name": "Leonard Lausen"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "49955730",
+          "name": "Haibin Lin"
+        },
+        {
+          "authorId": "3008587",
+          "name": "Xingjian Shi"
+        },
+        {
+          "authorId": "2108755854",
+          "name": "Chenguang Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "40881843",
+          "name": "Sheng Zha"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2119077209",
+          "name": "Hang Zhang"
+        },
+        {
+          "authorId": "2117991985",
+          "name": "Zhi Zhang"
+        },
+        {
+          "authorId": "48806269",
+          "name": "Zhongyue Zhang"
+        },
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "46759150",
+          "name": "Yi Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "33873edb7e37d5930f96655d7d829c40d8e6f19c",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/33873edb7e37d5930f96655d7d829c40d8e6f19c",
+      "title": "Communication-Efficient Distributed Blockwise Momentum SGD with Error-Feedback",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "citationCount": 113,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "2109595005",
+          "name": "Ziyue Huang"
+        },
+        {
+          "authorId": "145193332",
+          "name": "J. Kwok"
+        }
+      ]
+    },
+    {
+      "paperId": "55403aa348bde7e445e3710a64833b2ce9a0a71b",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/55403aa348bde7e445e3710a64833b2ce9a0a71b",
+      "title": "Blockwise Adaptivity: Faster Training and Better Generalization in Deep Learning",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "145193332",
+          "name": "J. Kwok"
+        }
+      ]
+    },
+    {
+      "paperId": "3a0866c1f1801c447bf22800f849a79a26db7cf9",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3a0866c1f1801c447bf22800f849a79a26db7cf9",
+      "title": "Lightweight Stochastic Optimization for Minimizing Finite Sums with Infinite Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "145193332",
+          "name": "J. Kwok"
+        }
+      ]
+    },
+    {
+      "paperId": "ca73627e41a65e4cadbf262f6a04b43e1cefb01d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ca73627e41a65e4cadbf262f6a04b43e1cefb01d",
+      "title": "Stochastic Optimization for Machine Learning",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        }
+      ]
+    },
+    {
+      "paperId": "2e23a0e8e4f8d9a241f3d654842ca6439115194a",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2e23a0e8e4f8d9a241f3d654842ca6439115194a",
+      "title": "Follow the Moving Leader in Deep Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "145193332",
+          "name": "J. Kwok"
+        }
+      ]
+    },
+    {
+      "paperId": "13b1907eac1d8b232d60947f036cd90981a9c995",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/13b1907eac1d8b232d60947f036cd90981a9c995",
+      "title": "Stochastic Variance-Reduced ADMM",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "145193332",
+          "name": "J. Kwok"
+        }
+      ]
+    },
+    {
+      "paperId": "8c6b99f334de20c6eed92aff718f7658fe070dc1",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8c6b99f334de20c6eed92aff718f7658fe070dc1",
+      "title": "Fast Nonsmooth Regularized Risk Minimization with Continuation Appendix",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "2109972030",
+          "name": "Ruiliang Zhang"
+        },
+        {
+          "authorId": "2237641236",
+          "name": "James T. Kwok"
+        }
+      ]
+    },
+    {
+      "paperId": "a2f5943f534815b2cdf698667eb49370fa9d7404",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a2f5943f534815b2cdf698667eb49370fa9d7404",
+      "title": "Fast Nonsmooth Regularized Risk Minimization with Continuation",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2016,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "2109972030",
+          "name": "Ruiliang Zhang"
+        },
+        {
+          "authorId": "145193332",
+          "name": "J. Kwok"
+        }
+      ]
+    },
+    {
+      "paperId": "d4b08aa64427b3b20d08fc446bf44dbf0467dd42",
+      "publicationVenue": {
+        "id": "67f7f831-711a-43c8-8785-1e09005359b5",
+        "name": "International Joint Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Jt Conf Artif Intell",
+          "IJCAI"
+        ],
+        "url": "http://www.ijcai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d4b08aa64427b3b20d08fc446bf44dbf0467dd42",
+      "title": "Fast-and-Light Stochastic ADMM",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2016,
+      "citationCount": 58,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "145193332",
+          "name": "J. Kwok"
+        }
+      ]
+    },
+    {
+      "paperId": "3828a3f60ca9477d3e130f1fd7dfc9d600ef72c8",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3828a3f60ca9477d3e130f1fd7dfc9d600ef72c8",
+      "title": "Asynchronous Distributed Semi-Stochastic Gradient Optimization",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2015,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2109972030",
+          "name": "Ruiliang Zhang"
+        },
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "145193332",
+          "name": "J. Kwok"
+        }
+      ]
+    },
+    {
+      "paperId": "87fe0b1f86da3ffaba65df924226ce83dfce9371",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/87fe0b1f86da3ffaba65df924226ce83dfce9371",
+      "title": "Fast Distributed Asynchronous SGD with Variance Reduction",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109972030",
+          "name": "Ruiliang Zhang"
+        },
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "145193332",
+          "name": "J. Kwok"
+        }
+      ]
+    },
+    {
+      "paperId": "abceab7a3927d9249f8bfe09c0599b422ef16e02",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/abceab7a3927d9249f8bfe09c0599b422ef16e02",
+      "title": "Accurate Integration of Aerosol Predictions by Smoothing on a Manifold",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2014,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "145193332",
+          "name": "J. Kwok"
+        }
+      ]
+    }
+  ]
+}

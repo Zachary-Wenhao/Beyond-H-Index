@@ -1,0 +1,1282 @@
+{
+  "authorId": "3083253",
+  "name": "Tianxing He",
+  "affiliations": [],
+  "paperCount": 32,
+  "citationCount": 1185,
+  "hIndex": 16,
+  "papers": [
+    {
+      "paperId": "c17b71f31fa708eb01310ff65ab660f2676a12a1",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c17b71f31fa708eb01310ff65ab660f2676a12a1",
+      "title": "Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2114887261",
+          "name": "Shangbin Feng"
+        },
+        {
+          "authorId": "3040379",
+          "name": "Weijia Shi"
+        },
+        {
+          "authorId": "2170130468",
+          "name": "Yuyang Bai"
+        },
+        {
+          "authorId": "143820870",
+          "name": "Vidhisha Balachandran"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2073587169",
+          "name": "Yulia Tsvetkov"
+        }
+      ]
+    },
+    {
+      "paperId": "df2beaae63e4d68ef8e762bcd4704c9f11f856d9",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/df2beaae63e4d68ef8e762bcd4704c9f11f856d9",
+      "title": "Can Language Models Solve Graph Problems in Natural Language?",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 162,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2256778370",
+          "name": "Heng Wang"
+        },
+        {
+          "authorId": "2114887261",
+          "name": "Shangbin Feng"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2093186816",
+          "name": "Zhaoxuan Tan"
+        },
+        {
+          "authorId": "40500540",
+          "name": "Xiaochuang Han"
+        },
+        {
+          "authorId": "2073587169",
+          "name": "Yulia Tsvetkov"
+        }
+      ]
+    },
+    {
+      "paperId": "29e7fde2f1383b20c01a80c027a7cb208472d3ed",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/29e7fde2f1383b20c01a80c027a7cb208472d3ed",
+      "title": "Controlling the Focus of Pretrained Language Generation Models",
+      "venue": "Findings",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2111812169",
+          "name": "Jiabao Ji"
+        },
+        {
+          "authorId": "38367242",
+          "name": "Yoon Kim"
+        },
+        {
+          "authorId": "145898106",
+          "name": "James R. Glass"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        }
+      ]
+    },
+    {
+      "paperId": "6494c6149e5036c09ee92da9fd67cbecc998a52f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6494c6149e5036c09ee92da9fd67cbecc998a52f",
+      "title": "PCFG-Based Natural Language Interface Improves Generalization for Controlled Text Generation",
+      "venue": "STARSEM",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2167508843",
+          "name": "Jingyu (Jack) Zhang"
+        },
+        {
+          "authorId": "145898106",
+          "name": "James R. Glass"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        }
+      ]
+    },
+    {
+      "paperId": "6e0b6ba5cae954a0643baeb00167965e88458fc3",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6e0b6ba5cae954a0643baeb00167965e88458fc3",
+      "title": "On the Blind Spots of Model-Based Evaluation Metrics for Text Generation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 42,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2167508843",
+          "name": "Jingyu (Jack) Zhang"
+        },
+        {
+          "authorId": "2155412834",
+          "name": "Tianle Wang"
+        },
+        {
+          "authorId": "51467955",
+          "name": "Sachin Kumar"
+        },
+        {
+          "authorId": "1979489",
+          "name": "Kyunghyun Cho"
+        },
+        {
+          "authorId": "145898106",
+          "name": "James R. Glass"
+        },
+        {
+          "authorId": "2073587169",
+          "name": "Yulia Tsvetkov"
+        }
+      ]
+    },
+    {
+      "paperId": "7a0ec6499cace3ab3178645c2c63dcb34608f02e",
+      "publicationVenue": {
+        "id": "64ae7767-9467-4e70-9e31-e4185f9f16ff",
+        "name": "Information and Software Technology",
+        "type": "journal",
+        "alternate_names": [
+          "Inf  Softw Technol",
+          "Information & Software Technology",
+          "Inf Softw Technol"
+        ],
+        "issn": "0950-5849",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/525444/description#description",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09505849"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7a0ec6499cace3ab3178645c2c63dcb34608f02e",
+      "title": "A comprehensive empirical study on bug characteristics of deep learning frameworks",
+      "venue": "Information and Software Technology",
+      "year": 2022,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108755600",
+          "name": "Yilin Yang"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2151464143",
+          "name": "Zhilong Xia"
+        },
+        {
+          "authorId": "2115389493",
+          "name": "Yang Feng"
+        }
+      ]
+    },
+    {
+      "paperId": "a747201ceb409285c0af8a71c631bde8c43c1ea5",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a747201ceb409285c0af8a71c631bde8c43c1ea5",
+      "title": "Mining Python fix patterns via analyzing fine-grained source code changes",
+      "venue": "Empirical Software Engineering",
+      "year": 2022,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108755600",
+          "name": "Yilin Yang"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "48260350",
+          "name": "Yang Feng"
+        },
+        {
+          "authorId": "38543172",
+          "name": "Shaoying Liu"
+        },
+        {
+          "authorId": "144380518",
+          "name": "Baowen Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "6fc4a39bb4697a21286bb1cf503ecf17407aeae2",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6fc4a39bb4697a21286bb1cf503ecf17407aeae2",
+      "title": "An Empirical Study on Few-shot Knowledge Probing for Pretrained Language Models",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2111049203",
+          "name": "Kyunghyun Cho"
+        },
+        {
+          "authorId": "145898106",
+          "name": "James R. Glass"
+        }
+      ]
+    },
+    {
+      "paperId": "91fed2f5718b9c1dc25b768c8aaf33455f0404c8",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/91fed2f5718b9c1dc25b768c8aaf33455f0404c8",
+      "title": "Joint Energy-based Model Training for Better Calibrated Natural Language Understanding Models",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "143775536",
+          "name": "Bryan McCann"
+        },
+        {
+          "authorId": "2228109",
+          "name": "Caiming Xiong"
+        },
+        {
+          "authorId": "1401953786",
+          "name": "Ehsan Hosseini-Asl"
+        }
+      ]
+    },
+    {
+      "paperId": "eb96bebbddaa05ea32298578a786e4cb6f1df7b5",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/eb96bebbddaa05ea32298578a786e4cb6f1df7b5",
+      "title": "AutoKG: Constructing Virtual Knowledge Graphs from Unstructured Documents for Question Answering",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 11,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "73111119",
+          "name": "S. Yu"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "145898106",
+          "name": "James R. Glass"
+        }
+      ]
+    },
+    {
+      "paperId": "fa79334396c6f16eb928f3fda37be5e887a8ac4d",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/fa79334396c6f16eb928f3fda37be5e887a8ac4d",
+      "title": "Revisiting Latent-Space Interpolation via a Quantitative Evaluation Framework",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2057207935",
+          "name": "Lu Mi"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2140350688",
+          "name": "C. Park"
+        },
+        {
+          "authorId": "2144222919",
+          "name": "Hao Wang"
+        },
+        {
+          "authorId": "2118462083",
+          "name": "Yue Wang"
+        },
+        {
+          "authorId": "2613669",
+          "name": "N. Shavit"
+        }
+      ]
+    },
+    {
+      "paperId": "28168223b7635c205d615441cdaf609ddf370558",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/28168223b7635c205d615441cdaf609ddf370558",
+      "title": "Constructing a Knowledge Graph from Unstructured Documents without External Alignment",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1885974",
+          "name": "Seunghak Yu"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "145898106",
+          "name": "James R. Glass"
+        }
+      ]
+    },
+    {
+      "paperId": "4dbbb05bc0a6fa91bd89d1eaea2176e286587855",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4dbbb05bc0a6fa91bd89d1eaea2176e286587855",
+      "title": "Q UANTIFYING E XPOSURE B IAS FOR O PEN - ENDED L ANGUAGE G ENERATION",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 4,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2108030156",
+          "name": "Jingzhao Zhang"
+        },
+        {
+          "authorId": null,
+          "name": "Zhiming Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "9b713f5ab3429586f773557afa58a931fba997c1",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9b713f5ab3429586f773557afa58a931fba997c1",
+      "title": "A Systematic Characterization of Sampling Algorithms for Open-ended Language Generation",
+      "venue": "AACL",
+      "year": 2020,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50411022",
+          "name": "Moin Nadeem"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "1979489",
+          "name": "Kyunghyun Cho"
+        },
+        {
+          "authorId": "145898106",
+          "name": "James R. Glass"
+        }
+      ]
+    },
+    {
+      "paperId": "cca47f3b8bce9609182e76709e0ddf4f7343fdd1",
+      "publicationVenue": {
+        "id": "0d6f7fba-7092-46b3-8039-93458dba736b",
+        "name": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Acoust Speech Signal Process",
+          "IEEE Int Conf Acoust Speech Signal Process",
+          "ICASSP",
+          "International Conference on Acoustics, Speech, and Signal Processing"
+        ],
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000002"
+      },
+      "url": "https://www.semanticscholar.org/paper/cca47f3b8bce9609182e76709e0ddf4f7343fdd1",
+      "title": "An Empirical Study of Transformer-Based Neural Language Model Adaptation",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2020,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144954689",
+          "name": "Ke Li"
+        },
+        {
+          "authorId": "2116746698",
+          "name": "Zhe Liu"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "1829351",
+          "name": "Hongzhao Huang"
+        },
+        {
+          "authorId": "1682136",
+          "name": "Fuchun Peng"
+        },
+        {
+          "authorId": "1792214",
+          "name": "Daniel Povey"
+        },
+        {
+          "authorId": "2803071",
+          "name": "S. Khudanpur"
+        }
+      ]
+    },
+    {
+      "paperId": "1f3e14c58d86b44fcc931cd0bdc0a8dfc7500701",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1f3e14c58d86b44fcc931cd0bdc0a8dfc7500701",
+      "title": "Analyzing the Forgetting Problem in the Pretrain-Finetuning of Dialogue Response Models",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2157176677",
+          "name": "Jun Liu"
+        },
+        {
+          "authorId": "1979489",
+          "name": "Kyunghyun Cho"
+        },
+        {
+          "authorId": "40511414",
+          "name": "Myle Ott"
+        },
+        {
+          "authorId": "47655430",
+          "name": "Bing Liu"
+        },
+        {
+          "authorId": "145898106",
+          "name": "James R. Glass"
+        },
+        {
+          "authorId": "1682136",
+          "name": "Fuchun Peng"
+        }
+      ]
+    },
+    {
+      "paperId": "2e48a7722f13dc18a4da393a020372159d93e447",
+      "publicationVenue": {
+        "id": "54b6f627-d525-4e72-84fd-f44110472f71",
+        "name": "Asia-Pacific Symposium on Internetware",
+        "type": "conference",
+        "alternate_names": [
+          "APSI",
+          "Asia-pacific Symp Internetware",
+          "Internetware"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2e48a7722f13dc18a4da393a020372159d93e447",
+      "title": "From Data Quality to Model Quality: An Exploratory Study on Deep Learning",
+      "venue": "Asia-Pacific Symposium on Internetware",
+      "year": 2019,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "150311588",
+          "name": "Shengcheng Yu"
+        },
+        {
+          "authorId": "2823750",
+          "name": "Ziyuan Wang"
+        },
+        {
+          "authorId": "2148947882",
+          "name": "Jieqiong Li"
+        },
+        {
+          "authorId": "9220930",
+          "name": "Zhenyu Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "7d35ad01d049aa41d55bbcc7fe5a8bb904d9fce2",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/7d35ad01d049aa41d55bbcc7fe5a8bb904d9fce2",
+      "title": "Analysis of Gradient Clipping and Adaptive Scaling with a Relaxed Smoothness Condition",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50561307",
+          "name": "J. Zhang"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "3072326",
+          "name": "S. Sra"
+        },
+        {
+          "authorId": "1688304",
+          "name": "A. Jadbabaie"
+        }
+      ]
+    },
+    {
+      "paperId": "cb51b53d5d26537ed6d458f83b81afe0f2efa289",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/cb51b53d5d26537ed6d458f83b81afe0f2efa289",
+      "title": "Exposure Bias versus Self-Recovery: Are Distortions Really Incremental for Autoregressive Text Generation?",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2108030156",
+          "name": "Jingzhao Zhang"
+        },
+        {
+          "authorId": "145385776",
+          "name": "Zhiming Zhou"
+        },
+        {
+          "authorId": "145898106",
+          "name": "James R. Glass"
+        }
+      ]
+    },
+    {
+      "paperId": "cbb1a1a80d26043867bb8bf2b7227c9139710ee5",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/cbb1a1a80d26043867bb8bf2b7227c9139710ee5",
+      "title": "Quantifying Exposure Bias for Neural Language Generation",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 32,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "50561307",
+          "name": "J. Zhang"
+        },
+        {
+          "authorId": "145385776",
+          "name": "Zhiming Zhou"
+        },
+        {
+          "authorId": "145898106",
+          "name": "James R. Glass"
+        }
+      ]
+    },
+    {
+      "paperId": "e5515b3befb4b4e61aebc0f3f6017056631acafa",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e5515b3befb4b4e61aebc0f3f6017056631acafa",
+      "title": "Negative Training for Neural Dialogue Response Generation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 59,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "145898106",
+          "name": "James R. Glass"
+        }
+      ]
+    },
+    {
+      "paperId": "e658741baefd2c4da4742bb43155f69d4cbd79fa",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e658741baefd2c4da4742bb43155f69d4cbd79fa",
+      "title": "Why Gradient Clipping Accelerates Training: A Theoretical Justification for Adaptivity",
+      "venue": "International Conference on Learning Representations",
+      "year": 2019,
+      "citationCount": 428,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "50561307",
+          "name": "J. Zhang"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "3072326",
+          "name": "S. Sra"
+        },
+        {
+          "authorId": "1688304",
+          "name": "A. Jadbabaie"
+        }
+      ]
+    },
+    {
+      "paperId": "fcc7ba74c2c24345ab11924c7a40a3a0c141df5e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/fcc7ba74c2c24345ab11924c7a40a3a0c141df5e",
+      "title": "Mix-review: Alleviate Forgetting in the Pretrain-Finetune Framework for Neural Language Generation Models",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2157176677",
+          "name": "Jun Liu"
+        },
+        {
+          "authorId": "1979489",
+          "name": "Kyunghyun Cho"
+        },
+        {
+          "authorId": "40511414",
+          "name": "Myle Ott"
+        },
+        {
+          "authorId": "143830417",
+          "name": "Bing Liu"
+        },
+        {
+          "authorId": "145898106",
+          "name": "James R. Glass"
+        },
+        {
+          "authorId": "1682136",
+          "name": "Fuchun Peng"
+        }
+      ]
+    },
+    {
+      "paperId": "2272d5b2ebffa289bea56cf1c11efd6fef0c4c6f",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2272d5b2ebffa289bea56cf1c11efd6fef0c4c6f",
+      "title": "Detecting egregious responses in neural sequence-to-sequence models",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "145898106",
+          "name": "James R. Glass"
+        }
+      ]
+    },
+    {
+      "paperId": "cb11bd88eabe4d6c5284b4ca65561c06c4deb608",
+      "publicationVenue": {
+        "id": "0242a0a8-eac8-4d42-a284-4789a579aa9b",
+        "name": "China National Conference on Chinese Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "CCL",
+          "Constraint Comput Log",
+          "China National Conf Chin Comput Linguistics",
+          "Constraints in Computational Logics"
+        ],
+        "issn": "0319-0080",
+        "url": "http://ccl.uwinnipeg.ca/",
+        "alternate_urls": [
+          "http://ps-www.dfki.uni-sb.de/ccl/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/cb11bd88eabe4d6c5284b4ca65561c06c4deb608",
+      "title": "Multi-view LSTM Language Model with Word-Synchronized Auxiliary Feature for LVCSR",
+      "venue": "China National Conference on Chinese Computational Linguistics",
+      "year": 2017,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2119299240",
+          "name": "Yue Wu"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2320466408",
+          "name": "Zhehuai Chen"
+        },
+        {
+          "authorId": "2480051",
+          "name": "Y. Qian"
+        },
+        {
+          "authorId": "1736727",
+          "name": "Kai Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "b8af97be6639d3f0b1da300896dedd94c1434550",
+      "publicationVenue": {
+        "id": "899ef2da-bb04-4fff-8cd1-336670c5af82",
+        "name": "International Symposium on Chinese Spoken Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Int Symp Chin Spok Lang Process",
+          "ISCSLP"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1695"
+      },
+      "url": "https://www.semanticscholar.org/paper/b8af97be6639d3f0b1da300896dedd94c1434550",
+      "title": "On training bi-directional neural network language model with noise contrastive estimation",
+      "venue": "International Symposium on Chinese Spoken Language Processing",
+      "year": 2016,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2153634932",
+          "name": "Yu Zhang"
+        },
+        {
+          "authorId": "1755472",
+          "name": "J. Droppo"
+        },
+        {
+          "authorId": "1736727",
+          "name": "Kai Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "cac32ca03bf3a4a8b4a726f19f539c729493ddc5",
+      "publicationVenue": {
+        "id": "0d6f7fba-7092-46b3-8039-93458dba736b",
+        "name": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Acoust Speech Signal Process",
+          "IEEE Int Conf Acoust Speech Signal Process",
+          "ICASSP",
+          "International Conference on Acoustics, Speech, and Signal Processing"
+        ],
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000002"
+      },
+      "url": "https://www.semanticscholar.org/paper/cac32ca03bf3a4a8b4a726f19f539c729493ddc5",
+      "title": "Exploiting LSTM structure in deep neural networks for speech recognition",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2016,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "1755472",
+          "name": "J. Droppo"
+        }
+      ]
+    },
+    {
+      "paperId": "08f495b841ff3c39bc9fe5d36efa6e4beef6ecd8",
+      "publicationVenue": {
+        "id": "0d6f7fba-7092-46b3-8039-93458dba736b",
+        "name": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Acoust Speech Signal Process",
+          "IEEE Int Conf Acoust Speech Signal Process",
+          "ICASSP",
+          "International Conference on Acoustics, Speech, and Signal Processing"
+        ],
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000002"
+      },
+      "url": "https://www.semanticscholar.org/paper/08f495b841ff3c39bc9fe5d36efa6e4beef6ecd8",
+      "title": "Recurrent neural network language model with structured word embeddings for speech recognition",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2015,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2021690714",
+          "name": "Xu Xiang"
+        },
+        {
+          "authorId": "2480051",
+          "name": "Y. Qian"
+        },
+        {
+          "authorId": "1736727",
+          "name": "Kai Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "486ddba29b04c2e2ae62b186b9a5a48425ddf9cd",
+      "publicationVenue": {
+        "id": "d422046e-4c54-4ab4-a876-f8c4e204844f",
+        "name": "China Summit and International Conference on Signal and Information Processing",
+        "type": "conference",
+        "alternate_names": [
+          "ChinaSIP",
+          "China Summit Int Conf Signal Inf Process"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/486ddba29b04c2e2ae62b186b9a5a48425ddf9cd",
+      "title": "An investigation on DNN-derived bottleneck features for GMM-HMM based robust speech recognition",
+      "venue": "China Summit and International Conference on Signal and Information Processing",
+      "year": 2015,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2909194",
+          "name": "Yongbin You"
+        },
+        {
+          "authorId": "2480051",
+          "name": "Y. Qian"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "1736727",
+          "name": "Kai Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "6673ff3916a7436cb39865589655813aab1ebe92",
+      "publicationVenue": {
+        "id": "f80ba4a3-7aed-4021-b4d8-e4f50668847a",
+        "name": "IEEE International Joint Conference on Neural Network",
+        "type": "conference",
+        "alternate_names": [
+          "IJCNN",
+          "IEEE Int Jt Conf Neural Netw",
+          "Int Jt Conf Neural Netw",
+          "International Joint Conference on Neural Network"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1573"
+      },
+      "url": "https://www.semanticscholar.org/paper/6673ff3916a7436cb39865589655813aab1ebe92",
+      "title": "Automatic model redundancy reduction for fast back-propagation for deep neural networks in speech recognition",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2015,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2480051",
+          "name": "Y. Qian"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2066620261",
+          "name": "Wei Deng"
+        },
+        {
+          "authorId": "1736727",
+          "name": "Kai Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "83fb367773e90d3bc5d8bd90c1529e6af927c760",
+      "publicationVenue": {
+        "id": "af90489e-312f-4514-bea2-bcb399cb8ece",
+        "name": "Interspeech",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Int Speech Commun Assoc",
+          "INTERSPEECH",
+          "Conference of the International Speech Communication Association"
+        ],
+        "issn": "2308-457X",
+        "url": "https://www.isca-speech.org/iscaweb/index.php/conferences/interspeech",
+        "alternate_urls": [
+          "http://www.isca-speech.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/83fb367773e90d3bc5d8bd90c1529e6af927c760",
+      "title": "Paragraph vector based topic model for language model adaptation",
+      "venue": "Interspeech",
+      "year": 2015,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2400119",
+          "name": "Wengong Jin"
+        },
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "2480051",
+          "name": "Y. Qian"
+        },
+        {
+          "authorId": "1736727",
+          "name": "Kai Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "87d810fcea61068e8b29f2b75fa1cbb00c190bea",
+      "publicationVenue": {
+        "id": "0d6f7fba-7092-46b3-8039-93458dba736b",
+        "name": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Acoust Speech Signal Process",
+          "IEEE Int Conf Acoust Speech Signal Process",
+          "ICASSP",
+          "International Conference on Acoustics, Speech, and Signal Processing"
+        ],
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000002"
+      },
+      "url": "https://www.semanticscholar.org/paper/87d810fcea61068e8b29f2b75fa1cbb00c190bea",
+      "title": "Reshaping deep neural network for fast decoding by node-pruning",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2014,
+      "citationCount": 116,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3083253",
+          "name": "Tianxing He"
+        },
+        {
+          "authorId": "7888497",
+          "name": "Yuchen Fan"
+        },
+        {
+          "authorId": "2480051",
+          "name": "Y. Qian"
+        },
+        {
+          "authorId": "144359290",
+          "name": "Tian Tan"
+        },
+        {
+          "authorId": "1736727",
+          "name": "Kai Yu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4319 @@
+{
+  "authorId": "143840275",
+  "name": "Song Han",
+  "affiliations": [],
+  "paperCount": 97,
+  "citationCount": 46109,
+  "hIndex": 53,
+  "papers": [
+    {
+      "paperId": "4efb1dc0e7c82c7f127ba93caa9fd57b928c44de",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/4efb1dc0e7c82c7f127ba93caa9fd57b928c44de",
+      "title": "Retrospective: EIE: Efficient Inference Engine on Sparse and Compressed Neural Network",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "49543200",
+          "name": "Xingyu Liu"
+        },
+        {
+          "authorId": "3123774",
+          "name": "Huizi Mao"
+        },
+        {
+          "authorId": "1560397753",
+          "name": "Jing Pu"
+        },
+        {
+          "authorId": "9182159",
+          "name": "A. Pedram"
+        },
+        {
+          "authorId": "2196412243",
+          "name": "Mark A. Horowitz"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "2c994fadbb84fb960d8306ee138dbeef41a5b323",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2c994fadbb84fb960d8306ee138dbeef41a5b323",
+      "title": "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "citationCount": 672,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2046958974",
+          "name": "Guangxuan Xiao"
+        },
+        {
+          "authorId": "46698300",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "2286429342",
+          "name": "Mickael Seznec"
+        },
+        {
+          "authorId": "32604218",
+          "name": "Julien Demouth"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "3e2e4178f79aef3d6ee712921022081f33e95d93",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3e2e4178f79aef3d6ee712921022081f33e95d93",
+      "title": "On-chip QNN: Towards Efficient On-Chip Training of Quantum Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48017300",
+          "name": "Hanrui Wang"
+        },
+        {
+          "authorId": "2118273577",
+          "name": "Zi-Chen Li"
+        },
+        {
+          "authorId": "2098601",
+          "name": "Jiaqi Gu"
+        },
+        {
+          "authorId": "2518378",
+          "name": "Yongshan Ding"
+        },
+        {
+          "authorId": "1681705",
+          "name": "D. Pan"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "a299438a2ba8717d927068ff3bbfff9371d5b128",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a299438a2ba8717d927068ff3bbfff9371d5b128",
+      "title": "Efficient Neural Network Architectures",
+      "venue": "Low-Power Computer Vision",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2114069742",
+          "name": "Han Cai"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "19753845e35469275bcf5d6b285618437cba8fd0",
+      "publicationVenue": {
+        "id": "0942fb86-c16f-4084-9902-10ddcfe18180",
+        "name": "Micro",
+        "type": "conference",
+        "alternate_names": [
+          "Int Symp Microarchitecture",
+          "MICRO",
+          "International Symposium on Microarchitecture",
+          "Annual IEEE/ACM International Symposium on Microarchitecture",
+          "Annu IEEE/ACM Int Symp Microarchitecture"
+        ],
+        "issn": "0271-9002",
+        "alternate_issns": [
+          "2151-4143",
+          "2673-8023"
+        ],
+        "url": "http://www.microarch.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/19753845e35469275bcf5d6b285618437cba8fd0",
+      "title": "PointAcc: Efficient Point Cloud Accelerator",
+      "venue": "Micro",
+      "year": 2021,
+      "citationCount": 78,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "11089894",
+          "name": "Zhekai Zhang"
+        },
+        {
+          "authorId": "150127950",
+          "name": "Haotian Tang"
+        },
+        {
+          "authorId": "1477757714",
+          "name": "Hanrui Wang"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "2870c009de1e5b50210980a78226abac4a52f3fd",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/2870c009de1e5b50210980a78226abac4a52f3fd",
+      "title": "PatchNet - Short-range Template Matching for Efficient Video Processing",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3123774",
+          "name": "Huizi Mao"
+        },
+        {
+          "authorId": "2110018955",
+          "name": "Sibo Zhu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "2f3ea3c6c60e323fbf00fa94d804b1a6f42e7bf0",
+      "publicationVenue": {
+        "id": "3f2626a8-9d78-42ca-9e0d-4b853b59cdcc",
+        "name": "IEEE International Conference on Robotics and Automation",
+        "type": "conference",
+        "alternate_names": [
+          "International Conference on Robotics and Automation",
+          "Int Conf Robot Autom",
+          "ICRA",
+          "IEEE Int Conf Robot Autom"
+        ],
+        "issn": "2152-4092",
+        "alternate_issns": [
+          "2379-9544"
+        ],
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000639",
+        "alternate_urls": [
+          "http://www.ncsu.edu/IEEE-RAS/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2f3ea3c6c60e323fbf00fa94d804b1a6f42e7bf0",
+      "title": "VISTA 2.0: An Open, Data-driven Simulator for Multimodal Sensing and Policy Learning for Autonomous Vehicles",
+      "venue": "IEEE International Conference on Robotics and Automation",
+      "year": 2021,
+      "citationCount": 93,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2056330",
+          "name": "Alexander Amini"
+        },
+        {
+          "authorId": "40897201",
+          "name": "Tsun-Hsuan Wang"
+        },
+        {
+          "authorId": "2072248",
+          "name": "Igor Gilitschenski"
+        },
+        {
+          "authorId": "8158505",
+          "name": "Wilko Schwarting"
+        },
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "143612763",
+          "name": "S. Karaman"
+        },
+        {
+          "authorId": "145944286",
+          "name": "D. Rus"
+        }
+      ]
+    },
+    {
+      "paperId": "43d9627fdf1436d827788cd95105112a57b53696",
+      "publicationVenue": {
+        "id": "768b87bb-8a18-4d9c-a161-4d483c776bcf",
+        "name": "Computer Vision and Pattern Recognition",
+        "type": "conference",
+        "alternate_names": [
+          "CVPR",
+          "Comput Vis Pattern Recognit"
+        ],
+        "issn": "1063-6919",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147",
+        "alternate_urls": [
+          "https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/43d9627fdf1436d827788cd95105112a57b53696",
+      "title": "Anycost GANs for Interactive Image Synthesis and Editing",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2021,
+      "citationCount": 79,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110385919",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "2844849",
+          "name": "Richard Zhang"
+        },
+        {
+          "authorId": "26385110",
+          "name": "F. Ganz"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "1922024303",
+          "name": "Jun-Yan Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "489efc7270a762efa77adcf18fcf1c8eee67a71e",
+      "publicationVenue": {
+        "id": "37275deb-3fcf-4d16-ae77-95db9899b1f3",
+        "name": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+        "type": "conference",
+        "alternate_names": [
+          "IROS",
+          "Intelligent Robots and Systems",
+          "Intell Robot Syst",
+          "IEEE/RJS Int Conf Intell Robot Syst"
+        ],
+        "url": "http://www.iros.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/489efc7270a762efa77adcf18fcf1c8eee67a71e",
+      "title": "SemAlign: Annotation-Free Camera-LiDAR Calibration with Semantic Alignment Loss",
+      "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+      "year": 2021,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "150127950",
+          "name": "Haotian Tang"
+        },
+        {
+          "authorId": "2110018955",
+          "name": "Sibo Zhu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "6a08407ad81a730453b0fd6a5c5e8bfeb6e9c53a",
+      "publicationVenue": {
+        "id": "b7aa40ac-729b-49d6-9064-4d1a9480e9a9",
+        "name": "International Symposium on High-Performance Computer Architecture",
+        "type": "conference",
+        "alternate_names": [
+          "HPCA",
+          "High Perform Comput Appl",
+          "Int Symp High-performance Comput Archit",
+          "High Performance Computing and Applications"
+        ],
+        "url": "https://web.archive.org/web/*/http://www.hpcaconf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6a08407ad81a730453b0fd6a5c5e8bfeb6e9c53a",
+      "title": "QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits",
+      "venue": "International Symposium on High-Performance Computer Architecture",
+      "year": 2021,
+      "citationCount": 162,
+      "fieldsOfStudy": [
+        "Physics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1477757714",
+          "name": "Hanrui Wang"
+        },
+        {
+          "authorId": "2518378",
+          "name": "Yongshan Ding"
+        },
+        {
+          "authorId": "2098601",
+          "name": "Jiaqi Gu"
+        },
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "1681705",
+          "name": "D. Pan"
+        },
+        {
+          "authorId": "1691956",
+          "name": "F. Chong"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "6c54b3fce833b3dadac59e78b8a2d99187624ebc",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6c54b3fce833b3dadac59e78b8a2d99187624ebc",
+      "title": "RoQNN: Noise-Aware Training for Robust Quantum Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1477757714",
+          "name": "Hanrui Wang"
+        },
+        {
+          "authorId": "2098601",
+          "name": "Jiaqi Gu"
+        },
+        {
+          "authorId": "2518378",
+          "name": "Yongshan Ding"
+        },
+        {
+          "authorId": "48458251",
+          "name": "Zirui Li"
+        },
+        {
+          "authorId": "1691956",
+          "name": "F. Chong"
+        },
+        {
+          "authorId": "1681705",
+          "name": "D. Pan"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "8beae209c88558c8a8ad9ec66912dbb981949f66",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8beae209c88558c8a8ad9ec66912dbb981949f66",
+      "title": "MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "citationCount": 140,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110385919",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "50504662",
+          "name": "Wei-Ming Chen"
+        },
+        {
+          "authorId": "2114069742",
+          "name": "Han Cai"
+        },
+        {
+          "authorId": "144158271",
+          "name": "Chuang Gan"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "8e7412e8e71664f730ed815c8eea1f60ad350d7c",
+      "publicationVenue": {
+        "id": "3f2626a8-9d78-42ca-9e0d-4b853b59cdcc",
+        "name": "IEEE International Conference on Robotics and Automation",
+        "type": "conference",
+        "alternate_names": [
+          "International Conference on Robotics and Automation",
+          "Int Conf Robot Autom",
+          "ICRA",
+          "IEEE Int Conf Robot Autom"
+        ],
+        "issn": "2152-4092",
+        "alternate_issns": [
+          "2379-9544"
+        ],
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000639",
+        "alternate_urls": [
+          "http://www.ncsu.edu/IEEE-RAS/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/8e7412e8e71664f730ed815c8eea1f60ad350d7c",
+      "title": "Efficient and Robust LiDAR-Based End-to-End Navigation",
+      "venue": "IEEE International Conference on Robotics and Automation",
+      "year": 2021,
+      "citationCount": 45,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "2056330",
+          "name": "Alexander Amini"
+        },
+        {
+          "authorId": "2110018955",
+          "name": "Sibo Zhu"
+        },
+        {
+          "authorId": "143612763",
+          "name": "S. Karaman"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "145944286",
+          "name": "D. Rus"
+        }
+      ]
+    },
+    {
+      "paperId": "942b963c5ad89e20720ec38fe0c4861072d20aa3",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/942b963c5ad89e20720ec38fe0c4861072d20aa3",
+      "title": "Network Augmentation for Tiny Deep Learning",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2114069742",
+          "name": "Han Cai"
+        },
+        {
+          "authorId": "144158271",
+          "name": "Chuang Gan"
+        },
+        {
+          "authorId": "2110385919",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "9d49e549c87d9c5288a99fc7b0acfbe7b7768613",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/9d49e549c87d9c5288a99fc7b0acfbe7b7768613",
+      "title": "AET-SGD: Asynchronous Event-triggered Stochastic Gradient Descent",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40989661",
+          "name": "Nhuong V. Nguyen"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "a1e880ecb6bb2634ca77950a5396d385b2bbd9eb",
+      "publicationVenue": {
+        "id": "7654260e-79f9-45c5-9663-d72027cf88f3",
+        "name": "IEEE International Conference on Computer Vision",
+        "type": "conference",
+        "alternate_names": [
+          "ICCV",
+          "IEEE Int Conf Comput Vis",
+          "ICCV Workshops",
+          "ICCV Work"
+        ],
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/a1e880ecb6bb2634ca77950a5396d385b2bbd9eb",
+      "title": "LocTex: Learning Data-Efficient Visual Representations from Localized Textual Supervision",
+      "venue": "IEEE International Conference on Computer Vision",
+      "year": 2021,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "2307158",
+          "name": "Simon Stent"
+        },
+        {
+          "authorId": "2155868565",
+          "name": "Jie Li"
+        },
+        {
+          "authorId": "7567844",
+          "name": "John Gideon"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "aa762e6a4fd6e0ddd4f18ad3a1d86f51dbc0fcf3",
+      "publicationVenue": {
+        "id": "25248f80-fe99-48e5-9b8e-9baef3b8e23b",
+        "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Pattern Anal Mach Intell"
+        ],
+        "issn": "0162-8828",
+        "url": "http://www.computer.org/tpami/",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tpami",
+          "http://ieeexplore.ieee.org/servlet/opac?punumber=34"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/aa762e6a4fd6e0ddd4f18ad3a1d86f51dbc0fcf3",
+      "title": "PVNAS: 3D Neural Architecture Search With Point-Voxel Convolution",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2021,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "150127950",
+          "name": "Haotian Tang"
+        },
+        {
+          "authorId": "51234052",
+          "name": "Shengyu Zhao"
+        },
+        {
+          "authorId": "2125278829",
+          "name": "Kevin Shao"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "ac9b21d8408c19eef33778e05ba908ba969f29ed",
+      "publicationVenue": {
+        "id": "021b37d3-cef1-4c12-a442-257f7900c23d",
+        "name": "Design Automation Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Des Autom Conf",
+          "DAC"
+        ],
+        "url": "http://www.dac.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ac9b21d8408c19eef33778e05ba908ba969f29ed",
+      "title": "NAAS: Neural Accelerator Architecture Search",
+      "venue": "Design Automation Conference",
+      "year": 2021,
+      "citationCount": 57,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "2111077495",
+          "name": "Mengtian Yang"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "1148ecf3734486e234869262ae8e8daf309fc0b2",
+      "publicationVenue": {
+        "id": "130f7aa7-1552-45e2-a924-46e8efee92d5",
+        "name": "IEEE Micro",
+        "type": "journal",
+        "issn": "0272-1732",
+        "url": "http://www.computer.org/micro/",
+        "alternate_urls": [
+          "http://ieeexplore.ieee.org/servlet/opac?punumber=40"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/1148ecf3734486e234869262ae8e8daf309fc0b2",
+      "title": "AutoML for Architecting Efficient and Specialized Neural Networks",
+      "venue": "IEEE Micro",
+      "year": 2020,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145834074",
+          "name": "Han Cai"
+        },
+        {
+          "authorId": "2110385919",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "2119044211",
+          "name": "Kuan Wang"
+        },
+        {
+          "authorId": "102753927",
+          "name": "Tianzhe Wang"
+        },
+        {
+          "authorId": "20515689",
+          "name": "Ligeng Zhu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "27cc280dfb808dfae9a9f28691d118f4df837222",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/27cc280dfb808dfae9a9f28691d118f4df837222",
+      "title": "TinyTL: Reduce Memory, Not Parameters for Efficient On-Device Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "citationCount": 255,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2114069742",
+          "name": "Han Cai"
+        },
+        {
+          "authorId": "144158271",
+          "name": "Chuang Gan"
+        },
+        {
+          "authorId": "20515689",
+          "name": "Ligeng Zhu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "65ae217678279c2ce111aa416085f4999619750e",
+      "publicationVenue": {
+        "id": "25248f80-fe99-48e5-9b8e-9baef3b8e23b",
+        "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Pattern Anal Mach Intell"
+        ],
+        "issn": "0162-8828",
+        "url": "http://www.computer.org/tpami/",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tpami",
+          "http://ieeexplore.ieee.org/servlet/opac?punumber=34"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/65ae217678279c2ce111aa416085f4999619750e",
+      "title": "TSM: Temporal Shift Module for Efficient and Scalable Video Understanding on Edge Devices",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2020,
+      "citationCount": 63,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2110385919",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "144158271",
+          "name": "Chuang Gan"
+        },
+        {
+          "authorId": "2119044211",
+          "name": "Kuan Wang"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "66ceae37af0e7ace4755a5e8f41162d0f6cf7677",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/66ceae37af0e7ace4755a5e8f41162d0f6cf7677",
+      "title": "MicroNet for Efficient Language Modeling",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1390567306",
+          "name": "Zhongxia Yan"
+        },
+        {
+          "authorId": "1477757714",
+          "name": "Hanrui Wang"
+        },
+        {
+          "authorId": "35578711",
+          "name": "Demi Guo"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "670f9d0d8cafaeaeea564c88645b9816b1146cef",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/670f9d0d8cafaeaeea564c88645b9816b1146cef",
+      "title": "Differentiable Augmentation for Data-Efficient GAN Training",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "citationCount": 590,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "51234052",
+          "name": "Shengyu Zhao"
+        },
+        {
+          "authorId": "1741412659",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "2110385919",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "2436356",
+          "name": "Jun-Yan Zhu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "6aca11d1adf5b5fa4cf88ceed1554e266456c5a4",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6aca11d1adf5b5fa4cf88ceed1554e266456c5a4",
+      "title": "TinyTL: Reduce Activations, Not Trainable Parameters for Efficient On-Device Learning",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 50,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145834074",
+          "name": "Han Cai"
+        },
+        {
+          "authorId": "144158271",
+          "name": "Chuang Gan"
+        },
+        {
+          "authorId": "20515689",
+          "name": "Ligeng Zhu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "73e0f38ab49b19b86321016b773e15f1d02e3a72",
+      "publicationVenue": {
+        "id": "b7aa40ac-729b-49d6-9064-4d1a9480e9a9",
+        "name": "International Symposium on High-Performance Computer Architecture",
+        "type": "conference",
+        "alternate_names": [
+          "HPCA",
+          "High Perform Comput Appl",
+          "Int Symp High-performance Comput Archit",
+          "High Performance Computing and Applications"
+        ],
+        "url": "https://web.archive.org/web/*/http://www.hpcaconf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/73e0f38ab49b19b86321016b773e15f1d02e3a72",
+      "title": "SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning",
+      "venue": "International Symposium on High-Performance Computer Architecture",
+      "year": 2020,
+      "citationCount": 350,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48017300",
+          "name": "Hanrui Wang"
+        },
+        {
+          "authorId": "11089894",
+          "name": "Zhekai Zhang"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "780270a7940c96b0c907103ff8e77dfe082f564f",
+      "publicationVenue": {
+        "id": "021b37d3-cef1-4c12-a442-257f7900c23d",
+        "name": "Design Automation Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Des Autom Conf",
+          "DAC"
+        ],
+        "url": "http://www.dac.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/780270a7940c96b0c907103ff8e77dfe082f564f",
+      "title": "GCN-RL Circuit Designer: Transferable Transistor Sizing with Graph Neural Networks and Reinforcement Learning",
+      "venue": "Design Automation Conference",
+      "year": 2020,
+      "citationCount": 218,
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1477757714",
+          "name": "Hanrui Wang"
+        },
+        {
+          "authorId": "2119044211",
+          "name": "Kuan Wang"
+        },
+        {
+          "authorId": "2141054362",
+          "name": "Jiacheng Yang"
+        },
+        {
+          "authorId": "28908836",
+          "name": "Linxiao Shen"
+        },
+        {
+          "authorId": "48000611",
+          "name": "Nan Sun"
+        },
+        {
+          "authorId": "72152172",
+          "name": "Hae-Seung Lee"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "7af3992959ff24e369da7c514c041062f5249b1e",
+      "publicationVenue": {
+        "id": "b7aa40ac-729b-49d6-9064-4d1a9480e9a9",
+        "name": "International Symposium on High-Performance Computer Architecture",
+        "type": "conference",
+        "alternate_names": [
+          "HPCA",
+          "High Perform Comput Appl",
+          "Int Symp High-performance Comput Archit",
+          "High Performance Computing and Applications"
+        ],
+        "url": "https://web.archive.org/web/*/http://www.hpcaconf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7af3992959ff24e369da7c514c041062f5249b1e",
+      "title": "SpArch: Efficient Architecture for Sparse Matrix Multiplication",
+      "venue": "International Symposium on High-Performance Computer Architecture",
+      "year": 2020,
+      "citationCount": 213,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "11089894",
+          "name": "Zhekai Zhang"
+        },
+        {
+          "authorId": "1477757714",
+          "name": "Hanrui Wang"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "7b1707391bf47ed5a99fe3626be6b4514c317745",
+      "publicationVenue": {
+        "id": "167fa0ca-e88a-4ef7-a16f-bc66c457c806",
+        "name": "European Conference on Computer Vision",
+        "type": "conference",
+        "alternate_names": [
+          "ECCV",
+          "Eur Conf Comput Vis"
+        ],
+        "url": "https://link.springer.com/conference/eccv"
+      },
+      "url": "https://www.semanticscholar.org/paper/7b1707391bf47ed5a99fe3626be6b4514c317745",
+      "title": "DataMix: Efficient Privacy-Preserving Edge-Cloud Inference",
+      "venue": "European Conference on Computer Vision",
+      "year": 2020,
+      "citationCount": 36,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "1390573666",
+          "name": "Zhanghao Wu"
+        },
+        {
+          "authorId": "144158271",
+          "name": "Chuang Gan"
+        },
+        {
+          "authorId": "20515689",
+          "name": "Ligeng Zhu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "7e4c92bd4ba6536f722de2e51e2f33b8d76df78d",
+      "publicationVenue": {
+        "id": "42cd70f7-45f1-4f5a-9723-42d222d6c56e",
+        "name": "IEEE transactions on computers",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Transactions on Computers",
+          "IEEE Trans Comput",
+          "IEEE trans comput"
+        ],
+        "issn": "0018-9340",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=12",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tc"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7e4c92bd4ba6536f722de2e51e2f33b8d76df78d",
+      "title": "Energy Efficient On-Demand Dynamic Branch Prediction Models",
+      "venue": "IEEE transactions on computers",
+      "year": 2020,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40412442",
+          "name": "Milad Mohammadi"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "2258288",
+          "name": "E. Atoofian"
+        },
+        {
+          "authorId": "2622215",
+          "name": "A. Baniasadi"
+        },
+        {
+          "authorId": "1742561",
+          "name": "Tor M. Aamodt"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "8acc99c96a9cce2a14e049f756f608dab3491f24",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8acc99c96a9cce2a14e049f756f608dab3491f24",
+      "title": "MCUNet: Tiny Deep Learning on IoT Devices",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "citationCount": 462,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110385919",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "50504662",
+          "name": "Wei-Ming Chen"
+        },
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "47953827",
+          "name": "J. Cohn"
+        },
+        {
+          "authorId": "144158271",
+          "name": "Chuang Gan"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "8af925f4edf45131b5b6fed8aa655089d58692fa",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8af925f4edf45131b5b6fed8aa655089d58692fa",
+      "title": "Lite Transformer with Long-Short Range Attention",
+      "venue": "International Conference on Learning Representations",
+      "year": 2020,
+      "citationCount": 305,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1390573666",
+          "name": "Zhanghao Wu"
+        },
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "2110385919",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "9bb5665fe48e7122beda73a53316de9f7f243b19",
+      "publicationVenue": {
+        "id": "768b87bb-8a18-4d9c-a161-4d483c776bcf",
+        "name": "Computer Vision and Pattern Recognition",
+        "type": "conference",
+        "alternate_names": [
+          "CVPR",
+          "Comput Vis Pattern Recognit"
+        ],
+        "issn": "1063-6919",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147",
+        "alternate_urls": [
+          "https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9bb5665fe48e7122beda73a53316de9f7f243b19",
+      "title": "APQ: Joint Search for Network Architecture, Pruning and Quantization Policy",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2020,
+      "citationCount": 172,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "102753927",
+          "name": "Tianzhe Wang"
+        },
+        {
+          "authorId": "2119044211",
+          "name": "Kuan Wang"
+        },
+        {
+          "authorId": "2114069742",
+          "name": "Han Cai"
+        },
+        {
+          "authorId": "2110385919",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "9c535c81aaa48a34cd3be9eb6a81ac09ee822f40",
+      "publicationVenue": {
+        "id": "e86c30b0-c1dd-4f0e-be5e-22af711f7d5f",
+        "name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Comput Des Integr Circuit Syst"
+        ],
+        "issn": "0278-0070",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=43",
+        "alternate_urls": [
+          "http://ieee-ceda.org/publications/tcad",
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9c535c81aaa48a34cd3be9eb6a81ac09ee822f40",
+      "title": "Long Live TIME: Improving Lifetime and Security for NVM-Based Training-in-Memory Systems",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "year": 2020,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2111027008",
+          "name": "Yi Cai"
+        },
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "1729362",
+          "name": "Lixue Xia"
+        },
+        {
+          "authorId": "2116124177",
+          "name": "Xiaoming Chen"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "40987227",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "39150998",
+          "name": "Huazhong Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "a06918eec3ebe308c7309435871c692c5acfd357",
+      "publicationVenue": {
+        "id": "25248f80-fe99-48e5-9b8e-9baef3b8e23b",
+        "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Pattern Anal Mach Intell"
+        ],
+        "issn": "0162-8828",
+        "url": "http://www.computer.org/tpami/",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tpami",
+          "http://ieeexplore.ieee.org/servlet/opac?punumber=34"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a06918eec3ebe308c7309435871c692c5acfd357",
+      "title": "GAN Compression: Efficient Architectures for Interactive Conditional GANs",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2020,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2112144628",
+          "name": "Muyang Li"
+        },
+        {
+          "authorId": "2110385919",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "2110668135",
+          "name": "Yaoyao Ding"
+        },
+        {
+          "authorId": "1741412659",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "1922024303",
+          "name": "Jun-Yan Zhu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "a7dda4a4c457ea2fa8b8c0cbdbe86514cc607512",
+      "publicationVenue": {
+        "id": "3bcf77b3-860b-4dd7-84ae-9fe9414c6c6a",
+        "name": "Conference on Machine Learning and Systems",
+        "type": "conference",
+        "alternate_names": [
+          "MLSys",
+          "Conf Mach Learn Syst"
+        ],
+        "url": "https://mlsys.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a7dda4a4c457ea2fa8b8c0cbdbe86514cc607512",
+      "title": "IOS: Inter-Operator Scheduler for CNN Acceleration",
+      "venue": "Conference on Machine Learning and Systems",
+      "year": 2020,
+      "citationCount": 67,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110668135",
+          "name": "Yaoyao Ding"
+        },
+        {
+          "authorId": "20515689",
+          "name": "Ligeng Zhu"
+        },
+        {
+          "authorId": null,
+          "name": "Zhihao Jia"
+        },
+        {
+          "authorId": "3257164",
+          "name": "Gennady Pekhimenko"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "b6207686ecf40f1eb1752425299f265dffbc4abe",
+      "publicationVenue": {
+        "id": "768b87bb-8a18-4d9c-a161-4d483c776bcf",
+        "name": "Computer Vision and Pattern Recognition",
+        "type": "conference",
+        "alternate_names": [
+          "CVPR",
+          "Comput Vis Pattern Recognit"
+        ],
+        "issn": "1063-6919",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147",
+        "alternate_urls": [
+          "https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/b6207686ecf40f1eb1752425299f265dffbc4abe",
+      "title": "GAN Compression: Efficient Architectures for Interactive Conditional GANs",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2020,
+      "citationCount": 206,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112144628",
+          "name": "Muyang Li"
+        },
+        {
+          "authorId": "2110385919",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "2110668135",
+          "name": "Yaoyao Ding"
+        },
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "2436356",
+          "name": "Jun-Yan Zhu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "b6e4d582fa86a326be1fa8c5980a8a439fa8fe45",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/b6e4d582fa86a326be1fa8c5980a8a439fa8fe45",
+      "title": "Tiny Transfer Learning: Towards Memory-Efficient On-Device Learning",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2114069742",
+          "name": "Han Cai"
+        },
+        {
+          "authorId": "144158271",
+          "name": "Chuang Gan"
+        },
+        {
+          "authorId": "20515689",
+          "name": "Ligeng Zhu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "bbec20f17887ac73bc3e76f06aa59640bdfd210a",
+      "publicationVenue": {
+        "id": "4d9ce1c4-dc84-46b9-903e-e3751c00c7dd",
+        "name": "Communications of the ACM",
+        "type": "journal",
+        "alternate_names": [
+          "Commun ACM",
+          "Communications of The ACM"
+        ],
+        "issn": "0001-0782",
+        "url": "http://www.acm.org/pubs/cacm/",
+        "alternate_urls": [
+          "http://portal.acm.org/cacm",
+          "http://www.acm.org/pubs/contents/journals/cacm/",
+          "https://cacm.acm.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/bbec20f17887ac73bc3e76f06aa59640bdfd210a",
+      "title": "Domain-specific hardware accelerators",
+      "venue": "Communications of the ACM",
+      "year": 2020,
+      "citationCount": 184,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        },
+        {
+          "authorId": "2529150",
+          "name": "Yatish Turakhia"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "e70d609ce18cd61799b087bf3a5e14c1ce70a41a",
+      "publicationVenue": {
+        "id": "6faaccca-1cc4-45a9-aeb6-96a4901d2606",
+        "name": "Proceedings of the IEEE",
+        "type": "journal",
+        "alternate_names": [
+          "Proc IEEE"
+        ],
+        "issn": "0018-9219",
+        "alternate_issns": [
+          "1558-2256"
+        ],
+        "url": "http://www.ieee.org/portal/pages/pubs/proceedings/",
+        "alternate_urls": [
+          "http://www.ieee.org/products/onlinepubs/pub/about_conference.html",
+          "https://ieeexplore.ieee.org/servlet/opac?punumber=5",
+          "http://proceedingsoftheieee.ieee.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e70d609ce18cd61799b087bf3a5e14c1ce70a41a",
+      "title": "Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey",
+      "venue": "Proceedings of the IEEE",
+      "year": 2020,
+      "citationCount": 698,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1638059883",
+          "name": "By Lei Deng"
+        },
+        {
+          "authorId": "1730243",
+          "name": "Guoqi Li"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "29889772",
+          "name": "Luping Shi"
+        },
+        {
+          "authorId": "1410066063",
+          "name": "Yuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "ef8d788a904ed66bd8e30ffa69bc3ea1fe57dda7",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ef8d788a904ed66bd8e30ffa69bc3ea1fe57dda7",
+      "title": "HAT: Hardware-Aware Transformers for Efficient Natural Language Processing",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 252,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "35446689",
+          "name": "Hanrui Wang"
+        },
+        {
+          "authorId": "1390573666",
+          "name": "Zhanghao Wu"
+        },
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "2114069742",
+          "name": "Han Cai"
+        },
+        {
+          "authorId": "20515689",
+          "name": "Ligeng Zhu"
+        },
+        {
+          "authorId": "144158271",
+          "name": "Chuang Gan"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "f4c751b5472138ae302f646daf5dced6abfa66b0",
+      "publicationVenue": {
+        "id": "939ee07c-6009-43f8-b884-69238b40659e",
+        "name": "International Journal of Computer Vision",
+        "type": "journal",
+        "alternate_names": [
+          "Int J Comput Vis"
+        ],
+        "issn": "0920-5691",
+        "url": "https://www.springer.com/computer/image+processing/journal/11263",
+        "alternate_urls": [
+          "https://link.springer.com/journal/11263",
+          "http://link.springer.com/journal/11263"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f4c751b5472138ae302f646daf5dced6abfa66b0",
+      "title": "Hardware-Centric AutoML for Mixed-Precision Quantization",
+      "venue": "International Journal of Computer Vision",
+      "year": 2020,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2119044211",
+          "name": "Kuan Wang"
+        },
+        {
+          "authorId": "1741412659",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "2110385919",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "045e3d2939814c3007b2993eb6906990c60faa11",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/045e3d2939814c3007b2993eb6906990c60faa11",
+      "title": "EMS: End-to-End Model Search for Network Architecture, Pruning and Quantization",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "102753927",
+          "name": "Tianzhe Wang"
+        },
+        {
+          "authorId": "2119045079",
+          "name": "Kuan Wang"
+        },
+        {
+          "authorId": "2114069742",
+          "name": "Han Cai"
+        },
+        {
+          "authorId": "2110385919",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "38b90ff65c251d8cde0f4bccf048e37de436ad2d",
+      "publicationVenue": {
+        "id": "73e316c6-3e72-4c26-82ab-47e8da044b15",
+        "name": "Symposium on Field Programmable Gate Arrays",
+        "type": "conference",
+        "alternate_names": [
+          "Field Program Gate Array",
+          "Symp Field Program Gate Array",
+          "Field Programmable Gate Arrays",
+          "FPGA"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1082"
+      },
+      "url": "https://www.semanticscholar.org/paper/38b90ff65c251d8cde0f4bccf048e37de436ad2d",
+      "title": "A Fine-Grained Sparse Accelerator for Multi-Precision DNN",
+      "venue": "Symposium on Field Programmable Gate Arrays",
+      "year": 2019,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "115524834",
+          "name": "Shulin Zeng"
+        },
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "2114785988",
+          "name": "Shuang Liang"
+        },
+        {
+          "authorId": "47218161",
+          "name": "Junlong Kang"
+        },
+        {
+          "authorId": "2054592483",
+          "name": "Dongliang Xie"
+        },
+        {
+          "authorId": "49713335",
+          "name": "Yi Shan"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "40987227",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "39150998",
+          "name": "Huazhong Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "5507d267bbf0b4cdb9f893c3c0960a45016f7010",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5507d267bbf0b4cdb9f893c3c0960a45016f7010",
+      "title": "Deep Leakage from Gradients",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "citationCount": 2068,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Materials Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "20515689",
+          "name": "Ligeng Zhu"
+        },
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "75436b8dc91e22d07aee92a34a69ea7cb51c9b38",
+      "publicationVenue": {
+        "id": "73e316c6-3e72-4c26-82ab-47e8da044b15",
+        "name": "Symposium on Field Programmable Gate Arrays",
+        "type": "conference",
+        "alternate_names": [
+          "Field Program Gate Array",
+          "Symp Field Program Gate Array",
+          "Field Programmable Gate Arrays",
+          "FPGA"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1082"
+      },
+      "url": "https://www.semanticscholar.org/paper/75436b8dc91e22d07aee92a34a69ea7cb51c9b38",
+      "title": "Fast Inference of Deep Neural Networks for Real-time Particle Physics Applications",
+      "venue": "Symposium on Field Programmable Gate Arrays",
+      "year": 2019,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1389378372",
+          "name": "Javier Mauricio Duarte"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "144326960",
+          "name": "P. Harris"
+        },
+        {
+          "authorId": "91226838",
+          "name": "S. Jindariani"
+        },
+        {
+          "authorId": "49946671",
+          "name": "E. Kreinar"
+        },
+        {
+          "authorId": "102482396",
+          "name": "B. Kreis"
+        },
+        {
+          "authorId": "19203702",
+          "name": "V. Loncar"
+        },
+        {
+          "authorId": "41016473",
+          "name": "J. Ngadiuba"
+        },
+        {
+          "authorId": "1858059",
+          "name": "M. Pierini"
+        },
+        {
+          "authorId": "145881831",
+          "name": "D. Rankin"
+        },
+        {
+          "authorId": "143763207",
+          "name": "R. Rivera"
+        },
+        {
+          "authorId": "49143070",
+          "name": "S. Summers"
+        },
+        {
+          "authorId": "151698976",
+          "name": "N. Tran"
+        },
+        {
+          "authorId": "6293775",
+          "name": "Zhenbin Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "7823292e5c4b05c47af91ab6ddf671a0da709e82",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7823292e5c4b05c47af91ab6ddf671a0da709e82",
+      "title": "Once for All: Train One Network and Specialize it for Efficient Deployment",
+      "venue": "International Conference on Learning Representations",
+      "year": 2019,
+      "citationCount": 1230,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "145834074",
+          "name": "Han Cai"
+        },
+        {
+          "authorId": "144158271",
+          "name": "Chuang Gan"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "91eb95c076f25e9e47252876372ca959fbf9994e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/91eb95c076f25e9e47252876372ca959fbf9994e",
+      "title": "Training Kinetics in 15 Minutes: Large-scale Distributed Training on Videos",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2110385919",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "144158271",
+          "name": "Chuang Gan"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "b0e42110a82e81d1d12ab22737a224fcc570e2a6",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/b0e42110a82e81d1d12ab22737a224fcc570e2a6",
+      "title": "Design Automation for Efficient Deep Learning Computing",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "145834074",
+          "name": "Han Cai"
+        },
+        {
+          "authorId": "20515689",
+          "name": "Ligeng Zhu"
+        },
+        {
+          "authorId": "46698300",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "2119044211",
+          "name": "Kuan Wang"
+        },
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "c7a324da4925d54eb29ddc2d859eba7e625c7cc6",
+      "publicationVenue": {
+        "id": "021b37d3-cef1-4c12-a442-257f7900c23d",
+        "name": "Design Automation Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Des Autom Conf",
+          "DAC"
+        ],
+        "url": "http://www.dac.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c7a324da4925d54eb29ddc2d859eba7e625c7cc6",
+      "title": "A Configurable Multi-Precision CNN Computing Framework Based on Single Bit RRAM",
+      "venue": "Design Automation Conference",
+      "year": 2019,
+      "citationCount": 89,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145798959",
+          "name": "Zhenhua Zhu"
+        },
+        {
+          "authorId": "1508493242",
+          "name": "Hanbo Sun"
+        },
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "144290348",
+          "name": "Guohao Dai"
+        },
+        {
+          "authorId": "1729362",
+          "name": "Lixue Xia"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "40457242",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "39150998",
+          "name": "Huazhong Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "d8ee9944a2f3ca554382c1ff2cf6e3bb65a4ff48",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d8ee9944a2f3ca554382c1ff2cf6e3bb65a4ff48",
+      "title": "On-Device Image Classification with Proxyless Neural Architecture Search and Quantization-Aware Fine-Tuning",
+      "venue": "2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW)",
+      "year": 2019,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145834074",
+          "name": "Han Cai"
+        },
+        {
+          "authorId": "102753927",
+          "name": "Tianzhe Wang"
+        },
+        {
+          "authorId": "1390573666",
+          "name": "Zhanghao Wu"
+        },
+        {
+          "authorId": "2119044211",
+          "name": "Kuan Wang"
+        },
+        {
+          "authorId": "2110385919",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "fdde9a63877db44c1b6a7f5cff5d47f01465e793",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/fdde9a63877db44c1b6a7f5cff5d47f01465e793",
+      "title": "Point-Voxel CNN for Efficient 3D Deep Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "citationCount": 641,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "150127950",
+          "name": "Haotian Tang"
+        },
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "1717255b6aea01fe956cef998abbc3c399b5d7cf",
+      "publicationVenue": {
+        "id": "167fa0ca-e88a-4ef7-a16f-bc66c457c806",
+        "name": "European Conference on Computer Vision",
+        "type": "conference",
+        "alternate_names": [
+          "ECCV",
+          "Eur Conf Comput Vis"
+        ],
+        "url": "https://link.springer.com/conference/eccv"
+      },
+      "url": "https://www.semanticscholar.org/paper/1717255b6aea01fe956cef998abbc3c399b5d7cf",
+      "title": "AMC: AutoML for Model Compression and Acceleration on Mobile Devices",
+      "venue": "European Conference on Computer Vision",
+      "year": 2018,
+      "citationCount": 1321,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39838894",
+          "name": "Yihui He"
+        },
+        {
+          "authorId": "46698300",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "35446689",
+          "name": "Hanrui Wang"
+        },
+        {
+          "authorId": "2040091191",
+          "name": "Li-Jia Li"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "196b2611ea462ffbe4e0d9124656eeb6677e3312",
+      "publicationVenue": {
+        "id": "e86c30b0-c1dd-4f0e-be5e-22af711f7d5f",
+        "name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Comput Des Integr Circuit Syst"
+        ],
+        "issn": "0278-0070",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=43",
+        "alternate_urls": [
+          "http://ieee-ceda.org/publications/tcad",
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/196b2611ea462ffbe4e0d9124656eeb6677e3312",
+      "title": "Angel-Eye: A Complete Design Flow for Mapping CNN Onto Embedded FPGA",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "year": 2018,
+      "citationCount": 424,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "35493564",
+          "name": "Kaiyuan Guo"
+        },
+        {
+          "authorId": "2208385",
+          "name": "Lingzhi Sui"
+        },
+        {
+          "authorId": "1848503",
+          "name": "Jiantao Qiu"
+        },
+        {
+          "authorId": "1909938",
+          "name": "Jincheng Yu"
+        },
+        {
+          "authorId": "2115931932",
+          "name": "Junbin Wang"
+        },
+        {
+          "authorId": "2067824417",
+          "name": "Song Yao"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "40987227",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "39150998",
+          "name": "Huazhong Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "317b886336e3f5b599ab21795f4a4fef56f727f4",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/317b886336e3f5b599ab21795f4a4fef56f727f4",
+      "title": "Efficient Sparse-Winograd Convolutional Neural Networks",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "citationCount": 121,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49543200",
+          "name": "Xingyu Liu"
+        },
+        {
+          "authorId": "47325862",
+          "name": "Jeff Pool"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "4bbfd46721c145852e443ae4aad35148b814bf91",
+      "publicationVenue": {
+        "id": "7654260e-79f9-45c5-9663-d72027cf88f3",
+        "name": "IEEE International Conference on Computer Vision",
+        "type": "conference",
+        "alternate_names": [
+          "ICCV",
+          "IEEE Int Conf Comput Vis",
+          "ICCV Workshops",
+          "ICCV Work"
+        ],
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/4bbfd46721c145852e443ae4aad35148b814bf91",
+      "title": "TSM: Temporal Shift Module for Efficient Video Understanding",
+      "venue": "IEEE International Conference on Computer Vision",
+      "year": 2018,
+      "citationCount": 1623,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46698300",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "144158271",
+          "name": "Chuang Gan"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "54c4642d017830e1faddbb49f0377228d2b01493",
+      "publicationVenue": {
+        "id": "768b87bb-8a18-4d9c-a161-4d483c776bcf",
+        "name": "Computer Vision and Pattern Recognition",
+        "type": "conference",
+        "alternate_names": [
+          "CVPR",
+          "Comput Vis Pattern Recognit"
+        ],
+        "issn": "1063-6919",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147",
+        "alternate_urls": [
+          "https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/54c4642d017830e1faddbb49f0377228d2b01493",
+      "title": "HAQ: Hardware-Aware Automated Quantization With Mixed Precision",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2018,
+      "citationCount": 851,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2119044211",
+          "name": "Kuan Wang"
+        },
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "46698300",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "5925a25dfe107c49c636eccb8f9fd1aeef7b438c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/5925a25dfe107c49c636eccb8f9fd1aeef7b438c",
+      "title": "Temporal Shift Module for Efficient Video Understanding",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 203,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46698300",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "144158271",
+          "name": "Chuang Gan"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "5e963ffdf331f003dfb25a598fc93a0deef1f728",
+      "publicationVenue": {
+        "id": "4767ab1f-4c8b-4934-b630-f9cfb8e67e2d",
+        "name": "Journal of Instrumentation",
+        "type": "journal",
+        "alternate_names": [
+          "J Instrum"
+        ],
+        "issn": "1748-0221",
+        "url": "http://www.iop.org/EJ/journal/jinst",
+        "alternate_urls": [
+          "http://iopscience.iop.org/1748-0221/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5e963ffdf331f003dfb25a598fc93a0deef1f728",
+      "title": "Fast inference of deep neural networks in FPGAs for particle physics",
+      "venue": "Journal of Instrumentation",
+      "year": 2018,
+      "citationCount": 382,
+      "fieldsOfStudy": [
+        "Physics",
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1389378372",
+          "name": "Javier Mauricio Duarte"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "144326960",
+          "name": "P. Harris"
+        },
+        {
+          "authorId": "91226838",
+          "name": "S. Jindariani"
+        },
+        {
+          "authorId": "49946671",
+          "name": "E. Kreinar"
+        },
+        {
+          "authorId": "102482396",
+          "name": "B. Kreis"
+        },
+        {
+          "authorId": "41016473",
+          "name": "J. Ngadiuba"
+        },
+        {
+          "authorId": "1858059",
+          "name": "M. Pierini"
+        },
+        {
+          "authorId": "143763207",
+          "name": "R. Rivera"
+        },
+        {
+          "authorId": "151698976",
+          "name": "N. Tran"
+        },
+        {
+          "authorId": "6293775",
+          "name": "Zhenbin Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "69eff3fe7016654d817edf0202a831773e0c17f1",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/69eff3fe7016654d817edf0202a831773e0c17f1",
+      "title": "DISTRIBUTED TRAINING",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "726df4f3f7a2ff193e626b49e37e2b3a7e494034",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/726df4f3f7a2ff193e626b49e37e2b3a7e494034",
+      "title": "ADC: Automated Deep Compression and Acceleration with Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 71,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39838894",
+          "name": "Yihui He"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "7ca59e1230776a968f61f6e622a728c4706e88c3",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/7ca59e1230776a968f61f6e622a728c4706e88c3",
+      "title": "Adaptive Mixture of Low-Rank Factorizations for Compact Neural Modeling",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2117180415",
+          "name": "Ting Chen"
+        },
+        {
+          "authorId": "46698300",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "2143608361",
+          "name": "Tian Lin"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "2146308808",
+          "name": "Chong Wang"
+        },
+        {
+          "authorId": "24982365",
+          "name": "Dengyong Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "820e53c8ad96e1cfcc1a8ce8624b02bed12a4c93",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/820e53c8ad96e1cfcc1a8ce8624b02bed12a4c93",
+      "title": "Bandwidth-Efficient Deep Learning \u2014 \u2014 from Compression to Acceleration",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "8a1fdf4bd2efd80c217c454e4652c92a022c4671",
+      "publicationVenue": {
+        "id": "021b37d3-cef1-4c12-a442-257f7900c23d",
+        "name": "Design Automation Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Des Autom Conf",
+          "DAC"
+        ],
+        "url": "http://www.dac.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8a1fdf4bd2efd80c217c454e4652c92a022c4671",
+      "title": "INVITED: Bandwidth-Efficient Deep Learning",
+      "venue": "Design Automation Conference",
+      "year": 2018,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "8bd5c9ae80ba48483acf5fb04af4badfc4dc81fa",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/8bd5c9ae80ba48483acf5fb04af4badfc4dc81fa",
+      "title": "Learning to Design Circuits",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 89,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "35446689",
+          "name": "Hanrui Wang"
+        },
+        {
+          "authorId": "2141054362",
+          "name": "Jiacheng Yang"
+        },
+        {
+          "authorId": "72152172",
+          "name": "Hae-Seung Lee"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "990208cde2b1d33e6aa7b4559a3472324da1fdb1",
+      "publicationVenue": {
+        "id": "021b37d3-cef1-4c12-a442-257f7900c23d",
+        "name": "Design Automation Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Des Autom Conf",
+          "DAC"
+        ],
+        "url": "http://www.dac.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/990208cde2b1d33e6aa7b4559a3472324da1fdb1",
+      "title": "Long Live TIME: Improving Lifetime for Training-In-Memory Engines by Structured Gradient Sparsification",
+      "venue": "Design Automation Conference",
+      "year": 2018,
+      "citationCount": 40,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2111027008",
+          "name": "Yi Cai"
+        },
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "1729362",
+          "name": "Lixue Xia"
+        },
+        {
+          "authorId": "2116124177",
+          "name": "Xiaoming Chen"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "40987227",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "39150998",
+          "name": "Huazhong Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "dcc808993310a8a64fdd5efa9e46d0022ff12c27",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/dcc808993310a8a64fdd5efa9e46d0022ff12c27",
+      "title": "Path-Level Network Transformation for Efficient Architecture Search",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "citationCount": 208,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "145834074",
+          "name": "Han Cai"
+        },
+        {
+          "authorId": "2141054362",
+          "name": "Jiacheng Yang"
+        },
+        {
+          "authorId": "2108309275",
+          "name": "Weinan Zhang"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "1811427",
+          "name": "Yong Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "df71a17df5350b0dbf8e5e084ae56a65cee9aaf8",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/df71a17df5350b0dbf8e5e084ae56a65cee9aaf8",
+      "title": "HAQ: Hardware-Aware Automated Quantization",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 89,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2119045079",
+          "name": "Kuan Wang"
+        },
+        {
+          "authorId": "47781592",
+          "name": "Zhijian Liu"
+        },
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "46698300",
+          "name": "Ji Lin"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "f323407464c4cd492d3fc1afd7170eab08f44d9b",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f323407464c4cd492d3fc1afd7170eab08f44d9b",
+      "title": "ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "citationCount": 1829,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "145834074",
+          "name": "Han Cai"
+        },
+        {
+          "authorId": "20515689",
+          "name": "Ligeng Zhu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "17374686a42ffd4eec6590a2b099d29dce2e8758",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/17374686a42ffd4eec6590a2b099d29dce2e8758",
+      "title": "Reconfigurable processor for deep learning in autonomous vehicles",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "40987227",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "2114785988",
+          "name": "Shuang Liang"
+        },
+        {
+          "authorId": "2067824417",
+          "name": "Song Yao"
+        },
+        {
+          "authorId": "2116665774",
+          "name": "Hong Luo"
+        },
+        {
+          "authorId": "49713335",
+          "name": "Yi Shan"
+        },
+        {
+          "authorId": "1944977",
+          "name": "Jinzhan Peng"
+        }
+      ]
+    },
+    {
+      "paperId": "1c4c9b2c795b1b18bcc97be471c98350ee34d3d7",
+      "publicationVenue": {
+        "id": "4f854c65-f7ce-4588-a3ca-d96a1c00fc6d",
+        "name": "IEEE Symposium on Field-Programmable Custom Computing Machines",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Symp Field-programmable Cust Comput Mach",
+          "Field-programmable Cust Comput Mach",
+          "FCCM",
+          "Field-Programmable Custom Computing Machines"
+        ],
+        "url": "http://www.fccm.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1c4c9b2c795b1b18bcc97be471c98350ee34d3d7",
+      "title": "An FPGA Design Framework for CNN Sparsification and Acceleration",
+      "venue": "IEEE Symposium on Field-Programmable Custom Computing Machines",
+      "year": 2017,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3285742",
+          "name": "Sicheng Li"
+        },
+        {
+          "authorId": "145225262",
+          "name": "W. Wen"
+        },
+        {
+          "authorId": "40457242",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "5442167",
+          "name": "Yiran Chen"
+        },
+        {
+          "authorId": "40348219",
+          "name": "Hai Helen Li"
+        }
+      ]
+    },
+    {
+      "paperId": "24012f80287be615c2efa1b79306307b94403983",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/24012f80287be615c2efa1b79306307b94403983",
+      "title": "Image Captioning with Sparse LTSM",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "40457242",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "6a821cb17b30c26218e3eb5c20d609dc04a47bcb",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6a821cb17b30c26218e3eb5c20d609dc04a47bcb",
+      "title": "Exploring the Regularity of Sparse Structure in Convolutional Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "citationCount": 241,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "3123774",
+          "name": "Huizi Mao"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "47325862",
+          "name": "Jeff Pool"
+        },
+        {
+          "authorId": "3493074",
+          "name": "Wenshuo Li"
+        },
+        {
+          "authorId": "49543200",
+          "name": "Xingyu Liu"
+        },
+        {
+          "authorId": "40457242",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "8e0de06951b55273667db85a65cc1a6aff158a56",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8e0de06951b55273667db85a65cc1a6aff158a56",
+      "title": "Exploring the Granularity of Sparsity in Convolutional Neural Networks",
+      "venue": "2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+      "year": 2017,
+      "citationCount": 137,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3123774",
+          "name": "Huizi Mao"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "47325862",
+          "name": "Jeff Pool"
+        },
+        {
+          "authorId": "3493074",
+          "name": "Wenshuo Li"
+        },
+        {
+          "authorId": "49543200",
+          "name": "Xingyu Liu"
+        },
+        {
+          "authorId": "40987227",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "92495abbac86394cb759bec15a763dbf49a8e590",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/92495abbac86394cb759bec15a763dbf49a8e590",
+      "title": "Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training",
+      "venue": "International Conference on Learning Representations",
+      "year": 2017,
+      "citationCount": 1367,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "49417466",
+          "name": "Yujun Lin"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "3123774",
+          "name": "Huizi Mao"
+        },
+        {
+          "authorId": "40987227",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "aa959e6402dce927b46988e50f1662d8762bcd1c",
+      "publicationVenue": {
+        "id": "130f7aa7-1552-45e2-a924-46e8efee92d5",
+        "name": "IEEE Micro",
+        "type": "journal",
+        "issn": "0272-1732",
+        "url": "http://www.computer.org/micro/",
+        "alternate_urls": [
+          "http://ieeexplore.ieee.org/servlet/opac?punumber=40"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/aa959e6402dce927b46988e50f1662d8762bcd1c",
+      "title": "Software-Hardware Codesign for Efficient Neural Network Acceleration",
+      "venue": "IEEE Micro",
+      "year": 2017,
+      "citationCount": 70,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "35493564",
+          "name": "Kaiyuan Guo"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "2067824417",
+          "name": "Song Yao"
+        },
+        {
+          "authorId": "40987227",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "1410066063",
+          "name": "Yuan Xie"
+        },
+        {
+          "authorId": "39150998",
+          "name": "Huazhong Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "c5300c3756332082cb310651f63d74e71b7278ad",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/c5300c3756332082cb310651f63d74e71b7278ad",
+      "title": "Deep Generative Adversarial Networks for Compressed Sensing Automates MRI",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "citationCount": 154,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "33002157",
+          "name": "M. Mardani"
+        },
+        {
+          "authorId": "5285520",
+          "name": "E. Gong"
+        },
+        {
+          "authorId": "144891194",
+          "name": "Joseph Y. Cheng"
+        },
+        {
+          "authorId": "143651271",
+          "name": "S. Vasanawala"
+        },
+        {
+          "authorId": "33925582",
+          "name": "G. Zaharchuk"
+        },
+        {
+          "authorId": "2268789",
+          "name": "M. Alley"
+        },
+        {
+          "authorId": "2065919508",
+          "name": "Neil Thakur"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        },
+        {
+          "authorId": "145854819",
+          "name": "J. Pauly"
+        },
+        {
+          "authorId": "144218966",
+          "name": "L. Xing"
+        }
+      ]
+    },
+    {
+      "paperId": "10b992e86ee96cd4c5d73f3d667059beb4749ce3",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/10b992e86ee96cd4c5d73f3d667059beb4749ce3",
+      "title": "HARDWARE-FRIENDLY CONVOLUTIONAL NEURAL NETWORK WITH EVEN-NUMBER FILTER SIZE",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2067824417",
+          "name": "Song Yao"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "35493564",
+          "name": "Kaiyuan Guo"
+        },
+        {
+          "authorId": "3383269",
+          "name": "Jianqiao Wangni"
+        },
+        {
+          "authorId": "40457242",
+          "name": "Yu Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "2e2b189f668cf2c06ebc44dc9b166648256cf457",
+      "publicationVenue": {
+        "id": "deedf64a-dd5c-4b33-b345-ff83bfb93d71",
+        "name": "International Symposium on Computer Architecture",
+        "type": "conference",
+        "alternate_names": [
+          "Int Symp Comput Archit",
+          "ISCA"
+        ],
+        "url": "http://www.cs.wisc.edu/~arch/www/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2e2b189f668cf2c06ebc44dc9b166648256cf457",
+      "title": "EIE: Efficient Inference Engine on Compressed Deep Neural Network",
+      "venue": "International Symposium on Computer Architecture",
+      "year": 2016,
+      "citationCount": 2426,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "49543200",
+          "name": "Xingyu Liu"
+        },
+        {
+          "authorId": "3123774",
+          "name": "Huizi Mao"
+        },
+        {
+          "authorId": "1560397753",
+          "name": "Jing Pu"
+        },
+        {
+          "authorId": "9182159",
+          "name": "A. Pedram"
+        },
+        {
+          "authorId": "144764327",
+          "name": "M. Horowitz"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "4690ff0ccfe8d160dd456d1d7900f8fd3b6ad782",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/4690ff0ccfe8d160dd456d1d7900f8fd3b6ad782",
+      "title": "DSD: Regularizing Deep Neural Networks with Dense-Sparse-Dense Training Flow",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "citationCount": 83,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "47325862",
+          "name": "Jeff Pool"
+        },
+        {
+          "authorId": "46617804",
+          "name": "Sharan Narang"
+        },
+        {
+          "authorId": "3123774",
+          "name": "Huizi Mao"
+        },
+        {
+          "authorId": "2814338",
+          "name": "Shijian Tang"
+        },
+        {
+          "authorId": "152585800",
+          "name": "Erich Elsen"
+        },
+        {
+          "authorId": "2301680",
+          "name": "Bryan Catanzaro"
+        },
+        {
+          "authorId": "2066786849",
+          "name": "J. Tran"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "52d2a6110e3bc2215d0347a04c421fb094044557",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/52d2a6110e3bc2215d0347a04c421fb094044557",
+      "title": "- LEVEL ACCURACY WITH 50 X FEWER PARAMETERS AND < 0 . 5 MB MODEL SIZE",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 643,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3346186",
+          "name": "F. Iandola"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "2318023",
+          "name": "Matthew W. Moskewicz"
+        },
+        {
+          "authorId": "2059241",
+          "name": "Khalid Ashraf"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        },
+        {
+          "authorId": "1732330",
+          "name": "K. Keutzer"
+        }
+      ]
+    },
+    {
+      "paperId": "54ce238f8838f2ff11eb4d4b900406a92f6b477c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/54ce238f8838f2ff11eb4d4b900406a92f6b477c",
+      "title": "Generate Image Descriptions based on Deep RNN and Memory Cells for Images Features",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2814338",
+          "name": "Shijian Tang"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "592d2e65489f23ebd993dbdc0c84eda9ac8aadbe",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/592d2e65489f23ebd993dbdc0c84eda9ac8aadbe",
+      "title": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <1MB model size",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "citationCount": 7289,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3346186",
+          "name": "F. Iandola"
+        },
+        {
+          "authorId": "2318023",
+          "name": "Matthew W. Moskewicz"
+        },
+        {
+          "authorId": "2059241",
+          "name": "Khalid Ashraf"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        },
+        {
+          "authorId": "1732330",
+          "name": "K. Keutzer"
+        }
+      ]
+    },
+    {
+      "paperId": "7c2cf096d5431c50bfcf60ada24fe5deeeedbd78",
+      "publicationVenue": {
+        "id": "4299b928-18a2-403a-adf4-b15510e38aed",
+        "name": "IEEE Computer Society Annual Symposium on VLSI",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Comput Soc Annu Symp VLSI",
+          "ISVLSI"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1766"
+      },
+      "url": "https://www.semanticscholar.org/paper/7c2cf096d5431c50bfcf60ada24fe5deeeedbd78",
+      "title": "Angel-Eye: A Complete Design Flow for Mapping CNN onto Customized Hardware",
+      "venue": "IEEE Computer Society Annual Symposium on VLSI",
+      "year": 2016,
+      "citationCount": 61,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "35493564",
+          "name": "Kaiyuan Guo"
+        },
+        {
+          "authorId": "2208385",
+          "name": "Lingzhi Sui"
+        },
+        {
+          "authorId": "1848503",
+          "name": "Jiantao Qiu"
+        },
+        {
+          "authorId": "2067824417",
+          "name": "Song Yao"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "40987227",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "39150998",
+          "name": "Huazhong Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "950619635df80e87c6f25b486cc5eaad4d71d0b0",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/950619635df80e87c6f25b486cc5eaad4d71d0b0",
+      "title": "DSD: Dense-Sparse-Dense Training for Deep Neural Networks",
+      "venue": "International Conference on Learning Representations",
+      "year": 2016,
+      "citationCount": 201,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "47325862",
+          "name": "Jeff Pool"
+        },
+        {
+          "authorId": "46617804",
+          "name": "Sharan Narang"
+        },
+        {
+          "authorId": "3123774",
+          "name": "Huizi Mao"
+        },
+        {
+          "authorId": "5285520",
+          "name": "E. Gong"
+        },
+        {
+          "authorId": "2814338",
+          "name": "Shijian Tang"
+        },
+        {
+          "authorId": "152585800",
+          "name": "Erich Elsen"
+        },
+        {
+          "authorId": "48682997",
+          "name": "P\u00e9ter Vajda"
+        },
+        {
+          "authorId": "2210374",
+          "name": "Manohar Paluri"
+        },
+        {
+          "authorId": "2066786849",
+          "name": "J. Tran"
+        },
+        {
+          "authorId": "2301680",
+          "name": "Bryan Catanzaro"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "99d207c18ba48e41560f3081ea1b7c6fde98c1ce",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/99d207c18ba48e41560f3081ea1b7c6fde98c1ce",
+      "title": "ESE: Efficient Speech Recognition Engine with Compressed LSTM on FPGA",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "citationCount": 44,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "47218161",
+          "name": "Junlong Kang"
+        },
+        {
+          "authorId": "3123774",
+          "name": "Huizi Mao"
+        },
+        {
+          "authorId": "2149295692",
+          "name": "Yiming Hu"
+        },
+        {
+          "authorId": "2153897624",
+          "name": "Xin Li"
+        },
+        {
+          "authorId": "2110491162",
+          "name": "Yubin Li"
+        },
+        {
+          "authorId": "2054592483",
+          "name": "Dongliang Xie"
+        },
+        {
+          "authorId": "2116665774",
+          "name": "Hong Luo"
+        },
+        {
+          "authorId": "2067824417",
+          "name": "Song Yao"
+        },
+        {
+          "authorId": "40987227",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "39150998",
+          "name": "Huazhong Yang"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "9ae7fb4b8300fb617aad7cc8859bd8cea046a0ce",
+      "publicationVenue": {
+        "id": "1e7cb050-ab02-426c-b1e1-25de9b28fb48",
+        "name": "IEEE Workshop on Embedded Systems for Real-Time Multimedia",
+        "type": "conference",
+        "alternate_names": [
+          "Embed Syst Real-time Multimedia",
+          "ESTIMedia",
+          "IEEE Workshop Embed Syst Real-time Multimedia",
+          "Embedded Systems for Real-Time Multimedia"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=930"
+      },
+      "url": "https://www.semanticscholar.org/paper/9ae7fb4b8300fb617aad7cc8859bd8cea046a0ce",
+      "title": "Real-time pedestrian detection and tracking on customized hardware",
+      "venue": "IEEE Workshop on Embedded Systems for Real-Time Multimedia",
+      "year": 2016,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2115931932",
+          "name": "Junbin Wang"
+        },
+        {
+          "authorId": "145829312",
+          "name": "Ke Yan"
+        },
+        {
+          "authorId": "35493564",
+          "name": "Kaiyuan Guo"
+        },
+        {
+          "authorId": "1909938",
+          "name": "Jincheng Yu"
+        },
+        {
+          "authorId": "2208385",
+          "name": "Lingzhi Sui"
+        },
+        {
+          "authorId": "2067824417",
+          "name": "Song Yao"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "40457242",
+          "name": "Yu Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "a1e0d801a0fd064a64810a0eb6291ab52e4a96c1",
+      "publicationVenue": {
+        "id": "6bfb6bd4-4726-46b3-9438-3128e06a28a1",
+        "name": "IEEE Hot Chips Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "HCS",
+          "IEEE Hot Chip Symp"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Hot_Chips"
+      },
+      "url": "https://www.semanticscholar.org/paper/a1e0d801a0fd064a64810a0eb6291ab52e4a96c1",
+      "title": "Deep compression and EIE: Efficient inference engine on compressed deep neural network",
+      "venue": "IEEE Hot Chips Symposium",
+      "year": 2016,
+      "citationCount": 46,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "49543200",
+          "name": "Xingyu Liu"
+        },
+        {
+          "authorId": "3123774",
+          "name": "Huizi Mao"
+        },
+        {
+          "authorId": "1560397753",
+          "name": "Jing Pu"
+        },
+        {
+          "authorId": "9182159",
+          "name": "A. Pedram"
+        },
+        {
+          "authorId": "144764327",
+          "name": "M. Horowitz"
+        },
+        {
+          "authorId": "1816924",
+          "name": "B. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "b71ae4f14d329268baa5d280734054b449e6ea1b",
+      "publicationVenue": {
+        "id": "73e316c6-3e72-4c26-82ab-47e8da044b15",
+        "name": "Symposium on Field Programmable Gate Arrays",
+        "type": "conference",
+        "alternate_names": [
+          "Field Program Gate Array",
+          "Symp Field Program Gate Array",
+          "Field Programmable Gate Arrays",
+          "FPGA"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1082"
+      },
+      "url": "https://www.semanticscholar.org/paper/b71ae4f14d329268baa5d280734054b449e6ea1b",
+      "title": "ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA",
+      "venue": "Symposium on Field Programmable Gate Arrays",
+      "year": 2016,
+      "citationCount": 620,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "47218161",
+          "name": "Junlong Kang"
+        },
+        {
+          "authorId": "3123774",
+          "name": "Huizi Mao"
+        },
+        {
+          "authorId": "2149295692",
+          "name": "Yiming Hu"
+        },
+        {
+          "authorId": "2153897624",
+          "name": "Xin Li"
+        },
+        {
+          "authorId": "2110491162",
+          "name": "Yubin Li"
+        },
+        {
+          "authorId": "2054592483",
+          "name": "Dongliang Xie"
+        },
+        {
+          "authorId": "2116665774",
+          "name": "Hong Luo"
+        },
+        {
+          "authorId": "2067824417",
+          "name": "Song Yao"
+        },
+        {
+          "authorId": "40987227",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "39150998",
+          "name": "Huazhong Yang"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "bc7587de1abf4c4c4a0cf5966a1fef21d2405b0b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/bc7587de1abf4c4c4a0cf5966a1fef21d2405b0b",
+      "title": "Lab41 Reading Group: SqueezeNet",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3346186",
+          "name": "F. Iandola"
+        },
+        {
+          "authorId": "2318023",
+          "name": "Matthew W. Moskewicz"
+        },
+        {
+          "authorId": "2059241",
+          "name": "Khalid Ashraf"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "d418295cd3027c43eccc5592ae5b8303ba8192be",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d418295cd3027c43eccc5592ae5b8303ba8192be",
+      "title": "Trained Ternary Quantization",
+      "venue": "International Conference on Learning Representations",
+      "year": 2016,
+      "citationCount": 1025,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "7883636",
+          "name": "Chenzhuo Zhu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "3123774",
+          "name": "Huizi Mao"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "1ff9a37d766e3a4f39757f5e1b235a42dacf18ff",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1ff9a37d766e3a4f39757f5e1b235a42dacf18ff",
+      "title": "Learning both Weights and Connections for Efficient Neural Network",
+      "venue": "Neural Information Processing Systems",
+      "year": 2015,
+      "citationCount": 6456,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "47325862",
+          "name": "Jeff Pool"
+        },
+        {
+          "authorId": "2066786849",
+          "name": "J. Tran"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "397de65a9a815ec39b3704a79341d687205bc80a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/397de65a9a815ec39b3704a79341d687205bc80a",
+      "title": "A Deep Neural Network Compression Pipeline: Pruning, Quantization, Huffman Encoding",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 55,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "3123774",
+          "name": "Huizi Mao"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "3d2126066c6244e05ec4d2631262252f4369d9c1",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3d2126066c6244e05ec4d2631262252f4369d9c1",
+      "title": "Under review as a conference paper at ICLR 2016 Train Connectivity Prune Connections Train Weights Cluster the Weights Generate Code Book",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "3123774",
+          "name": "Huizi Mao"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "642d0f49b7826adcf986616f4af77e736229990f",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/642d0f49b7826adcf986616f4af77e736229990f",
+      "title": "Deep Compression: Compressing Deep Neural Network with Pruning, Trained Quantization and Huffman Coding",
+      "venue": "International Conference on Learning Representations",
+      "year": 2015,
+      "citationCount": 8593,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "3123774",
+          "name": "Huizi Mao"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "70f24b8ed5f8afa4bd2a913356f641916c29099f",
+      "publicationVenue": {
+        "id": "fae302ec-bfb0-4ead-a9f5-035f378b6501",
+        "name": "IEEE computer architecture letters",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE comput archit lett",
+          "IEEE Comput Archit Lett",
+          "IEEE Computer Architecture Letters"
+        ],
+        "issn": "1556-6056",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=10208"
+      },
+      "url": "https://www.semanticscholar.org/paper/70f24b8ed5f8afa4bd2a913356f641916c29099f",
+      "title": "On-Demand Dynamic Branch Prediction",
+      "venue": "IEEE computer architecture letters",
+      "year": 2015,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40412442",
+          "name": "Milad Mohammadi"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "1742561",
+          "name": "Tor M. Aamodt"
+        },
+        {
+          "authorId": "80724002",
+          "name": "W. Dally"
+        }
+      ]
+    },
+    {
+      "paperId": "af5a29d7459265ede78ca538a998aef763d486cb",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/af5a29d7459265ede78ca538a998aef763d486cb",
+      "title": "NeuralTalk on Embedded System and GPU-accelerated RNN",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 5,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2109620074",
+          "name": "Subhasis Das"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        }
+      ]
+    },
+    {
+      "paperId": "6d2f231e6ad1a2f5d6a2a86fbd50c4ecef0fdc3d",
+      "publicationVenue": {
+        "id": "021b37d3-cef1-4c12-a442-257f7900c23d",
+        "name": "Design Automation Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Des Autom Conf",
+          "DAC"
+        ],
+        "url": "http://www.dac.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6d2f231e6ad1a2f5d6a2a86fbd50c4ecef0fdc3d",
+      "title": "Time-domain segmentation based massively parallel simulation for ADCs",
+      "venue": "Design Automation Conference",
+      "year": 2013,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39197645",
+          "name": "Zuochang Ye"
+        },
+        {
+          "authorId": "3130257",
+          "name": "Bichen Wu"
+        },
+        {
+          "authorId": "143840275",
+          "name": "Song Han"
+        },
+        {
+          "authorId": "2153493927",
+          "name": "Yang Li"
+        }
+      ]
+    }
+  ]
+}
