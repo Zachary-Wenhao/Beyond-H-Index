@@ -60,7 +60,7 @@ def add_composite_scores(
     fa    = _to_num(df2["first_author_count"]).clip(lower=0)
     la    = _to_num(df2["last_author_count"]).clip(lower=0)
     uniqv = _to_num(df2["unique_venues"]).clip(lower=0)
-    vdiv  = _to_num(df2["venue_diversity"]).clip(lower=0)  # assumed 0..1-ish, but we still normalize
+    vdiv  = _to_num(df2["venue_diversity"]).clip(lower=0)  
     cjr   = _to_num(df2["conference_journal_ratio"]).clip(lower=1e-9)
     cpp   = _to_num(df2["citations_per_paper"]).clip(lower=0)
 
@@ -89,7 +89,7 @@ def add_composite_scores(
     span_penalty = 1.0 / (1.0 + np.log1p(np.maximum(span - span.median(), 0)))
     C_span_norm = _minmax01(pd.Series(span_penalty, index=span.index))
 
-    # Weights (sum to 1). Tuned to reduce ties by mixing several continuous signals.
+    # Weights. Tuned to reduce ties by mixing several continuous signals.
     default_weights = {
         "C_hidx":   0.30,
         "C_cpp":    0.22,
