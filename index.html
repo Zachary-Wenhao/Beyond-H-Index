@@ -1,0 +1,2646 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+    RANDOMIZATION SYSTEM:
+    - Badges are HIDDEN by default (participants don't see their condition)
+    - To test/verify conditions, open browser console (Cmd+Option+J or F12)
+    - Console shows: Pattern number and which comparisons are minimal/full
+    
+    TO ENABLE BADGES FOR TESTING:
+    - Find line ~260: .display-mode-badge { display: none; }
+    - Change to: display: inline-block; padding: 4px 8px; font-size: 0.7em; opacity: 0.3;
+    - Remember to hide them again before deploying to participants!
+-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Impact Comparison Survey</title>
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            background: white;
+            border-radius: 10px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 2em;
+        }
+        
+        .subtitle {
+            color: #666;
+            font-size: 1.1em;
+        }
+        
+        .comparison {
+            background: white;
+            border-radius: 10px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            display: none;
+        }
+        
+        .comparison.active {
+            display: block;
+        }
+        
+        .comparison-header {
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 15px;
+            margin-bottom: 25px;
+        }
+        
+        .comparison-title {
+            color: #667eea;
+            font-size: 1.5em;
+            margin-bottom: 5px;
+        }
+        
+        .comparison-subtitle {
+            color: #888;
+            font-style: italic;
+        }
+        
+        .researchers-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .researcher {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 20px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .researcher h3 {
+            color: #333;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+        }
+        
+        .researcher-field {
+            background: #e9ecef;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            font-size: 0.95em;
+        }
+        
+        .metric-section {
+            margin-bottom: 15px;
+        }
+        
+        .metric-section h4 {
+            color: #667eea;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            margin-bottom: 8px;
+            letter-spacing: 0.5px;
+        }
+        
+        .metric-section p {
+            color: #555;
+            font-size: 0.95em;
+            line-height: 1.5;
+        }
+        
+        .evaluation-section {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        
+        .question {
+            margin-bottom: 20px;
+        }
+        
+        .question h4 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+        
+        .radio-group {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        
+        .radio-option {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            background: white;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .radio-option:hover {
+            background: #e9ecef;
+            transform: translateX(5px);
+        }
+        
+        .radio-option input {
+            margin-right: 10px;
+        }
+        
+        .checkbox-group {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+        
+        .checkbox-option {
+            display: flex;
+            align-items: center;
+            padding: 8px;
+            background: white;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        
+        .checkbox-option:hover {
+            background: #e9ecef;
+        }
+        
+        .checkbox-option input {
+            margin-right: 8px;
+        }
+        
+        .btn-group {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        
+        .btn {
+            padding: 12px 30px;
+            border-radius: 5px;
+            font-size: 1.1em;
+            cursor: pointer;
+            transition: all 0.3s;
+            border: none;
+        }
+        
+        .btn-next {
+            background: #667eea;
+            color: white;
+            flex: 1;
+        }
+        
+        .btn-next:hover {
+            background: #5a67d8;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .btn-prev {
+            background: #6c757d;
+            color: white;
+        }
+        
+        .btn-prev:hover {
+            background: #5a6268;
+        }
+        
+        .progress-bar {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .progress-track {
+            background: #e9ecef;
+            height: 10px;
+            border-radius: 5px;
+            overflow: hidden;
+        }
+        
+        .progress-fill {
+            background: #667eea;
+            height: 100%;
+            width: 10%;
+            transition: width 0.5s;
+        }
+        
+        .progress-text {
+            margin-top: 10px;
+            text-align: center;
+            color: #666;
+        }
+        
+        /* Randomization: Hide metrics in minimal info mode */
+        .comparison.minimal-info .metric-section {
+            display: none;
+        }
+        
+        /* Display mode indicator badge - HIDDEN from participants */
+        /* Only visible in browser console for admin verification */
+        .display-mode-badge {
+            display: none; /* Hidden - participants shouldn't see their condition */
+        }
+        
+        /* If you want to make it visible for testing, change display: none to: */
+        /* display: inline-block; padding: 4px 8px; font-size: 0.7em; opacity: 0.3; */
+        
+        .badge-minimal {
+            background: #ffc107;
+            color: #000;
+        }
+        
+        .badge-full {
+            background: #28a745;
+            color: white;
+        }
+        
+        /* Researcher position/institution styling */
+        .researcher-institution {
+            background: #fff3cd;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            font-size: 0.95em;
+            border-left: 3px solid #ffc107;
+        }
+        
+        /* Mobile responsiveness */
+        @media (max-width: 768px) {
+            .researchers-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .checkbox-group {
+                grid-template-columns: 1fr;
+            }
+            
+            h1 {
+                font-size: 1.5em;
+            }
+            
+            .container {
+                padding: 10px;
+            }
+            
+            .comparison, header {
+                padding: 20px;
+            }
+            
+            .btn-group {
+                flex-direction: column;
+            }
+        }
+        
+        .final-section {
+            background: white;
+            border-radius: 10px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            display: none;
+        }
+        
+        .final-section.active {
+            display: block;
+        }
+        
+        strong {
+            color: #667eea;
+        }
+        
+        .data-storage-info {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            border-radius: 8px;
+            padding: 15px;
+            margin-top: 20px;
+        }
+        
+        .data-storage-info h3 {
+            color: #856404;
+            margin-bottom: 10px;
+        }
+        
+        textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            resize: vertical;
+            min-height: 100px;
+        }
+        
+        .likert-scale {
+            display: flex;
+            justify-content: space-between;
+            margin: 10px 0;
+        }
+        
+        .likert-option {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            cursor: pointer;
+        }
+        
+        .likert-option input {
+            margin-bottom: 5px;
+        }
+        
+        .likert-option label {
+            font-size: 0.9em;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <h1>🔬 Research Impact Comparison Survey</h1>
+            <p class="subtitle">AI & NLP Leaders Evaluation Study</p>
+            <p style="margin-top: 10px; color: #666; font-size: 0.95em;">
+                <strong>Research Study</strong> | Carnegie Mellon University
+            </p>
+            <p style="margin-top: 15px;">Welcome! This survey explores how we evaluate research excellence in AI and Natural Language Processing. You'll compare 10 pairs of researchers with varying career stages, research styles, and impact patterns.</p>
+            <p style="margin-top: 10px;"><strong>Time Required:</strong> 15-20 minutes</p>
+            
+        </header>
+        
+        <!-- Progress Bar -->
+        <div class="progress-bar">
+            <div class="progress-track">
+                <div class="progress-fill" id="progress"></div>
+            </div>
+            <div class="progress-text">
+                <span id="current-comparison">1</span> of 10 comparisons
+            </div>
+        </div>
+        
+        <!-- Comparison 1: The Pioneers -->
+        <div class="comparison active" id="comparison-1">
+            <div class="comparison-header">
+                <h2 class="comparison-title">Comparison 1: The Pioneers<span class="display-mode-badge" id="badge-1"></span></h2>
+                <p class="comparison-subtitle">Two legendary figures who shaped modern AI</p>
+            </div>
+            
+            <div class="researchers-container">
+                <div class="researcher">
+                    <h3>👤 Researcher A</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Professor at New York University | Chief AI Scientist at a major tech company
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Computer Science, specializing in Artificial Intelligence, Deep Learning, and Computer Vision. Pioneer of convolutional neural networks.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Career spanning 48 years (1977-2024), representing one of the longest active research careers in modern AI.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 405 papers across nearly five decades, maintaining a steady rate of 8.4 publications per year. Work spans theoretical foundations and practical applications.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 253,521 total citations with an average of 626 citations per paper. Among these, 20,151 citations (7.9%) are classified as highly influential.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Remains actively engaged with publication within the last year. Recent citation ratio of 0.02 indicates most citations come from established work.</p>
+                    </div>
+                </div>
+                
+                <div class="researcher">
+                    <h3>👤 Researcher B</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Professor Emeritus at University of Toronto | Former VP at a major tech company
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Computer Science and Cognitive Psychology, specializing in Neural Networks and Deep Learning. Known as the "Godfather of Deep Learning."
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Career spanning 56 years (1969-2024), one of the most influential careers in AI history.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 468 papers over five and a half decades, averaging 8.4 publications per year. Portfolio includes groundbreaking papers that redefined machine learning.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 544,530 total citations with an average of 1,164 citations per paper. Contains 42,643 highly influential citations (7.8%). Several papers exceed 10,000 citations.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Has not published new work in the last 2 years with recent citation ratio of 0.00, suggesting transition to emeritus status or advisory roles.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="evaluation-section">
+                <div class="question">
+                    <h4>Q1: Who would you rank higher for overall research excellence?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp1-q1" value="Researcher A">
+                            <span>Researcher A</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp1-q1" value="Researcher B">
+                            <span>Researcher B</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q2: Which factors influenced your decision? (Select all that apply)</h4>
+                    <div class="checkbox-group">
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp1-q2" value="total-citations">
+                            <span>Total career citations</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp1-q2" value="avg-citations">
+                            <span>Average citations per paper</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp1-q2" value="career-length">
+                            <span>Career longevity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp1-q2" value="recent-activity">
+                            <span>Recent research activity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp1-q2" value="influential">
+                            <span>Influential citation percentage</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp1-q2" value="field-contributions">
+                            <span>Field-defining contributions</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q3: How important was recent activity vs. historical impact in your decision?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp1-q3" value="recent-more">
+                            <span>Recent activity was more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp1-q3" value="historical-more">
+                            <span>Historical impact was more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp1-q3" value="both-equal">
+                            <span>Both equally important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp1-q3" value="neither">
+                            <span>Neither was primary factor</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="btn-group">
+                    <button class="btn btn-next" onclick="nextComparison(1)">Next Comparison →</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Comparison 2: The Prolific Publishers -->
+        <div class="comparison" id="comparison-2">
+            <div class="comparison-header">
+                <h2 class="comparison-title">Comparison 2: The Prolific Publishers<span class="display-mode-badge" id="badge-2"></span></h2>
+                <p class="comparison-subtitle">Researchers with exceptional publication rates</p>
+            </div>
+            
+            <div class="researchers-container">
+                <div class="researcher">
+                    <h3>👤 Researcher A: R. Gur</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Researcher in Neuroscience and Medical Imaging (University-affiliated medical research)
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Neuroscience and Medical Imaging, with applications in AI/NLP for clinical data analysis. Focus on brain imaging, cognitive assessment, and computational psychiatry.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Career spanning 11 years (2014-2024), representing mid-career stage with rapid ascent. Established large-scale research operations with extensive collaborative networks.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Extraordinarily prolific with 980 papers in just 11 years, averaging 89.1 publications per year. This suggests leadership of large research groups and extensive collaborations.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 76,304 citations with average of 77.9 citations per paper. Only 1,153 citations (1.5%) classified as highly influential, suggesting broad but less concentrated impact.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Has a one-year gap since last publication, potentially indicating shift in research focus or sabbatical. Previous momentum suggests quick return to active publishing.</p>
+                    </div>
+                </div>
+                
+                <div class="researcher">
+                    <h3>👤 Researcher B: G. Ceder</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Professor in Materials Science and Computational Chemistry
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Materials Science and Computational Chemistry, with AI/ML applications for materials discovery. Pioneer in computational materials design.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Career spanning 13 years (2013-2025), representing mid-career researcher with established presence. Built reputation for bridging traditional materials science with modern AI techniques.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 976 papers over 13 years, averaging 75.1 publications per year. This suggests large team leadership and collaborative approach across multiple institutions.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 102,930 citations with average of 105.5 citations per paper. Only 841 influential citations (0.8%), suggesting broad impact across many incremental contributions.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Currently active with publication in current year and recent citation ratio of 0.03. Maintains consistent research output without interruption.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="evaluation-section">
+                <div class="question">
+                    <h4>Q1: Who would you rank higher for overall research excellence?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp2-q1" value="R. Gur">
+                            <span>R. Gur</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp2-q1" value="G. Ceder">
+                            <span>G. Ceder</span>
+                        </label>
+                    </div>
+                </div>
+                
+                                <div class="question">
+                    <h4>Q2: Which factors influenced your decision? (Select all that apply)</h4>
+                    <div class="checkbox-group">
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp2-q2" value="total-citations">
+                            <span>Total career citations</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp2-q2" value="avg-citations">
+                            <span>Average citations per paper</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp2-q2" value="career-length">
+                            <span>Career longevity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp2-q2" value="recent-activity">
+                            <span>Recent research activity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp2-q2" value="influential">
+                            <span>Influential citation percentage</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp2-q2" value="field-contributions">
+                            <span>Field-defining contributions</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q3: How do you view their extremely high publication rates (75-89 papers/year)?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp2-q3" value="exceptional">
+                            <span>Sign of exceptional productivity</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp2-q3" value="team-model">
+                            <span>Suggests large team/collaboration model</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp2-q3" value="quality-questions">
+                            <span>Raises questions about contribution quality</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp2-q3" value="neutral">
+                            <span>Neutral - depends on field norms</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q4: Which matters more in your evaluation?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp2-q4" value="quantity">
+                            <span>Total research output (quantity)</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp2-q4" value="quality">
+                            <span>Average impact per paper (quality)</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp2-q4" value="balance">
+                            <span>Balance of both</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp2-q4" value="neither">
+                            <span>Neither - other factors more important</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="btn-group">
+                    <button class="btn btn-prev" onclick="prevComparison(2)">← Previous</button>
+                    <button class="btn btn-next" onclick="nextComparison(2)">Next Comparison →</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Comparison 3: The NLP Specialists -->
+        <div class="comparison" id="comparison-3">
+            <div class="comparison-header">
+                <h2 class="comparison-title">Comparison 3: The NLP Specialists<span class="display-mode-badge" id="badge-3"></span></h2>
+                <p class="comparison-subtitle">Leading researchers in natural language processing</p>
+            </div>
+            
+            <div class="researchers-container">
+                <div class="researcher">
+                    <h3>👤 Researcher A</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Professor at Tsinghua University
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing, specializing in Chinese NLP, machine translation, and computational linguistics. Leading figure in Asian language processing.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Career spanning 29 years (1995-2023). Established one of the premier NLP research groups in China.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 493 papers averaging 17.0 publications per year, demonstrating consistent high productivity. Strong presence in ACL, EMNLP, and Chinese computational linguistics venues.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 43,354 citations with average of 87.9 citations per paper. Notably, 5,098 citations (11.8%) are highly influential - higher percentage than many peers.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>No publications in last two years but maintains recent citation ratio of 0.15, indicating continued relevance of recent work.</p>
+                    </div>
+                </div>
+                
+                <div class="researcher">
+                    <h3>👤 Researcher B</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Professor in Data Mining and Database Systems
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Data Mining and Database Systems, with applications in NLP and AI. Known for pattern mining algorithms and text analysis applications.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Career spanning 24 years (2000-2023), representing established senior researcher. Transitioned from pure database research to interdisciplinary work at intersection of data mining and NLP.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 456 papers averaging 19.0 publications per year. Portfolio includes highly cited algorithm papers and applied NLP research.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 50,007 citations with average of 109.7 citations per paper. Contains 4,455 influential citations (8.9%), showing solid concentrated impact.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Inactive for 2 years with minimal recent citation ratio of 0.01. This pause may reflect broader trends in senior researcher transitions.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="evaluation-section">
+                <div class="question">
+                    <h4>Q1: Who would you rank higher for overall research excellence?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp3-q1" value="Researcher A">
+                            <span>Researcher A</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp3-q1" value="Researcher B">
+                            <span>Researcher B</span>
+                        </label>
+                    </div>
+                </div>
+                
+                                <div class="question">
+                    <h4>Q2: Which factors influenced your decision? (Select all that apply)</h4>
+                    <div class="checkbox-group">
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp3-q2" value="total-citations">
+                            <span>Total career citations</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp3-q2" value="avg-citations">
+                            <span>Average citations per paper</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp3-q2" value="career-length">
+                            <span>Career longevity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp3-q2" value="recent-activity">
+                            <span>Recent research activity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp3-q2" value="influential">
+                            <span>Influential citation percentage</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp3-q2" value="field-contributions">
+                            <span>Field-defining contributions</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q3: How important is specialized expertise (Chinese NLP) vs. broader impact (data mining + NLP)?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp3-q3" value="specialized">
+                            <span>Specialized expertise more valuable</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp3-q3" value="broader">
+                            <span>Broader interdisciplinary impact more valuable</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp3-q3" value="equal">
+                            <span>Both equally valuable</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp3-q3" value="context">
+                            <span>Depends on evaluation context</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q4: Both researchers show 2-year publication gaps. How does this affect your evaluation?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp3-q4" value="sig-decrease">
+                            <span>Significantly decreases ranking</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp3-q4" value="slight-decrease">
+                            <span>Slightly decreases ranking</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp3-q4" value="no-effect">
+                            <span>No effect - normal for senior researchers</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp3-q4" value="positive">
+                            <span>Actually positive - quality over quantity</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="btn-group">
+                    <button class="btn btn-prev" onclick="prevComparison(3)">← Previous</button>
+                    <button class="btn btn-next" onclick="nextComparison(3)">Next Comparison →</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Comparison 4: Experience vs. Rising Star -->
+        <div class="comparison" id="comparison-4">
+            <div class="comparison-header">
+                <h2 class="comparison-title">Comparison 4: Experience vs. Rising Star<span class="display-mode-badge" id="badge-4"></span></h2>
+                <p class="comparison-subtitle">33-year veteran vs. 18-year rising star</p>
+            </div>
+            
+            <div class="researchers-container">
+                <div class="researcher">
+                    <h3>👤 Researcher A: L. Deng</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Former Chief Scientist at Microsoft Research | Executive at Citadel
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Speech Recognition and Deep Learning, with pioneering work in acoustic modeling and neural speech systems.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Distinguished career spanning 33 years (1989-2021). Witnessed and contributed to complete transformation of speech technology.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 508 papers averaging 15.4 publications per year across three decades. Portfolio includes foundational work in speech recognition and deep learning.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 60,792 citations with average of 119.7 citations per paper. Contains 4,600 influential citations (7.6%), reflecting solid foundational contributions.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>No publications in last four years with zero recent citations, indicating retirement from active research. Transition to industry leadership roles at Citadel.</p>
+                    </div>
+                </div>
+                
+                <div class="researcher">
+                    <h3>👤 Researcher B: R. Socher</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> CEO of You.com | Former Chief Scientist at Salesforce | Founder of MetaMind
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing and Deep Learning, specializing in neural networks for NLP, sentiment analysis. Founder of MetaMind (acquired by Salesforce).
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Career spanning 18 years (2006-2023), representing successful transition from academia to industry leadership.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 219 papers averaging 12.2 publications per year. Portfolio includes several landmark papers including recursive neural tensor networks and Stanford Sentiment Treebank.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated remarkable 160,767 citations with exceptional average of 734.1 citations per paper. Contains 21,696 influential citations (13.5%), highest percentage seen so far.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>One year since last publication with minimal recent citation ratio of 0.01, reflecting transition to CEO role. Impact continues growing from foundational contributions.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="evaluation-section">
+                <div class="question">
+                    <h4>Q1: Who would you rank higher for overall research excellence?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp4-q1" value="L. Deng">
+                            <span>L. Deng</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp4-q1" value="R. Socher">
+                            <span>R. Socher</span>
+                        </label>
+                    </div>
+                </div>
+                
+                                <div class="question">
+                    <h4>Q2: Which factors influenced your decision? (Select all that apply)</h4>
+                    <div class="checkbox-group">
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp4-q2" value="total-citations">
+                            <span>Total career citations</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp4-q2" value="avg-citations">
+                            <span>Average citations per paper</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp4-q2" value="career-length">
+                            <span>Career longevity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp4-q2" value="recent-activity">
+                            <span>Recent research activity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp4-q2" value="influential">
+                            <span>Influential citation percentage</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp4-q2" value="field-contributions">
+                            <span>Field-defining contributions</span>
+                        </label>
+                    </div>
+                </div>
+                
+                                <div class="question">
+                    <h4>Q3: How do you weigh career longevity (33 years) vs. exceptional per-paper impact (734 citations/paper)?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp4-q3" value="longevity">
+                            <span>Career longevity more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp4-q3" value="impact">
+                            <span>Per-paper impact more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp4-q3" value="equal">
+                            <span>Both equally important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp4-q3" value="context">
+                            <span>Context-dependent</span>
+                        </label>
+                    </div>
+                </div>
+                
+<div class="question">
+                    <h4>Q4: Does successful industry transition (founding companies, CEO roles) enhance or diminish research excellence?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp4-q4" value="enhances">
+                            <span>Enhances - shows real-world impact</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp4-q4" value="diminishes">
+                            <span>Diminishes - left academic research</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp4-q4" value="neutral">
+                            <span>Neutral - different type of contribution</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp4-q4" value="depends">
+                            <span>Depends on specific achievements</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="btn-group">
+                    <button class="btn btn-prev" onclick="prevComparison(4)">← Previous</button>
+                    <button class="btn btn-next" onclick="nextComparison(4)">Next Comparison →</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Comparison 5: Different Generations in NLP -->
+        <div class="comparison" id="comparison-5">
+            <div class="comparison-header">
+                <h2 class="comparison-title">Comparison 5: Different Generations in NLP<span class="display-mode-badge" id="badge-5"></span></h2>
+                <p class="comparison-subtitle">Established professor vs. newer generation researcher</p>
+            </div>
+            
+            <div class="researchers-container">
+                <div class="researcher">
+                    <h3>👤 Researcher A</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Professor at Harbin Institute of Technology
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing, specializing in Chinese information processing, sentiment analysis, and text mining.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Career spanning 23 years (2001-2023). Built one of China's premier NLP labs, training numerous researchers.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 457 papers averaging 19.9 publications per year, demonstrating exceptional consistency. Strong presence in both international and Chinese venues.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 26,236 citations with average of 57.4 citations per paper. Contains 2,939 influential citations (11.2%), showing concentrated impact in specific areas.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>No publications in last 3 years with zero recent citations, suggesting transition to administrative or advisory roles.</p>
+                    </div>
+                </div>
+                
+                <div class="researcher">
+                    <h3>👤 Researcher B</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Professor at Columbia University | Former Department Chair | Former Research Scientist at a major research lab
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Computational Linguistics and Speech Processing, specializing in prosody, dialogue systems, and spoken language understanding.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Extensive career spanning approximately 40 years in computational linguistics.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 357 papers (averaging ~9 papers/year over actual career). Lower rate reflects different era's publication norms and focus on quality.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 21,910 citations with average of 61.4 citations per paper. Contains 1,580 influential citations (7.2%), reflecting steady foundational contributions.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Two-year gap since last publication with minimal recent citation ratio of 0.01. May be focusing on advisory and mentorship roles.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="evaluation-section">
+                <div class="question">
+                    <h4>Q1: Who would you rank higher for overall research excellence?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp5-q1" value="Researcher A">
+                            <span>Researcher A</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp5-q1" value="Researcher B">
+                            <span>Researcher B</span>
+                        </label>
+                    </div>
+                </div>
+                
+                                <div class="question">
+                    <h4>Q2: Which factors influenced your decision? (Select all that apply)</h4>
+                    <div class="checkbox-group">
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp5-q2" value="total-citations">
+                            <span>Total career citations</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp5-q2" value="avg-citations">
+                            <span>Average citations per paper</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp5-q2" value="career-length">
+                            <span>Career longevity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp5-q2" value="recent-activity">
+                            <span>Recent research activity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp5-q2" value="influential">
+                            <span>Influential citation percentage</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp5-q2" value="field-contributions">
+                            <span>Field-defining contributions</span>
+                        </label>
+                    </div>
+                </div>
+                
+                                <div class="question">
+                    <h4>Q3: How do you value speech/dialogue processing specialization vs. broader NLP expertise?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp5-q3" value="specialized">
+                            <span>Specialized depth more valuable</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp5-q3" value="broader">
+                            <span>Broader coverage more valuable</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp5-q3" value="both">
+                            <span>Both equally valuable</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp5-q3" value="context">
+                            <span>Depends on application context</span>
+                        </label>
+                    </div>
+                </div>
+                
+<div class="question">
+                    <h4>Q4: Columbia University professor (40-year career) vs. Harbin Institute professor (26-year career). Does institutional prestige matter?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp5-q4" value="yes-significant">
+                            <span>Yes, significantly influences my evaluation</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp5-q4" value="slight-factor">
+                            <span>Slight factor, but metrics matter more</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp5-q4" value="no-metrics-only">
+                            <span>No, only metrics matter</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp5-q4" value="context-dependent">
+                            <span>Depends on resources/opportunities available</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="btn-group">
+                    <button class="btn btn-prev" onclick="prevComparison(5)">← Previous</button>
+                    <button class="btn btn-next" onclick="nextComparison(5)">Next Comparison →</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Comparison 6: Similar Citations, Different Paths -->
+        <div class="comparison" id="comparison-6">
+            <div class="comparison-header">
+                <h2 class="comparison-title">Comparison 6: Similar Citations, Different Paths<span class="display-mode-badge" id="badge-6"></span></h2>
+                <p class="comparison-subtitle">Marketing scholar vs. Bioinformatics leader</p>
+            </div>
+            
+            <div class="researchers-container">
+                <div class="researcher">
+                    <h3>👤 Researcher A: Richard G. Netemeyer</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Distinguished Professor (Marketing and Consumer Psychology)
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Marketing and Consumer Psychology, with applications of NLP/AI to consumer behavior analysis and sentiment analysis in marketing.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Career spanning 39 years (1986-2024). Unusual profile as marketing scholar in NLP/AI dataset.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 138 papers averaging 3.5 publications per year. Lower rate typical for business school norms where journal publications require longer development.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 30,947 citations with impressive average of 224.3 citations per paper. Contains 2,073 influential citations (6.7%).</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>No recent publications with zero recent citation ratio, suggesting focus on other academic activities.</p>
+                    </div>
+                </div>
+                
+                <div class="researcher">
+                    <h3>👤 Researcher B: P. Bourne</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Senior Leader at NIH | Founding Editor of PLOS Computational Biology
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Bioinformatics and Computational Biology, with applications of NLP/AI to biological text mining and protein structure analysis.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Career spanning 45 years (1980-2024) in bioinformatics and computational biology.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 415 papers averaging 9.2 publications per year. Higher rate reflects norms in biological sciences and computational biology.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 33,052 citations with average of 79.6 citations per paper. Contains 1,602 influential citations (4.8%).</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>One year since last publication with minimal recent citation ratio of 0.01. Continued engagement typical for senior biological sciences researchers.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="evaluation-section">
+                <div class="question">
+                    <h4>Q1: Who would you rank higher for overall research excellence?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp6-q1" value="Richard G. Netemeyer">
+                            <span>Richard G. Netemeyer</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp6-q1" value="P. Bourne">
+                            <span>P. Bourne</span>
+                        </label>
+                    </div>
+                </div>
+                
+                                <div class="question">
+                    <h4>Q2: Which factors influenced your decision? (Select all that apply)</h4>
+                    <div class="checkbox-group">
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp6-q2" value="total-citations">
+                            <span>Total career citations</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp6-q2" value="avg-citations">
+                            <span>Average citations per paper</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp6-q2" value="career-length">
+                            <span>Career longevity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp6-q2" value="recent-activity">
+                            <span>Recent research activity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp6-q2" value="influential">
+                            <span>Influential citation percentage</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp6-q2" value="field-contributions">
+                            <span>Field-defining contributions</span>
+                        </label>
+                    </div>
+                </div>
+                
+                                <div class="question">
+                    <h4>Q3: How do you compare researchers from very different fields (Marketing vs. Bioinformatics)?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp6-q3" value="normalize">
+                            <span>Normalize by field-specific metrics</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp6-q3" value="absolute">
+                            <span>Use absolute metrics regardless of field</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp6-q3" value="cannot">
+                            <span>Cannot meaningfully compare</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp6-q3" value="interdisciplinary">
+                            <span>Focus on interdisciplinary impact</span>
+                        </label>
+                    </div>
+                </div>
+                
+<div class="question">
+                    <h4>Q4: Which is more impressive?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp6-q4" value="marketing-citations">
+                            <span>224 citations/paper in marketing</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp6-q4" value="bio-papers">
+                            <span>415 papers in bioinformatics</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp6-q4" value="equal">
+                            <span>Both equally impressive</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp6-q4" value="context">
+                            <span>Need field context to judge</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="btn-group">
+                    <button class="btn btn-prev" onclick="prevComparison(6)">← Previous</button>
+                    <button class="btn btn-next" onclick="nextComparison(6)">Next Comparison →</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Comparison 7: Mid-Career vs. Early-Career -->
+        <div class="comparison" id="comparison-7">
+            <div class="comparison-header">
+                <h2 class="comparison-title">Comparison 7: Mid-Career vs. Early-Career<span class="display-mode-badge" id="badge-7"></span></h2>
+                <p class="comparison-subtitle">Senior NLP researchers with distinct approaches</p>
+            </div>
+            
+            <div class="researchers-container">
+                <div class="researcher">
+                    <h3>👤 Researcher A</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Professor at University of Washington | Key Scientist at a major tech company
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing, Machine Learning, and AI, focusing on semantic parsing, language understanding, and the development of large language models. Core contributor to deep contextual language models such as BERT and GPT-style architectures.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Senior NLP researcher with a 27-year career (1998–2025). His career bridges academia and industry, emphasizing both foundational linguistic modeling and scalable systems for natural language understanding.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 275 papers averaging 10.2 publications per year. Notably prolific across major NLP venues, especially EMNLP, with strong representation in ACL and NeurIPS. Work reflects balanced academic and applied research contributions.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 161,176 citations with an average of 586.1 citations per paper. Contains a high H-index of 135, with impact concentrated in deep learning–based language models. This places him among the most influential senior NLP researchers globally.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Active through 2025 with new papers/releases tied to large language models, instruction tuning, and scalable training pipelines. Momentum is driven by fewer, higher-leverage outputs (models, datasets, recipes) that see rapid downstream adoption across labs and products.</p>
+                    </div>
+                </div>
+                
+                <div class="researcher">
+                    <h3>👤 Researcher B</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Professor at University of Washington | Senior Director at a major AI research institute
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing and Commonsense AI, with specialization in social reasoning, narrative understanding, and ethics of AI systems. Pioneer in developing benchmark datasets and interpretive frameworks for language model behavior.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Senior NLP researcher with a 20-year career (2005–2025). Known for bridging linguistic theory, commonsense reasoning, and socially grounded AI.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 277 papers averaging 13.9 publications per year. Consistently publishes in ACL, EMNLP, and NeurIPS, showing an accelerated publication pace and broad thematic diversity spanning interpretability, vision-language modeling, and ethics.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 76,288 citations, averaging 275.4 citations per paper, with an H-index of 128. Represents high sustained impact across multiple NLP subfields, especially commonsense and multimodal reasoning.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Publishing through 2025 with agenda-setting work in commonsense reasoning, value alignment, and social dynamics of AI. Ongoing AI2/UW releases (benchmarks, analyses, position pieces) keep visibility high and shape evaluation norms for reasoning and safety.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="evaluation-section">
+                <div class="question">
+                    <h4>Q1: Who would you rank higher for overall research excellence?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp7-q1" value="Researcher A">
+                            <span>Researcher A</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp7-q1" value="Researcher B">
+                            <span>Researcher B</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q2: Which factors influenced your decision? (Select all that apply)</h4>
+                    <div class="checkbox-group">
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp7-q2" value="total-citations">
+                            <span>Total career citations</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp7-q2" value="avg-citations">
+                            <span>Average citations per paper</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp7-q2" value="career-length">
+                            <span>Career longevity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp7-q2" value="recent-activity">
+                            <span>Recent research activity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp7-q2" value="influential">
+                            <span>Influential citation percentage</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp7-q2" value="field-contributions">
+                            <span>Field-defining contributions</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q3: Which matters more when evaluating excellence in NLP?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp7-q3" value="foundational-modeling">
+                            <span>Foundational modeling and system building (BERT, LLaMA, etc.)</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp7-q3" value="conceptual-advances">
+                            <span>Conceptual advances in commonsense and socially grounded AI</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp7-q3" value="both-equal">
+                            <span>Both equally important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp7-q3" value="depends-criteria">
+                            <span>Depends on the evaluator's criteria</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q4: How do you weigh technical innovation versus societal framing of AI research?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp7-q4" value="technical-more">
+                            <span>Technical innovation more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp7-q4" value="societal-more">
+                            <span>Societal framing and interpretability more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp7-q4" value="both-equal">
+                            <span>Both equally valuable</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp7-q4" value="neither">
+                            <span>Neither is primary factor</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="btn-group">
+                    <button class="btn btn-prev" onclick="prevComparison(7)">← Previous</button>
+                    <button class="btn btn-next" onclick="nextComparison(7)">Next Comparison →</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Comparison 8: Similar Impact, Different Stages -->
+        <div class="comparison" id="comparison-8">
+            <div class="comparison-header">
+                <h2 class="comparison-title">Comparison 8: Similar Impact, Different Stages<span class="display-mode-badge" id="badge-8"></span></h2>
+                <p class="comparison-subtitle">Foundational linguistics meets scalable deep learning</p>
+            </div>
+            
+            <div class="researchers-container">
+                <div class="researcher">
+                    <h3>👤 Researcher A: Christopher D. Manning</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Professor at Stanford University | Co-director of Stanford NLP Group
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing and Computational Linguistics, specializing in syntactic and semantic parsing, dependency grammars, and deep learning for language understanding. Known for bridging traditional linguistics with neural representation learning.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>A 36-year career (1989–2025). A central figure in NLP's transition from rule-based to neural methods. Mentor to numerous influential AI researchers, and major contributor to open-source tools such as CoreNLP and GloVe.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 491 papers averaging 13.6 per year across 111 venues. The most frequent venue is ACL, reflecting long-standing engagement with the NLP community. Balanced mix of academic and applied research, with a strong journal and conference presence.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 298,330 citations with an average of 607.6 citations per paper. Holds an H-index of 172, placing him among the most cited NLP scholars worldwide. Citations span both foundational linguistics and modern deep learning work.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Actively publishing into 2025. Influence continues via selective papers, sustained tool/ecosystem development, and mentorship; recent outputs reinforce long-run effects on parsing/semantics-informed neural methods and educational infrastructure.</p>
+                    </div>
+                </div>
+                
+                <div class="researcher">
+                    <h3>👤 Researcher B: Jason Weston</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Senior Researcher at Meta AI (FAIR) | Former Google and Meta AI
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Machine Learning and AI, specializing in large-scale deep learning, representation learning, and neural conversational systems. Major contributor to scalable architectures underpinning modern generative and retrieval-based AI systems.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Senior researcher with a 27-year career (1998–2025). His work shaped distributed representation learning and knowledge integration in neural networks, influencing models such as BERT, fastText, and LLaMA.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 245 papers averaging 9.1 per year across 52 venues, led primarily through conference publications (NeurIPS, ICLR, ACL). Represents a streamlined and diversified publication style suited to fast-paced ML research.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 141,370 citations with an average of 577 citations per paper and H-index of 124. High citation density reflects strong influence in scalable neural architectures and open research dissemination.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Active through 2025 with releases in conversational AI, retrieval-augmented learning, and open-scale training recipes. Impact channels include widely adopted libraries, datasets, and system blueprints that propagate quickly across industry and academia.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="evaluation-section">
+                <div class="question">
+                    <h4>Q1: Who would you rank higher for overall research excellence?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp8-q1" value="Christopher D. Manning">
+                            <span>Christopher D. Manning</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp8-q1" value="Jason Weston">
+                            <span>Jason Weston</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q2: Which factors influenced your decision? (Select all that apply)</h4>
+                    <div class="checkbox-group">
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp8-q2" value="total-citations">
+                            <span>Total career citations</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp8-q2" value="avg-citations">
+                            <span>Average citations per paper</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp8-q2" value="career-length">
+                            <span>Career longevity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp8-q2" value="recent-activity">
+                            <span>Recent research activity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp8-q2" value="influential">
+                            <span>Influential citation percentage</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp8-q2" value="field-contributions">
+                            <span>Field-defining contributions</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q3: Which type of influence better represents lasting impact in NLP?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp8-q3" value="theoretical-grounding">
+                            <span>Foundational theoretical and linguistic grounding</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp8-q3" value="scalable-systems">
+                            <span>Scalable deep learning systems and open infrastructure</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp8-q3" value="both-equal">
+                            <span>Both equally valuable</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp8-q3" value="depends-application">
+                            <span>Depends on intended application</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q4: How do you weigh the depth of conceptual contribution versus breadth of practical deployment?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp8-q4" value="depth-more">
+                            <span>Depth of conceptual contribution more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp8-q4" value="breadth-more">
+                            <span>Breadth of deployment more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp8-q4" value="both-equal">
+                            <span>Both equally important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp8-q4" value="neither-decisive">
+                            <span>Neither is decisive</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="btn-group">
+                    <button class="btn btn-prev" onclick="prevComparison(8)">← Previous</button>
+                    <button class="btn btn-next" onclick="nextComparison(8)">Next Comparison →</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Comparison 9: Linguistic Storyteller vs. Sentiment Computing Visionary -->
+        <div class="comparison" id="comparison-9">
+            <div class="comparison-header">
+                <h2 class="comparison-title">Comparison 9: Linguistic Storyteller vs. Sentiment Computing Visionary<span class="display-mode-badge" id="badge-9"></span></h2>
+                <p class="comparison-subtitle">Bridging human communication and affective AI</p>
+            </div>
+            
+            <div class="researchers-container">
+                <div class="researcher">
+                    <h3>👤 Researcher A</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Professor at Stanford University | Co-author of a major NLP textbook
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Computational Linguistics and Speech-Language Processing. Known for bridging linguistics, psychology, and AI through human communication analysis, sentiment modeling, and sociolinguistic computation.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>A 37-year career (1988–2025). Among the most influential figures in NLP education and interpretive modeling. His work connects linguistic theory with data-driven methods and has guided generations of researchers transitioning from symbolic to neural approaches.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 361 papers averaging 9.8 publications per year, across 107 venues, with ACL as the most frequent. Exhibits a wide-ranging and diversified portfolio spanning speech recognition, pragmatics, and societal NLP.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 99,809 citations, averaging 276.5 citations per paper, with an H-index of 131. Citations reflect a mix of foundational contributions (parsing, pragmatics) and interdisciplinary influence in psychology, linguistics, and social sciences.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Publishing into 2025. Current influence blends new work, synthesis, and pedagogy—continuing to shape curricula, best practices, and cross-disciplinary collaborations that keep citations and invitations strong.</p>
+                    </div>
+                </div>
+                
+                <div class="researcher">
+                    <h3>👤 Researcher B</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Senior Researcher | Founder of a sentiment analysis platform | Editor-in-Chief of a cognitive computing journal
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Affective Computing, Sentiment Analysis, and Neuro-Symbolic AI. Focuses on fusing knowledge-based reasoning with deep learning to model emotion, commonsense, and cognition in language.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Senior researcher with a 16-year career (2009–2025). Known for advancing sentiment and emotion modeling through hybrid architectures that combine symbolic AI, commonsense ontologies, and neural embeddings.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 503 papers, averaging 31.4 publications per year, spanning 133 venues, with a dominant presence in Cognitive Computation and sentiment-related journals. Represents a journal-driven publication model emphasizing steady applied research output.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 75,097 citations with 149.3 citations per paper and an H-index of 128. Reflects strong influence in affective computing and text-based emotion analysis, particularly through shared resources and benchmark datasets.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Active through 2025 with steady journal-driven output, editorial leadership, and SenticNet iterations. Regular resource updates and domain benchmarks sustain ongoing community uptake.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="evaluation-section">
+                <div class="question">
+                    <h4>Q1: Who would you rank higher for overall research excellence?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp9-q1" value="Researcher A">
+                            <span>Researcher A</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp9-q1" value="Researcher B">
+                            <span>Researcher B</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q2: Which factors influenced your decision? (Select all that apply)</h4>
+                    <div class="checkbox-group">
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp9-q2" value="total-citations">
+                            <span>Total career citations</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp9-q2" value="avg-citations">
+                            <span>Average citations per paper</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp9-q2" value="career-length">
+                            <span>Career longevity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp9-q2" value="recent-activity">
+                            <span>Recent research activity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp9-q2" value="influential">
+                            <span>Influential citation percentage</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp9-q2" value="field-contributions">
+                            <span>Field-defining contributions</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q3: Which kind of contribution better defines research excellence?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp9-q3" value="integrative-education">
+                            <span>Integrative, cross-disciplinary linguistics and NLP education</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp9-q3" value="specialized-advances">
+                            <span>Specialized advances in sentiment and affective computing</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp9-q3" value="both-equal">
+                            <span>Both equally valuable</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp9-q3" value="depends-field">
+                            <span>Depends on field relevance</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q4: How do you weigh influence on education and theory versus influence on applied systems?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp9-q4" value="educational-more">
+                            <span>Educational and theoretical influence more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp9-q4" value="applied-more">
+                            <span>Applied system development more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp9-q4" value="both-equal">
+                            <span>Both equally significant</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp9-q4" value="depends-impact">
+                            <span>Depends on long-term field impact</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="btn-group">
+                    <button class="btn btn-prev" onclick="prevComparison(9)">← Previous</button>
+                    <button class="btn btn-next" onclick="nextComparison(9)">Next Comparison →</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Comparison 10: Data Science Architect vs. Clinical Outcomes Pioneer -->
+        <div class="comparison" id="comparison-10">
+            <div class="comparison-header">
+                <h2 class="comparison-title">Comparison 10: Data Science Architect vs. Clinical Outcomes Pioneer<span class="display-mode-badge" id="badge-10"></span></h2>
+                <p class="comparison-subtitle">AI-driven informatics vs. evidence-based health systems</p>
+            </div>
+            
+            <div class="researchers-container">
+                <div class="researcher">
+                    <h3>👤 Researcher A: Hsinchun Chen</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Distinguished Professor at University of Arizona | Founder of Artificial Intelligence Lab
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Information Systems and Artificial Intelligence, with major contributions in data mining, cybersecurity analytics, digital libraries, and health informatics. His research integrates computer science, business intelligence, and social computing to create large-scale analytic systems for societal problems.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Career spanning 40 years (1985–2025). Recognized as a pioneer in "AI for Society." His interdisciplinary vision connects management information systems with computational modeling and national security.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 820 papers averaging 20.5 publications per year. His works appear across information systems, computer science, and engineering venues, particularly MIS Quarterly, Decision Support Systems, and IEEE/ACM transactions. Reflects a hybrid model of academic and applied systems research.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 63,787 citations, with an h-index of 117 and 77.7 citations per paper. Recognized as one of the most cited scholars in information systems and informatics. Impact spans cybersecurity, health analytics, and large-scale knowledge systems.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Actively publishing in 2025. Momentum reflects interdisciplinary lab deliverables—systems, datasets, and decision-support tools—co-developed with translational partners in cybersecurity and health analytics.</p>
+                    </div>
+                </div>
+                
+                <div class="researcher">
+                    <h3>👤 Researcher B: Harlan Krumholz</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Professor of Medicine at Yale University | Founding Director of Yale Center for Outcomes Research and Evaluation (CORE)
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Medicine, Epidemiology, and Health Policy, specializing in cardiovascular outcomes, real-world evidence, and data-driven healthcare improvement. Integrates clinical data, machine learning, and public health to advance equitable, evidence-based care.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>A 35-year career (1990–2025). Internationally recognized leader in outcomes research and health system reform. Advisor to major U.S. health agencies.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 2,145 papers, averaging 61 publications per year—a pace characteristic of medical and policy research. His work appears in New England Journal of Medicine, JAMA, and Circulation. Reflects a clinically grounded yet data-rich research style.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 359,641 citations with an h-index of 248, placing him among the most cited medical researchers globally. Average citation rate above 167.7 per paper, signifying massive clinical and policy influence.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Continues high-throughput publications through 2025. Current work in AI for real-world evidence and surveillance translates rapidly into clinical guidelines and policy, sustaining exceptional citation velocity.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="evaluation-section">
+                <div class="question">
+                    <h4>Q1: Who would you rank higher for overall research excellence?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp10-q1" value="Hsinchun Chen">
+                            <span>Hsinchun Chen</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp10-q1" value="Harlan Krumholz">
+                            <span>Harlan Krumholz</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q2: Which factors influenced your decision? (Select all that apply)</h4>
+                    <div class="checkbox-group">
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp10-q2" value="total-citations">
+                            <span>Total career citations</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp10-q2" value="avg-citations">
+                            <span>Average citations per paper</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp10-q2" value="career-length">
+                            <span>Career longevity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp10-q2" value="recent-activity">
+                            <span>Recent research activity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp10-q2" value="influential">
+                            <span>Influential citation percentage</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp10-q2" value="field-contributions">
+                            <span>Field-defining contributions</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q3: How do you compare researchers from informatics and clinical medicine?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp10-q3" value="normalize-field">
+                            <span>Normalize by field-specific citation and authorship culture</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp10-q3" value="translational-impact">
+                            <span>Compare by translational and societal impact</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp10-q3" value="interdisciplinarity">
+                            <span>Focus on interdisciplinarity (AI → healthcare outcomes)</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp10-q3" value="absolute-volume">
+                            <span>Use absolute citation and publication volume</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q4: How do you weigh academic research output versus real-world implementation?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp10-q4" value="academic-more">
+                            <span>Academic output more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp10-q4" value="implementation-more">
+                            <span>Real-world implementation more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp10-q4" value="both-equal">
+                            <span>Both equally important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp10-q4" value="neither-main">
+                            <span>Neither is main evaluation factor</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="btn-group">
+                    <button class="btn btn-prev" onclick="prevComparison(10)">← Previous</button>
+                    <button class="btn btn-next" onclick="showFinalSection()">Complete Survey →</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Final Section -->
+        <div class="final-section" id="final-section">
+            <h2 style="color: #667eea; margin-bottom: 20px;">🎉 Survey Complete!</h2>
+            <p>Thank you for participating in this research impact comparison survey. Your responses will help us understand how the research community evaluates excellence and impact.</p>
+            
+            <h3 style="color: #667eea; margin-top: 30px; margin-bottom: 15px;">📊 Final Survey Questions</h3>
+            
+            <div class="question">
+                <h4>Across all comparisons, which factors most consistently influenced your rankings? (Select top 3)</h4>
+                <div class="checkbox-group">
+                    <label class="checkbox-option">
+                        <input type="checkbox" name="final-q1" value="total-citations">
+                        <span>Total citations</span>
+                    </label>
+                    <label class="checkbox-option">
+                        <input type="checkbox" name="final-q1" value="citations-per-paper">
+                        <span>Citations per paper</span>
+                    </label>
+                    <label class="checkbox-option">
+                        <input type="checkbox" name="final-q1" value="career-length">
+                        <span>Career length</span>
+                    </label>
+                    <label class="checkbox-option">
+                        <input type="checkbox" name="final-q1" value="recent-activity">
+                        <span>Recent activity</span>
+                    </label>
+                    <label class="checkbox-option">
+                        <input type="checkbox" name="final-q1" value="influential-percentage">
+                        <span>Influential citation percentage</span>
+                    </label>
+                    <label class="checkbox-option">
+                        <input type="checkbox" name="final-q1" value="publication-count">
+                        <span>Publication count</span>
+                    </label>
+                    <label class="checkbox-option">
+                        <input type="checkbox" name="final-q1" value="field-expertise">
+                        <span>Field expertise</span>
+                    </label>
+                    <label class="checkbox-option">
+                        <input type="checkbox" name="final-q1" value="career-trajectory">
+                        <span>Career trajectory</span>
+                    </label>
+                </div>
+            </div>
+            
+            <div class="question">
+                <h4>What additional information would have helped your evaluation?</h4>
+                <textarea name="final-q2" placeholder="Please share your thoughts..."></textarea>
+            </div>
+            
+            <div class="question">
+                <h4>Overall, how confident are you in your ranking decisions across all 10 comparisons?</h4>
+                <div class="radio-group">
+                    <label class="radio-option">
+                        <input type="radio" name="overall-confidence" value="very-confident">
+                        <span>Very confident - I felt I had enough information to make informed decisions</span>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="overall-confidence" value="confident">
+                        <span>Confident - I was able to make reasoned judgments for most comparisons</span>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="overall-confidence" value="somewhat-confident">
+                        <span>Somewhat confident - Some decisions were clear, others less so</span>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="overall-confidence" value="not-confident">
+                        <span>Not very confident - I struggled to differentiate between many researchers</span>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="overall-confidence" value="uncertain">
+                        <span>Uncertain - I felt I needed more information to make proper evaluations</span>
+                    </label>
+                </div>
+            </div>
+            
+            <div class="question">
+                <h4>Your Career Stage (Optional):</h4>
+                <div class="radio-group">
+                    <label class="radio-option">
+                        <input type="radio" name="career-stage" value="grad">
+                        <span>Graduate student</span>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="career-stage" value="postdoc">
+                        <span>Postdoc</span>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="career-stage" value="early">
+                        <span>Early-career faculty (0-7 years)</span>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="career-stage" value="mid">
+                        <span>Mid-career faculty (8-20 years)</span>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="career-stage" value="senior">
+                        <span>Senior faculty (20+ years)</span>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="career-stage" value="industry-research">
+                        <span>Industry researcher (tech/pharma/etc.)</span>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="career-stage" value="industry-engineer">
+                        <span>Industry engineer/developer</span>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="career-stage" value="industry-data-scientist">
+                        <span>Industry data scientist/ML engineer</span>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="career-stage" value="other">
+                        <span>Other</span>
+                    </label>
+                </div>
+            </div>
+            
+            <div style="margin-top: 30px; padding: 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; text-align: center;">
+                <h3 style="color: white; margin-bottom: 15px; font-size: 24px;">🎉 Thank You for Completing the Survey!</h3>
+                <p style="margin-bottom: 25px; color: white; font-size: 16px;">Please click the button below to submit your responses.</p>
+                <button class="btn btn-next" onclick="submitToGoogleSheets(event)" style="background: white; color: #667eea; font-size: 18px; padding: 15px 40px; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+                    📤 Submit Survey Responses
+                </button>
+                <p style="margin-top: 15px; color: white; font-size: 14px; opacity: 0.9;">Your responses are automatically saved as you go.</p>
+            </div>
+            
+        </div>
+        
+        <!-- Footer -->
+        <footer style="background: white; border-radius: 10px; padding: 20px; margin-top: 30px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+            <p style="color: #666; font-size: 0.9em; margin-bottom: 10px;">
+                <strong>Research Study</strong> | Carnegie Mellon University
+            </p>
+            <p style="color: #999; font-size: 0.85em;">
+                This survey is part of a research study on evaluation of research impact in AI and NLP.
+            </p>
+        </footer>
+    </div>
+    
+    <script>
+        // Apps Script Configuration (Much simpler than API!)
+        const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwkkflMcmFgsMQnVEIU4j-kGHO9Kg3ZFGm8Lw1aGTaUb28qyuouHKYpj83BzGDWQNLv/exec';
+        
+        // Old Google Sheets API config (not needed with Apps Script)
+        // const GOOGLE_SHEETS_CONFIG = {
+        //     SPREADSHEET_ID: '1H305r2ddPJ2toepUSm-VjhnhLwzEV5XyCHiqagTHkjE',
+        //     API_KEY: 'AIzaSyAaoLD1TK_r6OZFlXev8qaSPeDw0J-qWO4',
+        //     SHEET_NAME: 'Responses'
+        // };
+        
+        let currentComparison = 1;
+        const totalComparisons = 10;
+        const responses = {};
+        let submissionReady = false;
+        let displayConditions = {}; // Stores which comparisons are minimal vs full
+        
+        // FIXED ALTERNATING PATTERN:
+        // Odd comparisons (1,3,5,7,9) = FULL INFO (with anonymization)
+        // Even comparisons (2,4,6,8,10) = MINIMAL INFO (with names)
+        
+        function initializeRandomization() {
+            // Fixed alternating pattern - same for all participants
+            for (let i = 1; i <= 10; i++) {
+                if (i % 2 === 1) {
+                    // Odd comparisons: FULL INFO (anonymized)
+                    displayConditions[i] = 'full';
+                } else {
+                    // Even comparisons: MINIMAL INFO (with names)
+                    displayConditions[i] = 'minimal';
+                }
+            }
+            
+            // Save to localStorage
+            localStorage.setItem('displayConditions', JSON.stringify(displayConditions));
+            console.log('Applied fixed alternating pattern:', displayConditions);
+            
+            // Apply the conditions to the DOM
+            applyDisplayConditions();
+        }
+        
+        function applyDisplayConditions() {
+            // Apply the randomized conditions (minimal vs full info)
+            for (let i = 1; i <= totalComparisons; i++) {
+                const comparison = document.getElementById(`comparison-${i}`);
+                const badge = document.getElementById(`badge-${i}`);
+                
+                if (displayConditions[i] === 'minimal') {
+                    // Minimal info mode: hide metrics, show basic info only
+                    comparison.classList.add('minimal-info');
+                    badge.textContent = 'Minimal Info';
+                    badge.classList.add('badge-minimal');
+                    
+                    // Update Q3 and Q4 to minimal-mode questions
+                    updateQuestionsForMinimalMode(i);
+                } else {
+                    // Full info mode: show all metrics
+                    badge.textContent = 'Full Info';
+                    badge.classList.add('badge-full');
+                }
+            }
+        }
+        
+        function updateQuestionsForMinimalMode(compNum) {
+            // Find Q3 container for this comparison
+            const questions = document.querySelectorAll(`#comparison-${compNum} .question`);
+            
+            // Q3 is typically the third question (index 2)
+            if (questions.length >= 3) {
+                const q3Container = questions[2];
+                const q3Title = q3Container.querySelector('h4');
+                const q3RadioGroup = q3Container.querySelector('.radio-group');
+                
+                if (q3Title && q3RadioGroup) {
+                    // Update Q3 for minimal info context
+                    q3Title.textContent = 'Q3: What primarily influenced your ranking decision?';
+                    q3RadioGroup.innerHTML = `
+                        <label class="radio-option">
+                            <input type="radio" name="comp${compNum}-q3" value="name-recognition">
+                            <span>Name recognition and reputation</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp${compNum}-q3" value="institution">
+                            <span>Institution/affiliation prestige</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp${compNum}-q3" value="field-expertise">
+                            <span>Field and expertise description</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp${compNum}-q3" value="gut-feeling">
+                            <span>Gut feeling/intuition</span>
+                        </label>
+                    `;
+                }
+            }
+            
+            // Q4 is the fourth question (index 3) - only exists for comparisons 2-10
+            if (questions.length >= 4 && compNum > 1) {
+                const q4Container = questions[3];
+                const q4Title = q4Container.querySelector('h4');
+                const q4RadioGroup = q4Container.querySelector('.radio-group');
+                
+                if (q4Title && q4RadioGroup) {
+                    // Update Q4 for minimal info context
+                    q4Title.textContent = 'Q4: How confident are you in your ranking decision?';
+                    q4RadioGroup.innerHTML = `
+                        <label class="radio-option">
+                            <input type="radio" name="comp${compNum}-q4" value="very-confident">
+                            <span>Very confident - I know their work well</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp${compNum}-q4" value="somewhat-confident">
+                            <span>Somewhat confident - based on available info</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp${compNum}-q4" value="not-confident">
+                            <span>Not very confident - guessing based on limited info</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp${compNum}-q4" value="unsure">
+                            <span>Very uncertain - need more information</span>
+                        </label>
+                    `;
+                }
+            }
+        }
+        
+        // Load saved responses on page load
+        window.onload = function() {
+            // Initialize randomization first
+            initializeRandomization();
+            
+            // Console-only verification for admins (hidden from participants)
+            console.log('%c=== SURVEY CONDITION (ADMIN ONLY) ===', 'color: blue; font-weight: bold;');
+            console.log('FIXED ALTERNATING PATTERN:');
+            console.log('  ODD comparisons (1,3,5,7,9) = FULL INFO (anonymized)');
+            console.log('  EVEN comparisons (2,4,6,8,10) = MINIMAL INFO (with names)');
+            console.log('\nDisplay Conditions:', displayConditions);
+            console.log('Full Info (anonymized):', Object.keys(displayConditions).filter(k => displayConditions[k] === 'full').join(', '));
+            console.log('Minimal Info (with names):', Object.keys(displayConditions).filter(k => displayConditions[k] === 'minimal').join(', '));
+            console.log('%c=====================================', 'color: blue;');
+            
+            const saved = localStorage.getItem('surveyResponses');
+            if (saved) {
+                Object.assign(responses, JSON.parse(saved));
+                console.log('Loaded saved responses:', responses);
+            }
+            
+            // Check if Apps Script URL is configured
+            if (APPS_SCRIPT_URL !== 'YOUR_APPS_SCRIPT_URL_HERE') {
+                submissionReady = true;
+                updateStorageStatus('✅ Ready to submit');
+                console.log('Apps Script URL configured');
+            } else {
+                updateStorageStatus('⚠️ Local storage only - Configure Apps Script URL to enable submission');
+                console.log('Apps Script URL not configured');
+            }
+        };
+        
+        function saveToLocalStorage() {
+            localStorage.setItem('surveyResponses', JSON.stringify(responses));
+            localStorage.setItem('lastUpdated', new Date().toISOString());
+        }
+        
+        function saveCurrentResponses(compNum) {
+            const compId = `comparison-${compNum}`;
+            
+            // Save all questions for this comparison
+            const questions = {};
+            
+            // Q1 - Ranking
+            const ranking = document.querySelector(`input[name="comp${compNum}-q1"]:checked`);
+            if (ranking) {
+                questions.q1 = ranking.value;
+            }
+            
+            // Q2 - Checkboxes (standardized across all comparisons)
+            const q2Checkboxes = document.querySelectorAll(`input[name="comp${compNum}-q2"]:checked`);
+            if (q2Checkboxes.length > 0) {
+                questions.q2 = Array.from(q2Checkboxes).map(cb => cb.value);
+            }
+            
+            // Q3 - Radio
+            const q3 = document.querySelector(`input[name="comp${compNum}-q3"]:checked`);
+            if (q3) {
+                questions.q3 = q3.value;
+            }
+            
+            // Q4 - Radio (only exists for comparisons 2-10)
+            const q4 = document.querySelector(`input[name="comp${compNum}-q4"]:checked`);
+            if (q4) {
+                questions.q4 = q4.value;
+            }
+            
+            responses[compId] = {
+                ...questions,
+                displayCondition: displayConditions[compNum], // Store whether this was minimal or full info
+                timestamp: new Date().toISOString()
+            };
+            
+            // Save to localStorage
+            saveToLocalStorage();
+        }
+        
+        function nextComparison(current) {
+            saveCurrentResponses(current);
+            
+            // Hide current
+            document.getElementById(`comparison-${current}`).classList.remove('active');
+            
+            // Show next
+            if (current < totalComparisons) {
+                document.getElementById(`comparison-${current + 1}`).classList.add('active');
+                currentComparison = current + 1;
+                updateProgress();
+            } else {
+                showFinalSection();
+            }
+            
+            // Scroll to top
+            window.scrollTo(0, 0);
+        }
+        
+        function prevComparison(current) {
+            saveCurrentResponses(current);
+            
+            // Hide current
+            document.getElementById(`comparison-${current}`).classList.remove('active');
+            
+            // Show previous
+            document.getElementById(`comparison-${current - 1}`).classList.add('active');
+            currentComparison = current - 1;
+            updateProgress();
+            
+            // Scroll to top
+            window.scrollTo(0, 0);
+        }
+        
+        function updateProgress() {
+            const progress = (currentComparison / totalComparisons) * 100;
+            document.getElementById('progress').style.width = progress + '%';
+            document.getElementById('current-comparison').textContent = currentComparison;
+        }
+        
+        function showFinalSection() {
+            // Save last comparison
+            saveCurrentResponses(10);
+            
+            // Hide comparisons
+            document.querySelectorAll('.comparison').forEach(comp => {
+                comp.classList.remove('active');
+            });
+            
+            // Show final
+            document.getElementById('final-section').classList.add('active');
+            document.querySelector('.progress-bar').style.display = 'none';
+            
+            // Scroll to top
+            window.scrollTo(0, 0);
+        }
+        
+        function saveFinalResponses() {
+            // Save final questions
+            const finalFactors = Array.from(document.querySelectorAll('input[name="final-q1"]:checked'))
+                .map(cb => cb.value);
+            const additionalInfo = document.querySelector('textarea[name="final-q2"]').value;
+            const overallConfidence = document.querySelector('input[name="overall-confidence"]:checked')?.value;
+            const careerStage = document.querySelector('input[name="career-stage"]:checked')?.value;
+            
+            responses.final = {
+                topFactors: finalFactors,
+                additionalInfo: additionalInfo,
+                overallConfidence: overallConfidence,
+                careerStage: careerStage,
+                completedAt: new Date().toISOString()
+            };
+            
+            // Add randomization metadata for analysis
+            responses.metadata = {
+                rotationPattern: localStorage.getItem('rotationPattern'),
+                displayConditions: displayConditions
+            };
+            
+            saveToLocalStorage();
+        }
+        
+        function downloadResponses() {
+            saveFinalResponses();
+            
+            const dataStr = JSON.stringify(responses, null, 2);
+            const dataUri = 'data:application/json;charset=utf-8,'+ encodeURIComponent(dataStr);
+            
+            const timestamp = new Date().toISOString().replace(/:/g, '-').split('.')[0];
+            const exportFileDefaultName = `survey_responses_${timestamp}.json`;
+            
+            const linkElement = document.createElement('a');
+            linkElement.setAttribute('href', dataUri);
+            linkElement.setAttribute('download', exportFileDefaultName);
+            linkElement.click();
+        }
+        
+        // No complex initialization needed with Apps Script!
+        
+        function updateStorageStatus(message) {
+            // Update the status message in the header if element exists
+            const statusElement = document.getElementById('storage-status');
+            if (statusElement) {
+                statusElement.textContent = message;
+            }
+        }
+        
+        function submitToGoogleSheets(event) {
+            saveFinalResponses();
+            
+            console.log('Submit button clicked. submissionReady:', submissionReady);
+            
+            if (!submissionReady) {
+                alert('⚠️ Survey submission is not configured.\n\nPlease contact the survey administrator.');
+                return;
+            }
+            
+            // Prepare data for submission
+            const respondentId = 'P' + Date.now() + Math.random().toString(36).substr(2, 6);
+            
+            // Format data for Apps Script - using new column names
+            const formattedResponses = {};
+            
+            // Convert all comparison responses to the correct format
+            for (let i = 1; i <= 10; i++) {
+                const comp = responses[`comparison-${i}`] || {};
+                
+                // Q1 - Who ranks higher
+                formattedResponses[`comp${i}-q1`] = comp.q1 || '';
+                
+                // Q2 - Factors (array)
+                formattedResponses[`comp${i}-q2`] = comp.q2 || [];
+                
+                // Q3 - Comparison-specific question
+                formattedResponses[`comp${i}-q3`] = comp.q3 || '';
+                
+                // Q4 - Additional comparison-specific question (comparisons 2-10 only)
+                if (i >= 2) {
+                    formattedResponses[`comp${i}-q4`] = comp.q4 || '';
+                }
+            }
+            
+            // Add final questions
+            console.log('Final responses object:', responses.final);
+            formattedResponses['final-q1'] = responses.final?.topFactors || [];
+            formattedResponses['final-q2'] = responses.final?.additionalInfo || '';
+            formattedResponses['career-stage'] = responses.final?.careerStage || '';
+            
+            const submissionData = {
+                respondent_id: respondentId,
+                timestamp: new Date().toISOString(),
+                responses: formattedResponses
+            };
+            
+            console.log('Submitting data:', submissionData);
+            console.log('Final questions in submission:', {
+                'final-q1': formattedResponses['final-q1'],
+                'final-q2': formattedResponses['final-q2'],
+                'career-stage': formattedResponses['career-stage']
+            });
+            
+            // Submit to Apps Script
+            fetch(APPS_SCRIPT_URL, {
+                method: 'POST',
+                mode: 'no-cors', // Important for Apps Script
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(submissionData)
+            })
+            .then(function() {
+                // Note: no-cors mode means we can't read the response
+                alert('✅ Thank you! Your survey responses have been submitted successfully!\n\nYour contribution to this research is greatly appreciated.');
+                console.log('Data submitted to Apps Script');
+                
+                // Clear local storage after successful submission
+                localStorage.removeItem('surveyResponses');
+                localStorage.removeItem('lastUpdated');
+                
+                // Disable the submit button to prevent double submission
+                event.target.disabled = true;
+                event.target.textContent = '✅ Submitted';
+                event.target.style.opacity = '0.6';
+            })
+            .catch(function(error) {
+                console.error('Error submitting:', error);
+                alert('⚠️ There was an issue submitting your responses.\n\nPlease try again or contact the survey administrator if the problem persists.\n\nError: ' + error.message);
+            });
+        }
+        
+        function copyResponses() {
+            saveFinalResponses();
+            
+            const dataStr = JSON.stringify(responses, null, 2);
+            navigator.clipboard.writeText(dataStr).then(function() {
+                alert('Responses copied to clipboard!');
+            }, function(err) {
+                alert('Could not copy responses: ' + err);
+            });
+        }
+        
+        function clearResponses() {
+            if (confirm('Are you sure you want to clear all responses? This cannot be undone.')) {
+                localStorage.removeItem('surveyResponses');
+                localStorage.removeItem('lastUpdated');
+                location.reload();
+            }
+        }
+        
+        // Auto-save on any input change
+        document.addEventListener('change', function(e) {
+            if (e.target.matches('input[type="radio"], input[type="checkbox"]')) {
+                // Auto-save current state
+                const compDiv = e.target.closest('.comparison');
+                if (compDiv) {
+                    const compId = compDiv.id.split('-')[1];
+                    if (compId) {
+                        saveCurrentResponses(parseInt(compId));
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
