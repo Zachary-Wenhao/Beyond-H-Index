@@ -1,0 +1,31 @@
+{
+  "model_dir": "xlnet_model_full_dataset",
+  "total_samples": 1596,
+  "accuracy": 0.850250626566416,
+  "macro_f1": 0.6028500459537406,
+  "error_count": 239,
+  "error_rate": 0.14974937343358397,
+  "class_distribution": {
+    "o": 1400,
+    "p": 145,
+    "n": 51
+  },
+  "confusion_matrix": [
+    [
+      1244,
+      98,
+      58
+    ],
+    [
+      48,
+      84,
+      13
+    ],
+    [
+      17,
+      5,
+      29
+    ]
+  ],
+  "analysis_timestamp": "2025-09-22T04:23:08.534529"
+}
