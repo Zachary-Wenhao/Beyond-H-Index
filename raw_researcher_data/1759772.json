@@ -1,0 +1,6843 @@
+{
+  "authorId": "1759772",
+  "name": "Hoifung Poon",
+  "affiliations": [],
+  "paperCount": 115,
+  "citationCount": 10695,
+  "hIndex": 43,
+  "papers": [
+    {
+      "paperId": "6932bed998a4ee3c50fe65bb35c01b551d7aeb90",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6932bed998a4ee3c50fe65bb35c01b551d7aeb90",
+      "title": "Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2337095081",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2261457384",
+          "name": "Qianchu Liu"
+        },
+        {
+          "authorId": "2347552203",
+          "name": "Guanghui Qin"
+        },
+        {
+          "authorId": "2264107059",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "c102269a10f04019ce6ac45015c5210d841e43db",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/c102269a10f04019ce6ac45015c5210d841e43db",
+      "title": "Semantic-Clipping: Efficient Vision-Language Modeling with Semantic-Guidedd Visual Selection",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2261387782",
+          "name": "Bangzheng Li"
+        },
+        {
+          "authorId": "2350782412",
+          "name": "Fei Wang"
+        },
+        {
+          "authorId": "2203076",
+          "name": "Wenxuan Zhou"
+        },
+        {
+          "authorId": "2257007579",
+          "name": "Nan Xu"
+        },
+        {
+          "authorId": "2267020892",
+          "name": "Ben Zhou"
+        },
+        {
+          "authorId": "2350714504",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1998918",
+          "name": "Muhao Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "eaa72a7f8fe164cc28f763d5bcca7074f3d8e9a5",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/eaa72a7f8fe164cc28f763d5bcca7074f3d8e9a5",
+      "title": "MetaScale: Test-Time Scaling with Evolving Meta-Thoughts",
+      "venue": "",
+      "year": 2025,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2267021590",
+          "name": "Qin Liu"
+        },
+        {
+          "authorId": "2203076",
+          "name": "Wenxuan Zhou"
+        },
+        {
+          "authorId": "2257007579",
+          "name": "Nan Xu"
+        },
+        {
+          "authorId": "2110302673",
+          "name": "James Y. Huang"
+        },
+        {
+          "authorId": "2350782412",
+          "name": "Fei Wang"
+        },
+        {
+          "authorId": "2350714504",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1998918",
+          "name": "Muhao Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "0cb2ca7ab5145c078ecae88ce0dab28acb559767",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/0cb2ca7ab5145c078ecae88ce0dab28acb559767",
+      "title": "Training Small Multimodal Models to Bridge Biomedical Competency Gap: A Case Study in Radiology Imaging",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2291065818",
+          "name": "Juan Manuel Zambrano Chaves"
+        },
+        {
+          "authorId": "2267360148",
+          "name": "Shih-Cheng Huang"
+        },
+        {
+          "authorId": "2279740020",
+          "name": "Yanbo Xu"
+        },
+        {
+          "authorId": "2263936549",
+          "name": "Hanwen Xu"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "47939052",
+          "name": "Fei Wang"
+        },
+        {
+          "authorId": "2291048834",
+          "name": "Yujia Xie"
+        },
+        {
+          "authorId": "2268760479",
+          "name": "Mahmoud Khademi"
+        },
+        {
+          "authorId": "2291073936",
+          "name": "Ziyi Yang"
+        },
+        {
+          "authorId": "3032929",
+          "name": "H. Awadalla"
+        },
+        {
+          "authorId": "2268383237",
+          "name": "Julia Gong"
+        },
+        {
+          "authorId": "2291084567",
+          "name": "Houdong Hu"
+        },
+        {
+          "authorId": "2279705714",
+          "name": "Jianwei Yang"
+        },
+        {
+          "authorId": "2109738542",
+          "name": "Chun-yue Li"
+        },
+        {
+          "authorId": "2256227183",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "2260374573",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "2264107059",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1998918",
+          "name": "Muhao Chen"
+        },
+        {
+          "authorId": "2188270295",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2275638250",
+          "name": "S. Yeung-Levy"
+        },
+        {
+          "authorId": "2249123829",
+          "name": "Curtis P. Langlotz"
+        },
+        {
+          "authorId": "2302416483",
+          "name": "Sheng Wang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "0f4be00866b3de3fdf04afe5e8b62f6fc98182bb",
+      "publicationVenue": {
+        "id": "099483df-e8f2-4bee-805d-8a69f07b6cbf",
+        "name": "Nature Methods",
+        "type": "journal",
+        "alternate_names": [
+          "Nat Method"
+        ],
+        "issn": "1548-7091",
+        "url": "http://www.nature.com/",
+        "alternate_urls": [
+          "http://www.nature.com/nmeth/index.html",
+          "https://www.nature.com/nmeth/",
+          "http://www.nature.com/nmeth/authors/index.html#aims"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0f4be00866b3de3fdf04afe5e8b62f6fc98182bb",
+      "title": "BiomedParse: a biomedical foundation model for image parsing of everything everywhere all at once",
+      "venue": "Nature Methods",
+      "year": 2024,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2220964895",
+          "name": "Theodore Zhao"
+        },
+        {
+          "authorId": "2260374573",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2279705714",
+          "name": "Jianwei Yang"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "2268317049",
+          "name": "Ho Hin Lee"
+        },
+        {
+          "authorId": "2264107059",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2265287355",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "2264916917",
+          "name": "Angela Crabtree"
+        },
+        {
+          "authorId": "35695043",
+          "name": "B. Piening"
+        },
+        {
+          "authorId": "2298702328",
+          "name": "Carlo Bifulco"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2302416483",
+          "name": "Sheng Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "388309f1e772001a28ec95d19816dfdc6a3a63b8",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/388309f1e772001a28ec95d19816dfdc6a3a63b8",
+      "title": "From Introspection to Best Practices: Principled Analysis of Demonstrations in Multimodal In-Context Learning",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2257007579",
+          "name": "Nan Xu"
+        },
+        {
+          "authorId": "47939052",
+          "name": "Fei Wang"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1998918",
+          "name": "Muhao Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "3b6e0a5ba918b67287dec78ae5f9ed9ffb602baf",
+      "publicationVenue": {
+        "id": "43b3f0f9-489a-4566-8164-02fafde3cd98",
+        "name": "Nature Communications",
+        "type": "journal",
+        "alternate_names": [
+          "Nat Commun"
+        ],
+        "issn": "2041-1723",
+        "url": "https://www.nature.com/ncomms/",
+        "alternate_urls": [
+          "http://www.nature.com/ncomms/about/index.html",
+          "http://www.nature.com/ncomms/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3b6e0a5ba918b67287dec78ae5f9ed9ffb602baf",
+      "title": "A clinically accessible small multimodal radiology model and evaluation metric for chest X-ray findings.",
+      "venue": "Nature Communications",
+      "year": 2024,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2291065818",
+          "name": "Juan Manuel Zambrano Chaves"
+        },
+        {
+          "authorId": "2267360148",
+          "name": "Shih-Cheng Huang"
+        },
+        {
+          "authorId": "2279740020",
+          "name": "Yanbo Xu"
+        },
+        {
+          "authorId": "2263936549",
+          "name": "Hanwen Xu"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2267154244",
+          "name": "Fei Wang"
+        },
+        {
+          "authorId": "2291048834",
+          "name": "Yujia Xie"
+        },
+        {
+          "authorId": "2268760479",
+          "name": "Mahmoud Khademi"
+        },
+        {
+          "authorId": "2291073936",
+          "name": "Ziyi Yang"
+        },
+        {
+          "authorId": "3032929",
+          "name": "H. Awadalla"
+        },
+        {
+          "authorId": "2268383237",
+          "name": "Julia Gong"
+        },
+        {
+          "authorId": "2291084567",
+          "name": "Houdong Hu"
+        },
+        {
+          "authorId": "2279705714",
+          "name": "Jianwei Yang"
+        },
+        {
+          "authorId": "2244470181",
+          "name": "Chunyuan Li"
+        },
+        {
+          "authorId": "2256227183",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "2260374573",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "2264107059",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1998918",
+          "name": "Muhao Chen"
+        },
+        {
+          "authorId": "2188270295",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2275638250",
+          "name": "S. Yeung-Levy"
+        },
+        {
+          "authorId": "2249123829",
+          "name": "Curtis P. Langlotz"
+        },
+        {
+          "authorId": "2261294491",
+          "name": "Sheng Wang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "5982c074413f0a73b4b72db6f01cd6b9b909a6d0",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/5982c074413f0a73b4b72db6f01cd6b9b909a6d0",
+      "title": "Attribute Structuring Improves LLM-Based Evaluation of Clinical Text Summaries",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1395101702",
+          "name": "Zelalem Gero"
+        },
+        {
+          "authorId": "2261286637",
+          "name": "Chandan Singh"
+        },
+        {
+          "authorId": "2267021210",
+          "name": "Yiqing Xie"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2264107059",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2256227183",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "5b3969e0404b96524e03ddbbae6ac10e3357dc75",
+      "publicationVenue": {
+        "id": "6c24a0a0-b07d-4d7b-a19b-fd09a3ed453a",
+        "name": "Nature",
+        "type": "journal",
+        "issn": "0028-0836",
+        "url": "https://www.nature.com/",
+        "alternate_urls": [
+          "http://www.nature.com/nature/",
+          "https://www.nature.com/nature/",
+          "http://www.nature.com/nature/archive/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5b3969e0404b96524e03ddbbae6ac10e3357dc75",
+      "title": "A whole-slide foundation model for digital pathology from real-world data",
+      "venue": "Nature",
+      "year": 2024,
+      "citationCount": 181,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2263936549",
+          "name": "Hanwen Xu"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "2302723013",
+          "name": "Jaspreet Bagga"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2302958192",
+          "name": "Rajesh Rao"
+        },
+        {
+          "authorId": "2264107059",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "1395101702",
+          "name": "Zelalem Gero"
+        },
+        {
+          "authorId": "2302821596",
+          "name": "Javier Gonz\u00e1lez"
+        },
+        {
+          "authorId": "2260374573",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2279740020",
+          "name": "Yanbo Xu"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "2302884813",
+          "name": "Wenhui Wang"
+        },
+        {
+          "authorId": "2118866998",
+          "name": "Shuming Ma"
+        },
+        {
+          "authorId": "49807919",
+          "name": "Furu Wei"
+        },
+        {
+          "authorId": "2279705714",
+          "name": "Jianwei Yang"
+        },
+        {
+          "authorId": "2109738542",
+          "name": "Chun-yue Li"
+        },
+        {
+          "authorId": "2256227183",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "2264904835",
+          "name": "Jaylen Rosemon"
+        },
+        {
+          "authorId": "2302723690",
+          "name": "Tucker Bower"
+        },
+        {
+          "authorId": "2190425632",
+          "name": "Soohee Lee"
+        },
+        {
+          "authorId": "6150927",
+          "name": "R. Weerasinghe"
+        },
+        {
+          "authorId": "2162950739",
+          "name": "Bill J Wright"
+        },
+        {
+          "authorId": "2248787606",
+          "name": "Ari Robicsek"
+        },
+        {
+          "authorId": "35695043",
+          "name": "B. Piening"
+        },
+        {
+          "authorId": "2298702328",
+          "name": "Carlo Bifulco"
+        },
+        {
+          "authorId": "2302416483",
+          "name": "Sheng Wang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "6a4bc7e01f6a4fa078ddf4f532235a59d5ba9c1c",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6a4bc7e01f6a4fa078ddf4f532235a59d5ba9c1c",
+      "title": "DocLens: Multi-aspect Fine-grained Medical Text Evaluation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2024,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2267021210",
+          "name": "Yiqing Xie"
+        },
+        {
+          "authorId": "2337095081",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2313045584",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "2294561443",
+          "name": "Pengfei Liu"
+        },
+        {
+          "authorId": "1395101702",
+          "name": "Zelalem Gero"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "2264107059",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2316556491",
+          "name": "Carolyn P. Ros\u00e9"
+        }
+      ]
+    },
+    {
+      "paperId": "72010b7fe48301a38e8063109b8ef8fcfd573e05",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/72010b7fe48301a38e8063109b8ef8fcfd573e05",
+      "title": "Offset Unlearning for Large Language Models",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110302673",
+          "name": "James Y. Huang"
+        },
+        {
+          "authorId": "2203076",
+          "name": "Wenxuan Zhou"
+        },
+        {
+          "authorId": "47939052",
+          "name": "Fei Wang"
+        },
+        {
+          "authorId": "2258550405",
+          "name": "Fred Morstatter"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1998918",
+          "name": "Muhao Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "83c168e84bcd0f97af53acf34003090f38cb3dd1",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/83c168e84bcd0f97af53acf34003090f38cb3dd1",
+      "title": "MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2268318452",
+          "name": "Noel Codella"
+        },
+        {
+          "authorId": "2252430868",
+          "name": "Ying Jin"
+        },
+        {
+          "authorId": "2325227100",
+          "name": "Shrey Jain"
+        },
+        {
+          "authorId": "2260374573",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2268317049",
+          "name": "Ho Hin Lee"
+        },
+        {
+          "authorId": "2127117221",
+          "name": "Asma Ben Abacha"
+        },
+        {
+          "authorId": "2264626868",
+          "name": "Alberto Santamar\u00eda-Pang"
+        },
+        {
+          "authorId": "2325094767",
+          "name": "Will Guyman"
+        },
+        {
+          "authorId": "2325092343",
+          "name": "Naiteek Sangani"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2261608797",
+          "name": "Stephanie L. Hyland"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "2325108542",
+          "name": "Xue Li"
+        },
+        {
+          "authorId": "2324988751",
+          "name": "John Garrett"
+        },
+        {
+          "authorId": "2325044878",
+          "name": "Alan McMillan"
+        },
+        {
+          "authorId": "80852197",
+          "name": "Gaurav Rajguru"
+        },
+        {
+          "authorId": "2325093634",
+          "name": "Madhu Maddi"
+        },
+        {
+          "authorId": "2325097344",
+          "name": "Nilesh Vijayrania"
+        },
+        {
+          "authorId": "2325094886",
+          "name": "Rehaan Bhimai"
+        },
+        {
+          "authorId": "2279750706",
+          "name": "Nick Mecklenburg"
+        },
+        {
+          "authorId": "2325116620",
+          "name": "Rupal Jain"
+        },
+        {
+          "authorId": "2279750514",
+          "name": "Daniel Holstein"
+        },
+        {
+          "authorId": "2325093842",
+          "name": "Naveen Gaur"
+        },
+        {
+          "authorId": "2257349985",
+          "name": "Vijay Aski"
+        },
+        {
+          "authorId": "2240538264",
+          "name": "Jenq-Neng Hwang"
+        },
+        {
+          "authorId": "2268318167",
+          "name": "Thomas Lin"
+        },
+        {
+          "authorId": "145368876",
+          "name": "I. Tarapov"
+        },
+        {
+          "authorId": "2188270295",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        }
+      ]
+    },
+    {
+      "paperId": "d8ff39b155f71a0391b5e13c7eb4a16d3e31e55f",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/d8ff39b155f71a0391b5e13c7eb4a16d3e31e55f",
+      "title": "Foundation Models for Biomedical Image Segmentation: A Survey",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2268317049",
+          "name": "Ho Hin Lee"
+        },
+        {
+          "authorId": "2260374573",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2220964895",
+          "name": "Theodore Zhao"
+        },
+        {
+          "authorId": "2279740020",
+          "name": "Yanbo Xu"
+        },
+        {
+          "authorId": "2279705714",
+          "name": "Jianwei Yang"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "2239208043",
+          "name": "Bennett A. Landman"
+        },
+        {
+          "authorId": "34430081",
+          "name": "Yuankai Huo"
+        },
+        {
+          "authorId": "2264626868",
+          "name": "Alberto Santamar\u00eda-Pang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "fd655992d1b0220e16004ca39774e9390fb28cee",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/fd655992d1b0220e16004ca39774e9390fb28cee",
+      "title": "mDPO: Conditional Preference Optimization for Multimodal Large Language Models",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2024,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47939052",
+          "name": "Fei Wang"
+        },
+        {
+          "authorId": "2203076",
+          "name": "Wenxuan Zhou"
+        },
+        {
+          "authorId": "2110302673",
+          "name": "James Y. Huang"
+        },
+        {
+          "authorId": "2257007579",
+          "name": "Nan Xu"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1998918",
+          "name": "Muhao Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "fdb3864b5c8914adedfce0245648604191e6e38e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/fdb3864b5c8914adedfce0245648604191e6e38e",
+      "title": "MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 42,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47939052",
+          "name": "Fei Wang"
+        },
+        {
+          "authorId": "2078360",
+          "name": "Xingyu Fu"
+        },
+        {
+          "authorId": "2110302673",
+          "name": "James Y. Huang"
+        },
+        {
+          "authorId": "2306133127",
+          "name": "Zekun Li"
+        },
+        {
+          "authorId": "2267021590",
+          "name": "Qin Liu"
+        },
+        {
+          "authorId": "2257096300",
+          "name": "Xiaogeng Liu"
+        },
+        {
+          "authorId": "144592155",
+          "name": "Mingyu Derek Ma"
+        },
+        {
+          "authorId": "2257007579",
+          "name": "Nan Xu"
+        },
+        {
+          "authorId": "2203076",
+          "name": "Wenxuan Zhou"
+        },
+        {
+          "authorId": "145086492",
+          "name": "Kai Zhang"
+        },
+        {
+          "authorId": "2284682152",
+          "name": "Tianyi Yan"
+        },
+        {
+          "authorId": "2266978162",
+          "name": "W. Mo"
+        },
+        {
+          "authorId": "2306480671",
+          "name": "Hsiang-Hui Liu"
+        },
+        {
+          "authorId": "2887562",
+          "name": "Pan Lu"
+        },
+        {
+          "authorId": "2287283699",
+          "name": "Chunyuan Li"
+        },
+        {
+          "authorId": "2256992327",
+          "name": "Chaowei Xiao"
+        },
+        {
+          "authorId": "2278984743",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "2297187000",
+          "name": "Dan Roth"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1998918",
+          "name": "Muhao Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "fe8527541afd578326a51b885aef82da6bb32e95",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/fe8527541afd578326a51b885aef82da6bb32e95",
+      "title": "T-Rex: Text-assisted Retrosynthesis Prediction",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2264342410",
+          "name": "Yifeng Liu"
+        },
+        {
+          "authorId": "2263936549",
+          "name": "Hanwen Xu"
+        },
+        {
+          "authorId": "2264489734",
+          "name": "Tangqi Fang"
+        },
+        {
+          "authorId": "2281644064",
+          "name": "Haocheng Xi"
+        },
+        {
+          "authorId": "2265222599",
+          "name": "Zixuan Liu"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2257325568",
+          "name": "Sheng Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "0413a92b91e2dbcbfaa042d0519f3d919bfe57e7",
+      "publicationVenue": {
+        "id": "6171bcff-8306-41c7-af12-fa1d87117cf1",
+        "name": "Machine Learning in Health Care",
+        "type": "conference",
+        "alternate_names": [
+          "MLHC",
+          "Mach Learn Health Care"
+        ],
+        "url": "http://mucmd.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/0413a92b91e2dbcbfaa042d0519f3d919bfe57e7",
+      "title": "Scaling Clinical Trial Matching Using Large Language Models: A Case Study in Oncology",
+      "venue": "Machine Learning in Health Care",
+      "year": 2023,
+      "citationCount": 33,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "7016395",
+          "name": "C. Moung"
+        },
+        {
+          "authorId": "2228760409",
+          "name": "Jacob Abel"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "6150927",
+          "name": "R. Weerasinghe"
+        },
+        {
+          "authorId": "35695043",
+          "name": "B. Piening"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "46392172",
+          "name": "C. Bifulco"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "107cd543a911cfc166b495faba3c3660ce9de866",
+      "publicationVenue": {
+        "id": "3d07319c-4f2a-4f30-b619-c295ccd29367",
+        "name": "CLEaR",
+        "type": "conference",
+        "alternate_names": [
+          "Classification of Events, Activities and Relationships",
+          "CLEAR",
+          "CLeaR",
+          "Conf Causal Learn Reason",
+          "Classif Event Act Relatsh",
+          "Conference on Causal Learning and Reasoning"
+        ],
+        "issn": "2453-7128",
+        "url": "http://www.jolace.com/publications/clear/",
+        "alternate_urls": [
+          "https://www.cclear.cc/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/107cd543a911cfc166b495faba3c3660ce9de866",
+      "title": "Cautionary Tales on Synthetic Controls in Survival Analyses",
+      "venue": "CLEaR",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2269148296",
+          "name": "Alicia Curth"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2264522015",
+          "name": "Aditya V. Nori"
+        },
+        {
+          "authorId": "2264999269",
+          "name": "Javier Gonz'alez"
+        }
+      ]
+    },
+    {
+      "paperId": "12c826f4195da172b212a529f8fcf10cc79e35da",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/12c826f4195da172b212a529f8fcf10cc79e35da",
+      "title": "Context-faithful Prompting for Large Language Models",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 54,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2203076",
+          "name": "Wenxuan Zhou"
+        },
+        {
+          "authorId": "41209309",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1998918",
+          "name": "Muhao Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "1929c070964bac55a1d57d13bcaae44b28eb97fb",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/1929c070964bac55a1d57d13bcaae44b28eb97fb",
+      "title": "BLIAM: Literature-based Data Synthesis for Synergistic Drug Combination Prediction",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2187494814",
+          "name": "Cai Yang"
+        },
+        {
+          "authorId": "2170076404",
+          "name": "Addie Woicik"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "47673176",
+          "name": "Sheng Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "227d0ec1231b951c06c8dc2992e4dcdd5cd62248",
+      "publicationVenue": {
+        "id": "a631cd93-9863-44c8-8dff-9eb3fbf4f83e",
+        "name": "Clinical Natural Language Processing Workshop",
+        "type": "conference",
+        "alternate_names": [
+          "ClinicalNLP",
+          "Clin Nat Lang Process Workshop"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/227d0ec1231b951c06c8dc2992e4dcdd5cd62248",
+      "title": "Interactive Span Recommendation for Biomedical Text",
+      "venue": "Clinical Natural Language Processing Workshop",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "13794901",
+          "name": "Louis Blankemeier"
+        },
+        {
+          "authorId": "2220964895",
+          "name": "Theodore Zhao"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "39620434",
+          "name": "Sid Kiblawi"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2063969492",
+          "name": "Akshay Chaudhari"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "41209309",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "2059369124",
+          "name": "J. Preston"
+        }
+      ]
+    },
+    {
+      "paperId": "2d9310132cfe9046f4b61f6e90a5ef92c6e0ba71",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/2d9310132cfe9046f4b61f6e90a5ef92c6e0ba71",
+      "title": "BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2260374573",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "120157163",
+          "name": "Jianwei Yang"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "2109738542",
+          "name": "Chun-yue Li"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "4204731",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2256227183",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "2da5b68b89d1d53373d122ac8e6fb2d23668c22f",
+      "publicationVenue": {
+        "id": "17bac89e-3dba-467a-b9d4-71e3baefb08b",
+        "name": "Patterns",
+        "type": "journal",
+        "issn": "2666-3899",
+        "url": "https://www.cell.com/patterns",
+        "alternate_urls": [
+          "https://www.sciencedirect.com/journal/patterns"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2da5b68b89d1d53373d122ac8e6fb2d23668c22f",
+      "title": "Toward structuring real-world data: Deep learning for extracting oncology information from clinical text with patient-level supervision",
+      "venue": "Patterns",
+      "year": 2023,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2159543147",
+          "name": "Sam Preston"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "35794791",
+          "name": "Rajesh N. Rao"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "152277155",
+          "name": "Michael R. Lucas"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "6150927",
+          "name": "R. Weerasinghe"
+        },
+        {
+          "authorId": "2190425632",
+          "name": "Soohee Lee"
+        },
+        {
+          "authorId": "35695043",
+          "name": "B. Piening"
+        },
+        {
+          "authorId": "82914668",
+          "name": "Paul D. Tittel"
+        },
+        {
+          "authorId": "48269128",
+          "name": "Naveen Valluri"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "46392172",
+          "name": "C. Bifulco"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "34e1a8a75bf6f35084ac6d714a136f39d02c649e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/34e1a8a75bf6f35084ac6d714a136f39d02c649e",
+      "title": "Self-Verification Improves Few-Shot Clinical Information Extraction",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 50,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1395101702",
+          "name": "Zelalem Gero"
+        },
+        {
+          "authorId": "145229121",
+          "name": "Chandan Singh"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1947267",
+          "name": "Michel Galley"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "38755d2468e85194b5cf9b017d035080f7a2890f",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/38755d2468e85194b5cf9b017d035080f7a2890f",
+      "title": "Enhancing Medical Text Evaluation with GPT-4",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2267021210",
+          "name": "Yiqing Xie"
+        },
+        {
+          "authorId": "2267010012",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2313045584",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "1395101702",
+          "name": "Zelalem Gero"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "2264107059",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "44caf26949b4799e21f7b0754fe61315e8b71542",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/44caf26949b4799e21f7b0754fe61315e8b71542",
+      "title": "Compositional Zero-Shot Domain Transfer with Text-to-Text Models",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144097210",
+          "name": "Fangyu Liu"
+        },
+        {
+          "authorId": "50383712",
+          "name": "Qianchu Liu"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "1398728014",
+          "name": "Fernando P\u00e9rez-Garc\u00eda"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "34918424",
+          "name": "Stephanie L. Hyland"
+        }
+      ]
+    },
+    {
+      "paperId": "5814bd146b37e13115af4330caf3a751159a156f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/5814bd146b37e13115af4330caf3a751159a156f",
+      "title": "BiomedCLIP: a multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs",
+      "venue": "",
+      "year": 2023,
+      "citationCount": 179,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2143558044",
+          "name": "Yanbo Xu"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "6157638",
+          "name": "J. Bagga"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "2159543147",
+          "name": "Sam Preston"
+        },
+        {
+          "authorId": "35794791",
+          "name": "Rajesh N. Rao"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "48269128",
+          "name": "Naveen Valluri"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "4204731",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "644a0aa82f58b7f387fb1b731f0932c84c2f200f",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/644a0aa82f58b7f387fb1b731f0932c84c2f200f",
+      "title": "Exploring the Boundaries of GPT-4 in Radiology",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 36,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2261457384",
+          "name": "Qianchu Liu"
+        },
+        {
+          "authorId": "34918424",
+          "name": "Stephanie L. Hyland"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "2199938946",
+          "name": "Kenza Bouzid"
+        },
+        {
+          "authorId": "2261277520",
+          "name": "Daniel C. Castro"
+        },
+        {
+          "authorId": "2223845249",
+          "name": "M. Wetscherek"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "2261278350",
+          "name": "Harshita Sharma"
+        },
+        {
+          "authorId": "1398728014",
+          "name": "Fernando P\u00e9rez-Garc\u00eda"
+        },
+        {
+          "authorId": "2261277527",
+          "name": "Anton Schwaighofer"
+        },
+        {
+          "authorId": "2706258",
+          "name": "Pranav Rajpurkar"
+        },
+        {
+          "authorId": "2261278211",
+          "name": "Sameer Tajdin Khanna"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "2261277533",
+          "name": "Anja Thieme"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "2188270295",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        }
+      ]
+    },
+    {
+      "paperId": "66eb98a3a2d0857521c5ef286d82266c772626c6",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/66eb98a3a2d0857521c5ef286d82266c772626c6",
+      "title": "Pareto Optimal Learning for Estimating Large Language Model Errors",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2220964895",
+          "name": "Theodore Zhao"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "145675605",
+          "name": "J. S. Preston"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "6c12769939dd75bd681d37ea17cce7e6a57f5c6e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6c12769939dd75bd681d37ea17cce7e6a57f5c6e",
+      "title": "Distilling Large Language Models for Biomedical Knowledge Extraction: A Case Study on Adverse Drug Events",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "3310870",
+          "name": "Yonas G. Woldesenbet"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "2223542076",
+          "name": "Praneeth Sanapathi"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "48269128",
+          "name": "Naveen Valluri"
+        },
+        {
+          "authorId": "35009788",
+          "name": "Erika Strandberg"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "76b99439d524ae1813c30edc4bcad487a30a1f8c",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/76b99439d524ae1813c30edc4bcad487a30a1f8c",
+      "title": "UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "citationCount": 56,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2203076",
+          "name": "Wenxuan Zhou"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "1998918",
+          "name": "Muhao Chen"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "91664510519b562d17ad5e3cde3a282b92a77fac",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/91664510519b562d17ad5e3cde3a282b92a77fac",
+      "title": "DocLens: Multi-aspect Fine-grained Evaluation for Medical Text Generation",
+      "venue": "",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2267021210",
+          "name": "Yiqing Xie"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "1395101702",
+          "name": "Zelalem Gero"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "2264107059",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "92746dfa09dcad92ecf1e6272ebb300c1112b7eb",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/92746dfa09dcad92ecf1e6272ebb300c1112b7eb",
+      "title": "Automatic Calibration and Error Correction for Large Language Models via Pareto Optimal Self-Supervision",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2220964895",
+          "name": "Theodore Zhao"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "145675605",
+          "name": "J. S. Preston"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "bde9da9a39a065588d7f4573936731510d6f4f29",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/bde9da9a39a065588d7f4573936731510d6f4f29",
+      "title": "Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 272,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2268494857",
+          "name": "Harsha Nori"
+        },
+        {
+          "authorId": "2239163839",
+          "name": "Yin Tat Lee"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "3364465",
+          "name": "Dean Carignan"
+        },
+        {
+          "authorId": "2268494659",
+          "name": "Richard Edgar"
+        },
+        {
+          "authorId": "2723245",
+          "name": "Nicol\u00f3 Fusi"
+        },
+        {
+          "authorId": "2214807281",
+          "name": "Nicholas King"
+        },
+        {
+          "authorId": "2248259058",
+          "name": "Jonathan Larson"
+        },
+        {
+          "authorId": "2268435346",
+          "name": "Yuanzhi Li"
+        },
+        {
+          "authorId": "2268632175",
+          "name": "Weishung Liu"
+        },
+        {
+          "authorId": "3440939",
+          "name": "Renqian Luo"
+        },
+        {
+          "authorId": "2047820455",
+          "name": "S. McKinney"
+        },
+        {
+          "authorId": "2292406983",
+          "name": "Robert Osazuwa Ness"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2167159386",
+          "name": "Tao Qin"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "2268495274",
+          "name": "Chris White"
+        },
+        {
+          "authorId": "2268493614",
+          "name": "Eric Horvitz"
+        }
+      ]
+    },
+    {
+      "paperId": "c143e29e13fc93ea07bc1a6b9be1c97a362aed00",
+      "publicationVenue": {
+        "id": "a5913268-3957-484f-b41f-347b0ba23338",
+        "name": "Journal of Clinical Oncology",
+        "type": "journal",
+        "alternate_names": [
+          "J Clin Oncol"
+        ],
+        "issn": "0732-183X",
+        "url": "https://ascopubs.org/loi/jco",
+        "alternate_urls": [
+          "http://www.jco.org/",
+          "http://jco.ascopubs.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c143e29e13fc93ea07bc1a6b9be1c97a362aed00",
+      "title": "Improved outcomes from reflex comprehensive genomic profiling-guided precision therapeutic selection across a major US healthcare system.",
+      "venue": "Journal of Clinical Oncology",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "35695043",
+          "name": "B. Piening"
+        },
+        {
+          "authorId": "50593915",
+          "name": "B. Bapat"
+        },
+        {
+          "authorId": "6150927",
+          "name": "R. Weerasinghe"
+        },
+        {
+          "authorId": "2105980508",
+          "name": "Ryan Meng"
+        },
+        {
+          "authorId": "1722633129",
+          "name": "A. Dowdell"
+        },
+        {
+          "authorId": "150293247",
+          "name": "Shu-ching Chang"
+        },
+        {
+          "authorId": "2145935232",
+          "name": "Ann Vita"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "2219581137",
+          "name": "L. Harold"
+        },
+        {
+          "authorId": "39753046",
+          "name": "B. Schroeder"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2305414",
+          "name": "P. Febbo"
+        },
+        {
+          "authorId": "46392172",
+          "name": "C. Bifulco"
+        }
+      ]
+    },
+    {
+      "paperId": "c3cb78584fc69f5ba74de662d79ebee61d891543",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/c3cb78584fc69f5ba74de662d79ebee61d891543",
+      "title": "When an Image is Worth 1, 024 x 1, 024 Words: A Case Study in Computational Pathology",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51456429",
+          "name": "Wenhui Wang"
+        },
+        {
+          "authorId": "2118866998",
+          "name": "Shuming Ma"
+        },
+        {
+          "authorId": "2263936549",
+          "name": "Hanwen Xu"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "2271192377",
+          "name": "Jiayu Ding"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2270027811",
+          "name": "Furu Wei"
+        }
+      ]
+    },
+    {
+      "paperId": "ce6f2d68b1a4029ff4a838fcf12d5ad1d47f0e68",
+      "publicationVenue": {
+        "id": "43b3f0f9-489a-4566-8164-02fafde3cd98",
+        "name": "Nature Communications",
+        "type": "journal",
+        "alternate_names": [
+          "Nat Commun"
+        ],
+        "issn": "2041-1723",
+        "url": "https://www.nature.com/ncomms/",
+        "alternate_urls": [
+          "http://www.nature.com/ncomms/about/index.html",
+          "http://www.nature.com/ncomms/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ce6f2d68b1a4029ff4a838fcf12d5ad1d47f0e68",
+      "title": "Multilingual translation for zero-shot biomedical classification using BioTranslator",
+      "venue": "Nature Communications",
+      "year": 2023,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2117998083",
+          "name": "Hanwen Xu"
+        },
+        {
+          "authorId": "2170076404",
+          "name": "Addie Woicik"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2200563989",
+          "name": "R. Altman"
+        },
+        {
+          "authorId": "2151484530",
+          "name": "Sheng Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "d004c6312ecabf4ec621f2cda9a28d0f11692cc0",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/d004c6312ecabf4ec621f2cda9a28d0f11692cc0",
+      "title": "TRIALSCOPE: A Unifying Causal Framework for Scaling Real-World Evidence Generation with Biomedical Language Models",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2264999269",
+          "name": "Javier Gonz'alez"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "1395101702",
+          "name": "Zelalem Gero"
+        },
+        {
+          "authorId": "2264962264",
+          "name": "Jass Bagga"
+        },
+        {
+          "authorId": "2264166620",
+          "name": "Risa Ueno"
+        },
+        {
+          "authorId": "2264694280",
+          "name": "Isabel Chien"
+        },
+        {
+          "authorId": "2264960547",
+          "name": "Eduard Orakvin"
+        },
+        {
+          "authorId": "2264962872",
+          "name": "Emre Kiciman"
+        },
+        {
+          "authorId": "2264522015",
+          "name": "Aditya V. Nori"
+        },
+        {
+          "authorId": "6150927",
+          "name": "R. Weerasinghe"
+        },
+        {
+          "authorId": "6097546",
+          "name": "R. Leidner"
+        },
+        {
+          "authorId": "35695043",
+          "name": "B. Piening"
+        },
+        {
+          "authorId": "2264107059",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "46392172",
+          "name": "C. Bifulco"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "ea402fef003f502f29f51fad6484c7fd4a8ccfc7",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ea402fef003f502f29f51fad6484c7fd4a8ccfc7",
+      "title": "Probabilistic Flow Circuits: Towards Unified Deep Models for Tractable Probabilistic Inference Supplementary Material",
+      "venue": "",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2000972884",
+          "name": "Sahil Sidheekh"
+        },
+        {
+          "authorId": "1746871",
+          "name": "K. Kersting"
+        },
+        {
+          "authorId": "143927103",
+          "name": "S. Natarajan"
+        },
+        {
+          "authorId": "1809285",
+          "name": "Robert Peharz"
+        },
+        {
+          "authorId": "1382818658",
+          "name": "Steven Lang"
+        },
+        {
+          "authorId": "14341992",
+          "name": "Antonio Vergari"
+        },
+        {
+          "authorId": "51027152",
+          "name": "Karl Stelzner"
+        },
+        {
+          "authorId": "143666792",
+          "name": "Alejandro Molina"
+        },
+        {
+          "authorId": "40441825",
+          "name": "M. Trapp"
+        },
+        {
+          "authorId": "1749506",
+          "name": "Guy Van den Broeck"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2231728351",
+          "name": "Pedro Domingos"
+        }
+      ]
+    },
+    {
+      "paperId": "ed6669cb421ab7a753a2f22974cec1e92ae3e10c",
+      "publicationVenue": {
+        "id": "a0edb93b-1e95-4128-a295-6b1659149cef",
+        "name": "Knowledge Discovery and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "KDD",
+          "Knowl Discov Data Min"
+        ],
+        "url": "http://www.acm.org/sigkdd/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ed6669cb421ab7a753a2f22974cec1e92ae3e10c",
+      "title": "Precision Health in the Age of Large Language Models",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2023,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2227530999",
+          "name": "Javier Gonz\u00e1lez Hern\u00e1ndez"
+        }
+      ]
+    },
+    {
+      "paperId": "f22d71c7ce9720ba1f717a4f1181488200e78198",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f22d71c7ce9720ba1f717a4f1181488200e78198",
+      "title": "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 612,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109737569",
+          "name": "Chunyuan Li"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "2143856368",
+          "name": "Haotian Liu"
+        },
+        {
+          "authorId": "120157163",
+          "name": "Jianwei Yang"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "44279244407a64431810f982be6d0c7da4429dd7",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/44279244407a64431810f982be6d0c7da4429dd7",
+      "title": "BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining",
+      "venue": "Briefings Bioinform.",
+      "year": 2022,
+      "citationCount": 739,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3440939",
+          "name": "Renqian Luo"
+        },
+        {
+          "authorId": "2186266093",
+          "name": "Liai Sun"
+        },
+        {
+          "authorId": "2111056280",
+          "name": "Yingce Xia"
+        },
+        {
+          "authorId": "143826491",
+          "name": "Tao Qin"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2110264337",
+          "name": "Tie-Yan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "634e8a148fbe96cd611c09bdddc85de4bdd8a52d",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/634e8a148fbe96cd611c09bdddc85de4bdd8a52d",
+      "title": "Continual Contrastive Finetuning Improves Low-Resource Relation Extraction",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2203076",
+          "name": "Wenxuan Zhou"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1998918",
+          "name": "Muhao Chen"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "6e59edb734194abef65a0404e425dbd823a4f07f",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6e59edb734194abef65a0404e425dbd823a4f07f",
+      "title": "Optimizing Bi-Encoder for Named Entity Recognition via Contrastive Learning",
+      "venue": "International Conference on Learning Representations",
+      "year": 2022,
+      "citationCount": 48,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "70e2fe147c3fea47d25f40b9cbf4b7e8e3228810",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/70e2fe147c3fea47d25f40b9cbf4b7e8e3228810",
+      "title": "Towards Structuring Real-World Data at Scale: Deep Learning for Extracting Key Oncology Information from Clinical Text with Patient-Level Supervision",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2159543147",
+          "name": "Sam Preston"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": null,
+          "name": "Rajesh Rao"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "152277155",
+          "name": "Michael R. Lucas"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "6150927",
+          "name": "R. Weerasinghe"
+        },
+        {
+          "authorId": "2108253855",
+          "name": "S. Lee"
+        },
+        {
+          "authorId": "35695043",
+          "name": "B. Piening"
+        },
+        {
+          "authorId": "82914668",
+          "name": "Paul D. Tittel"
+        },
+        {
+          "authorId": "48269128",
+          "name": "Naveen Valluri"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "46392172",
+          "name": "C. Bifulco"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "a1aeb5442e31276b197696f49b3243112a4049ce",
+      "publicationVenue": {
+        "id": "167fa0ca-e88a-4ef7-a16f-bc66c457c806",
+        "name": "European Conference on Computer Vision",
+        "type": "conference",
+        "alternate_names": [
+          "ECCV",
+          "Eur Conf Comput Vis"
+        ],
+        "url": "https://link.springer.com/conference/eccv"
+      },
+      "url": "https://www.semanticscholar.org/paper/a1aeb5442e31276b197696f49b3243112a4049ce",
+      "title": "Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing",
+      "venue": "European Conference on Computer Vision",
+      "year": 2022,
+      "citationCount": 218,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2854169",
+          "name": "Benedikt Boecking"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2071649",
+          "name": "A. Schwaighofer"
+        },
+        {
+          "authorId": "34918424",
+          "name": "Stephanie L. Hyland"
+        },
+        {
+          "authorId": "2223845249",
+          "name": "M. Wetscherek"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "0174ee4ec66c6bfaafbf86514d2ed89e6a589f80",
+      "publicationVenue": {
+        "id": "d5e5b5e7-54b1-4f53-82fc-4853f3e71c58",
+        "name": "medRxiv",
+        "type": "journal",
+        "url": "https://www.medrxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0174ee4ec66c6bfaafbf86514d2ed89e6a589f80",
+      "title": "Breaching the curation bottleneck with human-machine reading symbiosis",
+      "venue": "medRxiv",
+      "year": 2021,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2107807748",
+          "name": "C. Wong"
+        },
+        {
+          "authorId": null,
+          "name": "R. Rao"
+        },
+        {
+          "authorId": "32317598",
+          "name": "T. Yin"
+        },
+        {
+          "authorId": "40659290",
+          "name": "C. Statz"
+        },
+        {
+          "authorId": "47398072",
+          "name": "S. Mockus"
+        },
+        {
+          "authorId": "116020316",
+          "name": "S. Patterson"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "01c803711795e240c611950711210384c9887640",
+      "publicationVenue": {
+        "id": "a0edb93b-1e95-4128-a295-6b1659149cef",
+        "name": "Knowledge Discovery and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "KDD",
+          "Knowl Discov Data Min"
+        ],
+        "url": "http://www.acm.org/sigkdd/"
+      },
+      "url": "https://www.semanticscholar.org/paper/01c803711795e240c611950711210384c9887640",
+      "title": "Domain-Specific Pretraining for Vertical Search: Case Study on Biomedical Literature",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2021,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2153607780",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "2887412",
+          "name": "Jinchao Li"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "144628574",
+          "name": "Chenyan Xiong"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "46187984",
+          "name": "Richard Rogahn"
+        },
+        {
+          "authorId": "3303634",
+          "name": "Zhihong Shen"
+        },
+        {
+          "authorId": "2116247137",
+          "name": "Yang Qin"
+        },
+        {
+          "authorId": "145479841",
+          "name": "E. Horvitz"
+        },
+        {
+          "authorId": "144609235",
+          "name": "Paul N. Bennett"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "329b8ba1d128be952f97303953da6878ea61a6ec",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/329b8ba1d128be952f97303953da6878ea61a6ec",
+      "title": "Modular Self-Supervision for Document-Level Relation Extraction",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "49837811",
+          "name": "Sarthak Jain"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "3ede448b85b71790eda31de51ce663e5980eab78",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3ede448b85b71790eda31de51ce663e5980eab78",
+      "title": "Knowledge-Rich Self-Supervised Entity Linking",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "41209309",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "3404827",
+          "name": "Shikhar Vashishth"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "46851930",
+          "name": "Jinfeng Xiao"
+        },
+        {
+          "authorId": "2108860856",
+          "name": "Xiaodong Liu"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "4361c498f45cc6d1ef4e98b75b23af6c598da54d",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/4361c498f45cc6d1ef4e98b75b23af6c598da54d",
+      "title": "Knowledge-Rich Self-Supervision for Biomedical Entity Linking",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 39,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "3404827",
+          "name": "Shikhar Vashishth"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "46851930",
+          "name": "Jinfeng Xiao"
+        },
+        {
+          "authorId": "46522098",
+          "name": "Xiaodong Liu"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "43715868756880b47be613a8092eec34d55224c8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/43715868756880b47be613a8092eec34d55224c8",
+      "title": "Combining Probabilistic Logic and Deep Learning for Self-Supervised Learning",
+      "venue": "Neuro-Symbolic Artificial Intelligence",
+      "year": 2021,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2113221447",
+          "name": "Hai Wang"
+        },
+        {
+          "authorId": "30155522",
+          "name": "Hunter Lang"
+        }
+      ]
+    },
+    {
+      "paperId": "a9c5e23c5559bfc4d95dd166c1ed29fa026bbf2e",
+      "publicationVenue": {
+        "id": "17bac89e-3dba-467a-b9d4-71e3baefb08b",
+        "name": "Patterns",
+        "type": "journal",
+        "issn": "2666-3899",
+        "url": "https://www.cell.com/patterns",
+        "alternate_urls": [
+          "https://www.sciencedirect.com/journal/patterns"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a9c5e23c5559bfc4d95dd166c1ed29fa026bbf2e",
+      "title": "Fine-tuning large neural language models for biomedical natural language processing",
+      "venue": "Patterns",
+      "year": 2021,
+      "citationCount": 106,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "2108860856",
+          "name": "Xiaodong Liu"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "a9e8c7544b41ff133b04a321179c22f7da3c3cdc",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/a9e8c7544b41ff133b04a321179c22f7da3c3cdc",
+      "title": "Targeted Adversarial Training for Natural Language Understanding",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144724524",
+          "name": "L. Pereira"
+        },
+        {
+          "authorId": "46522098",
+          "name": "Xiaodong Liu"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "3236658",
+          "name": "I. Kobayashi"
+        }
+      ]
+    },
+    {
+      "paperId": "cc6d029bd79a004bbb2ceede62b88444a023d3b9",
+      "publicationVenue": {
+        "id": "71fc44fc-7b4c-4003-a020-9a439cd42ca6",
+        "name": "Frontiers in Artificial Intelligence and Applications",
+        "alternate_names": [
+          "Front Artif Intell Appl"
+        ],
+        "issn": "0922-6389",
+        "alternate_issns": [
+          "1879-8314"
+        ],
+        "url": "http://ebooks.iospress.nl/bookseries/frontiers-in-artificial-intelligence-and-applications"
+      },
+      "url": "https://www.semanticscholar.org/paper/cc6d029bd79a004bbb2ceede62b88444a023d3b9",
+      "title": "Chapter 1. Neural-Symbolic Learning and Reasoning: A Survey and Interpretation1",
+      "venue": "Frontiers in Artificial Intelligence and Applications",
+      "year": 2021,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2275826040",
+          "name": "Tarek R. Besold"
+        },
+        {
+          "authorId": "2275827089",
+          "name": "Artur d\u2019Avila Garcez"
+        },
+        {
+          "authorId": "2260011348",
+          "name": "Sebastian Bader"
+        },
+        {
+          "authorId": "2275826697",
+          "name": "Howard Bowman"
+        },
+        {
+          "authorId": "2231728351",
+          "name": "Pedro Domingos"
+        },
+        {
+          "authorId": "2257172073",
+          "name": "Pascal Hitzler"
+        },
+        {
+          "authorId": "1743582",
+          "name": "Kai-Uwe K\u00fchnberger"
+        },
+        {
+          "authorId": "2257277957",
+          "name": "Lu\u00eds C. Lamb"
+        },
+        {
+          "authorId": "2275826694",
+          "name": "Priscila Machado Vieira Lima"
+        },
+        {
+          "authorId": "2275826662",
+          "name": "Leo de Penning"
+        },
+        {
+          "authorId": "2263909",
+          "name": "Gadi Pinkas"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2275826522",
+          "name": "Gerson Zaverucha"
+        }
+      ]
+    },
+    {
+      "paperId": "00b36c57052f9cb2e6e39ed1106fd7a51920cec0",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/00b36c57052f9cb2e6e39ed1106fd7a51920cec0",
+      "title": "CMT in TREC-COVID Round 2: Mitigating the Generalization Gaps from Web to Special Domain Search",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144628574",
+          "name": "Chenyan Xiong"
+        },
+        {
+          "authorId": "49047064",
+          "name": "Zhenghao Liu"
+        },
+        {
+          "authorId": "2109509345",
+          "name": "Si Sun"
+        },
+        {
+          "authorId": "2475437",
+          "name": "Zhuyun Dai"
+        },
+        {
+          "authorId": "120097334",
+          "name": "Kaitao Zhang"
+        },
+        {
+          "authorId": "150311558",
+          "name": "S. Yu"
+        },
+        {
+          "authorId": "49293587",
+          "name": "Zhiyuan Liu"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "144609235",
+          "name": "Paul N. Bennett"
+        }
+      ]
+    },
+    {
+      "paperId": "2ffcf8352223c95ae8cef4daaec995525ecc926b",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/2ffcf8352223c95ae8cef4daaec995525ecc926b",
+      "title": "Adversarial Training for Large Neural Language Models",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 180,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108860856",
+          "name": "Xiaodong Liu"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "50462546",
+          "name": "Pengcheng He"
+        },
+        {
+          "authorId": "2109136147",
+          "name": "Weizhu Chen"
+        },
+        {
+          "authorId": "72682749",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "71cd5145c3ec27838bf06a1a09980314f05a17ba",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/71cd5145c3ec27838bf06a1a09980314f05a17ba",
+      "title": "The Microsoft Toolkit of Multi-Task Deep Neural Networks for Natural Language Understanding",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 58,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108860856",
+          "name": "Xiaodong Liu"
+        },
+        {
+          "authorId": "72682749",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "22206677",
+          "name": "Jianshu Ji"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "49897437",
+          "name": "Xueyun Zhu"
+        },
+        {
+          "authorId": "1916290",
+          "name": "E. Awa"
+        },
+        {
+          "authorId": "50462546",
+          "name": "Pengcheng He"
+        },
+        {
+          "authorId": "2109136147",
+          "name": "Weizhu Chen"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "3320836",
+          "name": "Guihong Cao"
+        },
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "90b0f25fc073ce818563002b5481bd52efac944c",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/90b0f25fc073ce818563002b5481bd52efac944c",
+      "title": "Self-supervised self-supervision by combining deep learning and probabilistic logic",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2020,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "30155522",
+          "name": "Hunter Lang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "a2f38d03fd363e920494ad65a5f0ad8bd18cd60b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a2f38d03fd363e920494ad65a5f0ad8bd18cd60b",
+      "title": "Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing",
+      "venue": "ACM Trans. Comput. Heal.",
+      "year": 2020,
+      "citationCount": 1646,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "152277155",
+          "name": "Michael R. Lucas"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "46522098",
+          "name": "Xiaodong Liu"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "443fbfd614f35061a679b7eeba7d9302d0626a7d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/443fbfd614f35061a679b7eeba7d9302d0626a7d",
+      "title": "DoubleTransfer at MEDIQA 2019: Multi-Source Transfer Learning for Natural Language Understanding in the Medical Domain",
+      "venue": "BioNLP@ACL",
+      "year": 2019,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2636690",
+          "name": "Yichong Xu"
+        },
+        {
+          "authorId": "2108860856",
+          "name": "Xiaodong Liu"
+        },
+        {
+          "authorId": "2109737569",
+          "name": "Chunyuan Li"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "54529f2d59a58d488557a82618509bbc58c551e2",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/54529f2d59a58d488557a82618509bbc58c551e2",
+      "title": "Augmenting subnetwork inference with information extracted from the scientific literature",
+      "venue": "PLoS Comput. Biol.",
+      "year": 2019,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "39620434",
+          "name": "Sid Kiblawi"
+        },
+        {
+          "authorId": "2830368",
+          "name": "Deborah A Chasman"
+        },
+        {
+          "authorId": "2060347910",
+          "name": "Amanda N. Henning"
+        },
+        {
+          "authorId": "2113344899",
+          "name": "Eunju Park"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2060558023",
+          "name": "Michael N. Gould"
+        },
+        {
+          "authorId": "1762529",
+          "name": "P. Ahlquist"
+        },
+        {
+          "authorId": "34056376",
+          "name": "Mark W. Craven"
+        }
+      ]
+    },
+    {
+      "paperId": "af33b402a2f14f10b8409e465847212e0baa7905",
+      "publicationVenue": {
+        "id": "7652ece8-fbd3-4050-b927-cf29d7f0eaa8",
+        "name": "Astrophysical Journal",
+        "type": "journal",
+        "alternate_names": [
+          "Astrophys J",
+          "The Astrophysical Journal"
+        ],
+        "issn": "0004-637X",
+        "url": "https://iopscience.iop.org/journal/0004-637X",
+        "alternate_urls": [
+          "http://iopscience.org/apj"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/af33b402a2f14f10b8409e465847212e0baa7905",
+      "title": "The Fourth Catalog of Active Galactic Nuclei Detected by the Fermi Large Area Telescope",
+      "venue": "Astrophysical Journal",
+      "year": 2019,
+      "citationCount": 187,
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "152135044",
+          "name": "M. Ajello"
+        },
+        {
+          "authorId": "102735397",
+          "name": "R. Angioni"
+        },
+        {
+          "authorId": "41216270",
+          "name": "M. Axelsson"
+        },
+        {
+          "authorId": "50622576",
+          "name": "J. Ballet"
+        },
+        {
+          "authorId": "4529686",
+          "name": "G. Barbiellini"
+        },
+        {
+          "authorId": "3129771",
+          "name": "D. Bastieri"
+        },
+        {
+          "authorId": "1403010651",
+          "name": "J. Becerra Gonz\u00e1lez"
+        },
+        {
+          "authorId": "7011254",
+          "name": "R. Bellazzini"
+        },
+        {
+          "authorId": "4778612",
+          "name": "E. Bissaldi"
+        },
+        {
+          "authorId": "93430149",
+          "name": "E. Bloom"
+        },
+        {
+          "authorId": "5530592",
+          "name": "R. Bonino"
+        },
+        {
+          "authorId": "7849914",
+          "name": "E. Bottacini"
+        },
+        {
+          "authorId": "48334800",
+          "name": "P. Bruel"
+        },
+        {
+          "authorId": "101741285",
+          "name": "S. Buson"
+        },
+        {
+          "authorId": "88740439",
+          "name": "F. Cafardo"
+        },
+        {
+          "authorId": "1382071254",
+          "name": "R. Cameron"
+        },
+        {
+          "authorId": "2759221",
+          "name": "E. Cavazzuti"
+        },
+        {
+          "authorId": "103043072",
+          "name": "S. Chen"
+        },
+        {
+          "authorId": "35119725",
+          "name": "C. C. Cheung"
+        },
+        {
+          "authorId": "117612913",
+          "name": "S. Ciprini"
+        },
+        {
+          "authorId": "35981747",
+          "name": "D. Costantin"
+        },
+        {
+          "authorId": "2071367063",
+          "name": "S. Cutini"
+        },
+        {
+          "authorId": "1381601295",
+          "name": "F. D\u2019Ammando"
+        },
+        {
+          "authorId": "1398371125",
+          "name": "P. De la Torre Luque"
+        },
+        {
+          "authorId": "2314874723",
+          "name": "R. de Menezes"
+        },
+        {
+          "authorId": "35221784",
+          "name": "F. de Palma"
+        },
+        {
+          "authorId": "152592023",
+          "name": "A. Desai"
+        },
+        {
+          "authorId": "13667851",
+          "name": "N. Di Lalla"
+        },
+        {
+          "authorId": "8096523",
+          "name": "L. Di Venere"
+        },
+        {
+          "authorId": "48080731",
+          "name": "A. Dom\u00ednguez"
+        },
+        {
+          "authorId": "104304604",
+          "name": "F. Dirirsa"
+        },
+        {
+          "authorId": "122823865",
+          "name": "E. Ferrara"
+        },
+        {
+          "authorId": "50001101",
+          "name": "J. Finke"
+        },
+        {
+          "authorId": "3426086",
+          "name": "A. Franckowiak"
+        },
+        {
+          "authorId": "2069901652",
+          "name": "Y. Fukazawa"
+        },
+        {
+          "authorId": "117018608",
+          "name": "S. Funk"
+        },
+        {
+          "authorId": "119168684",
+          "name": "P. Fusco"
+        },
+        {
+          "authorId": "3032636",
+          "name": "F. Gargano"
+        },
+        {
+          "authorId": "98001614",
+          "name": "S. Garrappa"
+        },
+        {
+          "authorId": "152387896",
+          "name": "D. Gasparrini"
+        },
+        {
+          "authorId": "4796432",
+          "name": "N. Giglietto"
+        },
+        {
+          "authorId": "46279257",
+          "name": "F. Giordano"
+        },
+        {
+          "authorId": "6483446",
+          "name": "M. Giroletti"
+        },
+        {
+          "authorId": "2341316100",
+          "name": "D. Green"
+        },
+        {
+          "authorId": "6338167",
+          "name": "I. Grenier"
+        },
+        {
+          "authorId": "52091150",
+          "name": "S. Guiriec"
+        },
+        {
+          "authorId": "101967193",
+          "name": "S. Harita"
+        },
+        {
+          "authorId": "46266664",
+          "name": "E. Hays"
+        },
+        {
+          "authorId": "2318129",
+          "name": "D. Horan"
+        },
+        {
+          "authorId": "2060548016",
+          "name": "R. Itoh"
+        },
+        {
+          "authorId": "3603131",
+          "name": "G. J\u00f3hannesson"
+        },
+        {
+          "authorId": "121095480",
+          "name": "M. Kovac\u2019evic\u2019"
+        },
+        {
+          "authorId": "80865080",
+          "name": "F. Krau\u00df"
+        },
+        {
+          "authorId": "10161412",
+          "name": "M. Kreter"
+        },
+        {
+          "authorId": "31417048",
+          "name": "M. Kuss"
+        },
+        {
+          "authorId": "47685122",
+          "name": "S. Larsson"
+        },
+        {
+          "authorId": "48673112",
+          "name": "C. Leto"
+        },
+        {
+          "authorId": "49297744",
+          "name": "J. Li"
+        },
+        {
+          "authorId": "66112948",
+          "name": "I. Liodakis"
+        },
+        {
+          "authorId": "31981220",
+          "name": "F. Longo"
+        },
+        {
+          "authorId": "3969507",
+          "name": "F. Loparco"
+        },
+        {
+          "authorId": "93940544",
+          "name": "B. Lott"
+        },
+        {
+          "authorId": "98437065",
+          "name": "M. Lovellette"
+        },
+        {
+          "authorId": "4414550",
+          "name": "P. Lubrano"
+        },
+        {
+          "authorId": "103615974",
+          "name": "G. Madejski"
+        },
+        {
+          "authorId": "6118734",
+          "name": "S. Maldera"
+        },
+        {
+          "authorId": "10759487",
+          "name": "A. Manfreda"
+        },
+        {
+          "authorId": "2077274812",
+          "name": "G. Mart\u00ed-Devesa"
+        },
+        {
+          "authorId": "2066877",
+          "name": "F. Massaro"
+        },
+        {
+          "authorId": "41205187",
+          "name": "M. Mazziotta"
+        },
+        {
+          "authorId": "8932334",
+          "name": "I. Mereu"
+        },
+        {
+          "authorId": "102272159",
+          "name": "M. Meyer"
+        },
+        {
+          "authorId": "144357272",
+          "name": "G. Migliori"
+        },
+        {
+          "authorId": "145399069",
+          "name": "N. Mirabal"
+        },
+        {
+          "authorId": "2105675374",
+          "name": "T. Mizuno"
+        },
+        {
+          "authorId": "144399837",
+          "name": "M. Monzani"
+        },
+        {
+          "authorId": "49224788",
+          "name": "A. Morselli"
+        },
+        {
+          "authorId": "2306130",
+          "name": "I. Moskalenko"
+        },
+        {
+          "authorId": "88728887",
+          "name": "M. Negro"
+        },
+        {
+          "authorId": "8128257",
+          "name": "R. Nemmen"
+        },
+        {
+          "authorId": "152335257",
+          "name": "\u00c9. Nuss"
+        },
+        {
+          "authorId": "2126939421",
+          "name": "L. Ojha"
+        },
+        {
+          "authorId": "93008616",
+          "name": "R. Ojha"
+        },
+        {
+          "authorId": "117107073",
+          "name": "N. Omodei"
+        },
+        {
+          "authorId": "6662306",
+          "name": "M. Orienti"
+        },
+        {
+          "authorId": "41197471",
+          "name": "E. Orlando"
+        },
+        {
+          "authorId": "92123802",
+          "name": "J. Ormes"
+        },
+        {
+          "authorId": "35859249",
+          "name": "V. Paliya"
+        },
+        {
+          "authorId": "102947948",
+          "name": "Z. Pei"
+        },
+        {
+          "authorId": "1404853389",
+          "name": "H. Pe\u00f1a-Herazo"
+        },
+        {
+          "authorId": "4565124",
+          "name": "M. Persic"
+        },
+        {
+          "authorId": "1382003925",
+          "name": "M. Pesce-Rollins"
+        },
+        {
+          "authorId": "152478710",
+          "name": "L. Petrov"
+        },
+        {
+          "authorId": "6230489",
+          "name": "F. Piron"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "31106752",
+          "name": "G. Principe"
+        },
+        {
+          "authorId": "152405216",
+          "name": "S. Rain\u00f2"
+        },
+        {
+          "authorId": "1402596439",
+          "name": "R. Rando"
+        },
+        {
+          "authorId": "1471305675",
+          "name": "Babita Rani"
+        },
+        {
+          "authorId": "69036661",
+          "name": "M. Razzano"
+        },
+        {
+          "authorId": "90697675",
+          "name": "S. Razzaque"
+        },
+        {
+          "authorId": "2178415156",
+          "name": "A. Reimer"
+        },
+        {
+          "authorId": "51903614",
+          "name": "O. Reimer"
+        },
+        {
+          "authorId": "7552760",
+          "name": "F. Schinzel"
+        },
+        {
+          "authorId": "1388076004",
+          "name": "D. Serini"
+        },
+        {
+          "authorId": "5269115",
+          "name": "C. Sgro\u2019"
+        },
+        {
+          "authorId": "1380748616",
+          "name": "E. Siskind"
+        },
+        {
+          "authorId": "152479304",
+          "name": "G. Spandre"
+        },
+        {
+          "authorId": "153068954",
+          "name": "P. Spinelli"
+        },
+        {
+          "authorId": "2101399",
+          "name": "D. Suson"
+        },
+        {
+          "authorId": "38049357",
+          "name": "Y. Tachibana"
+        },
+        {
+          "authorId": "2249434272",
+          "name": "D. Thompson"
+        },
+        {
+          "authorId": "41196833",
+          "name": "D. Torres"
+        },
+        {
+          "authorId": "102182499",
+          "name": "E. Torresi"
+        },
+        {
+          "authorId": "2223398",
+          "name": "E. Troja"
+        },
+        {
+          "authorId": "145504400",
+          "name": "J. Valverde"
+        },
+        {
+          "authorId": "134608434",
+          "name": "P. van Zyl"
+        },
+        {
+          "authorId": "103320882",
+          "name": "M. Yassine"
+        }
+      ]
+    },
+    {
+      "paperId": "dcb28c8ba94434eb8a06e81eb55bfdbc343d2340",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/dcb28c8ba94434eb8a06e81eb55bfdbc343d2340",
+      "title": "Document-Level N-ary Relation Extraction with Multiscale Representation Learning",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 143,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3422908",
+          "name": "Robin Jia"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "dcd3207722a171ccfb13becb87b1d86b3730c791",
+      "publicationVenue": {
+        "id": "7652ece8-fbd3-4050-b927-cf29d7f0eaa8",
+        "name": "Astrophysical Journal",
+        "type": "journal",
+        "alternate_names": [
+          "Astrophys J",
+          "The Astrophysical Journal"
+        ],
+        "issn": "0004-637X",
+        "url": "https://iopscience.iop.org/journal/0004-637X",
+        "alternate_urls": [
+          "http://iopscience.org/apj"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/dcd3207722a171ccfb13becb87b1d86b3730c791",
+      "title": "A Decade of Gamma-Ray Bursts Observed by Fermi-LAT: The Second GRB Catalog",
+      "venue": "Astrophysical Journal",
+      "year": 2019,
+      "citationCount": 165,
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "152692760",
+          "name": "M. Ajello"
+        },
+        {
+          "authorId": "51011078",
+          "name": "M. Arimoto"
+        },
+        {
+          "authorId": "41216270",
+          "name": "M. Axelsson"
+        },
+        {
+          "authorId": "102562993",
+          "name": "L. Baldini"
+        },
+        {
+          "authorId": "4529686",
+          "name": "G. Barbiellini"
+        },
+        {
+          "authorId": "3129771",
+          "name": "D. Bastieri"
+        },
+        {
+          "authorId": "7011254",
+          "name": "R. Bellazzini"
+        },
+        {
+          "authorId": "48000302",
+          "name": "P. N. Bhat"
+        },
+        {
+          "authorId": "4778612",
+          "name": "E. Bissaldi"
+        },
+        {
+          "authorId": "1388637039",
+          "name": "R. Blandford"
+        },
+        {
+          "authorId": "5530592",
+          "name": "R. Bonino"
+        },
+        {
+          "authorId": "101184011",
+          "name": "J. Bonnell"
+        },
+        {
+          "authorId": "7849914",
+          "name": "E. Bottacini"
+        },
+        {
+          "authorId": "2103246557",
+          "name": "J. Bregeon"
+        },
+        {
+          "authorId": "48334800",
+          "name": "P. Bruel"
+        },
+        {
+          "authorId": "144630187",
+          "name": "R. Buehler"
+        },
+        {
+          "authorId": "1382071254",
+          "name": "R. Cameron"
+        },
+        {
+          "authorId": "121187709",
+          "name": "R. Caputo"
+        },
+        {
+          "authorId": "3749153",
+          "name": "P. Caraveo"
+        },
+        {
+          "authorId": "2759221",
+          "name": "E. Cavazzuti"
+        },
+        {
+          "authorId": "103043072",
+          "name": "S. Chen"
+        },
+        {
+          "authorId": "35119725",
+          "name": "C. C. Cheung"
+        },
+        {
+          "authorId": "3668637",
+          "name": "G. Chiaro"
+        },
+        {
+          "authorId": "117612913",
+          "name": "S. Ciprini"
+        },
+        {
+          "authorId": "35981747",
+          "name": "D. Costantin"
+        },
+        {
+          "authorId": "102824589",
+          "name": "M. Crnogor\u010devi\u0107"
+        },
+        {
+          "authorId": "152112063",
+          "name": "S. Cutini"
+        },
+        {
+          "authorId": "15231439",
+          "name": "M. Dainotti"
+        },
+        {
+          "authorId": "1381601295",
+          "name": "F. D\u2019Ammando"
+        },
+        {
+          "authorId": "2127024659",
+          "name": "P. D. L. Torre Luque"
+        },
+        {
+          "authorId": "2712804",
+          "name": "F. Palma"
+        },
+        {
+          "authorId": "152592023",
+          "name": "A. Desai"
+        },
+        {
+          "authorId": "8138368",
+          "name": "R. Desiante"
+        },
+        {
+          "authorId": "2089156957",
+          "name": "N. Lalla"
+        },
+        {
+          "authorId": "90636171",
+          "name": "L. Venere"
+        },
+        {
+          "authorId": "104304604",
+          "name": "F. Dirirsa"
+        },
+        {
+          "authorId": "1388814275",
+          "name": "S. Fegan"
+        },
+        {
+          "authorId": "3426086",
+          "name": "A. Franckowiak"
+        },
+        {
+          "authorId": "2069901652",
+          "name": "Y. Fukazawa"
+        },
+        {
+          "authorId": "117018608",
+          "name": "S. Funk"
+        },
+        {
+          "authorId": "119168684",
+          "name": "P. Fusco"
+        },
+        {
+          "authorId": "3032636",
+          "name": "F. Gargano"
+        },
+        {
+          "authorId": "152387896",
+          "name": "D. Gasparrini"
+        },
+        {
+          "authorId": "4796432",
+          "name": "N. Giglietto"
+        },
+        {
+          "authorId": "46279257",
+          "name": "F. Giordano"
+        },
+        {
+          "authorId": "6483446",
+          "name": "M. Giroletti"
+        },
+        {
+          "authorId": "2341316100",
+          "name": "D. Green"
+        },
+        {
+          "authorId": "6338167",
+          "name": "I. Grenier"
+        },
+        {
+          "authorId": "2086426584",
+          "name": "J. Grove"
+        },
+        {
+          "authorId": "52091150",
+          "name": "S. Guiriec"
+        },
+        {
+          "authorId": "46266664",
+          "name": "E. Hays"
+        },
+        {
+          "authorId": "2059810631",
+          "name": "J. Hewitt"
+        },
+        {
+          "authorId": "2318129",
+          "name": "D. Horan"
+        },
+        {
+          "authorId": "3603131",
+          "name": "G. J\u00f3hannesson"
+        },
+        {
+          "authorId": "152527986",
+          "name": "D. Kocevski"
+        },
+        {
+          "authorId": "31417048",
+          "name": "M. Kuss"
+        },
+        {
+          "authorId": "5200992",
+          "name": "L. Latronico"
+        },
+        {
+          "authorId": "49297744",
+          "name": "J. Li"
+        },
+        {
+          "authorId": "31981220",
+          "name": "F. Longo"
+        },
+        {
+          "authorId": "3969507",
+          "name": "F. Loparco"
+        },
+        {
+          "authorId": "98437065",
+          "name": "M. Lovellette"
+        },
+        {
+          "authorId": "4414550",
+          "name": "P. Lubrano"
+        },
+        {
+          "authorId": "6118734",
+          "name": "S. Maldera"
+        },
+        {
+          "authorId": "10759487",
+          "name": "A. Manfreda"
+        },
+        {
+          "authorId": "2077274812",
+          "name": "G. Mart\u00ed-Devesa"
+        },
+        {
+          "authorId": "41205187",
+          "name": "M. Mazziotta"
+        },
+        {
+          "authorId": "8932334",
+          "name": "I. Mereu"
+        },
+        {
+          "authorId": "102272159",
+          "name": "M. Meyer"
+        },
+        {
+          "authorId": "145861986",
+          "name": "P. Michelson"
+        },
+        {
+          "authorId": "145399069",
+          "name": "N. Mirabal"
+        },
+        {
+          "authorId": "5083143",
+          "name": "W. Mitthumsiri"
+        },
+        {
+          "authorId": "145300266",
+          "name": "T. Mizuno"
+        },
+        {
+          "authorId": "144399837",
+          "name": "M. Monzani"
+        },
+        {
+          "authorId": "143671024",
+          "name": "E. Moretti"
+        },
+        {
+          "authorId": "49224788",
+          "name": "A. Morselli"
+        },
+        {
+          "authorId": "2306130",
+          "name": "I. Moskalenko"
+        },
+        {
+          "authorId": "88728887",
+          "name": "M. Negro"
+        },
+        {
+          "authorId": "152335257",
+          "name": "\u00c9. Nuss"
+        },
+        {
+          "authorId": "144179955",
+          "name": "M. Ohno"
+        },
+        {
+          "authorId": "117107073",
+          "name": "N. Omodei"
+        },
+        {
+          "authorId": "6662306",
+          "name": "M. Orienti"
+        },
+        {
+          "authorId": "41197471",
+          "name": "E. Orlando"
+        },
+        {
+          "authorId": "7498994",
+          "name": "M. Palatiello"
+        },
+        {
+          "authorId": "35859249",
+          "name": "V. Paliya"
+        },
+        {
+          "authorId": "3551230",
+          "name": "D. Paneque"
+        },
+        {
+          "authorId": "4565124",
+          "name": "M. Persic"
+        },
+        {
+          "authorId": "1382003925",
+          "name": "M. Pesce-Rollins"
+        },
+        {
+          "authorId": "144275420",
+          "name": "V. Petrosian"
+        },
+        {
+          "authorId": "6230489",
+          "name": "F. Piron"
+        },
+        {
+          "authorId": "102498552",
+          "name": "S. Poolakkil"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "8268452",
+          "name": "T. Porter"
+        },
+        {
+          "authorId": "31106752",
+          "name": "G. Principe"
+        },
+        {
+          "authorId": "103032681",
+          "name": "J. Racusin"
+        },
+        {
+          "authorId": "152405216",
+          "name": "S. Rain\u00f2"
+        },
+        {
+          "authorId": "1402596439",
+          "name": "R. Rando"
+        },
+        {
+          "authorId": "69036661",
+          "name": "M. Razzano"
+        },
+        {
+          "authorId": "90697675",
+          "name": "S. Razzaque"
+        },
+        {
+          "authorId": "2178415156",
+          "name": "A. Reimer"
+        },
+        {
+          "authorId": "51903614",
+          "name": "O. Reimer"
+        },
+        {
+          "authorId": "103304171",
+          "name": "T. Reposeur"
+        },
+        {
+          "authorId": "41175490",
+          "name": "F. Ryde"
+        },
+        {
+          "authorId": "1388076004",
+          "name": "D. Serini"
+        },
+        {
+          "authorId": "5269115",
+          "name": "C. Sgro\u2019"
+        },
+        {
+          "authorId": "1380748616",
+          "name": "E. Siskind"
+        },
+        {
+          "authorId": "7194642",
+          "name": "E. Sonba\u015f"
+        },
+        {
+          "authorId": "152479304",
+          "name": "G. Spandre"
+        },
+        {
+          "authorId": "153068954",
+          "name": "P. Spinelli"
+        },
+        {
+          "authorId": "2101399",
+          "name": "D. Suson"
+        },
+        {
+          "authorId": "102435823",
+          "name": "H. Tajima"
+        },
+        {
+          "authorId": "2341315438",
+          "name": "M. Takahashi"
+        },
+        {
+          "authorId": "81728572",
+          "name": "D. Tak"
+        },
+        {
+          "authorId": "1893267",
+          "name": "J. Thayer"
+        },
+        {
+          "authorId": "41196833",
+          "name": "D. Torres"
+        },
+        {
+          "authorId": "2223398",
+          "name": "E. Troja"
+        },
+        {
+          "authorId": "145504400",
+          "name": "J. Valverde"
+        },
+        {
+          "authorId": "2734245",
+          "name": "P. Veres"
+        },
+        {
+          "authorId": "123460364",
+          "name": "G. Vianello"
+        },
+        {
+          "authorId": "39506653",
+          "name": "A. von Kienlin"
+        },
+        {
+          "authorId": "33958268",
+          "name": "K. Wood"
+        },
+        {
+          "authorId": "103320882",
+          "name": "M. Yassine"
+        },
+        {
+          "authorId": "2116536501",
+          "name": "S. Zhu"
+        },
+        {
+          "authorId": "47691160",
+          "name": "S. Zimmer"
+        }
+      ]
+    },
+    {
+      "paperId": "902390ad0946a4ba6759b9de1fa60aebded2f9a4",
+      "publicationVenue": {
+        "id": "67f7f831-711a-43c8-8785-1e09005359b5",
+        "name": "International Joint Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Jt Conf Artif Intell",
+          "IJCAI"
+        ],
+        "url": "http://www.ijcai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/902390ad0946a4ba6759b9de1fa60aebded2f9a4",
+      "title": "EZLearn: Exploiting Organic Supervision in Automated Data Annotation",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2018,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1892750",
+          "name": "Maxim Grechkin"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1686294",
+          "name": "Bill Howe"
+        }
+      ]
+    },
+    {
+      "paperId": "f42c23d57a5d0cffc83feb200866999d54fc6b59",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/f42c23d57a5d0cffc83feb200866999d54fc6b59",
+      "title": "Deep Probabilistic Logic: A Unifying Framework for Indirect Supervision",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 53,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2113221447",
+          "name": "Hai Wang"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "04babff981b2ec970923285dad7a47318899d6d2",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/04babff981b2ec970923285dad7a47318899d6d2",
+      "title": "NLP for Precision Medicine",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2596310",
+          "name": "Chris Quirk"
+        },
+        {
+          "authorId": "3259253",
+          "name": "Kristina Toutanova"
+        },
+        {
+          "authorId": "144105277",
+          "name": "Wen-tau Yih"
+        }
+      ]
+    },
+    {
+      "paperId": "0a4b15829a418e8acc50cc0027e0bbe3f707df03",
+      "publicationVenue": {
+        "id": "bb27e645-e57c-42c3-bcbc-c7b443c58209",
+        "name": "Nature Genetics",
+        "type": "journal",
+        "alternate_names": [
+          "Nat Genet"
+        ],
+        "issn": "1061-4036",
+        "url": "http://www.nature.com/ng/",
+        "alternate_urls": [
+          "http://www.nature.com/ng/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0a4b15829a418e8acc50cc0027e0bbe3f707df03",
+      "title": "Classification of common human diseases derived from shared genetic and environmental determinants",
+      "venue": "Nature Genetics",
+      "year": 2017,
+      "citationCount": 208,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "3166407",
+          "name": "Kanix Wang"
+        },
+        {
+          "authorId": "2264793684",
+          "name": "Hallie Gaitsch"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2173670631",
+          "name": "N. Cox"
+        },
+        {
+          "authorId": "2436402",
+          "name": "A. Rzhetsky"
+        }
+      ]
+    },
+    {
+      "paperId": "54b8aadb7c2576665ce26caf59464b6449ac9ccf",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/54b8aadb7c2576665ce26caf59464b6449ac9ccf",
+      "title": "Cross-Sentence N-ary Relation Extraction with Graph LSTMs",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2017,
+      "citationCount": 506,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3157053",
+          "name": "Nanyun Peng"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2596310",
+          "name": "Chris Quirk"
+        },
+        {
+          "authorId": "3259253",
+          "name": "Kristina Toutanova"
+        },
+        {
+          "authorId": "144105277",
+          "name": "Wen-tau Yih"
+        }
+      ]
+    },
+    {
+      "paperId": "7997b97ff975ae7a4f3166f47231c1d2d2903df5",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/7997b97ff975ae7a4f3166f47231c1d2d2903df5",
+      "title": "EZLearn: Exploiting Organic Supervision in Large-Scale Data Annotation",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1892750",
+          "name": "Maxim Grechkin"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1686294",
+          "name": "Bill Howe"
+        }
+      ]
+    },
+    {
+      "paperId": "7a4c1991ed6bc3195400313d1294834613df934b",
+      "publicationVenue": {
+        "id": "83ff973b-8a0e-4e00-a06a-2cfd9e222de9",
+        "name": "PLoS Biology",
+        "type": "journal",
+        "alternate_names": [
+          "Plo Biology",
+          "PLOS Biology",
+          "PLO Biology"
+        ],
+        "issn": "1544-9173",
+        "url": "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=212",
+        "alternate_urls": [
+          "http://www.plosbiology.org/",
+          "https://journals.plos.org/plosbiology/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7a4c1991ed6bc3195400313d1294834613df934b",
+      "title": "Wide-Open: Accelerating public data release by automating detection of overdue datasets",
+      "venue": "PLoS Biology",
+      "year": 2017,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Biology",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1892750",
+          "name": "Maxim Grechkin"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "145557773",
+          "name": "B. Howe"
+        }
+      ]
+    },
+    {
+      "paperId": "8febb02acb9510015a3463079c390564a055ee4b",
+      "publicationVenue": {
+        "id": "bb95bf2e-8383-4748-bf9d-d6906d091085",
+        "name": "Proceedings of the National Academy of Sciences of the United States of America",
+        "type": "journal",
+        "alternate_names": [
+          "PNAS",
+          "PNAS online",
+          "Proceedings of the National Academy of Sciences of the United States of America.",
+          "Proc National Acad Sci",
+          "Proceedings of the National Academy of Sciences",
+          "Proc National Acad Sci u s Am"
+        ],
+        "issn": "0027-8424",
+        "alternate_issns": [
+          "1091-6490"
+        ],
+        "url": "https://www.jstor.org/journal/procnatiacadscie",
+        "alternate_urls": [
+          "http://www.pnas.org/",
+          "https://www.pnas.org/",
+          "http://www.jstor.org/journals/00278424.html",
+          "www.pnas.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/8febb02acb9510015a3463079c390564a055ee4b",
+      "title": "Molecularly targeted drug combinations demonstrate selective effectiveness for myeloid- and lymphoid-derived hematologic malignancies",
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "year": 2017,
+      "citationCount": 87,
+      "fieldsOfStudy": [
+        "Biology",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "38820419",
+          "name": "S. Kurtz"
+        },
+        {
+          "authorId": "2026873",
+          "name": "C. Eide"
+        },
+        {
+          "authorId": "49615868",
+          "name": "A. Kaempf"
+        },
+        {
+          "authorId": "51429089",
+          "name": "V. Khanna"
+        },
+        {
+          "authorId": "36811985",
+          "name": "S. Savage"
+        },
+        {
+          "authorId": "12303695",
+          "name": "Angela Rofelty"
+        },
+        {
+          "authorId": "37032119",
+          "name": "I. English"
+        },
+        {
+          "authorId": "22208995",
+          "name": "Hibery Ho"
+        },
+        {
+          "authorId": "8118986",
+          "name": "Ravi Pandya"
+        },
+        {
+          "authorId": "1689596",
+          "name": "W. Bolosky"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2702748",
+          "name": "M. Deininger"
+        },
+        {
+          "authorId": "144549557",
+          "name": "R. Collins"
+        },
+        {
+          "authorId": "3319834",
+          "name": "R. Swords"
+        },
+        {
+          "authorId": "48389408",
+          "name": "J. Watts"
+        },
+        {
+          "authorId": "3363519",
+          "name": "D. Pollyea"
+        },
+        {
+          "authorId": "2741111",
+          "name": "B. Medeiros"
+        },
+        {
+          "authorId": "6041901",
+          "name": "E. Traer"
+        },
+        {
+          "authorId": "5164590",
+          "name": "C. Tognon"
+        },
+        {
+          "authorId": "4144423",
+          "name": "M. Mori"
+        },
+        {
+          "authorId": "144082761",
+          "name": "B. Druker"
+        },
+        {
+          "authorId": "145170196",
+          "name": "J. Tyner"
+        }
+      ]
+    },
+    {
+      "paperId": "9dbb506ded56ff4b7ab65aa92b363c0112987f10",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9dbb506ded56ff4b7ab65aa92b363c0112987f10",
+      "title": "Neural-Symbolic Learning and Reasoning: A Survey and Interpretation",
+      "venue": "Neuro-Symbolic Artificial Intelligence",
+      "year": 2017,
+      "citationCount": 321,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143862012",
+          "name": "Tarek R. Besold"
+        },
+        {
+          "authorId": "2925941",
+          "name": "A. Garcez"
+        },
+        {
+          "authorId": "144349956",
+          "name": "Sebastian Bader"
+        },
+        {
+          "authorId": "145042515",
+          "name": "H. Bowman"
+        },
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        },
+        {
+          "authorId": "1699771",
+          "name": "P. Hitzler"
+        },
+        {
+          "authorId": "1743582",
+          "name": "Kai-Uwe K\u00fchnberger"
+        },
+        {
+          "authorId": "2335532",
+          "name": "L. Lamb"
+        },
+        {
+          "authorId": "3021654",
+          "name": "Daniel Lowd"
+        },
+        {
+          "authorId": "144829981",
+          "name": "P. Lima"
+        },
+        {
+          "authorId": "2910868",
+          "name": "L. Penning"
+        },
+        {
+          "authorId": "2263909",
+          "name": "Gadi Pinkas"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1753715",
+          "name": "Gerson Zaverucha"
+        }
+      ]
+    },
+    {
+      "paperId": "eaa78c7842536ce321c0d7d095ac0a42ea34cd03",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/eaa78c7842536ce321c0d7d095ac0a42ea34cd03",
+      "title": "Estimating Accuracy from Unlabeled Data: A Probabilistic Logic Approach",
+      "venue": "Neural Information Processing Systems",
+      "year": 2017,
+      "citationCount": 57,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144888672",
+          "name": "Emmanouil Antonios Platanios"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "40975594",
+          "name": "Tom Michael Mitchell"
+        },
+        {
+          "authorId": "145479841",
+          "name": "E. Horvitz"
+        }
+      ]
+    },
+    {
+      "paperId": "0bd50cb6e58c09923ecab00ac252dc7e60eb5cc8",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0bd50cb6e58c09923ecab00ac252dc7e60eb5cc8",
+      "title": "Distant Supervision for Relation Extraction beyond the Sentence Boundary",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 226,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2596310",
+          "name": "Chris Quirk"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "d2072e4bc03c82697be667c265d728045712bc46",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d2072e4bc03c82697be667c265d728045712bc46",
+      "title": "Compositional Learning of Embeddings for Relation Paths in Knowledge Base and Text",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 151,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3259253",
+          "name": "Kristina Toutanova"
+        },
+        {
+          "authorId": "143724481",
+          "name": "Xi Victoria Lin"
+        },
+        {
+          "authorId": "144105277",
+          "name": "Wen-tau Yih"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2596310",
+          "name": "Chris Quirk"
+        }
+      ]
+    },
+    {
+      "paperId": "7e928ef936c2815d7522c5176163d6ab7309a8b7",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/7e928ef936c2815d7522c5176163d6ab7309a8b7",
+      "title": "Representing Text for Joint Embedding of Text and Knowledge Bases",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2015,
+      "citationCount": 708,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3259253",
+          "name": "Kristina Toutanova"
+        },
+        {
+          "authorId": "50536468",
+          "name": "Danqi Chen"
+        },
+        {
+          "authorId": "1990190",
+          "name": "Patrick Pantel"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "40143199",
+          "name": "Pallavi Choudhury"
+        },
+        {
+          "authorId": "2417334",
+          "name": "Michael Gamon"
+        }
+      ]
+    },
+    {
+      "paperId": "99908574b73cb1461d7d15c527a87c2217cb7283",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/99908574b73cb1461d7d15c527a87c2217cb7283",
+      "title": "Model Selection for Type-Supervised Learning with Application to POS Tagging",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2015,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3259253",
+          "name": "Kristina Toutanova"
+        },
+        {
+          "authorId": "145585097",
+          "name": "Bridger Waleed Ammar"
+        },
+        {
+          "authorId": "40143199",
+          "name": "Pallavi Choudhury"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "b083b24a6b5acec5f0bd60bb3db4c0e5ed416d9a",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/b083b24a6b5acec5f0bd60bb3db4c0e5ed416d9a",
+      "title": "Grounded Semantic Parsing for Complex Knowledge Extraction",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2015,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144729897",
+          "name": "Ankur P. Parikh"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "3259253",
+          "name": "Kristina Toutanova"
+        }
+      ]
+    },
+    {
+      "paperId": "0f5ed97a79c5194092f2148686532289c4da7e30",
+      "publicationVenue": {
+        "id": "bf8c915b-282b-4817-987d-62e47e42d5e1",
+        "name": "Pacific Symposium on Biocomputing",
+        "type": "conference",
+        "alternate_names": [
+          "PSB",
+          "Pac Symp Biocomput"
+        ],
+        "url": "http://psb.stanford.edu/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0f5ed97a79c5194092f2148686532289c4da7e30",
+      "title": "Distant Supervision for Cancer Pathway Extraction from Text",
+      "venue": "Pacific Symposium on Biocomputing",
+      "year": 2014,
+      "citationCount": 45,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "3259253",
+          "name": "Kristina Toutanova"
+        },
+        {
+          "authorId": "2596310",
+          "name": "Chris Quirk"
+        }
+      ]
+    },
+    {
+      "paperId": "dca22ccfa0da49bb0da7daec7fcfc29f193bdb1b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/dca22ccfa0da49bb0da7daec7fcfc29f193bdb1b",
+      "title": "Literome: PubMed-scale genomic knowledge base in the cloud",
+      "venue": "Bioinform.",
+      "year": 2014,
+      "citationCount": 72,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2596310",
+          "name": "Chris Quirk"
+        },
+        {
+          "authorId": "2131666",
+          "name": "Charles E. DeZiel"
+        },
+        {
+          "authorId": "48099028",
+          "name": "D. Heckerman"
+        }
+      ]
+    },
+    {
+      "paperId": "1407b3363d9bd817b00e95190a95372d3cb3694a",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/1407b3363d9bd817b00e95190a95372d3cb3694a",
+      "title": "Probabilistic Frame Induction",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2013,
+      "citationCount": 116,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3159752",
+          "name": "J. Cheung"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1909300",
+          "name": "Lucy Vanderwende"
+        }
+      ]
+    },
+    {
+      "paperId": "b7090443a6551105a4b82deba6825ec46304e18d",
+      "publicationVenue": {
+        "id": "f99f77b7-b1b6-44d3-984a-f288e9884b9b",
+        "name": "Scientific Reports",
+        "type": "journal",
+        "alternate_names": [
+          "Sci Rep"
+        ],
+        "issn": "2045-2322",
+        "url": "http://www.nature.com/srep/",
+        "alternate_urls": [
+          "http://www.nature.com/srep/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/b7090443a6551105a4b82deba6825ec46304e18d",
+      "title": "CORRIGENDUM: An Exhaustive Epistatic SNP Association Analysis on Expanded Wellcome Trust Data",
+      "venue": "Scientific Reports",
+      "year": 2013,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "38206541",
+          "name": "Christoph Lippert"
+        },
+        {
+          "authorId": "1760519",
+          "name": "J. Listgarten"
+        },
+        {
+          "authorId": "50083291",
+          "name": "R. Davidson"
+        },
+        {
+          "authorId": "2053178201",
+          "name": "Jeff Baxter"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1772349",
+          "name": "C. Kadie"
+        },
+        {
+          "authorId": "48099028",
+          "name": "D. Heckerman"
+        }
+      ]
+    },
+    {
+      "paperId": "dd78a271722fb9e0eaade4208860398de1d80b7f",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/dd78a271722fb9e0eaade4208860398de1d80b7f",
+      "title": "Grounded Unsupervised Semantic Parsing",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2013,
+      "citationCount": 83,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "30753bc1f583ba7ce71dd0186e109813cd658616",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/30753bc1f583ba7ce71dd0186e109813cd658616",
+      "title": "Markov logic for machine reading",
+      "venue": "",
+      "year": 2011,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "d1b21442aa4a6af708d64082d61f6e63e1d4cdf1",
+      "publicationVenue": {
+        "id": "7654260e-79f9-45c5-9663-d72027cf88f3",
+        "name": "IEEE International Conference on Computer Vision",
+        "type": "conference",
+        "alternate_names": [
+          "ICCV",
+          "IEEE Int Conf Comput Vis",
+          "ICCV Workshops",
+          "ICCV Work"
+        ],
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/d1b21442aa4a6af708d64082d61f6e63e1d4cdf1",
+      "title": "Sum-product networks: A new deep architecture",
+      "venue": "IEEE International Conference on Computer Vision",
+      "year": 2011,
+      "citationCount": 749,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        }
+      ]
+    },
+    {
+      "paperId": "28fa7a0bf8898b76584914cd9d84e1d953281dd0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/28fa7a0bf8898b76584914cd9d84e1d953281dd0",
+      "title": "Statistical Relational Learning for Knowledge Extraction from the Web",
+      "venue": "",
+      "year": 2010,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "380169dfdf019dd77f3316ab14fefab337113652",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/380169dfdf019dd77f3316ab14fefab337113652",
+      "title": "Machine Reading at the University of Washington",
+      "venue": "HLT-NAACL 2010",
+      "year": 2010,
+      "citationCount": 45,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "35837717",
+          "name": "Janara Christensen"
+        },
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        },
+        {
+          "authorId": "1741101",
+          "name": "Oren Etzioni"
+        },
+        {
+          "authorId": "2566295",
+          "name": "Raphael Hoffmann"
+        },
+        {
+          "authorId": "3104292",
+          "name": "Chlo\u00e9 Kiddon"
+        },
+        {
+          "authorId": "144739109",
+          "name": "Thomas Lin"
+        },
+        {
+          "authorId": "145787377",
+          "name": "Xiao Ling"
+        },
+        {
+          "authorId": "2674444",
+          "name": "Mausam"
+        },
+        {
+          "authorId": "1863425",
+          "name": "Alan Ritter"
+        },
+        {
+          "authorId": "2293353",
+          "name": "Stefan Schoenmackers"
+        },
+        {
+          "authorId": "144295318",
+          "name": "S. Soderland"
+        },
+        {
+          "authorId": "1780531",
+          "name": "Daniel S. Weld"
+        },
+        {
+          "authorId": "2110920850",
+          "name": "Fei Wu"
+        },
+        {
+          "authorId": "1799338",
+          "name": "Congle Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "4b9bdeb0d7225548f5b0319c8bf3878ffeb2d696",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4b9bdeb0d7225548f5b0319c8bf3878ffeb2d696",
+      "title": "Machine Reading: A \"Killer App\" for Statistical Relational AI",
+      "venue": "StarAI@AAAI",
+      "year": 2010,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        }
+      ]
+    },
+    {
+      "paperId": "65c148e8bcca10eb3acddc398965680a6e31ea8d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/65c148e8bcca10eb3acddc398965680a6e31ea8d",
+      "title": "Markov Logic: A Language and Algorithms for Link Mining",
+      "venue": "Link Mining",
+      "year": 2010,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        },
+        {
+          "authorId": "3021654",
+          "name": "Daniel Lowd"
+        },
+        {
+          "authorId": "3447955",
+          "name": "Stanley Kok"
+        },
+        {
+          "authorId": "3046228",
+          "name": "Aniruddh Nath"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "144422314",
+          "name": "Matthew Richardson"
+        },
+        {
+          "authorId": "35108153",
+          "name": "Parag Singla"
+        }
+      ]
+    },
+    {
+      "paperId": "c5b0ed136d0b0fc175a2c3abde6d144bcf997229",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/c5b0ed136d0b0fc175a2c3abde6d144bcf997229",
+      "title": "Markov Logic in Natural Language Processing: Theory, Algorithms, and Applications",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2010,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "db328685d00ec35fe35f9350f884c7b4b8db3f4c",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/db328685d00ec35fe35f9350f884c7b4b8db3f4c",
+      "title": "Unsupervised Ontology Induction from Text",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2010,
+      "citationCount": 144,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        }
+      ]
+    },
+    {
+      "paperId": "f6e35a8aa7f458dcdd025d32f178d3cb70b49f81",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/f6e35a8aa7f458dcdd025d32f178d3cb70b49f81",
+      "title": "Joint Inference for Knowledge Extraction from Biomedical Literature",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2010,
+      "citationCount": 128,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1909300",
+          "name": "Lucy Vanderwende"
+        }
+      ]
+    },
+    {
+      "paperId": "09afed9d90fc30b71cab62d3da2640027b34c848",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/09afed9d90fc30b71cab62d3da2640027b34c848",
+      "title": "Pulsations and Period Changes of the SX Phoenicis Star DY Pegasi",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "145504591",
+          "name": "J. Fu"
+        },
+        {
+          "authorId": "103335718",
+          "name": "Q. Zha"
+        },
+        {
+          "authorId": "98049699",
+          "name": "Y. P. Zhang"
+        },
+        {
+          "authorId": "2146029250",
+          "name": "Li Chen"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "102289775",
+          "name": "K. Marak"
+        },
+        {
+          "authorId": "102646039",
+          "name": "C. Boonyarak"
+        },
+        {
+          "authorId": "103177127",
+          "name": "P. Khokhuntod"
+        },
+        {
+          "authorId": "2148892713",
+          "name": "J. Su"
+        },
+        {
+          "authorId": "102786424",
+          "name": "Y. Li"
+        },
+        {
+          "authorId": "31911968",
+          "name": "C. Zhang"
+        },
+        {
+          "authorId": "2220918624",
+          "name": "S. Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "681f9d533274d2a20f96349cac05ee0e68869b4c",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/681f9d533274d2a20f96349cac05ee0e68869b4c",
+      "title": "Unsupervised Morphological Segmentation with Log-Linear Models",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2009,
+      "citationCount": 168,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "144507724",
+          "name": "Colin Cherry"
+        },
+        {
+          "authorId": "3259253",
+          "name": "Kristina Toutanova"
+        }
+      ]
+    },
+    {
+      "paperId": "6df733a3274c55414629c5e90debef629631fcaa",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/6df733a3274c55414629c5e90debef629631fcaa",
+      "title": "Unsupervised Semantic Parsing",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2009,
+      "citationCount": 313,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "88acf51c9c9f742fe20160212c29aa961e139c32",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/88acf51c9c9f742fe20160212c29aa961e139c32",
+      "title": "Deep Learning for Semantic Parsing",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        }
+      ]
+    },
+    {
+      "paperId": "baaae290b2af976b6e5d89dcd281263b9e38cbfe",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/baaae290b2af976b6e5d89dcd281263b9e38cbfe",
+      "title": "Language ID in the Context of Harvesting Language Data off the Web",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2009,
+      "citationCount": 39,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Fei Xia"
+        },
+        {
+          "authorId": "119117298",
+          "name": "W. Lewis"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "d91ac06d65a463d1f13555df48aed3455de9f927",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d91ac06d65a463d1f13555df48aed3455de9f927",
+      "title": "Unsupervised Semantic Parsing (USP) User Guide",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "3de563fe753e675cf29a31005a3205728a1390cc",
+      "publicationVenue": {
+        "id": "95518f4c-a5e2-4150-b610-9b1eba46e759",
+        "name": "Uncertainty Reasoning for the Semantic Web",
+        "type": "conference",
+        "alternate_names": [
+          "URSW",
+          "Uncertain Reason Semantic Web"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3de563fe753e675cf29a31005a3205728a1390cc",
+      "title": "Just Add Weights: Markov Logic for the Semantic Web",
+      "venue": "Uncertainty Reasoning for the Semantic Web",
+      "year": 2008,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        },
+        {
+          "authorId": "3021654",
+          "name": "Daniel Lowd"
+        },
+        {
+          "authorId": "3447955",
+          "name": "Stanley Kok"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "144422314",
+          "name": "Matthew Richardson"
+        },
+        {
+          "authorId": "35108153",
+          "name": "Parag Singla"
+        }
+      ]
+    },
+    {
+      "paperId": "439a295063f73bf16edd85821ad058b4e9000cd8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/439a295063f73bf16edd85821ad058b4e9000cd8",
+      "title": "Markov Logic",
+      "venue": "Probabilistic Inductive Logic Programming",
+      "year": 2008,
+      "citationCount": 101,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        },
+        {
+          "authorId": "3447955",
+          "name": "Stanley Kok"
+        },
+        {
+          "authorId": "3021654",
+          "name": "Daniel Lowd"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "144422314",
+          "name": "Matthew Richardson"
+        },
+        {
+          "authorId": "35108153",
+          "name": "Parag Singla"
+        }
+      ]
+    },
+    {
+      "paperId": "684d1dd61707f57e078af750cfbd67abe2e050f6",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/684d1dd61707f57e078af750cfbd67abe2e050f6",
+      "title": "Markov Logic: A Unifying Language for Structural and Statistical Pattern Recognition",
+      "venue": "SSPR/SPR",
+      "year": 2008,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        },
+        {
+          "authorId": "3447955",
+          "name": "Stanley Kok"
+        },
+        {
+          "authorId": "3021654",
+          "name": "Daniel Lowd"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "144422314",
+          "name": "Matthew Richardson"
+        },
+        {
+          "authorId": "35108153",
+          "name": "Parag Singla"
+        },
+        {
+          "authorId": "50648274",
+          "name": "M. Sumner"
+        },
+        {
+          "authorId": "2144536969",
+          "name": "Jue Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "9906885e47b139a540baaeba7768b2851a2a9d63",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9906885e47b139a540baaeba7768b2851a2a9d63",
+      "title": "A General Method for Reducing the Complexity of Relational Inference and its Application to MCMC",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2008,
+      "citationCount": 94,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        },
+        {
+          "authorId": "50648274",
+          "name": "M. Sumner"
+        }
+      ]
+    },
+    {
+      "paperId": "b766f7c8486b38027f607e0b77ed9472e511d72a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b766f7c8486b38027f607e0b77ed9472e511d72a",
+      "title": "Just add weights",
+      "venue": "",
+      "year": 2008,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        },
+        {
+          "authorId": "3021654",
+          "name": "Daniel Lowd"
+        },
+        {
+          "authorId": "3447955",
+          "name": "Stanley Kok"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "144422314",
+          "name": "Matthew Richardson"
+        },
+        {
+          "authorId": "35108153",
+          "name": "Parag Singla"
+        }
+      ]
+    },
+    {
+      "paperId": "ddde3c7371a8d3d8fbbf53a37aba96fa9b0ce1db",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/ddde3c7371a8d3d8fbbf53a37aba96fa9b0ce1db",
+      "title": "Joint Unsupervised Coreference Resolution with Markov Logic",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2008,
+      "citationCount": 239,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        }
+      ]
+    },
+    {
+      "paperId": "9afc2cb61a4da0aa29fa9f40889d21ff67157c7a",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9afc2cb61a4da0aa29fa9f40889d21ff67157c7a",
+      "title": "Joint Inference in Information Extraction",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2007,
+      "citationCount": 298,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        }
+      ]
+    },
+    {
+      "paperId": "865c4b3e6effc5c83ac1ae6850c16ef8d9b930ee",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/865c4b3e6effc5c83ac1ae6850c16ef8d9b930ee",
+      "title": "Sound and Efficient Inference with Probabilistic and Deterministic Dependencies",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2006,
+      "citationCount": 301,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        }
+      ]
+    },
+    {
+      "paperId": "99d15b4c9b95600675c11fb287e63850fd2cc133",
+      "publicationVenue": {
+        "id": "3673dec6-881d-437a-8c5d-710b0e94690c",
+        "name": "Logic in Computer Science",
+        "type": "conference",
+        "alternate_names": [
+          "LICS",
+          "Log Comput Sci"
+        ],
+        "issn": "1043-6871",
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000420",
+        "alternate_urls": [
+          "http://www.wikicfp.com/cfp/program?id=1959"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/99d15b4c9b95600675c11fb287e63850fd2cc133",
+      "title": "Unifying Logical and Statistical AI",
+      "venue": "Logic in Computer Science",
+      "year": 2006,
+      "citationCount": 57,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1740213",
+          "name": "Pedro M. Domingos"
+        },
+        {
+          "authorId": "3447955",
+          "name": "Stanley Kok"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "144422314",
+          "name": "Matthew Richardson"
+        },
+        {
+          "authorId": "35108153",
+          "name": "Parag Singla"
+        }
+      ]
+    },
+    {
+      "paperId": "6cdbb207de24d10aaab468cf371e6d0c465ef768",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6cdbb207de24d10aaab468cf371e6d0c465ef768",
+      "title": "Nowhere zero 4-flow in regular matroids",
+      "venue": "",
+      "year": 2005,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "144751376",
+          "name": "H. Lai"
+        },
+        {
+          "authorId": "2344189765",
+          "name": "Xiangwen Li"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "aeb73b4c33b220a1b180714ef355c06dee608f29",
+      "publicationVenue": {
+        "id": "d7d15b42-f092-422f-8287-cb47ffe4a422",
+        "name": "Journal of Graph Theory",
+        "type": "journal",
+        "alternate_names": [
+          "J Graph Theory"
+        ],
+        "issn": "0364-9024",
+        "url": "http://www3.interscience.wiley.com/cgi-bin/jhome/35334",
+        "alternate_urls": [
+          "https://onlinelibrary.wiley.com/journal/10970118",
+          "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0118"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/aeb73b4c33b220a1b180714ef355c06dee608f29",
+      "title": "Nowhere zero 4\u2010flow in regular matroids",
+      "venue": "Journal of Graph Theory",
+      "year": 2005,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144751376",
+          "name": "H. Lai"
+        },
+        {
+          "authorId": "2344189765",
+          "name": "Xiangwen Li"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "b7de77c943988d9023f574411a6bc4e4640c6dc9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b7de77c943988d9023f574411a6bc4e4640c6dc9",
+      "title": "Spanning Trails Connecting Given Edges",
+      "venue": "Graphs Comb.",
+      "year": 2005,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144751376",
+          "name": "H. Lai"
+        },
+        {
+          "authorId": "2344189765",
+          "name": "Xiangwen Li"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "3262495",
+          "name": "Yongbin Ou"
+        }
+      ]
+    },
+    {
+      "paperId": "6ea85c620955848cb02808864f797c1049c455f7",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6ea85c620955848cb02808864f797c1049c455f7",
+      "title": "A dual version of Brook's coloring theorem",
+      "venue": "",
+      "year": 2003,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "144751376",
+          "name": "H. Lai"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "a8b27215dcc99d5c267632bdf0ea3ca97eb31c1b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a8b27215dcc99d5c267632bdf0ea3ca97eb31c1b",
+      "title": "Upper Bounds of Dynamic Chromatic Number",
+      "venue": "Ars Comb.",
+      "year": 2003,
+      "citationCount": 91,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "144751376",
+          "name": "H. Lai"
+        },
+        {
+          "authorId": "2080400078",
+          "name": "Bruce Montgomery"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "528ac5ca9ec3e9f86bfe2c39862cb29effbaf1e4",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/528ac5ca9ec3e9f86bfe2c39862cb29effbaf1e4",
+      "title": "Cycle Cover Ratio of Regular Matroids",
+      "venue": "European journal of combinatorics (Print)",
+      "year": 2002,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "144751376",
+          "name": "H. Lai"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    }
+  ]
+}

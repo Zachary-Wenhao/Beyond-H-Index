@@ -1,0 +1,450 @@
+{
+  "authorId": "2069288370",
+  "name": "Stella Ho",
+  "affiliations": [],
+  "paperCount": 9,
+  "citationCount": 134,
+  "hIndex": 4,
+  "papers": [
+    {
+      "paperId": "b4c5e0e4798bbb76868241fa8d3a00122187ee8d",
+      "publicationVenue": {
+        "id": "24e5c42b-e7ca-4f5a-8ab0-a1933aaeee30",
+        "name": "International Conference on Algorithms and Architectures for Parallel Processing",
+        "type": "conference",
+        "alternate_names": [
+          "ICA3PP",
+          "Int Conf Algorithm Archit Parallel Process"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1266"
+      },
+      "url": "https://www.semanticscholar.org/paper/b4c5e0e4798bbb76868241fa8d3a00122187ee8d",
+      "title": "Federated Meta Continual Learning for Efficient and Autonomous Edge Inference",
+      "venue": "International Conference on Algorithms and Architectures for Parallel Processing",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2349370656",
+          "name": "Bingze Li"
+        },
+        {
+          "authorId": "2069288370",
+          "name": "Stella Ho"
+        },
+        {
+          "authorId": "2308815026",
+          "name": "Y. Qu"
+        },
+        {
+          "authorId": "2261070247",
+          "name": "Chenhao Xu"
+        },
+        {
+          "authorId": "2285477251",
+          "name": "Tom H. Luan"
+        },
+        {
+          "authorId": "2347173440",
+          "name": "Longxiang Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "f3ee25736dcdc1ddfd1feea3663b2d525a954169",
+      "publicationVenue": {
+        "id": "ea8553fe-2467-4367-afee-c4deb3754820",
+        "name": "Artificial Intelligence Review",
+        "type": "journal",
+        "alternate_names": [
+          "Artif Intell Rev"
+        ],
+        "issn": "0269-2821",
+        "url": "https://link.springer.com/journal/10462"
+      },
+      "url": "https://www.semanticscholar.org/paper/f3ee25736dcdc1ddfd1feea3663b2d525a954169",
+      "title": "Learning to Learn for Few-shot Continual Active Learning",
+      "venue": "Artificial Intelligence Review",
+      "year": 2023,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2069288370",
+          "name": "Stella Ho"
+        },
+        {
+          "authorId": "2257342746",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2265626190",
+          "name": "Shang Gao"
+        },
+        {
+          "authorId": "2265626472",
+          "name": "Longxiang Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "a49e1b98079c68b7a359f1fe1e64869356871a19",
+      "publicationVenue": {
+        "id": "7431ff67-91dc-41fa-b322-1b1ca657025f",
+        "name": "International Conference on Information and Knowledge Management",
+        "type": "conference",
+        "alternate_names": [
+          "Conference on Information and Knowledge Management",
+          "Conf Inf Knowl Manag",
+          "Int Conf Inf Knowl Manag",
+          "CIKM"
+        ],
+        "url": "http://www.cikm.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a49e1b98079c68b7a359f1fe1e64869356871a19",
+      "title": "Semi-supervised Continual Learning with Meta Self-training",
+      "venue": "International Conference on Information and Knowledge Management",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2069288370",
+          "name": "Stella Ho"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "1723019",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "2110442735",
+          "name": "Yunfeng Li"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        },
+        {
+          "authorId": "2112313134",
+          "name": "Shang Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "3443a82babef57512473c3ea00733f05c607f522",
+      "publicationVenue": {
+        "id": "79c5a18d-0295-432c-aaa5-961d73de6d88",
+        "name": "IEEE Transactions on Neural Networks and Learning Systems",
+        "alternate_names": [
+          "IEEE Trans Neural Netw Learn Syst"
+        ],
+        "issn": "2162-237X",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=5962385",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3443a82babef57512473c3ea00733f05c607f522",
+      "title": "Prototype-Guided Memory Replay for Continual Learning",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2021,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2069288370",
+          "name": "Stella Ho"
+        },
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "1723019",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        },
+        {
+          "authorId": "2068334797",
+          "name": "Yong Xiang"
+        }
+      ]
+    },
+    {
+      "paperId": "a81e4c8e1e4a600fedebdcc0660e2912475f63f2",
+      "publicationVenue": {
+        "id": "bc946b89-5188-4a8f-b9b6-61b71dd9fccc",
+        "name": "Journal of Network and Computer Applications",
+        "type": "journal",
+        "alternate_names": [
+          "J Netw Comput Appl",
+          "Journal of Network Computing and Applications"
+        ],
+        "issn": "1084-8045",
+        "alternate_issns": [
+          "2371-9206"
+        ],
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622893/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-network-and-computer-applications",
+          "http://www.clausiuspress.com/journal/JNCA/",
+          "http://www.sciencedirect.com/science/journal/10848045"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a81e4c8e1e4a600fedebdcc0660e2912475f63f2",
+      "title": "DP-GAN: Differentially private consecutive data publishing using generative adversarial nets",
+      "venue": "Journal of Network and Computer Applications",
+      "year": 2021,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2069288370",
+          "name": "Stella Ho"
+        },
+        {
+          "authorId": "48557605",
+          "name": "Youyang Qu"
+        },
+        {
+          "authorId": "1845883203",
+          "name": "Bruce Gu"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        },
+        {
+          "authorId": "1492113939",
+          "name": "Jianxin Li"
+        },
+        {
+          "authorId": "2068334797",
+          "name": "Yong Xiang"
+        }
+      ]
+    },
+    {
+      "paperId": "b3394a5e96df1b5daa0e32cfd17259c6f543337d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b3394a5e96df1b5daa0e32cfd17259c6f543337d",
+      "title": "MAML-CL: Edited Model-Agnostic Meta-Learning for Continual Learning",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2287367059",
+          "name": "Marcin Andrychowicz"
+        },
+        {
+          "authorId": "1715051",
+          "name": "Misha Denil"
+        },
+        {
+          "authorId": "2287242738",
+          "name": "Sergio Gomez"
+        },
+        {
+          "authorId": "2287352789",
+          "name": "Col-579 menarejo"
+        },
+        {
+          "authorId": "2285961373",
+          "name": "Matt Hoffman"
+        },
+        {
+          "authorId": "2287410160",
+          "name": "David Pfau"
+        },
+        {
+          "authorId": "22235380",
+          "name": "Arslan Chaudhry"
+        },
+        {
+          "authorId": "1706809",
+          "name": "Marc'Aurelio Ranzato"
+        },
+        {
+          "authorId": "2261961752",
+          "name": "J. Devlin"
+        },
+        {
+          "authorId": "2262085555",
+          "name": "Ming-Wei Chang"
+        },
+        {
+          "authorId": "2262196473",
+          "name": "Kenton Lee"
+        },
+        {
+          "authorId": "2069288370",
+          "name": "Stella Ho"
+        },
+        {
+          "authorId": "2257342746",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2257310772",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "2265626472",
+          "name": "Longxiang Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "d1046df40324dadf8a08fb1fab5e316d8df9ad2d",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/d1046df40324dadf8a08fb1fab5e316d8df9ad2d",
+      "title": "Prototypes-Guided Memory Replay for Continual Learning",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2069288370",
+          "name": "Stella Ho"
+        },
+        {
+          "authorId": "2257342746",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2257310772",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        },
+        {
+          "authorId": "2068334797",
+          "name": "Yong Xiang"
+        }
+      ]
+    },
+    {
+      "paperId": "f0110d0f7e938038bc1305c4c243b2d631d32c39",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/f0110d0f7e938038bc1305c4c243b2d631d32c39",
+      "title": "Federated Learning Meets Natural Language Processing: A Survey",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 66,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112748109",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2069288370",
+          "name": "Stella Ho"
+        },
+        {
+          "authorId": "2145361994",
+          "name": "Mengqi Wang"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        },
+        {
+          "authorId": "2110894738",
+          "name": "Yuan Jin"
+        },
+        {
+          "authorId": "2153525636",
+          "name": "Heng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "ec00f3cbe3177ea2bff8b8c1eadf11a6881d5828",
+      "publicationVenue": {
+        "id": "24e5c42b-e7ca-4f5a-8ab0-a1933aaeee30",
+        "name": "International Conference on Algorithms and Architectures for Parallel Processing",
+        "type": "conference",
+        "alternate_names": [
+          "ICA3PP",
+          "Int Conf Algorithm Archit Parallel Process"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1266"
+      },
+      "url": "https://www.semanticscholar.org/paper/ec00f3cbe3177ea2bff8b8c1eadf11a6881d5828",
+      "title": "Generative Adversarial Nets Enhanced Continual Data Release Using Differential Privacy",
+      "venue": "International Conference on Algorithms and Architectures for Parallel Processing",
+      "year": 2019,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2069288370",
+          "name": "Stella Ho"
+        },
+        {
+          "authorId": "48557605",
+          "name": "Youyang Qu"
+        },
+        {
+          "authorId": "2620563",
+          "name": "Longxiang Gao"
+        },
+        {
+          "authorId": "47785906",
+          "name": "Jianxin Li"
+        },
+        {
+          "authorId": "2068334797",
+          "name": "Yong Xiang"
+        }
+      ]
+    }
+  ]
+}

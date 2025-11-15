@@ -1,0 +1,938 @@
+{
+  "authorId": "2108692967",
+  "name": "Yufen Huang",
+  "affiliations": [],
+  "paperCount": 16,
+  "citationCount": 458,
+  "hIndex": 12,
+  "papers": [
+    {
+      "paperId": "0b5b753aa23be12f24b4592429514df6e53289bc",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0b5b753aa23be12f24b4592429514df6e53289bc",
+      "title": "Structure-CLIP: Towards Scene Graph Knowledge to Enhance Multi-Modal Structured Representations",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2023,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "11713158",
+          "name": "Jiji Tang"
+        },
+        {
+          "authorId": "2283992213",
+          "name": "Zhuo Chen"
+        },
+        {
+          "authorId": "48263731",
+          "name": "Rongsheng Zhang"
+        },
+        {
+          "authorId": "2144483344",
+          "name": "Xinfeng Zhang"
+        },
+        {
+          "authorId": "2109956572",
+          "name": "Weijie Chen"
+        },
+        {
+          "authorId": "2116254446",
+          "name": "Zeng Zhao"
+        },
+        {
+          "authorId": "2233441139",
+          "name": "Zhou Zhao"
+        },
+        {
+          "authorId": "80892810",
+          "name": "Tangjie Lv"
+        },
+        {
+          "authorId": "2111297060",
+          "name": "Zhipeng Hu"
+        },
+        {
+          "authorId": "2155281129",
+          "name": "Wen Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "354b651dbc3ba2af4c3785ccbecd3df0585d30b2",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/354b651dbc3ba2af4c3785ccbecd3df0585d30b2",
+      "title": "Analogical Inference Enhanced Knowledge Graph Embedding",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2023,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2113322859",
+          "name": "Zhen Yao"
+        },
+        {
+          "authorId": "2155281129",
+          "name": "Wen Zhang"
+        },
+        {
+          "authorId": "2134563447",
+          "name": "Mingyang Chen"
+        },
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "7607499",
+          "name": "Yezhou Yang"
+        },
+        {
+          "authorId": "14499025",
+          "name": "Hua-zeng Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "379b4d871cebf431208154adaaff7ea946b2bb38",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/379b4d871cebf431208154adaaff7ea946b2bb38",
+      "title": "Structure-CLIP: Enhance Multi-modal Language Representations with Structure Knowledge",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "11713158",
+          "name": "Jiji Tang"
+        },
+        {
+          "authorId": "2283992213",
+          "name": "Zhuo Chen"
+        },
+        {
+          "authorId": "48263731",
+          "name": "Rongsheng Zhang"
+        },
+        {
+          "authorId": "2144483344",
+          "name": "Xinfeng Zhang"
+        },
+        {
+          "authorId": "2109956572",
+          "name": "Weijie Chen"
+        },
+        {
+          "authorId": "2116254446",
+          "name": "Zeng Zhao"
+        },
+        {
+          "authorId": "80892810",
+          "name": "Tangjie Lv"
+        },
+        {
+          "authorId": "2111297060",
+          "name": "Zhipeng Hu"
+        },
+        {
+          "authorId": "2155281129",
+          "name": "Wen Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "c7f1c0330abe3506d98b4262899a60c9dc5db2b8",
+      "publicationVenue": {
+        "id": "e07422f9-c065-40c3-a37b-75e98dce79fe",
+        "name": "The Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Conf",
+          "WWW"
+        ],
+        "url": "http://www.iw3c2.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c7f1c0330abe3506d98b4262899a60c9dc5db2b8",
+      "title": "Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer",
+      "venue": "The Web Conference",
+      "year": 2023,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2155281129",
+          "name": "Wen Zhang"
+        },
+        {
+          "authorId": "2145160040",
+          "name": "Yushan Zhu"
+        },
+        {
+          "authorId": "48622851",
+          "name": "Mingyang Chen"
+        },
+        {
+          "authorId": "152683218",
+          "name": "Yuxia Geng"
+        },
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "2156549998",
+          "name": "Yajing Xu"
+        },
+        {
+          "authorId": "2174740491",
+          "name": "Wenting Song"
+        },
+        {
+          "authorId": "14499025",
+          "name": "Hua-zeng Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "13d8ce3d2ac01cc5e108c1b89e79049428a53ad5",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/13d8ce3d2ac01cc5e108c1b89e79049428a53ad5",
+      "title": "DUET: Cross-modal Semantic Grounding for Contrastive Zero-shot Learning",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2022,
+      "citationCount": 60,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2283992213",
+          "name": "Zhuo Chen"
+        },
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "1731892",
+          "name": "Jiaoyan Chen"
+        },
+        {
+          "authorId": "152683218",
+          "name": "Yuxia Geng"
+        },
+        {
+          "authorId": "2155281129",
+          "name": "Wen Zhang"
+        },
+        {
+          "authorId": "2112787103",
+          "name": "Yin Fang"
+        },
+        {
+          "authorId": "9416872",
+          "name": "Jeff Z. Pan"
+        },
+        {
+          "authorId": "2174740491",
+          "name": "Wenting Song"
+        },
+        {
+          "authorId": "49178307",
+          "name": "Huajun Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "220ee63042d1c6301264dcb4d9b4687913683356",
+      "publicationVenue": {
+        "id": "8dce23a9-44e0-4381-a39e-2acc1edff700",
+        "name": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+          "Int ACM SIGIR Conf Res Dev Inf Retr",
+          "SIGIR",
+          "Annu Int ACM SIGIR Conf Res Dev Inf Retr"
+        ],
+        "url": "http://www.acm.org/sigir/"
+      },
+      "url": "https://www.semanticscholar.org/paper/220ee63042d1c6301264dcb4d9b4687913683356",
+      "title": "NeuralKG: An Open Source Library for Diverse Representation Learning of Knowledge Graphs",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2022,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2155281129",
+          "name": "Wen Zhang"
+        },
+        {
+          "authorId": "2143735289",
+          "name": "Xian-gan Chen"
+        },
+        {
+          "authorId": "2113322859",
+          "name": "Zhen Yao"
+        },
+        {
+          "authorId": "2134563447",
+          "name": "Mingyang Chen"
+        },
+        {
+          "authorId": "2145160040",
+          "name": "Yushan Zhu"
+        },
+        {
+          "authorId": "2156549538",
+          "name": "Hongtao Yu"
+        },
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "2136396192",
+          "name": "Zezhong Xu"
+        },
+        {
+          "authorId": "2156549998",
+          "name": "Yajing Xu"
+        },
+        {
+          "authorId": "2608639",
+          "name": "Ningyu Zhang"
+        },
+        {
+          "authorId": "1617854355",
+          "name": "Zonggang Yuan"
+        },
+        {
+          "authorId": "2068169902",
+          "name": "Feiyu Xiong"
+        },
+        {
+          "authorId": "49178307",
+          "name": "Huajun Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "2600a4f2e0739db3dceda31cc09f353ab3070b76",
+      "publicationVenue": {
+        "id": "764e3630-ddac-4c21-af4b-9d32ffef082e",
+        "name": "IEEE International Conference on Data Engineering",
+        "type": "conference",
+        "alternate_names": [
+          "ICDE",
+          "Int Conf Data Eng",
+          "IEEE Int Conf Data Eng",
+          "International Conference on Data Engineering"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1331"
+      },
+      "url": "https://www.semanticscholar.org/paper/2600a4f2e0739db3dceda31cc09f353ab3070b76",
+      "title": "Tele-Knowledge Pre-training for Fault Analysis",
+      "venue": "IEEE International Conference on Data Engineering",
+      "year": 2022,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2283992213",
+          "name": "Zhuo Chen"
+        },
+        {
+          "authorId": "2155281129",
+          "name": "Wen Zhang"
+        },
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "48622851",
+          "name": "Mingyang Chen"
+        },
+        {
+          "authorId": "152683218",
+          "name": "Yuxia Geng"
+        },
+        {
+          "authorId": "2156549538",
+          "name": "Hongtao Yu"
+        },
+        {
+          "authorId": "2059276046",
+          "name": "Zhen Bi"
+        },
+        {
+          "authorId": "2118158068",
+          "name": "Yichi Zhang"
+        },
+        {
+          "authorId": "2113322859",
+          "name": "Zhen Yao"
+        },
+        {
+          "authorId": "2174740491",
+          "name": "Wenting Song"
+        },
+        {
+          "authorId": "2188345256",
+          "name": "Xinliang Wu"
+        },
+        {
+          "authorId": "7607499",
+          "name": "Yezhou Yang"
+        },
+        {
+          "authorId": "2115186173",
+          "name": "Song Jiang"
+        },
+        {
+          "authorId": "2091642785",
+          "name": "Zhaoyang Lian"
+        },
+        {
+          "authorId": "1687893",
+          "name": "Y. Li"
+        },
+        {
+          "authorId": "14499025",
+          "name": "Hua-zeng Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "2978e7e2159549b9b6be5a6d0fa456bb902aeed1",
+      "publicationVenue": {
+        "id": "f2c85de5-7cfa-4b92-8714-a0fbdcf0274e",
+        "name": "ACM Multimedia",
+        "type": "conference",
+        "alternate_names": [
+          "MM"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2978e7e2159549b9b6be5a6d0fa456bb902aeed1",
+      "title": "MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid",
+      "venue": "ACM Multimedia",
+      "year": 2022,
+      "citationCount": 48,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2283992213",
+          "name": "Zhuo Chen"
+        },
+        {
+          "authorId": "1731892",
+          "name": "Jiaoyan Chen"
+        },
+        {
+          "authorId": "2155281129",
+          "name": "Wen Zhang"
+        },
+        {
+          "authorId": "80232698",
+          "name": "Lingbing Guo"
+        },
+        {
+          "authorId": "2112787103",
+          "name": "Yin Fang"
+        },
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "2261895451",
+          "name": "Yichi Zhang"
+        },
+        {
+          "authorId": "152683218",
+          "name": "Yuxia Geng"
+        },
+        {
+          "authorId": "9416872",
+          "name": "Jeff Z. Pan"
+        },
+        {
+          "authorId": "2174740491",
+          "name": "Wenting Song"
+        },
+        {
+          "authorId": "14499025",
+          "name": "Hua-zeng Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "4ef3f312f06109dec410353bb7ce20ac247eaafc",
+      "publicationVenue": {
+        "id": "3e64b1c1-745f-4edf-bd92-b8ef122bb49c",
+        "name": "International Conference on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Artif Neural Netw",
+          "ICANN"
+        ],
+        "url": "http://www.e-nns.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4ef3f312f06109dec410353bb7ce20ac247eaafc",
+      "title": "Target-Oriented Sentiment Classification with Sequential Cross-Modal Semantic Graph",
+      "venue": "International Conference on Artificial Neural Networks",
+      "year": 2022,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "2283992213",
+          "name": "Zhuo Chen"
+        },
+        {
+          "authorId": "1731892",
+          "name": "Jiaoyan Chen"
+        },
+        {
+          "authorId": "9416872",
+          "name": "Jeff Z. Pan"
+        },
+        {
+          "authorId": "2113322859",
+          "name": "Zhen Yao"
+        },
+        {
+          "authorId": "2155281129",
+          "name": "Wen Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "69ded2668b5e59a8ba43c640de2cb71154472290",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/69ded2668b5e59a8ba43c640de2cb71154472290",
+      "title": "LaKo: Knowledge-driven Visual Question Answering via Late Knowledge-to-Text Injection",
+      "venue": "IJCKG",
+      "year": 2022,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2283992213",
+          "name": "Zhuo Chen"
+        },
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "1731892",
+          "name": "Jiaoyan Chen"
+        },
+        {
+          "authorId": "152683218",
+          "name": "Yuxia Geng"
+        },
+        {
+          "authorId": "2112787103",
+          "name": "Yin Fang"
+        },
+        {
+          "authorId": "9416872",
+          "name": "Jeff Z. Pan"
+        },
+        {
+          "authorId": "2153010067",
+          "name": "Ningyu Zhang"
+        },
+        {
+          "authorId": "2155281129",
+          "name": "Wen Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "94491abe7b0d2de9435eef7907c089af5d4fe575",
+      "publicationVenue": {
+        "id": "a0edb93b-1e95-4128-a295-6b1659149cef",
+        "name": "Knowledge Discovery and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "KDD",
+          "Knowl Discov Data Min"
+        ],
+        "url": "http://www.acm.org/sigkdd/"
+      },
+      "url": "https://www.semanticscholar.org/paper/94491abe7b0d2de9435eef7907c089af5d4fe575",
+      "title": "Disentangled Ontology Embedding for Zero-shot Learning",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2022,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152683218",
+          "name": "Yuxia Geng"
+        },
+        {
+          "authorId": "1731892",
+          "name": "Jiaoyan Chen"
+        },
+        {
+          "authorId": "2155281129",
+          "name": "Wen Zhang"
+        },
+        {
+          "authorId": "2156549998",
+          "name": "Yajing Xu"
+        },
+        {
+          "authorId": "2283992213",
+          "name": "Zhuo Chen"
+        },
+        {
+          "authorId": "9416872",
+          "name": "Jeff Z. Pan"
+        },
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "2068169902",
+          "name": "Feiyu Xiong"
+        },
+        {
+          "authorId": "14499025",
+          "name": "Hua-zeng Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "fb7ed529fec665450925f9a75129cb69be83b67a",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/fb7ed529fec665450925f9a75129cb69be83b67a",
+      "title": "Aspect-based Sentiment Classification with Sequential Cross-modal Semantic Graph",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "2283992213",
+          "name": "Zhuo Chen"
+        },
+        {
+          "authorId": "2155281129",
+          "name": "Wen Zhang"
+        },
+        {
+          "authorId": "1731892",
+          "name": "Jiaoyan Chen"
+        },
+        {
+          "authorId": "9416872",
+          "name": "Jeff Z. Pan"
+        },
+        {
+          "authorId": "2113322859",
+          "name": "Zhen Yao"
+        },
+        {
+          "authorId": "2118597015",
+          "name": "Yujie Xie"
+        },
+        {
+          "authorId": "14499025",
+          "name": "Hua-zeng Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "2547ec94bb9deaa22348798228e3802a58942cc9",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/2547ec94bb9deaa22348798228e3802a58942cc9",
+      "title": "FedNLP: A Research Platform for Federated Learning in Natural Language Processing",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 51,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "31927890",
+          "name": "Chaoyang He"
+        },
+        {
+          "authorId": "2075413447",
+          "name": "ZiHang Zeng"
+        },
+        {
+          "authorId": "2109580364",
+          "name": "Hulin Wang"
+        },
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "2766123",
+          "name": "M. Soltanolkotabi"
+        },
+        {
+          "authorId": "145201124",
+          "name": "Xiang Ren"
+        },
+        {
+          "authorId": "121011351",
+          "name": "S. Avestimehr"
+        }
+      ]
+    },
+    {
+      "paperId": "a55c399bbb0382650459da59fc545f2dd275012b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a55c399bbb0382650459da59fc545f2dd275012b",
+      "title": "FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks",
+      "venue": "NAACL-HLT",
+      "year": 2021,
+      "citationCount": 102,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2087126470",
+          "name": "Chaoyang He"
+        },
+        {
+          "authorId": "2075413447",
+          "name": "ZiHang Zeng"
+        },
+        {
+          "authorId": "2109580364",
+          "name": "Hulin Wang"
+        },
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "2766123",
+          "name": "M. Soltanolkotabi"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        },
+        {
+          "authorId": "121011351",
+          "name": "S. Avestimehr"
+        }
+      ]
+    },
+    {
+      "paperId": "b9a22b4aeb7b19917b786d40824e5d231a178404",
+      "publicationVenue": {
+        "id": "b189dec0-41d0-4cea-a906-7c5186895904",
+        "name": "Global Communications Conference",
+        "type": "conference",
+        "alternate_names": [
+          "GLOBECOM",
+          "Glob Commun Conf"
+        ],
+        "url": "http://www.ieee-globecom.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b9a22b4aeb7b19917b786d40824e5d231a178404",
+      "title": "Graph Attention Spatial-Temporal Network for Deep Learning Based Mobile Traffic Prediction",
+      "venue": "Global Communications Conference",
+      "year": 2019,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1516152315",
+          "name": "Kaiwen He"
+        },
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "1712187180",
+          "name": "Xu Chen"
+        },
+        {
+          "authorId": "145447664",
+          "name": "Zhi Zhou"
+        },
+        {
+          "authorId": "1400255085",
+          "name": "Shuai Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "1bee1ca94b821c4c95090d9999aeed8864f190ea",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1bee1ca94b821c4c95090d9999aeed8864f190ea",
+      "title": "FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks",
+      "venue": "",
+      "year": null,
+      "citationCount": 31,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "31927890",
+          "name": "Chaoyang He"
+        },
+        {
+          "authorId": "2075413447",
+          "name": "ZiHang Zeng"
+        },
+        {
+          "authorId": "2109580364",
+          "name": "Hulin Wang"
+        },
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "34866641",
+          "name": "Christophe Dupuy"
+        },
+        {
+          "authorId": "145542597",
+          "name": "Rahul Gupta"
+        },
+        {
+          "authorId": "2766123",
+          "name": "M. Soltanolkotabi"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        },
+        {
+          "authorId": "121011351",
+          "name": "S. Avestimehr"
+        }
+      ]
+    }
+  ]
+}

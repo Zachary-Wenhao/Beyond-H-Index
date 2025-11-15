@@ -1,0 +1,812 @@
+{
+  "authorId": "2073055",
+  "name": "Marzieh Saeidi",
+  "affiliations": [],
+  "paperCount": 18,
+  "citationCount": 629,
+  "hIndex": 9,
+  "papers": [
+    {
+      "paperId": "844eadd414544f4a94513b7786d00b9ed880af58",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/844eadd414544f4a94513b7786d00b9ed880af58",
+      "title": "Automated Fact-Checking in Dialogue: Are Specialized Models Needed?",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2266466472",
+          "name": "Eric Chamoun"
+        },
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "2266465838",
+          "name": "Andreas Vlachos"
+        }
+      ]
+    },
+    {
+      "paperId": "a393c5dc8e1f29862ec4e3ef5e7303c210c0c9c1",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a393c5dc8e1f29862ec4e3ef5e7303c210c0c9c1",
+      "title": "TimelineQA: A Benchmark for Question Answering over Timelines",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "34582619",
+          "name": "W. Tan"
+        },
+        {
+          "authorId": "2284686652",
+          "name": "Jane Dwivedi-Yu"
+        },
+        {
+          "authorId": "47001493",
+          "name": "Yuliang Li"
+        },
+        {
+          "authorId": "36299222",
+          "name": "Lambert Mathias"
+        },
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "2197542594",
+          "name": "J. Yan"
+        },
+        {
+          "authorId": "1770962",
+          "name": "A. Halevy"
+        }
+      ]
+    },
+    {
+      "paperId": "47d567d0d102820465635a7638222abc533109bc",
+      "publicationVenue": {
+        "id": "3afb600a-49ad-40aa-858c-081def027584",
+        "name": "Workshop on Biomedical Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "BioNLP",
+          "Workshop Biomed Nat Lang Process"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/47d567d0d102820465635a7638222abc533109bc",
+      "title": "Explainable Assessment of Healthcare Articles with QA",
+      "venue": "Workshop on Biomedical Natural Language Processing",
+      "year": 2022,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2165225601",
+          "name": "Alodie Boissonnet"
+        },
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "1798301",
+          "name": "Vassilis Plachouras"
+        },
+        {
+          "authorId": "2064056928",
+          "name": "Andreas Vlachos"
+        }
+      ]
+    },
+    {
+      "paperId": "54194a4ffd863d5925536cd68243b93095668c3d",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/54194a4ffd863d5925536cd68243b93095668c3d",
+      "title": "RQUGE: Reference-Free Metric for Evaluating Question Generation by Answering the Question",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "14053369",
+          "name": "Alireza Mohammadshahi"
+        },
+        {
+          "authorId": "2073456043",
+          "name": "Thomas Scialom"
+        },
+        {
+          "authorId": "69910001",
+          "name": "Majid Yazdani"
+        },
+        {
+          "authorId": "1878989",
+          "name": "Pouya Yanki"
+        },
+        {
+          "authorId": "144270981",
+          "name": "Angela Fan"
+        },
+        {
+          "authorId": "46712043",
+          "name": "J. Henderson"
+        },
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        }
+      ]
+    },
+    {
+      "paperId": "6197d4e544ec34e6f2e873830ec066895bf1a830",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6197d4e544ec34e6f2e873830ec066895bf1a830",
+      "title": "Prompt-free and Efficient Few-shot Learning with Language Models",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 69,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2363901",
+          "name": "Rabeeh Karimi Mahabadi"
+        },
+        {
+          "authorId": "1982950",
+          "name": "Luke Zettlemoyer"
+        },
+        {
+          "authorId": "46712043",
+          "name": "J. Henderson"
+        },
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "36299222",
+          "name": "Lambert Mathias"
+        },
+        {
+          "authorId": "1389924486",
+          "name": "Ves Stoyanov"
+        },
+        {
+          "authorId": "69910001",
+          "name": "Majid Yazdani"
+        }
+      ]
+    },
+    {
+      "paperId": "f57634f45693f30d39f27b025023da1725945dc6",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/f57634f45693f30d39f27b025023da1725945dc6",
+      "title": "Policy Compliance Detection via Expression Tree Inference",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "41019457",
+          "name": "Neema Kotonya"
+        },
+        {
+          "authorId": "2064056928",
+          "name": "Andreas Vlachos"
+        },
+        {
+          "authorId": "69910001",
+          "name": "Majid Yazdani"
+        },
+        {
+          "authorId": "36299222",
+          "name": "Lambert Mathias"
+        },
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        }
+      ]
+    },
+    {
+      "paperId": "16529f7194bf7faee8a4e43fd54aefeb8730f236",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/16529f7194bf7faee8a4e43fd54aefeb8730f236",
+      "title": "Database reasoning over text",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 37,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2053211210",
+          "name": "James Thorne"
+        },
+        {
+          "authorId": "69910001",
+          "name": "Majid Yazdani"
+        },
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "144925193",
+          "name": "F. Silvestri"
+        },
+        {
+          "authorId": "48662861",
+          "name": "Sebastian Riedel"
+        },
+        {
+          "authorId": "1770962",
+          "name": "A. Halevy"
+        }
+      ]
+    },
+    {
+      "paperId": "2fd9ace0ff2e9ff40213f0524cf6ada9b18d56bb",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/2fd9ace0ff2e9ff40213f0524cf6ada9b18d56bb",
+      "title": "Cross-Policy Compliance Detection via Question Answering",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "69910001",
+          "name": "Majid Yazdani"
+        },
+        {
+          "authorId": "2064056928",
+          "name": "Andreas Vlachos"
+        }
+      ]
+    },
+    {
+      "paperId": "7ef33fd5b0ef0c4de42cf0afdc9f7dfb0f430b20",
+      "publicationVenue": {
+        "id": "fcbcaf18-8ab1-43e1-a973-604bbc7e344e",
+        "name": "Proceedings of the VLDB Endowment",
+        "type": "journal",
+        "alternate_names": [
+          "Proceedings of The Vldb Endowment",
+          "Proc VLDB Endow",
+          "Proc Vldb Endow"
+        ],
+        "issn": "2150-8097",
+        "url": "http://dl.acm.org/toc.cfm?id=J1174",
+        "alternate_urls": [
+          "http://portal.acm.org/toc.cfm?CFID=21632689&CFTOKEN=99329904&WantType=Affiliated%20Organizations&coll=ACM&dl=ACM&id=J1174&idx=J1174&part=affil&title=VLDB%20Endowment&type=periodical"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7ef33fd5b0ef0c4de42cf0afdc9f7dfb0f430b20",
+      "title": "From Natural Language Processing to Neural Databases",
+      "venue": "Proceedings of the VLDB Endowment",
+      "year": 2021,
+      "citationCount": 51,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2053211210",
+          "name": "James Thorne"
+        },
+        {
+          "authorId": "69910001",
+          "name": "Majid Yazdani"
+        },
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "144925193",
+          "name": "F. Silvestri"
+        },
+        {
+          "authorId": "48662861",
+          "name": "Sebastian Riedel"
+        },
+        {
+          "authorId": "1770962",
+          "name": "A. Halevy"
+        }
+      ]
+    },
+    {
+      "paperId": "67678935a4cf559762f28e2bfcaa400865e27b84",
+      "publicationVenue": {
+        "id": "4d9ce1c4-dc84-46b9-903e-e3751c00c7dd",
+        "name": "Communications of the ACM",
+        "type": "journal",
+        "alternate_names": [
+          "Commun ACM",
+          "Communications of The ACM"
+        ],
+        "issn": "0001-0782",
+        "url": "http://www.acm.org/pubs/cacm/",
+        "alternate_urls": [
+          "http://portal.acm.org/cacm",
+          "http://www.acm.org/pubs/contents/journals/cacm/",
+          "https://cacm.acm.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/67678935a4cf559762f28e2bfcaa400865e27b84",
+      "title": "Preserving integrity in online social networks",
+      "venue": "Communications of the ACM",
+      "year": 2020,
+      "citationCount": 54,
+      "fieldsOfStudy": [
+        "Business",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1770962",
+          "name": "A. Halevy"
+        },
+        {
+          "authorId": "66286536",
+          "name": "Cristian Cant\u00f3n Ferrer"
+        },
+        {
+          "authorId": "2110819015",
+          "name": "Hao Ma"
+        },
+        {
+          "authorId": "2066649585",
+          "name": "Umut Ozertem"
+        },
+        {
+          "authorId": "1990190",
+          "name": "Patrick Pantel"
+        },
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "144925193",
+          "name": "F. Silvestri"
+        },
+        {
+          "authorId": "1389924486",
+          "name": "Ves Stoyanov"
+        }
+      ]
+    },
+    {
+      "paperId": "7caa09a7fb9369087dea8b216af5f14e0d41c7a9",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/7caa09a7fb9369087dea8b216af5f14e0d41c7a9",
+      "title": "Generating Fact Checking Briefs",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 57,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144270981",
+          "name": "Angela Fan"
+        },
+        {
+          "authorId": "120174856",
+          "name": "Aleksandra Piktus"
+        },
+        {
+          "authorId": "40052301",
+          "name": "F. Petroni"
+        },
+        {
+          "authorId": "2293203",
+          "name": "Guillaume Wenzek"
+        },
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "2064056928",
+          "name": "Andreas Vlachos"
+        },
+        {
+          "authorId": "1713934",
+          "name": "Antoine Bordes"
+        },
+        {
+          "authorId": "48662861",
+          "name": "Sebastian Riedel"
+        }
+      ]
+    },
+    {
+      "paperId": "a20712b1b9779ee43ce143a19b3f67f0cacbbf57",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/a20712b1b9779ee43ce143a19b3f67f0cacbbf57",
+      "title": "Neural Databases",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2053211210",
+          "name": "James Thorne"
+        },
+        {
+          "authorId": "69910001",
+          "name": "Majid Yazdani"
+        },
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "144925193",
+          "name": "F. Silvestri"
+        },
+        {
+          "authorId": "48662861",
+          "name": "Sebastian Riedel"
+        },
+        {
+          "authorId": "1770962",
+          "name": "A. Halevy"
+        }
+      ]
+    },
+    {
+      "paperId": "cd832f7081ab7b83240140c4e5e58b4fb1f8e0e6",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/cd832f7081ab7b83240140c4e5e58b4fb1f8e0e6",
+      "title": "Interpretation of Natural Language Rules in Conversational Machine Reading",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 158,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "153408953",
+          "name": "Max Bartolo"
+        },
+        {
+          "authorId": "145222654",
+          "name": "Patrick Lewis"
+        },
+        {
+          "authorId": "34650964",
+          "name": "Sameer Singh"
+        },
+        {
+          "authorId": "2620211",
+          "name": "Tim Rockt\u00e4schel"
+        },
+        {
+          "authorId": "2052256450",
+          "name": "Mike Sheldon"
+        },
+        {
+          "authorId": "1684865",
+          "name": "Guillaume Bouchard"
+        },
+        {
+          "authorId": "48662861",
+          "name": "Sebastian Riedel"
+        }
+      ]
+    },
+    {
+      "paperId": "a08cc190038e929916e22916fb032ac2a20e77df",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/a08cc190038e929916e22916fb032ac2a20e77df",
+      "title": "Community Question Answering Platforms vs. Twitter for Predicting Characteristics of Urban Neighbourhoods",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "3218884",
+          "name": "A. Venerandi"
+        },
+        {
+          "authorId": "47809306",
+          "name": "L. Capra"
+        },
+        {
+          "authorId": "48662861",
+          "name": "Sebastian Riedel"
+        }
+      ]
+    },
+    {
+      "paperId": "a96be520810c1e593c9a06c78bf091af68663c52",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a96be520810c1e593c9a06c78bf091af68663c52",
+      "title": "The Effect of Negative Sampling Strategy on Capturing Semantic Similarity in Document Embeddings",
+      "venue": "SemDeep@IWCS",
+      "year": 2017,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "40981537",
+          "name": "Ritwik Kulkarni"
+        },
+        {
+          "authorId": "1798997",
+          "name": "Theodosia Togia"
+        },
+        {
+          "authorId": "34568632",
+          "name": "M. Sama"
+        }
+      ]
+    },
+    {
+      "paperId": "063ad0349f05c8aacbbb653ffcf01047a293fa30",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/063ad0349f05c8aacbbb653ffcf01047a293fa30",
+      "title": "SentiHood: Targeted Aspect Based Sentiment Analysis Dataset for Urban Neighbourhoods",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2016,
+      "citationCount": 139,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "1684865",
+          "name": "Guillaume Bouchard"
+        },
+        {
+          "authorId": "1991548",
+          "name": "Maria Liakata"
+        },
+        {
+          "authorId": "48662861",
+          "name": "Sebastian Riedel"
+        }
+      ]
+    },
+    {
+      "paperId": "786e30a7a30d6456ec48576c3aed934c545650af",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/786e30a7a30d6456ec48576c3aed934c545650af",
+      "title": "Lower Dimensional Representations of City Neighbourhoods",
+      "venue": "AAAI Workshop: AI for Cities",
+      "year": 2015,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Geography",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "48662861",
+          "name": "Sebastian Riedel"
+        },
+        {
+          "authorId": "47809306",
+          "name": "L. Capra"
+        }
+      ]
+    },
+    {
+      "paperId": "fcd09e75069666d74b252b8fbfbe7ef80fef4aed",
+      "publicationVenue": {
+        "id": "bc5a5118-8f5c-49c7-806e-fb8d44c10ae7",
+        "name": "International Conference on Neural Information Processing",
+        "type": "conference",
+        "alternate_names": [
+          "ICONIP",
+          "Int Conf Neural Inf Process"
+        ],
+        "url": "https://link.springer.com/conference/iconip"
+      },
+      "url": "https://www.semanticscholar.org/paper/fcd09e75069666d74b252b8fbfbe7ef80fef4aed",
+      "title": "A Novel Application of Particle Swarm Optimisation to Optimal Trade Execution",
+      "venue": "International Conference on Neural Information Processing",
+      "year": 2013,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2073055",
+          "name": "Marzieh Saeidi"
+        },
+        {
+          "authorId": "2450288",
+          "name": "D. Gorse"
+        }
+      ]
+    }
+  ]
+}

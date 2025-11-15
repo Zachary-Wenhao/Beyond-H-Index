@@ -1,0 +1,849 @@
+{
+  "authorId": "1516120843",
+  "name": "Tony Sun",
+  "affiliations": [],
+  "paperCount": 7,
+  "citationCount": 1056,
+  "hIndex": 6,
+  "papers": [
+    {
+      "paperId": "71c47c2a170b68f93b73fc15249d667bde8bbb74",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/71c47c2a170b68f93b73fc15249d667bde8bbb74",
+      "title": "Learning to Prioritize: Precision-Driven Sentence Filtering for Long Text Summarization",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2185480449",
+          "name": "Alex Mei"
+        },
+        {
+          "authorId": "2104456950",
+          "name": "Anisha Kabir"
+        },
+        {
+          "authorId": "2185477202",
+          "name": "Rukmini Bapat"
+        },
+        {
+          "authorId": "144955737",
+          "name": "J. Judge"
+        },
+        {
+          "authorId": "1516120843",
+          "name": "Tony Sun"
+        },
+        {
+          "authorId": "1682479",
+          "name": "William Yang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "89daa253cfd707958b1539ec4d8ea9664e8ceb7d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/89daa253cfd707958b1539ec4d8ea9664e8ceb7d",
+      "title": "NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation",
+      "venue": "NEJLT",
+      "year": 2021,
+      "citationCount": 85,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "4834571",
+          "name": "Kaustubh D. Dhole"
+        },
+        {
+          "authorId": "2126048085",
+          "name": "Varun Gangal"
+        },
+        {
+          "authorId": "3159346",
+          "name": "Sebastian Gehrmann"
+        },
+        {
+          "authorId": "2117881119",
+          "name": "Aadesh Gupta"
+        },
+        {
+          "authorId": "2109641161",
+          "name": "Zhenhao Li"
+        },
+        {
+          "authorId": "2221260",
+          "name": "Saad Mahamood"
+        },
+        {
+          "authorId": "2143239611",
+          "name": "Abinaya Mahendiran"
+        },
+        {
+          "authorId": "2738095",
+          "name": "Simon Mille"
+        },
+        {
+          "authorId": "2149057810",
+          "name": "Ashish Srivastava"
+        },
+        {
+          "authorId": "145814654",
+          "name": "Samson Tan"
+        },
+        {
+          "authorId": "35232494",
+          "name": "Tongshuang Sherry Wu"
+        },
+        {
+          "authorId": "1407546424",
+          "name": "Jascha Narain Sohl-Dickstein"
+        },
+        {
+          "authorId": "4724587",
+          "name": "Jinho D. Choi"
+        },
+        {
+          "authorId": "144547315",
+          "name": "E. Hovy"
+        },
+        {
+          "authorId": "2544049",
+          "name": "Ondrej Dusek"
+        },
+        {
+          "authorId": "2884561",
+          "name": "Sebastian Ruder"
+        },
+        {
+          "authorId": "51177395",
+          "name": "Sajant Anand"
+        },
+        {
+          "authorId": "2120944179",
+          "name": "Nagender Aneja"
+        },
+        {
+          "authorId": "2004401966",
+          "name": "Rabin Banjade"
+        },
+        {
+          "authorId": "2143209697",
+          "name": "Lisa Barthe"
+        },
+        {
+          "authorId": "2120816277",
+          "name": "Hanna Behnke"
+        },
+        {
+          "authorId": "2008209159",
+          "name": "Ian Berlot-Attwell"
+        },
+        {
+          "authorId": "2143195008",
+          "name": "Connor Boyle"
+        },
+        {
+          "authorId": "144077303",
+          "name": "C. Brun"
+        },
+        {
+          "authorId": "35664665",
+          "name": "Marco Antonio Sobrevilla Cabezudo"
+        },
+        {
+          "authorId": "2220548276",
+          "name": "Samuel Cahyawijaya"
+        },
+        {
+          "authorId": "1500370105",
+          "name": "E. Chapuis"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "2137411021",
+          "name": "Mukund Choudhary"
+        },
+        {
+          "authorId": "144365563",
+          "name": "C. Clauss"
+        },
+        {
+          "authorId": "46985469",
+          "name": "Pierre Colombo"
+        },
+        {
+          "authorId": "2075244395",
+          "name": "Filip Cornell"
+        },
+        {
+          "authorId": "67175437",
+          "name": "Gautier Dagan"
+        },
+        {
+          "authorId": "50378124",
+          "name": "M. Das"
+        },
+        {
+          "authorId": "2126503480",
+          "name": "Tanay Dixit"
+        },
+        {
+          "authorId": "2029664438",
+          "name": "Thomas Dopierre"
+        },
+        {
+          "authorId": "1502219404",
+          "name": "Paul-Alexis Dray"
+        },
+        {
+          "authorId": "2143210168",
+          "name": "Suchitra Dubey"
+        },
+        {
+          "authorId": "72123796",
+          "name": "Tatiana Ekeinhor"
+        },
+        {
+          "authorId": "49474509",
+          "name": "Marco Di Giovanni"
+        },
+        {
+          "authorId": "2109271927",
+          "name": "Rishabh Gupta"
+        },
+        {
+          "authorId": "2143210719",
+          "name": "Louanes Hamla"
+        },
+        {
+          "authorId": "2115652956",
+          "name": "Sanghyun Han"
+        },
+        {
+          "authorId": "2265061254",
+          "name": "Fabrice Harel-Canada"
+        },
+        {
+          "authorId": "133606608",
+          "name": "A. Honor\u00e9"
+        },
+        {
+          "authorId": "144377686",
+          "name": "Ishan Jindal"
+        },
+        {
+          "authorId": "2143200341",
+          "name": "Przemyslaw K. Joniak"
+        },
+        {
+          "authorId": "1879099",
+          "name": "D. Kleyko"
+        },
+        {
+          "authorId": "3455255",
+          "name": "Venelin Kovatchev"
+        },
+        {
+          "authorId": "26161085",
+          "name": "Kalpesh Krishna"
+        },
+        {
+          "authorId": "47311093",
+          "name": "Ashutosh Kumar"
+        },
+        {
+          "authorId": "46626086",
+          "name": "Stefan Langer"
+        },
+        {
+          "authorId": "2108155442",
+          "name": "S. Lee"
+        },
+        {
+          "authorId": "2047371698",
+          "name": "Corey J. Levinson"
+        },
+        {
+          "authorId": "102647965",
+          "name": "H.-J. Liang"
+        },
+        {
+          "authorId": "102461072",
+          "name": "Kaizhao Liang"
+        },
+        {
+          "authorId": "2116080457",
+          "name": "Zhexiong Liu"
+        },
+        {
+          "authorId": "145084419",
+          "name": "Andrey Lukyanenko"
+        },
+        {
+          "authorId": "1841137457",
+          "name": "V. Marivate"
+        },
+        {
+          "authorId": "144608002",
+          "name": "Gerard de Melo"
+        },
+        {
+          "authorId": "73723438",
+          "name": "Simon Meoni"
+        },
+        {
+          "authorId": "2113467590",
+          "name": "Maxime Meyer"
+        },
+        {
+          "authorId": "2143195526",
+          "name": "Afnan Mir"
+        },
+        {
+          "authorId": "2182290",
+          "name": "N. Moosavi"
+        },
+        {
+          "authorId": "2037383772",
+          "name": "Niklas Muennighoff"
+        },
+        {
+          "authorId": "2143209517",
+          "name": "Timothy Sum Hon Mun"
+        },
+        {
+          "authorId": "7902590",
+          "name": "Kenton W. Murray"
+        },
+        {
+          "authorId": "134442417",
+          "name": "Marcin Namysl"
+        },
+        {
+          "authorId": "1581957588",
+          "name": "Maria Obedkova"
+        },
+        {
+          "authorId": "2051972539",
+          "name": "Priti Oli"
+        },
+        {
+          "authorId": "1379775644",
+          "name": "Nivranshu Pasricha"
+        },
+        {
+          "authorId": "2117567804",
+          "name": "Jan Pfister"
+        },
+        {
+          "authorId": "3516073",
+          "name": "Richard Plant"
+        },
+        {
+          "authorId": "2670978",
+          "name": "Vinay Uday Prabhu"
+        },
+        {
+          "authorId": "1723144442",
+          "name": "V. Pais"
+        },
+        {
+          "authorId": null,
+          "name": "Libo Qin"
+        },
+        {
+          "authorId": "1490966668",
+          "name": "Shahab Raji"
+        },
+        {
+          "authorId": "2143241321",
+          "name": "P. Rajpoot"
+        },
+        {
+          "authorId": "24025563",
+          "name": "Vikas Raunak"
+        },
+        {
+          "authorId": "2051503911",
+          "name": "Roy Rinberg"
+        },
+        {
+          "authorId": "107589418",
+          "name": "N. Roberts"
+        },
+        {
+          "authorId": "40636184",
+          "name": "Juan Diego Rodriguez"
+        },
+        {
+          "authorId": "2069598214",
+          "name": "Claude Roux"
+        },
+        {
+          "authorId": "2143198723",
+          "name": "S. VasconcellosP.H."
+        },
+        {
+          "authorId": "145338991",
+          "name": "Ananya B. Sai"
+        },
+        {
+          "authorId": "1456064291",
+          "name": "Robin M. Schmidt"
+        },
+        {
+          "authorId": "90745780",
+          "name": "Thomas Scialom"
+        },
+        {
+          "authorId": "26981612",
+          "name": "T. Sefara"
+        },
+        {
+          "authorId": "148137344",
+          "name": "Saqib Nizam Shamsi"
+        },
+        {
+          "authorId": "2144058688",
+          "name": "Xudong Shen"
+        },
+        {
+          "authorId": "2112498301",
+          "name": "Haoyue Shi"
+        },
+        {
+          "authorId": "2118898316",
+          "name": "Y. Shi"
+        },
+        {
+          "authorId": "46270987",
+          "name": "Anna Shvets"
+        },
+        {
+          "authorId": "2065624880",
+          "name": "Nick Siegel"
+        },
+        {
+          "authorId": "2311890249",
+          "name": "Damien Sileo"
+        },
+        {
+          "authorId": "2115131791",
+          "name": "Jamie Simon"
+        },
+        {
+          "authorId": "2125658889",
+          "name": "Chandan Singh"
+        },
+        {
+          "authorId": "2143205525",
+          "name": "Roman Sitelew"
+        },
+        {
+          "authorId": "2067185122",
+          "name": "P. Soni"
+        },
+        {
+          "authorId": "122436831",
+          "name": "Taylor Sorensen"
+        },
+        {
+          "authorId": "2077166607",
+          "name": "William Soto Martinez"
+        },
+        {
+          "authorId": "2166860090",
+          "name": "Aman Srivastava"
+        },
+        {
+          "authorId": "2121381930",
+          "name": "KV Aditya Srivatsa"
+        },
+        {
+          "authorId": "1516120843",
+          "name": "Tony Sun"
+        },
+        {
+          "authorId": "2007825839",
+          "name": "T. MukundVarma"
+        },
+        {
+          "authorId": "2265068115",
+          "name": "A. Tabassum"
+        },
+        {
+          "authorId": "2121387601",
+          "name": "Fiona Anting Tan"
+        },
+        {
+          "authorId": "2131107966",
+          "name": "Ryan Teehan"
+        },
+        {
+          "authorId": "3965833",
+          "name": "Monalisa Tiwari"
+        },
+        {
+          "authorId": "46445780",
+          "name": "M. Tolkiehn"
+        },
+        {
+          "authorId": "2115482760",
+          "name": "Athena Wang"
+        },
+        {
+          "authorId": "37571937",
+          "name": "Zijian Wang"
+        },
+        {
+          "authorId": "2143229090",
+          "name": "Gloria Xinyue Wang"
+        },
+        {
+          "authorId": "1390877819",
+          "name": "Zijie J. Wang"
+        },
+        {
+          "authorId": "2106895004",
+          "name": "Fuxuan Wei"
+        },
+        {
+          "authorId": "150048491",
+          "name": "Bryan Wilie"
+        },
+        {
+          "authorId": "9162688",
+          "name": "Genta Indra Winata"
+        },
+        {
+          "authorId": "50171962",
+          "name": "Xinyi Wu"
+        },
+        {
+          "authorId": "2126035929",
+          "name": "Witold Wydma\u0144ski"
+        },
+        {
+          "authorId": "2057038673",
+          "name": "Tianbao Xie"
+        },
+        {
+          "authorId": "1387975408",
+          "name": "Usama Yaseen"
+        },
+        {
+          "authorId": null,
+          "name": "M. Yee"
+        },
+        {
+          "authorId": "2262092838",
+          "name": "Jing Zhang"
+        },
+        {
+          "authorId": "1591125925",
+          "name": "Yue Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "ce3b364b7e6358940ce97d8d5887a65e5024ca21",
+      "publicationVenue": {
+        "id": "cdc83875-a82d-445c-b097-cbe91afe99a8",
+        "name": "Conference on Fairness, Accountability and Transparency",
+        "type": "conference",
+        "alternate_names": [
+          "FAccT",
+          "Conf Fairness Account Transpar"
+        ],
+        "url": "https://facctconference.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ce3b364b7e6358940ce97d8d5887a65e5024ca21",
+      "title": "BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation",
+      "venue": "Conference on Fairness, Accountability and Transparency",
+      "year": 2021,
+      "citationCount": 356,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3475586",
+          "name": "J. Dhamala"
+        },
+        {
+          "authorId": "1516120843",
+          "name": "Tony Sun"
+        },
+        {
+          "authorId": "40574366",
+          "name": "Varun Kumar"
+        },
+        {
+          "authorId": "1387484410",
+          "name": "Satyapriya Krishna"
+        },
+        {
+          "authorId": "100984698",
+          "name": "Yada Pruksachatkun"
+        },
+        {
+          "authorId": "2782886",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "2139538015",
+          "name": "Rahul Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "cf91b172ee19697214c6130f7b106be227eaf933",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/cf91b172ee19697214c6130f7b106be227eaf933",
+      "title": "They, Them, Theirs: Rewriting with Gender-Neutral English",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 54,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1516120843",
+          "name": "Tony Sun"
+        },
+        {
+          "authorId": "20825661",
+          "name": "Kellie Webster"
+        },
+        {
+          "authorId": "145825976",
+          "name": "Apurva Shah"
+        },
+        {
+          "authorId": "1682479",
+          "name": "William Yang Wang"
+        },
+        {
+          "authorId": "145657834",
+          "name": "Melvin Johnson"
+        }
+      ]
+    },
+    {
+      "paperId": "493fac37cea49afb98c52c2f5dd75c303a325b25",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/493fac37cea49afb98c52c2f5dd75c303a325b25",
+      "title": "Mitigating Gender Bias in Natural Language Processing: Literature Review",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 526,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1516120843",
+          "name": "Tony Sun"
+        },
+        {
+          "authorId": "146072982",
+          "name": "Andrew Gaut"
+        },
+        {
+          "authorId": "148149462",
+          "name": "Shirlyn Tang"
+        },
+        {
+          "authorId": "2154731574",
+          "name": "Yuxin Huang"
+        },
+        {
+          "authorId": "2165346",
+          "name": "Mai Elsherief"
+        },
+        {
+          "authorId": "33524946",
+          "name": "Jieyu Zhao"
+        },
+        {
+          "authorId": "1705929",
+          "name": "Diba Mirza"
+        },
+        {
+          "authorId": "1397933253",
+          "name": "E. Belding-Royer"
+        },
+        {
+          "authorId": "2782886",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "1682479",
+          "name": "William Yang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "c5e5c2c6128d4295d1833f49d3f6ba5f9a8081c8",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c5e5c2c6128d4295d1833f49d3f6ba5f9a8081c8",
+      "title": "Towards Understanding Gender Bias in Relation Extraction",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 40,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "146072982",
+          "name": "Andrew Gaut"
+        },
+        {
+          "authorId": "1516120843",
+          "name": "Tony Sun"
+        },
+        {
+          "authorId": "148149462",
+          "name": "Shirlyn Tang"
+        },
+        {
+          "authorId": "2154731574",
+          "name": "Yuxin Huang"
+        },
+        {
+          "authorId": "144130537",
+          "name": "Jing Qian"
+        },
+        {
+          "authorId": "2165346",
+          "name": "Mai Elsherief"
+        },
+        {
+          "authorId": "2110117732",
+          "name": "Jieyu Zhao"
+        },
+        {
+          "authorId": "1705929",
+          "name": "Diba Mirza"
+        },
+        {
+          "authorId": "8208963",
+          "name": "E. Belding"
+        },
+        {
+          "authorId": "2782886",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "1682479",
+          "name": "William Yang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "34788718ffea1b96f70d4f35d104a8438bca0946",
+      "publicationVenue": {
+        "id": "84655e53-f002-45c9-9703-ec4788b3b939",
+        "name": "Memory & Cognition",
+        "type": "journal",
+        "alternate_names": [
+          "Mem  Cogn"
+        ],
+        "issn": "0090-502X",
+        "url": "https://www.springer.com/psychology/cognitive+psychology/journal/13421",
+        "alternate_urls": [
+          "https://link.springer.com/journal/13421",
+          "http://mc.psychonomic-journals.org/",
+          "https://www.psychonomic.org/search/",
+          "http://www.springerlink.com/content/0090-502x/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/34788718ffea1b96f70d4f35d104a8438bca0946",
+      "title": "Revisiting the remember\u2013know task: Replications of Gardiner and Java (1990)",
+      "venue": "Memory & Cognition",
+      "year": 2018,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "31984962",
+          "name": "J. Haaf"
+        },
+        {
+          "authorId": "143995494",
+          "name": "Stephen Rhodes"
+        },
+        {
+          "authorId": "1398769372",
+          "name": "M. Naveh-Benjamin"
+        },
+        {
+          "authorId": "1516120843",
+          "name": "Tony Sun"
+        },
+        {
+          "authorId": "89342401",
+          "name": "Hope K. Snyder"
+        },
+        {
+          "authorId": "3449397",
+          "name": "Jeffrey N. Rouder"
+        }
+      ]
+    }
+  ]
+}

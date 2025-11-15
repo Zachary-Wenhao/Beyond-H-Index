@@ -1,0 +1,4464 @@
+{
+  "authorId": "1788286",
+  "name": "F. Aiolli",
+  "affiliations": [],
+  "paperCount": 117,
+  "citationCount": 1848,
+  "hIndex": 21,
+  "papers": [
+    {
+      "paperId": "daeaa31eccb6caa41bf5b2c8a7b942106fed47a5",
+      "publicationVenue": {
+        "id": "df12d289-f447-47d3-8846-75e39de3ab57",
+        "name": "Neurocomputing",
+        "type": "journal",
+        "issn": "0925-2312",
+        "url": "http://www.elsevier.com/locate/neucom",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09252312"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/daeaa31eccb6caa41bf5b2c8a7b942106fed47a5",
+      "title": "Improving rule-based classifiers by Bayes point aggregation",
+      "venue": "Neurocomputing",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "121942087",
+          "name": "L. Bergamin"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "32ddc5c4918b33d0ab7f5003c93eaba29e0702fa",
+      "publicationVenue": {
+        "id": "987139ae-a65d-49bb-aaf6-fb764dc40b19",
+        "name": "Expert systems with applications",
+        "type": "journal",
+        "alternate_names": [
+          "Expert syst appl",
+          "Expert Systems With Applications",
+          "Expert Syst Appl"
+        ],
+        "issn": "0957-4174",
+        "url": "https://www.journals.elsevier.com/expert-systems-with-applications/",
+        "alternate_urls": [
+          "https://www.sciencedirect.com/journal/expert-systems-with-applications",
+          "http://www.sciencedirect.com/science/journal/09574174"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/32ddc5c4918b33d0ab7f5003c93eaba29e0702fa",
+      "title": "A systematic review of value-aware recommender systems",
+      "venue": "Expert systems with applications",
+      "year": 2023,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "73527181",
+          "name": "Alvise De Biasio"
+        },
+        {
+          "authorId": "2214924641",
+          "name": "Andrea Montagna"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1715584",
+          "name": "Nicol\u00f3 Navarin"
+        }
+      ]
+    },
+    {
+      "paperId": "c25d1d07d72d1e6df705f5a559a7c0f2dd806b56",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c25d1d07d72d1e6df705f5a559a7c0f2dd806b56",
+      "title": "Mitigating Data Sparsity via Neuro-Symbolic Knowledge Transfer",
+      "venue": "KaRS@RecSys",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1651201576",
+          "name": "Tommaso Carraro"
+        },
+        {
+          "authorId": "51288070",
+          "name": "Alessandro Daniele"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2272515341",
+          "name": "Luciano Serafini"
+        }
+      ]
+    },
+    {
+      "paperId": "3ebef5abd4f14849d54d3b10e21343118c281244",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3ebef5abd4f14849d54d3b10e21343118c281244",
+      "title": "Bayes Point Rule Set Learning",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "87818005",
+          "name": "Luca Bergamin"
+        },
+        {
+          "authorId": "1651201576",
+          "name": "Tommaso Carraro"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        }
+      ]
+    },
+    {
+      "paperId": "7f3c1701d93861173bb2e89f3b6140f2d45396e1",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7f3c1701d93861173bb2e89f3b6140f2d45396e1",
+      "title": "Price direction prediction in financial markets, using Random Forest and Adaboost",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2022,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2185330990",
+          "name": "Mohammadmahdi Ghahramani"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "7f5942a46a5cde4bb36f0d8c88eeea664032b76a",
+      "publicationVenue": {
+        "id": "b4a969d6-1ca3-4d4c-8eaf-07dac57ce0fa",
+        "name": "International Workshop on Neural-Symbolic Learning and Reasoning",
+        "type": "conference",
+        "alternate_names": [
+          "NeSy",
+          "Int Workshop Neural-symbolic Learn Reason",
+          "International Workshop Neural-Symbolic Learning and Reasoning"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7f5942a46a5cde4bb36f0d8c88eeea664032b76a",
+      "title": "Logic Tensor Networks for Top-N Recommendation",
+      "venue": "International Workshop on Neural-Symbolic Learning and Reasoning",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1651201576",
+          "name": "Tommaso Carraro"
+        },
+        {
+          "authorId": "51288070",
+          "name": "Alessandro Daniele"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "144077615",
+          "name": "L. Serafini"
+        }
+      ]
+    },
+    {
+      "paperId": "96358c119e8615b3edf8fa381d797c39f5c69f32",
+      "publicationVenue": {
+        "id": "df12d289-f447-47d3-8846-75e39de3ab57",
+        "name": "Neurocomputing",
+        "type": "journal",
+        "issn": "0925-2312",
+        "url": "http://www.elsevier.com/locate/neucom",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09252312"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/96358c119e8615b3edf8fa381d797c39f5c69f32",
+      "title": "PRL: A game theoretic large margin method for interpretable feature learning",
+      "venue": "Neurocomputing",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "80808662",
+          "name": "G. Faggioli"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "c8fa8bccdb29d2061ba992b8a5bb15b701db9244",
+      "publicationVenue": {
+        "id": "f80ba4a3-7aed-4021-b4d8-e4f50668847a",
+        "name": "IEEE International Joint Conference on Neural Network",
+        "type": "conference",
+        "alternate_names": [
+          "IJCNN",
+          "IEEE Int Jt Conf Neural Netw",
+          "Int Jt Conf Neural Netw",
+          "International Joint Conference on Neural Network"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1573"
+      },
+      "url": "https://www.semanticscholar.org/paper/c8fa8bccdb29d2061ba992b8a5bb15b701db9244",
+      "title": "Novel Applications for VAE-based Anomaly Detection Systems",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "87818005",
+          "name": "Luca Bergamin"
+        },
+        {
+          "authorId": "1651201576",
+          "name": "Tommaso Carraro"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "106176d796eda5efcd8a4d84ce98267350d679b9",
+      "publicationVenue": {
+        "id": "df12d289-f447-47d3-8846-75e39de3ab57",
+        "name": "Neurocomputing",
+        "type": "journal",
+        "issn": "0925-2312",
+        "url": "http://www.elsevier.com/locate/neucom",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09252312"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/106176d796eda5efcd8a4d84ce98267350d679b9",
+      "title": "An introduction to Deep Learning in Natural Language Processing: Models, techniques, and tools",
+      "venue": "Neurocomputing",
+      "year": 2021,
+      "citationCount": 391,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "2192424",
+          "name": "A. Lavelli"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "46da0975be3accf5f11899341a03e09024ea85f6",
+      "publicationVenue": {
+        "id": "f80ba4a3-7aed-4021-b4d8-e4f50668847a",
+        "name": "IEEE International Joint Conference on Neural Network",
+        "type": "conference",
+        "alternate_names": [
+          "IJCNN",
+          "IEEE Int Jt Conf Neural Netw",
+          "Int Jt Conf Neural Netw",
+          "International Joint Conference on Neural Network"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1573"
+      },
+      "url": "https://www.semanticscholar.org/paper/46da0975be3accf5f11899341a03e09024ea85f6",
+      "title": "Exploring the structure of BERT through Kernel Learning",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "2192424",
+          "name": "A. Lavelli"
+        },
+        {
+          "authorId": "1719404",
+          "name": "Alessandro Moschitti"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "4e21a037dc6e38cb32df306ec5ff14b5c2ef015a",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4e21a037dc6e38cb32df306ec5ff14b5c2ef015a",
+      "title": "Privacy-Preserving Kernel Computation For Vertically Partitioned Data",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2021,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "2142079713",
+          "name": "Alberto Gallinaro"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "67088214014ab730fa9ac0131e93d48322770475",
+      "publicationVenue": {
+        "id": "2ef3d692-67d8-4150-8e21-55b389e72376",
+        "name": "Journal of computing and security",
+        "type": "journal",
+        "alternate_names": [
+          "J comput secur",
+          "Journal of Computer Security",
+          "J Comput Secur"
+        ],
+        "issn": "2322-4460",
+        "alternate_issns": [
+          "0926-227X"
+        ],
+        "url": "http://jcomsec.org/",
+        "alternate_urls": [
+          "http://content.iospress.com/journals/journal-of-computer-security"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/67088214014ab730fa9ac0131e93d48322770475",
+      "title": "On the feasibility of crawling-based attacks against recommender systems",
+      "venue": "Journal of computing and security",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "145746490",
+          "name": "M. Conti"
+        },
+        {
+          "authorId": "1686538",
+          "name": "S. Picek"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        }
+      ]
+    },
+    {
+      "paperId": "a4b054325e1a691a3126bd5ff92bd6cc892bf96b",
+      "publicationVenue": {
+        "id": "8270cfe1-3713-4325-a7bd-c6a87eed889e",
+        "name": "Entropy",
+        "type": "journal",
+        "issn": "1099-4300",
+        "url": "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-155606",
+        "alternate_urls": [
+          "http://www.mdpi.com/journal/entropy/",
+          "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:ch:bel-155606",
+          "https://www.mdpi.com/journal/entropy"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a4b054325e1a691a3126bd5ff92bd6cc892bf96b",
+      "title": "Propositional Kernels",
+      "venue": "Entropy",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "dc2abcc7bac9250aa8f1fd6d6ea74901ce3ea56a",
+      "publicationVenue": {
+        "id": "b57e8470-fc73-4401-b1eb-f9f66f929180",
+        "name": "Omega",
+        "issn": "0030-2228",
+        "url": "https://journals.sagepub.com/home/ome",
+        "alternate_urls": [
+          "https://journals.sagepub.com/loi/ome"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/dc2abcc7bac9250aa8f1fd6d6ea74901ce3ea56a",
+      "title": "Social Support and Help-Seeking Among Suicide Bereaved: A Study With Italian Survivors",
+      "venue": "Omega",
+      "year": 2021,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "16086041",
+          "name": "Lorenza Entilli"
+        },
+        {
+          "authorId": "2213958",
+          "name": "D. Leo"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1717342",
+          "name": "O. Gaggi"
+        },
+        {
+          "authorId": "3304346",
+          "name": "S. Cipolletta"
+        }
+      ]
+    },
+    {
+      "paperId": "f92f9d046b56ef2b6d1e056f55bcc636f3221bbd",
+      "publicationVenue": {
+        "id": "eaa831b9-4740-4277-bdd0-6994ed487095",
+        "name": "Journal of Biomedical Semantics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Semant"
+        ],
+        "issn": "2041-1480",
+        "url": "http://www.jbiomedsem.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f92f9d046b56ef2b6d1e056f55bcc636f3221bbd",
+      "title": "Learning adaptive representations for entity recognition in the biomedical domain",
+      "venue": "Journal of Biomedical Semantics",
+      "year": 2021,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2192424",
+          "name": "A. Lavelli"
+        },
+        {
+          "authorId": "144386741",
+          "name": "Fabio Rinaldi"
+        }
+      ]
+    },
+    {
+      "paperId": "0673abf8bb3e858fdcf962fb6f91e4c7ba0fdae5",
+      "publicationVenue": {
+        "id": "7a0efb6b-cefe-4d69-a8ab-0b3b25a2e4e2",
+        "name": "User Modeling, Adaptation, and Personalization",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf User Model Adapt Pers",
+          "UMAP",
+          "User Model Adapt Pers",
+          "International Conference on User Modeling, Adaptation, and Personalization"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0673abf8bb3e858fdcf962fb6f91e4c7ba0fdae5",
+      "title": "A Look Inside the Black-Box: Towards the Interpretability of Conditioned Variational Autoencoder for Collaborative Filtering",
+      "venue": "User Modeling, Adaptation, and Personalization",
+      "year": 2020,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1651201576",
+          "name": "Tommaso Carraro"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "2099d040067bcd1a8ea88cf452f77d04097fbad3",
+      "publicationVenue": {
+        "id": "266f640f-003e-453b-ab76-57e4053252f8",
+        "name": "Pattern Recognition",
+        "type": "journal",
+        "alternate_names": [
+          "Pattern Recognit"
+        ],
+        "issn": "0031-3203",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/328/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/pattern-recognition",
+          "http://www.sciencedirect.com/science/journal/00313203"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2099d040067bcd1a8ea88cf452f77d04097fbad3",
+      "title": "Enhancing deep neural networks via multiple kernel learning",
+      "venue": "Pattern Recognition",
+      "year": 2020,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "2158038",
+          "name": "C. Gallicchio"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "2a1cd9cc28cc4917be5315046869ef584d4668cf",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/2a1cd9cc28cc4917be5315046869ef584d4668cf",
+      "title": "MKLpy: a python-based framework for Multiple Kernel Learning",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "42817f465a3ad0b6d81c54c63fa5b1ef450f9d24",
+      "publicationVenue": {
+        "id": "3e64b1c1-745f-4edf-bd92-b8ef122bb49c",
+        "name": "International Conference on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Artif Neural Netw",
+          "ICANN"
+        ],
+        "url": "http://www.e-nns.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/42817f465a3ad0b6d81c54c63fa5b1ef450f9d24",
+      "title": "Conditioned Variational Autoencoder for top-N item recommendation",
+      "venue": "International Conference on Artificial Neural Networks",
+      "year": 2020,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1651201576",
+          "name": "Tommaso Carraro"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "4de133484db999aa1099c66b098b4f774247c998",
+      "publicationVenue": {
+        "id": "1bb63b2b-3f57-4387-aaf6-b2a33dfcdcc5",
+        "name": "Journal of Chemical Physics",
+        "type": "journal",
+        "alternate_names": [
+          "J Chem Phys"
+        ],
+        "issn": "0021-9606",
+        "url": "http://jcp.aip.org/",
+        "alternate_urls": [
+          "https://aip.scitation.org/journal/jcp"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4de133484db999aa1099c66b098b4f774247c998",
+      "title": "Radical scavenging activity of natural antioxidants and drugs: Development of a combined machine learning and quantum chemistry protocol.",
+      "venue": "Journal of Chemical Physics",
+      "year": 2020,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "82339734",
+          "name": "C. Muraro"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "7507336",
+          "name": "Marco Bortoli"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "3419632",
+          "name": "L. Orian"
+        }
+      ]
+    },
+    {
+      "paperId": "5263c9bfd2d596201fcd7a5c6016eb95ac07daa3",
+      "publicationVenue": {
+        "id": "f35e3e87-9df4-497b-aa0d-bb8584197290",
+        "name": "Pattern Recognition Letters",
+        "type": "journal",
+        "alternate_names": [
+          "Pattern Recognit Lett"
+        ],
+        "issn": "0167-8655",
+        "url": "https://www.journals.elsevier.com/pattern-recognition-letters/",
+        "alternate_urls": [
+          "http://www.journals.elsevier.com/pattern-recognition-letters/",
+          "http://www.sciencedirect.com/science/journal/01678655"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5263c9bfd2d596201fcd7a5c6016eb95ac07daa3",
+      "title": "Learning deep kernels in the space of monotone conjunctive polynomials",
+      "venue": "Pattern Recognition Letters",
+      "year": 2020,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "5a62ad2783e8e342f67bc51c2d7cb914c23407fb",
+      "publicationVenue": {
+        "id": "0bddd5d7-2897-495a-a961-465abe6e04de",
+        "name": "European Symposium on Research in Computer Security",
+        "type": "conference",
+        "alternate_names": [
+          "ESORICS",
+          "Eur Symp Res Comput Secur"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=923"
+      },
+      "url": "https://www.semanticscholar.org/paper/5a62ad2783e8e342f67bc51c2d7cb914c23407fb",
+      "title": "Big Enough to Care Not Enough to Scare! Crawling to Attack Recommender Systems",
+      "venue": "European Symposium on Research in Computer Security",
+      "year": 2020,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "145746490",
+          "name": "M. Conti"
+        },
+        {
+          "authorId": "1686538",
+          "name": "S. Picek"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        }
+      ]
+    },
+    {
+      "paperId": "61fd7a5e18d80fa8306a1cb80970037694a01929",
+      "publicationVenue": {
+        "id": "9c06885c-ecb6-4a76-ba1e-fbad53521efd",
+        "name": "Annual Meeting of the Cognitive Science Society",
+        "type": "conference",
+        "alternate_names": [
+          "CogSci",
+          "Annu Meet Cogn Sci Soc"
+        ],
+        "url": "http://cognitivesciencesociety.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/61fd7a5e18d80fa8306a1cb80970037694a01929",
+      "title": "Automatic Detection of Cross-language Verbal Deception",
+      "venue": "Annual Meeting of the Cognitive Science Society",
+      "year": 2020,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "66057402",
+          "name": "P. Capuozzo"
+        },
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "1723976",
+          "name": "C. Strapparava"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "143737628",
+          "name": "G. Sartori"
+        }
+      ]
+    },
+    {
+      "paperId": "7646af3d1a2df902d429f3426251572edf0f90c0",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7646af3d1a2df902d429f3426251572edf0f90c0",
+      "title": "Language processing in the era of deep learning",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2020,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "2192424",
+          "name": "A. Lavelli"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "a2571498ff69f45bdd1bf2c8affce886fb5713e8",
+      "publicationVenue": {
+        "id": "3e64b1c1-745f-4edf-bd92-b8ef122bb49c",
+        "name": "International Conference on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Artif Neural Netw",
+          "ICANN"
+        ],
+        "url": "http://www.e-nns.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a2571498ff69f45bdd1bf2c8affce886fb5713e8",
+      "title": "Monotone Deep Spectrum Kernels",
+      "venue": "International Conference on Artificial Neural Networks",
+      "year": 2020,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "a975bbe4659e7b4a46e5eadf5f4911113f9f54bf",
+      "publicationVenue": {
+        "id": "7a0efb6b-cefe-4d69-a8ab-0b3b25a2e4e2",
+        "name": "User Modeling, Adaptation, and Personalization",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf User Model Adapt Pers",
+          "UMAP",
+          "User Model Adapt Pers",
+          "International Conference on User Modeling, Adaptation, and Personalization"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a975bbe4659e7b4a46e5eadf5f4911113f9f54bf",
+      "title": "Recency Aware Collaborative Filtering for Next Basket Recommendation",
+      "venue": "User Modeling, Adaptation, and Personalization",
+      "year": 2020,
+      "citationCount": 47,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "80808662",
+          "name": "G. Faggioli"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "bedefb26ed2ce1ea5b6915cbf177b8e88ba22ab1",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/bedefb26ed2ce1ea5b6915cbf177b8e88ba22ab1",
+      "title": "Exploring the feature space of character-level embeddings",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2020,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "115501617",
+          "name": "S. Campese"
+        },
+        {
+          "authorId": "2192424",
+          "name": "A. Lavelli"
+        },
+        {
+          "authorId": "144386741",
+          "name": "Fabio Rinaldi"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "e70108ee6c7eaea54632e52848759d9d75dadd7e",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e70108ee6c7eaea54632e52848759d9d75dadd7e",
+      "title": "DecOp: A Multilingual and Multi-domain Corpus For Detecting Deception In Typed Text",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2020,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "66057402",
+          "name": "P. Capuozzo"
+        },
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "1723976",
+          "name": "C. Strapparava"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "143737628",
+          "name": "G. Sartori"
+        }
+      ]
+    },
+    {
+      "paperId": "28ab2fbfab0b83df72798e0e26df7d4164a8a7a2",
+      "publicationVenue": {
+        "id": "3e64b1c1-745f-4edf-bd92-b8ef122bb49c",
+        "name": "International Conference on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Artif Neural Netw",
+          "ICANN"
+        ],
+        "url": "http://www.e-nns.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/28ab2fbfab0b83df72798e0e26df7d4164a8a7a2",
+      "title": "Evaluation of Tag Clusterings for User Profiling in Movie Recommendation",
+      "venue": "International Conference on Artificial Neural Networks",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "80808662",
+          "name": "G. Faggioli"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "35121fc6d0407a100ae4f6e4344b382c3ee78056",
+      "publicationVenue": {
+        "id": "3e64b1c1-745f-4edf-bd92-b8ef122bb49c",
+        "name": "International Conference on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Artif Neural Netw",
+          "ICANN"
+        ],
+        "url": "http://www.e-nns.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/35121fc6d0407a100ae4f6e4344b382c3ee78056",
+      "title": "Playing the Large Margin Preference Game",
+      "venue": "International Conference on Artificial Neural Networks",
+      "year": 2019,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "80808662",
+          "name": "G. Faggioli"
+        },
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "47a87bff02326ba4486b44f0e5e5329866f623c9",
+      "publicationVenue": {
+        "id": "df12d289-f447-47d3-8846-75e39de3ab57",
+        "name": "Neurocomputing",
+        "type": "journal",
+        "issn": "0925-2312",
+        "url": "http://www.elsevier.com/locate/neucom",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09252312"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/47a87bff02326ba4486b44f0e5e5329866f623c9",
+      "title": "Boolean kernels for rule based interpretation of support vector machines",
+      "venue": "Neurocomputing",
+      "year": 2019,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "8050eb9c9d74d4ecc65de76821ab8f076cd65381",
+      "publicationVenue": {
+        "id": "d80d58be-58fc-4181-a397-5ac6fd976a47",
+        "name": "ACM Symposium on Applied Computing",
+        "type": "conference",
+        "alternate_names": [
+          "Sel Area Cryptogr",
+          "Int Conf Sel area Cryptogr",
+          "International Conference on Selected areas in Cryptography",
+          "ACM Symp Appl Comput",
+          "Selected Areas in Cryptography",
+          "Symposium on Applied Computing",
+          "SAC",
+          "Symp Appl Comput"
+        ],
+        "url": "https://www.acm.org/publications",
+        "alternate_urls": [
+          "http://sacworkshop.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/8050eb9c9d74d4ecc65de76821ab8f076cd65381",
+      "title": "Mind your wallet's privacy: identifying Bitcoin wallet apps and user's actions through network traffic analysis",
+      "venue": "ACM Symposium on Applied Computing",
+      "year": 2019,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "145746490",
+          "name": "M. Conti"
+        },
+        {
+          "authorId": "23678006",
+          "name": "Ankit Gangwal"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        }
+      ]
+    },
+    {
+      "paperId": "849ef3265d085655f84d25260b1986b31c51425d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/849ef3265d085655f84d25260b1986b31c51425d",
+      "title": "A Preference-Learning Framework for Modeling Relational Data",
+      "venue": "INNSBDDL",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "80808662",
+          "name": "G. Faggioli"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "b46ca3618d6c274e3102f9033458befc134f0256",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b46ca3618d6c274e3102f9033458befc134f0256",
+      "title": "Efficient Online Learning for Mapping Kernels on Linguistic Structures",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2019,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "34086979",
+          "name": "Giovanni Da San Martino"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1719404",
+          "name": "Alessandro Moschitti"
+        }
+      ]
+    },
+    {
+      "paperId": "b4885672df46d971d045ae6a1d172767d7701b6e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b4885672df46d971d045ae6a1d172767d7701b6e",
+      "title": "Psychiatric Disorders Classification with 3D Convolutional Neural Networks",
+      "venue": "INNSBDDL",
+      "year": 2019,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "115501617",
+          "name": "S. Campese"
+        },
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "48177716",
+          "name": "C. Scarpazza"
+        },
+        {
+          "authorId": "143737628",
+          "name": "G. Sartori"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "bf1f670080e14300b71a2bfbd9a25eb409ddaa45",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/bf1f670080e14300b71a2bfbd9a25eb409ddaa45",
+      "title": "2 GPLM : A General Model for Supervised Learning 2 . 1 The Learning Domain",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "ff167d84294fc034bef84b291d4880e1ef6edd43",
+      "publicationVenue": {
+        "id": "7a0efb6b-cefe-4d69-a8ab-0b3b25a2e4e2",
+        "name": "User Modeling, Adaptation, and Personalization",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf User Model Adapt Pers",
+          "UMAP",
+          "User Model Adapt Pers",
+          "International Conference on User Modeling, Adaptation, and Personalization"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ff167d84294fc034bef84b291d4880e1ef6edd43",
+      "title": "Tag-Based User Profiling: A Game Theoretic Approach",
+      "venue": "User Modeling, Adaptation, and Personalization",
+      "year": 2019,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "80808662",
+          "name": "G. Faggioli"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "03aaa529fcdac12698118ff2235543136928c1fa",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/03aaa529fcdac12698118ff2235543136928c1fa",
+      "title": "Boolean kernels for interpretable kernel machines",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2018,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "058534d89ea419694ca3284a662d86561a5e0219",
+      "publicationVenue": {
+        "id": "be3f884c-b44a-496a-a593-1cad3f89d254",
+        "name": "BMC Bioinformatics",
+        "type": "journal",
+        "alternate_names": [
+          "BMC Bioinform"
+        ],
+        "issn": "1471-2105",
+        "url": "http://www.biomedcentral.com/bmcbioinformatics",
+        "alternate_urls": [
+          "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=13",
+          "http://www.biomedcentral.com/bmcbioinformatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/058534d89ea419694ca3284a662d86561a5e0219",
+      "title": "Scuba: scalable kernel-based gene prioritization",
+      "venue": "BMC Bioinformatics",
+      "year": 2018,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "35455237",
+          "name": "Guido Zampieri"
+        },
+        {
+          "authorId": "1410004690",
+          "name": "Dinh Tran-Van"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1715584",
+          "name": "Nicol\u00f3 Navarin"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        },
+        {
+          "authorId": "1679138",
+          "name": "G. Valle"
+        }
+      ]
+    },
+    {
+      "paperId": "0f32b6bce4912d251da879759cbcd3d0b86bda50",
+      "publicationVenue": {
+        "id": "8270cfe1-3713-4325-a7bd-c6a87eed889e",
+        "name": "Entropy",
+        "type": "journal",
+        "issn": "1099-4300",
+        "url": "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-155606",
+        "alternate_urls": [
+          "http://www.mdpi.com/journal/entropy/",
+          "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:ch:bel-155606",
+          "https://www.mdpi.com/journal/entropy"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0f32b6bce4912d251da879759cbcd3d0b86bda50",
+      "title": "A Novel Boolean Kernels Family for Categorical Data \u2020",
+      "venue": "Entropy",
+      "year": 2018,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "11ae7aa3a960796c517fa0c39753e23674288a1d",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/11ae7aa3a960796c517fa0c39753e23674288a1d",
+      "title": "Interpretable preference learning: a game theoretic framework for large margin on-line feature and rule learning",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2018,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "5bbe4b4359d6e51db1be139d29e70c46e36225c1",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5bbe4b4359d6e51db1be139d29e70c46e36225c1",
+      "title": "The minimum effort maximum output principle applied to Multiple Kernel Learning",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2018,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "861700c40c5fe0ebba8a99d75e255f0c66dc5720",
+      "publicationVenue": {
+        "id": "df12d289-f447-47d3-8846-75e39de3ab57",
+        "name": "Neurocomputing",
+        "type": "journal",
+        "issn": "0925-2312",
+        "url": "http://www.elsevier.com/locate/neucom",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09252312"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/861700c40c5fe0ebba8a99d75e255f0c66dc5720",
+      "title": "Advances in artificial neural networks, machine learning and computational intelligence",
+      "venue": "Neurocomputing",
+      "year": 2018,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "144951109",
+          "name": "Michael Biehl"
+        },
+        {
+          "authorId": "1682762",
+          "name": "L. Oneto"
+        }
+      ]
+    },
+    {
+      "paperId": "b9639a7e659fe00520dd296ab2ce7c758154e85b",
+      "publicationVenue": {
+        "id": "3e64b1c1-745f-4edf-bd92-b8ef122bb49c",
+        "name": "International Conference on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Artif Neural Netw",
+          "ICANN"
+        ],
+        "url": "http://www.e-nns.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b9639a7e659fe00520dd296ab2ce7c758154e85b",
+      "title": "Learning Preferences for Large Scale Multi-label Problems",
+      "venue": "International Conference on Artificial Neural Networks",
+      "year": 2018,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "2192424",
+          "name": "A. Lavelli"
+        },
+        {
+          "authorId": "144386741",
+          "name": "Fabio Rinaldi"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "bba04eb2fb53024aac736545328fedb86919b214",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/bba04eb2fb53024aac736545328fedb86919b214",
+      "title": "Deliverable 1 . 3 Modelling and processing services and tools",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 2,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "117515532",
+          "name": "D. Tran"
+        },
+        {
+          "authorId": "3408883",
+          "name": "F. Piazzon"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2061295540",
+          "name": "S. De"
+        },
+        {
+          "authorId": "2092028231",
+          "name": "Marchi"
+        },
+        {
+          "authorId": "2687339",
+          "name": "S. Kollet"
+        },
+        {
+          "authorId": "3123876",
+          "name": "C. Montzka"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        },
+        {
+          "authorId": "35179489",
+          "name": "M. Vianello"
+        },
+        {
+          "authorId": "2112011379",
+          "name": "M."
+        },
+        {
+          "authorId": "66018034",
+          "name": "Putti"
+        }
+      ]
+    },
+    {
+      "paperId": "c3ea8346d6f088c43de60529f52d8a92f394a363",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c3ea8346d6f088c43de60529f52d8a92f394a363",
+      "title": "Efficient Similarity Based Methods For The Playlist Continuation Task",
+      "venue": "RecSys Challenge",
+      "year": 2018,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "80808662",
+          "name": "G. Faggioli"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "dcad981196200367f2f30a5057c37364fb1fbed0",
+      "publicationVenue": {
+        "id": "3e64b1c1-745f-4edf-bd92-b8ef122bb49c",
+        "name": "International Conference on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Artif Neural Netw",
+          "ICANN"
+        ],
+        "url": "http://www.e-nns.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/dcad981196200367f2f30a5057c37364fb1fbed0",
+      "title": "A Game-Theoretic Framework for Interpretable Preference and Feature Learning",
+      "venue": "International Conference on Artificial Neural Networks",
+      "year": 2018,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "f83c5072f081812be6237f9564cba8b9bbf8cccf",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f83c5072f081812be6237f9564cba8b9bbf8cccf",
+      "title": "Deliverable 1 . 6 Data fusion guidelines",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "123232194",
+          "name": "M. Polato"
+        },
+        {
+          "authorId": "117515532",
+          "name": "D. Tran"
+        },
+        {
+          "authorId": "3408883",
+          "name": "F. Piazzon"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2061295540",
+          "name": "S. De"
+        },
+        {
+          "authorId": "2092028231",
+          "name": "Marchi"
+        },
+        {
+          "authorId": "2687339",
+          "name": "S. Kollet"
+        },
+        {
+          "authorId": "3123876",
+          "name": "C. Montzka"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        },
+        {
+          "authorId": "35179489",
+          "name": "M. Vianello"
+        },
+        {
+          "authorId": "2112011379",
+          "name": "M."
+        },
+        {
+          "authorId": "66018034",
+          "name": "Putti"
+        }
+      ]
+    },
+    {
+      "paperId": "fa2a3ead6e68710965b40a46f5ab726abf27d6dc",
+      "publicationVenue": {
+        "id": "79c5a18d-0295-432c-aaa5-961d73de6d88",
+        "name": "IEEE Transactions on Neural Networks and Learning Systems",
+        "alternate_names": [
+          "IEEE Trans Neural Netw Learn Syst"
+        ],
+        "issn": "2162-237X",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=5962385",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/fa2a3ead6e68710965b40a46f5ab726abf27d6dc",
+      "title": "Learning With Kernels: A Local Rademacher Complexity-Based Analysis With Application to Graph Kernels",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2018,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1682762",
+          "name": "L. Oneto"
+        },
+        {
+          "authorId": "1715584",
+          "name": "Nicol\u00f3 Navarin"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1751728",
+          "name": "S. Ridella"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1686031",
+          "name": "D. Anguita"
+        }
+      ]
+    },
+    {
+      "paperId": "2933930104f579704d74f234df191d8e6a132fd1",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2933930104f579704d74f234df191d8e6a132fd1",
+      "title": "Learning dot-product polynomials for multiclass problems",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2017,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "37ac8a86d00e9b19fd019d86267fd9acadd7ac23",
+      "publicationVenue": {
+        "id": "df12d289-f447-47d3-8846-75e39de3ab57",
+        "name": "Neurocomputing",
+        "type": "journal",
+        "issn": "0925-2312",
+        "url": "http://www.elsevier.com/locate/neucom",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09252312"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/37ac8a86d00e9b19fd019d86267fd9acadd7ac23",
+      "title": "Measuring the expressivity of graph kernels through Statistical Learning Theory",
+      "venue": "Neurocomputing",
+      "year": 2017,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1682762",
+          "name": "L. Oneto"
+        },
+        {
+          "authorId": "1715584",
+          "name": "Nicol\u00f3 Navarin"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1686031",
+          "name": "D. Anguita"
+        }
+      ]
+    },
+    {
+      "paperId": "4ae36d16d23d9571a6e8a591ee85b91b861fb22d",
+      "publicationVenue": {
+        "id": "22c9862f-a25e-40cd-9d31-d09e68a293e6",
+        "name": "Machine-mediated learning",
+        "type": "journal",
+        "alternate_names": [
+          "Mach learn",
+          "Machine Learning",
+          "Mach Learn"
+        ],
+        "issn": "0732-6718",
+        "alternate_issns": [
+          "0885-6125"
+        ],
+        "url": "http://www.springer.com/computer/artificial/journal/10994",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10994",
+          "http://www.springer.com/west/home/computer/artificial?SGWID=4-147-70-35726603-0"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4ae36d16d23d9571a6e8a591ee85b91b861fb22d",
+      "title": "Learning deep kernels in the space of dot product polynomials",
+      "venue": "Machine-mediated learning",
+      "year": 2017,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "79759d590f5be709f455afbc5a8c14ae00d7b51d",
+      "publicationVenue": {
+        "id": "3e64b1c1-745f-4edf-bd92-b8ef122bb49c",
+        "name": "International Conference on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Artif Neural Netw",
+          "ICANN"
+        ],
+        "url": "http://www.e-nns.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/79759d590f5be709f455afbc5a8c14ae00d7b51d",
+      "title": "Radius-Margin Ratio Optimization for Dot-Product Boolean Kernel Learning",
+      "venue": "International Conference on Artificial Neural Networks",
+      "year": 2017,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "9be8ffe2c788b0ec5bc338858ce24adb72cf13b3",
+      "publicationVenue": {
+        "id": "47df21e6-b8c3-4bd5-82ad-b3352550c09d",
+        "name": "Italian Information Retrieval Workshop",
+        "type": "conference",
+        "alternate_names": [
+          "IIR",
+          "Ital Inf Retr Workshop"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1562"
+      },
+      "url": "https://www.semanticscholar.org/paper/9be8ffe2c788b0ec5bc338858ce24adb72cf13b3",
+      "title": "Disjunctive Boolean Kernels-based Collaborative Filtering for top-N Item Recommendation",
+      "venue": "Italian Information Retrieval Workshop",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "ce1a652b80cb098033598b354ff477d567220144",
+      "publicationVenue": {
+        "id": "3e64b1c1-745f-4edf-bd92-b8ef122bb49c",
+        "name": "International Conference on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Artif Neural Netw",
+          "ICANN"
+        ],
+        "url": "http://www.e-nns.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ce1a652b80cb098033598b354ff477d567220144",
+      "title": "Classification of Categorical Data in the Feature Space of Monotone DNFs",
+      "venue": "International Conference on Artificial Neural Networks",
+      "year": 2017,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "ddcd8c6b235d3d3e1f00e628b76ccc736254effb",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ddcd8c6b235d3d3e1f00e628b76ccc736254effb",
+      "title": "Fast hyperparameter selection for graph kernels via subsampling and multiple kernel learning",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2017,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1715584",
+          "name": "Nicol\u00f3 Navarin"
+        },
+        {
+          "authorId": "49548657",
+          "name": "Ivano Lauriola"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "144073418",
+          "name": "Fabrizio Costa"
+        }
+      ]
+    },
+    {
+      "paperId": "0b7de5a581d52fbdb3587e6703a448fa80e07f6c",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0b7de5a581d52fbdb3587e6703a448fa80e07f6c",
+      "title": "Kernel based collaborative filtering for very large scale top-N item recommendation",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2016,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        }
+      ]
+    },
+    {
+      "paperId": "1861f874dd10db778629d95d6950cd78950d5000",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1861f874dd10db778629d95d6950cd78950d5000",
+      "title": "Advances in Learning with Kernels: Theory and Practice in a World of growing Constraints",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2016,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1682762",
+          "name": "L. Oneto"
+        },
+        {
+          "authorId": "1715584",
+          "name": "Nicol\u00f3 Navarin"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1686031",
+          "name": "D. Anguita"
+        }
+      ]
+    },
+    {
+      "paperId": "5344b11c7b1fadb2a0cb877eea8e3f23903f8933",
+      "publicationVenue": {
+        "id": "df12d289-f447-47d3-8846-75e39de3ab57",
+        "name": "Neurocomputing",
+        "type": "journal",
+        "issn": "0925-2312",
+        "url": "http://www.elsevier.com/locate/neucom",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09252312"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5344b11c7b1fadb2a0cb877eea8e3f23903f8933",
+      "title": "Special issue: Advances in artificial neural networks, machine learning and computational intelligenceSelected papers from the 23rd European Symposium on Artificial Neural Networks (ESANN 2015)",
+      "venue": "Neurocomputing",
+      "year": 2016,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1721835",
+          "name": "K. Bunte"
+        },
+        {
+          "authorId": "1782268",
+          "name": "R. H\u00e9rault"
+        },
+        {
+          "authorId": "143940227",
+          "name": "M. Kanevski"
+        }
+      ]
+    },
+    {
+      "paperId": "6b1879f57b4e33e01d70085db14dcb6c97f34a9e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6b1879f57b4e33e01d70085db14dcb6c97f34a9e",
+      "title": "Disjunctive Boolean Kernels for Collaborative Filtering in Top-N Recommendation",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "9a9a9ddedfbfa48a605bae6c5d599f5f711173b1",
+      "publicationVenue": {
+        "id": "22c9862f-a25e-40cd-9d31-d09e68a293e6",
+        "name": "Machine-mediated learning",
+        "type": "journal",
+        "alternate_names": [
+          "Mach learn",
+          "Machine Learning",
+          "Mach Learn"
+        ],
+        "issn": "0732-6718",
+        "alternate_issns": [
+          "0885-6125"
+        ],
+        "url": "http://www.springer.com/computer/artificial/journal/10994",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10994",
+          "http://www.springer.com/west/home/computer/artificial?SGWID=4-147-70-35726603-0"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9a9a9ddedfbfa48a605bae6c5d599f5f711173b1",
+      "title": "Learning deep kernels in the space of dot product polynomials",
+      "venue": "Machine-mediated learning",
+      "year": 2016,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "a29c69be8ec476e8755917ea11e951622e04ea6b",
+      "publicationVenue": {
+        "id": "df12d289-f447-47d3-8846-75e39de3ab57",
+        "name": "Neurocomputing",
+        "type": "journal",
+        "issn": "0925-2312",
+        "url": "http://www.elsevier.com/locate/neucom",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09252312"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a29c69be8ec476e8755917ea11e951622e04ea6b",
+      "title": "Boolean kernels for collaborative filtering in top-N item recommendation",
+      "venue": "Neurocomputing",
+      "year": 2016,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "c8f7c3567d5cff8a8cfb940b3c5326d7d03dbf09",
+      "publicationVenue": {
+        "id": "df12d289-f447-47d3-8846-75e39de3ab57",
+        "name": "Neurocomputing",
+        "type": "journal",
+        "issn": "0925-2312",
+        "url": "http://www.elsevier.com/locate/neucom",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09252312"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c8f7c3567d5cff8a8cfb940b3c5326d7d03dbf09",
+      "title": "Exploiting sparsity to build efficient kernel based collaborative filtering for top-N item recommendation",
+      "venue": "Neurocomputing",
+      "year": 2016,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "d2a070853a76acb4feea14326973c4bfe3726d01",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d2a070853a76acb4feea14326973c4bfe3726d01",
+      "title": "A preliminary study on a recommender system for the job recommendation challenge",
+      "venue": "RecSys Challenge '16",
+      "year": 2016,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2658614",
+          "name": "Mirko Polato"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "d99a268519ab5ab0e49ced2d85c298ee6d5161dd",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d99a268519ab5ab0e49ced2d85c298ee6d5161dd",
+      "title": "Measuring the Expressivity of Graph Kernels through the Rademacher Complexity",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2016,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1682762",
+          "name": "L. Oneto"
+        },
+        {
+          "authorId": "1715584",
+          "name": "Nicol\u00f3 Navarin"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1686031",
+          "name": "D. Anguita"
+        }
+      ]
+    },
+    {
+      "paperId": "e7df6f0595b6887b9461ba083dd41688441ef0f5",
+      "publicationVenue": {
+        "id": "68fd8242-3be0-4b1e-8b5d-ad0a8a02db12",
+        "name": "Personal and Ubiquitous Computing",
+        "type": "journal",
+        "alternate_names": [
+          "Pers Ubiquitous Comput"
+        ],
+        "issn": "1617-4909",
+        "url": "http://www.springer.com/computer/hci/journal/779",
+        "alternate_urls": [
+          "https://link.springer.com/journal/volumesAndIssues/779"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e7df6f0595b6887b9461ba083dd41688441ef0f5",
+      "title": "Stairstep recognition and counting in a serious Game for increasing users\u2019 physical activity",
+      "venue": "Personal and Ubiquitous Computing",
+      "year": 2016,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1734596",
+          "name": "Matteo Ciman"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1717342",
+          "name": "O. Gaggi"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "4d5baf0cddb26e1c5c914203ffd85a837d421e1e",
+      "publicationVenue": {
+        "id": "79c5a18d-0295-432c-aaa5-961d73de6d88",
+        "name": "IEEE Transactions on Neural Networks and Learning Systems",
+        "alternate_names": [
+          "IEEE Trans Neural Netw Learn Syst"
+        ],
+        "issn": "2162-237X",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=5962385",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4d5baf0cddb26e1c5c914203ffd85a837d421e1e",
+      "title": "An Efficient Topological Distance-Based Tree Kernel",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2015,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "34086979",
+          "name": "Giovanni Da San Martino"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "8aab19ab009d8922b63edf5c6b1e1b9f468f5e9d",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8aab19ab009d8922b63edf5c6b1e1b9f468f5e9d",
+      "title": "Feature and kernel learning",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2015,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1396889028",
+          "name": "V. Bol\u00f3n-Canedo"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "937b3cbf692728f2202164fbfa974f643e2ce189",
+      "publicationVenue": {
+        "id": "df12d289-f447-47d3-8846-75e39de3ab57",
+        "name": "Neurocomputing",
+        "type": "journal",
+        "issn": "0925-2312",
+        "url": "http://www.elsevier.com/locate/neucom",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09252312"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/937b3cbf692728f2202164fbfa974f643e2ce189",
+      "title": "EasyMKL: a scalable multiple kernel learning algorithm",
+      "venue": "Neurocomputing",
+      "year": 2015,
+      "citationCount": 167,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        }
+      ]
+    },
+    {
+      "paperId": "b37dd1ce72aaf4fa3ba2fdb7a2d2d07aa513cc30",
+      "publicationVenue": {
+        "id": "8a9e9f3b-a025-473d-801e-72cdb0653d22",
+        "name": "IEEE Symposium Series on Computational Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Symp Ser Comput Intell",
+          "SSCI"
+        ],
+        "url": "http://www.ieee-ssci.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b37dd1ce72aaf4fa3ba2fdb7a2d2d07aa513cc30",
+      "title": "Multiple Graph-Kernel Learning",
+      "venue": "IEEE Symposium Series on Computational Intelligence",
+      "year": 2015,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1715584",
+          "name": "Nicol\u00f3 Navarin"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "1873067dbb8f32062297361e85218f8e5982b12e",
+      "publicationVenue": {
+        "id": "61275a16-1e0d-479f-ac4e-f295310761f0",
+        "name": "ACM Conference on Recommender Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Recomm Syst",
+          "RecSys",
+          "ACM Conf Recomm Syst",
+          "Conference on Recommender Systems"
+        ],
+        "url": "http://recsys.acm.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1873067dbb8f32062297361e85218f8e5982b12e",
+      "title": "Convex AUC optimization for top-N recommendation with implicit feedback",
+      "venue": "ACM Conference on Recommender Systems",
+      "year": 2014,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "446665cfd12a6a76df8d5a49209bc89dcf3df952",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/446665cfd12a6a76df8d5a49209bc89dcf3df952",
+      "title": "Easy multiple kernel learning",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2014,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        }
+      ]
+    },
+    {
+      "paperId": "c2b00cd371a8b813f30e2563377c9c9c1bcd6b95",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c2b00cd371a8b813f30e2563377c9c9c1bcd6b95",
+      "title": "Stacked Models for Efficient Annotation of Brain Tissues in MR Volumes",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "2313841",
+          "name": "E. Poletti"
+        },
+        {
+          "authorId": "66012118",
+          "name": "E. Grisan"
+        }
+      ]
+    },
+    {
+      "paperId": "c82e3887bcba8947b3e8b478abf9a79e02939421",
+      "publicationVenue": {
+        "id": "1a6fcbea-d548-4792-82a8-7b123aa9d616",
+        "name": "International Conference on Mobile and Ubiquitous Systems: Networking and Services",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Mob Ubiquitous Syst Netw Serv",
+          "MobiQuitous"
+        ],
+        "url": "http://www.mobiquitous.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c82e3887bcba8947b3e8b478abf9a79e02939421",
+      "title": "ClimbTheWorld: real-time stairstep counting to increase physical activity",
+      "venue": "International Conference on Mobile and Ubiquitous Systems: Networking and Services",
+      "year": 2014,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1734596",
+          "name": "Matteo Ciman"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1717342",
+          "name": "O. Gaggi"
+        }
+      ]
+    },
+    {
+      "paperId": "f5968a401ecd76f12e5cad55b3ceb83dec8f36f2",
+      "publicationVenue": {
+        "id": "3e64b1c1-745f-4edf-bd92-b8ef122bb49c",
+        "name": "International Conference on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Artif Neural Netw",
+          "ICANN"
+        ],
+        "url": "http://www.e-nns.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f5968a401ecd76f12e5cad55b3ceb83dec8f36f2",
+      "title": "Learning Anisotropic RBF Kernels",
+      "venue": "International Conference on Artificial Neural Networks",
+      "year": 2014,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        }
+      ]
+    },
+    {
+      "paperId": "3ffa26891259f4016d1f9250c29d6898bff9a3dd",
+      "publicationVenue": {
+        "id": "47df21e6-b8c3-4bd5-82ad-b3352550c09d",
+        "name": "Italian Information Retrieval Workshop",
+        "type": "conference",
+        "alternate_names": [
+          "IIR",
+          "Ital Inf Retr Workshop"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1562"
+      },
+      "url": "https://www.semanticscholar.org/paper/3ffa26891259f4016d1f9250c29d6898bff9a3dd",
+      "title": "A Preliminary Study on a Recommender System for the Million Songs Dataset Challenge",
+      "venue": "Italian Information Retrieval Workshop",
+      "year": 2013,
+      "citationCount": 37,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "b01790deac3391098460740cbac577445bd4da49",
+      "publicationVenue": {
+        "id": "61275a16-1e0d-479f-ac4e-f295310761f0",
+        "name": "ACM Conference on Recommender Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Recomm Syst",
+          "RecSys",
+          "ACM Conf Recomm Syst",
+          "Conference on Recommender Systems"
+        ],
+        "url": "http://recsys.acm.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b01790deac3391098460740cbac577445bd4da49",
+      "title": "Efficient top-n recommendation for very large scale binary rated datasets",
+      "venue": "ACM Conference on Recommender Systems",
+      "year": 2013,
+      "citationCount": 122,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "6fb9f10c544b692e77688a45cfac24e7d5501c9d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6fb9f10c544b692e77688a45cfac24e7d5501c9d",
+      "title": "Preference Learning: Problems and Applications in Ai Preference Learning: Problems and Applications in Ai (pl-12) Contents a Preliminary Study on a Recommender System for the Million Songs Dataset Using and Learning Gai-decompositions for Representing Ordinal Rankings Alleviating Cold-user Start Pro",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 2,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1747752",
+          "name": "Johannes F\u00fcrnkranz"
+        },
+        {
+          "authorId": "1691955",
+          "name": "Eyke H\u00fcllermeier"
+        },
+        {
+          "authorId": "35559434",
+          "name": "D. Bigot"
+        },
+        {
+          "authorId": "1760182",
+          "name": "H. Fargier"
+        },
+        {
+          "authorId": "2797015",
+          "name": "J. Mengin"
+        },
+        {
+          "authorId": "1722196",
+          "name": "E. Castillejo"
+        },
+        {
+          "authorId": "1944615571",
+          "name": "A. Almeida"
+        },
+        {
+          "authorId": "2053968380",
+          "name": "D. L\u00f3pez"
+        },
+        {
+          "authorId": "2047832379",
+          "name": "D. Meunier"
+        },
+        {
+          "authorId": "1913084",
+          "name": "Y. Deguchi"
+        },
+        {
+          "authorId": "1688702",
+          "name": "R. Akrour"
+        },
+        {
+          "authorId": "2065195167",
+          "name": "E. Suzuki"
+        },
+        {
+          "authorId": "69881991",
+          "name": "Marc Schoenauer"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "87c33fbfdd06190345c843173c0c7459b608eab6",
+      "publicationVenue": {
+        "id": "be3f884c-b44a-496a-a593-1cad3f89d254",
+        "name": "BMC Bioinformatics",
+        "type": "journal",
+        "alternate_names": [
+          "BMC Bioinform"
+        ],
+        "issn": "1471-2105",
+        "url": "http://www.biomedcentral.com/bmcbioinformatics",
+        "alternate_urls": [
+          "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=13",
+          "http://www.biomedcentral.com/bmcbioinformatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/87c33fbfdd06190345c843173c0c7459b608eab6",
+      "title": "Improving biomarker list stability by integration of biological knowledge in the learning process",
+      "venue": "BMC Bioinformatics",
+      "year": 2012,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine",
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "2177843",
+          "name": "Tiziana Sanavia"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "34086979",
+          "name": "Giovanni Da San Martino"
+        },
+        {
+          "authorId": "34320213",
+          "name": "A. Bisognin"
+        },
+        {
+          "authorId": "1861441",
+          "name": "B. Camillo"
+        }
+      ]
+    },
+    {
+      "paperId": "5f3f407256ac0d4bd8ebade78031f0bb037f4998",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/5f3f407256ac0d4bd8ebade78031f0bb037f4998",
+      "title": "A Business Process Metric Based on the Alpha Algorithm Relations",
+      "venue": "Business Process Management Workshops",
+      "year": 2011,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2523867",
+          "name": "Andrea Burattin"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "aeec3fecbe1918351bb462e07f5609d24dffc17a",
+      "publicationVenue": {
+        "id": "3e64b1c1-745f-4edf-bd92-b8ef122bb49c",
+        "name": "International Conference on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Artif Neural Netw",
+          "ICANN"
+        ],
+        "url": "http://www.e-nns.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/aeec3fecbe1918351bb462e07f5609d24dffc17a",
+      "title": "Extending Tree Kernels with Topological Information",
+      "venue": "International Conference on Artificial Neural Networks",
+      "year": 2011,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "34086979",
+          "name": "Giovanni Da San Martino"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "b906e330c2110cb54f2682de14dd3ed706a314fa",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b906e330c2110cb54f2682de14dd3ed706a314fa",
+      "title": "A Study on the Writer Identification Task for Paleograpnic Document Analysis",
+      "venue": "",
+      "year": 2011,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1874567",
+          "name": "Manuel Giollo"
+        }
+      ]
+    },
+    {
+      "paperId": "bc4eef85b74cde7ef9b2292c0e54fbb02ccdb320",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/bc4eef85b74cde7ef9b2292c0e54fbb02ccdb320",
+      "title": "Metric for Clustering Business Processes Based on Alpha Algorithm Relations",
+      "venue": "",
+      "year": 2011,
+      "citationCount": 7,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2523867",
+          "name": "Andrea Burattin"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "c6e026bb235be685d45c522d4446569d99532a88",
+      "publicationVenue": {
+        "id": "df12d289-f447-47d3-8846-75e39de3ab57",
+        "name": "Neurocomputing",
+        "type": "journal",
+        "issn": "0925-2312",
+        "url": "http://www.elsevier.com/locate/neucom",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09252312"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c6e026bb235be685d45c522d4446569d99532a88",
+      "title": "Advances in artificial neural networks, machine learning and computational intelligence",
+      "venue": "Neurocomputing",
+      "year": 2011,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2274157193",
+          "name": "Ga\u00eblle Bonnet-Loosli"
+        },
+        {
+          "authorId": "2274147746",
+          "name": "Romain H\u00e9rault"
+        }
+      ]
+    },
+    {
+      "paperId": "16bb6dbe5ad68108c57a0c5c300cb5a09cc3e08b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/16bb6dbe5ad68108c57a0c5c300cb5a09cc3e08b",
+      "title": "Text Categorization by Backpropagation Network",
+      "venue": "",
+      "year": 2010,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2289622540",
+          "name": "Lam Lai Yin"
+        },
+        {
+          "authorId": "2285044462",
+          "name": "Dominic Savio"
+        },
+        {
+          "authorId": "2285045256",
+          "name": "James A.Freeman"
+        },
+        {
+          "authorId": "2760549",
+          "name": "D. Skapura"
+        },
+        {
+          "authorId": "2285044167",
+          "name": "Fabrizio Sebastiani Consiglio"
+        },
+        {
+          "authorId": "2066315281",
+          "name": "Renato Fernandes Corr\u00eaa"
+        },
+        {
+          "authorId": "2250538464",
+          "name": "T. Ludermir"
+        },
+        {
+          "authorId": "2285043905",
+          "name": "Kamal Nigam"
+        },
+        {
+          "authorId": "2285043685",
+          "name": "A. Mccallum"
+        },
+        {
+          "authorId": "2240346365",
+          "name": "Sebastian Thrun"
+        },
+        {
+          "authorId": "2285043595",
+          "name": "Tom Mitchel"
+        },
+        {
+          "authorId": "2285045949",
+          "name": "Fuchun Peng"
+        },
+        {
+          "authorId": "2285169631",
+          "name": "Xiangji Huang"
+        },
+        {
+          "authorId": "22642125",
+          "name": "Agustin Casamayor"
+        },
+        {
+          "authorId": "2264154986",
+          "name": "Daniela Godoy"
+        },
+        {
+          "authorId": "2264146705",
+          "name": "Marcelo Campo"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2285044441",
+          "name": "Ricardo Cardin"
+        },
+        {
+          "authorId": "2285044305",
+          "name": "Fabrizio Sebastiani"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        },
+        {
+          "authorId": "2285039875",
+          "name": "\u201dPreferential"
+        },
+        {
+          "authorId": "1988453",
+          "name": "Ron Bekkerman"
+        },
+        {
+          "authorId": "2237634071",
+          "name": "Ran El-Yaniv"
+        },
+        {
+          "authorId": "2252012071",
+          "name": "Naftali Tishby"
+        }
+      ]
+    },
+    {
+      "paperId": "639dc2b05a1a646e9cf16363daae9d63c5113b26",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/639dc2b05a1a646e9cf16363daae9d63c5113b26",
+      "title": "A Preference Optimization Based Unifying Framework for Supervised Learning Problems",
+      "venue": "Preference Learning",
+      "year": 2010,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "d2660990dad838fccac20735179015a948d10d80",
+      "publicationVenue": {
+        "id": "3e64b1c1-745f-4edf-bd92-b8ef122bb49c",
+        "name": "International Conference on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Artif Neural Netw",
+          "ICANN"
+        ],
+        "url": "http://www.e-nns.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d2660990dad838fccac20735179015a948d10d80",
+      "title": "A New Tree Kernel Based on SOM-SD",
+      "venue": "International Conference on Artificial Neural Networks",
+      "year": 2010,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "34086979",
+          "name": "Giovanni Da San Martino"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "4025b42e2f711515c678513ebca23c2371d56f58",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4025b42e2f711515c678513ebca23c2371d56f58",
+      "title": "Route kernels for trees",
+      "venue": "International Conference on Machine Learning",
+      "year": 2009,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "34086979",
+          "name": "Giovanni Da San Martino"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "4846be929f6efc25619ad10e48819cc5c4a19120",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4846be929f6efc25619ad10e48819cc5c4a19120",
+      "title": "Self-Organizing Maps for Structured Domains: Theory, Models, and Learning of Kernels",
+      "venue": "Innovations in Neural Information Paradigms and Applications",
+      "year": 2009,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "34086979",
+          "name": "Giovanni Da San Martino"
+        },
+        {
+          "authorId": "1784450",
+          "name": "M. Hagenbuchner"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "576adf4dded9d4f92fe54ad381981a949d945ed2",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/576adf4dded9d4f92fe54ad381981a949d945ed2",
+      "title": "Proceedings of the 2009 Conference on Computational Intelligence and Bioengineering: Essays in Memory of Antonina Starita",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1929345",
+          "name": "Arianna Ciula"
+        }
+      ]
+    },
+    {
+      "paperId": "681e6f6b20257b0c5835881f09c2a2bac84ce7c9",
+      "publicationVenue": {
+        "id": "2ac50919-507e-41c7-93a8-721c4b804757",
+        "name": "IEEE Transactions on Neural Networks",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Neural Netw"
+        ],
+        "issn": "1045-9227",
+        "alternate_issns": [
+          "1941-0093"
+        ],
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=72"
+      },
+      "url": "https://www.semanticscholar.org/paper/681e6f6b20257b0c5835881f09c2a2bac84ce7c9",
+      "title": "Learning Nonsparse Kernels by Self-Organizing Maps for Structured Data",
+      "venue": "IEEE Transactions on Neural Networks",
+      "year": 2009,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "34086979",
+          "name": "Giovanni Da San Martino"
+        },
+        {
+          "authorId": "1784450",
+          "name": "M. Hagenbuchner"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "690fde92d41f9e7cb42eb121d0de2d91881cc3d1",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/690fde92d41f9e7cb42eb121d0de2d91881cc3d1",
+      "title": "A case study on the System for Paleographic Inspections (SPI): challenges and new developments",
+      "venue": "Computational Intelligence and Bioengineering",
+      "year": 2009,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1929345",
+          "name": "Arianna Ciula"
+        }
+      ]
+    },
+    {
+      "paperId": "6bc8f9bb9a799dfaf1372eb69dd9ec1d8e1edf57",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6bc8f9bb9a799dfaf1372eb69dd9ec1d8e1edf57",
+      "title": "Efficient Linearization of Tree Kernel Functions",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2009,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "34086979",
+          "name": "Giovanni Da San Martino"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        },
+        {
+          "authorId": "1719404",
+          "name": "Alessandro Moschitti"
+        }
+      ]
+    },
+    {
+      "paperId": "7902318b9409370f43816a148c23b6af82c1d6c9",
+      "publicationVenue": {
+        "id": "9ed28ae9-1240-4565-a2e3-3c7ee6cf679f",
+        "name": "IEEE Symposium on Computational Intelligence and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "Comput Intell Data Min",
+          "Computational Intelligence and Data Mining",
+          "CIDM",
+          "IEEE Symp Comput Intell Data Min"
+        ],
+        "url": "http://www.ieee-ssci.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7902318b9409370f43816a148c23b6af82c1d6c9",
+      "title": "Application of the preference learning model to a human resources selection task",
+      "venue": "IEEE Symposium on Computational Intelligence and Data Mining",
+      "year": 2009,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1901847",
+          "name": "Michele De Filippo De Grazia"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "81c0410c0647abad0ce3ddf955697ec274003066",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/81c0410c0647abad0ce3ddf955697ec274003066",
+      "title": "Enhancing Artificial Intelligence on a Real Mobile Game",
+      "venue": "Int. J. Comput. Games Technol.",
+      "year": 2009,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "4434293",
+          "name": "C. Palazzi"
+        }
+      ]
+    },
+    {
+      "paperId": "8c11a34c3245ceecff15d69dd388516e1a283304",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8c11a34c3245ceecff15d69dd388516e1a283304",
+      "title": "Preferential text classification: learning algorithms and evaluation measures",
+      "venue": "Information retrieval (Boston)",
+      "year": 2009,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "38867541",
+          "name": "Riccardo Cardin"
+        },
+        {
+          "authorId": "145077269",
+          "name": "F. Sebastiani"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "c94e53ffc7d88b886a9ac3d035854bced8e9f31b",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c94e53ffc7d88b886a9ac3d035854bced8e9f31b",
+      "title": "Supervised learning as preference optimization",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2009,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "82f2125255802c8d39a16d662f6551d7b47bdfe7",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/82f2125255802c8d39a16d662f6551d7b47bdfe7",
+      "title": "Supervised Learning as Preference Optimization : A General Framework and its Applications",
+      "venue": "",
+      "year": 2008,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "937a74aec252f6c547df7146bd9c4557ba778168",
+      "publicationVenue": {
+        "id": "3e64b1c1-745f-4edf-bd92-b8ef122bb49c",
+        "name": "International Conference on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Artif Neural Netw",
+          "ICANN"
+        ],
+        "url": "http://www.e-nns.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/937a74aec252f6c547df7146bd9c4557ba778168",
+      "title": "A Kernel Method for the Optimization of the Margin Distribution",
+      "venue": "International Conference on Artificial Neural Networks",
+      "year": 2008,
+      "citationCount": 43,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "34086979",
+          "name": "Giovanni Da San Martino"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "f34d9ca1338189f9d829e07690115f7d8aa12d67",
+      "publicationVenue": {
+        "id": "7733c77e-372d-44c5-a5bd-1a4297cf94ea",
+        "name": "International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation",
+        "type": "conference",
+        "alternate_names": [
+          "ECS",
+          "Int Conf Embed Comput Syst Archit Model Simul"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f34d9ca1338189f9d829e07690115f7d8aa12d67",
+      "title": "Enhancing Artificial Intelligence in Games by Learning the Opponent's Playing Style",
+      "venue": "International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation",
+      "year": 2008,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "4434293",
+          "name": "C. Palazzi"
+        }
+      ]
+    },
+    {
+      "paperId": "17bd0f2b7bb22f2ff380ac8e4b174aa0b6002a2c",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/17bd0f2b7bb22f2ff380ac8e4b174aa0b6002a2c",
+      "title": "PreferenceLearning forCategory-Ranking based Interactive TextCategorization",
+      "venue": "",
+      "year": 2007,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "145077269",
+          "name": "F. Sebastiani"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "1e8408996e536194b640775567061a79b730e9f9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1e8408996e536194b640775567061a79b730e9f9",
+      "title": "Preference Learning for Category-Ranking based Interactive Text Categorization",
+      "venue": "2007 International Joint Conference on Neural Networks",
+      "year": 2007,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "145077269",
+          "name": "F. Sebastiani"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "7d5b9fb3d6cf1076a7586d293e6a0d640db14dc5",
+      "publicationVenue": {
+        "id": "9ed28ae9-1240-4565-a2e3-3c7ee6cf679f",
+        "name": "IEEE Symposium on Computational Intelligence and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "Comput Intell Data Min",
+          "Computational Intelligence and Data Mining",
+          "CIDM",
+          "IEEE Symp Comput Intell Data Min"
+        ],
+        "url": "http://www.ieee-ssci.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7d5b9fb3d6cf1076a7586d293e6a0d640db14dc5",
+      "title": "Efficient Kernel-based Learning for Trees",
+      "venue": "IEEE Symposium on Computational Intelligence and Data Mining",
+      "year": 2007,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "34086979",
+          "name": "Giovanni Da San Martino"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        },
+        {
+          "authorId": "1719404",
+          "name": "Alessandro Moschitti"
+        }
+      ]
+    },
+    {
+      "paperId": "a4d4fa38e1ed951d895749b6a3b63cd5c466141b",
+      "publicationVenue": {
+        "id": "93d6c444-c90a-48ee-a3ad-ef1f015bc28a",
+        "name": "The European Symposium on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Symp Artif Neural Netw",
+          "ESANN"
+        ],
+        "url": "https://www.esann.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a4d4fa38e1ed951d895749b6a3b63cd5c466141b",
+      "title": "\"Kernelized\" Self-Organizing Maps for Structured Data",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2007,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "34086979",
+          "name": "Giovanni Da San Martino"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        },
+        {
+          "authorId": "1784450",
+          "name": "M. Hagenbuchner"
+        }
+      ]
+    },
+    {
+      "paperId": "26facd0f263d30c8f5cc8f0b4628ae7e79862b7d",
+      "publicationVenue": {
+        "id": "67d15a94-d523-4b5f-be58-03fe2ef9dcfb",
+        "name": "Industrial Conference on Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "Ind Conf Data Min",
+          "ICDM"
+        ],
+        "url": "http://www.data-mining-forum.de/"
+      },
+      "url": "https://www.semanticscholar.org/paper/26facd0f263d30c8f5cc8f0b4628ae7e79862b7d",
+      "title": "Fast On-line Kernel Learning for Trees",
+      "venue": "Industrial Conference on Data Mining",
+      "year": 2006,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2288337724",
+          "name": "Giovanni Da San Martino"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        },
+        {
+          "authorId": "1719404",
+          "name": "Alessandro Moschitti"
+        }
+      ]
+    },
+    {
+      "paperId": "1c6559594daa38003a1dc6362f48088dd2ac0add",
+      "publicationVenue": {
+        "id": "67d15a94-d523-4b5f-be58-03fe2ef9dcfb",
+        "name": "Industrial Conference on Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "Ind Conf Data Min",
+          "ICDM"
+        ],
+        "url": "http://www.data-mining-forum.de/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1c6559594daa38003a1dc6362f48088dd2ac0add",
+      "title": "A preference model for structured supervised learning tasks",
+      "venue": "Industrial Conference on Data Mining",
+      "year": 2005,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "55509368c151272725b123a966c9ec9a7de6d8c6",
+      "publicationVenue": {
+        "id": "c22e7c36-3bfa-43e1-bb7b-edccdea2a780",
+        "name": "Journal of machine learning research",
+        "type": "journal",
+        "alternate_names": [
+          "Journal of Machine Learning Research",
+          "J mach learn res",
+          "J Mach Learn Res"
+        ],
+        "issn": "1532-4435",
+        "alternate_issns": [
+          "1533-7928"
+        ],
+        "url": "http://www.ai.mit.edu/projects/jmlr/",
+        "alternate_urls": [
+          "http://jmlr.csail.mit.edu/",
+          "http://www.jmlr.org/",
+          "http://portal.acm.org/affiliated/jmlr"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/55509368c151272725b123a966c9ec9a7de6d8c6",
+      "title": "Multiclass Classification with Multi-Prototype Support Vector Machines",
+      "venue": "Journal of machine learning research",
+      "year": 2005,
+      "citationCount": 68,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "a729e8534f9860728f8bdfaee6451fd2929409c0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a729e8534f9860728f8bdfaee6451fd2929409c0",
+      "title": "Large margin multiclass learning",
+      "venue": "",
+      "year": 2004,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "c5f36012afba757246fc82c7936fc5b7ffde245e",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c5f36012afba757246fc82c7936fc5b7ffde245e",
+      "title": "Learning Preferences for Multiclass Problems",
+      "venue": "Neural Information Processing Systems",
+      "year": 2004,
+      "citationCount": 39,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "f506cb8455a73b4da267f21b721e76e55b911bda",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f506cb8455a73b4da267f21b721e76e55b911bda",
+      "title": "Large Margin Multiclass Learning: Models and Algorithms",
+      "venue": "",
+      "year": 2004,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        }
+      ]
+    },
+    {
+      "paperId": "105c66a490297bb68f2e6af11dfd00a55905accb",
+      "publicationVenue": {
+        "id": "67f7f831-711a-43c8-8785-1e09005359b5",
+        "name": "International Joint Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Jt Conf Artif Intell",
+          "IJCAI"
+        ],
+        "url": "http://www.ijcai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/105c66a490297bb68f2e6af11dfd00a55905accb",
+      "title": "Multi-prototype Support Vector Machine",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2003,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "6e56862752f665a6afbda02c7eca9d16cbb0bc85",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6e56862752f665a6afbda02c7eca9d16cbb0bc85",
+      "title": "Speeding up the solution of multilabel problems with Support Vector Machines",
+      "venue": "",
+      "year": 2003,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "2869385",
+          "name": "F. Portera"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "b58a8b1be1b52bced9d8b24e318e65596a71b9c6",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b58a8b1be1b52bced9d8b24e318e65596a71b9c6",
+      "title": "An efficient SMO-like algorithm for multiclass SVM",
+      "venue": "Proceedings of the 12th IEEE Workshop on Neural Networks for Signal Processing",
+      "year": 2002,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "bd4d23ae3e87008417967c7bc970495a01f4157f",
+      "publicationVenue": {
+        "id": "96018464-22dc-4b5c-a172-c2f4a30ce131",
+        "name": "Artificial Intelligence",
+        "type": "journal",
+        "alternate_names": [
+          "Artif Intell"
+        ],
+        "issn": "0004-3702",
+        "alternate_issns": [
+          "2633-1403",
+          "2710-1673",
+          "2710-1681"
+        ],
+        "url": "http://www.elsevier.com/locate/artint",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/00043702",
+          "https://www.journals.elsevier.com/artificial-intelligence"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/bd4d23ae3e87008417967c7bc970495a01f4157f",
+      "title": "A re-weighting strategy for improving margins",
+      "venue": "Artificial Intelligence",
+      "year": 2002,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "6e7bafc64c13a49924e3cc5fb51b01533365af87",
+      "publicationVenue": {
+        "id": "67f7f831-711a-43c8-8785-1e09005359b5",
+        "name": "International Joint Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Jt Conf Artif Intell",
+          "IJCAI"
+        ],
+        "url": "http://www.ijcai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6e7bafc64c13a49924e3cc5fb51b01533365af87",
+      "title": "A Simple Additive Re-weighting Strategy for Improving Margins",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2001,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        }
+      ]
+    },
+    {
+      "paperId": "3d4f472361e54fbfb1b8f05412f8a6c56505eb14",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3d4f472361e54fbfb1b8f05412f8a6c56505eb14",
+      "title": "SPI: A System for Paleographic Inspections",
+      "venue": "",
+      "year": 1999,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "35184435",
+          "name": "M. Simi"
+        },
+        {
+          "authorId": "1727490",
+          "name": "Diego Sona"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        },
+        {
+          "authorId": "1678493",
+          "name": "A. Starita"
+        }
+      ]
+    },
+    {
+      "paperId": "3f84b6c9a8ac908b3d6919cf8d7fadd3ecde8ae0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3f84b6c9a8ac908b3d6919cf8d7fadd3ecde8ae0",
+      "title": "Preference Learning",
+      "venue": "",
+      "year": null,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2350506684",
+          "name": "Dr. Johannes F\u00fcrnkranz"
+        },
+        {
+          "authorId": "2350504921",
+          "name": "Prof. Dr. Eyke H\u00fcllermeier"
+        },
+        {
+          "authorId": "145225331",
+          "name": "Springer Heidelberg"
+        },
+        {
+          "authorId": "2056843517",
+          "name": "Dordrecht London"
+        },
+        {
+          "authorId": "2275738893",
+          "name": "New York"
+        },
+        {
+          "authorId": "2350508789",
+          "name": "KuenkelLopka GmbH"
+        },
+        {
+          "authorId": "2350506467",
+          "name": "Darmstadt Marburg"
+        },
+        {
+          "authorId": "1788286",
+          "name": "F. Aiolli"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        },
+        {
+          "authorId": "2823706",
+          "name": "Shankar Vembu"
+        },
+        {
+          "authorId": "2350508774",
+          "name": "Thomas G\u00e4rtner"
+        },
+        {
+          "authorId": "2350536798",
+          "name": "Philip L.H. Yu"
+        },
+        {
+          "authorId": "31913621",
+          "name": "W. M. Wan"
+        },
+        {
+          "authorId": "2191610719",
+          "name": "Paul H. Lee"
+        },
+        {
+          "authorId": "2919533",
+          "name": "Evgeni Tsivtsivadze"
+        },
+        {
+          "authorId": "1731090",
+          "name": "T. Pahikkala"
+        },
+        {
+          "authorId": "32748224",
+          "name": "J. Boberg"
+        },
+        {
+          "authorId": "1680811",
+          "name": "T. Salakoski"
+        },
+        {
+          "authorId": "1790356",
+          "name": "T. Heskes"
+        },
+        {
+          "authorId": "3249834",
+          "name": "W. Waegeman"
+        },
+        {
+          "authorId": "1737629",
+          "name": "B. Baets"
+        },
+        {
+          "authorId": "2312008669",
+          "name": "Jianping Zhang"
+        },
+        {
+          "authorId": "2252179086",
+          "name": "Jerzy W. Bala"
+        },
+        {
+          "authorId": "3120887",
+          "name": "Ali Hadjarian"
+        },
+        {
+          "authorId": "2351021297",
+          "name": "Brent Han"
+        },
+        {
+          "authorId": "2257260430",
+          "name": "Toshihiro Kamishima"
+        },
+        {
+          "authorId": "2239280900",
+          "name": "Hideto Kazawa"
+        },
+        {
+          "authorId": "143683998",
+          "name": "S. Akaho"
+        },
+        {
+          "authorId": "2238079770",
+          "name": "Krzysztof Dembczy\u00b4nski"
+        },
+        {
+          "authorId": "2238079523",
+          "name": "Wojciech Kotlowski"
+        },
+        {
+          "authorId": "2274400802",
+          "name": "Roman S\u0142owi\u00b4nski"
+        },
+        {
+          "authorId": "1759051",
+          "name": "M. Szel\u0105g"
+        },
+        {
+          "authorId": "36166227",
+          "name": "F. Yaman"
+        },
+        {
+          "authorId": "2348230530",
+          "name": "Thomas J. Walsh"
+        },
+        {
+          "authorId": "2249168560",
+          "name": "M. L. Littman"
+        },
+        {
+          "authorId": "2285711862",
+          "name": "Marie desJardins"
+        },
+        {
+          "authorId": "1705871",
+          "name": "Y. Chevaleyre"
+        },
+        {
+          "authorId": "1965261",
+          "name": "F. Koriche"
+        },
+        {
+          "authorId": "2238576885",
+          "name": "J\u00e9r\u00f4me Lang"
+        },
+        {
+          "authorId": "2797015",
+          "name": "J. Mengin"
+        },
+        {
+          "authorId": "2486264",
+          "name": "B. Zanuttini"
+        },
+        {
+          "authorId": "2302745694",
+          "name": "Joachim Giesen"
+        },
+        {
+          "authorId": "2350566737",
+          "name": "Klaus Mueller"
+        },
+        {
+          "authorId": "3326792",
+          "name": "Bilyana Taneva"
+        },
+        {
+          "authorId": "1783825",
+          "name": "P. Zolliker"
+        },
+        {
+          "authorId": "2289153523",
+          "name": "Filip Radlinski"
+        },
+        {
+          "authorId": "144002126",
+          "name": "Madhu Kurup"
+        },
+        {
+          "authorId": "2289090848",
+          "name": "Thorsten Joachims"
+        },
+        {
+          "authorId": "6042025",
+          "name": "M. D. Gemmis"
+        },
+        {
+          "authorId": "2724704",
+          "name": "L. Iaquinta"
+        },
+        {
+          "authorId": "2270202662",
+          "name": "Pasquale Lops"
+        },
+        {
+          "authorId": "1704489",
+          "name": "C. Musto"
+        },
+        {
+          "authorId": "1741231",
+          "name": "F. Narducci"
+        },
+        {
+          "authorId": "2270205261",
+          "name": "Giovanni Semeraro"
+        },
+        {
+          "authorId": "2257295049",
+          "name": "Alexandros Karatzoglou"
+        },
+        {
+          "authorId": "2257192544",
+          "name": "Markus Weimer"
+        },
+        {
+          "authorId": "1738219",
+          "name": "Alejandro Bellog\u00edn"
+        },
+        {
+          "authorId": "2259403881",
+          "name": "Iv\u00e1n Cantador"
+        },
+        {
+          "authorId": "2248806613",
+          "name": "Pablo Castells"
+        },
+        {
+          "authorId": "2009936",
+          "name": "Alvaro Ortigosa"
+        }
+      ]
+    }
+  ]
+}

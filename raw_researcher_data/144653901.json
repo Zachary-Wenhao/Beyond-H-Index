@@ -1,0 +1,1396 @@
+{
+  "authorId": "144653901",
+  "name": "Daniel Loureiro",
+  "affiliations": [
+    "Cardiff University"
+  ],
+  "paperCount": 25,
+  "citationCount": 1069,
+  "hIndex": 11,
+  "papers": [
+    {
+      "paperId": "4c1f532932a6893969fc5a81a92c0e6988599f6c",
+      "publicationVenue": {
+        "id": "8ee71e17-421e-43db-ad2d-cc8af6217a0d",
+        "name": "European Conference on Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "ECIR",
+          "Eur Conf Inf Retr"
+        ],
+        "url": "https://en.wikipedia.org/wiki/European_Conference_on_Information_Retrieval"
+      },
+      "url": "https://www.semanticscholar.org/paper/4c1f532932a6893969fc5a81a92c0e6988599f6c",
+      "title": "LongEval: Longitudinal Evaluation of Model Performance at CLEF 2023",
+      "venue": "European Conference on Information Retrieval",
+      "year": 2023,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1917612940",
+          "name": "Rabab Alkhalifa"
+        },
+        {
+          "authorId": "2117010132",
+          "name": "I. Bilal"
+        },
+        {
+          "authorId": "151020129",
+          "name": "Hsubhas Borkakoty"
+        },
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        },
+        {
+          "authorId": "2287725",
+          "name": "Romain Deveaud"
+        },
+        {
+          "authorId": "1412404246",
+          "name": "Alaa El-Ebshihy"
+        },
+        {
+          "authorId": "2254466",
+          "name": "Luis Espinosa Anke"
+        },
+        {
+          "authorId": "2003700617",
+          "name": "Gabriela Nicole Gonz\u00e1lez S\u00e1ez"
+        },
+        {
+          "authorId": "1832372",
+          "name": "P. Galusc\u00e1kov\u00e1"
+        },
+        {
+          "authorId": "144354285",
+          "name": "Lorraine Goeuriot"
+        },
+        {
+          "authorId": "144318711",
+          "name": "E. Kochkina"
+        },
+        {
+          "authorId": "48717312",
+          "name": "M. Liakata"
+        },
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "3467205",
+          "name": "Harish Tayyar Madabushi"
+        },
+        {
+          "authorId": "1714010",
+          "name": "P. Mulhem"
+        },
+        {
+          "authorId": "3309646",
+          "name": "Florina Piroi"
+        },
+        {
+          "authorId": "3209310",
+          "name": "M. Popel"
+        },
+        {
+          "authorId": "1890220",
+          "name": "Christophe Servan"
+        },
+        {
+          "authorId": "2805349",
+          "name": "A. Zubiaga"
+        }
+      ]
+    },
+    {
+      "paperId": "577c9c89bf5e3f7faace2caa5e02f9057057cacc",
+      "publicationVenue": {
+        "id": "ab453bce-d4ec-48ec-ad78-ef19dc9333ab",
+        "name": "Conference and Labs of the Evaluation Forum",
+        "type": "conference",
+        "alternate_names": [
+          "CLEF",
+          "Conf Lab Evaluation Forum",
+          "Cross-language Evaluation Forum",
+          "Cross-Language Evaluation Forum"
+        ],
+        "url": "http://www.clef-initiative.eu/"
+      },
+      "url": "https://www.semanticscholar.org/paper/577c9c89bf5e3f7faace2caa5e02f9057057cacc",
+      "title": "Overview of the CLEF-2023 LongEval Lab on Longitudinal Evaluation of Model Performance",
+      "venue": "Conference and Labs of the Evaluation Forum",
+      "year": 2023,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1917612940",
+          "name": "Rabab Alkhalifa"
+        },
+        {
+          "authorId": "2117010132",
+          "name": "I. Bilal"
+        },
+        {
+          "authorId": "2022477509",
+          "name": "Hsuvas Borkakoty"
+        },
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        },
+        {
+          "authorId": "2241526757",
+          "name": "Romain Deveaud"
+        },
+        {
+          "authorId": "1412404246",
+          "name": "Alaa El-Ebshihy"
+        },
+        {
+          "authorId": "2254466",
+          "name": "Luis Espinosa Anke"
+        },
+        {
+          "authorId": "2003700617",
+          "name": "Gabriela Nicole Gonz\u00e1lez S\u00e1ez"
+        },
+        {
+          "authorId": "1832372",
+          "name": "P. Galusc\u00e1kov\u00e1"
+        },
+        {
+          "authorId": "144354285",
+          "name": "Lorraine Goeuriot"
+        },
+        {
+          "authorId": "144318711",
+          "name": "E. Kochkina"
+        },
+        {
+          "authorId": "1991548",
+          "name": "Maria Liakata"
+        },
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "1714010",
+          "name": "P. Mulhem"
+        },
+        {
+          "authorId": "3309646",
+          "name": "Florina Piroi"
+        },
+        {
+          "authorId": "2241519380",
+          "name": "Martin Popel"
+        },
+        {
+          "authorId": "1890220",
+          "name": "Christophe Servan"
+        },
+        {
+          "authorId": "3467205",
+          "name": "Harish Tayyar Madabushi"
+        },
+        {
+          "authorId": "2805349",
+          "name": "A. Zubiaga"
+        }
+      ]
+    },
+    {
+      "paperId": "65a08d863c6ea1ffa458dfdfd0471309c743f366",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/65a08d863c6ea1ffa458dfdfd0471309c743f366",
+      "title": "A Comprehensive Evaluation of Biomedical Entity Linking and Normalization Models",
+      "venue": "",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2057234493",
+          "name": "Dhruv Agarwal"
+        },
+        {
+          "authorId": "40555739",
+          "name": "Rico Angell"
+        },
+        {
+          "authorId": "2121348263",
+          "name": "Nicholas Monath"
+        },
+        {
+          "authorId": "2287262451",
+          "name": "Nishant Sunil Mohan"
+        },
+        {
+          "authorId": "1703414",
+          "name": "A. Aronson"
+        },
+        {
+          "authorId": "2287238950",
+          "name": "Francois-Michel Lang. 2010"
+        },
+        {
+          "authorId": "2285366383",
+          "name": "An"
+        },
+        {
+          "authorId": "2910801",
+          "name": "Marco Basaldella"
+        },
+        {
+          "authorId": "2287944357",
+          "name": "Fangyu Liu"
+        },
+        {
+          "authorId": "2888926",
+          "name": "Ehsan Shareghi"
+        },
+        {
+          "authorId": "41019080",
+          "name": "Nicola De Cao"
+        },
+        {
+          "authorId": "2261981869",
+          "name": "Gautier Izacard"
+        },
+        {
+          "authorId": "2257279869",
+          "name": "Sebastian Riedel"
+        },
+        {
+          "authorId": "2841893",
+          "name": "Aakanksha Chowdhery"
+        },
+        {
+          "authorId": "46617804",
+          "name": "Sharan Narang"
+        },
+        {
+          "authorId": "2261961752",
+          "name": "J. Devlin"
+        },
+        {
+          "authorId": "108109364",
+          "name": "A. P. Davis"
+        },
+        {
+          "authorId": "47186808",
+          "name": "Cynthia J. Grondin"
+        },
+        {
+          "authorId": "2287133616",
+          "name": "John-528 son"
+        },
+        {
+          "authorId": "2160494",
+          "name": "D. Sciaky"
+        },
+        {
+          "authorId": "9693063",
+          "name": "Roy McMorran"
+        },
+        {
+          "authorId": "8380092",
+          "name": "Jolene Wiegers"
+        },
+        {
+          "authorId": "2273837286",
+          "name": "Dina Demner-Fushman"
+        },
+        {
+          "authorId": "34708703",
+          "name": "Willie J. Rogers"
+        },
+        {
+          "authorId": "2287215002",
+          "name": "Alan R 533"
+        },
+        {
+          "authorId": "2262085555",
+          "name": "Ming-Wei Chang"
+        },
+        {
+          "authorId": "2262196473",
+          "name": "Kenton Lee"
+        },
+        {
+          "authorId": "2286965082",
+          "name": "Zaiqiao Meng"
+        },
+        {
+          "authorId": "2876316",
+          "name": "Lajanugen Logeswaran"
+        },
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "2287240780",
+          "name": "Al\u00edpio M\u00e1rio"
+        },
+        {
+          "authorId": "1758049",
+          "name": "D. Maglott"
+        },
+        {
+          "authorId": "2286708294",
+          "name": "J. Ostell"
+        },
+        {
+          "authorId": "1753253",
+          "name": "K. Pruitt"
+        },
+        {
+          "authorId": "2288942715",
+          "name": "Donghui Li"
+        },
+        {
+          "authorId": "2287244788",
+          "name": "Medmentions"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "2287206339",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "2260133345",
+          "name": "Iz Beltagy"
+        },
+        {
+          "authorId": "2250741832",
+          "name": "Laurel J. Orr"
+        },
+        {
+          "authorId": "37866790",
+          "name": "Megan Leszczynski"
+        },
+        {
+          "authorId": "2820009",
+          "name": "Neel Guha"
+        },
+        {
+          "authorId": "2286927018",
+          "name": "Sen Wu"
+        },
+        {
+          "authorId": "2285788571",
+          "name": "Simran Arora"
+        },
+        {
+          "authorId": "2286881944",
+          "name": "Xiao Ling"
+        },
+        {
+          "authorId": "2250761261",
+          "name": "Christopher R\u00e9"
+        },
+        {
+          "authorId": "2257278245",
+          "name": "Ouyang Long"
+        },
+        {
+          "authorId": "2242326456",
+          "name": "Jeffrey Wu"
+        },
+        {
+          "authorId": "2262085432",
+          "name": "Xu Jiang"
+        },
+        {
+          "authorId": "2275252021",
+          "name": "Diogo Almeida"
+        },
+        {
+          "authorId": "2275245962",
+          "name": "Carroll L. Wainwright"
+        },
+        {
+          "authorId": "2051714782",
+          "name": "Pamela Mishkin"
+        },
+        {
+          "authorId": "2262080679",
+          "name": "Chong Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "6be95ee876d0ab467931b13e29ed4c644cc9fff2",
+      "publicationVenue": {
+        "id": "ab453bce-d4ec-48ec-ad78-ef19dc9333ab",
+        "name": "Conference and Labs of the Evaluation Forum",
+        "type": "conference",
+        "alternate_names": [
+          "CLEF",
+          "Conf Lab Evaluation Forum",
+          "Cross-language Evaluation Forum",
+          "Cross-Language Evaluation Forum"
+        ],
+        "url": "http://www.clef-initiative.eu/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6be95ee876d0ab467931b13e29ed4c644cc9fff2",
+      "title": "Extended Overview of the CLEF-2023 LongEval Lab on Longitudinal Evaluation of Model Performance",
+      "venue": "Conference and Labs of the Evaluation Forum",
+      "year": 2023,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1917612940",
+          "name": "Rabab Alkhalifa"
+        },
+        {
+          "authorId": "2117010132",
+          "name": "I. Bilal"
+        },
+        {
+          "authorId": "2022477509",
+          "name": "Hsuvas Borkakoty"
+        },
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        },
+        {
+          "authorId": "2241526757",
+          "name": "Romain Deveaud"
+        },
+        {
+          "authorId": "1412404246",
+          "name": "Alaa El-Ebshihy"
+        },
+        {
+          "authorId": "2258950306",
+          "name": "Luis Espinosa Anke"
+        },
+        {
+          "authorId": "2003700617",
+          "name": "Gabriela Nicole Gonz\u00e1lez S\u00e1ez"
+        },
+        {
+          "authorId": "1832372",
+          "name": "P. Galusc\u00e1kov\u00e1"
+        },
+        {
+          "authorId": "144354285",
+          "name": "Lorraine Goeuriot"
+        },
+        {
+          "authorId": "144318711",
+          "name": "E. Kochkina"
+        },
+        {
+          "authorId": "48717312",
+          "name": "M. Liakata"
+        },
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "1714010",
+          "name": "P. Mulhem"
+        },
+        {
+          "authorId": "3309646",
+          "name": "Florina Piroi"
+        },
+        {
+          "authorId": "2241519380",
+          "name": "Martin Popel"
+        },
+        {
+          "authorId": "2261405292",
+          "name": "Christophe Servan"
+        },
+        {
+          "authorId": "3467205",
+          "name": "Harish Tayyar Madabushi"
+        },
+        {
+          "authorId": "2805349",
+          "name": "A. Zubiaga"
+        }
+      ]
+    },
+    {
+      "paperId": "6e9e77206086c3f301e03820cd16a21264b32360",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6e9e77206086c3f301e03820cd16a21264b32360",
+      "title": "Learning Word Sense Representations from Neural Language Models",
+      "venue": "",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        }
+      ]
+    },
+    {
+      "paperId": "e5d879378e1e7f8b2c01538ba541aa2381812e2f",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/e5d879378e1e7f8b2c01538ba541aa2381812e2f",
+      "title": "Tweet Insights: A Visualization Platform to Extract Temporal Insights from Twitter",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "1667035673",
+          "name": "Kiamehr Rezaee"
+        },
+        {
+          "authorId": "2071515376",
+          "name": "Talayeh Riahi"
+        },
+        {
+          "authorId": "1499242010",
+          "name": "Francesco Barbieri"
+        },
+        {
+          "authorId": "152842060",
+          "name": "Leonardo Neves"
+        },
+        {
+          "authorId": "2254466",
+          "name": "Luis Espinosa Anke"
+        },
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        }
+      ]
+    },
+    {
+      "paperId": "39b5a3b516a060d8f7460e0fbedcce72f0190e20",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/39b5a3b516a060d8f7460e0fbedcce72f0190e20",
+      "title": "TimeLMs: Diachronic Language Models from Twitter",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 236,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "1499242010",
+          "name": "Francesco Barbieri"
+        },
+        {
+          "authorId": "152842060",
+          "name": "Leonardo Neves"
+        },
+        {
+          "authorId": "2254466",
+          "name": "Luis Espinosa Anke"
+        },
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        }
+      ]
+    },
+    {
+      "paperId": "3cd9e5de457662f5e3c268f75341a93a16254e55",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3cd9e5de457662f5e3c268f75341a93a16254e55",
+      "title": "Probing Commonsense Knowledge in Pre-trained Language Models with Sense-level Precision and Expanded Vocabulary",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "2105610634",
+          "name": "A. Jorge"
+        }
+      ]
+    },
+    {
+      "paperId": "4e0526421da87d88627fef66e9e84ed559fff249",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/4e0526421da87d88627fef66e9e84ed559fff249",
+      "title": "TweetNLP: Cutting-Edge Natural Language Processing for Social Media",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 117,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        },
+        {
+          "authorId": "1667035673",
+          "name": "Kiamehr Rezaee"
+        },
+        {
+          "authorId": "2071515376",
+          "name": "Talayeh Riahi"
+        },
+        {
+          "authorId": "27044733",
+          "name": "Asahi Ushio"
+        },
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "2122908904",
+          "name": "Dimosthenis Antypas"
+        },
+        {
+          "authorId": "40450311",
+          "name": "Joanne Boisson"
+        },
+        {
+          "authorId": "1405384395",
+          "name": "Luis Espinosa-Anke"
+        },
+        {
+          "authorId": "144097210",
+          "name": "Fangyu Liu"
+        },
+        {
+          "authorId": "1397974254",
+          "name": "Eugenio Mart\u00ednez-C\u00e1mara"
+        },
+        {
+          "authorId": "2174028741",
+          "name": "Gonzalo Medina"
+        },
+        {
+          "authorId": "6014796",
+          "name": "T. Buhrmann"
+        },
+        {
+          "authorId": "152842060",
+          "name": "Leonardo Neves"
+        },
+        {
+          "authorId": "1499242010",
+          "name": "Francesco Barbieri"
+        }
+      ]
+    },
+    {
+      "paperId": "bedad2743c6e4804189b7f0b85ec2924a40d7d90",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/bedad2743c6e4804189b7f0b85ec2924a40d7d90",
+      "title": "TempoWiC: An Evaluation Benchmark for Detecting Meaning Shift in Social Media",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2022,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "2276344777",
+          "name": "Aminette D'Souza"
+        },
+        {
+          "authorId": "2184921647",
+          "name": "Areej Muhajab"
+        },
+        {
+          "authorId": "2184921830",
+          "name": "Isabella A. White"
+        },
+        {
+          "authorId": "2184921317",
+          "name": "Gabriel Wong"
+        },
+        {
+          "authorId": "2254466",
+          "name": "Luis Espinosa Anke"
+        },
+        {
+          "authorId": "152842060",
+          "name": "Leonardo Neves"
+        },
+        {
+          "authorId": "1499242010",
+          "name": "Francesco Barbieri"
+        },
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        }
+      ]
+    },
+    {
+      "paperId": "d3230937c11e7bf5ab10b91775dfc4c3339025a9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d3230937c11e7bf5ab10b91775dfc4c3339025a9",
+      "title": "Unaware of Reality: Inconsistent Grounding in Conversational AI Anonymous",
+      "venue": "",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "2286355751",
+          "name": "Francesco Barbieri"
+        },
+        {
+          "authorId": "2262452292",
+          "name": "Leonardo Neves"
+        },
+        {
+          "authorId": "2258950306",
+          "name": "Luis Espinosa Anke"
+        },
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        },
+        {
+          "authorId": "3849208",
+          "name": "Stephen Roller"
+        },
+        {
+          "authorId": "31461304",
+          "name": "Emily Dinan"
+        },
+        {
+          "authorId": "39589154",
+          "name": "Naman Goyal"
+        },
+        {
+          "authorId": "3092435",
+          "name": "Da Ju"
+        },
+        {
+          "authorId": "2274102335",
+          "name": "Mary Williamson"
+        },
+        {
+          "authorId": "11323179",
+          "name": "Yinhan Liu"
+        },
+        {
+          "authorId": "2285058919",
+          "name": "Jing Xu"
+        },
+        {
+          "authorId": "40511414",
+          "name": "Myle Ott"
+        },
+        {
+          "authorId": "13671251",
+          "name": "Cigdem Turan"
+        },
+        {
+          "authorId": "40896023",
+          "name": "P. Schramowski"
+        },
+        {
+          "authorId": "2288980760",
+          "name": "Constantin"
+        },
+        {
+          "authorId": "6649233",
+          "name": "Margaret Li"
+        },
+        {
+          "authorId": "90841478",
+          "name": "Y-Lan Boureau"
+        }
+      ]
+    },
+    {
+      "paperId": "0db666c8e41a5c8953daba73121f7f08d3ca60ab",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/0db666c8e41a5c8953daba73121f7f08d3ca60ab",
+      "title": "Transformers and Transfer Learning for Improving Portuguese Semantic Role Labeling",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066810458",
+          "name": "S. Oliveira"
+        },
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "1772839",
+          "name": "A. Jorge"
+        }
+      ]
+    },
+    {
+      "paperId": "2d22b0b3339b302d25f5d683950459d2fdfc34bd",
+      "publicationVenue": {
+        "id": "30a8645d-22d4-42e2-b3f6-304bf4ce3a02",
+        "name": "International Conference on Computational Logic",
+        "type": "conference",
+        "alternate_names": [
+          "CL",
+          "Int Conf Comput Log"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2d22b0b3339b302d25f5d683950459d2fdfc34bd",
+      "title": "Analysis and Evaluation of Language Models for Word Sense Disambiguation",
+      "venue": "International Conference on Computational Logic",
+      "year": 2021,
+      "citationCount": 63,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "1667035673",
+          "name": "Kiamehr Rezaee"
+        },
+        {
+          "authorId": "1717641",
+          "name": "Mohammad Taher Pilehvar"
+        },
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        }
+      ]
+    },
+    {
+      "paperId": "401a19f6a5d7dfae9ffdb7760bcc098a965223e3",
+      "publicationVenue": {
+        "id": "96018464-22dc-4b5c-a172-c2f4a30ce131",
+        "name": "Artificial Intelligence",
+        "type": "journal",
+        "alternate_names": [
+          "Artif Intell"
+        ],
+        "issn": "0004-3702",
+        "alternate_issns": [
+          "2633-1403",
+          "2710-1673",
+          "2710-1681"
+        ],
+        "url": "http://www.elsevier.com/locate/artint",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/00043702",
+          "https://www.journals.elsevier.com/artificial-intelligence"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/401a19f6a5d7dfae9ffdb7760bcc098a965223e3",
+      "title": "LMMS Reloaded: Transformer-based Sense Embeddings for Disambiguation and Beyond",
+      "venue": "Artificial Intelligence",
+      "year": 2021,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "2105610634",
+          "name": "A. Jorge"
+        },
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        }
+      ]
+    },
+    {
+      "paperId": "411531965048b73ef2f76b2c2d317d8bc739f05e",
+      "publicationVenue": {
+        "id": "770f1d88-52c2-43dc-a897-6881e70b2f32",
+        "name": "International Conference on Data Science and Advanced Analytics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Data Sci Adv Anal",
+          "IEEE International Conference on Data Science and Advanced Analytics",
+          "IEEE Int Conf Data Sci Adv Anal",
+          "DSAA"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/411531965048b73ef2f76b2c2d317d8bc739f05e",
+      "title": "Improving Portuguese Semantic Role Labeling with Transformers and Transfer Learning",
+      "venue": "International Conference on Data Science and Advanced Analytics",
+      "year": 2021,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066810458",
+          "name": "S. Oliveira"
+        },
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "1772839",
+          "name": "A. Jorge"
+        }
+      ]
+    },
+    {
+      "paperId": "a6da8cfa3344aef17dfa0bc35206097d68b85c85",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a6da8cfa3344aef17dfa0bc35206097d68b85c85",
+      "title": "On the Cross-lingual Transferability of Contextualized Sense Embeddings",
+      "venue": "MRL",
+      "year": 2021,
+      "citationCount": 2,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1667035673",
+          "name": "Kiamehr Rezaee"
+        },
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        },
+        {
+          "authorId": "1717641",
+          "name": "Mohammad Taher Pilehvar"
+        }
+      ]
+    },
+    {
+      "paperId": "3656b82b68566d664c644bd52cbe471c5070288e",
+      "publicationVenue": {
+        "id": "8ee71e17-421e-43db-ad2d-cc8af6217a0d",
+        "name": "European Conference on Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "ECIR",
+          "Eur Conf Inf Retr"
+        ],
+        "url": "https://en.wikipedia.org/wiki/European_Conference_on_Information_Retrieval"
+      },
+      "url": "https://www.semanticscholar.org/paper/3656b82b68566d664c644bd52cbe471c5070288e",
+      "title": "MedLinker: Medical Entity Linking with Neural Representations and Dictionary Matching",
+      "venue": "European Conference on Information Retrieval",
+      "year": 2020,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "1772839",
+          "name": "A. Jorge"
+        }
+      ]
+    },
+    {
+      "paperId": "db5cf429a037e1120be6662f78fd47881501fc19",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/db5cf429a037e1120be6662f78fd47881501fc19",
+      "title": "Don\u2019t Neglect the Obvious: On the Role of Unambiguous Words in Word Sense Disambiguation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        }
+      ]
+    },
+    {
+      "paperId": "b85ec2b911b7b5e4bc5519d503d265b6c9c9d0c2",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b85ec2b911b7b5e4bc5519d503d265b6c9c9d0c2",
+      "title": "Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 137,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "1772839",
+          "name": "A. Jorge"
+        }
+      ]
+    },
+    {
+      "paperId": "c63f428911e9ea11a7d582e5f3f817197a6cbfe8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c63f428911e9ea11a7d582e5f3f817197a6cbfe8",
+      "title": "Arti\ufb01cial Intelligence",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 385,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "2287240780",
+          "name": "Al\u00edpio M\u00e1rio"
+        },
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        }
+      ]
+    },
+    {
+      "paperId": "e5756d839fde68f82d628bcb0dc6dea670d7b6a0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e5756d839fde68f82d628bcb0dc6dea670d7b6a0",
+      "title": "LIAAD at SemDeep-5 Challenge: Word-in-Context (WiC)",
+      "venue": "SemDeep@IJCAI",
+      "year": 2019,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "1772839",
+          "name": "A. Jorge"
+        }
+      ]
+    },
+    {
+      "paperId": "6af1c72aba91746aab949b8f6bae0fb5aaa811a0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6af1c72aba91746aab949b8f6bae0fb5aaa811a0",
+      "title": "Affordance Extraction and Inference based on Semantic Role Labeling",
+      "venue": "FEVER@EMNLP",
+      "year": 2018,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "1772839",
+          "name": "A. Jorge"
+        }
+      ]
+    },
+    {
+      "paperId": "00768b25a398975ec58d6bfe6557bc7a56d718f2",
+      "publicationVenue": {
+        "id": "28185ee1-ec98-49c1-9438-9a5daf55576c",
+        "name": "Portuguese Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Port Conf Artif Intell",
+          "EPIA"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=899"
+      },
+      "url": "https://www.semanticscholar.org/paper/00768b25a398975ec58d6bfe6557bc7a56d718f2",
+      "title": "Sentiment Analysis of News Titles - The Role of Entities and a New Affective Lexicon",
+      "venue": "Portuguese Conference on Artificial Intelligence",
+      "year": 2011,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "2396158",
+          "name": "G. Marreiros"
+        },
+        {
+          "authorId": "152542268",
+          "name": "J. Neves"
+        }
+      ]
+    },
+    {
+      "paperId": "48f33093c93f466ceef90aa7f498b26ecf92730a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/48f33093c93f466ceef90aa7f498b26ecf92730a",
+      "title": "Arti\ufb01cial Intelligence",
+      "venue": "",
+      "year": null,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "2287240780",
+          "name": "Al\u00edpio M\u00e1rio"
+        },
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        }
+      ]
+    },
+    {
+      "paperId": "e0afc0f760fa351c88493c88ad01354ff2643900",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e0afc0f760fa351c88493c88ad01354ff2643900",
+      "title": "Lab on Longitudinal Evaluation of Model Performance",
+      "venue": "",
+      "year": null,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1917612940",
+          "name": "Rabab Alkhalifa"
+        },
+        {
+          "authorId": "2117010132",
+          "name": "I. Bilal"
+        },
+        {
+          "authorId": "2022477509",
+          "name": "Hsuvas Borkakoty"
+        },
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        },
+        {
+          "authorId": "2241526757",
+          "name": "Romain Deveaud"
+        },
+        {
+          "authorId": "1412404246",
+          "name": "Alaa El-Ebshihy"
+        },
+        {
+          "authorId": "2287959796",
+          "name": "Luis Espinosa-Anke"
+        },
+        {
+          "authorId": "1414343431",
+          "name": "Gabriela Gonz\u00e1lez-S\u00e1ez"
+        },
+        {
+          "authorId": "2287959857",
+          "name": "Petra Galu\u02c7s\u02c7c\u00b4akov\u00b4a"
+        },
+        {
+          "authorId": "144354285",
+          "name": "Lorraine Goeuriot"
+        },
+        {
+          "authorId": "144318711",
+          "name": "E. Kochkina"
+        },
+        {
+          "authorId": "1991548",
+          "name": "Maria Liakata"
+        },
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "1714010",
+          "name": "P. Mulhem"
+        },
+        {
+          "authorId": "3309646",
+          "name": "Florina Piroi"
+        },
+        {
+          "authorId": "2241519380",
+          "name": "Martin Popel"
+        },
+        {
+          "authorId": "2261405292",
+          "name": "Christophe Servan"
+        },
+        {
+          "authorId": "3467205",
+          "name": "Harish Tayyar Madabushi"
+        },
+        {
+          "authorId": "2805349",
+          "name": "A. Zubiaga"
+        }
+      ]
+    }
+  ]
+}

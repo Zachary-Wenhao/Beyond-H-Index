@@ -1,0 +1,1911 @@
+{
+  "authorId": "8233965",
+  "name": "Ruochen Xu",
+  "affiliations": [
+    "Om AI"
+  ],
+  "paperCount": 34,
+  "citationCount": 2341,
+  "hIndex": 19,
+  "papers": [
+    {
+      "paperId": "05405e73f1afcf9564a5f81de0db7570cfa3d792",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/05405e73f1afcf9564a5f81de0db7570cfa3d792",
+      "title": "LMGQS: A Large-scale Dataset for Query-focused Summarization",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "2117074851",
+          "name": "Song Wang"
+        },
+        {
+          "authorId": "2152797401",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "2146294891",
+          "name": "Shuo Wang"
+        },
+        {
+          "authorId": "2110197273",
+          "name": "Yichong Xu"
+        },
+        {
+          "authorId": "3310951",
+          "name": "Dan Iter"
+        },
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "381ab7a640f5b46b62f7e08d1af4a8e0d3eadd55",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/381ab7a640f5b46b62f7e08d1af4a8e0d3eadd55",
+      "title": "G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 1010,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152797401",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "3310951",
+          "name": "Dan Iter"
+        },
+        {
+          "authorId": "2110197273",
+          "name": "Yichong Xu"
+        },
+        {
+          "authorId": "2146294891",
+          "name": "Shuo Wang"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "9591e76f296afe9589a42e899266e1c6a355d9ba",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/9591e76f296afe9589a42e899266e1c6a355d9ba",
+      "title": "InheritSumm: A General, Versatile and Compact Summarizer by Distilling from GPT",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110197273",
+          "name": "Yichong Xu"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "3310951",
+          "name": "Dan Iter"
+        },
+        {
+          "authorId": "2152797401",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "2146294891",
+          "name": "Shuo Wang"
+        },
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "bfef29e0b88a45b3b6d8018b37d6272d0f32efe2",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/bfef29e0b88a45b3b6d8018b37d6272d0f32efe2",
+      "title": "In-Context Demonstration Selection with Cross Entropy Difference",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3310951",
+          "name": "Dan Iter"
+        },
+        {
+          "authorId": "4099006",
+          "name": "Reid Pryzant"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "2146294891",
+          "name": "Shuo Wang"
+        },
+        {
+          "authorId": "2152797401",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "2110197273",
+          "name": "Yichong Xu"
+        },
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "3770dc65a299ee6ff3f72f459283bd6253d120d4",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3770dc65a299ee6ff3f72f459283bd6253d120d4",
+      "title": "UniSumm: Unified Few-shot Summarization with Multi-Task Pre-Training and Prefix-Tuning",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109404730",
+          "name": "Yulong Chen"
+        },
+        {
+          "authorId": "39798499",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "2155459391",
+          "name": "Ziyi Yang"
+        },
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        },
+        {
+          "authorId": "2145913600",
+          "name": "Yue Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "43f571c55d61f93f409c53fd3deffac0a1c28fdd",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/43f571c55d61f93f409c53fd3deffac0a1c28fdd",
+      "title": "Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 95,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146294891",
+          "name": "Shuo Wang"
+        },
+        {
+          "authorId": "2110197273",
+          "name": "Yichong Xu"
+        },
+        {
+          "authorId": "51444591",
+          "name": "Yuwei Fang"
+        },
+        {
+          "authorId": "39798499",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "2419809",
+          "name": "S. Sun"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "64565e59f40e794b73b5eb52b8a7796c6ff88541",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/64565e59f40e794b73b5eb52b8a7796c6ff88541",
+      "title": "Z-Code++: A Pre-trained Language Model Optimized for Abstractive Summarization",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 43,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50462546",
+          "name": "Pengcheng He"
+        },
+        {
+          "authorId": "1780690",
+          "name": "Baolin Peng"
+        },
+        {
+          "authorId": "2152515481",
+          "name": "Liyang Lu"
+        },
+        {
+          "authorId": "2117074851",
+          "name": "Song Wang"
+        },
+        {
+          "authorId": "2052119293",
+          "name": "Jie Mei"
+        },
+        {
+          "authorId": "39798499",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "3032929",
+          "name": "H. Awadalla"
+        },
+        {
+          "authorId": "1844953096",
+          "name": "Yu Shi"
+        },
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "145814376",
+          "name": "Wayne Xiong"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "144531812",
+          "name": "Xuedong Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "6e61efd65b08e1e65c5107b8b6e34b3e13ef7673",
+      "publicationVenue": {
+        "id": "768b87bb-8a18-4d9c-a161-4d483c776bcf",
+        "name": "Computer Vision and Pattern Recognition",
+        "type": "conference",
+        "alternate_names": [
+          "CVPR",
+          "Comput Vis Pattern Recognit"
+        ],
+        "issn": "1063-6919",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147",
+        "alternate_urls": [
+          "https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6e61efd65b08e1e65c5107b8b6e34b3e13ef7673",
+      "title": "CLIP-Event: Connecting Text and Images with Event Structures",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2022,
+      "citationCount": 116,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2118482058",
+          "name": "Manling Li"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "2992833",
+          "name": "Shuohang Wang"
+        },
+        {
+          "authorId": "2116644664",
+          "name": "Luowei Zhou"
+        },
+        {
+          "authorId": "48030192",
+          "name": "Xudong Lin"
+        },
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        },
+        {
+          "authorId": "2113323573",
+          "name": "Heng Ji"
+        },
+        {
+          "authorId": "2122374530",
+          "name": "Shih-Fu Chang"
+        }
+      ]
+    },
+    {
+      "paperId": "732fbf857fb46cbafb19eba691cded67be43143d",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/732fbf857fb46cbafb19eba691cded67be43143d",
+      "title": "UniSumm and SummZoo: Unified Model and Diverse Benchmark for Few-Shot Summarization",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109404730",
+          "name": "Yulong Chen"
+        },
+        {
+          "authorId": "2152797401",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "2155459391",
+          "name": "Ziyi Yang"
+        },
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        },
+        {
+          "authorId": "2145913600",
+          "name": "Yue Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "c1ace33daf974d3d16752c7a8565f32a63b09c49",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c1ace33daf974d3d16752c7a8565f32a63b09c49",
+      "title": "Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "citationCount": 129,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2052036545",
+          "name": "Zhenhailong Wang"
+        },
+        {
+          "authorId": "2118482058",
+          "name": "Manling Li"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "2116644664",
+          "name": "Luowei Zhou"
+        },
+        {
+          "authorId": "46665218",
+          "name": "Jie Lei"
+        },
+        {
+          "authorId": "48030192",
+          "name": "Xudong Lin"
+        },
+        {
+          "authorId": "2992833",
+          "name": "Shuohang Wang"
+        },
+        {
+          "authorId": "2155459391",
+          "name": "Ziyi Yang"
+        },
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "2433269",
+          "name": "Derek Hoiem"
+        },
+        {
+          "authorId": "2122374530",
+          "name": "Shih-Fu Chang"
+        },
+        {
+          "authorId": "143977268",
+          "name": "Mohit Bansal"
+        },
+        {
+          "authorId": "2113323573",
+          "name": "Heng Ji"
+        }
+      ]
+    },
+    {
+      "paperId": "c6e3b3e287296e5afcb670eedd38a546d1dd20b8",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/c6e3b3e287296e5afcb670eedd38a546d1dd20b8",
+      "title": "ParaTag: A Dataset of Paraphrase Tagging for Fine-Grained Labels, NLG Evaluation, and Data Augmentation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146294891",
+          "name": "Shuo Wang"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "2152797401",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "fb6348bd6ef6149c98298ff9a88742fb29285404",
+      "publicationVenue": {
+        "id": "167fa0ca-e88a-4ef7-a16f-bc66c457c806",
+        "name": "European Conference on Computer Vision",
+        "type": "conference",
+        "alternate_names": [
+          "ECCV",
+          "Eur Conf Comput Vis"
+        ],
+        "url": "https://link.springer.com/conference/eccv"
+      },
+      "url": "https://www.semanticscholar.org/paper/fb6348bd6ef6149c98298ff9a88742fb29285404",
+      "title": "Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training",
+      "venue": "European Conference on Computer Vision",
+      "year": 2022,
+      "citationCount": 45,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "30156979",
+          "name": "Haoxuan You"
+        },
+        {
+          "authorId": "2116644664",
+          "name": "Luowei Zhou"
+        },
+        {
+          "authorId": "2054421528",
+          "name": "Bin Xiao"
+        },
+        {
+          "authorId": "40589056",
+          "name": "N. Codella"
+        },
+        {
+          "authorId": "153655416",
+          "name": "Yu Cheng"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "2122374530",
+          "name": "Shih-Fu Chang"
+        },
+        {
+          "authorId": "2150687325",
+          "name": "Lu Yuan"
+        }
+      ]
+    },
+    {
+      "paperId": "ff57d24642a5bcaaa4e1b06be10088d04537051b",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/ff57d24642a5bcaaa4e1b06be10088d04537051b",
+      "title": "Narrate Dialogues for Better Summarization",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "3e57f32ea5ba4f026e40e92e8772c0a1b3f6c049",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3e57f32ea5ba4f026e40e92e8772c0a1b3f6c049",
+      "title": "Curriculum Data Augmentation for Low-Resource Slides Summarization Anonymous ACL submission",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1400347538",
+          "name": "Ateret Anaby-Tavor"
+        },
+        {
+          "authorId": "1719299",
+          "name": "Boaz Carmeli"
+        },
+        {
+          "authorId": "1734231",
+          "name": "Esther Goldbraich"
+        },
+        {
+          "authorId": "2260133345",
+          "name": "Iz Beltagy"
+        },
+        {
+          "authorId": "2285152499",
+          "name": "Kyle Lo"
+        },
+        {
+          "authorId": "2285848714",
+          "name": "Arman Cohan. 2019"
+        },
+        {
+          "authorId": "2288629602",
+          "name": "SciB-538"
+        },
+        {
+          "authorId": "2286061618",
+          "name": "Matthew E. Peters"
+        },
+        {
+          "authorId": "2285976154",
+          "name": "Yong Cheng"
+        },
+        {
+          "authorId": "2286200780",
+          "name": "Lu Jiang"
+        },
+        {
+          "authorId": "2285501740",
+          "name": "Wolfgang Macherey"
+        },
+        {
+          "authorId": "2462276",
+          "name": "Franck Dernoncourt"
+        },
+        {
+          "authorId": "2288410107",
+          "name": "Doo Soon Kim"
+        },
+        {
+          "authorId": "2265648617",
+          "name": "Trung Bui"
+        },
+        {
+          "authorId": "2288403312",
+          "name": "Seokhwan Kim"
+        },
+        {
+          "authorId": "2116858693",
+          "name": "Walter Chang"
+        },
+        {
+          "authorId": "2261973116",
+          "name": "Mike Lewis"
+        },
+        {
+          "authorId": "11323179",
+          "name": "Yinhan Liu"
+        },
+        {
+          "authorId": "39589154",
+          "name": "Naman Goyal"
+        },
+        {
+          "authorId": "2277128824",
+          "name": "Abdelrahman Ghazvininejad"
+        },
+        {
+          "authorId": "2277123536",
+          "name": "Omer Mohamed"
+        },
+        {
+          "authorId": "40511414",
+          "name": "Myle Ott"
+        },
+        {
+          "authorId": "3048577",
+          "name": "Jingfei Du"
+        },
+        {
+          "authorId": "2285032310",
+          "name": "Mandar Joshi"
+        },
+        {
+          "authorId": "2255489905",
+          "name": "Danqi Chen"
+        },
+        {
+          "authorId": "2253752918",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "2288452372",
+          "name": "Kaiji Lu"
+        },
+        {
+          "authorId": "3251561",
+          "name": "Piotr (Peter) Mardziel"
+        },
+        {
+          "authorId": "2288608136",
+          "name": "Preetam Fangjing Wu"
+        },
+        {
+          "authorId": "2285477277",
+          "name": "Jingqing Zhang"
+        },
+        {
+          "authorId": "2285305663",
+          "name": "Yao Zhao"
+        },
+        {
+          "authorId": "144413479",
+          "name": "Mohammad Saleh"
+        },
+        {
+          "authorId": "2284863493",
+          "name": "Xingxing Zhang"
+        },
+        {
+          "authorId": "1747893",
+          "name": "Mirella Lapata"
+        },
+        {
+          "authorId": "2257346447",
+          "name": "Furu Wei"
+        },
+        {
+          "authorId": "2288744374",
+          "name": "Zhou Zhao"
+        },
+        {
+          "authorId": "2289618945",
+          "name": "Haojie Pan"
+        },
+        {
+          "authorId": "2289651865",
+          "name": "Changjie Fan"
+        },
+        {
+          "authorId": "2290114004",
+          "name": "Yan Liu"
+        },
+        {
+          "authorId": "2289050839",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "443e7918db6428fbd7256d26f39932bba93c6c26",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/443e7918db6428fbd7256d26f39932bba93c6c26",
+      "title": "Enhancing Factual Consistency of Abstractive Summarization",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 146,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1456009348",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "116122080",
+          "name": "William Fu-Hinthorn"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "1694209",
+          "name": "Qingkai Zeng"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        },
+        {
+          "authorId": "144531812",
+          "name": "Xuedong Huang"
+        },
+        {
+          "authorId": "144812586",
+          "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "cbd306673cbfbcfb966ce54a62e10dd78e8f93c5",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cbd306673cbfbcfb966ce54a62e10dd78e8f93c5",
+      "title": "Leveraging Knowledge in Multilingual Commonsense Reasoning",
+      "venue": "Findings",
+      "year": 2021,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51444591",
+          "name": "Yuwei Fang"
+        },
+        {
+          "authorId": "2992833",
+          "name": "Shuohang Wang"
+        },
+        {
+          "authorId": "2110197273",
+          "name": "Yichong Xu"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "2109508754",
+          "name": "Siqi Sun"
+        },
+        {
+          "authorId": "1456009348",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "eeeb701abeed4bebfe32b8473391b949de1e2571",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/eeeb701abeed4bebfe32b8473391b949de1e2571",
+      "title": "Does Knowledge Help General NLU? An Empirical Study",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "51444591",
+          "name": "Yuwei Fang"
+        },
+        {
+          "authorId": "1456009348",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "16079da90a793270649f91e5e1dd76d8673505bb",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/16079da90a793270649f91e5e1dd76d8673505bb",
+      "title": "Mixed-Lingual Pre-training for Cross-lingual Summarization",
+      "venue": "AACL",
+      "year": 2020,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "145814852",
+          "name": "Yu Shi"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        },
+        {
+          "authorId": "144531812",
+          "name": "Xuedong Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "1e4f3c8ceabd62b4383cda3074a3d4aef5b8cf31",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/1e4f3c8ceabd62b4383cda3074a3d4aef5b8cf31",
+      "title": "Fusing Context Into Knowledge Graph for Commonsense Reasoning",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2636690",
+          "name": "Yichong Xu"
+        },
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "2152797401",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        },
+        {
+          "authorId": "144531812",
+          "name": "Xuedong Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "86cb79083bfa5dc6329ab1b8c7099af76fefde36",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/86cb79083bfa5dc6329ab1b8c7099af76fefde36",
+      "title": "A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining",
+      "venue": "Findings",
+      "year": 2020,
+      "citationCount": 141,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        },
+        {
+          "authorId": "144531812",
+          "name": "Xuedong Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "8ec1c6233bf1ab664ac58121ced3e4f69a9e60a6",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/8ec1c6233bf1ab664ac58121ced3e4f69a9e60a6",
+      "title": "End-to-End Abstractive Summarization for Meetings",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        },
+        {
+          "authorId": "144531812",
+          "name": "Xuedong Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "caf8904e7f9f841f77823cabdfe4e2d87aa20a36",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/caf8904e7f9f841f77823cabdfe4e2d87aa20a36",
+      "title": "Fusing Context Into Knowledge Graph for Commonsense Question Answering",
+      "venue": "Findings",
+      "year": 2020,
+      "citationCount": 67,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110197273",
+          "name": "Yichong Xu"
+        },
+        {
+          "authorId": "1456009348",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "39798499",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        },
+        {
+          "authorId": "144531812",
+          "name": "Xuedong Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "deedb9b61a01d686b28e6034770fccc142e77fab",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/deedb9b61a01d686b28e6034770fccc142e77fab",
+      "title": "Predicting Performance for Natural Language Processing Tasks",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 59,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "67284811",
+          "name": "Mengzhou Xia"
+        },
+        {
+          "authorId": "49513989",
+          "name": "Antonios Anastasopoulos"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "35729970",
+          "name": "Yiming Yang"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        }
+      ]
+    },
+    {
+      "paperId": "fe45ed0bb4c39a8e455029965e0eb1d8e7997978",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/fe45ed0bb4c39a8e455029965e0eb1d8e7997978",
+      "title": "Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 39,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8652308",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "116122080",
+          "name": "William Fu-Hinthorn"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "1694209",
+          "name": "Qingkai Zeng"
+        },
+        {
+          "authorId": "48262024",
+          "name": "Michael Zeng"
+        },
+        {
+          "authorId": "144531812",
+          "name": "Xuedong Huang"
+        },
+        {
+          "authorId": "1470716407",
+          "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "5884948777dfc003ba49e1513420830616281839",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5884948777dfc003ba49e1513420830616281839",
+      "title": "Cross-lingual Alignment vs Joint Training: A Comparative Study and A Simple Unified Framework",
+      "venue": "International Conference on Learning Representations",
+      "year": 2019,
+      "citationCount": 77,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2331539",
+          "name": "Zirui Wang"
+        },
+        {
+          "authorId": "20467900",
+          "name": "Jiateng Xie"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "35729970",
+          "name": "Yiming Yang"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        },
+        {
+          "authorId": "143712374",
+          "name": "J. Carbonell"
+        }
+      ]
+    },
+    {
+      "paperId": "7efa78176782eb0d5f9e77ccb488a56741c2d20f",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/7efa78176782eb0d5f9e77ccb488a56741c2d20f",
+      "title": "Formality Style Transfer with Hybrid Textual Annotations",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 40,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "2547492",
+          "name": "Tao Ge"
+        },
+        {
+          "authorId": "49807919",
+          "name": "Furu Wei"
+        }
+      ]
+    },
+    {
+      "paperId": "ece62ada00cef99d9fc7a60e7d4b773f6d87c8f9",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/ece62ada00cef99d9fc7a60e7d4b773f6d87c8f9",
+      "title": "The ARIEL-CMU Systems for LoReHLT18",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51250894",
+          "name": "Aditi Chaudhary"
+        },
+        {
+          "authorId": "35186886",
+          "name": "Siddharth Dalmia"
+        },
+        {
+          "authorId": "145919378",
+          "name": "Junjie Hu"
+        },
+        {
+          "authorId": "47058260",
+          "name": "Xinjian Li"
+        },
+        {
+          "authorId": "144633696",
+          "name": "Austin Matthews"
+        },
+        {
+          "authorId": "3456073",
+          "name": "Aldrian Obaja Muis"
+        },
+        {
+          "authorId": "145671279",
+          "name": "Naoki Otani"
+        },
+        {
+          "authorId": "7391530",
+          "name": "Shruti Rijhwani"
+        },
+        {
+          "authorId": "38599655",
+          "name": "Zaid A. W. Sheikh"
+        },
+        {
+          "authorId": "47963068",
+          "name": "Nidhi Vyas"
+        },
+        {
+          "authorId": null,
+          "name": "Xinyi Wang"
+        },
+        {
+          "authorId": "20467900",
+          "name": "Jiateng Xie"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "25707161",
+          "name": "Peter J. Jansen"
+        },
+        {
+          "authorId": "35729970",
+          "name": "Yiming Yang"
+        },
+        {
+          "authorId": "1686960",
+          "name": "Lori S. Levin"
+        },
+        {
+          "authorId": "1740721",
+          "name": "Florian Metze"
+        },
+        {
+          "authorId": "1706595",
+          "name": "T. Mitamura"
+        },
+        {
+          "authorId": "3407646",
+          "name": "David R. Mortensen"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        },
+        {
+          "authorId": "144547315",
+          "name": "E. Hovy"
+        },
+        {
+          "authorId": "1690706",
+          "name": "A. Black"
+        },
+        {
+          "authorId": "143712374",
+          "name": "J. Carbonell"
+        },
+        {
+          "authorId": "2429228",
+          "name": "Graham Horwood"
+        },
+        {
+          "authorId": "41123680",
+          "name": "Shabnam Tafreshi"
+        },
+        {
+          "authorId": "1700007",
+          "name": "Mona T. Diab"
+        },
+        {
+          "authorId": "2793610",
+          "name": "Efsun Sarioglu Kayi"
+        },
+        {
+          "authorId": "2881964",
+          "name": "N. Farra"
+        },
+        {
+          "authorId": "145590324",
+          "name": "K. McKeown"
+        }
+      ]
+    },
+    {
+      "paperId": "7c007641e10eda058436fd33ffe83f5d9f20cbf9",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7c007641e10eda058436fd33ffe83f5d9f20cbf9",
+      "title": "Low-resource Cross-lingual Event Type Detection via Distant Supervision with Minimal Effort",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2018,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3456073",
+          "name": "Aldrian Obaja Muis"
+        },
+        {
+          "authorId": "145671279",
+          "name": "Naoki Otani"
+        },
+        {
+          "authorId": "47963068",
+          "name": "Nidhi Vyas"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "35729970",
+          "name": "Yiming Yang"
+        },
+        {
+          "authorId": "1706595",
+          "name": "T. Mitamura"
+        },
+        {
+          "authorId": "144547315",
+          "name": "E. Hovy"
+        }
+      ]
+    },
+    {
+      "paperId": "fbd97148a8df29b638478df91f4309a4ac9dd8ae",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/fbd97148a8df29b638478df91f4309a4ac9dd8ae",
+      "title": "Unsupervised Cross-lingual Transfer of Word Embedding Spaces",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 99,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "35729970",
+          "name": "Yiming Yang"
+        },
+        {
+          "authorId": "145671279",
+          "name": "Naoki Otani"
+        },
+        {
+          "authorId": "9287688",
+          "name": "Yuexin Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "12d082264f516923af538a7ded663e2cf61843a5",
+      "publicationVenue": {
+        "id": "4fad10f1-42f0-4501-a419-2a251ef816ec",
+        "name": "Machine Translation",
+        "type": "journal",
+        "alternate_names": [
+          "Mach Transl"
+        ],
+        "issn": "0922-6567",
+        "url": "https://www.springer.com/journal/10590",
+        "alternate_urls": [
+          "http://www.jstor.org/journals/09226567.html",
+          "https://www.jstor.org/journal/machtran"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/12d082264f516923af538a7ded663e2cf61843a5",
+      "title": "The ARIEL-CMU situation frame detection pipeline for LoReHLT16: a model translation approach",
+      "venue": "Machine Translation",
+      "year": 2017,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3070462",
+          "name": "Patrick Littell"
+        },
+        {
+          "authorId": "145455274",
+          "name": "Tian Tian"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "38599655",
+          "name": "Zaid A. W. Sheikh"
+        },
+        {
+          "authorId": "3407646",
+          "name": "David R. Mortensen"
+        },
+        {
+          "authorId": "1686960",
+          "name": "Lori S. Levin"
+        },
+        {
+          "authorId": "3262036",
+          "name": "Francis M. Tyers"
+        },
+        {
+          "authorId": "50376014",
+          "name": "Hiroaki Hayashi"
+        },
+        {
+          "authorId": "2429228",
+          "name": "Graham Horwood"
+        },
+        {
+          "authorId": "50816532",
+          "name": "Steve Sloto"
+        },
+        {
+          "authorId": "8434426",
+          "name": "Emily Tagtow"
+        },
+        {
+          "authorId": "1690706",
+          "name": "A. Black"
+        },
+        {
+          "authorId": "35729970",
+          "name": "Yiming Yang"
+        },
+        {
+          "authorId": "1706595",
+          "name": "T. Mitamura"
+        },
+        {
+          "authorId": "144547315",
+          "name": "E. Hovy"
+        }
+      ]
+    },
+    {
+      "paperId": "6337afe67dd416a21379431a36ae949e568c027e",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6337afe67dd416a21379431a36ae949e568c027e",
+      "title": "Cross-lingual Distillation for Text Classification",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2017,
+      "citationCount": 70,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "35729970",
+          "name": "Yiming Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "6b393d20b932f83b5f683bc8fef8f46c25794048",
+      "publicationVenue": {
+        "id": "dc5f2e48-3f23-4c26-aa6d-731461dddebe",
+        "name": "International Conference on Software Architecture",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE/IFIP International Conference on Software Architecture",
+          "Int Conf Softw Archit",
+          "ICSA",
+          "IEEE/IFIP Int Conf Softw Archit"
+        ],
+        "url": "http://icsa-conferences.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6b393d20b932f83b5f683bc8fef8f46c25794048",
+      "title": "Experiments in Curation: Towards Machine-Assisted Construction of Software Architecture Knowledge Bases",
+      "venue": "International Conference on Software Architecture",
+      "year": 2017,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1680770",
+          "name": "I. Gorton"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "35729970",
+          "name": "Yiming Yang"
+        },
+        {
+          "authorId": "2391802",
+          "name": "Hanxiao Liu"
+        },
+        {
+          "authorId": "2250250",
+          "name": "Guoqing Zheng"
+        }
+      ]
+    },
+    {
+      "paperId": "2325c1c0bdd10860f44e7593dd14d64a9d214acc",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2325c1c0bdd10860f44e7593dd14d64a9d214acc",
+      "title": "Leveraging Multilingual Training for Limited Resource Event Extraction",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2016,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "37332445",
+          "name": "Andrew Hsi"
+        },
+        {
+          "authorId": "35729970",
+          "name": "Yiming Yang"
+        },
+        {
+          "authorId": "143712374",
+          "name": "J. Carbonell"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "ca1ec37e1dae0f9aab96ba2c6ccb69930d80ec09",
+      "publicationVenue": {
+        "id": "7431ff67-91dc-41fa-b322-1b1ca657025f",
+        "name": "International Conference on Information and Knowledge Management",
+        "type": "conference",
+        "alternate_names": [
+          "Conference on Information and Knowledge Management",
+          "Conf Inf Knowl Manag",
+          "Int Conf Inf Knowl Manag",
+          "CIKM"
+        ],
+        "url": "http://www.cikm.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ca1ec37e1dae0f9aab96ba2c6ccb69930d80ec09",
+      "title": "Cross-lingual Text Classification via Model Translation with Limited Dictionaries",
+      "venue": "International Conference on Information and Knowledge Management",
+      "year": 2016,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "35729970",
+          "name": "Yiming Yang"
+        },
+        {
+          "authorId": "2391802",
+          "name": "Hanxiao Liu"
+        },
+        {
+          "authorId": "37332445",
+          "name": "Andrew Hsi"
+        }
+      ]
+    }
+  ]
+}

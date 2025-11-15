@@ -1,0 +1,1102 @@
+{
+  "authorId": "40010893",
+  "name": "Ossama Obeid",
+  "affiliations": [],
+  "paperCount": 24,
+  "citationCount": 832,
+  "hIndex": 13,
+  "papers": [
+    {
+      "paperId": "a865f36fc1e4b12551d376a94d0867db45124ea7",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a865f36fc1e4b12551d376a94d0867db45124ea7",
+      "title": "Arabic Diacritics in the Wild: Exploiting Opportunities for Improved Diacritization",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2024,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2305614409",
+          "name": "Salman Elgamal"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "2305614243",
+          "name": "Tameem Kabbani"
+        },
+        {
+          "authorId": "2269458157",
+          "name": "Go Inoue"
+        },
+        {
+          "authorId": "2269456942",
+          "name": "Nizar Habash"
+        }
+      ]
+    },
+    {
+      "paperId": "9413f46e9461c272570e9a3ecdd665a759aa78a1",
+      "publicationVenue": {
+        "id": "7008bb6f-4a70-4ba5-b6fc-2d691c1557ca",
+        "name": "Workshop on Arabic Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "WANLP",
+          "Workshop Arab Nat Lang Process"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9413f46e9461c272570e9a3ecdd665a759aa78a1",
+      "title": "The Shared Task on Gender Rewriting",
+      "venue": "Workshop on Arabic Natural Language Processing",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "66589548",
+          "name": "Bashar Alhafni"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "2063374",
+          "name": "Houda Bouamor"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "2101316141",
+          "name": "Sultan Alrowili"
+        },
+        {
+          "authorId": "1580767446",
+          "name": "D. Alzeer"
+        },
+        {
+          "authorId": "1456150360",
+          "name": "Khawla AlShanqiti"
+        },
+        {
+          "authorId": "2076329508",
+          "name": "Ahmed ElBakry"
+        },
+        {
+          "authorId": "2006906348",
+          "name": "Muhammad N. ElNokrashy"
+        },
+        {
+          "authorId": "2060201019",
+          "name": "Mohamed Gabr"
+        },
+        {
+          "authorId": "2166113534",
+          "name": "Abderrahmane Issam"
+        },
+        {
+          "authorId": "2155192210",
+          "name": "Abdelrahim Qaddoumi"
+        },
+        {
+          "authorId": "1400820110",
+          "name": "K. Vijay-Shanker"
+        },
+        {
+          "authorId": "2188735571",
+          "name": "Mahmoud Zyate"
+        }
+      ]
+    },
+    {
+      "paperId": "be6e03bf01b4da3a5c6798932c2c50771938082b",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/be6e03bf01b4da3a5c6798932c2c50771938082b",
+      "title": "Camelira: An Arabic Multi-Dialect Morphological Disambiguator",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "46915471",
+          "name": "Go Inoue"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        }
+      ]
+    },
+    {
+      "paperId": "c5be8b50d8167eee8193287f55efa16423034c88",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c5be8b50d8167eee8193287f55efa16423034c88",
+      "title": "The User-Aware Arabic Gender Rewriter",
+      "venue": "GITT",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "66589548",
+          "name": "Bashar Alhafni"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        }
+      ]
+    },
+    {
+      "paperId": "995ec006ac98a697ea38bd4eea8c1f3170a8adb4",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/995ec006ac98a697ea38bd4eea8c1f3170a8adb4",
+      "title": "CAMeL Tools: An Open Source Python Toolkit for Arabic Natural Language Processing",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2020,
+      "citationCount": 176,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "2814303",
+          "name": "Nasser Zalmout"
+        },
+        {
+          "authorId": "48040328",
+          "name": "Salam Khalifa"
+        },
+        {
+          "authorId": "3405525",
+          "name": "Dima Taji"
+        },
+        {
+          "authorId": "2420100",
+          "name": "Mai Oudah"
+        },
+        {
+          "authorId": "66589548",
+          "name": "Bashar Alhafni"
+        },
+        {
+          "authorId": "46915471",
+          "name": "Go Inoue"
+        },
+        {
+          "authorId": "41127087",
+          "name": "Fadhl Eryani"
+        },
+        {
+          "authorId": "36785672",
+          "name": "Alexander Erdmann"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        }
+      ]
+    },
+    {
+      "paperId": "c4657a694950c218ff3721c7bfdd4a061093c272",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/c4657a694950c218ff3721c7bfdd4a061093c272",
+      "title": "ADIDA: Automatic Dialect Identification for Arabic",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "145795720",
+          "name": "Mohammad Salameh"
+        },
+        {
+          "authorId": "2063374",
+          "name": "Houda Bouamor"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        }
+      ]
+    },
+    {
+      "paperId": "d04bbff85737bb289a6351829525b4a1791784ae",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d04bbff85737bb289a6351829525b4a1791784ae",
+      "title": "Portable spelling corrector for a less-resourced language: Amharic",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2063374",
+          "name": "Houda Bouamor"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "2141580589",
+          "name": "Mohammad Salameh"
+        },
+        {
+          "authorId": "2034351",
+          "name": "W. Zaghouani"
+        },
+        {
+          "authorId": "1702447",
+          "name": "Owen Rambow"
+        },
+        {
+          "authorId": "3448604",
+          "name": "Dana Abdulrahim"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "48040328",
+          "name": "Salam Khalifa"
+        },
+        {
+          "authorId": "41127087",
+          "name": "Fadhl Eryani"
+        },
+        {
+          "authorId": "36785672",
+          "name": "Alexander Erdmann"
+        },
+        {
+          "authorId": "1723120",
+          "name": "Kemal Oflazer"
+        }
+      ]
+    },
+    {
+      "paperId": "2156f2f4591ebb8d831c95b153b578ab58f1fed3",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2156f2f4591ebb8d831c95b153b578ab58f1fed3",
+      "title": "A Morphologically Annotated Corpus of Emirati Arabic",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2018,
+      "citationCount": 43,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48040328",
+          "name": "Salam Khalifa"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "41127087",
+          "name": "Fadhl Eryani"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "3448604",
+          "name": "Dana Abdulrahim"
+        },
+        {
+          "authorId": "41126012",
+          "name": "Meera Al Kaabi"
+        }
+      ]
+    },
+    {
+      "paperId": "ad23a0651b0eeb87bb2bb856bea26c6b0c2f15af",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ad23a0651b0eeb87bb2bb856bea26c6b0c2f15af",
+      "title": "The MADAR Arabic Dialect Corpus and Lexicon",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2018,
+      "citationCount": 211,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2063374",
+          "name": "Houda Bouamor"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "145795720",
+          "name": "Mohammad Salameh"
+        },
+        {
+          "authorId": "2034351",
+          "name": "W. Zaghouani"
+        },
+        {
+          "authorId": "1702447",
+          "name": "Owen Rambow"
+        },
+        {
+          "authorId": "3448604",
+          "name": "Dana Abdulrahim"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "48040328",
+          "name": "Salam Khalifa"
+        },
+        {
+          "authorId": "41127087",
+          "name": "Fadhl Eryani"
+        },
+        {
+          "authorId": "36785672",
+          "name": "Alexander Erdmann"
+        },
+        {
+          "authorId": "1723120",
+          "name": "Kemal Oflazer"
+        }
+      ]
+    },
+    {
+      "paperId": "f13820e5d35494d14b2bc0c0cc6a928f344ecb03",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f13820e5d35494d14b2bc0c0cc6a928f344ecb03",
+      "title": "An Arabic Morphological Analyzer and Generator with Copious Features",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 40,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3405525",
+          "name": "Dima Taji"
+        },
+        {
+          "authorId": "48040328",
+          "name": "Salam Khalifa"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "41127087",
+          "name": "Fadhl Eryani"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        }
+      ]
+    },
+    {
+      "paperId": "fcc5f168c5466e2cc788bbdc2fdac743b3b6367e",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/fcc5f168c5466e2cc788bbdc2fdac743b3b6367e",
+      "title": "MADARi: A Web Interface for Joint Arabic Morphological Annotation and Spelling Correction",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2018,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "48040328",
+          "name": "Salam Khalifa"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "2063374",
+          "name": "Houda Bouamor"
+        },
+        {
+          "authorId": "2034351",
+          "name": "W. Zaghouani"
+        },
+        {
+          "authorId": "1723120",
+          "name": "Kemal Oflazer"
+        }
+      ]
+    },
+    {
+      "paperId": "4ea968f7aa8f30a1190c2e111dfc57a71fec8e2c",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4ea968f7aa8f30a1190c2e111dfc57a71fec8e2c",
+      "title": "On Arabic Multi-Genre Corpus Diacritization",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2063374",
+          "name": "Houda Bouamor"
+        },
+        {
+          "authorId": "2034351",
+          "name": "W. Zaghouani"
+        },
+        {
+          "authorId": "1700007",
+          "name": "Mona T. Diab"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "1723120",
+          "name": "Kemal Oflazer"
+        },
+        {
+          "authorId": "40108784",
+          "name": "Mahmoud A. Ghoneim"
+        },
+        {
+          "authorId": "34663187",
+          "name": "A. Hawwari"
+        }
+      ]
+    },
+    {
+      "paperId": "844029ec16e4ed97fca27cfa4d6c1d6c2bf638ad",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/844029ec16e4ed97fca27cfa4d6c1d6c2bf638ad",
+      "title": "Guidelines and Framework for a Large Scale Arabic Diacritized Corpus",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2016,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2034351",
+          "name": "W. Zaghouani"
+        },
+        {
+          "authorId": "2063374",
+          "name": "Houda Bouamor"
+        },
+        {
+          "authorId": "34663187",
+          "name": "A. Hawwari"
+        },
+        {
+          "authorId": "1700007",
+          "name": "Mona T. Diab"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "40108784",
+          "name": "Mahmoud A. Ghoneim"
+        },
+        {
+          "authorId": "23644119",
+          "name": "Sawsan Alqahtani"
+        },
+        {
+          "authorId": "1723120",
+          "name": "Kemal Oflazer"
+        }
+      ]
+    },
+    {
+      "paperId": "8c3bca26ce8a88ffb7bc590b3d164f02c23c9668",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8c3bca26ce8a88ffb7bc590b3d164f02c23c9668",
+      "title": "Building an Arabic Machine Translation Post-Edited Corpus: Guidelines and Annotation",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2016,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2034351",
+          "name": "W. Zaghouani"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "1809988",
+          "name": "Behrang Mohit"
+        },
+        {
+          "authorId": "2063374",
+          "name": "Houda Bouamor"
+        },
+        {
+          "authorId": "1723120",
+          "name": "Kemal Oflazer"
+        }
+      ]
+    },
+    {
+      "paperId": "af25339054a73263643742ddd1468c8426592803",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/af25339054a73263643742ddd1468c8426592803",
+      "title": "The 2 nd Workshop on Arabic Corpora and Processing Tools 2016 Theme :",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "1388437494",
+          "name": "Muhammad Abdul-Mageed"
+        },
+        {
+          "authorId": "41124708",
+          "name": "Hassan Alhuzali"
+        }
+      ]
+    },
+    {
+      "paperId": "f3e6b55322748325f78cb1169cd75f02775c3e73",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f3e6b55322748325f78cb1169cd75f02775c3e73",
+      "title": "Annotation Guidelines and Framework for Arabic Machine Translation Post-Edited Corpus",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2016,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2034351",
+          "name": "W. Zaghouani"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "1809988",
+          "name": "Behrang Mohit"
+        },
+        {
+          "authorId": "2063374",
+          "name": "Houda Bouamor"
+        },
+        {
+          "authorId": "1723120",
+          "name": "Kemal Oflazer"
+        }
+      ]
+    },
+    {
+      "paperId": "6c93debe0a58d1f10a734a5715743abb8a690ed6",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6c93debe0a58d1f10a734a5715743abb8a690ed6",
+      "title": "A Pilot Study on Arabic Multi-Genre Corpus Diacritization",
+      "venue": "ANLP@ACL",
+      "year": 2015,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2063374",
+          "name": "Houda Bouamor"
+        },
+        {
+          "authorId": "2034351",
+          "name": "W. Zaghouani"
+        },
+        {
+          "authorId": "1700007",
+          "name": "Mona T. Diab"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "1723120",
+          "name": "Kemal Oflazer"
+        },
+        {
+          "authorId": "40108784",
+          "name": "Mahmoud A. Ghoneim"
+        },
+        {
+          "authorId": "34663187",
+          "name": "A. Hawwari"
+        }
+      ]
+    },
+    {
+      "paperId": "cfd747fd72a061f040477b180c20178a57b185d3",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/cfd747fd72a061f040477b180c20178a57b185d3",
+      "title": "The Second QALB Shared Task on Automatic Text Correction for Arabic",
+      "venue": "ANLP@ACL",
+      "year": 2015,
+      "citationCount": 50,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2271568",
+          "name": "Alla Rozovskaya"
+        },
+        {
+          "authorId": "2063374",
+          "name": "Houda Bouamor"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "2034351",
+          "name": "W. Zaghouani"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "1809988",
+          "name": "Behrang Mohit"
+        }
+      ]
+    },
+    {
+      "paperId": "67d0b517f753e6b022c2b34ef8409f85a69b0b30",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/67d0b517f753e6b022c2b34ef8409f85a69b0b30",
+      "title": "The First QALB Shared Task on Automatic Text Correction for Arabic",
+      "venue": "ANLP@EMNLP",
+      "year": 2014,
+      "citationCount": 90,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1809988",
+          "name": "Behrang Mohit"
+        },
+        {
+          "authorId": "2271568",
+          "name": "Alla Rozovskaya"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "2034351",
+          "name": "W. Zaghouani"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        }
+      ]
+    },
+    {
+      "paperId": "ed26aa25ee18271f8b997605888b536484787053",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ed26aa25ee18271f8b997605888b536484787053",
+      "title": "Large Scale Arabic Error Annotation: Guidelines and Framework",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2014,
+      "citationCount": 105,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2034351",
+          "name": "W. Zaghouani"
+        },
+        {
+          "authorId": "1809988",
+          "name": "Behrang Mohit"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "2891042",
+          "name": "Nadi Tomeh"
+        },
+        {
+          "authorId": "2271568",
+          "name": "Alla Rozovskaya"
+        },
+        {
+          "authorId": "2881964",
+          "name": "N. Farra"
+        },
+        {
+          "authorId": "2706174",
+          "name": "Sarah Alkuhlani"
+        },
+        {
+          "authorId": "1723120",
+          "name": "Kemal Oflazer"
+        }
+      ]
+    },
+    {
+      "paperId": "180d177a4f7d610190d262ebe3cb5a9d97f5a8c3",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/180d177a4f7d610190d262ebe3cb5a9d97f5a8c3",
+      "title": "Sixth International Joint Conference on Natural Language Processing The Companion Volume of the Proceedings: System Demonstrations",
+      "venue": "",
+      "year": 2013,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "2034351",
+          "name": "W. Zaghouani"
+        },
+        {
+          "authorId": "1809988",
+          "name": "Behrang Mohit"
+        },
+        {
+          "authorId": "2269456942",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "2250930714",
+          "name": "Kemal Oflazer"
+        },
+        {
+          "authorId": "2285552455",
+          "name": "Mahmoud Azab"
+        },
+        {
+          "authorId": "2111983186",
+          "name": "Ahmed S. Salama"
+        },
+        {
+          "authorId": "2285538442",
+          "name": "Hideki Shima"
+        },
+        {
+          "authorId": "2285538412",
+          "name": "Jun Araki"
+        }
+      ]
+    },
+    {
+      "paperId": "f9fdfb6fff6c0f3415a14c39deb04e915348e81b",
+      "publicationVenue": {
+        "id": "e783305c-5d8a-44b9-b7a2-449d474a85b2",
+        "name": "International Joint Conference on Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "IJCNLP",
+          "Int Jt Conf Nat Lang Process"
+        ],
+        "url": "https://www.aclweb.org/portal/ijcnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/f9fdfb6fff6c0f3415a14c39deb04e915348e81b",
+      "title": "A Web-based Annotation Framework For Large-Scale Text Correction",
+      "venue": "International Joint Conference on Natural Language Processing",
+      "year": 2013,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "2034351",
+          "name": "W. Zaghouani"
+        },
+        {
+          "authorId": "1809988",
+          "name": "Behrang Mohit"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "1723120",
+          "name": "Kemal Oflazer"
+        },
+        {
+          "authorId": "2891042",
+          "name": "Nadi Tomeh"
+        }
+      ]
+    },
+    {
+      "paperId": "f73816949f763f110f793a8be131ad4cdd812cb3",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f73816949f763f110f793a8be131ad4cdd812cb3",
+      "title": "Malware.inc: analyzing the security of popular web/mobile frameworks",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "98008761",
+          "name": "Talal Al Haddad"
+        },
+        {
+          "authorId": "143675008",
+          "name": "M. Reddy"
+        },
+        {
+          "authorId": "2064434005",
+          "name": "Fahim Dalvi"
+        },
+        {
+          "authorId": "2111282838",
+          "name": "Baljit Singh"
+        },
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        },
+        {
+          "authorId": "47325198",
+          "name": "R. Rihawi"
+        },
+        {
+          "authorId": "98350319",
+          "name": "Omar Abou Selo"
+        },
+        {
+          "authorId": "2293470671",
+          "name": "Aly Elgazar"
+        },
+        {
+          "authorId": "2513478",
+          "name": "Thierry Sans"
+        }
+      ]
+    },
+    {
+      "paperId": "b70858a3b5744c2d2421a7c09f54717ba239ae2e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b70858a3b5744c2d2421a7c09f54717ba239ae2e",
+      "title": "Property (H*) and Differentiability in Banach Spaces",
+      "venue": "",
+      "year": 1993,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "40010893",
+          "name": "Ossama Obeid"
+        }
+      ]
+    }
+  ]
+}

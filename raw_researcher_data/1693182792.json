@@ -1,0 +1,484 @@
+{
+  "authorId": "1693182792",
+  "name": "Jin Yong Yoo",
+  "affiliations": [],
+  "paperCount": 8,
+  "citationCount": 979,
+  "hIndex": 5,
+  "papers": [
+    {
+      "paperId": "aab1dead436211a7d9eb7a717ee63a5d23cf23f0",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/aab1dead436211a7d9eb7a717ee63a5d23cf23f0",
+      "title": "Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2423429",
+          "name": "Seungju Han"
+        },
+        {
+          "authorId": "3332270",
+          "name": "Beomsu Kim"
+        },
+        {
+          "authorId": "1693182792",
+          "name": "Jin Yong Yoo"
+        },
+        {
+          "authorId": "7274568",
+          "name": "Seokjun Seo"
+        },
+        {
+          "authorId": "2163671673",
+          "name": "Sangbum Kim"
+        },
+        {
+          "authorId": "3451729",
+          "name": "Enkhbayar Erdenee"
+        },
+        {
+          "authorId": "50814662",
+          "name": "Buru Chang"
+        }
+      ]
+    },
+    {
+      "paperId": "71fe2b526fc1a2bfc1d91df9711e9d6654035479",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/71fe2b526fc1a2bfc1d91df9711e9d6654035479",
+      "title": "Defending Textual Neural Networks against Black-Box Adversarial Attacks with Stochastic Multi-Expert Patcher",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2286342863",
+          "name": "Eric Jang"
+        },
+        {
+          "authorId": "2253699903",
+          "name": "S. Gu"
+        },
+        {
+          "authorId": "2286580022",
+          "name": "Ben Poole. 2016"
+        },
+        {
+          "authorId": "2286601151",
+          "name": "Cat-671"
+        },
+        {
+          "authorId": "2285850472",
+          "name": "Percy Liang. 2019"
+        },
+        {
+          "authorId": "2257304169",
+          "name": "Di Jin"
+        },
+        {
+          "authorId": "8752221",
+          "name": "Zhijing Jin"
+        },
+        {
+          "authorId": "2272281937",
+          "name": "Joey Tianyi Zhou"
+        },
+        {
+          "authorId": "51110538",
+          "name": "S. Kariyappa"
+        },
+        {
+          "authorId": "2286304815",
+          "name": "Moinuddin K. Qureshi"
+        },
+        {
+          "authorId": "2080125428",
+          "name": "Yannik Keller"
+        },
+        {
+          "authorId": "147106579",
+          "name": "J. Mackensen"
+        },
+        {
+          "authorId": "2287793697",
+          "name": "Alexander Hanbo Li"
+        },
+        {
+          "authorId": "2286563147",
+          "name": "Abhinav Sethy. 2019"
+        },
+        {
+          "authorId": "2286575458",
+          "name": "Knowl-703"
+        },
+        {
+          "authorId": "2286510914",
+          "name": "Dianqi Li"
+        },
+        {
+          "authorId": "2282503166",
+          "name": "Yizhe Zhang"
+        },
+        {
+          "authorId": "2286704915",
+          "name": "Hao Peng"
+        },
+        {
+          "authorId": "2155570120",
+          "name": "Li-qiong Chen"
+        },
+        {
+          "authorId": "2258530986",
+          "name": "Kai Liu"
+        },
+        {
+          "authorId": "2286469634",
+          "name": "Xin Liu"
+        },
+        {
+          "authorId": "2257903025",
+          "name": "An Yang"
+        },
+        {
+          "authorId": "2286826090",
+          "name": "Jing Liu"
+        },
+        {
+          "authorId": "2264095308",
+          "name": "Jinsong Su"
+        },
+        {
+          "authorId": "11323179",
+          "name": "Yinhan Liu"
+        },
+        {
+          "authorId": "40511414",
+          "name": "Myle Ott"
+        },
+        {
+          "authorId": "39589154",
+          "name": "Naman Goyal"
+        },
+        {
+          "authorId": "3048577",
+          "name": "Jingfei Du"
+        },
+        {
+          "authorId": "2285032310",
+          "name": "Mandar Joshi"
+        },
+        {
+          "authorId": "2255489905",
+          "name": "Danqi Chen"
+        },
+        {
+          "authorId": "2253752918",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "2261973116",
+          "name": "Mike Lewis"
+        },
+        {
+          "authorId": "2285077953",
+          "name": "Minh-Thang Luong"
+        },
+        {
+          "authorId": "2285679091",
+          "name": "Hieu Pham"
+        },
+        {
+          "authorId": "2285292617",
+          "name": "Andrew L. Maas"
+        },
+        {
+          "authorId": "119816047",
+          "name": "Raymond E. Daly"
+        },
+        {
+          "authorId": "2061523260",
+          "name": "Peter T. Pham"
+        },
+        {
+          "authorId": "2286411646",
+          "name": "Andrew Y Huang"
+        },
+        {
+          "authorId": "2286562766",
+          "name": "Ng Christopher"
+        },
+        {
+          "authorId": "2286601353",
+          "name": "Potts"
+        },
+        {
+          "authorId": "3213400",
+          "name": "Takeru Miyato"
+        },
+        {
+          "authorId": "2286428254",
+          "name": "Andrew M. Dai"
+        },
+        {
+          "authorId": "2286536121",
+          "name": "Ian Goodfellow"
+        },
+        {
+          "authorId": "2288243647",
+          "name": "John Morris"
+        },
+        {
+          "authorId": "2286576013",
+          "name": "Eli Li\ufb02and"
+        },
+        {
+          "authorId": "1693182792",
+          "name": "Jin Yong Yoo"
+        },
+        {
+          "authorId": "1829303908",
+          "name": "J. Grigsby"
+        },
+        {
+          "authorId": "19201674",
+          "name": "Tianyu Pang"
+        },
+        {
+          "authorId": "2238550813",
+          "name": "Kun Xu"
+        },
+        {
+          "authorId": "144369497",
+          "name": "Chao Du"
+        },
+        {
+          "authorId": "2189314934",
+          "name": "Ning Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "fa7b8acd47631bada5b66049824bfd335ac6bf8f",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/fa7b8acd47631bada5b66049824bfd335ac6bf8f",
+      "title": "Towards Improving Adversarial Training of NLP Models",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 121,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1693182792",
+          "name": "Jin Yong Yoo"
+        },
+        {
+          "authorId": "121817403",
+          "name": "Yanjun Qi"
+        }
+      ]
+    },
+    {
+      "paperId": "4bb571fe9bde23289132cf46cdfe4753ea57b743",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4bb571fe9bde23289132cf46cdfe4753ea57b743",
+      "title": "TextAttack: Lessons learned in designing Python frameworks for NLP",
+      "venue": "NLPOSS",
+      "year": 2020,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "153769695",
+          "name": "John X. Morris"
+        },
+        {
+          "authorId": "1693182792",
+          "name": "Jin Yong Yoo"
+        },
+        {
+          "authorId": "121817403",
+          "name": "Yanjun Qi"
+        }
+      ]
+    },
+    {
+      "paperId": "adc9533f3d4c3b41b21c10a948a6118018df2a5a",
+      "publicationVenue": {
+        "id": "738626d7-5b8c-497d-9fd6-64bdb6dbf440",
+        "name": "BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP",
+        "type": "conference",
+        "alternate_names": [
+          "BlackboxNLP",
+          "Blackboxnlp Workshop Anal Interpr\u00e8t Neural Netw NLP"
+        ],
+        "url": "https://aclanthology.org/venues/blackboxnlp/"
+      },
+      "url": "https://www.semanticscholar.org/paper/adc9533f3d4c3b41b21c10a948a6118018df2a5a",
+      "title": "Searching for a Search Method: Benchmarking Search Algorithms for Generating NLP Adversarial Examples",
+      "venue": "BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP",
+      "year": 2020,
+      "citationCount": 52,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1693182792",
+          "name": "Jin Yong Yoo"
+        },
+        {
+          "authorId": "153769695",
+          "name": "John X. Morris"
+        },
+        {
+          "authorId": "1453652787",
+          "name": "Eli Lifland"
+        },
+        {
+          "authorId": "121817403",
+          "name": "Yanjun Qi"
+        }
+      ]
+    },
+    {
+      "paperId": "bf9a8fb50aca26774ebf4815db2d8712e2c5830c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/bf9a8fb50aca26774ebf4815db2d8712e2c5830c",
+      "title": "TextAttack: A Framework for Adversarial Attacks in Natural Language Processing",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 69,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "153769695",
+          "name": "John X. Morris"
+        },
+        {
+          "authorId": "1453652787",
+          "name": "Eli Lifland"
+        },
+        {
+          "authorId": "1693182792",
+          "name": "Jin Yong Yoo"
+        },
+        {
+          "authorId": "121817403",
+          "name": "Yanjun Qi"
+        }
+      ]
+    },
+    {
+      "paperId": "c9b56cb026a38e39bb0228faac57accd6f65e6f7",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/c9b56cb026a38e39bb0228faac57accd6f65e6f7",
+      "title": "TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 708,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "153769695",
+          "name": "John X. Morris"
+        },
+        {
+          "authorId": "1453652787",
+          "name": "Eli Lifland"
+        },
+        {
+          "authorId": "1693182792",
+          "name": "Jin Yong Yoo"
+        },
+        {
+          "authorId": "1829303908",
+          "name": "J. Grigsby"
+        },
+        {
+          "authorId": "2068347799",
+          "name": "Di Jin"
+        },
+        {
+          "authorId": "121817403",
+          "name": "Yanjun Qi"
+        }
+      ]
+    },
+    {
+      "paperId": "00d07ddf10951e8bd3247d21c283363e9219a878",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/00d07ddf10951e8bd3247d21c283363e9219a878",
+      "title": "System and method for searching and reporting document of appointed web site",
+      "venue": "",
+      "year": 2001,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2155185237",
+          "name": "Dong Woo Kim"
+        },
+        {
+          "authorId": "1693182792",
+          "name": "Jin Yong Yoo"
+        }
+      ]
+    }
+  ]
+}

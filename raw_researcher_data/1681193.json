@@ -1,0 +1,5169 @@
+{
+  "authorId": "1681193",
+  "name": "Anna Rumshisky",
+  "affiliations": [],
+  "paperCount": 125,
+  "citationCount": 5593,
+  "hIndex": 33,
+  "papers": [
+    {
+      "paperId": "358d04e468df0107dab4f01cfc4b960d78260cdd",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/358d04e468df0107dab4f01cfc4b960d78260cdd",
+      "title": "MergeME: Model Merging Techniques for Homogeneous and Heterogeneous MoEs",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2266789873",
+          "name": "Yuhang Zhou"
+        },
+        {
+          "authorId": "8458211",
+          "name": "Giannis Karamanolakis"
+        },
+        {
+          "authorId": "2302332301",
+          "name": "Victor Soto"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "2302332615",
+          "name": "Mayank Kulkarni"
+        },
+        {
+          "authorId": "2257407889",
+          "name": "Furong Huang"
+        },
+        {
+          "authorId": "2218202090",
+          "name": "Wei Ai"
+        },
+        {
+          "authorId": "2302633316",
+          "name": "Jianhua Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "12c34d1a517ebf1c01013c02a66cbc5bd3573308",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/12c34d1a517ebf1c01013c02a66cbc5bd3573308",
+      "title": "Emergent Abilities in Reduced-Scale Generative Language Models",
+      "venue": "NAACL-HLT",
+      "year": 2024,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2608893",
+          "name": "Sherin Muckatira"
+        },
+        {
+          "authorId": "2212876381",
+          "name": "Vijeta Deshpande"
+        },
+        {
+          "authorId": "1380253954",
+          "name": "Vladislav Lialin"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "3bc5e93fd6c888b5cc91b03b2b0f437faf5b6558",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3bc5e93fd6c888b5cc91b03b2b0f437faf5b6558",
+      "title": "Deconstructing In-Context Learning: Understanding Prompts via Corruption",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2024,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2165226353",
+          "name": "Namrata Shivagunde"
+        },
+        {
+          "authorId": "1380253954",
+          "name": "Vladislav Lialin"
+        },
+        {
+          "authorId": "2608893",
+          "name": "Sherin Muckatira"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "ba15e41eac064729c634464851ae0a268de777d4",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ba15e41eac064729c634464851ae0a268de777d4",
+      "title": "Prompt Perturbation Consistency Learning for Robust Language Models",
+      "venue": "Findings",
+      "year": 2024,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2286869751",
+          "name": "Yao Qiang"
+        },
+        {
+          "authorId": "23553183",
+          "name": "Subhrangshu Nandi"
+        },
+        {
+          "authorId": "51997673",
+          "name": "Ninareh Mehrabi"
+        },
+        {
+          "authorId": "1719898",
+          "name": "G. V. Steeg"
+        },
+        {
+          "authorId": "2169129833",
+          "name": "Anoop Kumar"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "143728483",
+          "name": "A. Galstyan"
+        }
+      ]
+    },
+    {
+      "paperId": "0d2adcddccd72de47c263b6e4e0aab3dd0582a52",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0d2adcddccd72de47c263b6e4e0aab3dd0582a52",
+      "title": "ReLoRA: High-Rank Training Through Low-Rank Updates",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "citationCount": 85,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1380253954",
+          "name": "Vladislav Lialin"
+        },
+        {
+          "authorId": "2165226353",
+          "name": "Namrata Shivagunde"
+        },
+        {
+          "authorId": "2608893",
+          "name": "Sherin Muckatira"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "10e5d2f2e8a59686567ae0d2d0ce741cea9e9ea3",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/10e5d2f2e8a59686567ae0d2d0ce741cea9e9ea3",
+      "title": "Larger Probes Tell a Different Story: Extending Psycholinguistic Datasets Via In-Context Learning",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2165226353",
+          "name": "Namrata Shivagunde"
+        },
+        {
+          "authorId": "1380253954",
+          "name": "Vladislav Lialin"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "6007263dd3d14373be5f84fb6ccb0be3f7fce903",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6007263dd3d14373be5f84fb6ccb0be3f7fce903",
+      "title": "Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 156,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1380253954",
+          "name": "Vladislav Lialin"
+        },
+        {
+          "authorId": "2212876381",
+          "name": "Vijeta Deshpande"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "6975638e6a7ee1e403b3d76242b3ec7f127d91f6",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6975638e6a7ee1e403b3d76242b3ec7f127d91f6",
+      "title": "Scalable and Accurate Self-supervised Multimodal Representation Learning without Aligned Video and Text Data",
+      "venue": "2023 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW)",
+      "year": 2023,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1380253954",
+          "name": "Vladislav Lialin"
+        },
+        {
+          "authorId": "38696444",
+          "name": "Stephen Rawls"
+        },
+        {
+          "authorId": "152502885",
+          "name": "David Chan"
+        },
+        {
+          "authorId": "2134759582",
+          "name": "Shalini Ghosh"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "1836135",
+          "name": "Wael Hamza"
+        }
+      ]
+    },
+    {
+      "paperId": "6b631c1a7f24f8500e714ef3d89963ac62aca64b",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6b631c1a7f24f8500e714ef3d89963ac62aca64b",
+      "title": "Let's Reinforce Step by Step",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2266358142",
+          "name": "Sarah Pan"
+        },
+        {
+          "authorId": "1380253954",
+          "name": "Vladislav Lialin"
+        },
+        {
+          "authorId": "2608893",
+          "name": "Sherin Muckatira"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "811fd7c7e006be7e60f85b68ba0e9b5f025303df",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/811fd7c7e006be7e60f85b68ba0e9b5f025303df",
+      "title": "Complementary Roles of Inference and Language Models in QA",
+      "venue": "PANDL",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2261961420",
+          "name": "Eric Brill"
+        },
+        {
+          "authorId": "2261962546",
+          "name": "Susan Dumais"
+        },
+        {
+          "authorId": "2257135738",
+          "name": "Tom B. Brown"
+        },
+        {
+          "authorId": "2056658938",
+          "name": "Benjamin Mann"
+        },
+        {
+          "authorId": "2260406867",
+          "name": "Nick Ryder"
+        },
+        {
+          "authorId": "2261960223",
+          "name": "Jared D Subbiah"
+        },
+        {
+          "authorId": "2261942588",
+          "name": "Prafulla Kaplan"
+        },
+        {
+          "authorId": "2260445935",
+          "name": "A. Dhariwal"
+        },
+        {
+          "authorId": "2255489905",
+          "name": "Danqi Chen"
+        },
+        {
+          "authorId": "2064150446",
+          "name": "Adam Fisch"
+        },
+        {
+          "authorId": "2259992109",
+          "name": "Jason Weston"
+        },
+        {
+          "authorId": "2261961752",
+          "name": "J. Devlin"
+        },
+        {
+          "authorId": "2262085555",
+          "name": "Ming-Wei Chang"
+        },
+        {
+          "authorId": "2262196473",
+          "name": "Kenton Lee"
+        },
+        {
+          "authorId": "2261986543",
+          "name": "Tianyi Li"
+        },
+        {
+          "authorId": "2029657350",
+          "name": "Mohammad Javad Hosseini"
+        },
+        {
+          "authorId": "2261965873",
+          "name": "Sabine Weber"
+        },
+        {
+          "authorId": "2261960895",
+          "name": "Mark Steedman. 2022a"
+        },
+        {
+          "authorId": "2261962768",
+          "name": "Language Models"
+        },
+        {
+          "authorId": "2261962232",
+          "name": "Are"
+        },
+        {
+          "authorId": "2261962314",
+          "name": "Xi Victoria"
+        },
+        {
+          "authorId": "2262402532",
+          "name": "Todor Lin"
+        },
+        {
+          "authorId": "2261962108",
+          "name": "Mikel Mihaylov"
+        },
+        {
+          "authorId": "2261960739",
+          "name": "Artetxe"
+        },
+        {
+          "authorId": "2261962665",
+          "name": "Tianlu"
+        },
+        {
+          "authorId": "2262002740",
+          "name": "Shuohui Wang"
+        },
+        {
+          "authorId": "2262136222",
+          "name": "Daniel Chen"
+        },
+        {
+          "authorId": "2261960674",
+          "name": "Myle Simig"
+        },
+        {
+          "authorId": "2261960864",
+          "name": "Na-865 Ott"
+        },
+        {
+          "authorId": "11323179",
+          "name": "Yinhan Liu"
+        },
+        {
+          "authorId": "40511414",
+          "name": "Myle Ott"
+        },
+        {
+          "authorId": "39589154",
+          "name": "Naman Goyal"
+        },
+        {
+          "authorId": "3048577",
+          "name": "Jingfei Du"
+        },
+        {
+          "authorId": "144863691",
+          "name": "Mandar Joshi"
+        },
+        {
+          "authorId": "2253752918",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "2261973116",
+          "name": "Mike Lewis"
+        },
+        {
+          "authorId": "101531362",
+          "name": "Nick McKenna"
+        },
+        {
+          "authorId": "3351915",
+          "name": "Liane Guillou"
+        },
+        {
+          "authorId": "2261961024",
+          "name": "Mohammad Javad"
+        },
+        {
+          "authorId": "90314143",
+          "name": "Sander Bijl de Vroe"
+        },
+        {
+          "authorId": "2262090887",
+          "name": "Mark Johnson"
+        },
+        {
+          "authorId": "2257822649",
+          "name": "Yuanliang Meng"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "2261962456",
+          "name": "Alexey Ro-881"
+        },
+        {
+          "authorId": "2261961424",
+          "name": "Dan Moldovan"
+        },
+        {
+          "authorId": "2244636374",
+          "name": "S. Harabagiu"
+        },
+        {
+          "authorId": "2261962116",
+          "name": "Marius Pasca"
+        },
+        {
+          "authorId": "2261960407",
+          "name": "Rada"
+        },
+        {
+          "authorId": "2261961103",
+          "name": "Roxana Mihalcea"
+        },
+        {
+          "authorId": "2261961275",
+          "name": "Richard Girju"
+        },
+        {
+          "authorId": "2261960554",
+          "name": "Goodrum"
+        },
+        {
+          "authorId": "31648215",
+          "name": "Dat Ba Nguyen"
+        },
+        {
+          "authorId": "2237805250",
+          "name": "Johannes Hoffart"
+        },
+        {
+          "authorId": "2261962030",
+          "name": "Martin Theobald"
+        }
+      ]
+    },
+    {
+      "paperId": "86f3f1e1eab021f1026f1d45347cb4fd97013408",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/86f3f1e1eab021f1026f1d45347cb4fd97013408",
+      "title": "Recipes for Sequential Pre-training of Multilingual Encoder and Seq2Seq Models",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2805456",
+          "name": "Saleh Soltan"
+        },
+        {
+          "authorId": "146177177",
+          "name": "Andrew Rosenbaum"
+        },
+        {
+          "authorId": "40390481",
+          "name": "Tobias Falke"
+        },
+        {
+          "authorId": "2117523348",
+          "name": "Qin Lu"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "1836135",
+          "name": "Wael Hamza"
+        }
+      ]
+    },
+    {
+      "paperId": "9369f9b7946d3fed4a1926ccf0942fcf3456191b",
+      "publicationVenue": {
+        "id": "0d6f7fba-7092-46b3-8039-93458dba736b",
+        "name": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Acoust Speech Signal Process",
+          "IEEE Int Conf Acoust Speech Signal Process",
+          "ICASSP",
+          "International Conference on Acoustics, Speech, and Signal Processing"
+        ],
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000002"
+      },
+      "url": "https://www.semanticscholar.org/paper/9369f9b7946d3fed4a1926ccf0942fcf3456191b",
+      "title": "Self-Healing Through Error Detection, Attribution, and Retraining",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46295533",
+          "name": "Ansel MacLaughlin"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "145964537",
+          "name": "R. Khaziev"
+        },
+        {
+          "authorId": "2351994",
+          "name": "Anil Ramakrishna"
+        },
+        {
+          "authorId": "2551462",
+          "name": "Yuval Merhav"
+        },
+        {
+          "authorId": "145542597",
+          "name": "Rahul Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "9aaa71d9311b44e2228eac213c24c37bb9ca64d1",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9aaa71d9311b44e2228eac213c24c37bb9ca64d1",
+      "title": "Honey, I Shrunk the Language: Language Model Behavior at Reduced Scale",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2212876381",
+          "name": "Vijeta Deshpande"
+        },
+        {
+          "authorId": "2082135945",
+          "name": "Dan Pechi"
+        },
+        {
+          "authorId": "2218578144",
+          "name": "Shree Thatte"
+        },
+        {
+          "authorId": "1380253954",
+          "name": "Vladislav Lialin"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "fd60853c71938007a8564d53b25f4a15e746a4d5",
+      "publicationVenue": {
+        "id": "af90489e-312f-4514-bea2-bcb399cb8ece",
+        "name": "Interspeech",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Int Speech Commun Assoc",
+          "INTERSPEECH",
+          "Conference of the International Speech Communication Association"
+        ],
+        "issn": "2308-457X",
+        "url": "https://www.isca-speech.org/iscaweb/index.php/conferences/interspeech",
+        "alternate_urls": [
+          "http://www.isca-speech.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/fd60853c71938007a8564d53b25f4a15e746a4d5",
+      "title": "Sampling bias in NLU models: Impact and Mitigation",
+      "venue": "Interspeech",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2230025366",
+          "name": "Zefei Li"
+        },
+        {
+          "authorId": "2351994",
+          "name": "Anil Ramakrishna"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "146177177",
+          "name": "Andrew Rosenbaum"
+        },
+        {
+          "authorId": "2231602214",
+          "name": "Saleh Solta"
+        },
+        {
+          "authorId": "2256698390",
+          "name": "Rahul Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "21b11ee70fc17ff3f52b87dc394bc2885c0fa5ee",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/21b11ee70fc17ff3f52b87dc394bc2885c0fa5ee",
+      "title": "Chasing the Tail with Domain Generalization: A Case Study on Frequency-Enriched Datasets",
+      "venue": "AACL",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2157851439",
+          "name": "Manoj Kumar"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "145542597",
+          "name": "Rahul Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "2a0953e6aa8a8c4b88928957338e93f8636ebe84",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2a0953e6aa8a8c4b88928957338e93f8636ebe84",
+      "title": "Reasoning Circuits: Few-shot Multi-hop Question Generation with Structured Rationales",
+      "venue": "NLRSE",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066256691",
+          "name": "Saurabh Kulshreshtha"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "2e6a961e55662508ca7b8081f525d1531b5db56a",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/2e6a961e55662508ca7b8081f525d1531b5db56a",
+      "title": "On Task-Adaptive Pretraining for Dialogue Response Selection",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2081195",
+          "name": "Tzu-Hsiang Lin"
+        },
+        {
+          "authorId": "27531332",
+          "name": "Ta-Chung Chi"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "33986e5964f025a4f8343322149ef66cf194b5da",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/33986e5964f025a4f8343322149ef66cf194b5da",
+      "title": "Down and Across: Introducing Crossword-Solving as a New NLP Benchmark",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066256691",
+          "name": "Saurabh Kulshreshtha"
+        },
+        {
+          "authorId": "152176221",
+          "name": "Olga Kovaleva"
+        },
+        {
+          "authorId": "2165226353",
+          "name": "Namrata Shivagunde"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "7574ac431d9b1f3ef5996746817a4ae7cad94ad3",
+      "publicationVenue": {
+        "id": "a631cd93-9863-44c8-8dff-9eb3fbf4f83e",
+        "name": "Clinical Natural Language Processing Workshop",
+        "type": "conference",
+        "alternate_names": [
+          "ClinicalNLP",
+          "Clin Nat Lang Process Workshop"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7574ac431d9b1f3ef5996746817a4ae7cad94ad3",
+      "title": "Learning to Ask Like a Physician",
+      "venue": "Clinical Natural Language Processing Workshop",
+      "year": 2022,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51172373",
+          "name": "Eric P. Lehman"
+        },
+        {
+          "authorId": "67141335",
+          "name": "Vladislav Lialin"
+        },
+        {
+          "authorId": "2168268949",
+          "name": "K. Y. Legaspi"
+        },
+        {
+          "authorId": "2168179265",
+          "name": "Anne Janelle R. Sy"
+        },
+        {
+          "authorId": "2168272851",
+          "name": "Patricia Therese S. Pile"
+        },
+        {
+          "authorId": "2051580805",
+          "name": "N. Alberto"
+        },
+        {
+          "authorId": "1685029174",
+          "name": "Richard Raymund R. Ragasa"
+        },
+        {
+          "authorId": "2148554024",
+          "name": "C. V. M. Puyat"
+        },
+        {
+          "authorId": "2145550958",
+          "name": "I. R. I. Alberto"
+        },
+        {
+          "authorId": "2168264157",
+          "name": "P. G. Alfonso"
+        },
+        {
+          "authorId": "2168253540",
+          "name": "M. Tali\u00f1o"
+        },
+        {
+          "authorId": "2114905585",
+          "name": "Dana Moukheiber"
+        },
+        {
+          "authorId": "1912476",
+          "name": "Byron C. Wallace"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "25159288",
+          "name": "Jenifer Liang"
+        },
+        {
+          "authorId": "30088877",
+          "name": "Preethi Raghavan"
+        },
+        {
+          "authorId": "143605744",
+          "name": "L. Celi"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        }
+      ]
+    },
+    {
+      "paperId": "8497ea41f7ac57d17cb6b418d9805da9beaa5e3f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8497ea41f7ac57d17cb6b418d9805da9beaa5e3f",
+      "title": "Probing the Linguistic Capacity of Pre-Trained Vision-Language Models",
+      "venue": "",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "85fe9855caa6d20f6866847f9ea7d3280d45ebb6",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/85fe9855caa6d20f6866847f9ea7d3280d45ebb6",
+      "title": "Federated Learning with Noisy User Feedback",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2111336874",
+          "name": "Rahul Sharma"
+        },
+        {
+          "authorId": "2351994",
+          "name": "Anil Ramakrishna"
+        },
+        {
+          "authorId": "46295533",
+          "name": "Ansel MacLaughlin"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "40866574",
+          "name": "Jimit Majmudar"
+        },
+        {
+          "authorId": "2112882256",
+          "name": "Clement Chung"
+        },
+        {
+          "authorId": "121011351",
+          "name": "S. Avestimehr"
+        },
+        {
+          "authorId": "145542597",
+          "name": "Rahul Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "914254fac74a2da051cccf6ca16afcaad416a079",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/914254fac74a2da051cccf6ca16afcaad416a079",
+      "title": "AlexaTM 20B: Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 81,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2805456",
+          "name": "Saleh Soltan"
+        },
+        {
+          "authorId": "2773408",
+          "name": "Shankar Ananthakrishnan"
+        },
+        {
+          "authorId": "120590817",
+          "name": "Jack G. M. FitzGerald"
+        },
+        {
+          "authorId": "145542597",
+          "name": "Rahul Gupta"
+        },
+        {
+          "authorId": "1836135",
+          "name": "Wael Hamza"
+        },
+        {
+          "authorId": "144165565",
+          "name": "Haidar Khan"
+        },
+        {
+          "authorId": "102648923",
+          "name": "Charith Peris"
+        },
+        {
+          "authorId": "38696444",
+          "name": "Stephen Rawls"
+        },
+        {
+          "authorId": "146177177",
+          "name": "Andrew Rosenbaum"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "1588348842",
+          "name": "C. Prakash"
+        },
+        {
+          "authorId": "1734869335",
+          "name": "Mukund Sridhar"
+        },
+        {
+          "authorId": "1761263",
+          "name": "Fabian Triefenbach"
+        },
+        {
+          "authorId": "3363380",
+          "name": "Apurv Verma"
+        },
+        {
+          "authorId": "5108268",
+          "name": "Gokhan Tur"
+        },
+        {
+          "authorId": "2104644641",
+          "name": "Premkumar Natarajan"
+        }
+      ]
+    },
+    {
+      "paperId": "a005a6160efa2fd055581b8222b41f71f966ea50",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a005a6160efa2fd055581b8222b41f71f966ea50",
+      "title": "Life after BERT: What do Other Muppets Understand about Language?",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "67141335",
+          "name": "Vladislav Lialin"
+        },
+        {
+          "authorId": "2074109526",
+          "name": "Kevin Zhao"
+        },
+        {
+          "authorId": "2165226353",
+          "name": "Namrata Shivagunde"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "eca48340b9a16088ad2646c61de092be8b809b09",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/eca48340b9a16088ad2646c61de092be8b809b09",
+      "title": "Controlled Data Generation via Insertion Operations for NLU",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109939908",
+          "name": "Manoj Kumar"
+        },
+        {
+          "authorId": "144165565",
+          "name": "Haidar Khan"
+        },
+        {
+          "authorId": "2551462",
+          "name": "Yuval Merhav"
+        },
+        {
+          "authorId": "1836135",
+          "name": "Wael Hamza"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "145542597",
+          "name": "Rahul Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "14651dc814273fd1e701c4e30c1366c7ac041f79",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/14651dc814273fd1e701c4e30c1366c7ac041f79",
+      "title": "Self-supervised Schema Induction for Task-oriented Dialog Anonymous",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2109863",
+          "name": "Georgia Athanasopoulou"
+        },
+        {
+          "authorId": "2286367332",
+          "name": "Ioannis Klasinas"
+        },
+        {
+          "authorId": "17895970",
+          "name": "Pawe\u0142 Budzianowski"
+        },
+        {
+          "authorId": "2266842044",
+          "name": "Tsung-Hsien Wen"
+        },
+        {
+          "authorId": "2286101196",
+          "name": "I\u00f1igo Tseng"
+        },
+        {
+          "authorId": "2286131232",
+          "name": "Stefan Casanueva"
+        },
+        {
+          "authorId": "2286381252",
+          "name": "Ultes"
+        },
+        {
+          "authorId": "2286381301",
+          "name": "Osman Ra-658"
+        },
+        {
+          "authorId": "2286387307",
+          "name": "madan Milica"
+        },
+        {
+          "authorId": "2286387939",
+          "name": "Ga\u0161i\u00b4c. 2018"
+        },
+        {
+          "authorId": "2286392273",
+          "name": "MultiWOZ"
+        },
+        {
+          "authorId": "2286155624",
+          "name": "Ricardo Campos"
+        },
+        {
+          "authorId": "2285864680",
+          "name": "V\u00edtor Mangaravite"
+        },
+        {
+          "authorId": "33462127",
+          "name": "Arian Pasquali"
+        },
+        {
+          "authorId": "2282543048",
+          "name": "Julian Michael"
+        },
+        {
+          "authorId": "2286404211",
+          "name": "Jan A. Botha"
+        },
+        {
+          "authorId": "2284593233",
+          "name": "Ian Tenney"
+        },
+        {
+          "authorId": "2286387309",
+          "name": "Luke Zettlemoyer. 2021"
+        },
+        {
+          "authorId": "2286392812",
+          "name": "Induc-917"
+        },
+        {
+          "authorId": "2286404896",
+          "name": "Qingkai Min"
+        },
+        {
+          "authorId": "2286124775",
+          "name": "Libo Qin"
+        },
+        {
+          "authorId": "2284863763",
+          "name": "Zhiyang Teng"
+        },
+        {
+          "authorId": "2286681094",
+          "name": "Xiao Liu"
+        },
+        {
+          "authorId": "48872685",
+          "name": "Sewon Min"
+        },
+        {
+          "authorId": "2286629648",
+          "name": "Danqi Chen"
+        },
+        {
+          "authorId": "2264251662",
+          "name": "Hanna Hajishirzi"
+        },
+        {
+          "authorId": "2286398748",
+          "name": "Anna Rogers"
+        },
+        {
+          "authorId": "152176221",
+          "name": "Olga Kovaleva"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "2286877499",
+          "name": "Jiaming Shen"
+        },
+        {
+          "authorId": "2261732469",
+          "name": "Yun-qian Zhang"
+        },
+        {
+          "authorId": "2288106571",
+          "name": "Heng Ji"
+        },
+        {
+          "authorId": "2286135662",
+          "name": "Yikang Shen"
+        },
+        {
+          "authorId": "2286367683",
+          "name": "Chin Zhouhan Lin"
+        },
+        {
+          "authorId": "2283762178",
+          "name": "Wei Huang"
+        },
+        {
+          "authorId": "2287651681",
+          "name": "Chen Shi"
+        },
+        {
+          "authorId": "2271382301",
+          "name": "Qi Chen"
+        },
+        {
+          "authorId": "39058310",
+          "name": "Lei Sha"
+        },
+        {
+          "authorId": "2286368012",
+          "name": "Sujian Li"
+        },
+        {
+          "authorId": "2286314814",
+          "name": "Xu Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "177e21dbf45d01a0f585bb46e548d795b441aad9",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/177e21dbf45d01a0f585bb46e548d795b441aad9",
+      "title": "Multi-Stream Transformers",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3359236",
+          "name": "M. Burtsev"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "40ab0e941e6186d7bada30c659aa617f3fddae57",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/40ab0e941e6186d7bada30c659aa617f3fddae57",
+      "title": "Interpretability on clinical analysis from Pattern Disentanglement Insight",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        },
+        {
+          "authorId": "2286228976",
+          "name": "Andrew Y Ng"
+        },
+        {
+          "authorId": "2253170378",
+          "name": "Roselie A. Bright"
+        },
+        {
+          "authorId": "3277779",
+          "name": "Summer K. Rankin"
+        },
+        {
+          "authorId": "39153533",
+          "name": "Katherine Dowdy"
+        },
+        {
+          "authorId": "2212610127",
+          "name": "Sergey V Blok"
+        },
+        {
+          "authorId": "2094434191",
+          "name": "Susan J Bright"
+        },
+        {
+          "authorId": "2286218886",
+          "name": "Lee Anne"
+        },
+        {
+          "authorId": "1701577",
+          "name": "K. Brodersen"
+        },
+        {
+          "authorId": "2286520241",
+          "name": "Cheng Soon"
+        },
+        {
+          "authorId": "2286285092",
+          "name": "Klaas Ong"
+        },
+        {
+          "authorId": "2286283746",
+          "name": "Enno"
+        },
+        {
+          "authorId": "2285427811",
+          "name": "Bharathi Raja"
+        },
+        {
+          "authorId": "2286497129",
+          "name": "Ruba Chakravarthi"
+        },
+        {
+          "authorId": "2286338442",
+          "name": "Priyadharshini"
+        },
+        {
+          "authorId": "3457071",
+          "name": "Vigneshwaran Muralidaran"
+        },
+        {
+          "authorId": "1654096445",
+          "name": "Shardul Suryawanshi"
+        },
+        {
+          "authorId": "2286251919",
+          "name": "Jinying Chen"
+        },
+        {
+          "authorId": "2263849776",
+          "name": "John Lalor"
+        },
+        {
+          "authorId": "2286494926",
+          "name": "Weisong Liu"
+        },
+        {
+          "authorId": "35408286",
+          "name": "Emily Druhl"
+        },
+        {
+          "authorId": "40579094",
+          "name": "Phil Culliton"
+        },
+        {
+          "authorId": "2286490188",
+          "name": "Michael Levinson"
+        },
+        {
+          "authorId": "11230269",
+          "name": "Alice Ehresman"
+        },
+        {
+          "authorId": "2261961752",
+          "name": "J. Devlin"
+        },
+        {
+          "authorId": "2262085555",
+          "name": "Ming-Wei Chang"
+        },
+        {
+          "authorId": "2262196473",
+          "name": "Kenton Lee"
+        },
+        {
+          "authorId": "1381891825",
+          "name": "Ryan B. Ghannam"
+        },
+        {
+          "authorId": "2286505765",
+          "name": "Stephen M Techtmann. 2021"
+        },
+        {
+          "authorId": "2279872952",
+          "name": "Marzyeh Ghassemi"
+        },
+        {
+          "authorId": "2256655984",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2286498708",
+          "name": "Finale Doshi-685 Velez"
+        },
+        {
+          "authorId": "2628705",
+          "name": "Nicole Brimmer"
+        },
+        {
+          "authorId": "145367669",
+          "name": "Rohit Joshi"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "2286498715",
+          "name": "Peter Szolovits. 2014"
+        },
+        {
+          "authorId": "2286496352",
+          "name": "Unfolding"
+        }
+      ]
+    },
+    {
+      "paperId": "5a09edeb26f9f116f2c0503cd020f38fb943f79b",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5a09edeb26f9f116f2c0503cd020f38fb943f79b",
+      "title": "BERT Busters: Outlier Dimensions that Disrupt Transformers",
+      "venue": "Findings",
+      "year": 2021,
+      "citationCount": 80,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152176221",
+          "name": "Olga Kovaleva"
+        },
+        {
+          "authorId": "2066256691",
+          "name": "Saurabh Kulshreshtha"
+        },
+        {
+          "authorId": "145046059",
+          "name": "Anna Rogers"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "701e58551ef01bb6799ac3dee2fa6d8006c1d615",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/701e58551ef01bb6799ac3dee2fa6d8006c1d615",
+      "title": "BERT Busters: Outlier LayerNorm Dimensions that Disrupt BERT",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152176221",
+          "name": "Olga Kovaleva"
+        },
+        {
+          "authorId": "2066256691",
+          "name": "Saurabh Kulshreshtha"
+        },
+        {
+          "authorId": "145046059",
+          "name": "Anna Rogers"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "b10b8ee710a78274d940543f832ddd592a16254d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b10b8ee710a78274d940543f832ddd592a16254d",
+      "title": "Research and Applications The 2019 n2c2/UMass Lowell shared task on clinical concept normalization",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 17,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3457498",
+          "name": "Yen-Fu Luo"
+        },
+        {
+          "authorId": "145913493",
+          "name": "Sam Henry"
+        },
+        {
+          "authorId": "13044536",
+          "name": "Yanshan Wang"
+        },
+        {
+          "authorId": "2505999",
+          "name": "F. Shen"
+        },
+        {
+          "authorId": "1404417826",
+          "name": "Ozlem Uzuner"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "b9b31478564a617eadf0aa2d5ce6157474bff065",
+      "publicationVenue": {
+        "id": "0d6f7fba-7092-46b3-8039-93458dba736b",
+        "name": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Acoust Speech Signal Process",
+          "IEEE Int Conf Acoust Speech Signal Process",
+          "ICASSP",
+          "International Conference on Acoustics, Speech, and Signal Processing"
+        ],
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000002"
+      },
+      "url": "https://www.semanticscholar.org/paper/b9b31478564a617eadf0aa2d5ce6157474bff065",
+      "title": "An Efficient DP-SGD Mechanism for Large Scale NLU Models",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2021,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "34866641",
+          "name": "Christophe Dupuy"
+        },
+        {
+          "authorId": "2506384",
+          "name": "Radhika Arava"
+        },
+        {
+          "authorId": "2110342266",
+          "name": "Rahul Gupta"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "e0981f86a4260fa23abf79d3dbd38488e64f5cea",
+      "publicationVenue": {
+        "id": "18232e92-ef10-46fd-ad77-bb418dcd525d",
+        "name": "Translational Psychiatry",
+        "type": "journal",
+        "alternate_names": [
+          "Transl Psychiatry"
+        ],
+        "issn": "2158-3188",
+        "url": "https://www.nature.com/tp/",
+        "alternate_urls": [
+          "http://www.nature.com/tp/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e0981f86a4260fa23abf79d3dbd38488e64f5cea",
+      "title": "Hard for humans, hard for machines: predicting readmission after psychiatric hospitalization using narrative notes",
+      "venue": "Translational Psychiatry",
+      "year": 2021,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3443433",
+          "name": "William Boag"
+        },
+        {
+          "authorId": "152176221",
+          "name": "Olga Kovaleva"
+        },
+        {
+          "authorId": "35125633",
+          "name": "T. McCoy"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        },
+        {
+          "authorId": "4889956",
+          "name": "R. Perlis"
+        }
+      ]
+    },
+    {
+      "paperId": "0458bf4fc44d5f3de15eb0ccbc6fa88cbecdfa6d",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0458bf4fc44d5f3de15eb0ccbc6fa88cbecdfa6d",
+      "title": "A guide to the dataset explosion in QA, NLI, and commonsense reasoning",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2020,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145046059",
+          "name": "Anna Rogers"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "3ab28785bcc06be1dc9a85c6e0f64443f133e9c8",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3ab28785bcc06be1dc9a85c6e0f64443f133e9c8",
+      "title": "Continual Learning for Neural Semantic Parsing",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "67141335",
+          "name": "Vladislav Lialin"
+        },
+        {
+          "authorId": "2061600973",
+          "name": "Rahul Goel"
+        },
+        {
+          "authorId": "3125365",
+          "name": "A. Simanovsky"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "37896099",
+          "name": "Rushin Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "6609489a0f800a9ef411efdcfca4c014c4e86aa8",
+      "publicationVenue": {
+        "id": "3afb600a-49ad-40aa-858c-081def027584",
+        "name": "Workshop on Biomedical Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "BioNLP",
+          "Workshop Biomed Nat Lang Process"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6609489a0f800a9ef411efdcfca4c014c4e86aa8",
+      "title": "Towards Visual Dialog for Radiology",
+      "venue": "Workshop on Biomedical Natural Language Processing",
+      "year": 2020,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152176221",
+          "name": "Olga Kovaleva"
+        },
+        {
+          "authorId": "1866532",
+          "name": "Chaitanya P. Shivade"
+        },
+        {
+          "authorId": "33201965",
+          "name": "Satyananda Kashyap"
+        },
+        {
+          "authorId": "1410148565",
+          "name": "Karina Kanjaria"
+        },
+        {
+          "authorId": "40346984",
+          "name": "Joy T. Wu"
+        },
+        {
+          "authorId": "13403287",
+          "name": "Deddeh Ballah"
+        },
+        {
+          "authorId": "1388126424",
+          "name": "Adam Coy"
+        },
+        {
+          "authorId": "2308391",
+          "name": "A. Karargyris"
+        },
+        {
+          "authorId": "2230103",
+          "name": "Yufan Guo"
+        },
+        {
+          "authorId": "1740300",
+          "name": "D. Beymer"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "80257800",
+          "name": "Vandana V. Mukherjee"
+        }
+      ]
+    },
+    {
+      "paperId": "91ac65431b2dc46919e1673fde67671c29446812",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/91ac65431b2dc46919e1673fde67671c29446812",
+      "title": "When BERT Plays the Lottery, All Tickets Are Winning",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 182,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145816991",
+          "name": "Sai Prasanna"
+        },
+        {
+          "authorId": "145046059",
+          "name": "Anna Rogers"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "a87f0bac2ed58e8a79d33d0c1cf81c6407cd645f",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a87f0bac2ed58e8a79d33d0c1cf81c6407cd645f",
+      "title": "Getting Closer to AI Complete Question Answering: A Set of Prerequisite Real Tasks",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2020,
+      "citationCount": 117,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145046059",
+          "name": "Anna Rogers"
+        },
+        {
+          "authorId": "152176221",
+          "name": "Olga Kovaleva"
+        },
+        {
+          "authorId": "2065849520",
+          "name": "Matthew Downey"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "bd20069f5cac3e63083ecf6479abc1799db33ce0",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/bd20069f5cac3e63083ecf6479abc1799db33ce0",
+      "title": "A Primer in BERTology: What We Know About How BERT Works",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 1423,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145046059",
+          "name": "Anna Rogers"
+        },
+        {
+          "authorId": "152176221",
+          "name": "Olga Kovaleva"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "20fa66cb21d8a1b7436306af4b0bedddd3bb470b",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/20fa66cb21d8a1b7436306af4b0bedddd3bb470b",
+      "title": "Solving Math Word Problems with Double-Decoder Transformer",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2921300",
+          "name": "Yuanliang Meng"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "2904464d1208e479f7a4abe179c25d464162ee88",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2904464d1208e479f7a4abe179c25d464162ee88",
+      "title": "A Hybrid Normalization Method for Medical Concepts in Clinical Narrative using Semantic Matching.",
+      "venue": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+      "year": 2019,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3457498",
+          "name": "Yen-Fu Luo"
+        },
+        {
+          "authorId": "46912604",
+          "name": "Weiyi Sun"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "2c354eb4751b19a5120a531e496abab40dd115e1",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/2c354eb4751b19a5120a531e496abab40dd115e1",
+      "title": "Memory-Augmented Recurrent Networks for Dialogue Coherence",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "123494435",
+          "name": "David Donahue"
+        },
+        {
+          "authorId": "2921300",
+          "name": "Yuanliang Meng"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "2e282bca209a3bad3ee0e35ea03b24056af7975c",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/2e282bca209a3bad3ee0e35ea03b24056af7975c",
+      "title": "What\u2019s in a Name? Reducing Bias in Bios without Access to Protected Attributes",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 80,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        },
+        {
+          "authorId": "1406443102",
+          "name": "Maria De-Arteaga"
+        },
+        {
+          "authorId": "1831395",
+          "name": "Hanna M. Wallach"
+        },
+        {
+          "authorId": "1695997",
+          "name": "J. Chayes"
+        },
+        {
+          "authorId": "1721812",
+          "name": "C. Borgs"
+        },
+        {
+          "authorId": "2082393",
+          "name": "A. Chouldechova"
+        },
+        {
+          "authorId": "6748971",
+          "name": "S. Geyik"
+        },
+        {
+          "authorId": "1769861",
+          "name": "K. Kenthapadi"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "2186481",
+          "name": "A. Kalai"
+        }
+      ]
+    },
+    {
+      "paperId": "331a87762228ecca2eebf309b859189f033414ba",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/331a87762228ecca2eebf309b859189f033414ba",
+      "title": "NarrativeTime: Dense Temporal Annotation on a Timeline",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2019,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145046059",
+          "name": "Anna Rogers"
+        },
+        {
+          "authorId": "37796923",
+          "name": "Marzena Karpinska"
+        },
+        {
+          "authorId": "2110760579",
+          "name": "Ankita Gupta"
+        },
+        {
+          "authorId": "1380253954",
+          "name": "Vladislav Lialin"
+        },
+        {
+          "authorId": "1388409649",
+          "name": "Gregory Smelkov"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "4336c0e1d06ddbe615387ee47b68697ce649f021",
+      "publicationVenue": {
+        "id": "f9827422-a381-440c-a8a4-e5e50415934e",
+        "name": "Journal of Biomedical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Informatics"
+        ],
+        "issn": "1532-0464",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622857/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-biomedical-informatics/",
+          "http://www.sciencedirect.com/science/journal/15320464",
+          "http://www.journals.elsevier.com/journal-of-biomedical-informatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4336c0e1d06ddbe615387ee47b68697ce649f021",
+      "title": "MCN: A comprehensive corpus for medical concept normalization",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2019,
+      "citationCount": 64,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3457498",
+          "name": "Yen-Fu Luo"
+        },
+        {
+          "authorId": "46912604",
+          "name": "Weiyi Sun"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "a1d40440bf31b89cf98708fc2a12e5214cad85ba",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/a1d40440bf31b89cf98708fc2a12e5214cad85ba",
+      "title": "Calls to Action on Social Media: Detection, Social Impact, and Censorship Potential",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Political Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145046059",
+          "name": "Anna Rogers"
+        },
+        {
+          "authorId": "152176221",
+          "name": "Olga Kovaleva"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "c2d05b963d7ed27081f7878ffd3915750b4d7987",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/c2d05b963d7ed27081f7878ffd3915750b4d7987",
+      "title": "NarrativeTime: Dense High-Speed Temporal Annotation on a Timeline",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145046059",
+          "name": "Anna Rogers"
+        },
+        {
+          "authorId": "1388409649",
+          "name": "Gregory Smelkov"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "cc71a905ca132999a158857823606cd979b9080e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/cc71a905ca132999a158857823606cd979b9080e",
+      "title": "Visual Dialog for Radiology: Data Curation and FirstSteps",
+      "venue": "ViGIL@NeurIPS",
+      "year": 2019,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152176221",
+          "name": "Olga Kovaleva"
+        },
+        {
+          "authorId": "1866532",
+          "name": "Chaitanya P. Shivade"
+        },
+        {
+          "authorId": "33201965",
+          "name": "Satyananda Kashyap"
+        },
+        {
+          "authorId": "1410148565",
+          "name": "Karina Kanjaria"
+        },
+        {
+          "authorId": "1388126424",
+          "name": "Adam Coy"
+        },
+        {
+          "authorId": "13403287",
+          "name": "Deddeh Ballah"
+        },
+        {
+          "authorId": "2230103",
+          "name": "Yufan Guo"
+        },
+        {
+          "authorId": "40346984",
+          "name": "Joy T. Wu"
+        },
+        {
+          "authorId": "2308391",
+          "name": "A. Karargyris"
+        },
+        {
+          "authorId": "1740300",
+          "name": "D. Beymer"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "80257800",
+          "name": "Vandana V. Mukherjee"
+        }
+      ]
+    },
+    {
+      "paperId": "d78aed1dac6656affa4a04cbf225ced11a83d103",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/d78aed1dac6656affa4a04cbf225ced11a83d103",
+      "title": "Revealing the Dark Secrets of BERT",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 535,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "152176221",
+          "name": "Olga Kovaleva"
+        },
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        },
+        {
+          "authorId": "145046059",
+          "name": "Anna Rogers"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "db97e99840e867476a60e1336b62bb20865b4503",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/db97e99840e867476a60e1336b62bb20865b4503",
+      "title": "Injecting Hierarchy with U-Net Transformers",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "123494435",
+          "name": "David Donahue"
+        },
+        {
+          "authorId": "67141335",
+          "name": "Vladislav Lialin"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "1c88e5f03f0cabe3e035b9f962aabd3b9434cc4d",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/1c88e5f03f0cabe3e035b9f962aabd3b9434cc4d",
+      "title": "CliNER 2.0: Accessible and Accurate Clinical Concept Extraction",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "31809608",
+          "name": "Willie Boag"
+        },
+        {
+          "authorId": "2065624160",
+          "name": "Elena Sergeeva"
+        },
+        {
+          "authorId": "2066256691",
+          "name": "Saurabh Kulshreshtha"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        }
+      ]
+    },
+    {
+      "paperId": "3735317a7435296a01ff4b7571d6b08fca98b298",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3735317a7435296a01ff4b7571d6b08fca98b298",
+      "title": "Adversarial Text Generation Without Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "123494435",
+          "name": "David Donahue"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "80e913e4a2d52cf024a0aaebbe0f4246bf94c26d",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/80e913e4a2d52cf024a0aaebbe0f4246bf94c26d",
+      "title": "Adversarial Decomposition of Text Representation",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 43,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "145046059",
+          "name": "Anna Rogers"
+        },
+        {
+          "authorId": "123494435",
+          "name": "David Donahue"
+        }
+      ]
+    },
+    {
+      "paperId": "ab8a005df31230222a123ffb6bb3788cf76abe7e",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/ab8a005df31230222a123ffb6bb3788cf76abe7e",
+      "title": "Similarity-Based Reconstruction Loss for Meaning Representation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152176221",
+          "name": "Olga Kovaleva"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        }
+      ]
+    },
+    {
+      "paperId": "af7f836cf21be1c19b4b6957c08870ef50e9967e",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/af7f836cf21be1c19b4b6957c08870ef50e9967e",
+      "title": "Triad-based Neural Network for Coreference Resolution",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2018,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2921300",
+          "name": "Yuanliang Meng"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "b5e75fcef91dc72200925051a5e30390e4f06b43",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b5e75fcef91dc72200925051a5e30390e4f06b43",
+      "title": "RuSentiment: An Enriched Sentiment Analysis Dataset for Social Media in Russian",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2018,
+      "citationCount": 61,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145046059",
+          "name": "Anna Rogers"
+        },
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "143683394",
+          "name": "Svitlana Volkova"
+        },
+        {
+          "authorId": "3457367",
+          "name": "Mikhail Gronas"
+        },
+        {
+          "authorId": "144291382",
+          "name": "A. Gribov"
+        }
+      ]
+    },
+    {
+      "paperId": "bbb3a49edf69a1909c0cf453858b451ef23fcbaf",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/bbb3a49edf69a1909c0cf453858b451ef23fcbaf",
+      "title": "Context-Aware Neural Model for Temporal Information Extraction",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 47,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2921300",
+          "name": "Yuanliang Meng"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "ed489ad95eae8c106575bfca9bc30435763b2252",
+      "publicationVenue": {
+        "id": "4c82b394-c401-4ce2-982e-7ab79de2bd24",
+        "name": "IEEE International Conference on Healthcare Informatics",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Int Conf Healthc Informatics",
+          "ICHI"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ed489ad95eae8c106575bfca9bc30435763b2252",
+      "title": "A Hybrid Method for Normalization of Medical Concepts in Clinical Narrative",
+      "venue": "IEEE International Conference on Healthcare Informatics",
+      "year": 2018,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3457498",
+          "name": "Yen-Fu Luo"
+        },
+        {
+          "authorId": "46912604",
+          "name": "Weiyi Sun"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "fe2a31b4ce8318022afd109762f31ef4ee617723",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/fe2a31b4ce8318022afd109762f31ef4ee617723",
+      "title": "Automatic Labeling of Problem-Solving Dialogues for Computational Microgenetic Learning Analytics",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2018,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2921300",
+          "name": "Yuanliang Meng"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "2469366",
+          "name": "Florence R. Sullivan"
+        }
+      ]
+    },
+    {
+      "paperId": "fe64c13b1206ef319e12ecc24c5ab56373a5617d",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/fe64c13b1206ef319e12ecc24c5ab56373a5617d",
+      "title": "What\u2019s in Your Embedding, And How It Predicts Task Performance",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2018,
+      "citationCount": 37,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145046059",
+          "name": "Anna Rogers"
+        },
+        {
+          "authorId": "51201198",
+          "name": "Shashwath Hosur Ananthakrishna"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "184587cf6f9c37a7087a3c1ecd6819fcb14117bf",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/184587cf6f9c37a7087a3c1ecd6819fcb14117bf",
+      "title": "HumorHawk at SemEval-2017 Task 6: Mixing Meaning and Sound for Humor Recognition",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2017,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "123494435",
+          "name": "David Donahue"
+        },
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "3980c571cf0ddca22a26b080dcbab8c3f5bb03f6",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3980c571cf0ddca22a26b080dcbab8c3f5bb03f6",
+      "title": "SemEval-2017 Task 6: #HashtagWars: Learning a Sense of Humor",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2017,
+      "citationCount": 74,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2039635",
+          "name": "P. Potash"
+        },
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "3c1c5dff55469ef76318a9a32d3c86fafbf32d58",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/3c1c5dff55469ef76318a9a32d3c86fafbf32d58",
+      "title": "Towards Debate Automation: a Recurrent Model for Predicting Debate Winners",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2017,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2039635",
+          "name": "P. Potash"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "4340aa71fa8a21139f2bf13f1e1dc1c038e40b74",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/4340aa71fa8a21139f2bf13f1e1dc1c038e40b74",
+      "title": "Temporal Information Extraction for Question Answering Using Syntactic Dependencies in an LSTM-based Architecture",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2017,
+      "citationCount": 51,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2921300",
+          "name": "Yuanliang Meng"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        }
+      ]
+    },
+    {
+      "paperId": "576a60a93a09180550011c23eae4392c719fc6a2",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/576a60a93a09180550011c23eae4392c719fc6a2",
+      "title": "Tracking Bias in News Sources Using Social Media: the Russia-Ukraine Maidan Crisis of 2013\u20132014",
+      "venue": "NLPmJ@EMNLP",
+      "year": 2017,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2039635",
+          "name": "P. Potash"
+        },
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "3457367",
+          "name": "Mikhail Gronas"
+        }
+      ]
+    },
+    {
+      "paperId": "653740cc9eaac2488797bc6b18137d9cf8e46361",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/653740cc9eaac2488797bc6b18137d9cf8e46361",
+      "title": "Machine Learning for Higher-Level Linguistic Tasks",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "4301541",
+          "name": "Amber Stubbs"
+        }
+      ]
+    },
+    {
+      "paperId": "9785f21ac0b33689dc3ae711a94383eda01785e9",
+      "publicationVenue": {
+        "id": "e783305c-5d8a-44b9-b7a2-449d474a85b2",
+        "name": "International Joint Conference on Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "IJCNLP",
+          "Int Jt Conf Nat Lang Process"
+        ],
+        "url": "https://www.aclweb.org/portal/ijcnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/9785f21ac0b33689dc3ae711a94383eda01785e9",
+      "title": "Length, Interchangeability, and External Knowledge: Observations from Predicting Argument Convincingness",
+      "venue": "International Joint Conference on Natural Language Processing",
+      "year": 2017,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2039635",
+          "name": "P. Potash"
+        },
+        {
+          "authorId": "31651443",
+          "name": "Robin Bhattacharya"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "a06cbdbfbedeeff9ba85fefacbb37645fe23625f",
+      "publicationVenue": {
+        "id": "cf4fca7b-49c2-49a6-b310-a5ae0719a528",
+        "name": "Social Informatics",
+        "type": "conference",
+        "alternate_names": [
+          "SocInfo",
+          "Soc Informatics"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a06cbdbfbedeeff9ba85fefacbb37645fe23625f",
+      "title": "Combining Network and Language Indicators for Tracking Conflict Intensity",
+      "venue": "Social Informatics",
+      "year": 2017,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Sociology",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "3457367",
+          "name": "Mikhail Gronas"
+        },
+        {
+          "authorId": "2039635",
+          "name": "P. Potash"
+        },
+        {
+          "authorId": "2077116307",
+          "name": "Mikhail Dubov"
+        },
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        },
+        {
+          "authorId": "2066256691",
+          "name": "Saurabh Kulshreshtha"
+        },
+        {
+          "authorId": "144291382",
+          "name": "A. Gribov"
+        }
+      ]
+    },
+    {
+      "paperId": "cae888076b6b90e6fa3222770ec30432d65d4091",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cae888076b6b90e6fa3222770ec30432d65d4091",
+      "title": "Forced to Learn: Discovering Disentangled Representations Without Exhaustive Labels",
+      "venue": "International Conference on Learning Representations",
+      "year": 2017,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "0cf565a68460e6ff590a406eb907b229d6bc8fc6",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/0cf565a68460e6ff590a406eb907b229d6bc8fc6",
+      "title": "Here\u2019s My Point: Joint Pointer Architecture for Argument Mining",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2016,
+      "citationCount": 71,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2039635",
+          "name": "P. Potash"
+        },
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "46a48f597f9391a0ab9cdf7655447325fd1cab13",
+      "publicationVenue": {
+        "id": "18232e92-ef10-46fd-ad77-bb418dcd525d",
+        "name": "Translational Psychiatry",
+        "type": "journal",
+        "alternate_names": [
+          "Transl Psychiatry"
+        ],
+        "issn": "2158-3188",
+        "url": "https://www.nature.com/tp/",
+        "alternate_urls": [
+          "http://www.nature.com/tp/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/46a48f597f9391a0ab9cdf7655447325fd1cab13",
+      "title": "Predicting early psychiatric readmission with natural language processing of narrative discharge summaries",
+      "venue": "Translational Psychiatry",
+      "year": 2016,
+      "citationCount": 158,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "143811844",
+          "name": "M. Ghassemi"
+        },
+        {
+          "authorId": "21407590",
+          "name": "T. Naumann"
+        },
+        {
+          "authorId": "47288457",
+          "name": "P. Szolovits"
+        },
+        {
+          "authorId": "145241630",
+          "name": "V. Castro"
+        },
+        {
+          "authorId": "35125633",
+          "name": "T. McCoy"
+        },
+        {
+          "authorId": "2065985584",
+          "name": "R. H. Perlis"
+        }
+      ]
+    },
+    {
+      "paperId": "6880354cdd6175b07d75aaf2043a1e86646b43cb",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6880354cdd6175b07d75aaf2043a1e86646b43cb",
+      "title": "Recommender System Incorporating User Personality Profile through Analysis of Written Reviews",
+      "venue": "EMPIRE@RecSys",
+      "year": 2016,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2039635",
+          "name": "P. Potash"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "777547f6bfa5f223b259722ab6d2ec5d17a754c6",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/777547f6bfa5f223b259722ab6d2ec5d17a754c6",
+      "title": "SimiHawk at SemEval-2016 Task 1: A Deep Ensemble System for Semantic Textual Similarity",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2016,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2039635",
+          "name": "P. Potash"
+        },
+        {
+          "authorId": "3443433",
+          "name": "William Boag"
+        },
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        },
+        {
+          "authorId": "2018561",
+          "name": "Vasili Ramanishka"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "879b9b0c33247eb2de30661efa23827fd6c66489",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/879b9b0c33247eb2de30661efa23827fd6c66489",
+      "title": "Evaluating Creative Language Generation: The Case of Rap Lyric Ghostwriting",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Art"
+      ],
+      "authors": [
+        {
+          "authorId": "2039635",
+          "name": "P. Potash"
+        },
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "a57ed31221c82dd045b4cce8e8fddb9b91ededca",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/a57ed31221c82dd045b4cce8e8fddb9b91ededca",
+      "title": "#HashtagWars: Learning a Sense of Humor",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2039635",
+          "name": "P. Potash"
+        },
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "d0631ba22add59684fff926d80d2e6948dfb7d7e",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d0631ba22add59684fff926d80d2e6948dfb7d7e",
+      "title": "MUTT: Metric Unit TesTing for Language Generation Tasks",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3443433",
+          "name": "William Boag"
+        },
+        {
+          "authorId": "2056609284",
+          "name": "Renan Campos"
+        },
+        {
+          "authorId": "2903226",
+          "name": "Kate Saenko"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "d43e29c6864b8beff28050384a4a4160074d36be",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/d43e29c6864b8beff28050384a4a4160074d36be",
+      "title": "Here's My Point: Argumentation Mining with Pointer Networks",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2039635",
+          "name": "P. Potash"
+        },
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "e2ffc5ff1c9107e363f888a402d72b15f5e2ec6c",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e2ffc5ff1c9107e363f888a402d72b15f5e2ec6c",
+      "title": "Interpretable Topic Features for Post-ICU Mortality Prediction",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2016,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3457498",
+          "name": "Yen-Fu Luo"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "8ca1fd4e167f3e26ff5a76ceb637ac1db423a7d6",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/8ca1fd4e167f3e26ff5a76ceb637ac1db423a7d6",
+      "title": "TwitterHawk: A Feature Bucket Based Approach to Sentiment Analysis",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2015,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3443433",
+          "name": "William Boag"
+        },
+        {
+          "authorId": "2039635",
+          "name": "P. Potash"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "9803c21e29b5866235d5329f80045a6c6e9f9f7a",
+      "publicationVenue": {
+        "id": "f9827422-a381-440c-a8a4-e5e50415934e",
+        "name": "Journal of Biomedical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Informatics"
+        ],
+        "issn": "1532-0464",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622857/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-biomedical-informatics/",
+          "http://www.sciencedirect.com/science/journal/15320464",
+          "http://www.journals.elsevier.com/journal-of-biomedical-informatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9803c21e29b5866235d5329f80045a6c6e9f9f7a",
+      "title": "Ease of adoption of clinical natural language processing software: An evaluation of five systems",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2015,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2075341564",
+          "name": "Kai Zheng"
+        },
+        {
+          "authorId": "145126492",
+          "name": "V.G.Vinod Vydiswaran"
+        },
+        {
+          "authorId": "2152799261",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "3189266",
+          "name": "Yue Wang"
+        },
+        {
+          "authorId": "4301541",
+          "name": "Amber Stubbs"
+        },
+        {
+          "authorId": "1723337",
+          "name": "\u00d6zlem Uzuner"
+        },
+        {
+          "authorId": "34972257",
+          "name": "Anupama E. Gururaj"
+        },
+        {
+          "authorId": "144169446",
+          "name": "Samuel Bayer"
+        },
+        {
+          "authorId": "2757028",
+          "name": "J. Aberdeen"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "143847074",
+          "name": "Serguei V. S. Pakhomov"
+        },
+        {
+          "authorId": "50793079",
+          "name": "Hongfang Liu"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "a05a9bddac2b997610e3eb8aaa195ad852b88dfc",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/a05a9bddac2b997610e3eb8aaa195ad852b88dfc",
+      "title": "GhostWriter: Using an LSTM for Automatic Rap Lyric Generation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2015,
+      "citationCount": 127,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2039635",
+          "name": "P. Potash"
+        },
+        {
+          "authorId": "145020546",
+          "name": "Alexey Romanov"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "adc62b70fd11acda9f78899c5b50bccaeb573cd9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/adc62b70fd11acda9f78899c5b50bccaeb573cd9",
+      "title": "CliNER : A Lightweight Tool for Clinical Named Entity Recognition",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3443433",
+          "name": "William Boag"
+        },
+        {
+          "authorId": "120665062",
+          "name": "Kevin Wacome"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "dd40a52c8aeb9d0a630e4decc3e62e50f27ab812",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/dd40a52c8aeb9d0a630e4decc3e62e50f27ab812",
+      "title": "Normalization of Relative and Incomplete Temporal Expressions in Clinical Narratives",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2015,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46912604",
+          "name": "Weiyi Sun"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "1723337",
+          "name": "\u00d6zlem Uzuner"
+        }
+      ]
+    },
+    {
+      "paperId": "f2f1da163341c13d526b4af2b3288444cb03a625",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f2f1da163341c13d526b4af2b3288444cb03a625",
+      "title": "Catching the Red Priest: Using Historical Editions of Encyclopaedia Britannica to Track the Evolution of Reputations",
+      "venue": "LaTeCH@ACL",
+      "year": 2015,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "History"
+      ],
+      "authors": [
+        {
+          "authorId": "3457498",
+          "name": "Yen-Fu Luo"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "3457367",
+          "name": "Mikhail Gronas"
+        }
+      ]
+    },
+    {
+      "paperId": "05034c84aaebeb45c33d126797fba414d6566bce",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/05034c84aaebeb45c33d126797fba414d6566bce",
+      "title": "Annotation of Compositional Operations with GLML",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "3470106",
+          "name": "O. Batiukova"
+        },
+        {
+          "authorId": "1723806",
+          "name": "Jessica L. Moszkowicz"
+        }
+      ]
+    },
+    {
+      "paperId": "485d1c873a553497c130f226af40cd30c4b7651f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/485d1c873a553497c130f226af40cd30c4b7651f",
+      "title": "Research and applications: Word sense disambiguation in the clinical domain: a comparison of knowledge-rich and knowledge-poor unsupervised methods",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2014,
+      "citationCount": 39,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1937701",
+          "name": "Rachel Chasin"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "1723337",
+          "name": "\u00d6zlem Uzuner"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        }
+      ]
+    },
+    {
+      "paperId": "d55cdbb4c7422e4ad43812844070ed8e396b73c9",
+      "publicationVenue": {
+        "id": "a0edb93b-1e95-4128-a295-6b1659149cef",
+        "name": "Knowledge Discovery and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "KDD",
+          "Knowl Discov Data Min"
+        ],
+        "url": "http://www.acm.org/sigkdd/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d55cdbb4c7422e4ad43812844070ed8e396b73c9",
+      "title": "Unfolding physiological state: mortality modelling in intensive care units",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2014,
+      "citationCount": 221,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2279872952",
+          "name": "Marzyeh Ghassemi"
+        },
+        {
+          "authorId": "2256655984",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1388372395",
+          "name": "F. Doshi-Velez"
+        },
+        {
+          "authorId": "2628705",
+          "name": "Nicole Brimmer"
+        },
+        {
+          "authorId": "145367669",
+          "name": "Rohit Joshi"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "2256209561",
+          "name": "Peter Szolovits"
+        }
+      ]
+    },
+    {
+      "paperId": "1ae69ad36a5261d2b34ae0d533f0a4aa15f115ba",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1ae69ad36a5261d2b34ae0d533f0a4aa15f115ba",
+      "title": "Bypassing Knowledge Acquisition Bottleneck with Bayesian Word Sense Induction",
+      "venue": "",
+      "year": 2013,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "1937701",
+          "name": "Rachel Chasin"
+        },
+        {
+          "authorId": "2039635",
+          "name": "P. Potash"
+        }
+      ]
+    },
+    {
+      "paperId": "1c771046fe4444b645159b9b3de779bc338c559f",
+      "publicationVenue": {
+        "id": "f9827422-a381-440c-a8a4-e5e50415934e",
+        "name": "Journal of Biomedical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Informatics"
+        ],
+        "issn": "1532-0464",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622857/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-biomedical-informatics/",
+          "http://www.sciencedirect.com/science/journal/15320464",
+          "http://www.journals.elsevier.com/journal-of-biomedical-informatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/1c771046fe4444b645159b9b3de779bc338c559f",
+      "title": "Annotating temporal information in clinical narratives",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2013,
+      "citationCount": 86,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46912604",
+          "name": "Weiyi Sun"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "1723337",
+          "name": "\u00d6zlem Uzuner"
+        }
+      ]
+    },
+    {
+      "paperId": "50ce5375ee3fcea131075bcf83e91c4a6c8f2c4c",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/50ce5375ee3fcea131075bcf83e91c4a6c8f2c4c",
+      "title": "Mapping the History of Knowledge: Text-Based Tools and Algorithms for Tracking the Development of Concepts",
+      "venue": "",
+      "year": 2013,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3457367",
+          "name": "Mikhail Gronas"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "a5a26b0ea2b642178a4dc30cb606962fa6c2b828",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a5a26b0ea2b642178a4dc30cb606962fa6c2b828",
+      "title": "Mixing in Some Knowledge: Enriched Context Patterns for Bayesian Word Sense Induction",
+      "venue": "",
+      "year": 2013,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1937701",
+          "name": "Rachel Chasin"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "dcb515d7275da03bc1e03fe2c8e258c891f18243",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/dcb515d7275da03bc1e03fe2c8e258c891f18243",
+      "title": "Evaluating temporal relations in clinical text: 2012 i2b2 Challenge",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2013,
+      "citationCount": 480,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "46912604",
+          "name": "Weiyi Sun"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "1723337",
+          "name": "\u00d6zlem Uzuner"
+        }
+      ]
+    },
+    {
+      "paperId": "fbb5051e257dab2b30ad7e4791a01ad8478271a8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/fbb5051e257dab2b30ad7e4791a01ad8478271a8",
+      "title": "Temporal reasoning over clinical text: the state of the art",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2013,
+      "citationCount": 64,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "46912604",
+          "name": "Weiyi Sun"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "1723337",
+          "name": "\u00d6zlem Uzuner"
+        }
+      ]
+    },
+    {
+      "paperId": "1a8a32e1946cc8f5f45c7b5f121cdf0a2ac08eff",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1a8a32e1946cc8f5f45c7b5f121cdf0a2ac08eff",
+      "title": "Topic Models for Mortality Modeling in Intensive Care Units",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 15,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "145367669",
+          "name": "Rohit Joshi"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "3ee51b608f3b193d25cc29b641701d5190c373f4",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3ee51b608f3b193d25cc29b641701d5190c373f4",
+      "title": "Using UMLS for Word Sense Disambiguation in Clinical Notes",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2012,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "1937701",
+          "name": "Rachel Chasin"
+        },
+        {
+          "authorId": "1723337",
+          "name": "\u00d6zlem Uzuner"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        }
+      ]
+    },
+    {
+      "paperId": "6078637095814b3a7f1ba74167a13e7cf66a5d3b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6078637095814b3a7f1ba74167a13e7cf66a5d3b",
+      "title": "Tracking the History of Knowledge Using Historical Editions of Encyclopedia",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2080225970",
+          "name": "Britannica M. Gronas"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "2078673917",
+          "name": "A. Gabrovski"
+        },
+        {
+          "authorId": "1470748060",
+          "name": "S. Kovaka"
+        },
+        {
+          "authorId": "2156090271",
+          "name": "H. Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "95a784ecf3f5c63d5c6c905217e09f67169fc68a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/95a784ecf3f5c63d5c6c905217e09f67169fc68a",
+      "title": "Adaptation of Language Resources and Tools for Processing Cultural Heritage Objects",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1710801",
+          "name": "P. Osenova"
+        },
+        {
+          "authorId": "2954279",
+          "name": "Stelios Piperidis"
+        },
+        {
+          "authorId": "1765818",
+          "name": "Milena Slavcheva"
+        },
+        {
+          "authorId": "3457367",
+          "name": "Mikhail Gronas"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "2078673917",
+          "name": "A. Gabrovski"
+        },
+        {
+          "authorId": "1470748060",
+          "name": "S. Kovaka"
+        },
+        {
+          "authorId": "2202525341",
+          "name": "Hongyu Chen"
+        },
+        {
+          "authorId": "145029489",
+          "name": "Boris Lehe\u010dka"
+        },
+        {
+          "authorId": "145754614",
+          "name": "Anna Feldman"
+        },
+        {
+          "authorId": "5432321",
+          "name": "Alena M. \u010cern\u00e1"
+        }
+      ]
+    },
+    {
+      "paperId": "03a61b231b97bcc806a69ff8b42d768780242ed4",
+      "publicationVenue": {
+        "id": "46722266-4327-4a22-871d-5a9fe3c5ad0c",
+        "name": "International Journal on Document Analysis and Recognition",
+        "type": "journal",
+        "alternate_names": [
+          "Int J Doc Anal Recognit"
+        ],
+        "issn": "1433-2825",
+        "url": "https://link.springer.com/journal/10032"
+      },
+      "url": "https://www.semanticscholar.org/paper/03a61b231b97bcc806a69ff8b42d768780242ed4",
+      "title": "Domain-specific entity extraction from noisy, unstructured data using ontology-guided search",
+      "venue": "International Journal on Document Analysis and Recognition",
+      "year": 2011,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1685512",
+          "name": "S. Bratus"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "47035246",
+          "name": "Alexy Khrabrov"
+        },
+        {
+          "authorId": "31544591",
+          "name": "R. Magar"
+        },
+        {
+          "authorId": "2077479768",
+          "name": "Paul Thompson"
+        }
+      ]
+    },
+    {
+      "paperId": "6987491397101dfa46f98fcdfbe139094062753a",
+      "publicationVenue": {
+        "id": "e551db07-5020-436c-a968-a52882c905f6",
+        "name": "Law",
+        "type": "conference",
+        "alternate_names": [
+          "Linguistic Annot Workshop",
+          "LAW",
+          "Linguistic Annotation Workshop"
+        ],
+        "issn": "2308-3107",
+        "url": "https://www.aclweb.org/anthology/venues/law/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6987491397101dfa46f98fcdfbe139094062753a",
+      "title": "Crowdsourcing Word Sense Definition",
+      "venue": "Law",
+      "year": 2011,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "36f94906b3d5813e210ff14bf004a88bd5cef519",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/36f94906b3d5813e210ff14bf004a88bd5cef519",
+      "title": "Mechanisms of Sense Extension in Verbs",
+      "venue": "A Way with Words",
+      "year": 2010,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Psychology",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "c10b366ef845a6b027e4dc39b4650dd18e206467",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c10b366ef845a6b027e4dc39b4650dd18e206467",
+      "title": "SemEval-2010 Task 7: Argument Selection and Coercion",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2010,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "1406742037",
+          "name": "Alex Plotnick"
+        },
+        {
+          "authorId": "3148530",
+          "name": "Elisabetta Jezek"
+        },
+        {
+          "authorId": "3470106",
+          "name": "O. Batiukova"
+        },
+        {
+          "authorId": "3335255",
+          "name": "Valeria Quochi"
+        }
+      ]
+    },
+    {
+      "paperId": "40d26a87e365cd2e95f5cb260c85e35cb00ae082",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/40d26a87e365cd2e95f5cb260c85e35cb00ae082",
+      "title": "Using semantics of the arguments for predicate sense induction",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 3,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "32719755",
+          "name": "V. Grinberg"
+        }
+      ]
+    },
+    {
+      "paperId": "4daa4b252d372b8cdac7a742822bcb956e6c4965",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4daa4b252d372b8cdac7a742822bcb956e6c4965",
+      "title": "Classification of Discourse Coherence Relations: An Exploratory Study using Multiple Knowledge Sources",
+      "venue": "SIGDIAL Workshop",
+      "year": 2009,
+      "citationCount": 81,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2107124",
+          "name": "Ben Wellner"
+        },
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "2232845",
+          "name": "Catherine Havasi"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "144327698",
+          "name": "R. Saur\u00ed"
+        }
+      ]
+    },
+    {
+      "paperId": "98b63db7b9c9add5d5e404f0922a6a1ae1a82e09",
+      "publicationVenue": {
+        "id": "be46d9bc-380b-4b57-8140-bbd0da45ce9c",
+        "name": "International Conference on Computational Semantics",
+        "type": "conference",
+        "alternate_names": [
+          "IWCS",
+          "Int Conf Comput Semant"
+        ],
+        "url": "http://www.sigsem.org/wiki/index.php?title=IWCS"
+      },
+      "url": "https://www.semanticscholar.org/paper/98b63db7b9c9add5d5e404f0922a6a1ae1a82e09",
+      "title": "GLML: Annotating Argument Selection and Coercion",
+      "venue": "International Conference on Computational Semantics",
+      "year": 2009,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "1723806",
+          "name": "Jessica L. Moszkowicz"
+        },
+        {
+          "authorId": "3470106",
+          "name": "O. Batiukova"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "ac0b0d72bf1e736aec32d956a77d10164d7725f1",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ac0b0d72bf1e736aec32d956a77d10164d7725f1",
+      "title": "SemEval-2010 Task 7: Argument Selection and Coercion",
+      "venue": "SEW@NAACL-HLT",
+      "year": 2009,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "1406742037",
+          "name": "Alex Plotnick"
+        },
+        {
+          "authorId": "3148530",
+          "name": "Elisabetta Jezek"
+        },
+        {
+          "authorId": "3470106",
+          "name": "O. Batiukova"
+        },
+        {
+          "authorId": "3335255",
+          "name": "Valeria Quochi"
+        }
+      ]
+    },
+    {
+      "paperId": "b991c4b0ebfef4ab29079960531bc32d39c50796",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b991c4b0ebfef4ab29079960531bc32d39c50796",
+      "title": "The Holy Grail of Sense Definition : Creating a Sense-Disambiguated Corpus from Scratch",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 10,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "c5097e221cdb33e56a3fc7f5d4deee745be2d414",
+      "publicationVenue": {
+        "id": "3b528130-09f6-45a0-8560-3e97da7e6e55",
+        "name": "Workshop on Analytics for Noisy Unstructured Text Data",
+        "type": "conference",
+        "alternate_names": [
+          "AND",
+          "Workshop Anal Noisy Unstructured Text Data",
+          "Anal Noisy Unstructured Text Data",
+          "Analytics for Noisy Unstructured Text Data"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=172"
+      },
+      "url": "https://www.semanticscholar.org/paper/c5097e221cdb33e56a3fc7f5d4deee745be2d414",
+      "title": "Using domain knowledge for ontology-guided entity extraction from noisy, unstructured text data",
+      "venue": "Workshop on Analytics for Noisy Unstructured Text Data",
+      "year": 2009,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1685512",
+          "name": "S. Bratus"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "31544591",
+          "name": "R. Magar"
+        },
+        {
+          "authorId": "2077479768",
+          "name": "Paul Thompson"
+        }
+      ]
+    },
+    {
+      "paperId": "cd09d431da5b7f055fe41c35edb1b2bf761165c9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/cd09d431da5b7f055fe41c35edb1b2bf761165c9",
+      "title": "Verbal polysemy resolution through contextualized clustering of arguments",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "21a4a21d84c950beb7b6d607af2f2972bf561c2a",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/21a4a21d84c950beb7b6d607af2f2972bf561c2a",
+      "title": "Polysemy in Verbs: Systematic Relations between Senses and their Effect on Annotation",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2008,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "3470106",
+          "name": "O. Batiukova"
+        }
+      ]
+    },
+    {
+      "paperId": "7ee9d0a7ba7b297898c528b660ba12b67b871f0f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/7ee9d0a7ba7b297898c528b660ba12b67b871f0f",
+      "title": "Resolving polysemy in verbs: Contextualized distributional approach to argument semantics",
+      "venue": "",
+      "year": 2008,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "c9a207f399d78a03de9cec52ecfdbcec9287b27d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c9a207f399d78a03de9cec52ecfdbcec9287b27d",
+      "title": "Between Chaos and Structure: Interpreting Lexical Data Through a Theoretical Lens",
+      "venue": "",
+      "year": 2008,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "5ad939999e039c2e9bf941daa51257cb62d89940",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/5ad939999e039c2e9bf941daa51257cb62d89940",
+      "title": "An Evaluation of the Brandeis Semantic Ontology",
+      "venue": "",
+      "year": 2007,
+      "citationCount": 3,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2232845",
+          "name": "Catherine Havasi"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        }
+      ]
+    },
+    {
+      "paperId": "5643f192e2443087dc6a9da510226bf1c64a2989",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5643f192e2443087dc6a9da510226bf1c64a2989",
+      "title": "Towards a Generative Lexical Resource: The Brandeis Semantic Ontology",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2006,
+      "citationCount": 68,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "2232845",
+          "name": "Catherine Havasi"
+        },
+        {
+          "authorId": "22634608",
+          "name": "Jessica Littman"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "145539145",
+          "name": "M. Verhagen"
+        }
+      ]
+    },
+    {
+      "paperId": "6e93f3da7b79c4e18671f2fd45380d3fd8335739",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6e93f3da7b79c4e18671f2fd45380d3fd8335739",
+      "title": "Inducing Sense-Discriminating Context Patterns from Sense-Tagged Corpora",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2006,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        }
+      ]
+    },
+    {
+      "paperId": "9b165ed8c5bc54b6eebf9e9931a15e5349601173",
+      "publicationVenue": {
+        "id": "546d164a-fc31-4aee-99a5-879e03ff7d36",
+        "name": "The Florida AI Research Society",
+        "type": "conference",
+        "alternate_names": [
+          "Fla AI Res Soc",
+          "FLAIRS"
+        ],
+        "url": "http://www.flairs.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9b165ed8c5bc54b6eebf9e9931a15e5349601173",
+      "title": "Constructing a Corpus-based Ontology Using Model Bias",
+      "venue": "The Florida AI Research Society",
+      "year": 2006,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "145165877",
+          "name": "Patrick Hanks"
+        },
+        {
+          "authorId": "2232845",
+          "name": "Catherine Havasi"
+        },
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        }
+      ]
+    },
+    {
+      "paperId": "c8825d5121e5426c6c642783b423b7f6e3c7a7a9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c8825d5121e5426c6c642783b423b7f6e3c7a7a9",
+      "title": "1 Rerendering Top Ontologies",
+      "venue": "",
+      "year": 2006,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "145326430",
+          "name": "J. Casta\u00f1o"
+        }
+      ]
+    },
+    {
+      "paperId": "8205367851216b3b600cb72bc8ef6584969f7ef2",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8205367851216b3b600cb72bc8ef6584969f7ef2",
+      "title": "Automating Temporal Annotation with TARSQI",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2005,
+      "citationCount": 200,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145539145",
+          "name": "M. Verhagen"
+        },
+        {
+          "authorId": "1729172",
+          "name": "I. Mani"
+        },
+        {
+          "authorId": "144327698",
+          "name": "R. Saur\u00ed"
+        },
+        {
+          "authorId": "22634608",
+          "name": "Jessica Littman"
+        },
+        {
+          "authorId": "1907988",
+          "name": "Robert Knippen"
+        },
+        {
+          "authorId": "2609960",
+          "name": "S. B. Jang"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "2113989235",
+          "name": "John Phillips"
+        },
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        }
+      ]
+    },
+    {
+      "paperId": "2030d63092c9c205806c6170b0dd95edce12b7aa",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2030d63092c9c205806c6170b0dd95edce12b7aa",
+      "title": "Automated Induction of Sense in Context",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2004,
+      "citationCount": 64,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "145165877",
+          "name": "Patrick Hanks"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "4f27c3ab27858ecc7218b1e8c2e3f8954e99726f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4f27c3ab27858ecc7218b1e8c2e3f8954e99726f",
+      "title": "Automated Induction of Sense in Context",
+      "venue": "",
+      "year": 2004,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "2286259227",
+          "name": "Patrick Hanks"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "8daed71dd76781d9b2b07bb626849a6508418d03",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8daed71dd76781d9b2b07bb626849a6508418d03",
+      "title": "5 th International Workshop on Linguistically Interpreted Corpora The 20 th International Conference on Computational Linguistics \u2014 Proceedings \u2014",
+      "venue": "",
+      "year": 2004,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1403803201",
+          "name": "S. Hansen-Schirra"
+        },
+        {
+          "authorId": "2949607",
+          "name": "S. Oepen"
+        },
+        {
+          "authorId": "1781790",
+          "name": "H. Uszkoreit"
+        },
+        {
+          "authorId": "2289714",
+          "name": "Sanae Fujita"
+        },
+        {
+          "authorId": "1760686",
+          "name": "Chikara Hashimoto"
+        },
+        {
+          "authorId": "2700181",
+          "name": "K. Kasahara"
+        },
+        {
+          "authorId": "2276048",
+          "name": "Shigeko Nariyama"
+        },
+        {
+          "authorId": "143662759",
+          "name": "Eric Nichols"
+        },
+        {
+          "authorId": "2076897645",
+          "name": "Akira Ohtani"
+        },
+        {
+          "authorId": "49125917",
+          "name": "Takaaki Tanaka"
+        },
+        {
+          "authorId": "2498568",
+          "name": "S. Amano"
+        },
+        {
+          "authorId": "2170750",
+          "name": "Carole Tiberius"
+        },
+        {
+          "authorId": "66418137",
+          "name": "G. Corbett"
+        },
+        {
+          "authorId": "1681248",
+          "name": "T. Gyim\u00f3thy"
+        },
+        {
+          "authorId": "2255256",
+          "name": "Jir\u00ed Semeck\u00fd"
+        },
+        {
+          "authorId": "145165877",
+          "name": "Patrick Hanks"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "2113612972",
+          "name": "Karin Mueller"
+        }
+      ]
+    },
+    {
+      "paperId": "51e376c22309641a8e4d926333a63cc4a0dda40d",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/51e376c22309641a8e4d926333a63cc4a0dda40d",
+      "title": "Rerendering Semantic Ontologies: Automatic Extensions to UMLS through Corpus Analytics",
+      "venue": "arXiv.org",
+      "year": 2002,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "145326430",
+          "name": "J. Casta\u00f1o"
+        }
+      ]
+    },
+    {
+      "paperId": "a6572efb27e876b5a468ba533292733f6d576b64",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a6572efb27e876b5a468ba533292733f6d576b64",
+      "title": "Medstract : Creating Large-scale Information Servers for biomedical libraries",
+      "venue": "",
+      "year": 2002,
+      "citationCount": 48,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "145326430",
+          "name": "J. Casta\u00f1o"
+        },
+        {
+          "authorId": "144327698",
+          "name": "R. Saur\u00ed"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "153389891",
+          "name": "J. Zhang"
+        },
+        {
+          "authorId": "2087752036",
+          "name": "W. Luo"
+        }
+      ]
+    },
+    {
+      "paperId": "131d3cc8e6fdac38eff807b6cafd027b2c0c5892",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/131d3cc8e6fdac38eff807b6cafd027b2c0c5892",
+      "title": "Extraction and Disambiguation of Acronym Meaning-Pairs in Medline",
+      "venue": "",
+      "year": 2001,
+      "citationCount": 45,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "145326430",
+          "name": "J. Casta\u00f1o"
+        },
+        {
+          "authorId": "2062824589",
+          "name": "Brent Cochran"
+        },
+        {
+          "authorId": "1801847",
+          "name": "M. Kotecki"
+        },
+        {
+          "authorId": "145062103",
+          "name": "Michael Morrell"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "6a57687a5400cb36d95750d1942e991f8691ad7c",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6a57687a5400cb36d95750d1942e991f8691ad7c",
+      "title": "Discourse Structure of Text-Graphics Documents",
+      "venue": "",
+      "year": 2001,
+      "citationCount": 14,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3022071",
+          "name": "R. Futrelle"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "c92f10d283d56e7e05c416710a02b7e2660da969",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c92f10d283d56e7e05c416710a02b7e2660da969",
+      "title": "WHY YOUR WORD PROCESSING SOFTWARE DOESN'T FIND SPELLING AND GRAMMAR ERRORS VERY WELL\u2026AND NEVER WILL!",
+      "venue": "",
+      "year": 2001,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "07ebc4d208210b63f9d0a6aaa60dc68d8d3db9c8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/07ebc4d208210b63f9d0a6aaa60dc68d8d3db9c8",
+      "title": "WIP: Using Machine Learning to Automate Coding of Student Explanations to Challenging Mechanics Concept Questions",
+      "venue": "2022 ASEE Annual Conference &amp; Exposition Proceedings",
+      "year": null,
+      "citationCount": 3,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "47429116",
+          "name": "M. Koretsky"
+        },
+        {
+          "authorId": "2283161240",
+          "name": "Harpreet Auby"
+        },
+        {
+          "authorId": "2165226353",
+          "name": "Namrata Shivagunde"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6971 @@
+{
+  "authorId": "40466858",
+  "name": "Tristan Naumann",
+  "affiliations": [
+    "Microsoft Research Health Futures",
+    "Computer Science and Artificial Intelligence Lab, Massachusetts Institute of Technology, Cambridge, MA, USA"
+  ],
+  "paperCount": 55,
+  "citationCount": 6173,
+  "hIndex": 25,
+  "papers": [
+    {
+      "paperId": "0413a92b91e2dbcbfaa042d0519f3d919bfe57e7",
+      "publicationVenue": {
+        "id": "6171bcff-8306-41c7-af12-fa1d87117cf1",
+        "name": "Machine Learning in Health Care",
+        "type": "conference",
+        "alternate_names": [
+          "MLHC",
+          "Mach Learn Health Care"
+        ],
+        "url": "http://mucmd.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/0413a92b91e2dbcbfaa042d0519f3d919bfe57e7",
+      "title": "Scaling Clinical Trial Matching Using Large Language Models: A Case Study in Oncology",
+      "venue": "Machine Learning in Health Care",
+      "year": 2023,
+      "citationCount": 33,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "7016395",
+          "name": "C. Moung"
+        },
+        {
+          "authorId": "2228760409",
+          "name": "Jacob Abel"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "6150927",
+          "name": "R. Weerasinghe"
+        },
+        {
+          "authorId": "35695043",
+          "name": "B. Piening"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "46392172",
+          "name": "C. Bifulco"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "2da5b68b89d1d53373d122ac8e6fb2d23668c22f",
+      "publicationVenue": {
+        "id": "17bac89e-3dba-467a-b9d4-71e3baefb08b",
+        "name": "Patterns",
+        "type": "journal",
+        "issn": "2666-3899",
+        "url": "https://www.cell.com/patterns",
+        "alternate_urls": [
+          "https://www.sciencedirect.com/journal/patterns"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2da5b68b89d1d53373d122ac8e6fb2d23668c22f",
+      "title": "Toward structuring real-world data: Deep learning for extracting oncology information from clinical text with patient-level supervision",
+      "venue": "Patterns",
+      "year": 2023,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2159543147",
+          "name": "Sam Preston"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "35794791",
+          "name": "Rajesh N. Rao"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "152277155",
+          "name": "Michael R. Lucas"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "6150927",
+          "name": "R. Weerasinghe"
+        },
+        {
+          "authorId": "2190425632",
+          "name": "Soohee Lee"
+        },
+        {
+          "authorId": "35695043",
+          "name": "B. Piening"
+        },
+        {
+          "authorId": "82914668",
+          "name": "Paul D. Tittel"
+        },
+        {
+          "authorId": "48269128",
+          "name": "Naveen Valluri"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "46392172",
+          "name": "C. Bifulco"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "34e1a8a75bf6f35084ac6d714a136f39d02c649e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/34e1a8a75bf6f35084ac6d714a136f39d02c649e",
+      "title": "Self-Verification Improves Few-Shot Clinical Information Extraction",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 50,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1395101702",
+          "name": "Zelalem Gero"
+        },
+        {
+          "authorId": "145229121",
+          "name": "Chandan Singh"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1947267",
+          "name": "Michel Galley"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "44caf26949b4799e21f7b0754fe61315e8b71542",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/44caf26949b4799e21f7b0754fe61315e8b71542",
+      "title": "Compositional Zero-Shot Domain Transfer with Text-to-Text Models",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144097210",
+          "name": "Fangyu Liu"
+        },
+        {
+          "authorId": "50383712",
+          "name": "Qianchu Liu"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "1398728014",
+          "name": "Fernando P\u00e9rez-Garc\u00eda"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "34918424",
+          "name": "Stephanie L. Hyland"
+        }
+      ]
+    },
+    {
+      "paperId": "5814bd146b37e13115af4330caf3a751159a156f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/5814bd146b37e13115af4330caf3a751159a156f",
+      "title": "BiomedCLIP: a multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs",
+      "venue": "",
+      "year": 2023,
+      "citationCount": 179,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2143558044",
+          "name": "Yanbo Xu"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "6157638",
+          "name": "J. Bagga"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "2159543147",
+          "name": "Sam Preston"
+        },
+        {
+          "authorId": "35794791",
+          "name": "Rajesh N. Rao"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "48269128",
+          "name": "Naveen Valluri"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "4204731",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "5a104380f0b671e956e3f202ff592917b92eabf5",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5a104380f0b671e956e3f202ff592917b92eabf5",
+      "title": "What are the Desired Characteristics of Calibration Sets? Identifying Correlates on Long Form Scientific Summarization",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49496422",
+          "name": "Griffin Adams"
+        },
+        {
+          "authorId": "38697713",
+          "name": "Bichlien H. Nguyen"
+        },
+        {
+          "authorId": "2119127072",
+          "name": "Jake Smith"
+        },
+        {
+          "authorId": "2111056280",
+          "name": "Yingce Xia"
+        },
+        {
+          "authorId": "1889683",
+          "name": "Shufang Xie"
+        },
+        {
+          "authorId": "2259881446",
+          "name": "Anna Ostropolets"
+        },
+        {
+          "authorId": "48717082",
+          "name": "Budhaditya Deb"
+        },
+        {
+          "authorId": "2144037981",
+          "name": "Yuan Chen"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2763493",
+          "name": "No\u00e9mie Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "690b43567b5b60d5edc708458dd142603d438b23",
+      "publicationVenue": {
+        "id": "a631cd93-9863-44c8-8dff-9eb3fbf4f83e",
+        "name": "Clinical Natural Language Processing Workshop",
+        "type": "conference",
+        "alternate_names": [
+          "ClinicalNLP",
+          "Clin Nat Lang Process Workshop"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/690b43567b5b60d5edc708458dd142603d438b23",
+      "title": "Prompt Discriminative Language Models for Domain Adaptation",
+      "venue": "Clinical Natural Language Processing Workshop",
+      "year": 2023,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1515662094",
+          "name": "K. Lu"
+        },
+        {
+          "authorId": "2039635",
+          "name": "P. Potash"
+        },
+        {
+          "authorId": "29457904",
+          "name": "Xihui Lin"
+        },
+        {
+          "authorId": "2332297247",
+          "name": "Yuwen Sun"
+        },
+        {
+          "authorId": "2210751970",
+          "name": "Zihan Qian"
+        },
+        {
+          "authorId": "2112340945",
+          "name": "Zheng Yuan"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        },
+        {
+          "authorId": "2218113443",
+          "name": "Junwei Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "6c12769939dd75bd681d37ea17cce7e6a57f5c6e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6c12769939dd75bd681d37ea17cce7e6a57f5c6e",
+      "title": "Distilling Large Language Models for Biomedical Knowledge Extraction: A Case Study on Adverse Drug Events",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "3310870",
+          "name": "Yonas G. Woldesenbet"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "2223542076",
+          "name": "Praneeth Sanapathi"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": "48269128",
+          "name": "Naveen Valluri"
+        },
+        {
+          "authorId": "35009788",
+          "name": "Erika Strandberg"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "a893a42e32651a0d6d1fee327c285765216809ae",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a893a42e32651a0d6d1fee327c285765216809ae",
+      "title": "Diagnosing Transformers: Illuminating Feature Spaces for Clinical Decision-Making",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "121374896",
+          "name": "Aliyah R. Hsu"
+        },
+        {
+          "authorId": "3422842",
+          "name": "Yeshwanth Cherapanamjeri"
+        },
+        {
+          "authorId": "7811734",
+          "name": "Briton Park"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "4351517",
+          "name": "A. Odisho"
+        },
+        {
+          "authorId": "2116415778",
+          "name": "Bin Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "ed6669cb421ab7a753a2f22974cec1e92ae3e10c",
+      "publicationVenue": {
+        "id": "a0edb93b-1e95-4128-a295-6b1659149cef",
+        "name": "Knowledge Discovery and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "KDD",
+          "Knowl Discov Data Min"
+        ],
+        "url": "http://www.acm.org/sigkdd/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ed6669cb421ab7a753a2f22974cec1e92ae3e10c",
+      "title": "Precision Health in the Age of Large Language Models",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2023,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2227530999",
+          "name": "Javier Gonz\u00e1lez Hern\u00e1ndez"
+        }
+      ]
+    },
+    {
+      "paperId": "f22d71c7ce9720ba1f717a4f1181488200e78198",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f22d71c7ce9720ba1f717a4f1181488200e78198",
+      "title": "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 612,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109737569",
+          "name": "Chunyuan Li"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "2143856368",
+          "name": "Haotian Liu"
+        },
+        {
+          "authorId": "120157163",
+          "name": "Jianwei Yang"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "634e8a148fbe96cd611c09bdddc85de4bdd8a52d",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/634e8a148fbe96cd611c09bdddc85de4bdd8a52d",
+      "title": "Continual Contrastive Finetuning Improves Low-Resource Relation Extraction",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2203076",
+          "name": "Wenxuan Zhou"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1998918",
+          "name": "Muhao Chen"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "70e2fe147c3fea47d25f40b9cbf4b7e8e3228810",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/70e2fe147c3fea47d25f40b9cbf4b7e8e3228810",
+      "title": "Towards Structuring Real-World Data at Scale: Deep Learning for Extracting Key Oncology Information from Clinical Text with Patient-Level Supervision",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2159543147",
+          "name": "Sam Preston"
+        },
+        {
+          "authorId": "2072847758",
+          "name": "Mu-Hsin Wei"
+        },
+        {
+          "authorId": null,
+          "name": "Rajesh Rao"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "152277155",
+          "name": "Michael R. Lucas"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "6150927",
+          "name": "R. Weerasinghe"
+        },
+        {
+          "authorId": "2108253855",
+          "name": "S. Lee"
+        },
+        {
+          "authorId": "35695043",
+          "name": "B. Piening"
+        },
+        {
+          "authorId": "82914668",
+          "name": "Paul D. Tittel"
+        },
+        {
+          "authorId": "48269128",
+          "name": "Naveen Valluri"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "46392172",
+          "name": "C. Bifulco"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "a1aeb5442e31276b197696f49b3243112a4049ce",
+      "publicationVenue": {
+        "id": "167fa0ca-e88a-4ef7-a16f-bc66c457c806",
+        "name": "European Conference on Computer Vision",
+        "type": "conference",
+        "alternate_names": [
+          "ECCV",
+          "Eur Conf Comput Vis"
+        ],
+        "url": "https://link.springer.com/conference/eccv"
+      },
+      "url": "https://www.semanticscholar.org/paper/a1aeb5442e31276b197696f49b3243112a4049ce",
+      "title": "Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing",
+      "venue": "European Conference on Computer Vision",
+      "year": 2022,
+      "citationCount": 218,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2854169",
+          "name": "Benedikt Boecking"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2071649",
+          "name": "A. Schwaighofer"
+        },
+        {
+          "authorId": "34918424",
+          "name": "Stephanie L. Hyland"
+        },
+        {
+          "authorId": "2223845249",
+          "name": "M. Wetscherek"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "01c803711795e240c611950711210384c9887640",
+      "publicationVenue": {
+        "id": "a0edb93b-1e95-4128-a295-6b1659149cef",
+        "name": "Knowledge Discovery and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "KDD",
+          "Knowl Discov Data Min"
+        ],
+        "url": "http://www.acm.org/sigkdd/"
+      },
+      "url": "https://www.semanticscholar.org/paper/01c803711795e240c611950711210384c9887640",
+      "title": "Domain-Specific Pretraining for Vertical Search: Case Study on Biomedical Literature",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2021,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2153607780",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "2887412",
+          "name": "Jinchao Li"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "144628574",
+          "name": "Chenyan Xiong"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "46187984",
+          "name": "Richard Rogahn"
+        },
+        {
+          "authorId": "3303634",
+          "name": "Zhihong Shen"
+        },
+        {
+          "authorId": "2116247137",
+          "name": "Yang Qin"
+        },
+        {
+          "authorId": "145479841",
+          "name": "E. Horvitz"
+        },
+        {
+          "authorId": "144609235",
+          "name": "Paul N. Bennett"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "329b8ba1d128be952f97303953da6878ea61a6ec",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/329b8ba1d128be952f97303953da6878ea61a6ec",
+      "title": "Modular Self-Supervision for Document-Level Relation Extraction",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "49837811",
+          "name": "Sarthak Jain"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "3ede448b85b71790eda31de51ce663e5980eab78",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3ede448b85b71790eda31de51ce663e5980eab78",
+      "title": "Knowledge-Rich Self-Supervised Entity Linking",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "41209309",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "3404827",
+          "name": "Shikhar Vashishth"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "46851930",
+          "name": "Jinfeng Xiao"
+        },
+        {
+          "authorId": "2108860856",
+          "name": "Xiaodong Liu"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "4361c498f45cc6d1ef4e98b75b23af6c598da54d",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/4361c498f45cc6d1ef4e98b75b23af6c598da54d",
+      "title": "Knowledge-Rich Self-Supervision for Biomedical Entity Linking",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 39,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "3404827",
+          "name": "Shikhar Vashishth"
+        },
+        {
+          "authorId": "2109566188",
+          "name": "Cliff Wong"
+        },
+        {
+          "authorId": "46851930",
+          "name": "Jinfeng Xiao"
+        },
+        {
+          "authorId": "46522098",
+          "name": "Xiaodong Liu"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "9eec5595fe73e0858d862061506650052ee5e507",
+      "publicationVenue": {
+        "id": "1e3b2c00-e4cd-4b5a-b5f1-23b9e4d77569",
+        "name": "International Conference on Multimedia Analysis and Pattern Recognition",
+        "type": "conference",
+        "alternate_names": [
+          "MAPR",
+          "International Conference Multimedia Analysis and Pattern Recognition",
+          "Int Conf Multimedia Anal Pattern Recognit"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9eec5595fe73e0858d862061506650052ee5e507",
+      "title": "General Co-Chairs",
+      "venue": "International Conference on Multimedia Analysis and Pattern Recognition",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2044403419",
+          "name": "Chelsea Piers"
+        },
+        {
+          "authorId": "1933403",
+          "name": "Claudia Perlich"
+        },
+        {
+          "authorId": "2749262",
+          "name": "Sofus A. Macskassy"
+        },
+        {
+          "authorId": "152445663",
+          "name": "A. Caro"
+        },
+        {
+          "authorId": "48405319",
+          "name": "Andrew G. Reece"
+        },
+        {
+          "authorId": "3245681",
+          "name": "Austin R. Benson"
+        },
+        {
+          "authorId": "3047778",
+          "name": "Behzad Golshan"
+        },
+        {
+          "authorId": "2079889606",
+          "name": "Benjamin Bachman"
+        },
+        {
+          "authorId": "2152563603",
+          "name": "Bin Wu"
+        },
+        {
+          "authorId": "2271808",
+          "name": "Bryan Perozzi"
+        },
+        {
+          "authorId": "1393011928",
+          "name": "Carl Shan"
+        },
+        {
+          "authorId": "3032149",
+          "name": "Chuanren Liu"
+        },
+        {
+          "authorId": "2158259242",
+          "name": "David W. Miller"
+        },
+        {
+          "authorId": "2053697284",
+          "name": "D. Cheng"
+        },
+        {
+          "authorId": "3019232",
+          "name": "Diana Palsetia"
+        },
+        {
+          "authorId": "2068091201",
+          "name": "Fang Jin"
+        },
+        {
+          "authorId": "2115363211",
+          "name": "Furong Li"
+        },
+        {
+          "authorId": "2055480656",
+          "name": "Genaro Hernandez"
+        },
+        {
+          "authorId": "1968806",
+          "name": "Hengshu Zhu"
+        },
+        {
+          "authorId": "1892673",
+          "name": "Himabindu Lakkaraju"
+        },
+        {
+          "authorId": "2115410351",
+          "name": "Huanhuan Sun"
+        },
+        {
+          "authorId": "2044402601",
+          "name": "Isaac McCreery"
+        },
+        {
+          "authorId": "33863963",
+          "name": "Jacqueline A. Fairley"
+        },
+        {
+          "authorId": "2112614607",
+          "name": "Joyce C. Ho"
+        },
+        {
+          "authorId": "145192336",
+          "name": "J. Adebayo"
+        },
+        {
+          "authorId": "2135445350",
+          "name": "Lan Vu"
+        },
+        {
+          "authorId": "2293585",
+          "name": "Layla Pournajaf"
+        },
+        {
+          "authorId": "2119323236",
+          "name": "Ling Chen"
+        },
+        {
+          "authorId": "49030793",
+          "name": "Marija Stankova"
+        },
+        {
+          "authorId": "143936545",
+          "name": "Maryam Hasan"
+        },
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        },
+        {
+          "authorId": "145435011",
+          "name": "M. Conway"
+        },
+        {
+          "authorId": "2075540615",
+          "name": "Pablo Rivas"
+        },
+        {
+          "authorId": "2933643",
+          "name": "P. Lofgren"
+        },
+        {
+          "authorId": "2075253991",
+          "name": "Peter Landwehr"
+        },
+        {
+          "authorId": "93631392",
+          "name": "R. Yuan"
+        },
+        {
+          "authorId": "3131765",
+          "name": "R. Khandpur"
+        },
+        {
+          "authorId": "39544679",
+          "name": "Sabina Tomkins"
+        },
+        {
+          "authorId": "2113986310",
+          "name": "Shuai Yuan"
+        },
+        {
+          "authorId": "1840491",
+          "name": "T. Babaie"
+        },
+        {
+          "authorId": "2099056107",
+          "name": "T. Chakraborty"
+        },
+        {
+          "authorId": "40637212",
+          "name": "Tevin Brown"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "39768072",
+          "name": "Vrushank Vora"
+        },
+        {
+          "authorId": "48628317",
+          "name": "Wei Lu"
+        },
+        {
+          "authorId": "2202044211",
+          "name": "Xiao He"
+        },
+        {
+          "authorId": "34593690",
+          "name": "Xinran He"
+        },
+        {
+          "authorId": "3215702",
+          "name": "Yanchi Liu"
+        },
+        {
+          "authorId": "2107995397",
+          "name": "Ying Wei"
+        },
+        {
+          "authorId": "2054988664",
+          "name": "Yuan Quan"
+        },
+        {
+          "authorId": "2116471210",
+          "name": "Yuan Yao"
+        },
+        {
+          "authorId": "2269390373",
+          "name": "Zhe Chen"
+        },
+        {
+          "authorId": "2149124098",
+          "name": "Bing Liu"
+        },
+        {
+          "authorId": "2749262",
+          "name": "Sofus A. Macskassy"
+        }
+      ]
+    },
+    {
+      "paperId": "a9c5e23c5559bfc4d95dd166c1ed29fa026bbf2e",
+      "publicationVenue": {
+        "id": "17bac89e-3dba-467a-b9d4-71e3baefb08b",
+        "name": "Patterns",
+        "type": "journal",
+        "issn": "2666-3899",
+        "url": "https://www.cell.com/patterns",
+        "alternate_urls": [
+          "https://www.sciencedirect.com/journal/patterns"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a9c5e23c5559bfc4d95dd166c1ed29fa026bbf2e",
+      "title": "Fine-tuning large neural language models for biomedical natural language processing",
+      "venue": "Patterns",
+      "year": 2021,
+      "citationCount": 106,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "2108860856",
+          "name": "Xiaodong Liu"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "48441311",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "a2f38d03fd363e920494ad65a5f0ad8bd18cd60b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a2f38d03fd363e920494ad65a5f0ad8bd18cd60b",
+      "title": "Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing",
+      "venue": "ACM Trans. Comput. Heal.",
+      "year": 2020,
+      "citationCount": 1646,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112677245",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "47413820",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "152277155",
+          "name": "Michael R. Lucas"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "46522098",
+          "name": "Xiaodong Liu"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "ac545b3289855d545ae310ed50daf3e0d18c42d2",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ac545b3289855d545ae310ed50daf3e0d18c42d2",
+      "title": "Machine Learning for Health (ML4H) 2020: Advancing Healthcare for All",
+      "venue": "ML4H@NeurIPS",
+      "year": 2020,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152970139",
+          "name": "Suproteem K. Sarkar"
+        },
+        {
+          "authorId": "2916523",
+          "name": "Subhrajit Roy"
+        },
+        {
+          "authorId": "51303673",
+          "name": "Emily Alsentzer"
+        },
+        {
+          "authorId": "41153596",
+          "name": "Matthew B. A. McDermott"
+        },
+        {
+          "authorId": "79665376",
+          "name": "Fabian Falck"
+        },
+        {
+          "authorId": "1751623812",
+          "name": "I. Bica"
+        },
+        {
+          "authorId": "7790917",
+          "name": "S. Pfohl"
+        },
+        {
+          "authorId": "2291798879",
+          "name": "Brett K. Beaulieu-Jones"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "34918424",
+          "name": "Stephanie L. Hyland"
+        }
+      ]
+    },
+    {
+      "paperId": "dad74c0ce573cb2bfe99d88cd3edc6afc8fdbc6b",
+      "publicationVenue": {
+        "id": "6171bcff-8306-41c7-af12-fa1d87117cf1",
+        "name": "Machine Learning in Health Care",
+        "type": "conference",
+        "alternate_names": [
+          "MLHC",
+          "Mach Learn Health Care"
+        ],
+        "url": "http://mucmd.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/dad74c0ce573cb2bfe99d88cd3edc6afc8fdbc6b",
+      "title": "Clinical Collabsheets: 53 Questions to Guide a Clinical Collaboration",
+      "venue": "Machine Learning in Health Care",
+      "year": 2020,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "2143247176",
+          "name": "Shems Saleh"
+        },
+        {
+          "authorId": "3443433",
+          "name": "William Boag"
+        },
+        {
+          "authorId": "13613380",
+          "name": "L. Erdman"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        }
+      ]
+    },
+    {
+      "paperId": "2927bca0d547eca38e49c19de792a5494c186738",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2927bca0d547eca38e49c19de792a5494c186738",
+      "title": "Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation",
+      "venue": "ML4H@NeurIPS",
+      "year": 2019,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "46229877",
+          "name": "Aparna Balagopalan"
+        },
+        {
+          "authorId": "2848048",
+          "name": "Jekaterina Novikova"
+        },
+        {
+          "authorId": "41153596",
+          "name": "Matthew B. A. McDermott"
+        },
+        {
+          "authorId": "36681982",
+          "name": "Bret A. Nestor"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        }
+      ]
+    },
+    {
+      "paperId": "2a567ebd78939d0861d788f0fedff8d40ae62bf2",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2a567ebd78939d0861d788f0fedff8d40ae62bf2",
+      "title": "Publicly Available Clinical BERT Embeddings",
+      "venue": "Proceedings of the 2nd Clinical Natural Language Processing Workshop",
+      "year": 2019,
+      "citationCount": 1872,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50229020",
+          "name": "Emily Alsentzer"
+        },
+        {
+          "authorId": "2149336949",
+          "name": "John R. Murphy"
+        },
+        {
+          "authorId": "31809608",
+          "name": "Willie Boag"
+        },
+        {
+          "authorId": "2088565",
+          "name": "W. Weng"
+        },
+        {
+          "authorId": "2068347799",
+          "name": "Di Jin"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "41153596",
+          "name": "Matthew B. A. McDermott"
+        }
+      ]
+    },
+    {
+      "paperId": "61a38fa96da7607f417dc6611a504ed496a206e0",
+      "publicationVenue": {
+        "id": "7721aa7e-caef-4ef9-904f-d5194d57e0de",
+        "name": "The Lancet Digital Health",
+        "type": "journal",
+        "alternate_names": [
+          "Lancet Digit Health"
+        ],
+        "issn": "2589-7500",
+        "url": "https://www.journals.elsevier.com/the-lancet-digital-health",
+        "alternate_urls": [
+          "https://www.thelancet.com/journals/landig/home"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/61a38fa96da7607f417dc6611a504ed496a206e0",
+      "title": "Practical guidance on artificial intelligence for health-care data.",
+      "venue": "The Lancet Digital Health",
+      "year": 2019,
+      "citationCount": 72,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "145610328",
+          "name": "Peter F. Schulam"
+        },
+        {
+          "authorId": "143649421",
+          "name": "Andrew Beam"
+        },
+        {
+          "authorId": "34574044",
+          "name": "I. Chen"
+        },
+        {
+          "authorId": "2615814",
+          "name": "R. Ranganath"
+        }
+      ]
+    },
+    {
+      "paperId": "a43fac85bc7c6f8590b72ba9bd7a870a82cfaea6",
+      "publicationVenue": {
+        "id": "b9444cdd-c1d0-45a8-9db6-f8a53936292e",
+        "name": "JAMA Network Open",
+        "alternate_names": [
+          "JAMA Netw Open"
+        ],
+        "issn": "2574-3805"
+      },
+      "url": "https://www.semanticscholar.org/paper/a43fac85bc7c6f8590b72ba9bd7a870a82cfaea6",
+      "title": "Trends and Focus of Machine Learning Applications for Health Research",
+      "venue": "JAMA Network Open",
+      "year": 2019,
+      "citationCount": 49,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "2291798879",
+          "name": "Brett K. Beaulieu-Jones"
+        },
+        {
+          "authorId": "50478054",
+          "name": "S. G. Finlayson"
+        },
+        {
+          "authorId": "5070095",
+          "name": "C. Chivers"
+        },
+        {
+          "authorId": "34574044",
+          "name": "I. Chen"
+        },
+        {
+          "authorId": "41153596",
+          "name": "Matthew B. A. McDermott"
+        },
+        {
+          "authorId": "145536952",
+          "name": "J. Kandola"
+        },
+        {
+          "authorId": "3046516",
+          "name": "Adrian V. Dalca"
+        },
+        {
+          "authorId": "143649421",
+          "name": "Andrew Beam"
+        },
+        {
+          "authorId": "2592453",
+          "name": "M. Fiterau"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        }
+      ]
+    },
+    {
+      "paperId": "d7eaa703bd61cb8e0e360eea9535dd29b390184b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d7eaa703bd61cb8e0e360eea9535dd29b390184b",
+      "title": "Bayesian Trees for Automated Cytometry Data Analysis.",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "36681982",
+          "name": "Bret A. Nestor"
+        },
+        {
+          "authorId": "2066077254",
+          "name": "M. McDermott"
+        },
+        {
+          "authorId": "31809608",
+          "name": "Willie Boag"
+        },
+        {
+          "authorId": "144087280",
+          "name": "G. Berner"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2067786273",
+          "name": "Michael C. Hughes"
+        },
+        {
+          "authorId": "49800482",
+          "name": "A. Goldenberg"
+        },
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        }
+      ]
+    },
+    {
+      "paperId": "dcbf6137fe16b33c2e2d9258bd4a1e3cdabee48f",
+      "publicationVenue": {
+        "id": "6171bcff-8306-41c7-af12-fa1d87117cf1",
+        "name": "Machine Learning in Health Care",
+        "type": "conference",
+        "alternate_names": [
+          "MLHC",
+          "Mach Learn Health Care"
+        ],
+        "url": "http://mucmd.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/dcbf6137fe16b33c2e2d9258bd4a1e3cdabee48f",
+      "title": "Feature Robustness in Non-stationary Health Records: Caveats to Deployable Model Performance in Common Clinical Machine Learning Tasks",
+      "venue": "Machine Learning in Health Care",
+      "year": 2019,
+      "citationCount": 108,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "36681982",
+          "name": "Bret A. Nestor"
+        },
+        {
+          "authorId": "41153596",
+          "name": "Matthew B. A. McDermott"
+        },
+        {
+          "authorId": "31809608",
+          "name": "Willie Boag"
+        },
+        {
+          "authorId": "144087280",
+          "name": "G. Berner"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2067786273",
+          "name": "Michael C. Hughes"
+        },
+        {
+          "authorId": "49800482",
+          "name": "A. Goldenberg"
+        },
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        }
+      ]
+    },
+    {
+      "paperId": "ee1ddb3fe85bdc1650c4d32a00e5051d57e71ebb",
+      "publicationVenue": {
+        "id": "67d171e0-fd12-4512-a35d-c4d7af1bd5b3",
+        "name": "ACM Conference on Health, Inference, and Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CHIL",
+          "ACM Conf Health Inference Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ee1ddb3fe85bdc1650c4d32a00e5051d57e71ebb",
+      "title": "MIMIC-Extract: a data extraction, preprocessing, and representation pipeline for MIMIC-III",
+      "venue": "ACM Conference on Health, Inference, and Learning",
+      "year": 2019,
+      "citationCount": 201,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "118188980",
+          "name": "Shirly Wang"
+        },
+        {
+          "authorId": "41153596",
+          "name": "Matthew B. A. McDermott"
+        },
+        {
+          "authorId": "46245587",
+          "name": "Geeticka Chauhan"
+        },
+        {
+          "authorId": "2067786273",
+          "name": "Michael C. Hughes"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        }
+      ]
+    },
+    {
+      "paperId": "013d32deb7550d7370a3b7f9e5ff8e31a8093dca",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/013d32deb7550d7370a3b7f9e5ff8e31a8093dca",
+      "title": "Semi-Supervised Biomedical Translation With Cycle Wasserstein Regression GANs",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2018,
+      "citationCount": 32,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "41153596",
+          "name": "Matthew B. A. McDermott"
+        },
+        {
+          "authorId": "12082007",
+          "name": "Tom Yan"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "46318120",
+          "name": "Nathan Hunt"
+        },
+        {
+          "authorId": "46537606",
+          "name": "Harini Suresh"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        },
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        }
+      ]
+    },
+    {
+      "paperId": "04a9686b5ad4cb4c50848cf01c0fa6747a637308",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/04a9686b5ad4cb4c50848cf01c0fa6747a637308",
+      "title": "Leveraging text representations for clinical predictive tasks",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        }
+      ]
+    },
+    {
+      "paperId": "0b23a7fd70f1acb8bc37993156017ff49ff01c3e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/0b23a7fd70f1acb8bc37993156017ff49ff01c3e",
+      "title": "Machine Learning for Health (ML4H) Workshop at NeurIPS 2018",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "38428647",
+          "name": "Natalia Antropova"
+        },
+        {
+          "authorId": "143649421",
+          "name": "Andrew Beam"
+        },
+        {
+          "authorId": "8265262",
+          "name": "Brett K. Beaulieu-Jones"
+        },
+        {
+          "authorId": "34574044",
+          "name": "I. Chen"
+        },
+        {
+          "authorId": "5070095",
+          "name": "C. Chivers"
+        },
+        {
+          "authorId": "3046516",
+          "name": "Adrian V. Dalca"
+        },
+        {
+          "authorId": "50478054",
+          "name": "S. G. Finlayson"
+        },
+        {
+          "authorId": "2592453",
+          "name": "M. Fiterau"
+        },
+        {
+          "authorId": "31592365",
+          "name": "Jason Alan Fries"
+        },
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        },
+        {
+          "authorId": "2067786273",
+          "name": "Michael C. Hughes"
+        },
+        {
+          "authorId": "2521020",
+          "name": "B. Jedynak"
+        },
+        {
+          "authorId": "84384760",
+          "name": "J. Kandola"
+        },
+        {
+          "authorId": "41153596",
+          "name": "Matthew B. A. McDermott"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "145610328",
+          "name": "Peter F. Schulam"
+        },
+        {
+          "authorId": "14095531",
+          "name": "Farah E. Shamout"
+        },
+        {
+          "authorId": "2301238",
+          "name": "A. Yahi"
+        }
+      ]
+    },
+    {
+      "paperId": "1c88e5f03f0cabe3e035b9f962aabd3b9434cc4d",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/1c88e5f03f0cabe3e035b9f962aabd3b9434cc4d",
+      "title": "CliNER 2.0: Accessible and Accurate Clinical Concept Extraction",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "31809608",
+          "name": "Willie Boag"
+        },
+        {
+          "authorId": "2065624160",
+          "name": "Elena Sergeeva"
+        },
+        {
+          "authorId": "2066256691",
+          "name": "Saurabh Kulshreshtha"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        }
+      ]
+    },
+    {
+      "paperId": "393b41ea791f5a70ee87b361dec1970745d1908c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/393b41ea791f5a70ee87b361dec1970745d1908c",
+      "title": "Rethinking clinical prediction: Why machine learning must consider year of care and feature aggregation",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "36681982",
+          "name": "Bret A. Nestor"
+        },
+        {
+          "authorId": "41153596",
+          "name": "Matthew B. A. McDermott"
+        },
+        {
+          "authorId": "46245587",
+          "name": "Geeticka Chauhan"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2067786273",
+          "name": "Michael C. Hughes"
+        },
+        {
+          "authorId": "49800482",
+          "name": "A. Goldenberg"
+        },
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        }
+      ]
+    },
+    {
+      "paperId": "4f06130cde9e3cd141fd77acecb8f599370f5c5a",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/4f06130cde9e3cd141fd77acecb8f599370f5c5a",
+      "title": "Towards the Creation of a Large Corpus of Synthetically-Identified Clinical Notes",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "31809608",
+          "name": "Willie Boag"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        }
+      ]
+    },
+    {
+      "paperId": "5a3530e7f1d7e7829bf306098840668f916cea21",
+      "publicationVenue": {
+        "id": "dc4a9aad-72db-4530-a183-eaa4bf1d4490",
+        "name": "IEEE/ACM Transactions on Computational Biology & Bioinformatics",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE/ACM Trans Comput Biology  Bioinform",
+          "IEEE/ACM Trans Comput Biology Bioinform",
+          "IEEE/ACM Transactions on Computational Biology and Bioinformatics"
+        ],
+        "issn": "1545-5963",
+        "url": "https://ieeexplore.ieee.org/servlet/opac?punumber=8857",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tcbb/home"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5a3530e7f1d7e7829bf306098840668f916cea21",
+      "title": "Natural Language Processing for EHR-Based Computational Phenotyping",
+      "venue": "IEEE/ACM Transactions on Computational Biology & Bioinformatics",
+      "year": 2018,
+      "citationCount": 144,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2175365",
+          "name": "Zexian Zeng"
+        },
+        {
+          "authorId": "2111233024",
+          "name": "Yu Deng"
+        },
+        {
+          "authorId": "2108747163",
+          "name": "Xiaoyu Li"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "94936386",
+          "name": "Yuan Luo"
+        }
+      ]
+    },
+    {
+      "paperId": "8c8ff17072299adbc29285e75b64b5868acf4426",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/8c8ff17072299adbc29285e75b64b5868acf4426",
+      "title": "Visualizing Patient Timelines in the Intensive Care Unit",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1414278924",
+          "name": "Dina Levy-Lambert"
+        },
+        {
+          "authorId": "2710150",
+          "name": "Jen J. Gong"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "40541154",
+          "name": "T. Pollard"
+        },
+        {
+          "authorId": "1724429",
+          "name": "J. Guttag"
+        }
+      ]
+    },
+    {
+      "paperId": "9f4c8e1a6f93399eef8556218ac55840e1393105",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/9f4c8e1a6f93399eef8556218ac55840e1393105",
+      "title": "Opportunities in Machine Learning for Healthcare",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 102,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "145610328",
+          "name": "Peter F. Schulam"
+        },
+        {
+          "authorId": "143649421",
+          "name": "Andrew Beam"
+        },
+        {
+          "authorId": "2615814",
+          "name": "R. Ranganath"
+        }
+      ]
+    },
+    {
+      "paperId": "a946a8d0fe8f04b605d952cec30da7b408f8f2df",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/a946a8d0fe8f04b605d952cec30da7b408f8f2df",
+      "title": "Generalizability of predictive models for intensive care unit patients",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "28972636",
+          "name": "Alistair E. W. Johnson"
+        },
+        {
+          "authorId": "40541154",
+          "name": "T. Pollard"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        }
+      ]
+    },
+    {
+      "paperId": "d0e551deac87d357d86d611c79cd92f80fb2eeb0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d0e551deac87d357d86d611c79cd92f80fb2eeb0",
+      "title": "What\u2019s in a Note? Unpacking Predictive Value in Clinical Note Representations",
+      "venue": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+      "year": 2018,
+      "citationCount": 64,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "31809608",
+          "name": "Willie Boag"
+        },
+        {
+          "authorId": "47753374",
+          "name": "Dustin Doss"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        }
+      ]
+    },
+    {
+      "paperId": "fc4043e3f970c0ba33f91c0a4a84a029b9e0d399",
+      "publicationVenue": {
+        "id": "a0edb93b-1e95-4128-a295-6b1659149cef",
+        "name": "Knowledge Discovery and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "KDD",
+          "Knowl Discov Data Min"
+        ],
+        "url": "http://www.acm.org/sigkdd/"
+      },
+      "url": "https://www.semanticscholar.org/paper/fc4043e3f970c0ba33f91c0a4a84a029b9e0d399",
+      "title": "Predicting Clinical Outcomes Across Changing Electronic Health Record Systems",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2017,
+      "citationCount": 36,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2710150",
+          "name": "Jen J. Gong"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        },
+        {
+          "authorId": "1724429",
+          "name": "J. Guttag"
+        }
+      ]
+    },
+    {
+      "paperId": "c4c29e3665a5738c4d352abcd1a4b3170b963ac9",
+      "publicationVenue": {
+        "id": "2baad992-2268-4c38-9120-e453622f2eeb",
+        "name": "Journal of Medical Internet Research",
+        "type": "journal",
+        "alternate_names": [
+          "J Med Internet Res"
+        ],
+        "issn": "1438-8871",
+        "url": "http://www.symposion.com/jmir/index.htm",
+        "alternate_urls": [
+          "http://www.jmir.org/",
+          "https://www.jmir.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c4c29e3665a5738c4d352abcd1a4b3170b963ac9",
+      "title": "Datathons and Software to Promote Reproducible Research",
+      "venue": "Journal of Medical Internet Research",
+      "year": 2016,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "143605744",
+          "name": "L. Celi"
+        },
+        {
+          "authorId": "34837527",
+          "name": "S. Lokhandwala"
+        },
+        {
+          "authorId": "153337523",
+          "name": "Robert A Montgomery"
+        },
+        {
+          "authorId": "40160699",
+          "name": "Christopher Moses"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "40541154",
+          "name": "T. Pollard"
+        },
+        {
+          "authorId": "48752739",
+          "name": "D. Spitz"
+        },
+        {
+          "authorId": "46435711",
+          "name": "Robert J Stretch"
+        }
+      ]
+    },
+    {
+      "paperId": "da46b5a831aed7c779d72e3c92e0f426c525522f",
+      "publicationVenue": {
+        "id": "1cd4baea-5ccc-4522-9dbf-0566f39d3b37",
+        "name": "Science Translational Medicine",
+        "type": "journal",
+        "alternate_names": [
+          "Sci Transl Med"
+        ],
+        "issn": "1946-6234",
+        "url": "https://stm.sciencemag.org/",
+        "alternate_urls": [
+          "https://stm.sciencemag.org/site/misc/about.xhtml"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/da46b5a831aed7c779d72e3c92e0f426c525522f",
+      "title": "A \u201cdatathon\u201d model to support cross-disciplinary collaboration",
+      "venue": "Science Translational Medicine",
+      "year": 2016,
+      "citationCount": 73,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3661407",
+          "name": "J. Aboab"
+        },
+        {
+          "authorId": "143605744",
+          "name": "L. Celi"
+        },
+        {
+          "authorId": "37597362",
+          "name": "P. Charlton"
+        },
+        {
+          "authorId": "2773476",
+          "name": "M. Feng"
+        },
+        {
+          "authorId": "143811844",
+          "name": "M. Ghassemi"
+        },
+        {
+          "authorId": "145201176",
+          "name": "D. Marshall"
+        },
+        {
+          "authorId": "2337238",
+          "name": "L. Mayaud"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "3520101",
+          "name": "N. McCague"
+        },
+        {
+          "authorId": "39783816",
+          "name": "Kenneth E Paik"
+        },
+        {
+          "authorId": "40541154",
+          "name": "T. Pollard"
+        },
+        {
+          "authorId": "1395778652",
+          "name": "M. Resche-Rigon"
+        },
+        {
+          "authorId": "4008812",
+          "name": "J. Salciccioli"
+        },
+        {
+          "authorId": "3531389",
+          "name": "David J. Stone"
+        }
+      ]
+    },
+    {
+      "paperId": "857dcafcc30685e1218d62c460778272a0b0150f",
+      "publicationVenue": {
+        "id": "dc6419f3-98b3-4718-bba0-6b6d6c3d192b",
+        "name": "JMIR Medical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "JMIR med informatics",
+          "JMIR medical informatics",
+          "JMIR Med Informatics"
+        ],
+        "issn": "2291-9694",
+        "url": "https://medinform.jmir.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/857dcafcc30685e1218d62c460778272a0b0150f",
+      "title": "Metadata Correction: Making Big Data Useful for Health Care: A Summary of the Inaugural MIT Critical Data Conference",
+      "venue": "JMIR Medical Informatics",
+      "year": 2015,
+      "citationCount": 44,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "4337300",
+          "name": "Omar Badawi"
+        },
+        {
+          "authorId": "2058145238",
+          "name": "Thomas Brennan"
+        },
+        {
+          "authorId": "143605744",
+          "name": "L. Celi"
+        },
+        {
+          "authorId": "2773476",
+          "name": "M. Feng"
+        },
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        },
+        {
+          "authorId": "145269278",
+          "name": "A. Ippolito"
+        },
+        {
+          "authorId": "34949407",
+          "name": "Alistair E. W. Johnson"
+        },
+        {
+          "authorId": "1978710",
+          "name": "R. Mark"
+        },
+        {
+          "authorId": "2337238",
+          "name": "L. Mayaud"
+        },
+        {
+          "authorId": "2113468686",
+          "name": "George B. Moody"
+        },
+        {
+          "authorId": "40160699",
+          "name": "Christopher Moses"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "144669267",
+          "name": "M. Pimentel"
+        },
+        {
+          "authorId": "40541154",
+          "name": "T. Pollard"
+        },
+        {
+          "authorId": "2111343792",
+          "name": "Mauro Santos"
+        },
+        {
+          "authorId": "3531389",
+          "name": "David J. Stone"
+        },
+        {
+          "authorId": "5505347",
+          "name": "A. Zimolzak"
+        }
+      ]
+    },
+    {
+      "paperId": "adc62b70fd11acda9f78899c5b50bccaeb573cd9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/adc62b70fd11acda9f78899c5b50bccaeb573cd9",
+      "title": "CliNER : A Lightweight Tool for Clinical Named Entity Recognition",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3443433",
+          "name": "William Boag"
+        },
+        {
+          "authorId": "120665062",
+          "name": "Kevin Wacome"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "b8e68ab7af2b039dccec0fea8c7c4a32fffc10c3",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b8e68ab7af2b039dccec0fea8c7c4a32fffc10c3",
+      "title": "A Multivariate Timeseries Modeling Approach to Severity of Illness Assessment and Forecasting in ICU with Sparse, Heterogeneous Clinical Data",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2015,
+      "citationCount": 217,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        },
+        {
+          "authorId": "144669268",
+          "name": "Marco A. F. Pimentel"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2058145238",
+          "name": "Thomas Brennan"
+        },
+        {
+          "authorId": "31799453",
+          "name": "D. Clifton"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        },
+        {
+          "authorId": "2773476",
+          "name": "M. Feng"
+        }
+      ]
+    },
+    {
+      "paperId": "9208c6d76771b7c36d5b6a58fdc704d627f9e158",
+      "publicationVenue": {
+        "id": "a95b95d8-e19b-4ae4-9b8e-e2e26a773a64",
+        "name": "Computers in cardiology",
+        "type": "journal",
+        "alternate_names": [
+          "Comput Cardiol",
+          "Computing in cardiology",
+          "Computing in Cardiology",
+          "Comput cardiol"
+        ],
+        "issn": "0276-6574",
+        "alternate_issns": [
+          "2325-8861",
+          "2325-887X",
+          "2325-8853"
+        ],
+        "url": "http://www.cinc.org/",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/conferences.jsp",
+          "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000157"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9208c6d76771b7c36d5b6a58fdc704d627f9e158",
+      "title": "Scaling the PhysioNet WFDB Toolbox for MATLAB and Octave",
+      "venue": "Computers in cardiology",
+      "year": 2014,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "20676215",
+          "name": "Ikaro Silva"
+        }
+      ]
+    },
+    {
+      "paperId": "04e3634a31f4eedae8fa53cf7d61aef22f301e21",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/04e3634a31f4eedae8fa53cf7d61aef22f301e21",
+      "title": "Probabilistically Populated Medical Record Templates: Reducing Clinical Documentation Time Using Patient Cooperation",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2013,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        },
+        {
+          "authorId": "2012281",
+          "name": "A. Bodnari"
+        },
+        {
+          "authorId": "145367669",
+          "name": "Rohit Joshi"
+        }
+      ]
+    },
+    {
+      "paperId": "1a8a32e1946cc8f5f45c7b5f121cdf0a2ac08eff",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1a8a32e1946cc8f5f45c7b5f121cdf0a2ac08eff",
+      "title": "Topic Models for Mortality Modeling in Intensive Care Units",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 15,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "145367669",
+          "name": "Rohit Joshi"
+        },
+        {
+          "authorId": "1681193",
+          "name": "Anna Rumshisky"
+        }
+      ]
+    },
+    {
+      "paperId": "456610b868da1e05afbdd7687277eee3e2b7dd40",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/456610b868da1e05afbdd7687277eee3e2b7dd40",
+      "title": "Search for lepton flavour violation in ep collisions at HERA",
+      "venue": "",
+      "year": 2007,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "50729230",
+          "name": "A. Aktas"
+        },
+        {
+          "authorId": "2165609412",
+          "name": "C. Alexa"
+        },
+        {
+          "authorId": "152506711",
+          "name": "V. Andreev"
+        },
+        {
+          "authorId": "92294719",
+          "name": "T. Anthonis"
+        },
+        {
+          "authorId": "93744007",
+          "name": "B. Antunovi\u0107"
+        },
+        {
+          "authorId": "3276261",
+          "name": "S. Aplin"
+        },
+        {
+          "authorId": "101208304",
+          "name": "A. Asmone"
+        },
+        {
+          "authorId": "1773257",
+          "name": "A. Astvatsatourov"
+        },
+        {
+          "authorId": "152485544",
+          "name": "A. Babaev"
+        },
+        {
+          "authorId": "40590197",
+          "name": "S. Backovic"
+        },
+        {
+          "authorId": "145055192",
+          "name": "A. Baghdasaryan"
+        },
+        {
+          "authorId": "46388191",
+          "name": "P. Baranov"
+        },
+        {
+          "authorId": "31399661",
+          "name": "E. Barrelet"
+        },
+        {
+          "authorId": "148332878",
+          "name": "W. Bartel"
+        },
+        {
+          "authorId": "101632678",
+          "name": "S. Baudrand"
+        },
+        {
+          "authorId": "5878404",
+          "name": "M. Beckingham"
+        },
+        {
+          "authorId": "40987856",
+          "name": "K. Begzsuren"
+        },
+        {
+          "authorId": "102490900",
+          "name": "O. Behnke"
+        },
+        {
+          "authorId": "101339611",
+          "name": "O. Behrendt"
+        },
+        {
+          "authorId": "144263436",
+          "name": "A. Belousov"
+        },
+        {
+          "authorId": "2106225072",
+          "name": "N. Berger"
+        },
+        {
+          "authorId": "3651886",
+          "name": "J. Bizot"
+        },
+        {
+          "authorId": "31039319",
+          "name": "M.-O. Boenig"
+        },
+        {
+          "authorId": "102538389",
+          "name": "V. Boudry"
+        },
+        {
+          "authorId": "1381332089",
+          "name": "I. Bo\u017eovi\u0107-Jelisav\u010di\u0107"
+        },
+        {
+          "authorId": "93461457",
+          "name": "J. Bracinik"
+        },
+        {
+          "authorId": "2227595805",
+          "name": "G. Brandt"
+        },
+        {
+          "authorId": "82892061",
+          "name": "M. Brinkmann"
+        },
+        {
+          "authorId": "91963843",
+          "name": "V. Brisson"
+        },
+        {
+          "authorId": "2227827957",
+          "name": "D. Bruncko"
+        },
+        {
+          "authorId": "102790699",
+          "name": "F. B\u00fcsser"
+        },
+        {
+          "authorId": "8017967",
+          "name": "A. Bunyatyan"
+        },
+        {
+          "authorId": "152549889",
+          "name": "G. Buschhorn"
+        },
+        {
+          "authorId": "144078974",
+          "name": "L. Bystritskaya"
+        },
+        {
+          "authorId": "2264584589",
+          "name": "A. Campbell"
+        },
+        {
+          "authorId": "147195769",
+          "name": "K. B. Cantun Avila"
+        },
+        {
+          "authorId": "1380700142",
+          "name": "F. Cassol-Brunner"
+        },
+        {
+          "authorId": "94149209",
+          "name": "K. Cerny"
+        },
+        {
+          "authorId": "145198149",
+          "name": "V. Cern\u00fd"
+        },
+        {
+          "authorId": "4536432",
+          "name": "V. Chekelian"
+        },
+        {
+          "authorId": "102630699",
+          "name": "A. Cholewa"
+        },
+        {
+          "authorId": "48576668",
+          "name": "Jos\u00e9 Miguel Contreras"
+        },
+        {
+          "authorId": "2371367",
+          "name": "J. Coughlan"
+        },
+        {
+          "authorId": "152384111",
+          "name": "G. Cozzika"
+        },
+        {
+          "authorId": "152336456",
+          "name": "J. Cvach"
+        },
+        {
+          "authorId": "122559549",
+          "name": "J. Dainton"
+        },
+        {
+          "authorId": "2775187",
+          "name": "K. Daum"
+        },
+        {
+          "authorId": "2247759909",
+          "name": "Y. de Boer"
+        },
+        {
+          "authorId": "50884265",
+          "name": "B. Delcourt"
+        },
+        {
+          "authorId": "147448206",
+          "name": "M. Del Degan"
+        },
+        {
+          "authorId": "121553459",
+          "name": "A. De Roeck"
+        },
+        {
+          "authorId": "117230199",
+          "name": "E. De Wolf"
+        },
+        {
+          "authorId": "2245537992",
+          "name": "C. Diaconu"
+        },
+        {
+          "authorId": "152191569",
+          "name": "V. Dodonov"
+        },
+        {
+          "authorId": "72333311",
+          "name": "A. Dubak"
+        },
+        {
+          "authorId": "2235085109",
+          "name": "G. Eckerlin"
+        },
+        {
+          "authorId": "144877328",
+          "name": "V. Efremenko"
+        },
+        {
+          "authorId": "102816133",
+          "name": "S. Egli"
+        },
+        {
+          "authorId": "79006460",
+          "name": "R. Eichler"
+        },
+        {
+          "authorId": "90586449",
+          "name": "F. Eisele"
+        },
+        {
+          "authorId": "144946735",
+          "name": "A. Eliseev"
+        },
+        {
+          "authorId": "50349730",
+          "name": "E. Elsen"
+        },
+        {
+          "authorId": "152408985",
+          "name": "S. Essenov"
+        },
+        {
+          "authorId": "100606572",
+          "name": "A. Falkewicz"
+        },
+        {
+          "authorId": "1398358137",
+          "name": "P. Faulkner"
+        },
+        {
+          "authorId": "104511254",
+          "name": "L. Favart"
+        },
+        {
+          "authorId": "145867137",
+          "name": "A. Fedotov"
+        },
+        {
+          "authorId": "144600965",
+          "name": "R. Felst"
+        },
+        {
+          "authorId": "41130527",
+          "name": "J. Feltesse"
+        },
+        {
+          "authorId": "144434537",
+          "name": "J. Ferencei"
+        },
+        {
+          "authorId": "71402823",
+          "name": "L. Finke"
+        },
+        {
+          "authorId": "104999818",
+          "name": "M. Fleischer"
+        },
+        {
+          "authorId": "122952348",
+          "name": "A. Fomenko"
+        },
+        {
+          "authorId": "4397758",
+          "name": "G. Franke"
+        },
+        {
+          "authorId": "46666587",
+          "name": "T. Frisson"
+        },
+        {
+          "authorId": "10428702",
+          "name": "E. Gabathuler"
+        },
+        {
+          "authorId": "2226868048",
+          "name": "E. Garutti"
+        },
+        {
+          "authorId": "91934407",
+          "name": "J. Gayler"
+        },
+        {
+          "authorId": "102643592",
+          "name": "S. Ghazaryan"
+        },
+        {
+          "authorId": "101083501",
+          "name": "S. Ginzburgskaya"
+        },
+        {
+          "authorId": "2233342112",
+          "name": "A. Glazov"
+        },
+        {
+          "authorId": "153882046",
+          "name": "I. Glushkov"
+        },
+        {
+          "authorId": "3768006",
+          "name": "L. Goerlich"
+        },
+        {
+          "authorId": "4312538",
+          "name": "M. Goettlich"
+        },
+        {
+          "authorId": "145489429",
+          "name": "N. Gogitidze"
+        },
+        {
+          "authorId": "152202109",
+          "name": "S. Gorbounov"
+        },
+        {
+          "authorId": "2245917775",
+          "name": "M. Gouzevitch"
+        },
+        {
+          "authorId": "103086052",
+          "name": "C. Grab"
+        },
+        {
+          "authorId": "102369151",
+          "name": "T. Greenshaw"
+        },
+        {
+          "authorId": "103243514",
+          "name": "M. Gregori"
+        },
+        {
+          "authorId": "152213923",
+          "name": "B. R. Grell"
+        },
+        {
+          "authorId": "100686275",
+          "name": "G. Grindhammer"
+        },
+        {
+          "authorId": "2255343779",
+          "name": "S. Habib"
+        },
+        {
+          "authorId": "52630777",
+          "name": "D. Haidt"
+        },
+        {
+          "authorId": "48867235",
+          "name": "M. Hansson"
+        },
+        {
+          "authorId": "91730137",
+          "name": "G. Heinzelmann"
+        },
+        {
+          "authorId": "152114249",
+          "name": "C. Helebrant"
+        },
+        {
+          "authorId": "50858160",
+          "name": "R. Henderson"
+        },
+        {
+          "authorId": "7787826",
+          "name": "H. Henschel"
+        },
+        {
+          "authorId": "31435585",
+          "name": "G. Herrera"
+        },
+        {
+          "authorId": "2672915",
+          "name": "M. Hildebrandt"
+        },
+        {
+          "authorId": "152418679",
+          "name": "K. Hiller"
+        },
+        {
+          "authorId": "48888060",
+          "name": "D. Hoffmann"
+        },
+        {
+          "authorId": "115718278",
+          "name": "R. Horisberger"
+        },
+        {
+          "authorId": "40378634",
+          "name": "A. Hovhannisyan"
+        },
+        {
+          "authorId": "116541524",
+          "name": "T. Hreus"
+        },
+        {
+          "authorId": "49614610",
+          "name": "S. Hussain"
+        },
+        {
+          "authorId": "152391230",
+          "name": "M. Jacquet"
+        },
+        {
+          "authorId": "1398500337",
+          "name": "M. Janssen"
+        },
+        {
+          "authorId": "153493848",
+          "name": "X. Janssen"
+        },
+        {
+          "authorId": "100787260",
+          "name": "V. Jemanov"
+        },
+        {
+          "authorId": "2072485455",
+          "name": "L. J\u00f6nsson"
+        },
+        {
+          "authorId": "31514394",
+          "name": "D. Johnson"
+        },
+        {
+          "authorId": "1387920598",
+          "name": "A. Jung"
+        },
+        {
+          "authorId": "2290451682",
+          "name": "H. Jung"
+        },
+        {
+          "authorId": "101050173",
+          "name": "M. Kapichine"
+        },
+        {
+          "authorId": "102678379",
+          "name": "J. Katzy"
+        },
+        {
+          "authorId": "104499805",
+          "name": "I. Kenyon"
+        },
+        {
+          "authorId": "100762572",
+          "name": "C. Kiesling"
+        },
+        {
+          "authorId": "2261946439",
+          "name": "M. Klein"
+        },
+        {
+          "authorId": "2249473749",
+          "name": "C. Kleinwort"
+        },
+        {
+          "authorId": "113698383",
+          "name": "T. Klimkovich"
+        },
+        {
+          "authorId": "93022628",
+          "name": "T. Kluge"
+        },
+        {
+          "authorId": "120561386",
+          "name": "G. Knies"
+        },
+        {
+          "authorId": "145393173",
+          "name": "A. Knutsson"
+        },
+        {
+          "authorId": "70079942",
+          "name": "V. Korbel"
+        },
+        {
+          "authorId": "144088323",
+          "name": "P. Kostka"
+        },
+        {
+          "authorId": "2170785350",
+          "name": "M. Kraemer"
+        },
+        {
+          "authorId": "143776517",
+          "name": "K. Krastev"
+        },
+        {
+          "authorId": "34198757",
+          "name": "J. Kretzschmar"
+        },
+        {
+          "authorId": "101326817",
+          "name": "A. Kropivnitskaya"
+        },
+        {
+          "authorId": "2052102525",
+          "name": "K. Kr\u00fcger"
+        },
+        {
+          "authorId": "2227551310",
+          "name": "M. Landon"
+        },
+        {
+          "authorId": "145840422",
+          "name": "W. Lange"
+        },
+        {
+          "authorId": "1380700096",
+          "name": "G. La\u0161tovi\u010dka-Medin"
+        },
+        {
+          "authorId": "122138249",
+          "name": "P. Laycock"
+        },
+        {
+          "authorId": "2052825282",
+          "name": "A. Lebedev"
+        },
+        {
+          "authorId": "98821798",
+          "name": "G. Leibenguth"
+        },
+        {
+          "authorId": "47129562",
+          "name": "V. Lendermann"
+        },
+        {
+          "authorId": "70373776",
+          "name": "S. Levonian"
+        },
+        {
+          "authorId": "98687274",
+          "name": "L. Lindfeld"
+        },
+        {
+          "authorId": "2226868097",
+          "name": "K. Lipka"
+        },
+        {
+          "authorId": "101484380",
+          "name": "A. Liptaj"
+        },
+        {
+          "authorId": "2264515824",
+          "name": "B. List"
+        },
+        {
+          "authorId": "104424448",
+          "name": "J. List"
+        },
+        {
+          "authorId": "144183217",
+          "name": "N. Loktionova"
+        },
+        {
+          "authorId": "82320268",
+          "name": "R. Lopez-Fernandez"
+        },
+        {
+          "authorId": "116523576",
+          "name": "V. Lubimov"
+        },
+        {
+          "authorId": "1380700023",
+          "name": "A. Lucaci-Timoce"
+        },
+        {
+          "authorId": "152591960",
+          "name": "H. Lueders"
+        },
+        {
+          "authorId": "93993088",
+          "name": "L. Lytkin"
+        },
+        {
+          "authorId": "152331988",
+          "name": "A. Makankine"
+        },
+        {
+          "authorId": "14800676",
+          "name": "E. Malinovski"
+        },
+        {
+          "authorId": "5474808",
+          "name": "P. Marage"
+        },
+        {
+          "authorId": "153021792",
+          "name": "L. Marti"
+        },
+        {
+          "authorId": "13246080",
+          "name": "M. Marti\u0161\u00edkov\u00e1"
+        },
+        {
+          "authorId": "145798048",
+          "name": "H. Martyn"
+        },
+        {
+          "authorId": "103363899",
+          "name": "S. Maxfield"
+        },
+        {
+          "authorId": "2114814003",
+          "name": "A. Mehta"
+        },
+        {
+          "authorId": "47028849",
+          "name": "K. Meier"
+        },
+        {
+          "authorId": "2264615552",
+          "name": "A. Meyer"
+        },
+        {
+          "authorId": "2072456311",
+          "name": "H. Meyer"
+        },
+        {
+          "authorId": "2107429936",
+          "name": "J. Meyer"
+        },
+        {
+          "authorId": "49888342",
+          "name": "V. Michels"
+        },
+        {
+          "authorId": "93730587",
+          "name": "S. Mikocki"
+        },
+        {
+          "authorId": "1380699900",
+          "name": "I. Milcewicz-Mika"
+        },
+        {
+          "authorId": "145476962",
+          "name": "D. Mladenov"
+        },
+        {
+          "authorId": "4747998",
+          "name": "A. Mohamed"
+        },
+        {
+          "authorId": "51376525",
+          "name": "F. Moreau"
+        },
+        {
+          "authorId": "46336027",
+          "name": "A. Morozov"
+        },
+        {
+          "authorId": "2264566146",
+          "name": "J. Morris"
+        },
+        {
+          "authorId": "4963472",
+          "name": "M. Mozer"
+        },
+        {
+          "authorId": "2246166280",
+          "name": "K. M\u00fcller"
+        },
+        {
+          "authorId": "98816641",
+          "name": "P. Murin"
+        },
+        {
+          "authorId": "101150944",
+          "name": "K. Nankov"
+        },
+        {
+          "authorId": "152372506",
+          "name": "B. Naroska"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2205409287",
+          "name": "P. Newman"
+        },
+        {
+          "authorId": "47783744",
+          "name": "C. Niebuhr"
+        },
+        {
+          "authorId": "152133750",
+          "name": "A. Nikiforov"
+        },
+        {
+          "authorId": "32835876",
+          "name": "G. Nowak"
+        },
+        {
+          "authorId": "143793124",
+          "name": "K. Nowak"
+        },
+        {
+          "authorId": "30758295",
+          "name": "M. No\u017ei\u010dka"
+        },
+        {
+          "authorId": "152588926",
+          "name": "R. Oganezov"
+        },
+        {
+          "authorId": "89478624",
+          "name": "B. Olivier"
+        },
+        {
+          "authorId": "78713728",
+          "name": "J. Olsson"
+        },
+        {
+          "authorId": "50720238",
+          "name": "S. Osman"
+        },
+        {
+          "authorId": "48385530",
+          "name": "D. Ozerov"
+        },
+        {
+          "authorId": "2227935464",
+          "name": "V. Palichik"
+        },
+        {
+          "authorId": "101901347",
+          "name": "I. Panagoulias"
+        },
+        {
+          "authorId": "10326745",
+          "name": "M. Pandurovi\u0107"
+        },
+        {
+          "authorId": "104270915",
+          "name": "T. Papadopoulou"
+        },
+        {
+          "authorId": "152205287",
+          "name": "C. Pascaud"
+        },
+        {
+          "authorId": "46330862",
+          "name": "G. Patel"
+        },
+        {
+          "authorId": "2107176520",
+          "name": "H. Peng"
+        },
+        {
+          "authorId": "2071220679",
+          "name": "E. P\u00e9rez"
+        },
+        {
+          "authorId": "1380699989",
+          "name": "D. Perez-Astudillo"
+        },
+        {
+          "authorId": "50656384",
+          "name": "A. Perieanu"
+        },
+        {
+          "authorId": "144798394",
+          "name": "A. Petrukhin"
+        },
+        {
+          "authorId": "75022783",
+          "name": "I. Pi\u0107uri\u0107"
+        },
+        {
+          "authorId": "102699689",
+          "name": "S. Piec"
+        },
+        {
+          "authorId": "2249473486",
+          "name": "D. Pitzl"
+        },
+        {
+          "authorId": "145107953",
+          "name": "R. Pla\u010dakyt\u0117"
+        },
+        {
+          "authorId": "8209640",
+          "name": "B. Povh"
+        },
+        {
+          "authorId": "145256368",
+          "name": "T. Preda"
+        },
+        {
+          "authorId": "5625776",
+          "name": "P. Prideaux"
+        },
+        {
+          "authorId": "1381353653",
+          "name": "A. J. Rahmat"
+        },
+        {
+          "authorId": "2335857432",
+          "name": "N. Rai\u010devi\u0107"
+        },
+        {
+          "authorId": "101488353",
+          "name": "T. Ravdandorj"
+        },
+        {
+          "authorId": "1767282",
+          "name": "P. Reimer"
+        },
+        {
+          "authorId": "6192748",
+          "name": "A. Rimmer"
+        },
+        {
+          "authorId": "30950041",
+          "name": "C. Risler"
+        },
+        {
+          "authorId": "16301517",
+          "name": "E. Rizvi"
+        },
+        {
+          "authorId": "102453587",
+          "name": "P. Robmann"
+        },
+        {
+          "authorId": "81691298",
+          "name": "B. Roland"
+        },
+        {
+          "authorId": "70543782",
+          "name": "R. Roosen"
+        },
+        {
+          "authorId": "3140485",
+          "name": "A. Rostovtsev"
+        },
+        {
+          "authorId": "101362680",
+          "name": "Z. Rurikova"
+        },
+        {
+          "authorId": "145702730",
+          "name": "S. Rusakov"
+        },
+        {
+          "authorId": "2591891",
+          "name": "F. Salvaire"
+        },
+        {
+          "authorId": "1390577080",
+          "name": "D. Sankey"
+        },
+        {
+          "authorId": "144198571",
+          "name": "M. Sauter"
+        },
+        {
+          "authorId": "152418170",
+          "name": "E. Sauvan"
+        },
+        {
+          "authorId": "2262560591",
+          "name": "S. Schmidt"
+        },
+        {
+          "authorId": "2058926670",
+          "name": "S. Schmitt"
+        },
+        {
+          "authorId": "50635748",
+          "name": "C. Schmitz"
+        },
+        {
+          "authorId": "114650590",
+          "name": "L. Schoeffel"
+        },
+        {
+          "authorId": "114614047",
+          "name": "A. Sch\u00f6ning"
+        },
+        {
+          "authorId": "1395840486",
+          "name": "H. Schultz-Coulon"
+        },
+        {
+          "authorId": "103291019",
+          "name": "F. Sefkow"
+        },
+        {
+          "authorId": "1398357702",
+          "name": "R. Shaw-West"
+        },
+        {
+          "authorId": "2355744",
+          "name": "I. Sheviakov"
+        },
+        {
+          "authorId": "93809867",
+          "name": "L. Shtarkov"
+        },
+        {
+          "authorId": "115560426",
+          "name": "T. Sloan"
+        },
+        {
+          "authorId": "98626327",
+          "name": "I. Smiljani\u0107"
+        },
+        {
+          "authorId": "40516099",
+          "name": "P. Smirnov"
+        },
+        {
+          "authorId": "87672862",
+          "name": "Y. Soloviev"
+        },
+        {
+          "authorId": "143655795",
+          "name": "D. South"
+        },
+        {
+          "authorId": "96357323",
+          "name": "V. Spaskov"
+        },
+        {
+          "authorId": "48676791",
+          "name": "A. Specka"
+        },
+        {
+          "authorId": "2009097",
+          "name": "M. Steder"
+        },
+        {
+          "authorId": "152530714",
+          "name": "B. Stella"
+        },
+        {
+          "authorId": "91337483",
+          "name": "J. Stiewe"
+        },
+        {
+          "authorId": "49548007",
+          "name": "U. Straumann"
+        },
+        {
+          "authorId": "120292136",
+          "name": "D. Sunar"
+        },
+        {
+          "authorId": "145335257",
+          "name": "T. Sykora"
+        },
+        {
+          "authorId": "100855060",
+          "name": "V. Tchoulakov"
+        },
+        {
+          "authorId": "2337494695",
+          "name": "G. Thompson"
+        },
+        {
+          "authorId": "2077479390",
+          "name": "Paul Thompson"
+        },
+        {
+          "authorId": "98626832",
+          "name": "T. Toll"
+        },
+        {
+          "authorId": "12588210",
+          "name": "F. Tomasz"
+        },
+        {
+          "authorId": "47110330",
+          "name": "D. Traynor"
+        },
+        {
+          "authorId": "46714818",
+          "name": "T. Trinh"
+        },
+        {
+          "authorId": "2239370183",
+          "name": "P. Tru\u00f6l"
+        },
+        {
+          "authorId": "152286623",
+          "name": "I. Tsakov"
+        },
+        {
+          "authorId": "101541943",
+          "name": "B. Tseepeldorj"
+        },
+        {
+          "authorId": "101632797",
+          "name": "G. Tsipolitis"
+        },
+        {
+          "authorId": "48049122",
+          "name": "I. Tsurin"
+        },
+        {
+          "authorId": "152411346",
+          "name": "J. Turnau"
+        },
+        {
+          "authorId": "6854502",
+          "name": "E. Tzamariudaki"
+        },
+        {
+          "authorId": "120743832",
+          "name": "K. Urban"
+        },
+        {
+          "authorId": "103855717",
+          "name": "A. Usik"
+        },
+        {
+          "authorId": "116292884",
+          "name": "D. Utkin"
+        },
+        {
+          "authorId": "101864595",
+          "name": "A. Valk\u00e1rov\u00e1"
+        },
+        {
+          "authorId": "93550280",
+          "name": "C. Vall\u00e9e"
+        },
+        {
+          "authorId": "107838402",
+          "name": "P. Van Mechelen"
+        },
+        {
+          "authorId": "1402207440",
+          "name": "A. V. Vargas Trevino"
+        },
+        {
+          "authorId": "100860012",
+          "name": "Y. Vazdik"
+        },
+        {
+          "authorId": "40050391",
+          "name": "S. Vinokurova"
+        },
+        {
+          "authorId": "4581094",
+          "name": "V. Volchinski"
+        },
+        {
+          "authorId": "102043277",
+          "name": "K. Wacker"
+        },
+        {
+          "authorId": "46965172",
+          "name": "G. Weber"
+        },
+        {
+          "authorId": "152500326",
+          "name": "R. Weber"
+        },
+        {
+          "authorId": "48120311",
+          "name": "D. Wegener"
+        },
+        {
+          "authorId": "1713726",
+          "name": "C. Werner"
+        },
+        {
+          "authorId": "32155529",
+          "name": "M. Wessels"
+        },
+        {
+          "authorId": "2223256590",
+          "name": "C. Wissing"
+        },
+        {
+          "authorId": "119194445",
+          "name": "R. Wolf"
+        },
+        {
+          "authorId": "2240219116",
+          "name": "E. W\u00fcnsch"
+        },
+        {
+          "authorId": "104095144",
+          "name": "S. Xella"
+        },
+        {
+          "authorId": "1387715407",
+          "name": "W. Yan"
+        },
+        {
+          "authorId": "11650761",
+          "name": "V. Yeganov"
+        },
+        {
+          "authorId": "114913932",
+          "name": "J. \u1e90\u00e1\u010dek"
+        },
+        {
+          "authorId": "102401185",
+          "name": "J. Z\u00e1le\u0161\u00e1k"
+        },
+        {
+          "authorId": "2236723115",
+          "name": "Z. Zhang"
+        },
+        {
+          "authorId": "15521927",
+          "name": "A. Zhelezov"
+        },
+        {
+          "authorId": "3301391",
+          "name": "A. Zhokin"
+        },
+        {
+          "authorId": "11733649",
+          "name": "Y. Zhu"
+        },
+        {
+          "authorId": "152238815",
+          "name": "J. Zimmermann"
+        },
+        {
+          "authorId": "153717383",
+          "name": "T. Zimmermann"
+        },
+        {
+          "authorId": "12119506",
+          "name": "H. Zohrabyan"
+        },
+        {
+          "authorId": "152449617",
+          "name": "F. Zomer"
+        },
+        {
+          "authorId": "103064367",
+          "name": "T. H. Collaboration"
+        }
+      ]
+    },
+    {
+      "paperId": "4a9e8e8e80dc090141bdbf846c2a45b8eb93bff2",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4a9e8e8e80dc090141bdbf846c2a45b8eb93bff2",
+      "title": "Measurement of neutral and charged current cross sections in electron-proton collisions at high $Q^2$",
+      "venue": "",
+      "year": 2000,
+      "citationCount": 114,
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "2248353452",
+          "name": "Michael Jones"
+        },
+        {
+          "authorId": "121880429",
+          "name": "C. Adloff"
+        },
+        {
+          "authorId": "50564734",
+          "name": "V. Andreev"
+        },
+        {
+          "authorId": "2935181",
+          "name": "B. Andrieu"
+        },
+        {
+          "authorId": "92294719",
+          "name": "T. Anthonis"
+        },
+        {
+          "authorId": "94281777",
+          "name": "V. Arkadov"
+        },
+        {
+          "authorId": "1773257",
+          "name": "A. Astvatsatourov"
+        },
+        {
+          "authorId": "94078340",
+          "name": "I. Ayyaz"
+        },
+        {
+          "authorId": "152485544",
+          "name": "A. Babaev"
+        },
+        {
+          "authorId": "2981766",
+          "name": "J. B\u00e4hr"
+        },
+        {
+          "authorId": "46388191",
+          "name": "P. Baranov"
+        },
+        {
+          "authorId": "31399661",
+          "name": "E. Barrelet"
+        },
+        {
+          "authorId": "148332878",
+          "name": "W. Bartel"
+        },
+        {
+          "authorId": "2184729714",
+          "name": "U. Bassler"
+        },
+        {
+          "authorId": "144616375",
+          "name": "P. Bate"
+        },
+        {
+          "authorId": "3116976",
+          "name": "A. Beglarian"
+        },
+        {
+          "authorId": "102490900",
+          "name": "O. Behnke"
+        },
+        {
+          "authorId": "2073683095",
+          "name": "C. Beier"
+        },
+        {
+          "authorId": "144263436",
+          "name": "A. Belousov"
+        },
+        {
+          "authorId": "97591320",
+          "name": "T. Benisch"
+        },
+        {
+          "authorId": "2303655249",
+          "name": "C. Berger"
+        },
+        {
+          "authorId": "2227875341",
+          "name": "G. Bernardi"
+        },
+        {
+          "authorId": "113003375",
+          "name": "T. Berndt"
+        },
+        {
+          "authorId": "3651886",
+          "name": "J. Bizot"
+        },
+        {
+          "authorId": "102538389",
+          "name": "V. Boudry"
+        },
+        {
+          "authorId": "69333149",
+          "name": "W. Braunschweig"
+        },
+        {
+          "authorId": "91963843",
+          "name": "V. Brisson"
+        },
+        {
+          "authorId": "102467589",
+          "name": "H. Br\u00f6ker"
+        },
+        {
+          "authorId": "2115246374",
+          "name": "D. Brown"
+        },
+        {
+          "authorId": "102623417",
+          "name": "W. Bru\u0308ckner"
+        },
+        {
+          "authorId": "48334800",
+          "name": "P. Bruel"
+        },
+        {
+          "authorId": "2227827957",
+          "name": "D. Bruncko"
+        },
+        {
+          "authorId": "79974963",
+          "name": "J. Burger"
+        },
+        {
+          "authorId": "102790699",
+          "name": "F. B\u00fcsser"
+        },
+        {
+          "authorId": "8017967",
+          "name": "A. Bunyatyan"
+        },
+        {
+          "authorId": "2192901412",
+          "name": "H. Burkhardt"
+        },
+        {
+          "authorId": "92584864",
+          "name": "A. Burrage"
+        },
+        {
+          "authorId": "152549889",
+          "name": "G. Buschhorn"
+        },
+        {
+          "authorId": "2264584589",
+          "name": "A. Campbell"
+        },
+        {
+          "authorId": "2245375288",
+          "name": "J. Cao"
+        },
+        {
+          "authorId": "2227832555",
+          "name": "T. Carli"
+        },
+        {
+          "authorId": "2227596556",
+          "name": "S. Caron"
+        },
+        {
+          "authorId": "2235085176",
+          "name": "E. Chabert"
+        },
+        {
+          "authorId": "114750931",
+          "name": "D. Clarke"
+        },
+        {
+          "authorId": "6461728",
+          "name": "B. Clerbaux"
+        },
+        {
+          "authorId": "2228129905",
+          "name": "C. Collard"
+        },
+        {
+          "authorId": "48576668",
+          "name": "Jos\u00e9 Miguel Contreras"
+        },
+        {
+          "authorId": "2029175012",
+          "name": "Y. Coppens"
+        },
+        {
+          "authorId": "2371367",
+          "name": "J. Coughlan"
+        },
+        {
+          "authorId": "66130563",
+          "name": "M. Cousinou"
+        },
+        {
+          "authorId": "50064910",
+          "name": "B. Cox"
+        },
+        {
+          "authorId": "152384111",
+          "name": "G. Cozzika"
+        },
+        {
+          "authorId": "152336456",
+          "name": "J. Cvach"
+        },
+        {
+          "authorId": "122559549",
+          "name": "J. Dainton"
+        },
+        {
+          "authorId": "16944455",
+          "name": "W. Dau"
+        },
+        {
+          "authorId": "2775187",
+          "name": "K. Daum"
+        },
+        {
+          "authorId": "98356328",
+          "name": "M. Davidsson"
+        },
+        {
+          "authorId": "50884265",
+          "name": "B. Delcourt"
+        },
+        {
+          "authorId": "47311705",
+          "name": "N. Delerue"
+        },
+        {
+          "authorId": "12532513",
+          "name": "R. Demirchyan"
+        },
+        {
+          "authorId": "97774841",
+          "name": "A. Roeck"
+        },
+        {
+          "authorId": "2053077697",
+          "name": "E. Wolf"
+        },
+        {
+          "authorId": "2227825745",
+          "name": "C. Diaconu"
+        },
+        {
+          "authorId": "119777782",
+          "name": "P. Dixon"
+        },
+        {
+          "authorId": "152191569",
+          "name": "V. Dodonov"
+        },
+        {
+          "authorId": "145421918",
+          "name": "J. Dowell"
+        },
+        {
+          "authorId": "152107118",
+          "name": "A. Droutskoi"
+        },
+        {
+          "authorId": "72333311",
+          "name": "A. Dubak"
+        },
+        {
+          "authorId": "2809146",
+          "name": "C. Duprel"
+        },
+        {
+          "authorId": "2235085109",
+          "name": "G. Eckerlin"
+        },
+        {
+          "authorId": "2226869885",
+          "name": "D. Eckstein"
+        },
+        {
+          "authorId": "144877328",
+          "name": "V. Efremenko"
+        },
+        {
+          "authorId": "102816133",
+          "name": "S. Egli"
+        },
+        {
+          "authorId": "79006460",
+          "name": "R. Eichler"
+        },
+        {
+          "authorId": "144565402",
+          "name": "F. Eisele"
+        },
+        {
+          "authorId": "91842988",
+          "name": "E. Eisenhandler"
+        },
+        {
+          "authorId": "4000314",
+          "name": "M. Ellerbrock"
+        },
+        {
+          "authorId": "50349730",
+          "name": "E. Elsen"
+        },
+        {
+          "authorId": "2264476557",
+          "name": "M. Erdmann"
+        },
+        {
+          "authorId": "143613380",
+          "name": "W. Erdmann"
+        },
+        {
+          "authorId": "1398358137",
+          "name": "P. Faulkner"
+        },
+        {
+          "authorId": "104511254",
+          "name": "L. Favart"
+        },
+        {
+          "authorId": "145867137",
+          "name": "A. Fedotov"
+        },
+        {
+          "authorId": "144600965",
+          "name": "R. Felst"
+        },
+        {
+          "authorId": "144434537",
+          "name": "J. Ferencei"
+        },
+        {
+          "authorId": "48439810",
+          "name": "S. Ferron"
+        },
+        {
+          "authorId": "104999818",
+          "name": "M. Fleischer"
+        },
+        {
+          "authorId": "40310988",
+          "name": "Y. H. Fleming"
+        },
+        {
+          "authorId": "2226823355",
+          "name": "G. Fl\u00fcgge"
+        },
+        {
+          "authorId": "122952348",
+          "name": "A. Fomenko"
+        },
+        {
+          "authorId": "10033814",
+          "name": "I. Foresti"
+        },
+        {
+          "authorId": "47073092",
+          "name": "J. Form\u00e1nek"
+        },
+        {
+          "authorId": "152512614",
+          "name": "J. Foster"
+        },
+        {
+          "authorId": "4397758",
+          "name": "G. Franke"
+        },
+        {
+          "authorId": "10428702",
+          "name": "E. Gabathuler"
+        },
+        {
+          "authorId": "13246484",
+          "name": "K. Gabathuler"
+        },
+        {
+          "authorId": "123538960",
+          "name": "J. Garvey"
+        },
+        {
+          "authorId": "2074591875",
+          "name": "J. Ga\u00dfner"
+        },
+        {
+          "authorId": "91934407",
+          "name": "J. Gayler"
+        },
+        {
+          "authorId": "144434484",
+          "name": "R. Gerhards"
+        },
+        {
+          "authorId": "102643592",
+          "name": "S. Ghazaryan"
+        },
+        {
+          "authorId": "3768006",
+          "name": "L. Goerlich"
+        },
+        {
+          "authorId": "145489429",
+          "name": "N. Gogitidze"
+        },
+        {
+          "authorId": "2244902359",
+          "name": "M. Goldberg"
+        },
+        {
+          "authorId": "115236232",
+          "name": "C. Goodwin"
+        },
+        {
+          "authorId": "103086052",
+          "name": "C. Grab"
+        },
+        {
+          "authorId": "72581482",
+          "name": "H. Gr\u00e4ssler"
+        },
+        {
+          "authorId": "102369151",
+          "name": "T. Greenshaw"
+        },
+        {
+          "authorId": "100686275",
+          "name": "G. Grindhammer"
+        },
+        {
+          "authorId": "94542238",
+          "name": "T. Hadig"
+        },
+        {
+          "authorId": "52630777",
+          "name": "D. Haidt"
+        },
+        {
+          "authorId": "67013221",
+          "name": "L. Hajduk"
+        },
+        {
+          "authorId": "2075485268",
+          "name": "W. Haynes"
+        },
+        {
+          "authorId": "2227772317",
+          "name": "B. Heinemann"
+        },
+        {
+          "authorId": "91730137",
+          "name": "G. Heinzelmann"
+        },
+        {
+          "authorId": "50858160",
+          "name": "R. Henderson"
+        },
+        {
+          "authorId": "101289926",
+          "name": "S. Hengstmann"
+        },
+        {
+          "authorId": "7787826",
+          "name": "H. Henschel"
+        },
+        {
+          "authorId": "143634222",
+          "name": "R. Heremans"
+        },
+        {
+          "authorId": "31435585",
+          "name": "G. Herrera"
+        },
+        {
+          "authorId": "152456973",
+          "name": "I. Herynek"
+        },
+        {
+          "authorId": "2672915",
+          "name": "M. Hildebrandt"
+        },
+        {
+          "authorId": "2821972",
+          "name": "M. Hilgers"
+        },
+        {
+          "authorId": "152418679",
+          "name": "K. Hiller"
+        },
+        {
+          "authorId": "143765747",
+          "name": "J. Hladk\u00fd"
+        },
+        {
+          "authorId": "103151405",
+          "name": "P. H\u00f6ting"
+        },
+        {
+          "authorId": "2245534745",
+          "name": "D. Hoffmann"
+        },
+        {
+          "authorId": "115718278",
+          "name": "R. Horisberger"
+        },
+        {
+          "authorId": "31360557",
+          "name": "S. Hurling"
+        },
+        {
+          "authorId": "39541801",
+          "name": "M. Ibbotson"
+        },
+        {
+          "authorId": "2255525207",
+          "name": "C. Issever"
+        },
+        {
+          "authorId": "152391230",
+          "name": "M. Jacquet"
+        },
+        {
+          "authorId": "41221420",
+          "name": "M. Jaffr\u00e9"
+        },
+        {
+          "authorId": "9120881",
+          "name": "L. Janauschek"
+        },
+        {
+          "authorId": "144434183",
+          "name": "D. Jansen"
+        },
+        {
+          "authorId": "153493848",
+          "name": "X. Janssen"
+        },
+        {
+          "authorId": "100787260",
+          "name": "V. Jemanov"
+        },
+        {
+          "authorId": "152522795",
+          "name": "L. J\u00f6nsson"
+        },
+        {
+          "authorId": "2185637887",
+          "name": "Daniel Johnson"
+        },
+        {
+          "authorId": "1707551",
+          "name": "Hannes Jung"
+        },
+        {
+          "authorId": "117576217",
+          "name": "H. K. K\u00e4stli"
+        },
+        {
+          "authorId": "115561734",
+          "name": "D. Kant"
+        },
+        {
+          "authorId": "101050173",
+          "name": "M. Kapichine"
+        },
+        {
+          "authorId": "118513488",
+          "name": "M. Karlsson"
+        },
+        {
+          "authorId": "91544828",
+          "name": "O. Karschnick"
+        },
+        {
+          "authorId": "93080998",
+          "name": "F. Keil"
+        },
+        {
+          "authorId": "153708773",
+          "name": "N. Keller"
+        },
+        {
+          "authorId": "2235642475",
+          "name": "J. Kennedy"
+        },
+        {
+          "authorId": "104499805",
+          "name": "I. Kenyon"
+        },
+        {
+          "authorId": "2753667",
+          "name": "S. Kermiche"
+        },
+        {
+          "authorId": "100762572",
+          "name": "C. Kiesling"
+        },
+        {
+          "authorId": "2884564",
+          "name": "P. Kjellberg"
+        },
+        {
+          "authorId": "144038398",
+          "name": "M. Klein"
+        },
+        {
+          "authorId": "2249473749",
+          "name": "C. Kleinwort"
+        },
+        {
+          "authorId": "120561386",
+          "name": "G. Knies"
+        },
+        {
+          "authorId": "1691811",
+          "name": "B. Koblitz"
+        },
+        {
+          "authorId": "102653315",
+          "name": "S. Kolya"
+        },
+        {
+          "authorId": "70079942",
+          "name": "V. Korbel"
+        },
+        {
+          "authorId": "144088323",
+          "name": "P. Kostka"
+        },
+        {
+          "authorId": "104232184",
+          "name": "S. Kotelnikov"
+        },
+        {
+          "authorId": "102497953",
+          "name": "R. Koutouev"
+        },
+        {
+          "authorId": "102986572",
+          "name": "A. Koutov"
+        },
+        {
+          "authorId": "102460804",
+          "name": "M. Krasny"
+        },
+        {
+          "authorId": "98617929",
+          "name": "H. Krehbiel"
+        },
+        {
+          "authorId": "5620215",
+          "name": "J. Kroseberg"
+        },
+        {
+          "authorId": "2052102525",
+          "name": "K. Kr\u00fcger"
+        },
+        {
+          "authorId": "97426879",
+          "name": "A. K\u00fcpper"
+        },
+        {
+          "authorId": "8921830",
+          "name": "T. Kuhr"
+        },
+        {
+          "authorId": "145760293",
+          "name": "T. Kurca"
+        },
+        {
+          "authorId": "145432104",
+          "name": "R. Lahmann"
+        },
+        {
+          "authorId": "46919909",
+          "name": "D. Lamb"
+        },
+        {
+          "authorId": "2227551310",
+          "name": "M. Landon"
+        },
+        {
+          "authorId": "143670057",
+          "name": "W. Lange"
+        },
+        {
+          "authorId": "25691841",
+          "name": "T. La\u0161tovi\u010dka"
+        },
+        {
+          "authorId": "122138249",
+          "name": "P. Laycock"
+        },
+        {
+          "authorId": "102585138",
+          "name": "E. Lebailly"
+        },
+        {
+          "authorId": "2052825282",
+          "name": "A. Lebedev"
+        },
+        {
+          "authorId": "2246866367",
+          "name": "B. Leibner"
+        },
+        {
+          "authorId": "52203937",
+          "name": "R. Lemrani"
+        },
+        {
+          "authorId": "47129562",
+          "name": "V. Lendermann"
+        },
+        {
+          "authorId": "70373776",
+          "name": "S. Levonian"
+        },
+        {
+          "authorId": "2212355",
+          "name": "M. Lindstroem"
+        },
+        {
+          "authorId": "2264515824",
+          "name": "B. List"
+        },
+        {
+          "authorId": "15377728",
+          "name": "E. Lobodzinska"
+        },
+        {
+          "authorId": "31095842",
+          "name": "B. Lobodzinski"
+        },
+        {
+          "authorId": "118173783",
+          "name": "A. Loginov"
+        },
+        {
+          "authorId": "144183217",
+          "name": "N. Loktionova"
+        },
+        {
+          "authorId": "116523576",
+          "name": "V. Lubimov"
+        },
+        {
+          "authorId": "30741665",
+          "name": "S. Luders"
+        },
+        {
+          "authorId": "21489186",
+          "name": "D. L\u00fcke"
+        },
+        {
+          "authorId": "93993088",
+          "name": "L. Lytkin"
+        },
+        {
+          "authorId": "91205246",
+          "name": "N. Magnussen"
+        },
+        {
+          "authorId": "1380955500",
+          "name": "H. Mahlke-Kr\u00fcger"
+        },
+        {
+          "authorId": "152121062",
+          "name": "N. Malden"
+        },
+        {
+          "authorId": "14800676",
+          "name": "E. Malinovski"
+        },
+        {
+          "authorId": "92121721",
+          "name": "I. Malinovski"
+        },
+        {
+          "authorId": "4879411",
+          "name": "R. Mara\u010dek"
+        },
+        {
+          "authorId": "5474808",
+          "name": "P. Marage"
+        },
+        {
+          "authorId": "39664136",
+          "name": "J. Marks"
+        },
+        {
+          "authorId": "145471953",
+          "name": "R. Marshall"
+        },
+        {
+          "authorId": "145798048",
+          "name": "H. Martyn"
+        },
+        {
+          "authorId": "116964021",
+          "name": "J. Martyniak"
+        },
+        {
+          "authorId": "103363899",
+          "name": "S. Maxfield"
+        },
+        {
+          "authorId": "2114814003",
+          "name": "A. Mehta"
+        },
+        {
+          "authorId": "2114309572",
+          "name": "K. Meier"
+        },
+        {
+          "authorId": "145722666",
+          "name": "P. Merkel"
+        },
+        {
+          "authorId": "2264615552",
+          "name": "A. Meyer"
+        },
+        {
+          "authorId": "2072456311",
+          "name": "H. Meyer"
+        },
+        {
+          "authorId": "98612586",
+          "name": "J. Meyer"
+        },
+        {
+          "authorId": "145281981",
+          "name": "P. Meyer"
+        },
+        {
+          "authorId": "93730587",
+          "name": "S. Mikocki"
+        },
+        {
+          "authorId": "15589245",
+          "name": "D. Milstead"
+        },
+        {
+          "authorId": "97776354",
+          "name": "T. Mkrtchyan"
+        },
+        {
+          "authorId": "103349695",
+          "name": "R. Mohr"
+        },
+        {
+          "authorId": "74474977",
+          "name": "S. Mohrdieck"
+        },
+        {
+          "authorId": "1388849666",
+          "name": "M. Mondragon"
+        },
+        {
+          "authorId": "51376525",
+          "name": "F. Moreau"
+        },
+        {
+          "authorId": "46336027",
+          "name": "A. Morozov"
+        },
+        {
+          "authorId": "2264566146",
+          "name": "J. Morris"
+        },
+        {
+          "authorId": "2246166280",
+          "name": "K. M\u00fcller"
+        },
+        {
+          "authorId": "98816641",
+          "name": "P. Murin"
+        },
+        {
+          "authorId": "102486047",
+          "name": "V. Nagovizin"
+        },
+        {
+          "authorId": "152372506",
+          "name": "B. Naroska"
+        },
+        {
+          "authorId": "94077628",
+          "name": "J. Naumann"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "98315447",
+          "name": "G. Nellen"
+        },
+        {
+          "authorId": "41191353",
+          "name": "P. Newman"
+        },
+        {
+          "authorId": "102597493",
+          "name": "T. Nicholls"
+        },
+        {
+          "authorId": "13605750",
+          "name": "F. Niebergall"
+        },
+        {
+          "authorId": "47783744",
+          "name": "C. Niebuhr"
+        },
+        {
+          "authorId": "2780511",
+          "name": "O. Nix"
+        },
+        {
+          "authorId": "32835876",
+          "name": "G. Nowak"
+        },
+        {
+          "authorId": "48778598",
+          "name": "T. Nunnemann"
+        },
+        {
+          "authorId": "78713728",
+          "name": "J. Olsson"
+        },
+        {
+          "authorId": "48385530",
+          "name": "D. Ozerov"
+        },
+        {
+          "authorId": "102851370",
+          "name": "V. Panassik"
+        },
+        {
+          "authorId": "152205287",
+          "name": "C. Pascaud"
+        },
+        {
+          "authorId": "46330862",
+          "name": "G. Patel"
+        },
+        {
+          "authorId": "123562842",
+          "name": "E. Perez"
+        },
+        {
+          "authorId": "2261947894",
+          "name": "J. Phillips"
+        },
+        {
+          "authorId": "2249473486",
+          "name": "D. Pitzl"
+        },
+        {
+          "authorId": "2223414957",
+          "name": "R. P\u00f6schl"
+        },
+        {
+          "authorId": "103354075",
+          "name": "I. Potachnikova"
+        },
+        {
+          "authorId": "8209640",
+          "name": "B. Povh"
+        },
+        {
+          "authorId": "102368293",
+          "name": "K. Rabbertz"
+        },
+        {
+          "authorId": "152424253",
+          "name": "G. R\u00e4del"
+        },
+        {
+          "authorId": "71568611",
+          "name": "J. Rauschenberger"
+        },
+        {
+          "authorId": "1767282",
+          "name": "P. Reimer"
+        },
+        {
+          "authorId": "113590140",
+          "name": "B. Reisert"
+        },
+        {
+          "authorId": "2244916715",
+          "name": "D. Reyna"
+        },
+        {
+          "authorId": "2608249",
+          "name": "S. Riess"
+        },
+        {
+          "authorId": "30950041",
+          "name": "C. Risler"
+        },
+        {
+          "authorId": "16301517",
+          "name": "E. Rizvi"
+        },
+        {
+          "authorId": "102453587",
+          "name": "P. Robmann"
+        },
+        {
+          "authorId": "70543782",
+          "name": "R. Roosen"
+        },
+        {
+          "authorId": "3140485",
+          "name": "A. Rostovtsev"
+        },
+        {
+          "authorId": "112851882",
+          "name": "C. Royon"
+        },
+        {
+          "authorId": "145702730",
+          "name": "S. Rusakov"
+        },
+        {
+          "authorId": "71037826",
+          "name": "K. Rybicki"
+        },
+        {
+          "authorId": "1390577080",
+          "name": "D. Sankey"
+        },
+        {
+          "authorId": "2960104",
+          "name": "J. Scheins"
+        },
+        {
+          "authorId": "123832992",
+          "name": "F. Schilling"
+        },
+        {
+          "authorId": "2256606203",
+          "name": "P. Schleper"
+        },
+        {
+          "authorId": "152942518",
+          "name": "D. Schmidt"
+        },
+        {
+          "authorId": "2058926670",
+          "name": "S. Schmitt"
+        },
+        {
+          "authorId": "114650590",
+          "name": "L. Schoeffel"
+        },
+        {
+          "authorId": "114614047",
+          "name": "A. Sch\u00f6ning"
+        },
+        {
+          "authorId": "102238446",
+          "name": "T. Sch\u00f6rner"
+        },
+        {
+          "authorId": "2241110826",
+          "name": "V. Schr\u00f6der"
+        },
+        {
+          "authorId": "1395840486",
+          "name": "H. Schultz-Coulon"
+        },
+        {
+          "authorId": "94609126",
+          "name": "C. Schwanenberger"
+        },
+        {
+          "authorId": "3905766",
+          "name": "K. Sedl\u00e1k"
+        },
+        {
+          "authorId": "103291019",
+          "name": "F. Sefkow"
+        },
+        {
+          "authorId": "91282172",
+          "name": "V. Shekelyan"
+        },
+        {
+          "authorId": "2355744",
+          "name": "I. Sheviakov"
+        },
+        {
+          "authorId": "93809867",
+          "name": "L. Shtarkov"
+        },
+        {
+          "authorId": "6967168",
+          "name": "P. Sievers"
+        },
+        {
+          "authorId": "144161107",
+          "name": "Y. Sirois"
+        },
+        {
+          "authorId": "115560426",
+          "name": "T. Sloan"
+        },
+        {
+          "authorId": "40516099",
+          "name": "P. Smirnov"
+        },
+        {
+          "authorId": "100470416",
+          "name": "V. Solochenko"
+        },
+        {
+          "authorId": "87672862",
+          "name": "Y. Soloviev"
+        },
+        {
+          "authorId": "96357323",
+          "name": "V. Spaskov"
+        },
+        {
+          "authorId": "48676791",
+          "name": "A. Specka"
+        },
+        {
+          "authorId": "122871043",
+          "name": "H. Spitzer"
+        },
+        {
+          "authorId": "46901003",
+          "name": "R. Stamen"
+        },
+        {
+          "authorId": "114915586",
+          "name": "J. Steinhart"
+        },
+        {
+          "authorId": "152530714",
+          "name": "B. Stella"
+        },
+        {
+          "authorId": "70079519",
+          "name": "A. Stellberger"
+        },
+        {
+          "authorId": "91337483",
+          "name": "J. Stiewe"
+        },
+        {
+          "authorId": "49548007",
+          "name": "U. Straumann"
+        },
+        {
+          "authorId": "101840229",
+          "name": "W. Struczinski"
+        },
+        {
+          "authorId": "144599036",
+          "name": "M. Swart"
+        },
+        {
+          "authorId": "152289274",
+          "name": "M. Tasevsky"
+        },
+        {
+          "authorId": "101698420",
+          "name": "V. Tchernyshov"
+        },
+        {
+          "authorId": "100809223",
+          "name": "S. Tchetchelnitski"
+        },
+        {
+          "authorId": "2337494695",
+          "name": "G. Thompson"
+        },
+        {
+          "authorId": "2233349021",
+          "name": "P. Thompson"
+        },
+        {
+          "authorId": "9906137",
+          "name": "N. Tobien"
+        },
+        {
+          "authorId": "47110330",
+          "name": "D. Traynor"
+        },
+        {
+          "authorId": "2239370183",
+          "name": "P. Tru\u00f6l"
+        },
+        {
+          "authorId": "101632797",
+          "name": "G. Tsipolitis"
+        },
+        {
+          "authorId": "48049122",
+          "name": "I. Tsurin"
+        },
+        {
+          "authorId": "152411346",
+          "name": "J. Turnau"
+        },
+        {
+          "authorId": "47551279",
+          "name": "J. Turney"
+        },
+        {
+          "authorId": "6854502",
+          "name": "E. Tzamariudaki"
+        },
+        {
+          "authorId": "1699265",
+          "name": "S. Udluft"
+        },
+        {
+          "authorId": "103855717",
+          "name": "A. Usik"
+        },
+        {
+          "authorId": "2246870406",
+          "name": "S. Valk\u00e9r"
+        },
+        {
+          "authorId": "101864595",
+          "name": "A. Valk\u00e1rov\u00e1"
+        },
+        {
+          "authorId": "93550280",
+          "name": "C. Vall\u00e9e"
+        },
+        {
+          "authorId": "2232461982",
+          "name": "P. Mechelen"
+        },
+        {
+          "authorId": "39390211",
+          "name": "S. Vassiliev"
+        },
+        {
+          "authorId": "100860012",
+          "name": "Y. Vazdik"
+        },
+        {
+          "authorId": "47013090",
+          "name": "A. Vichnevski"
+        },
+        {
+          "authorId": "102043277",
+          "name": "K. Wacker"
+        },
+        {
+          "authorId": "152571302",
+          "name": "R. Wallny"
+        },
+        {
+          "authorId": "152385157",
+          "name": "T. Walter"
+        },
+        {
+          "authorId": "97497115",
+          "name": "B. Waugh"
+        },
+        {
+          "authorId": "46965172",
+          "name": "G. Weber"
+        },
+        {
+          "authorId": "2243224487",
+          "name": "M. Weber"
+        },
+        {
+          "authorId": "48120311",
+          "name": "D. Wegener"
+        },
+        {
+          "authorId": "46428233",
+          "name": "M. Werner"
+        },
+        {
+          "authorId": "2246874130",
+          "name": "G. White"
+        },
+        {
+          "authorId": "72676218",
+          "name": "S. Wiesand"
+        },
+        {
+          "authorId": "6148137",
+          "name": "T. Wilksen"
+        },
+        {
+          "authorId": "8321631",
+          "name": "M. Winde"
+        },
+        {
+          "authorId": "145076633",
+          "name": "G. Winter"
+        },
+        {
+          "authorId": "2223256590",
+          "name": "C. Wissing"
+        },
+        {
+          "authorId": "152509117",
+          "name": "M. Wobisch"
+        },
+        {
+          "authorId": "101239723",
+          "name": "H. Wollatz"
+        },
+        {
+          "authorId": "2240219116",
+          "name": "E. W\u00fcnsch"
+        },
+        {
+          "authorId": "152175513",
+          "name": "A. Wyatt"
+        },
+        {
+          "authorId": "114913932",
+          "name": "J. \u1e90\u00e1\u010dek"
+        },
+        {
+          "authorId": "102401185",
+          "name": "J. Z\u00e1le\u0161\u00e1k"
+        },
+        {
+          "authorId": "2246683415",
+          "name": "Z. Zhang"
+        },
+        {
+          "authorId": "3301391",
+          "name": "A. Zhokin"
+        },
+        {
+          "authorId": "152449617",
+          "name": "F. Zomer"
+        },
+        {
+          "authorId": "91242333",
+          "name": "J. Zsembery"
+        },
+        {
+          "authorId": "1390689260",
+          "name": "M. Nedden"
+        }
+      ]
+    },
+    {
+      "paperId": "daca3143e5ffd4cc6114a06976ef0779229f6c24",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/daca3143e5ffd4cc6114a06976ef0779229f6c24",
+      "title": "Investigation of power corrections to event shape variables measured in deep-inelastic scattering",
+      "venue": "",
+      "year": 2000,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "121880429",
+          "name": "C. Adloff"
+        },
+        {
+          "authorId": "50564734",
+          "name": "V. Andreev"
+        },
+        {
+          "authorId": "2935181",
+          "name": "B. Andrieu"
+        },
+        {
+          "authorId": "94281777",
+          "name": "V. Arkadov"
+        },
+        {
+          "authorId": "1773257",
+          "name": "A. Astvatsatourov"
+        },
+        {
+          "authorId": "94078340",
+          "name": "I. Ayyaz"
+        },
+        {
+          "authorId": "152485544",
+          "name": "A. Babaev"
+        },
+        {
+          "authorId": "2981766",
+          "name": "J. B\u00e4hr"
+        },
+        {
+          "authorId": "46388191",
+          "name": "P. Baranov"
+        },
+        {
+          "authorId": "31399661",
+          "name": "E. Barrelet"
+        },
+        {
+          "authorId": "148332878",
+          "name": "W. Bartel"
+        },
+        {
+          "authorId": "2184729714",
+          "name": "U. Bassler"
+        },
+        {
+          "authorId": "144616375",
+          "name": "P. Bate"
+        },
+        {
+          "authorId": "102490900",
+          "name": "O. Behnke"
+        },
+        {
+          "authorId": "2073683095",
+          "name": "C. Beier"
+        },
+        {
+          "authorId": "144263436",
+          "name": "A. Belousov"
+        },
+        {
+          "authorId": "97591320",
+          "name": "T. Benisch"
+        },
+        {
+          "authorId": "2303655249",
+          "name": "C. Berger"
+        },
+        {
+          "authorId": "102229961",
+          "name": "G. Bernardi"
+        },
+        {
+          "authorId": "113003375",
+          "name": "T. Berndt"
+        },
+        {
+          "authorId": "1399409827",
+          "name": "G. Bertrand-Coremans"
+        },
+        {
+          "authorId": "7146940",
+          "name": "P. Biddulph"
+        },
+        {
+          "authorId": "3651886",
+          "name": "J. Bizot"
+        },
+        {
+          "authorId": "2262771794",
+          "name": "K. Borras"
+        },
+        {
+          "authorId": "102538389",
+          "name": "V. Boudry"
+        },
+        {
+          "authorId": "69333149",
+          "name": "W. Braunschweig"
+        },
+        {
+          "authorId": "91963843",
+          "name": "V. Brisson"
+        },
+        {
+          "authorId": "102467589",
+          "name": "H. Br\u00f6ker"
+        },
+        {
+          "authorId": "2115246374",
+          "name": "D. Brown"
+        },
+        {
+          "authorId": "102623417",
+          "name": "W. Bru\u0308ckner"
+        },
+        {
+          "authorId": "48334800",
+          "name": "P. Bruel"
+        },
+        {
+          "authorId": "143890722",
+          "name": "D. Bruncko"
+        },
+        {
+          "authorId": "79974963",
+          "name": "J. Burger"
+        },
+        {
+          "authorId": "102790699",
+          "name": "F. B\u00fcsser"
+        },
+        {
+          "authorId": "1390983557",
+          "name": "A. Bunyatian"
+        },
+        {
+          "authorId": "26347864",
+          "name": "S. Burke"
+        },
+        {
+          "authorId": "49268869",
+          "name": "H. Burkhardt"
+        },
+        {
+          "authorId": "92584864",
+          "name": "A. Burrage"
+        },
+        {
+          "authorId": "152549889",
+          "name": "G. Buschhorn"
+        },
+        {
+          "authorId": "2264584589",
+          "name": "A. Campbell"
+        },
+        {
+          "authorId": "2107189013",
+          "name": "J. Cao"
+        },
+        {
+          "authorId": "103772254",
+          "name": "T. Carli"
+        },
+        {
+          "authorId": "2235085176",
+          "name": "E. Chabert"
+        },
+        {
+          "authorId": "103127929",
+          "name": "M. Charlet"
+        },
+        {
+          "authorId": "114750931",
+          "name": "D. Clarke"
+        },
+        {
+          "authorId": "6461728",
+          "name": "B. Clerbaux"
+        },
+        {
+          "authorId": "2228129905",
+          "name": "C. Collard"
+        },
+        {
+          "authorId": "145960066",
+          "name": "J. G. Contreras"
+        },
+        {
+          "authorId": "2371367",
+          "name": "J. Coughlan"
+        },
+        {
+          "authorId": "66130563",
+          "name": "M. Cousinou"
+        },
+        {
+          "authorId": "50064910",
+          "name": "B. Cox"
+        },
+        {
+          "authorId": "152384111",
+          "name": "G. Cozzika"
+        },
+        {
+          "authorId": "152336456",
+          "name": "J. Cvach"
+        },
+        {
+          "authorId": "122559549",
+          "name": "J. Dainton"
+        },
+        {
+          "authorId": "91428814",
+          "name": "W. Dau"
+        },
+        {
+          "authorId": "2775187",
+          "name": "K. Daum"
+        },
+        {
+          "authorId": "145017573",
+          "name": "M. David"
+        },
+        {
+          "authorId": "98356328",
+          "name": "M. Davidsson"
+        },
+        {
+          "authorId": "50884265",
+          "name": "B. Delcourt"
+        },
+        {
+          "authorId": "2023598",
+          "name": "A. Roeck"
+        },
+        {
+          "authorId": "152180142",
+          "name": "E. Wolf"
+        },
+        {
+          "authorId": "30623250",
+          "name": "C. Diaconu"
+        },
+        {
+          "authorId": "119777782",
+          "name": "P. Dixon"
+        },
+        {
+          "authorId": "152191569",
+          "name": "V. Dodonov"
+        },
+        {
+          "authorId": "97938733",
+          "name": "K. Donovan"
+        },
+        {
+          "authorId": "121086271",
+          "name": "J. Dowell"
+        },
+        {
+          "authorId": "152107118",
+          "name": "A. Droutskoi"
+        },
+        {
+          "authorId": "2809146",
+          "name": "C. Duprel"
+        },
+        {
+          "authorId": "152233905",
+          "name": "J. Ebert"
+        },
+        {
+          "authorId": "2235085109",
+          "name": "G. Eckerlin"
+        },
+        {
+          "authorId": "2226869885",
+          "name": "D. Eckstein"
+        },
+        {
+          "authorId": "144877328",
+          "name": "V. Efremenko"
+        },
+        {
+          "authorId": "102816133",
+          "name": "S. Egli"
+        },
+        {
+          "authorId": "79006460",
+          "name": "R. Eichler"
+        },
+        {
+          "authorId": "90586449",
+          "name": "F. Eisele"
+        },
+        {
+          "authorId": "91842988",
+          "name": "E. Eisenhandler"
+        },
+        {
+          "authorId": "4000314",
+          "name": "M. Ellerbrock"
+        },
+        {
+          "authorId": "50349730",
+          "name": "E. Elsen"
+        },
+        {
+          "authorId": "2264476557",
+          "name": "M. Erdmann"
+        },
+        {
+          "authorId": "144975173",
+          "name": "A. Fahr"
+        },
+        {
+          "authorId": "1398358137",
+          "name": "P. Faulkner"
+        },
+        {
+          "authorId": "104511254",
+          "name": "L. Favart"
+        },
+        {
+          "authorId": "145867137",
+          "name": "A. Fedotov"
+        },
+        {
+          "authorId": "144600965",
+          "name": "R. Felst"
+        },
+        {
+          "authorId": "41130527",
+          "name": "J. Feltesse"
+        },
+        {
+          "authorId": "144434537",
+          "name": "J. Ferencei"
+        },
+        {
+          "authorId": "6831040",
+          "name": "F. Ferrarotto"
+        },
+        {
+          "authorId": "48439810",
+          "name": "S. Ferron"
+        },
+        {
+          "authorId": "104999818",
+          "name": "M. Fleischer"
+        },
+        {
+          "authorId": "2226869958",
+          "name": "G. Fl\u00fcgge"
+        },
+        {
+          "authorId": "122952348",
+          "name": "A. Fomenko"
+        },
+        {
+          "authorId": "10033814",
+          "name": "I. Foresti"
+        },
+        {
+          "authorId": "47073092",
+          "name": "J. Form\u00e1nek"
+        },
+        {
+          "authorId": "152512614",
+          "name": "J. Foster"
+        },
+        {
+          "authorId": "4397758",
+          "name": "G. Franke"
+        },
+        {
+          "authorId": "10428702",
+          "name": "E. Gabathuler"
+        },
+        {
+          "authorId": "13246484",
+          "name": "K. Gabathuler"
+        },
+        {
+          "authorId": "123538960",
+          "name": "J. Garvey"
+        },
+        {
+          "authorId": "47084140",
+          "name": "J. Gassner"
+        },
+        {
+          "authorId": "91934407",
+          "name": "J. Gayler"
+        },
+        {
+          "authorId": "144434484",
+          "name": "R. Gerhards"
+        },
+        {
+          "authorId": "2233342112",
+          "name": "A. Glazov"
+        },
+        {
+          "authorId": "3768006",
+          "name": "L. Goerlich"
+        },
+        {
+          "authorId": "145489429",
+          "name": "N. Gogitidze"
+        },
+        {
+          "authorId": "50877368",
+          "name": "M. Goldberg"
+        },
+        {
+          "authorId": "2290690448",
+          "name": "I. Gorelov"
+        },
+        {
+          "authorId": "103086052",
+          "name": "C. Grab"
+        },
+        {
+          "authorId": "72581482",
+          "name": "H. Gr\u00e4ssler"
+        },
+        {
+          "authorId": "102369151",
+          "name": "T. Greenshaw"
+        },
+        {
+          "authorId": "143883771",
+          "name": "R. Griffiths"
+        },
+        {
+          "authorId": "100686275",
+          "name": "G. Grindhammer"
+        },
+        {
+          "authorId": "94542238",
+          "name": "T. Hadig"
+        },
+        {
+          "authorId": "52630777",
+          "name": "D. Haidt"
+        },
+        {
+          "authorId": "67013221",
+          "name": "L. Hajduk"
+        },
+        {
+          "authorId": "3127519",
+          "name": "V. Haustein"
+        },
+        {
+          "authorId": "152396109",
+          "name": "W. Haynes"
+        },
+        {
+          "authorId": "144646962",
+          "name": "B. Heinemann"
+        },
+        {
+          "authorId": "91730137",
+          "name": "G. Heinzelmann"
+        },
+        {
+          "authorId": "50858160",
+          "name": "R. Henderson"
+        },
+        {
+          "authorId": "101289926",
+          "name": "S. Hengstmann"
+        },
+        {
+          "authorId": "7787826",
+          "name": "H. Henschel"
+        },
+        {
+          "authorId": "143634222",
+          "name": "R. Heremans"
+        },
+        {
+          "authorId": "31435585",
+          "name": "G. Herrera"
+        },
+        {
+          "authorId": "152456973",
+          "name": "I. Herynek"
+        },
+        {
+          "authorId": "2821972",
+          "name": "M. Hilgers"
+        },
+        {
+          "authorId": "2233341937",
+          "name": "K. Hiller"
+        },
+        {
+          "authorId": "47428806",
+          "name": "C. D. Hilton"
+        },
+        {
+          "authorId": "143765747",
+          "name": "J. Hladk\u00fd"
+        },
+        {
+          "authorId": "1382258340",
+          "name": "P. Hoting"
+        },
+        {
+          "authorId": "145333786",
+          "name": "D. Hoffmann"
+        },
+        {
+          "authorId": "115718278",
+          "name": "R. Horisberger"
+        },
+        {
+          "authorId": "31360557",
+          "name": "S. Hurling"
+        },
+        {
+          "authorId": "39541801",
+          "name": "M. Ibbotson"
+        },
+        {
+          "authorId": "2255525207",
+          "name": "C. Issever"
+        },
+        {
+          "authorId": "152391230",
+          "name": "M. Jacquet"
+        },
+        {
+          "authorId": "41221420",
+          "name": "M. Jaffr\u00e9"
+        },
+        {
+          "authorId": "9120881",
+          "name": "L. Janauschek"
+        },
+        {
+          "authorId": "144434183",
+          "name": "D. Jansen"
+        },
+        {
+          "authorId": "153493848",
+          "name": "X. Janssen"
+        },
+        {
+          "authorId": "152522795",
+          "name": "L. J\u00f6nsson"
+        },
+        {
+          "authorId": "2157698596",
+          "name": "D. Johnson"
+        },
+        {
+          "authorId": "152833615",
+          "name": "M. Jones"
+        },
+        {
+          "authorId": "2290451345",
+          "name": "H. Jung"
+        },
+        {
+          "authorId": "1390493476",
+          "name": "H. K. Kastli"
+        },
+        {
+          "authorId": "115561734",
+          "name": "D. Kant"
+        },
+        {
+          "authorId": "101050173",
+          "name": "M. Kapichine"
+        },
+        {
+          "authorId": "118513488",
+          "name": "M. Karlsson"
+        },
+        {
+          "authorId": "91544828",
+          "name": "O. Karschnick"
+        },
+        {
+          "authorId": "2070722902",
+          "name": "O. Kaufmann"
+        },
+        {
+          "authorId": "40426928",
+          "name": "M. Kausch"
+        },
+        {
+          "authorId": "93080998",
+          "name": "F. Keil"
+        },
+        {
+          "authorId": "153708773",
+          "name": "N. Keller"
+        },
+        {
+          "authorId": "101757778",
+          "name": "I. Kenyon"
+        },
+        {
+          "authorId": "2753667",
+          "name": "S. Kermiche"
+        },
+        {
+          "authorId": "100762572",
+          "name": "C. Kiesling"
+        },
+        {
+          "authorId": "2294182647",
+          "name": "M. Klein"
+        },
+        {
+          "authorId": "2249473749",
+          "name": "C. Kleinwort"
+        },
+        {
+          "authorId": "120561386",
+          "name": "G. Knies"
+        },
+        {
+          "authorId": "103166760",
+          "name": "H. Kolanoski"
+        },
+        {
+          "authorId": "102653315",
+          "name": "S. Kolya"
+        },
+        {
+          "authorId": "70079942",
+          "name": "V. Korbel"
+        },
+        {
+          "authorId": "144088323",
+          "name": "P. Kostka"
+        },
+        {
+          "authorId": "104232184",
+          "name": "S. Kotelnikov"
+        },
+        {
+          "authorId": "102460804",
+          "name": "M. Krasny"
+        },
+        {
+          "authorId": "98617929",
+          "name": "H. Krehbiel"
+        },
+        {
+          "authorId": "5620215",
+          "name": "J. Kroseberg"
+        },
+        {
+          "authorId": "145196719",
+          "name": "D. Kr\u00fccker"
+        },
+        {
+          "authorId": "152246163",
+          "name": "K. Kr\u00fcger"
+        },
+        {
+          "authorId": "144804832",
+          "name": "A. Kupper"
+        },
+        {
+          "authorId": "8921830",
+          "name": "T. Kuhr"
+        },
+        {
+          "authorId": "145760293",
+          "name": "T. Kurca"
+        },
+        {
+          "authorId": "103168851",
+          "name": "W. Lachnit"
+        },
+        {
+          "authorId": "145432104",
+          "name": "R. Lahmann"
+        },
+        {
+          "authorId": "46919909",
+          "name": "D. Lamb"
+        },
+        {
+          "authorId": "2264510628",
+          "name": "M. Landon"
+        },
+        {
+          "authorId": "143670057",
+          "name": "W. Lange"
+        },
+        {
+          "authorId": "152254949",
+          "name": "A. Lebedev"
+        },
+        {
+          "authorId": "50205176",
+          "name": "F. Lehner"
+        },
+        {
+          "authorId": "30189558",
+          "name": "V. Lemaitre"
+        },
+        {
+          "authorId": "52203937",
+          "name": "R. Lemrani"
+        },
+        {
+          "authorId": "47129562",
+          "name": "V. Lendermann"
+        },
+        {
+          "authorId": "70373776",
+          "name": "S. Levonian"
+        },
+        {
+          "authorId": "144709108",
+          "name": "M. Lindstrom"
+        },
+        {
+          "authorId": "91190202",
+          "name": "G. Lobo"
+        },
+        {
+          "authorId": "15377728",
+          "name": "E. Lobodzinska"
+        },
+        {
+          "authorId": "116523576",
+          "name": "V. Lubimov"
+        },
+        {
+          "authorId": "30741665",
+          "name": "S. Luders"
+        },
+        {
+          "authorId": "21489186",
+          "name": "D. L\u00fcke"
+        },
+        {
+          "authorId": "93993088",
+          "name": "L. Lytkin"
+        },
+        {
+          "authorId": "91205246",
+          "name": "N. Magnussen"
+        },
+        {
+          "authorId": "1403156400",
+          "name": "H. Mahlke-Kruger"
+        },
+        {
+          "authorId": "152121062",
+          "name": "N. Malden"
+        },
+        {
+          "authorId": "145868031",
+          "name": "E. Malinovsky"
+        },
+        {
+          "authorId": "92121721",
+          "name": "I. Malinovski"
+        },
+        {
+          "authorId": "4879411",
+          "name": "R. Mara\u010dek"
+        },
+        {
+          "authorId": "5474808",
+          "name": "P. Marage"
+        },
+        {
+          "authorId": "2245659660",
+          "name": "J. Marks"
+        },
+        {
+          "authorId": "145471953",
+          "name": "R. Marshall"
+        },
+        {
+          "authorId": "145798048",
+          "name": "H. Martyn"
+        },
+        {
+          "authorId": "116964021",
+          "name": "J. Martyniak"
+        },
+        {
+          "authorId": "103363899",
+          "name": "S. Maxfield"
+        },
+        {
+          "authorId": "152319524",
+          "name": "T. Mcmahon"
+        },
+        {
+          "authorId": "49863649",
+          "name": "A. Mehta"
+        },
+        {
+          "authorId": "48493821",
+          "name": "K. Meier"
+        },
+        {
+          "authorId": "3851314",
+          "name": "P. Merkel"
+        },
+        {
+          "authorId": "152489810",
+          "name": "F. Metlica"
+        },
+        {
+          "authorId": "2264615535",
+          "name": "A. Meyer"
+        },
+        {
+          "authorId": "114123445",
+          "name": "H. Meyer"
+        },
+        {
+          "authorId": "98612586",
+          "name": "J. Meyer"
+        },
+        {
+          "authorId": "145281981",
+          "name": "P. Meyer"
+        },
+        {
+          "authorId": "93730587",
+          "name": "S. Mikocki"
+        },
+        {
+          "authorId": "15589245",
+          "name": "D. Milstead"
+        },
+        {
+          "authorId": "103349695",
+          "name": "R. Mohr"
+        },
+        {
+          "authorId": "74474977",
+          "name": "S. Mohrdieck"
+        },
+        {
+          "authorId": "1388849666",
+          "name": "M. Mondragon"
+        },
+        {
+          "authorId": "51376525",
+          "name": "F. Moreau"
+        },
+        {
+          "authorId": "46336027",
+          "name": "A. Morozov"
+        },
+        {
+          "authorId": "2264566146",
+          "name": "J. Morris"
+        },
+        {
+          "authorId": "143669086",
+          "name": "D. M\u00fcller"
+        },
+        {
+          "authorId": "2169787666",
+          "name": "K. M\u00fcller"
+        },
+        {
+          "authorId": "98816641",
+          "name": "P. Murin"
+        },
+        {
+          "authorId": "102486047",
+          "name": "V. Nagovizin"
+        },
+        {
+          "authorId": "152372506",
+          "name": "B. Naroska"
+        },
+        {
+          "authorId": "94077628",
+          "name": "J. Naumann"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "1382413389",
+          "name": "I. N\u00e9gri"
+        },
+        {
+          "authorId": "41191353",
+          "name": "P. Newman"
+        },
+        {
+          "authorId": "2290127726",
+          "name": "H. Nguyen"
+        },
+        {
+          "authorId": "102597493",
+          "name": "T. Nicholls"
+        },
+        {
+          "authorId": "13605750",
+          "name": "F. Niebergall"
+        },
+        {
+          "authorId": "47783744",
+          "name": "C. Niebuhr"
+        },
+        {
+          "authorId": "2780511",
+          "name": "O. Nix"
+        },
+        {
+          "authorId": "48045373",
+          "name": "G. Nowak"
+        },
+        {
+          "authorId": "48778598",
+          "name": "T. Nunnemann"
+        },
+        {
+          "authorId": "78713728",
+          "name": "J. Olsson"
+        },
+        {
+          "authorId": "48385530",
+          "name": "D. Ozerov"
+        },
+        {
+          "authorId": "102851370",
+          "name": "V. Panassik"
+        },
+        {
+          "authorId": "152205287",
+          "name": "C. Pascaud"
+        },
+        {
+          "authorId": "3776222",
+          "name": "S. Passaggio"
+        },
+        {
+          "authorId": "46330862",
+          "name": "G. Patel"
+        },
+        {
+          "authorId": "123562842",
+          "name": "E. Perez"
+        },
+        {
+          "authorId": "2261947894",
+          "name": "J. Phillips"
+        },
+        {
+          "authorId": "2249473486",
+          "name": "D. Pitzl"
+        },
+        {
+          "authorId": "30886467",
+          "name": "R. P\u00f6schl"
+        },
+        {
+          "authorId": "4835654",
+          "name": "I. Potashnikova"
+        },
+        {
+          "authorId": "8209640",
+          "name": "B. Povh"
+        },
+        {
+          "authorId": "102368293",
+          "name": "K. Rabbertz"
+        },
+        {
+          "authorId": "152424253",
+          "name": "G. R\u00e4del"
+        },
+        {
+          "authorId": "71568611",
+          "name": "J. Rauschenberger"
+        },
+        {
+          "authorId": "1767282",
+          "name": "P. Reimer"
+        },
+        {
+          "authorId": "113590140",
+          "name": "B. Reisert"
+        },
+        {
+          "authorId": "47227463",
+          "name": "D. Reyna"
+        },
+        {
+          "authorId": "2608249",
+          "name": "S. Riess"
+        },
+        {
+          "authorId": "16301517",
+          "name": "E. Rizvi"
+        },
+        {
+          "authorId": "102453587",
+          "name": "P. Robmann"
+        },
+        {
+          "authorId": "70543782",
+          "name": "R. Roosen"
+        },
+        {
+          "authorId": "3140485",
+          "name": "A. Rostovtsev"
+        },
+        {
+          "authorId": "112851882",
+          "name": "C. Royon"
+        },
+        {
+          "authorId": "145702730",
+          "name": "S. Rusakov"
+        },
+        {
+          "authorId": "71037826",
+          "name": "K. Rybicki"
+        },
+        {
+          "authorId": "1390577080",
+          "name": "D. Sankey"
+        },
+        {
+          "authorId": "2960104",
+          "name": "J. Scheins"
+        },
+        {
+          "authorId": "123832992",
+          "name": "F. Schilling"
+        },
+        {
+          "authorId": "94225161",
+          "name": "S. Schleif"
+        },
+        {
+          "authorId": "2256606203",
+          "name": "P. Schleper"
+        },
+        {
+          "authorId": "2064744582",
+          "name": "Daniel F. Schmidt"
+        },
+        {
+          "authorId": "114650590",
+          "name": "L. Schoeffel"
+        },
+        {
+          "authorId": "103327923",
+          "name": "T. Schorner"
+        },
+        {
+          "authorId": "114614047",
+          "name": "A. Sch\u00f6ning"
+        },
+        {
+          "authorId": "118716241",
+          "name": "V. Schr\u00f6der"
+        },
+        {
+          "authorId": "1395840486",
+          "name": "H. Schultz-Coulon"
+        },
+        {
+          "authorId": "103291019",
+          "name": "F. Sefkow"
+        },
+        {
+          "authorId": "103082990",
+          "name": "V. Shekelian"
+        },
+        {
+          "authorId": "30788667",
+          "name": "I. Shevyakov"
+        },
+        {
+          "authorId": "93809867",
+          "name": "L. Shtarkov"
+        },
+        {
+          "authorId": "152126603",
+          "name": "G. Siegmon"
+        },
+        {
+          "authorId": "6967168",
+          "name": "P. Sievers"
+        },
+        {
+          "authorId": "144161107",
+          "name": "Y. Sirois"
+        },
+        {
+          "authorId": "115560426",
+          "name": "T. Sloan"
+        },
+        {
+          "authorId": "40516099",
+          "name": "P. Smirnov"
+        },
+        {
+          "authorId": "152736596",
+          "name": "M. Smith"
+        },
+        {
+          "authorId": "100470416",
+          "name": "V. Solochenko"
+        },
+        {
+          "authorId": "96648668",
+          "name": "Yu.V. Solovev"
+        },
+        {
+          "authorId": "96357323",
+          "name": "V. Spaskov"
+        },
+        {
+          "authorId": "48676791",
+          "name": "A. Specka"
+        },
+        {
+          "authorId": "122871043",
+          "name": "H. Spitzer"
+        },
+        {
+          "authorId": "46901003",
+          "name": "R. Stamen"
+        },
+        {
+          "authorId": "114915586",
+          "name": "J. Steinhart"
+        },
+        {
+          "authorId": "152530714",
+          "name": "B. Stella"
+        },
+        {
+          "authorId": "70079519",
+          "name": "A. Stellberger"
+        },
+        {
+          "authorId": "91337483",
+          "name": "J. Stiewe"
+        },
+        {
+          "authorId": "49548007",
+          "name": "U. Straumann"
+        },
+        {
+          "authorId": "101840229",
+          "name": "W. Struczinski"
+        },
+        {
+          "authorId": "145984242",
+          "name": "J. Sutton"
+        },
+        {
+          "authorId": "144599036",
+          "name": "M. Swart"
+        },
+        {
+          "authorId": "152289274",
+          "name": "M. Tasevsky"
+        },
+        {
+          "authorId": "152643815",
+          "name": "V. Chernyshov"
+        },
+        {
+          "authorId": "91045177",
+          "name": "S. Chechelnitsky"
+        },
+        {
+          "authorId": "2337494695",
+          "name": "G. Thompson"
+        },
+        {
+          "authorId": "2294181496",
+          "name": "P. Thompson"
+        },
+        {
+          "authorId": "9906137",
+          "name": "N. Tobien"
+        },
+        {
+          "authorId": "47110330",
+          "name": "D. Traynor"
+        },
+        {
+          "authorId": "91734136",
+          "name": "P. Tru\u00f6l"
+        },
+        {
+          "authorId": "101632797",
+          "name": "G. Tsipolitis"
+        },
+        {
+          "authorId": "152411346",
+          "name": "J. Turnau"
+        },
+        {
+          "authorId": "47551279",
+          "name": "J. Turney"
+        },
+        {
+          "authorId": "6854502",
+          "name": "E. Tzamariudaki"
+        },
+        {
+          "authorId": "1699265",
+          "name": "S. Udluft"
+        },
+        {
+          "authorId": "103855717",
+          "name": "A. Usik"
+        },
+        {
+          "authorId": "138935766",
+          "name": "S. Valkar"
+        },
+        {
+          "authorId": "101864595",
+          "name": "A. Valk\u00e1rov\u00e1"
+        },
+        {
+          "authorId": "93550280",
+          "name": "C. Vall\u00e9e"
+        },
+        {
+          "authorId": "2232461982",
+          "name": "P. Mechelen"
+        },
+        {
+          "authorId": "100860012",
+          "name": "Y. Vazdik"
+        },
+        {
+          "authorId": "72272148",
+          "name": "G. Villet"
+        },
+        {
+          "authorId": "101976476",
+          "name": "S. Dombrowski"
+        },
+        {
+          "authorId": "102043277",
+          "name": "K. Wacker"
+        },
+        {
+          "authorId": "152571302",
+          "name": "R. Wallny"
+        },
+        {
+          "authorId": "152385157",
+          "name": "T. Walter"
+        },
+        {
+          "authorId": "97497115",
+          "name": "B. Waugh"
+        },
+        {
+          "authorId": "46965172",
+          "name": "G. Weber"
+        },
+        {
+          "authorId": "2110603495",
+          "name": "M. Weber"
+        },
+        {
+          "authorId": "48120311",
+          "name": "D. Wegener"
+        },
+        {
+          "authorId": "96033321",
+          "name": "A. Wegner"
+        },
+        {
+          "authorId": "4138531",
+          "name": "T. Wengler"
+        },
+        {
+          "authorId": "2264486210",
+          "name": "M. Werner"
+        },
+        {
+          "authorId": "152605797",
+          "name": "L. R. West"
+        },
+        {
+          "authorId": "41206527",
+          "name": "G. White"
+        },
+        {
+          "authorId": "72676218",
+          "name": "S. Wiesand"
+        },
+        {
+          "authorId": "6148137",
+          "name": "T. Wilksen"
+        },
+        {
+          "authorId": "8321631",
+          "name": "M. Winde"
+        },
+        {
+          "authorId": "145076633",
+          "name": "G. Winter"
+        },
+        {
+          "authorId": "2223256590",
+          "name": "C. Wissing"
+        },
+        {
+          "authorId": "152509117",
+          "name": "M. Wobisch"
+        },
+        {
+          "authorId": "101239723",
+          "name": "H. Wollatz"
+        },
+        {
+          "authorId": "144595432",
+          "name": "E. W\u00fcnsch"
+        },
+        {
+          "authorId": "114913932",
+          "name": "J. \u1e90\u00e1\u010dek"
+        },
+        {
+          "authorId": "102401185",
+          "name": "J. Z\u00e1le\u0161\u00e1k"
+        },
+        {
+          "authorId": "103010571",
+          "name": "Zhiqin Zhang"
+        },
+        {
+          "authorId": "3301391",
+          "name": "A. Zhokin"
+        },
+        {
+          "authorId": "145504854",
+          "name": "P. Zini"
+        },
+        {
+          "authorId": "152449617",
+          "name": "F. Zomer"
+        },
+        {
+          "authorId": "91242333",
+          "name": "J. Zsembery"
+        },
+        {
+          "authorId": "1390689260",
+          "name": "M. Nedden"
+        }
+      ]
+    },
+    {
+      "paperId": "5e2990090e469e5b5ea629aff59639ce51338fa8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/5e2990090e469e5b5ea629aff59639ce51338fa8",
+      "title": "International Conference for Healthcare and Medical Students ( ICHAMS ) 2013",
+      "venue": "",
+      "year": null,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "49011287",
+          "name": "S. Ers\u00f6zl\u00fc"
+        },
+        {
+          "authorId": "73114139",
+          "name": "L. Magno"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "6029521",
+          "name": "Yuan-Hsun Chang"
+        },
+        {
+          "authorId": "84117470",
+          "name": "O. Fj"
+        },
+        {
+          "authorId": "152386249",
+          "name": "Brien"
+        },
+        {
+          "authorId": "152235442",
+          "name": "T. Aherne"
+        },
+        {
+          "authorId": "81453028",
+          "name": "J. Byrne"
+        },
+        {
+          "authorId": "7024769",
+          "name": "D. Monoley"
+        }
+      ]
+    },
+    {
+      "paperId": "850ce029a5fb48885d67f43136d602f790bfbbfe",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/850ce029a5fb48885d67f43136d602f790bfbbfe",
+      "title": "Machine Learning for Health ( ML 4 H )-What Parts of Healthcare are Ripe for Disruption by Machine Learning Right Now ?",
+      "venue": "",
+      "year": null,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "143649421",
+          "name": "Andrew Beam"
+        },
+        {
+          "authorId": "2592453",
+          "name": "M. Fiterau"
+        },
+        {
+          "authorId": "145610328",
+          "name": "Peter F. Schulam"
+        },
+        {
+          "authorId": "121010486",
+          "name": "J. Fries"
+        },
+        {
+          "authorId": "2067786273",
+          "name": "Michael C. Hughes"
+        },
+        {
+          "authorId": "49398909",
+          "name": "Alexander B. Wiltschko"
+        },
+        {
+          "authorId": "144108062",
+          "name": "Jasper Snoek"
+        },
+        {
+          "authorId": "38428647",
+          "name": "Natalia Antropova"
+        },
+        {
+          "authorId": "2615814",
+          "name": "R. Ranganath"
+        },
+        {
+          "authorId": "2521020",
+          "name": "B. Jedynak"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "3046516",
+          "name": "Adrian V. Dalca"
+        },
+        {
+          "authorId": "1745524",
+          "name": "Tim Althoff"
+        },
+        {
+          "authorId": "15132482",
+          "name": "Shubhi Asthana"
+        },
+        {
+          "authorId": "2075399683",
+          "name": "P. Tandon"
+        },
+        {
+          "authorId": "145536952",
+          "name": "J. Kandola"
+        },
+        {
+          "authorId": "143711421",
+          "name": "Alexander J. Ratner"
+        },
+        {
+          "authorId": "2804918",
+          "name": "M. Ghassemi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1384 @@
+{
+  "authorId": "39135119",
+  "name": "Daniel Coelho de Castro",
+  "affiliations": [
+    "Microsoft Research",
+    "Imperial College London"
+  ],
+  "paperCount": 29,
+  "citationCount": 2089,
+  "hIndex": 14,
+  "papers": [
+    {
+      "paperId": "582efef4fba2ded7d66b0b68dbfbc71654f414a3",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/582efef4fba2ded7d66b0b68dbfbc71654f414a3",
+      "title": "Measuring axiomatic soundness of counterfactual image models",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1483573919",
+          "name": "M. Monteiro"
+        },
+        {
+          "authorId": "47841458",
+          "name": "Fabio De Sousa Ribeiro"
+        },
+        {
+          "authorId": "2122367673",
+          "name": "Nick Pawlowski"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "1381873274",
+          "name": "B. Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "60a87d195a68317a1fcfc56705b7952a3daccf4b",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/60a87d195a68317a1fcfc56705b7952a3daccf4b",
+      "title": "No Fair Lunch: A Causal Perspective on Dataset Bias in Machine Learning for Medical Imaging",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152376592",
+          "name": "Charles Jones"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "47841458",
+          "name": "Fabio De Sousa Ribeiro"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2161548803",
+          "name": "Melissa McCradden"
+        },
+        {
+          "authorId": "1381873274",
+          "name": "B. Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "84729ec815f0607a4a2370c0969e8c3ba82a9411",
+      "publicationVenue": {
+        "id": "768b87bb-8a18-4d9c-a161-4d483c776bcf",
+        "name": "Computer Vision and Pattern Recognition",
+        "type": "conference",
+        "alternate_names": [
+          "CVPR",
+          "Comput Vis Pattern Recognit"
+        ],
+        "issn": "1063-6919",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147",
+        "alternate_urls": [
+          "https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/84729ec815f0607a4a2370c0969e8c3ba82a9411",
+      "title": "Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2023,
+      "citationCount": 102,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "34918424",
+          "name": "Stephanie L. Hyland"
+        },
+        {
+          "authorId": "50383712",
+          "name": "Qianchu Liu"
+        },
+        {
+          "authorId": "1398728014",
+          "name": "Fernando P\u00e9rez-Garc\u00eda"
+        },
+        {
+          "authorId": "35186565",
+          "name": "Maximilian Ilse"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2854169",
+          "name": "Benedikt Boecking"
+        },
+        {
+          "authorId": "49068196",
+          "name": "H. Sharma"
+        },
+        {
+          "authorId": "2199938946",
+          "name": "Kenza Bouzid"
+        },
+        {
+          "authorId": "1944467",
+          "name": "Anja Thieme"
+        },
+        {
+          "authorId": "2071649",
+          "name": "A. Schwaighofer"
+        },
+        {
+          "authorId": "2223845249",
+          "name": "M. Wetscherek"
+        },
+        {
+          "authorId": "4204731",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "b95a75ef4c04e8279f5ceea79de3e63a6263636f",
+      "publicationVenue": {
+        "id": "d5e5b5e7-54b1-4f53-82fc-4853f3e71c58",
+        "name": "medRxiv",
+        "type": "journal",
+        "url": "https://www.medrxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b95a75ef4c04e8279f5ceea79de3e63a6263636f",
+      "title": "Enabling large-scale screening of Barrett\u2019s esophagus using weakly supervised deep learning in histopathology",
+      "venue": "medRxiv",
+      "year": 2023,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "77436233",
+          "name": "K. Bouzid"
+        },
+        {
+          "authorId": "37050393",
+          "name": "H. Sharma"
+        },
+        {
+          "authorId": "2879552",
+          "name": "S. Killcoyne"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2071649",
+          "name": "A. Schwaighofer"
+        },
+        {
+          "authorId": "91070664",
+          "name": "M. Ilse"
+        },
+        {
+          "authorId": "4594575",
+          "name": "V. Salvatelli"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2056960880",
+          "name": "S. Murthy"
+        },
+        {
+          "authorId": "74922337",
+          "name": "L. Bordeaux"
+        },
+        {
+          "authorId": "152158056",
+          "name": "L. Moore"
+        },
+        {
+          "authorId": "1381566150",
+          "name": "M. O'Donovan"
+        },
+        {
+          "authorId": "12802680",
+          "name": "A. Thieme"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "143792977",
+          "name": "M. Gehrung"
+        },
+        {
+          "authorId": "2284985729",
+          "name": "J. Alvarez-Valle"
+        }
+      ]
+    },
+    {
+      "paperId": "8975f550eed321c203d3990692f82e3f7b112b8f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8975f550eed321c203d3990692f82e3f7b112b8f",
+      "title": "Deep Structural Causal Shape Models",
+      "venue": "ECCV Workshops",
+      "year": 2022,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2182427359",
+          "name": "Rajat Rasal"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2122367673",
+          "name": "Nick Pawlowski"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "939da3142e2e386696f997ff51a1d67c8f29a75c",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/939da3142e2e386696f997ff51a1d67c8f29a75c",
+      "title": "Analysing the effectiveness of a generative model for semi-supervised medical image segmentation",
+      "venue": "ML4H@NeurIPS",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1387974329",
+          "name": "Margherita Rosnati"
+        },
+        {
+          "authorId": "47841458",
+          "name": "Fabio De Sousa Ribeiro"
+        },
+        {
+          "authorId": "1483573919",
+          "name": "M. Monteiro"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "a1aeb5442e31276b197696f49b3243112a4049ce",
+      "publicationVenue": {
+        "id": "167fa0ca-e88a-4ef7-a16f-bc66c457c806",
+        "name": "European Conference on Computer Vision",
+        "type": "conference",
+        "alternate_names": [
+          "ECCV",
+          "Eur Conf Comput Vis"
+        ],
+        "url": "https://link.springer.com/conference/eccv"
+      },
+      "url": "https://www.semanticscholar.org/paper/a1aeb5442e31276b197696f49b3243112a4049ce",
+      "title": "Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing",
+      "venue": "European Conference on Computer Vision",
+      "year": 2022,
+      "citationCount": 218,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2854169",
+          "name": "Benedikt Boecking"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2071649",
+          "name": "A. Schwaighofer"
+        },
+        {
+          "authorId": "34918424",
+          "name": "Stephanie L. Hyland"
+        },
+        {
+          "authorId": "2223845249",
+          "name": "M. Wetscherek"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "fbd331561e3c720e806caa3b4805b0d97c3a54bc",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/fbd331561e3c720e806caa3b4805b0d97c3a54bc",
+      "title": "Analysing the e \u21b5 ectiveness of a generative model for semi-supervised medical image segmentation",
+      "venue": "",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1387974329",
+          "name": "Margherita Rosnati"
+        },
+        {
+          "authorId": "47841458",
+          "name": "Fabio De Sousa Ribeiro"
+        },
+        {
+          "authorId": "1483573919",
+          "name": "M. Monteiro"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "ff45f878a0c0cfa870816faca11ca8ce99b10a37",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ff45f878a0c0cfa870816faca11ca8ce99b10a37",
+      "title": "A Framework for Generating 3D Shape Counterfactuals",
+      "venue": "",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2182427359",
+          "name": "Rajat Rasal"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2122367673",
+          "name": "Nick Pawlowski"
+        }
+      ]
+    },
+    {
+      "paperId": "3df531adb5485772ba1dd7e0a5528fb830a8ece7",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3df531adb5485772ba1dd7e0a5528fb830a8ece7",
+      "title": "Hierarchical Analysis of Visual COVID-19 Features from Chest Radiographs",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2599665",
+          "name": "M. Bernhardt"
+        },
+        {
+          "authorId": "2071649",
+          "name": "A. Schwaighofer"
+        },
+        {
+          "authorId": "1804582",
+          "name": "R. Jena"
+        },
+        {
+          "authorId": "2571049",
+          "name": "Besmira Nushi"
+        },
+        {
+          "authorId": "6276706",
+          "name": "S. Wadhwani"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "32477917",
+          "name": "K. Natarajan"
+        },
+        {
+          "authorId": "2119280691",
+          "name": "S. Ashraf"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        }
+      ]
+    },
+    {
+      "paperId": "71013b519b006ded65e9b67c2adc777348014554",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/71013b519b006ded65e9b67c2adc777348014554",
+      "title": "Active label cleaning: Improving dataset quality under resource constraints",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2068727983",
+          "name": "M\u00e9lanie Bernhardt"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "3480712",
+          "name": "Ryutaro Tanno"
+        },
+        {
+          "authorId": "2071649",
+          "name": "A. Schwaighofer"
+        },
+        {
+          "authorId": "4567913",
+          "name": "K. Tezcan"
+        },
+        {
+          "authorId": "2137891189",
+          "name": "Miguel Monteiro"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "4204731",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "768647acf0df36b10fe64322165e73bcb19939b6",
+      "publicationVenue": {
+        "id": "43b3f0f9-489a-4566-8164-02fafde3cd98",
+        "name": "Nature Communications",
+        "type": "journal",
+        "alternate_names": [
+          "Nat Commun"
+        ],
+        "issn": "2041-1723",
+        "url": "https://www.nature.com/ncomms/",
+        "alternate_urls": [
+          "http://www.nature.com/ncomms/about/index.html",
+          "http://www.nature.com/ncomms/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/768647acf0df36b10fe64322165e73bcb19939b6",
+      "title": "Active label cleaning for improved dataset quality under resource constraints",
+      "venue": "Nature Communications",
+      "year": 2021,
+      "citationCount": 72,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2068727983",
+          "name": "M\u00e9lanie Bernhardt"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "3480712",
+          "name": "Ryutaro Tanno"
+        },
+        {
+          "authorId": "2071649",
+          "name": "A. Schwaighofer"
+        },
+        {
+          "authorId": "4567913",
+          "name": "K. Tezcan"
+        },
+        {
+          "authorId": "1483573919",
+          "name": "M. Monteiro"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "4204731",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "0701c85b019ee2b7971b83f017dff5b758ba879c",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0701c85b019ee2b7971b83f017dff5b758ba879c",
+      "title": "Stochastic Segmentation Networks: Modelling Spatially Correlated Aleatoric Uncertainty",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "citationCount": 110,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2137891189",
+          "name": "Miguel Monteiro"
+        },
+        {
+          "authorId": "2411551",
+          "name": "L. L. Folgoc"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "39034356",
+          "name": "Nick Pawlowski"
+        },
+        {
+          "authorId": "2118926466",
+          "name": "Bernardo Marques"
+        },
+        {
+          "authorId": "3371321",
+          "name": "K. Kamnitsas"
+        },
+        {
+          "authorId": "33567216",
+          "name": "Mark van der Wilk"
+        },
+        {
+          "authorId": "1381873274",
+          "name": "B. Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "0c7bbf73f9e43158c86b336b8b052e85e747a308",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0c7bbf73f9e43158c86b336b8b052e85e747a308",
+      "title": "Image-level Harmonization of Multi-Site Data using Image-and-Spatial Transformer Networks",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2020,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2067854834",
+          "name": "Robert Robinson"
+        },
+        {
+          "authorId": "35647880",
+          "name": "Q. Dou"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "3371321",
+          "name": "K. Kamnitsas"
+        },
+        {
+          "authorId": "8592785",
+          "name": "M. Groot"
+        },
+        {
+          "authorId": "144838131",
+          "name": "R. Summers"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        },
+        {
+          "authorId": "1381873274",
+          "name": "B. Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "4b1f9400115644489aefb256eecdf120eb2d312f",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4b1f9400115644489aefb256eecdf120eb2d312f",
+      "title": "Deep Structural Causal Models for Tractable Counterfactual Inference",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "citationCount": 222,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "39034356",
+          "name": "Nick Pawlowski"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "1381873274",
+          "name": "B. Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "cf62ea914530ac158d77916c79a0d3f19c6bd6f0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/cf62ea914530ac158d77916c79a0d3f19c6bd6f0",
+      "title": "Joint probabilistic modelling of images and non-imaging covariates: a causal perspective",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        }
+      ]
+    },
+    {
+      "paperId": "082e8b2667653d800b5b53d44c16357ee4fe9255",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/082e8b2667653d800b5b53d44c16357ee4fe9255",
+      "title": "Machine Learning with Multi-Site Imaging Data: An Empirical Study on the Impact of Scanner Effects",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 89,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering",
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "1381873274",
+          "name": "B. Glocker"
+        },
+        {
+          "authorId": "2067854834",
+          "name": "Robert Robinson"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "35647880",
+          "name": "Q. Dou"
+        },
+        {
+          "authorId": "1796918",
+          "name": "E. Konukoglu"
+        }
+      ]
+    },
+    {
+      "paperId": "19e1862c3f73e0991a005a4344898ddb4b3fe5af",
+      "publicationVenue": {
+        "id": "8c4f911f-84c7-4e8e-87ed-96b3d4c55774",
+        "name": "Information Processing in Medical Imaging",
+        "type": "conference",
+        "alternate_names": [
+          "Inf Process Med Imaging",
+          "IPMI"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Information_Processing_in_Medical_Imaging"
+      },
+      "url": "https://www.semanticscholar.org/paper/19e1862c3f73e0991a005a4344898ddb4b3fe5af",
+      "title": "Controlling Meshes via Curvature: Spin Transformations for Pose-Invariant Shape Processing",
+      "venue": "Information Processing in Medical Imaging",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Physics",
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2411551",
+          "name": "L. L. Folgoc"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "144748334",
+          "name": "Jeremy Tan"
+        },
+        {
+          "authorId": "15086226",
+          "name": "B. Khanal"
+        },
+        {
+          "authorId": "3371321",
+          "name": "K. Kamnitsas"
+        },
+        {
+          "authorId": "2064707066",
+          "name": "Ian Walker"
+        },
+        {
+          "authorId": "3157735",
+          "name": "A. Alansary"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "425b4de3e54b8a80147c12f2a4a8fe3f88c2a5b6",
+      "publicationVenue": {
+        "id": "43b3f0f9-489a-4566-8164-02fafde3cd98",
+        "name": "Nature Communications",
+        "type": "journal",
+        "alternate_names": [
+          "Nat Commun"
+        ],
+        "issn": "2041-1723",
+        "url": "https://www.nature.com/ncomms/",
+        "alternate_urls": [
+          "http://www.nature.com/ncomms/about/index.html",
+          "http://www.nature.com/ncomms/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/425b4de3e54b8a80147c12f2a4a8fe3f88c2a5b6",
+      "title": "Causality matters in medical imaging",
+      "venue": "Nature Communications",
+      "year": 2019,
+      "citationCount": 329,
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2064707066",
+          "name": "Ian Walker"
+        },
+        {
+          "authorId": "1381873274",
+          "name": "B. Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "9f93e2de4c24acd3ffb10efae1c849a63830148d",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9f93e2de4c24acd3ffb10efae1c849a63830148d",
+      "title": "Domain Generalization via Model-Agnostic Learning of Semantic Features",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "citationCount": 671,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "35647880",
+          "name": "Q. Dou"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "3371321",
+          "name": "K. Kamnitsas"
+        },
+        {
+          "authorId": "1381873274",
+          "name": "B. Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "0f504de06fa6ed1e57fedad6219a0516808ac4b7",
+      "publicationVenue": {
+        "id": "c22e7c36-3bfa-43e1-bb7b-edccdea2a780",
+        "name": "Journal of machine learning research",
+        "type": "journal",
+        "alternate_names": [
+          "Journal of Machine Learning Research",
+          "J mach learn res",
+          "J Mach Learn Res"
+        ],
+        "issn": "1532-4435",
+        "alternate_issns": [
+          "1533-7928"
+        ],
+        "url": "http://www.ai.mit.edu/projects/jmlr/",
+        "alternate_urls": [
+          "http://jmlr.csail.mit.edu/",
+          "http://www.jmlr.org/",
+          "http://portal.acm.org/affiliated/jmlr"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0f504de06fa6ed1e57fedad6219a0516808ac4b7",
+      "title": "Morpho-MNIST: Quantitative Assessment and Diagnostics for Representation Learning",
+      "venue": "Journal of machine learning research",
+      "year": 2018,
+      "citationCount": 68,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "144748334",
+          "name": "Jeremy Tan"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "1796918",
+          "name": "E. Konukoglu"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "1202aefea3ddfbb1384828e2c8b5631fb7cf6c26",
+      "publicationVenue": {
+        "id": "167fa0ca-e88a-4ef7-a16f-bc66c457c806",
+        "name": "European Conference on Computer Vision",
+        "type": "conference",
+        "alternate_names": [
+          "ECCV",
+          "Eur Conf Comput Vis"
+        ],
+        "url": "https://link.springer.com/conference/eccv"
+      },
+      "url": "https://www.semanticscholar.org/paper/1202aefea3ddfbb1384828e2c8b5631fb7cf6c26",
+      "title": "From Face Recognition to Models of Identity: A Bayesian Approach to Learning about Unknown Identities from Unsupervised Data",
+      "venue": "European Conference on Computer Vision",
+      "year": 2018,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2388416",
+          "name": "Sebastian Nowozin"
+        }
+      ]
+    },
+    {
+      "paperId": "2023355a4592ca98ec9958ea44c30112224563c4",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2023355a4592ca98ec9958ea44c30112224563c4",
+      "title": "Cardiac MR Segmentation from Undersampled k-space Using Deep Latent Representation Learning",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2018,
+      "citationCount": 43,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "9952952",
+          "name": "Jo Schlemper"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "145111198",
+          "name": "J. Duan"
+        },
+        {
+          "authorId": "143771778",
+          "name": "C. Qin"
+        },
+        {
+          "authorId": "1717846",
+          "name": "J. Hajnal"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "26a45b83eb5cf6606f9de352acdae00487e116bb",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/26a45b83eb5cf6606f9de352acdae00487e116bb",
+      "title": "Semi-Supervised Learning via Compact Latent Space Clustering",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "citationCount": 88,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "3371321",
+          "name": "K. Kamnitsas"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2411551",
+          "name": "L. L. Folgoc"
+        },
+        {
+          "authorId": "2064707066",
+          "name": "Ian Walker"
+        },
+        {
+          "authorId": "3480712",
+          "name": "Ryutaro Tanno"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "1716777",
+          "name": "A. Criminisi"
+        },
+        {
+          "authorId": "34894873",
+          "name": "A. Nori"
+        }
+      ]
+    },
+    {
+      "paperId": "4b5d38e53c9b6f56d66b48fd556e70a46a22fd67",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/4b5d38e53c9b6f56d66b48fd556e70a46a22fd67",
+      "title": "Contextual Face Recognition with a Nested-Hierarchical Nonparametric Identity Model",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2388416",
+          "name": "Sebastian Nowozin"
+        }
+      ]
+    },
+    {
+      "paperId": "60ca2cf00e644b23a434d56b4fcfff7d633cb4ea",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/60ca2cf00e644b23a434d56b4fcfff7d633cb4ea",
+      "title": "Nonparametric Density Flows for MRI Intensity Normalisation",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2018,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "d863167e875a2857c94ef98b9b978fa0aaad2dab",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d863167e875a2857c94ef98b9b978fa0aaad2dab",
+      "title": "Bayesian Deep Learning for Accelerated MR Image Reconstruction",
+      "venue": "MLMIR@MICCAI",
+      "year": 2018,
+      "citationCount": 36,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "9952952",
+          "name": "Jo Schlemper"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "143771778",
+          "name": "C. Qin"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "145111198",
+          "name": "J. Duan"
+        },
+        {
+          "authorId": "34622519",
+          "name": "A. Price"
+        },
+        {
+          "authorId": "1717846",
+          "name": "J. Hajnal"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "13113789a93f1239facfeedbd6fb3a140cfb7720",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/13113789a93f1239facfeedbd6fb3a140cfb7720",
+      "title": "Dirichlet Process Mixture Models : Application to Brain Image Segmentation",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        }
+      ]
+    },
+    {
+      "paperId": "a4297ae3b7dd5f9673eed8a0f4a4aba12162f273",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a4297ae3b7dd5f9673eed8a0f4a4aba12162f273",
+      "title": "M%C3%89TODOS DE KERNEL EM ESTIMA%C3%87%C3%83O DE IDADES",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        }
+      ]
+    }
+  ]
+}

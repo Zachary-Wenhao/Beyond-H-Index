@@ -1,0 +1,4856 @@
+{
+  "authorId": "51583409",
+  "name": "Bill Yuchen Lin",
+  "affiliations": [
+    "Allen Institute for AI (AI2)"
+  ],
+  "paperCount": 64,
+  "citationCount": 5863,
+  "hIndex": 35,
+  "papers": [
+    {
+      "paperId": "0bf85ecae19a6f64c5beea5ee7109cff5c0f4a42",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0bf85ecae19a6f64c5beea5ee7109cff5c0f4a42",
+      "title": "WildVision: Evaluating Vision-Language Models in the Wild with Human Preferences",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2257339858",
+          "name": "Yujie Lu"
+        },
+        {
+          "authorId": "2197076899",
+          "name": "Dongfu Jiang"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "2257130316",
+          "name": "William Yang Wang"
+        },
+        {
+          "authorId": "2266363632",
+          "name": "Yejin Choi"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "2139e414bdf6a5ea7ec4052d3f65a8d49991494b",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2139e414bdf6a5ea7ec4052d3f65a8d49991494b",
+      "title": "SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2024,
+      "citationCount": 78,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2268640874",
+          "name": "Zhangchen Xu"
+        },
+        {
+          "authorId": "2268521947",
+          "name": "Fengqing Jiang"
+        },
+        {
+          "authorId": "152145884",
+          "name": "Luyao Niu"
+        },
+        {
+          "authorId": "2256966137",
+          "name": "Jinyuan Jia"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "144786412",
+          "name": "R. Poovendran"
+        }
+      ]
+    },
+    {
+      "paperId": "5d12dfd7278cb8da26f9fd1956cad3c15cea9863",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/5d12dfd7278cb8da26f9fd1956cad3c15cea9863",
+      "title": "WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 58,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2268298457",
+          "name": "Yuntian Deng"
+        },
+        {
+          "authorId": "2302810573",
+          "name": "K. Chandu"
+        },
+        {
+          "authorId": "2223951216",
+          "name": "Faeze Brahman"
+        },
+        {
+          "authorId": "3023068",
+          "name": "Abhilasha Ravichander"
+        },
+        {
+          "authorId": "22330666",
+          "name": "Valentina Pyatkin"
+        },
+        {
+          "authorId": "46217681",
+          "name": "Nouha Dziri"
+        },
+        {
+          "authorId": "2069676542",
+          "name": "R. L. Bras"
+        },
+        {
+          "authorId": "2257385142",
+          "name": "Yejin Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "5e25c253b0c3fb159c9581131e22b6e9f615619c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/5e25c253b0c3fb159c9581131e22b6e9f615619c",
+      "title": "Latent Action Pretraining from Videos",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152111477",
+          "name": "Seonghyeon Ye"
+        },
+        {
+          "authorId": "2000091730",
+          "name": "Joel Jang"
+        },
+        {
+          "authorId": "2325955855",
+          "name": "Byeongguk Jeon"
+        },
+        {
+          "authorId": "102540266",
+          "name": "Se June Joo"
+        },
+        {
+          "authorId": "2279705714",
+          "name": "Jianwei Yang"
+        },
+        {
+          "authorId": "1780690",
+          "name": "Baolin Peng"
+        },
+        {
+          "authorId": "49686756",
+          "name": "Ajay Mandlekar"
+        },
+        {
+          "authorId": "73441526",
+          "name": "Reuben Tan"
+        },
+        {
+          "authorId": "2306062337",
+          "name": "Yu-Wei Chao"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "145417002",
+          "name": "Lars Lid\u00e9n"
+        },
+        {
+          "authorId": "2326074865",
+          "name": "Kimin Lee"
+        },
+        {
+          "authorId": "2295522725",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "2325955099",
+          "name": "Luke Zettlemoyer"
+        },
+        {
+          "authorId": "2258436157",
+          "name": "Dieter Fox"
+        },
+        {
+          "authorId": "2266468609",
+          "name": "Minjoon Seo"
+        }
+      ]
+    },
+    {
+      "paperId": "8e9088c102b3714ae4e5cac7ced93a59804bfc7c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/8e9088c102b3714ae4e5cac7ced93a59804bfc7c",
+      "title": "RewardBench: Evaluating Reward Models for Language Modeling",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 191,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2052363815",
+          "name": "Nathan Lambert"
+        },
+        {
+          "authorId": "22330666",
+          "name": "Valentina Pyatkin"
+        },
+        {
+          "authorId": "2146964035",
+          "name": "Jacob Daniel Morrison"
+        },
+        {
+          "authorId": "13614871",
+          "name": "Lester James Validad Miranda"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "37619618",
+          "name": "Khyathi Raghavi Chandu"
+        },
+        {
+          "authorId": "46217681",
+          "name": "Nouha Dziri"
+        },
+        {
+          "authorId": "2282203839",
+          "name": "Sachin Kumar"
+        },
+        {
+          "authorId": "2297848637",
+          "name": "Tom Zick"
+        },
+        {
+          "authorId": "2257385142",
+          "name": "Yejin Choi"
+        },
+        {
+          "authorId": "2292425227",
+          "name": "Noah A. Smith"
+        },
+        {
+          "authorId": "2264251662",
+          "name": "Hanna Hajishirzi"
+        }
+      ]
+    },
+    {
+      "paperId": "cab3d65b3f4d0a4169d0fdaaed15af6be1d6bb84",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/cab3d65b3f4d0a4169d0fdaaed15af6be1d6bb84",
+      "title": "Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 94,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2268640874",
+          "name": "Zhangchen Xu"
+        },
+        {
+          "authorId": "2268521947",
+          "name": "Fengqing Jiang"
+        },
+        {
+          "authorId": "152145884",
+          "name": "Luyao Niu"
+        },
+        {
+          "authorId": "2268298457",
+          "name": "Yuntian Deng"
+        },
+        {
+          "authorId": "144786412",
+          "name": "R. Poovendran"
+        },
+        {
+          "authorId": "2285939518",
+          "name": "Yejin Choi"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "f95da5b7be2fac2381eb5dfe26dc7dc5bc2d9a90",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f95da5b7be2fac2381eb5dfe26dc7dc5bc2d9a90",
+      "title": "Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2024,
+      "citationCount": 57,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2183730942",
+          "name": "Yifan Song"
+        },
+        {
+          "authorId": "2290020893",
+          "name": "Da Yin"
+        },
+        {
+          "authorId": "2290027509",
+          "name": "Xiang Yue"
+        },
+        {
+          "authorId": "2290030301",
+          "name": "Jie Huang"
+        },
+        {
+          "authorId": "2257095532",
+          "name": "Sujian Li"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "06396c7cd5d223a1776abf8811359ec7bc05d420",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/06396c7cd5d223a1776abf8811359ec7bc05d420",
+      "title": "Knowledge-Augmented Methods for Natural Language Processing",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1456009348",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "authorId": "2110197273",
+          "name": "Yichong Xu"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "144812586",
+          "name": "Meng Jiang"
+        },
+        {
+          "authorId": "70461341",
+          "name": "Wenhao Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "0b0525a0fdc1e18978e9861dcb4544a90c2e70ce",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0b0525a0fdc1e18978e9861dcb4544a90c2e70ce",
+      "title": "Agent Lumos: Unified and Modular Training for Open-Source Language Agents",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144508458",
+          "name": "Da Yin"
+        },
+        {
+          "authorId": "2223951216",
+          "name": "Faeze Brahman"
+        },
+        {
+          "authorId": "3023068",
+          "name": "Abhilasha Ravichander"
+        },
+        {
+          "authorId": "37619618",
+          "name": "Khyathi Raghavi Chandu"
+        },
+        {
+          "authorId": "2259015895",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "2266363632",
+          "name": "Yejin Choi"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "3f459219d75de63b5b7a26a8c6447ec1e79a985c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3f459219d75de63b5b7a26a8c6447ec1e79a985c",
+      "title": "LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 172,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "31937655",
+          "name": "Chengsong Huang"
+        },
+        {
+          "authorId": "1409707585",
+          "name": "Qian Liu"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "19201674",
+          "name": "Tianyu Pang"
+        },
+        {
+          "authorId": "144369497",
+          "name": "Chao Du"
+        },
+        {
+          "authorId": "1491081747",
+          "name": "Min Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "600d9287efc4703bdb99ce39b5e8b37da0baa6f6",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/600d9287efc4703bdb99ce39b5e8b37da0baa6f6",
+      "title": "The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 155,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "3023068",
+          "name": "Abhilasha Ravichander"
+        },
+        {
+          "authorId": "50085131",
+          "name": "Ximing Lu"
+        },
+        {
+          "authorId": "46217681",
+          "name": "Nouha Dziri"
+        },
+        {
+          "authorId": "1947172233",
+          "name": "Melanie Sclar"
+        },
+        {
+          "authorId": "37619618",
+          "name": "Khyathi Raghavi Chandu"
+        },
+        {
+          "authorId": "1857797",
+          "name": "Chandra Bhagavatula"
+        },
+        {
+          "authorId": "2259707400",
+          "name": "Yejin Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "7d97c17a75beb89f938eaac1d3ca60ac2245fb2e",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7d97c17a75beb89f938eaac1d3ca60ac2245fb2e",
+      "title": "Faith and Fate: Limits of Transformers on Compositionality",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 313,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46217681",
+          "name": "Nouha Dziri"
+        },
+        {
+          "authorId": "50085131",
+          "name": "Ximing Lu"
+        },
+        {
+          "authorId": "1947172233",
+          "name": "Melanie Sclar"
+        },
+        {
+          "authorId": "1737850",
+          "name": "Xiang Lorraine Li"
+        },
+        {
+          "authorId": "2218495662",
+          "name": "Liwei Jian"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "119659229",
+          "name": "Peter West"
+        },
+        {
+          "authorId": "1857797",
+          "name": "Chandra Bhagavatula"
+        },
+        {
+          "authorId": "39227408",
+          "name": "Ronan Le Bras"
+        },
+        {
+          "authorId": "2012510",
+          "name": "Jena D. Hwang"
+        },
+        {
+          "authorId": "3313909",
+          "name": "Soumya Sanyal"
+        },
+        {
+          "authorId": "2129663",
+          "name": "S. Welleck"
+        },
+        {
+          "authorId": "145201124",
+          "name": "Xiang Ren"
+        },
+        {
+          "authorId": "37907837",
+          "name": "Allyson Ettinger"
+        },
+        {
+          "authorId": "1753355",
+          "name": "Za\u00efd Harchaoui"
+        },
+        {
+          "authorId": "1699545",
+          "name": "Yejin Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "8ef998813b07cb6d8e78d8af96173a3c35088462",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8ef998813b07cb6d8e78d8af96173a3c35088462",
+      "title": "Complex Reasoning in Natural Languag",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2954369",
+          "name": "Wenting Zhao"
+        },
+        {
+          "authorId": "22245981",
+          "name": "Mor Geva"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "19168196",
+          "name": "Michihiro Yasunaga"
+        },
+        {
+          "authorId": "21626987",
+          "name": "Aman Madaan"
+        },
+        {
+          "authorId": null,
+          "name": "Tao Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "993df7df129f8d18816877d69923d7df7b347d85",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/993df7df129f8d18816877d69923d7df7b347d85",
+      "title": "LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 240,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2197076899",
+          "name": "Dongfu Jiang"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "9bf00afb0efb02a263fa3ddea1e768677498536c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/9bf00afb0efb02a263fa3ddea1e768677498536c",
+      "title": "Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 119,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2000091730",
+          "name": "Joel Jang"
+        },
+        {
+          "authorId": "2184037220",
+          "name": "Seungone Kim"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "1705260",
+          "name": "Yizhong Wang"
+        },
+        {
+          "authorId": "2689239",
+          "name": "Jack Hessel"
+        },
+        {
+          "authorId": "2137813791",
+          "name": "Luke S. Zettlemoyer"
+        },
+        {
+          "authorId": "2548384",
+          "name": "Hannaneh Hajishirzi"
+        },
+        {
+          "authorId": "2253903625",
+          "name": "Yejin Choi"
+        },
+        {
+          "authorId": "2233163820",
+          "name": "Prithviraj Ammanabrolu"
+        }
+      ]
+    },
+    {
+      "paperId": "c74e9642ec71c6dfaadd3b8638c110d4048ff53e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/c74e9642ec71c6dfaadd3b8638c110d4048ff53e",
+      "title": "Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "15563286",
+          "name": "Jiaxian Guo"
+        },
+        {
+          "authorId": "2249871674",
+          "name": "Bo Yang"
+        },
+        {
+          "authorId": "143626110",
+          "name": "Paul Yoo"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "1715282",
+          "name": "Yusuke Iwasawa"
+        },
+        {
+          "authorId": "2241471533",
+          "name": "Yutaka Matsuo"
+        }
+      ]
+    },
+    {
+      "paperId": "ca991e0283a1c30a46eb585d9eb499fc0ec8ecc2",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/ca991e0283a1c30a46eb585d9eb499fc0ec8ecc2",
+      "title": "Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50085131",
+          "name": "Ximing Lu"
+        },
+        {
+          "authorId": "9252833",
+          "name": "Faeze Brahman"
+        },
+        {
+          "authorId": "119659229",
+          "name": "Peter West"
+        },
+        {
+          "authorId": "2148334242",
+          "name": "Jaehun Jang"
+        },
+        {
+          "authorId": "37619618",
+          "name": "Khyathi Raghavi Chandu"
+        },
+        {
+          "authorId": "3023068",
+          "name": "Abhilasha Ravichander"
+        },
+        {
+          "authorId": "3444092",
+          "name": "Lianhui Qin"
+        },
+        {
+          "authorId": "19179135",
+          "name": "Prithviraj Ammanabrolu"
+        },
+        {
+          "authorId": "2112504145",
+          "name": "Liwei Jiang"
+        },
+        {
+          "authorId": "1399403094",
+          "name": "Sahana Ramnath"
+        },
+        {
+          "authorId": "46217681",
+          "name": "Nouha Dziri"
+        },
+        {
+          "authorId": "33772445",
+          "name": "Jillian R. Fisher"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "1474550731",
+          "name": "Skyler Hallinan"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        },
+        {
+          "authorId": "2129663",
+          "name": "S. Welleck"
+        },
+        {
+          "authorId": "1699545",
+          "name": "Yejin Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "d238a9770d24d0725656ef6cf4789afebf2126e7",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d238a9770d24d0725656ef6cf4789afebf2126e7",
+      "title": "TIGERScore: Towards Building Explainable Metric for All Text Generation Tasks",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2023,
+      "citationCount": 52,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2197076899",
+          "name": "Dongfu Jiang"
+        },
+        {
+          "authorId": "2249846254",
+          "name": "Yishan Li"
+        },
+        {
+          "authorId": "2143853895",
+          "name": "Ge Zhang"
+        },
+        {
+          "authorId": "2239245627",
+          "name": "Wenhao Huang"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2253811180",
+          "name": "Wenhu Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "d671d62a1eb4d57343e4a0928297266dffc0c118",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d671d62a1eb4d57343e4a0928297266dffc0c118",
+      "title": "SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 120,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "1998914086",
+          "name": "Yicheng Fu"
+        },
+        {
+          "authorId": "2218576699",
+          "name": "Karina Yang"
+        },
+        {
+          "authorId": "19179135",
+          "name": "Prithviraj Ammanabrolu"
+        },
+        {
+          "authorId": "9252833",
+          "name": "Faeze Brahman"
+        },
+        {
+          "authorId": "9932998",
+          "name": "Shiyu Huang"
+        },
+        {
+          "authorId": "1857797",
+          "name": "Chandra Bhagavatula"
+        },
+        {
+          "authorId": "1699545",
+          "name": "Yejin Choi"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "011c2b5a08c32e57f7c55539a1944bc733f83aa3",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/011c2b5a08c32e57f7c55539a1944bc733f83aa3",
+      "title": "On Continual Model Refinement in Out-of-Distribution Data Streams",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "8729431",
+          "name": "Sida I. Wang"
+        },
+        {
+          "authorId": "143724481",
+          "name": "Xi Victoria Lin"
+        },
+        {
+          "authorId": "3422908",
+          "name": "Robin Jia"
+        },
+        {
+          "authorId": "2149552417",
+          "name": "Lin Xiao"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        },
+        {
+          "authorId": "2072801764",
+          "name": "Wen-tau Yih"
+        }
+      ]
+    },
+    {
+      "paperId": "1ac34e47c73f03e252a1a879b638bd8dca40d03b",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/1ac34e47c73f03e252a1a879b638bd8dca40d03b",
+      "title": "PairReranker: Pairwise Reranking for Natural Language Generation",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2197076899",
+          "name": "Dongfu Jiang"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "59b71e2a248d67a2692bc7e35faa504ee2dbc98d",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/59b71e2a248d67a2692bc7e35faa504ee2dbc98d",
+      "title": "On Grounded Planning for Embodied Tasks with Language Models",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2022,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "31937655",
+          "name": "Chengsong Huang"
+        },
+        {
+          "authorId": "1409707585",
+          "name": "Qian Liu"
+        },
+        {
+          "authorId": "2061382823",
+          "name": "Wenda Gu"
+        },
+        {
+          "authorId": "2167029786",
+          "name": "Sam Sommerer"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "b71c245e093568d8c95aa889f968ce72b18e3d8b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b71c245e093568d8c95aa889f968ce72b18e3d8b",
+      "title": "The First Workshop on Commonsense Representation and Reasoning May 27 , 2022",
+      "venue": "",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2691021",
+          "name": "Antoine Bosselut"
+        },
+        {
+          "authorId": "89919188",
+          "name": "Xiangci Li"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2078500775",
+          "name": "Vered Schwartz"
+        },
+        {
+          "authorId": "2166151918",
+          "name": "Bodhisattwa Prasad Majumdar"
+        },
+        {
+          "authorId": "27604402",
+          "name": "Yash Kumar Lal"
+        },
+        {
+          "authorId": "2034613",
+          "name": "Rachel Rudinger"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        },
+        {
+          "authorId": "1721168",
+          "name": "Niket Tandon"
+        },
+        {
+          "authorId": "2107964931",
+          "name": "Yucheng Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "bd1331b233e84bab7eba503abc60b31ac08e7881",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/bd1331b233e84bab7eba503abc60b31ac08e7881",
+      "title": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 1627,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2169175069",
+          "name": "Aarohi Srivastava"
+        },
+        {
+          "authorId": "2188497",
+          "name": "Abhinav Rastogi"
+        },
+        {
+          "authorId": "1484043592",
+          "name": "Abhishek Rao"
+        },
+        {
+          "authorId": "2248610",
+          "name": "Abu Awal Md Shoeb"
+        },
+        {
+          "authorId": "144948925",
+          "name": "Abubakar Abid"
+        },
+        {
+          "authorId": "2064150446",
+          "name": "Adam Fisch"
+        },
+        {
+          "authorId": "2254150367",
+          "name": "Adam R. Brown"
+        },
+        {
+          "authorId": "2253463637",
+          "name": "Adam Santoro"
+        },
+        {
+          "authorId": "2254858472",
+          "name": "Aditya Gupta"
+        },
+        {
+          "authorId": "1388513000",
+          "name": "Adri\u00e0 Garriga-Alonso"
+        },
+        {
+          "authorId": "2169552920",
+          "name": "Agnieszka Kluska"
+        },
+        {
+          "authorId": "102549875",
+          "name": "Aitor Lewkowycz"
+        },
+        {
+          "authorId": "2253472327",
+          "name": "Akshat Agarwal"
+        },
+        {
+          "authorId": "146162186",
+          "name": "Alethea Power"
+        },
+        {
+          "authorId": "2253525058",
+          "name": "Alex Ray"
+        },
+        {
+          "authorId": "46236380",
+          "name": "Alex Warstadt"
+        },
+        {
+          "authorId": "49502890",
+          "name": "Alexander W. Kocurek"
+        },
+        {
+          "authorId": "150920423",
+          "name": "Ali Safaya"
+        },
+        {
+          "authorId": "30615457",
+          "name": "Ali Tazarv"
+        },
+        {
+          "authorId": "2253627565",
+          "name": "Alice Xiang"
+        },
+        {
+          "authorId": "119389860",
+          "name": "Alicia Parrish"
+        },
+        {
+          "authorId": "2253756381",
+          "name": "Allen Nie"
+        },
+        {
+          "authorId": "2254089780",
+          "name": "Aman Hussain"
+        },
+        {
+          "authorId": "2220750220",
+          "name": "Amanda Askell"
+        },
+        {
+          "authorId": "2169546807",
+          "name": "Amanda Dsouza"
+        },
+        {
+          "authorId": "133666998",
+          "name": "Ambrose Slone"
+        },
+        {
+          "authorId": "1397271551",
+          "name": "Ameet Rahane"
+        },
+        {
+          "authorId": "2169441753",
+          "name": "Anantharaman S. Iyer"
+        },
+        {
+          "authorId": "39552848",
+          "name": "Anders Andreassen"
+        },
+        {
+          "authorId": "3064807",
+          "name": "Andrea Madotto"
+        },
+        {
+          "authorId": "2065039862",
+          "name": "Andrea Santilli"
+        },
+        {
+          "authorId": "2169579494",
+          "name": "Andreas Stuhlmuller"
+        },
+        {
+          "authorId": "2253757717",
+          "name": "Andrew M. Dai"
+        },
+        {
+          "authorId": "2253744892",
+          "name": "Andrew La"
+        },
+        {
+          "authorId": "32322945",
+          "name": "Andrew Kyle Lampinen"
+        },
+        {
+          "authorId": "1380103052",
+          "name": "Andy Zou"
+        },
+        {
+          "authorId": "2253471334",
+          "name": "Angela Jiang"
+        },
+        {
+          "authorId": "13336152",
+          "name": "Angelica Chen"
+        },
+        {
+          "authorId": "2064058890",
+          "name": "Anh Vuong"
+        },
+        {
+          "authorId": "2110763559",
+          "name": "Animesh Gupta"
+        },
+        {
+          "authorId": "1411423941",
+          "name": "Anna Gottardi"
+        },
+        {
+          "authorId": "1596822208",
+          "name": "Antonio Norelli"
+        },
+        {
+          "authorId": "47851456",
+          "name": "Anu Venkatesh"
+        },
+        {
+          "authorId": "1396646913",
+          "name": "Arash Gholamidavoodi"
+        },
+        {
+          "authorId": "2265068115",
+          "name": "A. Tabassum"
+        },
+        {
+          "authorId": "2253477913",
+          "name": "Arul Menezes"
+        },
+        {
+          "authorId": "1417449913",
+          "name": "Arun Kirubarajan"
+        },
+        {
+          "authorId": "3567738",
+          "name": "Asher Mullokandov"
+        },
+        {
+          "authorId": "48229640",
+          "name": "Ashish Sabharwal"
+        },
+        {
+          "authorId": "103829114",
+          "name": "Austin Herrick"
+        },
+        {
+          "authorId": "1388010852",
+          "name": "Avia Efrat"
+        },
+        {
+          "authorId": "2253752451",
+          "name": "Aykut Erdem"
+        },
+        {
+          "authorId": "2169560863",
+          "name": "Ayla Karakacs"
+        },
+        {
+          "authorId": "2253506707",
+          "name": "B. R. Roberts"
+        },
+        {
+          "authorId": "25229391",
+          "name": "B. S. Loe"
+        },
+        {
+          "authorId": "2368067",
+          "name": "Barret Zoph"
+        },
+        {
+          "authorId": "2169579430",
+          "name": "Bartlomiej Bojanowski"
+        },
+        {
+          "authorId": "2169579156",
+          "name": "Batuhan Ozyurt"
+        },
+        {
+          "authorId": "2127328167",
+          "name": "Behnam Hedayatnia"
+        },
+        {
+          "authorId": "3007442",
+          "name": "Behnam Neyshabur"
+        },
+        {
+          "authorId": "2911198",
+          "name": "Benjamin Inden"
+        },
+        {
+          "authorId": "1405867539",
+          "name": "Benno Stein"
+        },
+        {
+          "authorId": "3407537",
+          "name": "Berk Ekmekci"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "1759660",
+          "name": "B. Howald"
+        },
+        {
+          "authorId": "2253742181",
+          "name": "Bryan Orinion"
+        },
+        {
+          "authorId": "2113828270",
+          "name": "Cameron Diao"
+        },
+        {
+          "authorId": "2169579131",
+          "name": "Cameron Dour"
+        },
+        {
+          "authorId": "2253742142",
+          "name": "Catherine Stinson"
+        },
+        {
+          "authorId": "2080698457",
+          "name": "Cedrick Argueta"
+        },
+        {
+          "authorId": "2169282994",
+          "name": "C'esar Ferri Ram'irez"
+        },
+        {
+          "authorId": "2253649838",
+          "name": "Chandan Singh"
+        },
+        {
+          "authorId": "30465886",
+          "name": "Charles Rathkopf"
+        },
+        {
+          "authorId": "83262128",
+          "name": "Chenlin Meng"
+        },
+        {
+          "authorId": "2064619864",
+          "name": "Chitta Baral"
+        },
+        {
+          "authorId": "2115397918",
+          "name": "Chiyu Wu"
+        },
+        {
+          "authorId": "1763608",
+          "name": "Chris Callison-Burch"
+        },
+        {
+          "authorId": "1451646307",
+          "name": "Chris Waites"
+        },
+        {
+          "authorId": "2253721294",
+          "name": "Christian Voigt"
+        },
+        {
+          "authorId": "2250402802",
+          "name": "Christopher D. Manning"
+        },
+        {
+          "authorId": "2253742954",
+          "name": "Christopher Potts"
+        },
+        {
+          "authorId": "1381594105",
+          "name": "Cindy Ramirez"
+        },
+        {
+          "authorId": "2253680456",
+          "name": "Clara E. Rivera"
+        },
+        {
+          "authorId": "2056776870",
+          "name": "Clemencia Siro"
+        },
+        {
+          "authorId": "2402716",
+          "name": "Colin Raffel"
+        },
+        {
+          "authorId": "2169255641",
+          "name": "Courtney Ashcraft"
+        },
+        {
+          "authorId": "3360992",
+          "name": "Cristina Garbacea"
+        },
+        {
+          "authorId": "2311890249",
+          "name": "Damien Sileo"
+        },
+        {
+          "authorId": "69045302",
+          "name": "Daniel H Garrette"
+        },
+        {
+          "authorId": "3422872",
+          "name": "Dan Hendrycks"
+        },
+        {
+          "authorId": "2051801993",
+          "name": "D. Kilman"
+        },
+        {
+          "authorId": "2249759427",
+          "name": "Dan Roth"
+        },
+        {
+          "authorId": "2253572738",
+          "name": "Daniel Freeman"
+        },
+        {
+          "authorId": "1783281",
+          "name": "Daniel Khashabi"
+        },
+        {
+          "authorId": "2052679852",
+          "name": "Daniel Levy"
+        },
+        {
+          "authorId": "1802312462",
+          "name": "D. Gonz'alez"
+        },
+        {
+          "authorId": "6472480",
+          "name": "Danielle R. Perszyk"
+        },
+        {
+          "authorId": "39182747",
+          "name": "Danny Hernandez"
+        },
+        {
+          "authorId": "2255489905",
+          "name": "Danqi Chen"
+        },
+        {
+          "authorId": "7975935",
+          "name": "Daphne Ippolito"
+        },
+        {
+          "authorId": "2343272216",
+          "name": "Dar Gilboa"
+        },
+        {
+          "authorId": "35363891",
+          "name": "David Dohan"
+        },
+        {
+          "authorId": "97501513",
+          "name": "D. Drakard"
+        },
+        {
+          "authorId": "3046220",
+          "name": "David Jurgens"
+        },
+        {
+          "authorId": "2852125",
+          "name": "Debajyoti Datta"
+        },
+        {
+          "authorId": "2081806483",
+          "name": "Deep Ganguli"
+        },
+        {
+          "authorId": "51889641",
+          "name": "Denis Emelin"
+        },
+        {
+          "authorId": "2193599771",
+          "name": "Denis Kleyko"
+        },
+        {
+          "authorId": "2253742671",
+          "name": "Deniz Yuret"
+        },
+        {
+          "authorId": "2253841704",
+          "name": "Derek Chen"
+        },
+        {
+          "authorId": "1390031652",
+          "name": "Derek Tam"
+        },
+        {
+          "authorId": "3449411",
+          "name": "Dieuwke Hupkes"
+        },
+        {
+          "authorId": "2253641873",
+          "name": "Diganta Misra"
+        },
+        {
+          "authorId": "2169553550",
+          "name": "Dilyar Buzan"
+        },
+        {
+          "authorId": "51127600",
+          "name": "Dimitri Coelho Mollo"
+        },
+        {
+          "authorId": "2254124345",
+          "name": "Diyi Yang"
+        },
+        {
+          "authorId": "2253883759",
+          "name": "Dong-Ho Lee"
+        },
+        {
+          "authorId": "2253751766",
+          "name": "Dylan Schrader"
+        },
+        {
+          "authorId": "2362276",
+          "name": "Ekaterina Shutova"
+        },
+        {
+          "authorId": "8132903",
+          "name": "E. D. Cubuk"
+        },
+        {
+          "authorId": "153401294",
+          "name": "Elad Segal"
+        },
+        {
+          "authorId": "83195245",
+          "name": "Eleanor Hagerman"
+        },
+        {
+          "authorId": "2057742918",
+          "name": "Elizabeth Barnes"
+        },
+        {
+          "authorId": "2339361939",
+          "name": "Elizabeth Donoway"
+        },
+        {
+          "authorId": "2949185",
+          "name": "Ellie Pavlick"
+        },
+        {
+          "authorId": "1796150",
+          "name": "E. Rodol\u00e0"
+        },
+        {
+          "authorId": "2253753565",
+          "name": "Emma Lam"
+        },
+        {
+          "authorId": "2253520497",
+          "name": "Eric Chu"
+        },
+        {
+          "authorId": "2090511698",
+          "name": "Eric Tang"
+        },
+        {
+          "authorId": "152330322",
+          "name": "Erkut Erdem"
+        },
+        {
+          "authorId": "48025720",
+          "name": "Ernie Chang"
+        },
+        {
+          "authorId": "2253469028",
+          "name": "Ethan A. Chi"
+        },
+        {
+          "authorId": "52136425",
+          "name": "Ethan Dyer"
+        },
+        {
+          "authorId": "87911177",
+          "name": "E. Jerzak"
+        },
+        {
+          "authorId": "2047591327",
+          "name": "Ethan Kim"
+        },
+        {
+          "authorId": "102184064",
+          "name": "Eunice Engefu Manyasi"
+        },
+        {
+          "authorId": "23913513",
+          "name": "Evgenii Zheltonozhskii"
+        },
+        {
+          "authorId": "2253581486",
+          "name": "Fanyue Xia"
+        },
+        {
+          "authorId": "16851583",
+          "name": "Fatemeh Siar"
+        },
+        {
+          "authorId": "2126497260",
+          "name": "Fernando Mart'inez-Plumed"
+        },
+        {
+          "authorId": "2169302468",
+          "name": "Francesca Happ'e"
+        },
+        {
+          "authorId": "1565641737",
+          "name": "Fran\u00e7ois Chollet"
+        },
+        {
+          "authorId": "2047004093",
+          "name": "Frieda Rong"
+        },
+        {
+          "authorId": "2159632445",
+          "name": "Gaurav Mishra"
+        },
+        {
+          "authorId": "9162688",
+          "name": "Genta Indra Winata"
+        },
+        {
+          "authorId": "2253752804",
+          "name": "Gerard de Melo"
+        },
+        {
+          "authorId": "2067996",
+          "name": "Germ\u00e1n Kruszewski"
+        },
+        {
+          "authorId": "50213542",
+          "name": "Giambattista Parascandolo"
+        },
+        {
+          "authorId": "2253744058",
+          "name": "Giorgio Mariani"
+        },
+        {
+          "authorId": "2143229090",
+          "name": "Gloria Xinyue Wang"
+        },
+        {
+          "authorId": "2169561208",
+          "name": "Gonzalo Jaimovitch-L'opez"
+        },
+        {
+          "authorId": "2253742347",
+          "name": "Gregor Betz"
+        },
+        {
+          "authorId": "2284681044",
+          "name": "Guy Gur-Ari"
+        },
+        {
+          "authorId": "2148236997",
+          "name": "Hana Galijasevic"
+        },
+        {
+          "authorId": "2254029693",
+          "name": "Hannah Kim"
+        },
+        {
+          "authorId": "2516777",
+          "name": "Hannah Rashkin"
+        },
+        {
+          "authorId": "2548384",
+          "name": "Hannaneh Hajishirzi"
+        },
+        {
+          "authorId": "18138802",
+          "name": "Harsh Mehta"
+        },
+        {
+          "authorId": "81356189",
+          "name": "H. Bogar"
+        },
+        {
+          "authorId": "66652934",
+          "name": "Henry Shevlin"
+        },
+        {
+          "authorId": "2261745622",
+          "name": "Hinrich Schutze"
+        },
+        {
+          "authorId": "2252055381",
+          "name": "H. Yakura"
+        },
+        {
+          "authorId": "2253956610",
+          "name": "Hongming Zhang"
+        },
+        {
+          "authorId": "2084554416",
+          "name": "Hugh Mee Wong"
+        },
+        {
+          "authorId": "2175479575",
+          "name": "Ian Ng"
+        },
+        {
+          "authorId": "146990369",
+          "name": "Isaac Noble"
+        },
+        {
+          "authorId": "2253757620",
+          "name": "Jaap Jumelet"
+        },
+        {
+          "authorId": "67288781",
+          "name": "Jack Geissinger"
+        },
+        {
+          "authorId": "1583434563",
+          "name": "John Kernion"
+        },
+        {
+          "authorId": "2052366271",
+          "name": "Jacob Hilton"
+        },
+        {
+          "authorId": "2253808003",
+          "name": "Jaehoon Lee"
+        },
+        {
+          "authorId": "1843342",
+          "name": "J. Fisac"
+        },
+        {
+          "authorId": "2253938438",
+          "name": "James B. Simon"
+        },
+        {
+          "authorId": "39465522",
+          "name": "James Koppel"
+        },
+        {
+          "authorId": "2254106317",
+          "name": "James Zheng"
+        },
+        {
+          "authorId": "2240530524",
+          "name": "James Zou"
+        },
+        {
+          "authorId": "2169553526",
+          "name": "Jan Koco'n"
+        },
+        {
+          "authorId": "2148444557",
+          "name": "Jana Thompson"
+        },
+        {
+          "authorId": "2253742801",
+          "name": "Janelle Wingfield"
+        },
+        {
+          "authorId": "2053807409",
+          "name": "Jared Kaplan"
+        },
+        {
+          "authorId": "2133262330",
+          "name": "Jarema Radom"
+        },
+        {
+          "authorId": "1407546424",
+          "name": "Jascha Narain Sohl-Dickstein"
+        },
+        {
+          "authorId": "80842917",
+          "name": "Jason Phang"
+        },
+        {
+          "authorId": "2253952872",
+          "name": "Jason Wei"
+        },
+        {
+          "authorId": "2965424",
+          "name": "J. Yosinski"
+        },
+        {
+          "authorId": "2848048",
+          "name": "Jekaterina Novikova"
+        },
+        {
+          "authorId": "2169562378",
+          "name": "Jelle Bosscher"
+        },
+        {
+          "authorId": "2253582254",
+          "name": "Jennifer Marsh"
+        },
+        {
+          "authorId": "2253951784",
+          "name": "Jeremy Kim"
+        },
+        {
+          "authorId": "2169553864",
+          "name": "Jeroen Taal"
+        },
+        {
+          "authorId": "2253555236",
+          "name": "Jesse Engel"
+        },
+        {
+          "authorId": "122367036",
+          "name": "Jesujoba Oluwadara Alabi"
+        },
+        {
+          "authorId": "2254142854",
+          "name": "Jiacheng Xu"
+        },
+        {
+          "authorId": "2250159648",
+          "name": "Jiaming Song"
+        },
+        {
+          "authorId": "82706161",
+          "name": "Jillian Tang"
+        },
+        {
+          "authorId": "147175687",
+          "name": "Jane W Waweru"
+        },
+        {
+          "authorId": "31502027",
+          "name": "John Burden"
+        },
+        {
+          "authorId": "2253928282",
+          "name": "John Miller"
+        },
+        {
+          "authorId": "2075220382",
+          "name": "John U. Balis"
+        },
+        {
+          "authorId": "2253742887",
+          "name": "Jonathan Batchelder"
+        },
+        {
+          "authorId": "1750652",
+          "name": "Jonathan Berant"
+        },
+        {
+          "authorId": "2146695800",
+          "name": "Jorg Frohberg"
+        },
+        {
+          "authorId": "120419790",
+          "name": "Jos Rozen"
+        },
+        {
+          "authorId": "1398777358",
+          "name": "J. Hern\u00e1ndez-Orallo"
+        },
+        {
+          "authorId": "2169583246",
+          "name": "Joseph Boudeman"
+        },
+        {
+          "authorId": "2253742339",
+          "name": "Joseph Guerr"
+        },
+        {
+          "authorId": "2169419125",
+          "name": "Joseph Jones"
+        },
+        {
+          "authorId": "2250220321",
+          "name": "Joshua B. Tenenbaum"
+        },
+        {
+          "authorId": "38219739",
+          "name": "Joshua S. Rule"
+        },
+        {
+          "authorId": "119803865",
+          "name": "Joyce Chua"
+        },
+        {
+          "authorId": "2007286374",
+          "name": "Kamil Kanclerz"
+        },
+        {
+          "authorId": "2924113",
+          "name": "Karen Livescu"
+        },
+        {
+          "authorId": "48778049",
+          "name": "K. Krauth"
+        },
+        {
+          "authorId": "145916630",
+          "name": "Karthik Gopalakrishnan"
+        },
+        {
+          "authorId": "2169583196",
+          "name": "Katerina Ignatyeva"
+        },
+        {
+          "authorId": "2253742520",
+          "name": "K. Markert"
+        },
+        {
+          "authorId": "4834571",
+          "name": "Kaustubh D. Dhole"
+        },
+        {
+          "authorId": "1700980",
+          "name": "Kevin Gimpel"
+        },
+        {
+          "authorId": "98151280",
+          "name": "Kevin Omondi"
+        },
+        {
+          "authorId": "2034344309",
+          "name": "K. Mathewson"
+        },
+        {
+          "authorId": "2169579399",
+          "name": "Kristen Chiafullo"
+        },
+        {
+          "authorId": "94055272",
+          "name": "Ksenia Shkaruta"
+        },
+        {
+          "authorId": "50812160",
+          "name": "K. Shridhar"
+        },
+        {
+          "authorId": "2049410219",
+          "name": "Kyle McDonell"
+        },
+        {
+          "authorId": "46666605",
+          "name": "Kyle Richardson"
+        },
+        {
+          "authorId": "2049583158",
+          "name": "Laria Reynolds"
+        },
+        {
+          "authorId": "2027599537",
+          "name": "Leo Gao"
+        },
+        {
+          "authorId": "72436283",
+          "name": "Li Zhang"
+        },
+        {
+          "authorId": "83863037",
+          "name": "Liam Dugan"
+        },
+        {
+          "authorId": "3444092",
+          "name": "Lianhui Qin"
+        },
+        {
+          "authorId": "1572944977",
+          "name": "Lidia Contreras-Ochando"
+        },
+        {
+          "authorId": "49933077",
+          "name": "Louis-Philippe Morency"
+        },
+        {
+          "authorId": "2253396046",
+          "name": "Luca Moschella"
+        },
+        {
+          "authorId": "134309836",
+          "name": "Luca Lam"
+        },
+        {
+          "authorId": "2253759995",
+          "name": "Lucy Noble"
+        },
+        {
+          "authorId": "2253541812",
+          "name": "Ludwig Schmidt"
+        },
+        {
+          "authorId": "2253917827",
+          "name": "Luheng He"
+        },
+        {
+          "authorId": "2169579445",
+          "name": "Luis Oliveros Col'on"
+        },
+        {
+          "authorId": "2096458",
+          "name": "Luke Metz"
+        },
+        {
+          "authorId": "2126865294",
+          "name": "Lutfi Kerem cSenel"
+        },
+        {
+          "authorId": "40377863",
+          "name": "Maarten Bosma"
+        },
+        {
+          "authorId": "2729164",
+          "name": "Maarten Sap"
+        },
+        {
+          "authorId": "41096186",
+          "name": "Maartje ter Hoeve"
+        },
+        {
+          "authorId": "77751476",
+          "name": "Maheen Farooqi"
+        },
+        {
+          "authorId": "1779225",
+          "name": "Manaal Faruqui"
+        },
+        {
+          "authorId": "16787428",
+          "name": "Mantas Mazeika"
+        },
+        {
+          "authorId": "2169579697",
+          "name": "Marco Baturan"
+        },
+        {
+          "authorId": "2202507568",
+          "name": "Marco Marelli"
+        },
+        {
+          "authorId": "1388826344",
+          "name": "Marco Maru"
+        },
+        {
+          "authorId": "2253743804",
+          "name": "Maria Jose Ram\u2019irez Quintana"
+        },
+        {
+          "authorId": "46445780",
+          "name": "M. Tolkiehn"
+        },
+        {
+          "authorId": "24068173",
+          "name": "Mario Giulianelli"
+        },
+        {
+          "authorId": "2253999321",
+          "name": "Martha Lewis"
+        },
+        {
+          "authorId": "3046200",
+          "name": "Martin Potthast"
+        },
+        {
+          "authorId": "2240527814",
+          "name": "Matthew L. Leavitt"
+        },
+        {
+          "authorId": "145072133",
+          "name": "Matthias Hagen"
+        },
+        {
+          "authorId": "2072397293",
+          "name": "M. Schubert"
+        },
+        {
+          "authorId": "2399139",
+          "name": "Medina Baitemirova"
+        },
+        {
+          "authorId": "2253743368",
+          "name": "Melody Arnaud"
+        },
+        {
+          "authorId": "1410273721",
+          "name": "M. McElrath"
+        },
+        {
+          "authorId": "2253753325",
+          "name": "Michael A. Yee"
+        },
+        {
+          "authorId": "2253473243",
+          "name": "Michael Cohen"
+        },
+        {
+          "authorId": "2253764442",
+          "name": "Michael Gu"
+        },
+        {
+          "authorId": "51260702",
+          "name": "Michael Ivanitskiy"
+        },
+        {
+          "authorId": "2169579231",
+          "name": "Michael Starritt"
+        },
+        {
+          "authorId": "2253690372",
+          "name": "M. Strube"
+        },
+        {
+          "authorId": "2169561132",
+          "name": "Michal Swkedrowski"
+        },
+        {
+          "authorId": "2253475117",
+          "name": "Michele Bevilacqua"
+        },
+        {
+          "authorId": "19168196",
+          "name": "Michihiro Yasunaga"
+        },
+        {
+          "authorId": "26688118",
+          "name": "Mihir Kale"
+        },
+        {
+          "authorId": "2253762090",
+          "name": "Mike Cain"
+        },
+        {
+          "authorId": "2254456411",
+          "name": "Mimee Xu"
+        },
+        {
+          "authorId": "51903517",
+          "name": "Mirac Suzgun"
+        },
+        {
+          "authorId": "2253473026",
+          "name": "Mitch Walker"
+        },
+        {
+          "authorId": "2074227875",
+          "name": "Monica Tiwari"
+        },
+        {
+          "authorId": "2253762115",
+          "name": "Mohit Bansal"
+        },
+        {
+          "authorId": "2035522904",
+          "name": "Moin Aminnaseri"
+        },
+        {
+          "authorId": "22245981",
+          "name": "Mor Geva"
+        },
+        {
+          "authorId": "151114702",
+          "name": "Mozhdeh Gheini"
+        },
+        {
+          "authorId": "2007825839",
+          "name": "T. MukundVarma"
+        },
+        {
+          "authorId": "2253599901",
+          "name": "Nanyun Peng"
+        },
+        {
+          "authorId": "2253474896",
+          "name": "Nathan A. Chi"
+        },
+        {
+          "authorId": "40221187",
+          "name": "Nayeon Lee"
+        },
+        {
+          "authorId": "2169562637",
+          "name": "Neta Gur-Ari Krakover"
+        },
+        {
+          "authorId": "2070244342",
+          "name": "Nicholas Cameron"
+        },
+        {
+          "authorId": "2253607509",
+          "name": "Nicholas Roberts"
+        },
+        {
+          "authorId": "2249758958",
+          "name": "Nick Doiron"
+        },
+        {
+          "authorId": "2253719808",
+          "name": "Nicole Martinez"
+        },
+        {
+          "authorId": "10666396",
+          "name": "Nikita Nangia"
+        },
+        {
+          "authorId": "40015417",
+          "name": "Niklas Deckers"
+        },
+        {
+          "authorId": "2037383772",
+          "name": "Niklas Muennighoff"
+        },
+        {
+          "authorId": "2844898",
+          "name": "N. Keskar"
+        },
+        {
+          "authorId": "2121286996",
+          "name": "Niveditha Iyer"
+        },
+        {
+          "authorId": "40832517",
+          "name": "Noah Constant"
+        },
+        {
+          "authorId": "22640071",
+          "name": "Noah Fiedel"
+        },
+        {
+          "authorId": "2253657042",
+          "name": "Nuan Wen"
+        },
+        {
+          "authorId": "2253742723",
+          "name": "Oliver Zhang"
+        },
+        {
+          "authorId": "2138307026",
+          "name": "Omar Agha"
+        },
+        {
+          "authorId": "2169583261",
+          "name": "Omar Elbaghdadi"
+        },
+        {
+          "authorId": "2253752918",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "47107786",
+          "name": "Owain Evans"
+        },
+        {
+          "authorId": "145163583",
+          "name": "Pablo Antonio Moreno Casares"
+        },
+        {
+          "authorId": "1453712240",
+          "name": "P. Doshi"
+        },
+        {
+          "authorId": "40539650",
+          "name": "Pascale Fung"
+        },
+        {
+          "authorId": "28130078",
+          "name": "Paul Pu Liang"
+        },
+        {
+          "authorId": "2039154",
+          "name": "Paul Vicol"
+        },
+        {
+          "authorId": null,
+          "name": "Pegah Alipoormolabashi"
+        },
+        {
+          "authorId": "2253656797",
+          "name": "Peiyuan Liao"
+        },
+        {
+          "authorId": "2249641250",
+          "name": "Percy Liang"
+        },
+        {
+          "authorId": "2113642717",
+          "name": "Peter Chang"
+        },
+        {
+          "authorId": "2654106",
+          "name": "P. Eckersley"
+        },
+        {
+          "authorId": "41022736",
+          "name": "Phu Mon Htut"
+        },
+        {
+          "authorId": "46221673",
+          "name": "P. Hwang"
+        },
+        {
+          "authorId": "1413772109",
+          "name": "P. Milkowski"
+        },
+        {
+          "authorId": "2414098",
+          "name": "P. Patil"
+        },
+        {
+          "authorId": "1713436",
+          "name": "Pouya Pezeshkpour"
+        },
+        {
+          "authorId": "2051972539",
+          "name": "Priti Oli"
+        },
+        {
+          "authorId": "2286285875",
+          "name": "Qiaozhu Mei"
+        },
+        {
+          "authorId": "1904906987",
+          "name": "Qing Lyu"
+        },
+        {
+          "authorId": "2256591945",
+          "name": "Qinlang Chen"
+        },
+        {
+          "authorId": "2004401966",
+          "name": "Rabin Banjade"
+        },
+        {
+          "authorId": "2238019263",
+          "name": "Rachel Etta Rudolph"
+        },
+        {
+          "authorId": "39303368",
+          "name": "Raefer Gabriel"
+        },
+        {
+          "authorId": "2169583577",
+          "name": "Rahel Habacker"
+        },
+        {
+          "authorId": "2253742845",
+          "name": "Ramon Risco"
+        },
+        {
+          "authorId": "2249763478",
+          "name": "Raphael Milliere"
+        },
+        {
+          "authorId": "144914264",
+          "name": "Rhythm Garg"
+        },
+        {
+          "authorId": "2056119463",
+          "name": "Richard Barnes"
+        },
+        {
+          "authorId": "2278009",
+          "name": "R. Saurous"
+        },
+        {
+          "authorId": "83976651",
+          "name": "Riku Arakawa"
+        },
+        {
+          "authorId": "2143515065",
+          "name": "Robbe Raymaekers"
+        },
+        {
+          "authorId": "2253563490",
+          "name": "Robert Frank"
+        },
+        {
+          "authorId": "2169583539",
+          "name": "Rohan Sikand"
+        },
+        {
+          "authorId": "39068839",
+          "name": "Roman Novak"
+        },
+        {
+          "authorId": "2143205525",
+          "name": "Roman Sitelew"
+        },
+        {
+          "authorId": "39227408",
+          "name": "Ronan Le Bras"
+        },
+        {
+          "authorId": "48757909",
+          "name": "Rosanne Liu"
+        },
+        {
+          "authorId": "2169442080",
+          "name": "Rowan Jacobs"
+        },
+        {
+          "authorId": "2255464042",
+          "name": "Rui Zhang"
+        },
+        {
+          "authorId": "145124475",
+          "name": "R. Salakhutdinov"
+        },
+        {
+          "authorId": "2121293578",
+          "name": "Ryan Chi"
+        },
+        {
+          "authorId": "2110680870",
+          "name": "Ryan Lee"
+        },
+        {
+          "authorId": "2096414946",
+          "name": "Ryan Stovall"
+        },
+        {
+          "authorId": "2131107966",
+          "name": "Ryan Teehan"
+        },
+        {
+          "authorId": "2170120947",
+          "name": "Rylan Yang"
+        },
+        {
+          "authorId": "2256771265",
+          "name": "Sahib Singh"
+        },
+        {
+          "authorId": "2253519805",
+          "name": "Saif Mohammad"
+        },
+        {
+          "authorId": "51177395",
+          "name": "Sajant Anand"
+        },
+        {
+          "authorId": "14149388",
+          "name": "Sam Dillavou"
+        },
+        {
+          "authorId": "88728159",
+          "name": "Sam Shleifer"
+        },
+        {
+          "authorId": "2844243",
+          "name": "Sam Wiseman"
+        },
+        {
+          "authorId": "46173414",
+          "name": "Samuel Gruetter"
+        },
+        {
+          "authorId": "2137213671",
+          "name": "Samuel R. Bowman"
+        },
+        {
+          "authorId": "2601641",
+          "name": "S. Schoenholz"
+        },
+        {
+          "authorId": "2254097408",
+          "name": "Sanghyun Han"
+        },
+        {
+          "authorId": "1412838170",
+          "name": "Sanjeev Kwatra"
+        },
+        {
+          "authorId": "121266477",
+          "name": "Sarah A. Rous"
+        },
+        {
+          "authorId": "3022427",
+          "name": "Sarik Ghazarian"
+        },
+        {
+          "authorId": "2143032877",
+          "name": "Sayan Ghosh"
+        },
+        {
+          "authorId": "2253475225",
+          "name": "Sean Casey"
+        },
+        {
+          "authorId": "32306415",
+          "name": "Sebastian Bischoff"
+        },
+        {
+          "authorId": "3159346",
+          "name": "Sebastian Gehrmann"
+        },
+        {
+          "authorId": "2067227206",
+          "name": "Sebastian Schuster"
+        },
+        {
+          "authorId": "2162733",
+          "name": "Sepideh Sadeghi"
+        },
+        {
+          "authorId": "1832987156",
+          "name": "Shadi S. Hamdan"
+        },
+        {
+          "authorId": "2111057669",
+          "name": "Sharon Zhou"
+        },
+        {
+          "authorId": "2253588064",
+          "name": "Shashank Srivastava"
+        },
+        {
+          "authorId": "2113258914",
+          "name": "Sherry Shi"
+        },
+        {
+          "authorId": "2108410562",
+          "name": "Shikhar Singh"
+        },
+        {
+          "authorId": "30462410",
+          "name": "Shima Asaadi"
+        },
+        {
+          "authorId": "2253699903",
+          "name": "S. Gu"
+        },
+        {
+          "authorId": "2169561291",
+          "name": "Shubh Pachchigar"
+        },
+        {
+          "authorId": "2634203",
+          "name": "Shubham Toshniwal"
+        },
+        {
+          "authorId": "33145619",
+          "name": "Shyam Upadhyay"
+        },
+        {
+          "authorId": "2169422265",
+          "name": "Shyamolima Debnath"
+        },
+        {
+          "authorId": "2944868",
+          "name": "Siamak Shakeri"
+        },
+        {
+          "authorId": "2169583327",
+          "name": "Simon Thormeyer"
+        },
+        {
+          "authorId": "1972186",
+          "name": "S. Melzi"
+        },
+        {
+          "authorId": "2256152032",
+          "name": "Siva Reddy"
+        },
+        {
+          "authorId": "118798524",
+          "name": "S. Makini"
+        },
+        {
+          "authorId": "2255599173",
+          "name": "Soo-Hwan Lee"
+        },
+        {
+          "authorId": "5910521",
+          "name": "Spencer Bradley Torene"
+        },
+        {
+          "authorId": "1659275411",
+          "name": "Sriharsha Hatwar"
+        },
+        {
+          "authorId": "2250013696",
+          "name": "S. Dehaene"
+        },
+        {
+          "authorId": "102987414",
+          "name": "Stefan Divic"
+        },
+        {
+          "authorId": "2490652",
+          "name": "Stefano Ermon"
+        },
+        {
+          "authorId": "103476203",
+          "name": "Stella Biderman"
+        },
+        {
+          "authorId": "2253840098",
+          "name": "Stephanie Lin"
+        },
+        {
+          "authorId": "2253781922",
+          "name": "Stephen Prasad"
+        },
+        {
+          "authorId": "2238331992",
+          "name": "Steven T Piantadosi"
+        },
+        {
+          "authorId": "1692491",
+          "name": "Stuart M. Shieber"
+        },
+        {
+          "authorId": "2169554101",
+          "name": "Summer Misherghi"
+        },
+        {
+          "authorId": "2886725",
+          "name": "S. Kiritchenko"
+        },
+        {
+          "authorId": "1817207",
+          "name": "Swaroop Mishra"
+        },
+        {
+          "authorId": "51223875",
+          "name": "Tal Linzen"
+        },
+        {
+          "authorId": "32303439",
+          "name": "Tal Schuster"
+        },
+        {
+          "authorId": "2149201962",
+          "name": "Tao Li"
+        },
+        {
+          "authorId": "2256865416",
+          "name": "Tao Yu"
+        },
+        {
+          "authorId": "2253522954",
+          "name": "Tariq Ali"
+        },
+        {
+          "authorId": "2253575091",
+          "name": "Tatsunori Hashimoto"
+        },
+        {
+          "authorId": "2134514770",
+          "name": "Te-Lin Wu"
+        },
+        {
+          "authorId": "88367918",
+          "name": "T. Desbordes"
+        },
+        {
+          "authorId": "2169561552",
+          "name": "Theodore Rothschild"
+        },
+        {
+          "authorId": "145127341",
+          "name": "Thomas Phan"
+        },
+        {
+          "authorId": "2255375735",
+          "name": "Tianle Wang"
+        },
+        {
+          "authorId": "101592141",
+          "name": "Tiberius Nkinyili"
+        },
+        {
+          "authorId": "32246932",
+          "name": "Timo Schick"
+        },
+        {
+          "authorId": "98873736",
+          "name": "T. Kornev"
+        },
+        {
+          "authorId": "2169579934",
+          "name": "T. Tunduny"
+        },
+        {
+          "authorId": "2697953",
+          "name": "Tobias Gerstenberg"
+        },
+        {
+          "authorId": "2107372733",
+          "name": "T. Chang"
+        },
+        {
+          "authorId": "10729963",
+          "name": "Trishala Neeraj"
+        },
+        {
+          "authorId": "2236429",
+          "name": "Tushar Khot"
+        },
+        {
+          "authorId": "2253757587",
+          "name": "Tyler Shultz"
+        },
+        {
+          "authorId": "50482645",
+          "name": "Uri Shaham"
+        },
+        {
+          "authorId": "40055795",
+          "name": "Vedant Misra"
+        },
+        {
+          "authorId": "2243444130",
+          "name": "Vera Demberg"
+        },
+        {
+          "authorId": "2169580169",
+          "name": "Victoria Nyamai"
+        },
+        {
+          "authorId": "24025563",
+          "name": "Vikas Raunak"
+        },
+        {
+          "authorId": "96641652",
+          "name": "V. Ramasesh"
+        },
+        {
+          "authorId": "2670978",
+          "name": "Vinay Uday Prabhu"
+        },
+        {
+          "authorId": "2044959912",
+          "name": "Vishakh Padmakumar"
+        },
+        {
+          "authorId": "3052879",
+          "name": "Vivek Srikumar"
+        },
+        {
+          "authorId": "26958176",
+          "name": "W. Fedus"
+        },
+        {
+          "authorId": "2058848938",
+          "name": "W. Saunders"
+        },
+        {
+          "authorId": "2115212355",
+          "name": "William Zhang"
+        },
+        {
+          "authorId": "2143514461",
+          "name": "Wout Vossen"
+        },
+        {
+          "authorId": "2256826104",
+          "name": "Xiang Ren"
+        },
+        {
+          "authorId": "2253762061",
+          "name": "Xiaoyu Tong"
+        },
+        {
+          "authorId": "1500662261",
+          "name": "Xinran Zhao"
+        },
+        {
+          "authorId": "2255396948",
+          "name": "Xinyi Wu"
+        },
+        {
+          "authorId": "2144058688",
+          "name": "Xudong Shen"
+        },
+        {
+          "authorId": "3261470",
+          "name": "Yadollah Yaghoobzadeh"
+        },
+        {
+          "authorId": "3051598",
+          "name": "Yair Lakretz"
+        },
+        {
+          "authorId": "2258804099",
+          "name": "Yangqiu Song"
+        },
+        {
+          "authorId": "12383244",
+          "name": "Yasaman Bahri"
+        },
+        {
+          "authorId": "2253903625",
+          "name": "Yejin Choi"
+        },
+        {
+          "authorId": "2108652034",
+          "name": "Yichi Yang"
+        },
+        {
+          "authorId": "2256343174",
+          "name": "Yiding Hao"
+        },
+        {
+          "authorId": "2253813584",
+          "name": "Yifu Chen"
+        },
+        {
+          "authorId": "2083259",
+          "name": "Yonatan Belinkov"
+        },
+        {
+          "authorId": "2118739951",
+          "name": "Yu Hou"
+        },
+        {
+          "authorId": "2118739951",
+          "name": "Yu Hou"
+        },
+        {
+          "authorId": "1486307451",
+          "name": "Yuntao Bai"
+        },
+        {
+          "authorId": "2169561434",
+          "name": "Zachary Seid"
+        },
+        {
+          "authorId": "2254023165",
+          "name": "Zhuoye Zhao"
+        },
+        {
+          "authorId": "37571937",
+          "name": "Zijian Wang"
+        },
+        {
+          "authorId": "1390877819",
+          "name": "Zijie J. Wang"
+        },
+        {
+          "authorId": "2255392870",
+          "name": "Zirui Wang"
+        },
+        {
+          "authorId": "2253894469",
+          "name": "Ziyi Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "ddbbf78334ef65d412520236e5d9067c82ef8984",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/ddbbf78334ef65d412520236e5d9067c82ef8984",
+      "title": "Reflect, Not Reflex: Inference-Based Common Ground Improves Dialogue Response Quality",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1557324013",
+          "name": "Pei Zhou"
+        },
+        {
+          "authorId": "91009922",
+          "name": "Hyundong Justin Cho"
+        },
+        {
+          "authorId": "3674787",
+          "name": "Pegah Jandaghi"
+        },
+        {
+          "authorId": "73037511",
+          "name": "Dong-Ho Lee"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2634786",
+          "name": "J. Pujara"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "eac7022fe02f867140514018806a3cae1da6864f",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/eac7022fe02f867140514018806a3cae1da6864f",
+      "title": "Unsupervised Cross-Task Generalization via Retrieval Augmentation",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "citationCount": 46,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2162783506",
+          "name": "Kangmin Tan"
+        },
+        {
+          "authorId": "2111522090",
+          "name": "Chris Miller"
+        },
+        {
+          "authorId": "2143694337",
+          "name": "Beiwen Tian"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "2547ec94bb9deaa22348798228e3802a58942cc9",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/2547ec94bb9deaa22348798228e3802a58942cc9",
+      "title": "FedNLP: A Research Platform for Federated Learning in Natural Language Processing",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 51,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "31927890",
+          "name": "Chaoyang He"
+        },
+        {
+          "authorId": "2075413447",
+          "name": "ZiHang Zeng"
+        },
+        {
+          "authorId": "2109580364",
+          "name": "Hulin Wang"
+        },
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "2766123",
+          "name": "M. Soltanolkotabi"
+        },
+        {
+          "authorId": "145201124",
+          "name": "Xiang Ren"
+        },
+        {
+          "authorId": "121011351",
+          "name": "S. Avestimehr"
+        }
+      ]
+    },
+    {
+      "paperId": "2b8c6c2ae778184f41db3467ed2cde5342aae676",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/2b8c6c2ae778184f41db3467ed2cde5342aae676",
+      "title": "RiddleSense: Answering Riddle Questions as Commonsense Reasoning",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2004501562",
+          "name": "Ziyi Wu"
+        },
+        {
+          "authorId": "2108652034",
+          "name": "Yichi Yang"
+        },
+        {
+          "authorId": "73037511",
+          "name": "Dong-Ho Lee"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "3d181e864438f4e648b5cea1ce715c6ce5e122dc",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3d181e864438f4e648b5cea1ce715c6ce5e122dc",
+      "title": "AutoTriggER: Label-Efficient and Robust Named Entity Recognition with Auxiliary Trigger Extraction",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "73037511",
+          "name": "Dong-Ho Lee"
+        },
+        {
+          "authorId": "1838125907",
+          "name": "Ravi Kiran Selvam"
+        },
+        {
+          "authorId": "2721029",
+          "name": "Sheikh Muhammad Sarwar"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2775559",
+          "name": "Fred Morstatter"
+        },
+        {
+          "authorId": "2634786",
+          "name": "J. Pujara"
+        },
+        {
+          "authorId": "3256207",
+          "name": "Elizabeth Boschee"
+        },
+        {
+          "authorId": "121300608",
+          "name": "J. Allan"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "4264b337c0e16953badf68c7f881b927c80d5161",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/4264b337c0e16953badf68c7f881b927c80d5161",
+      "title": "RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 41,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2257122746",
+          "name": "Wenyang Gao"
+        },
+        {
+          "authorId": "49781448",
+          "name": "Jun Yan"
+        },
+        {
+          "authorId": "38679591",
+          "name": "Ryan Rene Moreno"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "71fab1ce3c66998ba681ab378484be77690327a9",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/71fab1ce3c66998ba681ab378484be77690327a9",
+      "title": "RiddleSense: Reasoning about Riddle Questions Featuring Linguistic Creativity and Commonsense Knowledge",
+      "venue": "Findings",
+      "year": 2021,
+      "citationCount": 59,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2004501562",
+          "name": "Ziyi Wu"
+        },
+        {
+          "authorId": "2108652034",
+          "name": "Yichi Yang"
+        },
+        {
+          "authorId": "2115475530",
+          "name": "Dong-Ho Lee"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "7fa273f450251523e6b7fcc2eb3fdbdfd4a30493",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/7fa273f450251523e6b7fcc2eb3fdbdfd4a30493",
+      "title": "CrossFit: A Few-shot Learning Challenge for Cross-task Generalization in NLP",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 176,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1557391091",
+          "name": "Qinyuan Ye"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "145201124",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "9035e0c93adfa14e7685e52f417446a20e09cf16",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/9035e0c93adfa14e7685e52f417446a20e09cf16",
+      "title": "On the Robustness of Reading Comprehension Models to Entity Renaming",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49781448",
+          "name": "Jun Yan"
+        },
+        {
+          "authorId": "2140938931",
+          "name": "Yang Xiao"
+        },
+        {
+          "authorId": "2087482453",
+          "name": "Sagnik Mukherjee"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "3422908",
+          "name": "Robin Jia"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "a210df43018c682f6f57120cdb66b93a42c26699",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/a210df43018c682f6f57120cdb66b93a42c26699",
+      "title": "Probing Causal Common Sense in Dialogue Response Generation",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1557324013",
+          "name": "Pei Zhou"
+        },
+        {
+          "authorId": "3674787",
+          "name": "Pegah Jandaghi"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "91009922",
+          "name": "Hyundong Justin Cho"
+        },
+        {
+          "authorId": "2634786",
+          "name": "J. Pujara"
+        },
+        {
+          "authorId": "145201124",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "a55c399bbb0382650459da59fc545f2dd275012b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a55c399bbb0382650459da59fc545f2dd275012b",
+      "title": "FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks",
+      "venue": "NAACL-HLT",
+      "year": 2021,
+      "citationCount": 102,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2087126470",
+          "name": "Chaoyang He"
+        },
+        {
+          "authorId": "2075413447",
+          "name": "ZiHang Zeng"
+        },
+        {
+          "authorId": "2109580364",
+          "name": "Hulin Wang"
+        },
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "2766123",
+          "name": "M. Soltanolkotabi"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        },
+        {
+          "authorId": "121011351",
+          "name": "S. Avestimehr"
+        }
+      ]
+    },
+    {
+      "paperId": "b3f98f5baf3b7239ce0da45147bda4c4154fac9c",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/b3f98f5baf3b7239ce0da45147bda4c4154fac9c",
+      "title": "Learn Continually, Generalize Rapidly: Lifelong Knowledge Accumulation for Few-shot Learning",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 41,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2148654757",
+          "name": "Xisen Jin"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "144023926",
+          "name": "Mohammad Rostami"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "bf36b939082ae94ab2a5fbf7fc8bcdfbc2e5a17c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/bf36b939082ae94ab2a5fbf7fc8bcdfbc2e5a17c",
+      "title": "AutoTriggER: Named Entity Recognition with Auxiliary Trigger Extraction",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2115475530",
+          "name": "Dong-Ho Lee"
+        },
+        {
+          "authorId": "1838125907",
+          "name": "Ravi Kiran Selvam"
+        },
+        {
+          "authorId": "2721029",
+          "name": "Sheikh Muhammad Sarwar"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "32074367",
+          "name": "Mahak Agarwal"
+        },
+        {
+          "authorId": "2775559",
+          "name": "Fred Morstatter"
+        },
+        {
+          "authorId": "2634786",
+          "name": "J. Pujara"
+        },
+        {
+          "authorId": "3256207",
+          "name": "Elizabeth Boschee"
+        },
+        {
+          "authorId": "121300608",
+          "name": "J. Allan"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "c6fd846b9b8f9eb0a492d6d6242fffce987c4580",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c6fd846b9b8f9eb0a492d6d6242fffce987c4580",
+      "title": "Common Sense Beyond English: Evaluating and Improving Multilingual Language Models for Commonsense Reasoning",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 60,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2108701349",
+          "name": "Seyeon Lee"
+        },
+        {
+          "authorId": "2063905523",
+          "name": "Xiaoyang Qiao"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "dffedd7dcacb2fab0af708b9a6a6de8424fe2fc2",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/dffedd7dcacb2fab0af708b9a6a6de8424fe2fc2",
+      "title": "Probing Commonsense Explanation in Dialogue Response Generation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1557324013",
+          "name": "Pei Zhou"
+        },
+        {
+          "authorId": "3674787",
+          "name": "Pegah Jandaghi"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2115695545",
+          "name": "Justin Cho"
+        },
+        {
+          "authorId": "2634786",
+          "name": "J. Pujara"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "011869f932f89d047ce2bd36d73a95cc04888193",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/011869f932f89d047ce2bd36d73a95cc04888193",
+      "title": "RICA: Evaluating Robust Inference Capabilities Based on Commonsense Axioms",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 36,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1557324013",
+          "name": "Pei Zhou"
+        },
+        {
+          "authorId": "1885282",
+          "name": "Rahul Khanna"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2056458351",
+          "name": "Daniel Ho"
+        },
+        {
+          "authorId": "2634786",
+          "name": "J. Pujara"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "0119a57cf88ef16e6dc291252fae340bb6b3953c",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0119a57cf88ef16e6dc291252fae340bb6b3953c",
+      "title": "CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning",
+      "venue": "Findings",
+      "year": 2020,
+      "citationCount": 345,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "118558736",
+          "name": "Ming Shen"
+        },
+        {
+          "authorId": "150341221",
+          "name": "Wangchunshu Zhou"
+        },
+        {
+          "authorId": "1557324013",
+          "name": "Pei Zhou"
+        },
+        {
+          "authorId": "1857797",
+          "name": "Chandra Bhagavatula"
+        },
+        {
+          "authorId": "1699545",
+          "name": "Yejin Choi"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "016760dc4a05489ddf5dbb48aecbb49e214e1b71",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/016760dc4a05489ddf5dbb48aecbb49e214e1b71",
+      "title": "Birds Have Four Legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 151,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2108701349",
+          "name": "Seyeon Lee"
+        },
+        {
+          "authorId": "1885282",
+          "name": "Rahul Khanna"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "2c2cc3decc0d5091965975eb4bb6f5dc802bcbf7",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2c2cc3decc0d5091965975eb4bb6f5dc802bcbf7",
+      "title": "IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2020,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2203076",
+          "name": "Wenxuan Zhou"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "360956507ca1169dde233dd09b26e409c7c5731e",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/360956507ca1169dde233dd09b26e409c7c5731e",
+      "title": "TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 87,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "73037511",
+          "name": "Dong-Ho Lee"
+        },
+        {
+          "authorId": "118558736",
+          "name": "Ming Shen"
+        },
+        {
+          "authorId": "38679591",
+          "name": "Ryan Rene Moreno"
+        },
+        {
+          "authorId": "145047108",
+          "name": "Xiao Huang"
+        },
+        {
+          "authorId": "3310534",
+          "name": "Prashant Shiralkar"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "6027ef3b4e5585b45db0b9d333956425d3972351",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/6027ef3b4e5585b45db0b9d333956425d3972351",
+      "title": "Differentiable Open-Ended Commonsense Reasoning",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 41,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "3456820",
+          "name": "Haitian Sun"
+        },
+        {
+          "authorId": "34994191",
+          "name": "Bhuwan Dhingra"
+        },
+        {
+          "authorId": "1771307",
+          "name": "M. Zaheer"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        },
+        {
+          "authorId": "50056360",
+          "name": "William W. Cohen"
+        }
+      ]
+    },
+    {
+      "paperId": "688e324770a8c3db0af25968bd15e2cc33b9a83d",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/688e324770a8c3db0af25968bd15e2cc33b9a83d",
+      "title": "Can BERT Reason? Logically Equivalent Probes for Evaluating the Inference Capabilities of Language Models",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1557324013",
+          "name": "Pei Zhou"
+        },
+        {
+          "authorId": "1885282",
+          "name": "Rahul Khanna"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2056458351",
+          "name": "Daniel Ho"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        },
+        {
+          "authorId": "2634786",
+          "name": "J. Pujara"
+        }
+      ]
+    },
+    {
+      "paperId": "832bdc41e74c4e5e5274b8e57107e857861f7bdf",
+      "publicationVenue": {
+        "id": "a0edb93b-1e95-4128-a295-6b1659149cef",
+        "name": "Knowledge Discovery and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "KDD",
+          "Knowl Discov Data Min"
+        ],
+        "url": "http://www.acm.org/sigkdd/"
+      },
+      "url": "https://www.semanticscholar.org/paper/832bdc41e74c4e5e5274b8e57107e857861f7bdf",
+      "title": "FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2020,
+      "citationCount": 43,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2053802028",
+          "name": "Ying Sheng"
+        },
+        {
+          "authorId": "40331081",
+          "name": "N. Vo"
+        },
+        {
+          "authorId": "2519906",
+          "name": "Sandeep Tata"
+        }
+      ]
+    },
+    {
+      "paperId": "88d7676b071a48bef41b040b45f03adc15b31af9",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/88d7676b071a48bef41b040b45f03adc15b31af9",
+      "title": "LEAN-LIFE: A Label-Efficient Annotation Framework Towards Learning from Explanation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "73037511",
+          "name": "Dong-Ho Lee"
+        },
+        {
+          "authorId": "1885282",
+          "name": "Rahul Khanna"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "4787155",
+          "name": "Jamin Chen"
+        },
+        {
+          "authorId": "2108701349",
+          "name": "Seyeon Lee"
+        },
+        {
+          "authorId": "1557391091",
+          "name": "Qinyuan Ye"
+        },
+        {
+          "authorId": "3256207",
+          "name": "Elizabeth Boschee"
+        },
+        {
+          "authorId": "152842060",
+          "name": "Leonardo Neves"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "9e979667aa81c294062c02ab3a48e87e47c54987",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/9e979667aa81c294062c02ab3a48e87e47c54987",
+      "title": "Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 231,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2115389088",
+          "name": "Yanlin Feng"
+        },
+        {
+          "authorId": "121022966",
+          "name": "Xinyue Chen"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2784644",
+          "name": "Peifeng Wang"
+        },
+        {
+          "authorId": "49781448",
+          "name": "Jun Yan"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "abaadb4c6affc4d874c4f59bfac60686e851cb5e",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/abaadb4c6affc4d874c4f59bfac60686e851cb5e",
+      "title": "Pre-training Text-to-Text Transformers for Concept-centric Common Sense",
+      "venue": "International Conference on Learning Representations",
+      "year": 2020,
+      "citationCount": 70,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "150341221",
+          "name": "Wangchunshu Zhou"
+        },
+        {
+          "authorId": "73037511",
+          "name": "Dong-Ho Lee"
+        },
+        {
+          "authorId": "1838125907",
+          "name": "Ravi Kiran Selvam"
+        },
+        {
+          "authorId": "2108701349",
+          "name": "Seyeon Lee"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "e79056c2c5f64ec64d31d12c6f2d2d56a04a8e31",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e79056c2c5f64ec64d31d12c6f2d2d56a04a8e31",
+      "title": "NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction",
+      "venue": " ",
+      "year": 2020,
+      "citationCount": 54,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2203076",
+          "name": "Wenxuan Zhou"
+        },
+        {
+          "authorId": "49955789",
+          "name": "Hongtao Lin"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "1390880371",
+          "name": "Ziqi Wang"
+        },
+        {
+          "authorId": "3109653",
+          "name": "Junyi Du"
+        },
+        {
+          "authorId": "152842060",
+          "name": "Leonardo Neves"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "5693c74eb8ffde1490ba480fdc963f008243906a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/5693c74eb8ffde1490ba480fdc963f008243906a",
+      "title": "Backend Model Consolidation & Incremental Training Matching Frequent NPs + Dictionary Crowd Annotators A batch of raw sentences Recommendations Crowd Annotations Unlabeled Instances Instance Sampling via Active Learning Real-time Deployment API Complicated Downstream Systems Alpaca Tag",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2253883759",
+          "name": "Dong-Ho Lee"
+        },
+        {
+          "authorId": "2286653487",
+          "name": "Frank F. Xu"
+        },
+        {
+          "authorId": "51310039",
+          "name": "Ouyu Lan"
+        },
+        {
+          "authorId": "2286632962",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "710d183174844da5b7f392667f3cc25d2b098dde",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/710d183174844da5b7f392667f3cc25d2b098dde",
+      "title": "KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 446,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "121022966",
+          "name": "Xinyue Chen"
+        },
+        {
+          "authorId": "4787155",
+          "name": "Jamin Chen"
+        },
+        {
+          "authorId": "145201124",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "727c9d3846ebd80a9138d0e6c9e995d9afc1d312",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/727c9d3846ebd80a9138d0e6c9e995d9afc1d312",
+      "title": "CommonGen: A Constrained Text Generation Dataset Towards Generative Commonsense Reasoning",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "118558736",
+          "name": "Ming Shen"
+        },
+        {
+          "authorId": "2072728796",
+          "name": "Yu Xing"
+        },
+        {
+          "authorId": "1557324013",
+          "name": "Pei Zhou"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "ac213aeda38e7447d68a804323bc68de50b4d25e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ac213aeda38e7447d68a804323bc68de50b4d25e",
+      "title": "Towards Generative Commonsense Reasoning: A Concept Paper",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "efd81977f1e74138cf2ac3e9a42112b95f648c66",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/efd81977f1e74138cf2ac3e9a42112b95f648c66",
+      "title": "Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51310039",
+          "name": "Ouyu Lan"
+        },
+        {
+          "authorId": "145047108",
+          "name": "Xiao Huang"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2116480752",
+          "name": "He Jiang"
+        },
+        {
+          "authorId": "46458310",
+          "name": "Liyuan Liu"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "4236a5f650f5b7ced7512b5072a062b521220b31",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4236a5f650f5b7ced7512b5072a062b521220b31",
+      "title": "Transfer Learning for Traffic Speed Prediction: A Preliminary Study",
+      "venue": "AAAI Workshops",
+      "year": 2018,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "40027632",
+          "name": "Frank F. Xu"
+        },
+        {
+          "authorId": "51115300",
+          "name": "Eve Q. Liao"
+        },
+        {
+          "authorId": "1796651",
+          "name": "Kenny Q. Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "4c934343f95950fe10894c35961783b72dc7a8e0",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/4c934343f95950fe10894c35961783b72dc7a8e0",
+      "title": "Neural Adaptation Layers for Cross-domain Named Entity Recognition",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 91,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "143844110",
+          "name": "Wei Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "adf726bdcdddacee1c70d911b8f84b6a16841a32",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/adf726bdcdddacee1c70d911b8f84b6a16841a32",
+      "title": "ExtRA: Extracting Prominent Review Aspects from Customer Feedback",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49386381",
+          "name": "Zhiyi Luo"
+        },
+        {
+          "authorId": "2122804944",
+          "name": "Shanshan Huang"
+        },
+        {
+          "authorId": "40027632",
+          "name": "Frank F. Xu"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "2112498039",
+          "name": "Hanyuan Shi"
+        },
+        {
+          "authorId": "1796651",
+          "name": "Kenny Q. Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "e76372d3d718979099b482e38276578687a31cb7",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e76372d3d718979099b482e38276578687a31cb7",
+      "title": "Mining Cross-Cultural Differences and Similarities in Social Media",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "40027632",
+          "name": "Frank F. Xu"
+        },
+        {
+          "authorId": "1796651",
+          "name": "Kenny Q. Zhu"
+        },
+        {
+          "authorId": "1716415",
+          "name": "Seung-won Hwang"
+        }
+      ]
+    },
+    {
+      "paperId": "05fb1eea6381ccd21bde53495c7707546aa234c7",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/05fb1eea6381ccd21bde53495c7707546aa234c7",
+      "title": "Multi-channel BiLSTM-CRF Model for Emerging Named Entity Recognition in Social Media",
+      "venue": "NUT@EMNLP",
+      "year": 2017,
+      "citationCount": 97,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "40027632",
+          "name": "Frank F. Xu"
+        },
+        {
+          "authorId": "49386381",
+          "name": "Zhiyi Luo"
+        },
+        {
+          "authorId": "1796651",
+          "name": "Kenny Q. Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "461188735d46dc1062f5d1d382d940a24c355fad",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/461188735d46dc1062f5d1d382d940a24c355fad",
+      "title": "Automatic Extraction of Commonsense LocatedNear Knowledge",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2017,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40027632",
+          "name": "Frank F. Xu"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "1796651",
+          "name": "Kenny Q. Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "2cf21fc85af45512bf34d710f325872dca8a5331",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2cf21fc85af45512bf34d710f325872dca8a5331",
+      "title": "Cross-region traffic prediction for China on OpenStreetMap",
+      "venue": "IWCTS@SIGSPATIAL",
+      "year": 2016,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Geography"
+      ],
+      "authors": [
+        {
+          "authorId": "40027632",
+          "name": "Frank F. Xu"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "1491636805",
+          "name": "Qi Lu"
+        },
+        {
+          "authorId": "2108692363",
+          "name": "Yifei Huang"
+        },
+        {
+          "authorId": "1796651",
+          "name": "Kenny Q. Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "1bee1ca94b821c4c95090d9999aeed8864f190ea",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1bee1ca94b821c4c95090d9999aeed8864f190ea",
+      "title": "FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks",
+      "venue": "",
+      "year": null,
+      "citationCount": 31,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "31927890",
+          "name": "Chaoyang He"
+        },
+        {
+          "authorId": "2075413447",
+          "name": "ZiHang Zeng"
+        },
+        {
+          "authorId": "2109580364",
+          "name": "Hulin Wang"
+        },
+        {
+          "authorId": "2108692967",
+          "name": "Yufen Huang"
+        },
+        {
+          "authorId": "34866641",
+          "name": "Christophe Dupuy"
+        },
+        {
+          "authorId": "145542597",
+          "name": "Rahul Gupta"
+        },
+        {
+          "authorId": "2766123",
+          "name": "M. Soltanolkotabi"
+        },
+        {
+          "authorId": "1384550891",
+          "name": "Xiang Ren"
+        },
+        {
+          "authorId": "121011351",
+          "name": "S. Avestimehr"
+        }
+      ]
+    }
+  ]
+}

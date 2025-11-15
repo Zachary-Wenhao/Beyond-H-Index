@@ -1,0 +1,462 @@
+[
+  {
+    "question_id": "Q1",
+    "question_type": "Type1_SimilarH_DramaticComposite",
+    "question_text": "Both researchers have similar citation impact (H-index ranks #77 vs #77). Who would you rank higher for overall research excellence?",
+    "researcher_a": {
+      "name": "Lei He",
+      "h_index": 53,
+      "h_rank": "#77",
+      "composite_rank": "#19"
+    },
+    "researcher_b": {
+      "name": "Jacob Eisenstein",
+      "h_index": 53,
+      "h_rank": "#77",
+      "composite_rank": "#135"
+    },
+    "context": "Similar H-index rankings (diff: 0), Dramatic composite difference (116 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q2",
+    "question_type": "Type1_SimilarH_DramaticComposite",
+    "question_text": "Both researchers have similar citation impact (H-index ranks #96 vs #102). Who would you rank higher for overall research excellence?",
+    "researcher_a": {
+      "name": "Holger Schwenk",
+      "h_index": 47,
+      "h_rank": "#96",
+      "composite_rank": "#76"
+    },
+    "researcher_b": {
+      "name": "Emad Shihab",
+      "h_index": 45,
+      "h_rank": "#102",
+      "composite_rank": "#183"
+    },
+    "context": "Similar H-index rankings (diff: 6), Dramatic composite difference (107 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q3",
+    "question_type": "Type1_SimilarH_DramaticComposite",
+    "question_text": "Both researchers have similar citation impact (H-index ranks #138 vs #146). Who would you rank higher for overall research excellence?",
+    "researcher_a": {
+      "name": "E. Simperl",
+      "h_index": 39,
+      "h_rank": "#138",
+      "composite_rank": "#103"
+    },
+    "researcher_b": {
+      "name": "V. Castro",
+      "h_index": 38,
+      "h_rank": "#146",
+      "composite_rank": "#218"
+    },
+    "context": "Similar H-index rankings (diff: 8), Dramatic composite difference (115 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q4",
+    "question_type": "Type1_SimilarH_DramaticComposite",
+    "question_text": "Both researchers have similar citation impact (H-index ranks #150 vs #146). Who would you rank higher for overall research excellence?",
+    "researcher_a": {
+      "name": "Xiaodong Liu",
+      "h_index": 37,
+      "h_rank": "#150",
+      "composite_rank": "#67"
+    },
+    "researcher_b": {
+      "name": "Anupam Datta",
+      "h_index": 38,
+      "h_rank": "#146",
+      "composite_rank": "#190"
+    },
+    "context": "Similar H-index rankings (diff: 4), Dramatic composite difference (123 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q5",
+    "question_type": "Type1_SimilarH_DramaticComposite",
+    "question_text": "Both researchers have similar citation impact (H-index ranks #150 vs #146). Who would you rank higher for overall research excellence?",
+    "researcher_a": {
+      "name": "F. Matthes",
+      "h_index": 37,
+      "h_rank": "#150",
+      "composite_rank": "#90"
+    },
+    "researcher_b": {
+      "name": "Xiang Ren",
+      "h_index": 38,
+      "h_rank": "#146",
+      "composite_rank": "#206"
+    },
+    "context": "Similar H-index rankings (diff: 4), Dramatic composite difference (116 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q6",
+    "question_type": "Type1_SimilarH_DramaticComposite",
+    "question_text": "Both researchers have similar citation impact (H-index ranks #156 vs #164). Who would you rank higher for overall research excellence?",
+    "researcher_a": {
+      "name": "Preslav Nakov",
+      "h_index": 36,
+      "h_rank": "#156",
+      "composite_rank": "#178"
+    },
+    "researcher_b": {
+      "name": "Yonghui Wu",
+      "h_index": 34,
+      "h_rank": "#164",
+      "composite_rank": "#288"
+    },
+    "context": "Similar H-index rankings (diff: 8), Dramatic composite difference (110 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q7",
+    "question_type": "Type1_SimilarH_DramaticComposite",
+    "question_text": "Both researchers have similar citation impact (H-index ranks #164 vs #159). Who would you rank higher for overall research excellence?",
+    "researcher_a": {
+      "name": "Thomas Wolf",
+      "h_index": 34,
+      "h_rank": "#164",
+      "composite_rank": "#127"
+    },
+    "researcher_b": {
+      "name": "Ekaterina Shutova",
+      "h_index": 35,
+      "h_rank": "#159",
+      "composite_rank": "#257"
+    },
+    "context": "Similar H-index rankings (diff: 5), Dramatic composite difference (130 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q8",
+    "question_type": "Type1_SimilarH_DramaticComposite",
+    "question_text": "Both researchers have similar citation impact (H-index ranks #164 vs #159). Who would you rank higher for overall research excellence?",
+    "researcher_a": {
+      "name": "Matthew E. Peters",
+      "h_index": 34,
+      "h_rank": "#164",
+      "composite_rank": "#130"
+    },
+    "researcher_b": {
+      "name": "Jos\u00e9 Camacho-Collados",
+      "h_index": 35,
+      "h_rank": "#159",
+      "composite_rank": "#230"
+    },
+    "context": "Similar H-index rankings (diff: 5), Dramatic composite difference (100 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q9",
+    "question_type": "Type1_SimilarH_DramaticComposite",
+    "question_text": "Both researchers have similar citation impact (H-index ranks #159 vs #159). Who would you rank higher for overall research excellence?",
+    "researcher_a": {
+      "name": "Shaodan Ma",
+      "h_index": 35,
+      "h_rank": "#159",
+      "composite_rank": "#138"
+    },
+    "researcher_b": {
+      "name": "Bill Yuchen Lin",
+      "h_index": 35,
+      "h_rank": "#159",
+      "composite_rank": "#260"
+    },
+    "context": "Similar H-index rankings (diff: 0), Dramatic composite difference (122 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q10",
+    "question_type": "Type1_SimilarH_DramaticComposite",
+    "question_text": "Both researchers have similar citation impact (H-index ranks #164 vs #164). Who would you rank higher for overall research excellence?",
+    "researcher_a": {
+      "name": "Vijay V. Raghavan",
+      "h_index": 34,
+      "h_rank": "#164",
+      "composite_rank": "#141"
+    },
+    "researcher_b": {
+      "name": "J. King",
+      "h_index": 34,
+      "h_rank": "#164",
+      "composite_rank": "#265"
+    },
+    "context": "Similar H-index rankings (diff: 0), Dramatic composite difference (124 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q11",
+    "question_type": "Type2_SimilarComposite_DramaticH",
+    "question_text": "Both researchers have similar multi-dimensional scores (composite ranks #1 vs #3). Who has greater citation impact and influence?",
+    "researcher_a": {
+      "name": "Geoffrey E. Hinton",
+      "composite_rank": "#1",
+      "h_index": 159,
+      "h_rank": "#1"
+    },
+    "researcher_b": {
+      "name": "Adam L. Berger",
+      "composite_rank": "#3",
+      "h_index": 1,
+      "h_rank": "#945"
+    },
+    "context": "Similar composite rankings (diff: 2), Dramatic H-index difference (944 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q12",
+    "question_type": "Type2_SimilarComposite_DramaticH",
+    "question_text": "Both researchers have similar multi-dimensional scores (composite ranks #6 vs #2). Who has greater citation impact and influence?",
+    "researcher_a": {
+      "name": "G. Ceder",
+      "composite_rank": "#6",
+      "h_index": 153,
+      "h_rank": "#2"
+    },
+    "researcher_b": {
+      "name": "Michael Karlen",
+      "composite_rank": "#2",
+      "h_index": 2,
+      "h_rank": "#903"
+    },
+    "context": "Similar composite rankings (diff: 4), Dramatic H-index difference (901 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q13",
+    "question_type": "Type2_SimilarComposite_DramaticH",
+    "question_text": "Both researchers have similar multi-dimensional scores (composite ranks #4 vs #9). Who has greater citation impact and influence?",
+    "researcher_a": {
+      "name": "K. Kavukcuoglu",
+      "composite_rank": "#4",
+      "h_index": 74,
+      "h_rank": "#30"
+    },
+    "researcher_b": {
+      "name": "James Bradbury",
+      "composite_rank": "#9",
+      "h_index": 11,
+      "h_rank": "#542"
+    },
+    "context": "Similar composite rankings (diff: 5), Dramatic H-index difference (512 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q14",
+    "question_type": "Type2_SimilarComposite_DramaticH",
+    "question_text": "Both researchers have similar multi-dimensional scores (composite ranks #10 vs #20). Who has greater citation impact and influence?",
+    "researcher_a": {
+      "name": "R. Socher",
+      "composite_rank": "#10",
+      "h_index": 86,
+      "h_rank": "#23"
+    },
+    "researcher_b": {
+      "name": "Michael Elhadad",
+      "composite_rank": "#20",
+      "h_index": 1,
+      "h_rank": "#945"
+    },
+    "context": "Similar composite rankings (diff: 10), Dramatic H-index difference (922 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q15",
+    "question_type": "Type2_SimilarComposite_DramaticH",
+    "question_text": "Both researchers have similar multi-dimensional scores (composite ranks #39 vs #49). Who has greater citation impact and influence?",
+    "researcher_a": {
+      "name": "Ting Liu",
+      "composite_rank": "#39",
+      "h_index": 73,
+      "h_rank": "#33"
+    },
+    "researcher_b": {
+      "name": "Shlok S Deshmukh",
+      "composite_rank": "#49",
+      "h_index": 2,
+      "h_rank": "#903"
+    },
+    "context": "Similar composite rankings (diff: 10), Dramatic H-index difference (870 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q16",
+    "question_type": "Type2_SimilarComposite_DramaticH",
+    "question_text": "Both researchers have similar multi-dimensional scores (composite ranks #40 vs #49). Who has greater citation impact and influence?",
+    "researcher_a": {
+      "name": "E. Fox",
+      "composite_rank": "#40",
+      "h_index": 55,
+      "h_rank": "#68"
+    },
+    "researcher_b": {
+      "name": "Daniel Le'on Perin'an",
+      "composite_rank": "#49",
+      "h_index": 2,
+      "h_rank": "#903"
+    },
+    "context": "Similar composite rankings (diff: 9), Dramatic H-index difference (835 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q17",
+    "question_type": "Type2_SimilarComposite_DramaticH",
+    "question_text": "Both researchers have similar multi-dimensional scores (composite ranks #52 vs #62). Who has greater citation impact and influence?",
+    "researcher_a": {
+      "name": "Martha Palmer",
+      "composite_rank": "#52",
+      "h_index": 63,
+      "h_rank": "#48"
+    },
+    "researcher_b": {
+      "name": "Mark Neumann",
+      "composite_rank": "#62",
+      "h_index": 8,
+      "h_rank": "#635"
+    },
+    "context": "Similar composite rankings (diff: 10), Dramatic H-index difference (587 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q18",
+    "question_type": "Type2_SimilarComposite_DramaticH",
+    "question_text": "Both researchers have similar multi-dimensional scores (composite ranks #57 vs #67). Who has greater citation impact and influence?",
+    "researcher_a": {
+      "name": "Xuanjing Huang",
+      "composite_rank": "#57",
+      "h_index": 64,
+      "h_rank": "#44"
+    },
+    "researcher_b": {
+      "name": "Xiaodong Liu",
+      "composite_rank": "#67",
+      "h_index": 37,
+      "h_rank": "#150"
+    },
+    "context": "Similar composite rankings (diff: 10), Dramatic H-index difference (106 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q19",
+    "question_type": "Type2_SimilarComposite_DramaticH",
+    "question_text": "Both researchers have similar multi-dimensional scores (composite ranks #64 vs #74). Who has greater citation impact and influence?",
+    "researcher_a": {
+      "name": "Soujanya Poria",
+      "composite_rank": "#64",
+      "h_index": 71,
+      "h_rank": "#34"
+    },
+    "researcher_b": {
+      "name": "Aditya Koli",
+      "composite_rank": "#74",
+      "h_index": 1,
+      "h_rank": "#945"
+    },
+    "context": "Similar composite rankings (diff: 10), Dramatic H-index difference (911 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  },
+  {
+    "question_id": "Q20",
+    "question_type": "Type2_SimilarComposite_DramaticH",
+    "question_text": "Both researchers have similar multi-dimensional scores (composite ranks #69 vs #79). Who has greater citation impact and influence?",
+    "researcher_a": {
+      "name": "R. Collobert",
+      "composite_rank": "#69",
+      "h_index": 53,
+      "h_rank": "#77"
+    },
+    "researcher_b": {
+      "name": "Ilana Heinz",
+      "composite_rank": "#79",
+      "h_index": 1,
+      "h_rank": "#945"
+    },
+    "context": "Similar composite rankings (diff: 10), Dramatic H-index difference (868 positions)",
+    "answer_options": [
+      "Researcher A",
+      "Researcher B",
+      "Unable to determine"
+    ]
+  }
+]

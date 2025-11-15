@@ -1,0 +1,3947 @@
+{
+  "authorId": "2369548",
+  "name": "Junyuan Xie",
+  "affiliations": [],
+  "paperCount": 94,
+  "citationCount": 8270,
+  "hIndex": 22,
+  "papers": [
+    {
+      "paperId": "5fae84363dc2c340e59d0e657273346f268c87c4",
+      "publicationVenue": {
+        "id": "0d6f7fba-7092-46b3-8039-93458dba736b",
+        "name": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Acoust Speech Signal Process",
+          "IEEE Int Conf Acoust Speech Signal Process",
+          "ICASSP",
+          "International Conference on Acoustics, Speech, and Signal Processing"
+        ],
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000002"
+      },
+      "url": "https://www.semanticscholar.org/paper/5fae84363dc2c340e59d0e657273346f268c87c4",
+      "title": "Seeking Similarities While Removing Differences: Graph Neural Networks Based on Node Correlation",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2292577917",
+          "name": "Shuangjie Li"
+        },
+        {
+          "authorId": "2118875037",
+          "name": "Baoming Zhang"
+        },
+        {
+          "authorId": "2218819361",
+          "name": "Jianqing Song"
+        },
+        {
+          "authorId": "2292686287",
+          "name": "Yifan Xia"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2292665107",
+          "name": "Chongjun Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "132f2cbb71f54fcdb6b7df5c4a7280dbf861f3c4",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/132f2cbb71f54fcdb6b7df5c4a7280dbf861f3c4",
+      "title": "Self-supervised robust Graph Neural Networks against noisy graphs and noisy labels",
+      "venue": "Applied intelligence (Boston)",
+      "year": 2023,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2118572422",
+          "name": "Jinliang Yuan"
+        },
+        {
+          "authorId": "51290047",
+          "name": "Hualei Yu"
+        },
+        {
+          "authorId": "2057070058",
+          "name": "Meng Cao"
+        },
+        {
+          "authorId": "2218819361",
+          "name": "Jianqing Song"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2155371393",
+          "name": "Chongjun Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "2e1ba42f9b6c33b93a401ffb3b315b24386b97b8",
+      "publicationVenue": {
+        "id": "df12d289-f447-47d3-8846-75e39de3ab57",
+        "name": "Neurocomputing",
+        "type": "journal",
+        "issn": "0925-2312",
+        "url": "http://www.elsevier.com/locate/neucom",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09252312"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2e1ba42f9b6c33b93a401ffb3b315b24386b97b8",
+      "title": "A unified structure learning framework for graph attention networks",
+      "venue": "Neurocomputing",
+      "year": 2022,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2118572422",
+          "name": "Jinliang Yuan"
+        },
+        {
+          "authorId": "2057070058",
+          "name": "Meng Cao"
+        },
+        {
+          "authorId": "145242715",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "51290047",
+          "name": "Hualei Yu"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2155371393",
+          "name": "Chongjun Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "57da4d9886b9c80d6910d7c4aba4b0bc251f2cc8",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/57da4d9886b9c80d6910d7c4aba4b0bc251f2cc8",
+      "title": "Differentially Private AUC Computation in Vertical Federated Learning",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152147910",
+          "name": "Jiankai Sun"
+        },
+        {
+          "authorId": "2150441791",
+          "name": "Xin Yang"
+        },
+        {
+          "authorId": "3460027",
+          "name": "Yuanshun Yao"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": null,
+          "name": "Di Wu"
+        },
+        {
+          "authorId": "2146309022",
+          "name": "Chong Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "7db4c1b880da98466ea118af5c81d6c3d68e4986",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7db4c1b880da98466ea118af5c81d6c3d68e4986",
+      "title": "DPAUC: Differentially Private AUC Computation in Federated Learning",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2022,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152147910",
+          "name": "Jiankai Sun"
+        },
+        {
+          "authorId": "2150441791",
+          "name": "Xin Yang"
+        },
+        {
+          "authorId": "3460027",
+          "name": "Yuanshun Yao"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": null,
+          "name": "Di Wu"
+        },
+        {
+          "authorId": "2146309022",
+          "name": "Chong Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "c39df6645d78820074497b0267bd048f66d099fa",
+      "publicationVenue": {
+        "id": "5b12c785-cf12-40ca-b4d1-aefd13b26e39",
+        "name": "Intelligent Data Analysis",
+        "type": "journal",
+        "alternate_names": [
+          "Intell Data Anal"
+        ],
+        "issn": "1088-467X",
+        "url": "http://content.iospress.com/journals/intelligent-data-analysis",
+        "alternate_urls": [
+          "http://www.iospress.nl/intelligent-data-analysis/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c39df6645d78820074497b0267bd048f66d099fa",
+      "title": "Graph structure learning based on feature and label consistency",
+      "venue": "Intelligent Data Analysis",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2118572422",
+          "name": "Jinliang Yuan"
+        },
+        {
+          "authorId": "2024185246",
+          "name": "Yirong Yao"
+        },
+        {
+          "authorId": "144220174",
+          "name": "Ming Xu"
+        },
+        {
+          "authorId": "51290047",
+          "name": "Hualei Yu"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2155371393",
+          "name": "Chongjun Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "f2a08a9f1eddd1d1845aca6b905942a3a65e778e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/f2a08a9f1eddd1d1845aca6b905942a3a65e778e",
+      "title": "Differentially Private Label Protection in Split Learning",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2150441791",
+          "name": "Xin Yang"
+        },
+        {
+          "authorId": "2152147910",
+          "name": "Jiankai Sun"
+        },
+        {
+          "authorId": "3460027",
+          "name": "Yuanshun Yao"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2146309022",
+          "name": "Chong Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "30c20a643de17bd3375383f3416bbe973810e846",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/30c20a643de17bd3375383f3416bbe973810e846",
+      "title": "Vertical Federated Learning without Revealing Intersection Membership",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 36,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152147910",
+          "name": "Jiankai Sun"
+        },
+        {
+          "authorId": "2150439152",
+          "name": "Xin Yang"
+        },
+        {
+          "authorId": "3460027",
+          "name": "Yuanshun Yao"
+        },
+        {
+          "authorId": "2852051",
+          "name": "Aonan Zhang"
+        },
+        {
+          "authorId": "2153577134",
+          "name": "Weihao Gao"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2146309022",
+          "name": "Chong Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "42cbf5de56f5bc4992b5ab181e9a7f0705ecd5df",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/42cbf5de56f5bc4992b5ab181e9a7f0705ecd5df",
+      "title": "Label Leakage and Protection in Two-party Split Learning",
+      "venue": "International Conference on Learning Representations",
+      "year": 2021,
+      "citationCount": 131,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "33282601",
+          "name": "Oscar Li"
+        },
+        {
+          "authorId": null,
+          "name": "Jiankai Sun"
+        },
+        {
+          "authorId": "2150439152",
+          "name": "Xin Yang"
+        },
+        {
+          "authorId": "2028853",
+          "name": "Weihao Gao"
+        },
+        {
+          "authorId": "2108880169",
+          "name": "Hongyi Zhang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "145260024",
+          "name": "Virginia Smith"
+        },
+        {
+          "authorId": "2146309022",
+          "name": "Chong Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "69cf82188106e1fe3b917e328a2c966ac4107584",
+      "publicationVenue": {
+        "id": "7431ff67-91dc-41fa-b322-1b1ca657025f",
+        "name": "International Conference on Information and Knowledge Management",
+        "type": "conference",
+        "alternate_names": [
+          "Conference on Information and Knowledge Management",
+          "Conf Inf Knowl Manag",
+          "Int Conf Inf Knowl Manag",
+          "CIKM"
+        ],
+        "url": "http://www.cikm.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/69cf82188106e1fe3b917e328a2c966ac4107584",
+      "title": "Semi-Supervised and Self-Supervised Classification with Multi-View Graph Neural Networks",
+      "venue": "International Conference on Information and Knowledge Management",
+      "year": 2021,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2118572422",
+          "name": "Jinliang Yuan"
+        },
+        {
+          "authorId": "51290047",
+          "name": "Hualei Yu"
+        },
+        {
+          "authorId": "2057070058",
+          "name": "Meng Cao"
+        },
+        {
+          "authorId": "144220174",
+          "name": "Ming Xu"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "90a3037360362d2cb610186f32d7cf67fe2f21e1",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/90a3037360362d2cb610186f32d7cf67fe2f21e1",
+      "title": "Defending against Reconstruction Attack in Vertical Federated Learning",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152147910",
+          "name": "Jiankai Sun"
+        },
+        {
+          "authorId": "3460027",
+          "name": "Yuanshun Yao"
+        },
+        {
+          "authorId": "2153577134",
+          "name": "Weihao Gao"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2146309022",
+          "name": "Chong Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "0e383c28493f4ef8b5d2afb026787ac7e4e411cb",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/0e383c28493f4ef8b5d2afb026787ac7e4e411cb",
+      "title": "Extreme Gradient Boosting [R package xgboost version 1.2.0.1]",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 59,
+      "fieldsOfStudy": [
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "1913774",
+          "name": "Tianqi Chen"
+        },
+        {
+          "authorId": "2055130902",
+          "name": "Tong He"
+        },
+        {
+          "authorId": "52456526",
+          "name": "Michael Benesty"
+        },
+        {
+          "authorId": "114838817",
+          "name": "V. Khotilovich"
+        },
+        {
+          "authorId": "2119309071",
+          "name": "Yuan Tang"
+        },
+        {
+          "authorId": "2288374",
+          "name": "Hyunsu Cho"
+        },
+        {
+          "authorId": "1995670",
+          "name": "Kailong Chen"
+        },
+        {
+          "authorId": "143614585",
+          "name": "Rory Mitchell"
+        },
+        {
+          "authorId": "151032942",
+          "name": "Ignacio Cano"
+        },
+        {
+          "authorId": "2114112657",
+          "name": "Tianyi Zhou"
+        },
+        {
+          "authorId": "2112144327",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "1491081747",
+          "name": "Min Lin"
+        },
+        {
+          "authorId": "1804260",
+          "name": "Yifeng Geng"
+        },
+        {
+          "authorId": "2110420880",
+          "name": "Yutian Li"
+        }
+      ]
+    },
+    {
+      "paperId": "0ba8182fa99559257e99a56d790bf2c705c42537",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/0ba8182fa99559257e99a56d790bf2c705c42537",
+      "title": "Bag of Freebies for Training Object Detection Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 184,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2117991985",
+          "name": "Zhi Zhang"
+        },
+        {
+          "authorId": "2118328320",
+          "name": "Tong He"
+        },
+        {
+          "authorId": "2119077209",
+          "name": "Hang Zhang"
+        },
+        {
+          "authorId": "48806269",
+          "name": "Zhongyue Zhang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2112144126",
+          "name": "Mu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "20f5ede8f67c6d823662283fbd5cbe3c42cebfed",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/20f5ede8f67c6d823662283fbd5cbe3c42cebfed",
+      "title": "Multi-Entity Aspect-Based Sentiment Analysis with Context, Entity, Aspect Memory and Dependency Information",
+      "venue": "ACM Trans. Asian Low Resour. Lang. Inf. Process.",
+      "year": 2019,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2845918",
+          "name": "Jun Yang"
+        },
+        {
+          "authorId": "41032210",
+          "name": "Runqi Yang"
+        },
+        {
+          "authorId": "8692775",
+          "name": "Heng-yang Lu"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "21a0a789554de742e1aff47e4883a44fcaacde97",
+      "publicationVenue": {
+        "id": "6363ebc9-706a-4203-b804-148cbf8810ce",
+        "name": "IEEE International Conference on Bioinformatics and Biomedicine",
+        "type": "conference",
+        "alternate_names": [
+          "Bioinform Biomed",
+          "BIBM",
+          "IEEE Int Conf Bioinform Biomed",
+          "Bioinformatics and Biomedicine"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=283"
+      },
+      "url": "https://www.semanticscholar.org/paper/21a0a789554de742e1aff47e4883a44fcaacde97",
+      "title": "Win-win Cooperation: A Novel Dual-Modal Dual-Label Algorithm for Membrane Proteins Function Pre-screen",
+      "venue": "IEEE International Conference on Bioinformatics and Biomedicine",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2419419",
+          "name": "Yi Zhang"
+        },
+        {
+          "authorId": "1908130254",
+          "name": "Zhecheng Zhang"
+        },
+        {
+          "authorId": "2117983230",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "8692775",
+          "name": "Heng-yang Lu"
+        },
+        {
+          "authorId": "2152827248",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "2733574d40ce8e861d7d658bfc33ab36f529864d",
+      "publicationVenue": {
+        "id": "c22e7c36-3bfa-43e1-bb7b-edccdea2a780",
+        "name": "Journal of machine learning research",
+        "type": "journal",
+        "alternate_names": [
+          "Journal of Machine Learning Research",
+          "J mach learn res",
+          "J Mach Learn Res"
+        ],
+        "issn": "1532-4435",
+        "alternate_issns": [
+          "1533-7928"
+        ],
+        "url": "http://www.ai.mit.edu/projects/jmlr/",
+        "alternate_urls": [
+          "http://jmlr.csail.mit.edu/",
+          "http://www.jmlr.org/",
+          "http://portal.acm.org/affiliated/jmlr"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2733574d40ce8e861d7d658bfc33ab36f529864d",
+      "title": "GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing",
+      "venue": "Journal of machine learning research",
+      "year": 2019,
+      "citationCount": 190,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        },
+        {
+          "authorId": "2140062900",
+          "name": "He He"
+        },
+        {
+          "authorId": "2118328320",
+          "name": "Tong He"
+        },
+        {
+          "authorId": "8789103",
+          "name": "Leonard Lausen"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "49955730",
+          "name": "Haibin Lin"
+        },
+        {
+          "authorId": "3008587",
+          "name": "Xingjian Shi"
+        },
+        {
+          "authorId": "2108755854",
+          "name": "Chenguang Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "40881843",
+          "name": "Sheng Zha"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2119077209",
+          "name": "Hang Zhang"
+        },
+        {
+          "authorId": "2117991985",
+          "name": "Zhi Zhang"
+        },
+        {
+          "authorId": "48806269",
+          "name": "Zhongyue Zhang"
+        },
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "46759150",
+          "name": "Yi Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "6ab21bdffa91fa2460e7f8f8bb8f756abb29484e",
+      "publicationVenue": {
+        "id": "768b87bb-8a18-4d9c-a161-4d483c776bcf",
+        "name": "Computer Vision and Pattern Recognition",
+        "type": "conference",
+        "alternate_names": [
+          "CVPR",
+          "Comput Vis Pattern Recognit"
+        ],
+        "issn": "1063-6919",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147",
+        "alternate_urls": [
+          "https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6ab21bdffa91fa2460e7f8f8bb8f756abb29484e",
+      "title": "Co-Occurrent Features in Semantic Segmentation",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2019,
+      "citationCount": 247,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2119077209",
+          "name": "Hang Zhang"
+        },
+        {
+          "authorId": "48213346",
+          "name": "Han Zhang"
+        },
+        {
+          "authorId": "2108755854",
+          "name": "Chenguang Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "76f5c44be9d0a94320c918f56593f4961528120d",
+      "publicationVenue": {
+        "id": "6c3a9833-5fac-49d3-b7e7-64910bd40b4e",
+        "name": "Adaptive Agents and Multi-Agent Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Adapt Agent Multi-agent Syst",
+          "International Joint Conference on Autonomous Agents & Multiagent Systems",
+          "Adapt Agent Multi-agents Syst",
+          "AAMAS",
+          "Adaptive Agents and Multi-Agents Systems",
+          "Int Jt Conf Auton Agent  Multiagent Syst"
+        ],
+        "url": "http://www.ifaamas.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/76f5c44be9d0a94320c918f56593f4961528120d",
+      "title": "Multi-unit Budget Feasible Mechanisms for Cellular Traffic Offloading",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2019,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146665800",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "49889831",
+          "name": "Yuan Zhang"
+        },
+        {
+          "authorId": "2056922962",
+          "name": "Yu Qiao"
+        },
+        {
+          "authorId": "2152827248",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "a248cb5f9dabeac8184dfdabd69a14acd544208f",
+      "publicationVenue": {
+        "id": "5b12c785-cf12-40ca-b4d1-aefd13b26e39",
+        "name": "Intelligent Data Analysis",
+        "type": "journal",
+        "alternate_names": [
+          "Intell Data Anal"
+        ],
+        "issn": "1088-467X",
+        "url": "http://content.iospress.com/journals/intelligent-data-analysis",
+        "alternate_urls": [
+          "http://www.iospress.nl/intelligent-data-analysis/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a248cb5f9dabeac8184dfdabd69a14acd544208f",
+      "title": "Utilizing Recurrent Neural Network for topic discovery in short text scenarios",
+      "venue": "Intelligent Data Analysis",
+      "year": 2019,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8692775",
+          "name": "Heng-yang Lu"
+        },
+        {
+          "authorId": "2052132019",
+          "name": "Ning Kang"
+        },
+        {
+          "authorId": "2117014417",
+          "name": "Yun Li"
+        },
+        {
+          "authorId": "3123874",
+          "name": "Qianyi Zhan"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "a87d9785898f0621f06548d0ab4cbb752e01dee4",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a87d9785898f0621f06548d0ab4cbb752e01dee4",
+      "title": "Transfer Learning with Deep Neural Networks for Computer Vision",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "cc7594a4a40cca6b485c03a85ee5fbe2c7856835",
+      "publicationVenue": {
+        "id": "5b12c785-cf12-40ca-b4d1-aefd13b26e39",
+        "name": "Intelligent Data Analysis",
+        "type": "journal",
+        "alternate_names": [
+          "Intell Data Anal"
+        ],
+        "issn": "1088-467X",
+        "url": "http://content.iospress.com/journals/intelligent-data-analysis",
+        "alternate_urls": [
+          "http://www.iospress.nl/intelligent-data-analysis/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/cc7594a4a40cca6b485c03a85ee5fbe2c7856835",
+      "title": "A general framework for multi-label learning towards class correlations and class imbalance",
+      "venue": "Intelligent Data Analysis",
+      "year": 2019,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2111034252",
+          "name": "Yue Peng"
+        },
+        {
+          "authorId": "144898255",
+          "name": "Edward W. Huang"
+        },
+        {
+          "authorId": "2146662085",
+          "name": "Gang Chen"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "27e0fa4e0346b78fbadade84063436e8542d47ac",
+      "publicationVenue": {
+        "id": "24e5c42b-e7ca-4f5a-8ab0-a1933aaeee30",
+        "name": "International Conference on Algorithms and Architectures for Parallel Processing",
+        "type": "conference",
+        "alternate_names": [
+          "ICA3PP",
+          "Int Conf Algorithm Archit Parallel Process"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1266"
+      },
+      "url": "https://www.semanticscholar.org/paper/27e0fa4e0346b78fbadade84063436e8542d47ac",
+      "title": "CuAPSS: A Hybrid CUDA Solution for AllPairs Similarity Search",
+      "venue": "International Conference on Algorithms and Architectures for Parallel Processing",
+      "year": 2018,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2115319475",
+          "name": "Yilin Feng"
+        },
+        {
+          "authorId": "2109541562",
+          "name": "Jie Tang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "29309743870c825f9645a4803af727402462e513",
+      "publicationVenue": {
+        "id": "768b87bb-8a18-4d9c-a161-4d483c776bcf",
+        "name": "Computer Vision and Pattern Recognition",
+        "type": "conference",
+        "alternate_names": [
+          "CVPR",
+          "Comput Vis Pattern Recognit"
+        ],
+        "issn": "1063-6919",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147",
+        "alternate_urls": [
+          "https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/29309743870c825f9645a4803af727402462e513",
+      "title": "Bag of Tricks for Image Classification with Convolutional Neural Networks",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2018,
+      "citationCount": 1375,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2118328320",
+          "name": "Tong He"
+        },
+        {
+          "authorId": "2117991985",
+          "name": "Zhi Zhang"
+        },
+        {
+          "authorId": "2119077209",
+          "name": "Hang Zhang"
+        },
+        {
+          "authorId": "48806269",
+          "name": "Zhongyue Zhang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2112143972",
+          "name": "Mu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "2c5339ed725f6d3cf0f583b25e0627169121c724",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2c5339ed725f6d3cf0f583b25e0627169121c724",
+      "title": "Multi-Entity Aspect-Based Sentiment Analysis With Context, Entity and Aspect Memory",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2018,
+      "citationCount": 39,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2845918",
+          "name": "Jun Yang"
+        },
+        {
+          "authorId": "41032210",
+          "name": "Runqi Yang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "35b5d50851af3d8f7c0fdc750855a47fbc3c9da9",
+      "publicationVenue": {
+        "id": "bc5a5118-8f5c-49c7-806e-fb8d44c10ae7",
+        "name": "International Conference on Neural Information Processing",
+        "type": "conference",
+        "alternate_names": [
+          "ICONIP",
+          "Int Conf Neural Inf Process"
+        ],
+        "url": "https://link.springer.com/conference/iconip"
+      },
+      "url": "https://www.semanticscholar.org/paper/35b5d50851af3d8f7c0fdc750855a47fbc3c9da9",
+      "title": "Constructing Pseudo Documents with Semantic Similarity for Short Text Topic Discovery",
+      "venue": "International Conference on Neural Information Processing",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8692775",
+          "name": "Heng-yang Lu"
+        },
+        {
+          "authorId": "2117014417",
+          "name": "Yun Li"
+        },
+        {
+          "authorId": "2118762498",
+          "name": "Chi Tang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "86848214d72b56756fa8ce16f2f9561bce2325cf",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/86848214d72b56756fa8ce16f2f9561bce2325cf",
+      "title": "Exploiting Global Semantic Similarity Biterms for Short-Text Topic Discovery",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2018,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8692775",
+          "name": "Heng-yang Lu"
+        },
+        {
+          "authorId": "52206508",
+          "name": "Gao-Jian Ge"
+        },
+        {
+          "authorId": "2117014417",
+          "name": "Yun Li"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "c097be22f1e87a846385047346b73610d91fea4e",
+      "publicationVenue": {
+        "id": "f9af8000-42f8-410d-a622-e8811e41660a",
+        "name": "Conference on Uncertainty in Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Uncertainty in Artificial Intelligence",
+          "UAI",
+          "Conf Uncertain Artif Intell",
+          "Uncertain Artif Intell"
+        ],
+        "url": "http://www.auai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c097be22f1e87a846385047346b73610d91fea4e",
+      "title": "GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2018,
+      "citationCount": 557,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "73329314",
+          "name": "Jiani Zhang"
+        },
+        {
+          "authorId": "3008587",
+          "name": "Xingjian Shi"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "144988795",
+          "name": "Hao Ma"
+        },
+        {
+          "authorId": "145310663",
+          "name": "Irwin King"
+        },
+        {
+          "authorId": "1739816",
+          "name": "D. Yeung"
+        }
+      ]
+    },
+    {
+      "paperId": "d8155ec61f59e212c6305174a6ebdf993718a8da",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/d8155ec61f59e212c6305174a6ebdf993718a8da",
+      "title": "Fast Document Cosine Similarity Self-Join on GPUs",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2018,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2115319475",
+          "name": "Yilin Feng"
+        },
+        {
+          "authorId": "2109541562",
+          "name": "Jie Tang"
+        },
+        {
+          "authorId": "36523639",
+          "name": "Meilin Liu"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "0705ef5c91f61611cf30463e42a5be3762c78305",
+      "publicationVenue": {
+        "id": "9cf86359-a093-42b4-8bc0-6fd56465c360",
+        "name": "World wide web (Bussum)",
+        "type": "journal",
+        "alternate_names": [
+          "World Wide Web",
+          "World wide web (bussum"
+        ],
+        "issn": "1386-145X",
+        "url": "https://link.springer.com/journal/11280"
+      },
+      "url": "https://www.semanticscholar.org/paper/0705ef5c91f61611cf30463e42a5be3762c78305",
+      "title": "Community detection for emerging social networks",
+      "venue": "World wide web (Bussum)",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3123874",
+          "name": "Qianyi Zhan"
+        },
+        {
+          "authorId": "1718428",
+          "name": "Jiawei Zhang"
+        },
+        {
+          "authorId": "144019071",
+          "name": "Philip S. Yu"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "23ac9ec37595051c5d1e9811bf2979b4c854d70d",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/23ac9ec37595051c5d1e9811bf2979b4c854d70d",
+      "title": "Don't Forget the Quantifiable Relationship between Words: Using Recurrent Neural Network for Short Text Topic Discovery",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2017,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8692775",
+          "name": "Heng-yang Lu"
+        },
+        {
+          "authorId": "9563589",
+          "name": "Lu-Yao Xie"
+        },
+        {
+          "authorId": "2052132019",
+          "name": "Ning Kang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "44aed969c9bd6586cc25f20a12b7e8132a938a15",
+      "publicationVenue": {
+        "id": "6363ebc9-706a-4203-b804-148cbf8810ce",
+        "name": "IEEE International Conference on Bioinformatics and Biomedicine",
+        "type": "conference",
+        "alternate_names": [
+          "Bioinform Biomed",
+          "BIBM",
+          "IEEE Int Conf Bioinform Biomed",
+          "Bioinformatics and Biomedicine"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=283"
+      },
+      "url": "https://www.semanticscholar.org/paper/44aed969c9bd6586cc25f20a12b7e8132a938a15",
+      "title": "Multi-label learning by exploiting label correlations for TCM diagnosing Parkinson's disease",
+      "venue": "IEEE International Conference on Bioinformatics and Biomedicine",
+      "year": 2017,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2111034252",
+          "name": "Yue Peng"
+        },
+        {
+          "authorId": "2118762498",
+          "name": "Chi Tang"
+        },
+        {
+          "authorId": "2146662085",
+          "name": "Gang Chen"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "71646b9efe79a298216f904f4b3bee6722f3628a",
+      "publicationVenue": {
+        "id": "9cf86359-a093-42b4-8bc0-6fd56465c360",
+        "name": "World wide web (Bussum)",
+        "type": "journal",
+        "alternate_names": [
+          "World Wide Web",
+          "World wide web (bussum"
+        ],
+        "issn": "1386-145X",
+        "url": "https://link.springer.com/journal/11280"
+      },
+      "url": "https://www.semanticscholar.org/paper/71646b9efe79a298216f904f4b3bee6722f3628a",
+      "title": "Community detection for emerging social networks",
+      "venue": "World wide web (Bussum)",
+      "year": 2017,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3123874",
+          "name": "Qianyi Zhan"
+        },
+        {
+          "authorId": "1718428",
+          "name": "Jiawei Zhang"
+        },
+        {
+          "authorId": "144019071",
+          "name": "Philip S. Yu"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "7fdffe914878b7e95cada87986325aa1c2ff3fae",
+      "publicationVenue": {
+        "id": "6c3a9833-5fac-49d3-b7e7-64910bd40b4e",
+        "name": "Adaptive Agents and Multi-Agent Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Adapt Agent Multi-agent Syst",
+          "International Joint Conference on Autonomous Agents & Multiagent Systems",
+          "Adapt Agent Multi-agents Syst",
+          "AAMAS",
+          "Adaptive Agents and Multi-Agents Systems",
+          "Int Jt Conf Auton Agent  Multiagent Syst"
+        ],
+        "url": "http://www.ifaamas.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7fdffe914878b7e95cada87986325aa1c2ff3fae",
+      "title": "Synthesizing Optimal Social Laws for Strategical Agents via Bayesian Mechanism Design",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2017,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146665800",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "2152827248",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "a84a29ad047fb244ab1b53a8ae0bf8ba697c6680",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/a84a29ad047fb244ab1b53a8ae0bf8ba697c6680",
+      "title": "Multi-label Learning by Exploiting Label Correlations with LDA",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2017,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2111034252",
+          "name": "Yue Peng"
+        },
+        {
+          "authorId": "2146662085",
+          "name": "Gang Chen"
+        },
+        {
+          "authorId": "144220174",
+          "name": "Ming Xu"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "ac3c32e1409ca54e1c066f814b62a7d9658e8c54",
+      "publicationVenue": {
+        "id": "6c3a9833-5fac-49d3-b7e7-64910bd40b4e",
+        "name": "Adaptive Agents and Multi-Agent Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Adapt Agent Multi-agent Syst",
+          "International Joint Conference on Autonomous Agents & Multiagent Systems",
+          "Adapt Agent Multi-agents Syst",
+          "AAMAS",
+          "Adaptive Agents and Multi-Agents Systems",
+          "Int Jt Conf Auton Agent  Multiagent Syst"
+        ],
+        "url": "http://www.ifaamas.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ac3c32e1409ca54e1c066f814b62a7d9658e8c54",
+      "title": "Mechanism Design for Social Law Synthesis under Incomplete Information",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2017,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146665800",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "2152827248",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "b6fcdf7246b08e4d52705ea15659ca54d46a1868",
+      "publicationVenue": {
+        "id": "94dbcf01-6b5d-4424-b243-c41a1790a898",
+        "name": "IEEE Transactions on Nanobioscience",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Nanobioscience"
+        ],
+        "issn": "1536-1241",
+        "alternate_issns": [
+          "1558-2639"
+        ],
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=7728"
+      },
+      "url": "https://www.semanticscholar.org/paper/b6fcdf7246b08e4d52705ea15659ca54d46a1868",
+      "title": "Inferring Social Influence of Anti-Tobacco Mass Media Campaign",
+      "venue": "IEEE Transactions on Nanobioscience",
+      "year": 2017,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Psychology",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3123874",
+          "name": "Qianyi Zhan"
+        },
+        {
+          "authorId": "1718428",
+          "name": "Jiawei Zhang"
+        },
+        {
+          "authorId": "144019071",
+          "name": "Philip S. Yu"
+        },
+        {
+          "authorId": "35539880",
+          "name": "S. Emery"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "28fc7e119ec7d3bd0cf7988a0aa6cdfad1152b31",
+      "publicationVenue": {
+        "id": "167fa0ca-e88a-4ef7-a16f-bc66c457c806",
+        "name": "European Conference on Computer Vision",
+        "type": "conference",
+        "alternate_names": [
+          "ECCV",
+          "Eur Conf Comput Vis"
+        ],
+        "url": "https://link.springer.com/conference/eccv"
+      },
+      "url": "https://www.semanticscholar.org/paper/28fc7e119ec7d3bd0cf7988a0aa6cdfad1152b31",
+      "title": "Deep3D: Fully Automatic 2D-to-3D Video Conversion with Deep Convolutional Neural Networks",
+      "venue": "European Conference on Computer Vision",
+      "year": 2016,
+      "citationCount": 425,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2983898",
+          "name": "Ross B. Girshick"
+        },
+        {
+          "authorId": "143787583",
+          "name": "Ali Farhadi"
+        }
+      ]
+    },
+    {
+      "paperId": "4e36eade62a52ea5590c145796aeb9e71ab0daf1",
+      "publicationVenue": {
+        "id": "9ec28b59-afd2-4d10-9a97-44d984123c30",
+        "name": "IEEE International Conference on Information Reuse and Integration",
+        "type": "conference",
+        "alternate_names": [
+          "Information Reuse and Integration",
+          "IRI",
+          "IEEE Int Conf Inf Reuse Integr",
+          "Inf Reuse Integr"
+        ],
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/1001046/all-proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/4e36eade62a52ea5590c145796aeb9e71ab0daf1",
+      "title": "Discover Tipping Users for Cross Network Influencing (Invited Paper)",
+      "venue": "IEEE International Conference on Information Reuse and Integration",
+      "year": 2016,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3123874",
+          "name": "Qianyi Zhan"
+        },
+        {
+          "authorId": "1718428",
+          "name": "Jiawei Zhang"
+        },
+        {
+          "authorId": "144019071",
+          "name": "Philip S. Yu"
+        },
+        {
+          "authorId": "35539880",
+          "name": "S. Emery"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "7008b898a1c5f69b294eca3f53be8ab221c2c08a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/7008b898a1c5f69b294eca3f53be8ab221c2c08a",
+      "title": "Discover Tipping Users For Cross Network Influencing",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 15,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3123874",
+          "name": "Qianyi Zhan"
+        },
+        {
+          "authorId": "1718428",
+          "name": "Jiawei Zhang"
+        },
+        {
+          "authorId": "144019071",
+          "name": "Philip S. Yu"
+        },
+        {
+          "authorId": "35539880",
+          "name": "S. Emery"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "7992cf27b1bdb078d9638effd5dd4f90129ddda4",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/7992cf27b1bdb078d9638effd5dd4f90129ddda4",
+      "title": "New Efficient Certificateless Blind Signature Scheme",
+      "venue": "2016 IEEE Trustcom/BigDataSE/ISPA",
+      "year": 2016,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49177869",
+          "name": "Haibin Chen"
+        },
+        {
+          "authorId": "2152827248",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "d7ef391eddc9e0abcc44d06deaca144312ff76fa",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/d7ef391eddc9e0abcc44d06deaca144312ff76fa",
+      "title": "A Two-Dimensional Genetic Algorithm for Identifying Overlapping Communities in Dynamic Networks",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2016,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2151573117",
+          "name": "Qi Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "f6c260f2ca668bfeed54eabf7ba5d0000a110629",
+      "publicationVenue": {
+        "id": "6363ebc9-706a-4203-b804-148cbf8810ce",
+        "name": "IEEE International Conference on Bioinformatics and Biomedicine",
+        "type": "conference",
+        "alternate_names": [
+          "Bioinform Biomed",
+          "BIBM",
+          "IEEE Int Conf Bioinform Biomed",
+          "Bioinformatics and Biomedicine"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=283"
+      },
+      "url": "https://www.semanticscholar.org/paper/f6c260f2ca668bfeed54eabf7ba5d0000a110629",
+      "title": "Inferring Social Influence of anti-Tobacco mass media campaigns",
+      "venue": "IEEE International Conference on Bioinformatics and Biomedicine",
+      "year": 2016,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "3123874",
+          "name": "Qianyi Zhan"
+        },
+        {
+          "authorId": "1718428",
+          "name": "Jiawei Zhang"
+        },
+        {
+          "authorId": "144019071",
+          "name": "Philip S. Yu"
+        },
+        {
+          "authorId": "35539880",
+          "name": "S. Emery"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "f8718330f3c87188681b1b37cad570c8c1e09810",
+      "publicationVenue": {
+        "id": "5aca6456-76d5-4208-84d8-a6b60228b52b",
+        "name": "European Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "ECAI",
+          "Eur Conf Artif Intell",
+          "International Conference on Electronics, Computers and Artificial Intelligence",
+          "Int Conf Electron Comput Artif Intell",
+          "International Electronics, Computers and Artificial Intelligence",
+          "Int Electron Comput Artif Intell"
+        ],
+        "url": "http://www.eccai.org/",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/conhome/1802942/all-proceedings"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f8718330f3c87188681b1b37cad570c8c1e09810",
+      "title": "False-Name-Proof Mechanisms for Path Auctions in Social Networks",
+      "venue": "European Conference on Artificial Intelligence",
+      "year": 2016,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152827248",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "49177869",
+          "name": "Haibin Chen"
+        },
+        {
+          "authorId": "2146665800",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "72a12cdac74c8539132ad89bf38568f48ea0f371",
+      "publicationVenue": {
+        "id": "1e517cb2-1ca1-45b8-964a-456366bdcdc1",
+        "name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "PAKDD",
+          "Pacific-asia Conf Knowl Discov Data Min"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/72a12cdac74c8539132ad89bf38568f48ea0f371",
+      "title": "Influence Maximization Across Partially Aligned Heterogenous Social Networks",
+      "venue": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+      "year": 2015,
+      "citationCount": 85,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3123874",
+          "name": "Qianyi Zhan"
+        },
+        {
+          "authorId": "1718428",
+          "name": "Jiawei Zhang"
+        },
+        {
+          "authorId": "3210262",
+          "name": "Senzhang Wang"
+        },
+        {
+          "authorId": "144019071",
+          "name": "Philip S. Yu"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "7cfe2d646470662c5d1642e2c35b6cdf4424d67a",
+      "publicationVenue": {
+        "id": "4c57b6f2-ebab-420d-baf9-cd595e2f2a63",
+        "name": "AI Communications",
+        "type": "journal",
+        "alternate_names": [
+          "Ai Communications",
+          "AI Commun",
+          "Ai Commun"
+        ],
+        "issn": "0921-7126",
+        "url": "http://content.iospress.com/journals/ai-communications",
+        "alternate_urls": [
+          "https://www.iospress.nl/html/09217126.php",
+          "https://www.iospress.nl/journal/ai-communications/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7cfe2d646470662c5d1642e2c35b6cdf4424d67a",
+      "title": "Cost optimal planning with multi-valued landmarks",
+      "venue": "AI Communications",
+      "year": 2015,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152827248",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "84fb25d97a04f4692c40047f44d527afd3a7f9a7",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/84fb25d97a04f4692c40047f44d527afd3a7f9a7",
+      "title": "Never Ignore the Significance of Different Anomalies: A Cost-Sensitive Algorithm Based on Loss Function for Anomaly Detection",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2015,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8692775",
+          "name": "Heng-yang Lu"
+        },
+        {
+          "authorId": "2157326003",
+          "name": "Fei Chen"
+        },
+        {
+          "authorId": "144220174",
+          "name": "Ming Xu"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "90e8a37170bc2bd51879bbcb3c3c75a628441921",
+      "publicationVenue": {
+        "id": "6363ebc9-706a-4203-b804-148cbf8810ce",
+        "name": "IEEE International Conference on Bioinformatics and Biomedicine",
+        "type": "conference",
+        "alternate_names": [
+          "Bioinform Biomed",
+          "BIBM",
+          "IEEE Int Conf Bioinform Biomed",
+          "Bioinformatics and Biomedicine"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=283"
+      },
+      "url": "https://www.semanticscholar.org/paper/90e8a37170bc2bd51879bbcb3c3c75a628441921",
+      "title": "Entropy chain multi-label classifiers for traditional medicine diagnosing Parkinson's disease",
+      "venue": "IEEE International Conference on Bioinformatics and Biomedicine",
+      "year": 2015,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2111034252",
+          "name": "Yue Peng"
+        },
+        {
+          "authorId": "2055724788",
+          "name": "Ming Fang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "cd5a6baae13337b207c2dbef1176a5241f4fa730",
+      "publicationVenue": {
+        "id": "6363ebc9-706a-4203-b804-148cbf8810ce",
+        "name": "IEEE International Conference on Bioinformatics and Biomedicine",
+        "type": "conference",
+        "alternate_names": [
+          "Bioinform Biomed",
+          "BIBM",
+          "IEEE Int Conf Bioinform Biomed",
+          "Bioinformatics and Biomedicine"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=283"
+      },
+      "url": "https://www.semanticscholar.org/paper/cd5a6baae13337b207c2dbef1176a5241f4fa730",
+      "title": "Entropy chain multi-label classifiers for Traditional Medicine diagnosing Parkinson's disease",
+      "venue": "IEEE International Conference on Bioinformatics and Biomedicine",
+      "year": 2015,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2111034252",
+          "name": "Yue Peng"
+        },
+        {
+          "authorId": "2055724788",
+          "name": "Ming Fang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "f44ff4fc0ed0142cb18472a5ba421bb538aa837e",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f44ff4fc0ed0142cb18472a5ba421bb538aa837e",
+      "title": "Unsupervised Deep Embedding for Clustering Analysis",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "citationCount": 2778,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2983898",
+          "name": "Ross B. Girshick"
+        },
+        {
+          "authorId": "143787583",
+          "name": "Ali Farhadi"
+        }
+      ]
+    },
+    {
+      "paperId": "28195bafa4aba345125b648d5443dd48c97ffde5",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/28195bafa4aba345125b648d5443dd48c97ffde5",
+      "title": "Automated Model Revision for Coordinated Open Systems",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2014,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146665800",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "495d3623cd3ed7384412ec36ef1f55946948db1c",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/495d3623cd3ed7384412ec36ef1f55946948db1c",
+      "title": "A Lock-free Multi-processing Session Persistence Mechanism for Load Balancing in Multi-core Environment: A Lock-free Multi-processing Session Persistence Mechanism for Load Balancing in Multi-core Environment",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2873890",
+          "name": "He-Sheng Wu"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "67ddfb2b2fb987d806e25660cf8ff3e4ed21fc15",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/67ddfb2b2fb987d806e25660cf8ff3e4ed21fc15",
+      "title": "Text Summarization Based on Sentence Selection with Semantic Representation",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2014,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Chi Zhang"
+        },
+        {
+          "authorId": "2152827248",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "901090fef74fe4bd725cc044a348e23ab7617ac2",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/901090fef74fe4bd725cc044a348e23ab7617ac2",
+      "title": "Multi-label Emotion Classification for Tweets in Weibo: Method and Application",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2014,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146159136",
+          "name": "Jun Yang"
+        },
+        {
+          "authorId": "2112536978",
+          "name": "Lan Jiang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "e7cb24dbe26c0f58127891a7b00adac604560d5c",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e7cb24dbe26c0f58127891a7b00adac604560d5c",
+      "title": "Robust Transition Estimation for Community Evolution and Evolutionary Outlier Detection: Robust Transition Estimation for Community Evolution and Evolutionary Outlier Detection",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112243466",
+          "name": "Yun Hu"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2146665800",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "2098325",
+          "name": "Zuojian Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "f5143d4d9d90775bc8e805fb8cf4adfdac22c291",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/f5143d4d9d90775bc8e805fb8cf4adfdac22c291",
+      "title": "Multi-label Classification: Dealing with Imbalance by Combining Labels",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2014,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2055724788",
+          "name": "Ming Fang"
+        },
+        {
+          "authorId": "2122427828",
+          "name": "Yuqi Xiao"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "f56d27ad2be0d5608f4f869a5a256216f1dd3ca6",
+      "publicationVenue": {
+        "id": "6c3a9833-5fac-49d3-b7e7-64910bd40b4e",
+        "name": "Adaptive Agents and Multi-Agent Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Adapt Agent Multi-agent Syst",
+          "International Joint Conference on Autonomous Agents & Multiagent Systems",
+          "Adapt Agent Multi-agents Syst",
+          "AAMAS",
+          "Adaptive Agents and Multi-Agents Systems",
+          "Int Jt Conf Auton Agent  Multiagent Syst"
+        ],
+        "url": "http://www.ifaamas.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f56d27ad2be0d5608f4f869a5a256216f1dd3ca6",
+      "title": "Cost optimal planning with LP-based multi-valued landmark heuristic",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2014,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152827248",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "21e68775314d3f1ff76b701696aff02fb98ef115",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/21e68775314d3f1ff76b701696aff02fb98ef115",
+      "title": "A Spin-Glass Model Based Local Community Detection Method in Social Networks",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2013,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2114093475",
+          "name": "Lei Pan"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "24adf99b51966f535d0822b33b35a93ee1423cf8",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/24adf99b51966f535d0822b33b35a93ee1423cf8",
+      "title": "An Algorithm for Mining Top K Influential Community Based Evolutionary Outliers in Temporal Dataset",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2013,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112243466",
+          "name": "Yun Hu"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2098325",
+          "name": "Zuojian Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "3ba82fc1d7d4255a4d39ad5130d02f9e9df084cd",
+      "publicationVenue": {
+        "id": "1638196b-ccac-43cf-afbd-132094420c67",
+        "name": "Rough Sets and Knowledge Technology",
+        "type": "conference",
+        "alternate_names": [
+          "RSKT",
+          "Rough Set Knowl Technol"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3ba82fc1d7d4255a4d39ad5130d02f9e9df084cd",
+      "title": "Three-Way Decision Based Overlapping Community Detection",
+      "venue": "Rough Sets and Knowledge Technology",
+      "year": 2013,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108175166",
+          "name": "Youli Liu"
+        },
+        {
+          "authorId": "2114093475",
+          "name": "Lei Pan"
+        },
+        {
+          "authorId": "1684067",
+          "name": "Xiuyi Jia"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "42528a9ae0fb0cc491a78e6018705ed2e438508d",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/42528a9ae0fb0cc491a78e6018705ed2e438508d",
+      "title": "CPP-SNS: A Solution to Influence Maximization Problem under Cost Control",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2013,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3123874",
+          "name": "Qianyi Zhan"
+        },
+        {
+          "authorId": "46402637",
+          "name": "Hongchao Yang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "58c2dc2190964853a0362cb56e03816ff5b16098",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/58c2dc2190964853a0362cb56e03816ff5b16098",
+      "title": "TeraScaler ELB-an Algorithm of Prediction-Based Elastic Load Balancing Resource Management in Cloud Computing",
+      "venue": "2013 27th International Conference on Advanced Information Networking and Applications Workshops",
+      "year": 2013,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2873890",
+          "name": "He-Sheng Wu"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "ae244af8f6cb7e5614d90b940fb4e4cf0ece4596",
+      "publicationVenue": {
+        "id": "6c3a9833-5fac-49d3-b7e7-64910bd40b4e",
+        "name": "Adaptive Agents and Multi-Agent Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Adapt Agent Multi-agent Syst",
+          "International Joint Conference on Autonomous Agents & Multiagent Systems",
+          "Adapt Agent Multi-agents Syst",
+          "AAMAS",
+          "Adaptive Agents and Multi-Agents Systems",
+          "Int Jt Conf Auton Agent  Multiagent Syst"
+        ],
+        "url": "http://www.ifaamas.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ae244af8f6cb7e5614d90b940fb4e4cf0ece4596",
+      "title": "On the complexity of undominated core and farsighted solution concepts in coalitional games",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2013,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2360436",
+          "name": "Yusen Zhan"
+        },
+        {
+          "authorId": "2146665800",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "36523639",
+          "name": "Meilin Liu"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "c4a791607d11509b4938c3be62ab277f1f3033e3",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c4a791607d11509b4938c3be62ab277f1f3033e3",
+      "title": "Planning with Multi-Valued Landmarks",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2013,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152827248",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2146665800",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "81860086",
+          "name": "Meilin Liu"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "e730a285853cd0057685d47a4db1021b928109ab",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e730a285853cd0057685d47a4db1021b928109ab",
+      "title": "A Static Recognition Mechanism for Indirect Call Based on Static Single Assignment",
+      "venue": "ICPCA/SWS",
+      "year": 2013,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112312020",
+          "name": "Shixiang Gao"
+        },
+        {
+          "authorId": "48568265",
+          "name": "Tao Zheng"
+        },
+        {
+          "authorId": "2057931757",
+          "name": "Xun Zhan"
+        },
+        {
+          "authorId": "144571447",
+          "name": "Xianping Tao"
+        },
+        {
+          "authorId": "7703092",
+          "name": "Qiaoming Zhu"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "39315158",
+          "name": "Wenyang Bai"
+        }
+      ]
+    },
+    {
+      "paperId": "05b25c9a2e1d90e15b9816d240ad8d0f8b258ece",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/05b25c9a2e1d90e15b9816d240ad8d0f8b258ece",
+      "title": "On the Limitation of the Power of Coalitional Normative Systems: On the Limitation of the Power of Coalitional Normative Systems",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2146665800",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "2152827248",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "08d830d68eecb392f0b2d0a3d5474aca025d3f20",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/08d830d68eecb392f0b2d0a3d5474aca025d3f20",
+      "title": "On the feasibility of user de-anonymization from shared mobile sensor data",
+      "venue": "PhoneSense '12",
+      "year": 2012,
+      "citationCount": 37,
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "144948031",
+          "name": "N. Lane"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "1715172",
+          "name": "T. Moscibroda"
+        },
+        {
+          "authorId": "2152226444",
+          "name": "Feng Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "4413f2dfae79eed4ed03c746fe96af41e79ac6aa",
+      "publicationVenue": {
+        "id": "1638196b-ccac-43cf-afbd-132094420c67",
+        "name": "Rough Sets and Knowledge Technology",
+        "type": "conference",
+        "alternate_names": [
+          "RSKT",
+          "Rough Set Knowl Technol"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4413f2dfae79eed4ed03c746fe96af41e79ac6aa",
+      "title": "Maximizing Influence Spread in a New Propagation Model",
+      "venue": "Rough Sets and Knowledge Technology",
+      "year": 2012,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46402637",
+          "name": "Hongchao Yang"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "4f1d578ef528c47d58845902df54564d6292a21a",
+      "publicationVenue": {
+        "id": "1638196b-ccac-43cf-afbd-132094420c67",
+        "name": "Rough Sets and Knowledge Technology",
+        "type": "conference",
+        "alternate_names": [
+          "RSKT",
+          "Rough Set Knowl Technol"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4f1d578ef528c47d58845902df54564d6292a21a",
+      "title": "Link Communities Detection via Local Approach",
+      "venue": "Rough Sets and Knowledge Technology",
+      "year": 2012,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2114093475",
+          "name": "Lei Pan"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "56ac7283c93677698d49a49d90021155bd31303d",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/56ac7283c93677698d49a49d90021155bd31303d",
+      "title": "On the Complexity and Algorithms of Coalition Structure Generation in Overlapping Coalition Formation Games",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2012,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2360436",
+          "name": "Yusen Zhan"
+        },
+        {
+          "authorId": "2146665800",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "9c85a670657bcfa67a042bff2b357466cd3f3fab",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/9c85a670657bcfa67a042bff2b357466cd3f3fab",
+      "title": "Overlapping Community Detection via Leader-Based Local Expansion in Social Networks",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2012,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2114093475",
+          "name": "Lei Pan"
+        },
+        {
+          "authorId": "2055020811",
+          "name": "Chao Dai"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "36523639",
+          "name": "Meilin Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "a2017ec2c60d542af5e9993176ba68f89529dbce",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a2017ec2c60d542af5e9993176ba68f89529dbce",
+      "title": "Image Denoising and Inpainting with Deep Neural Networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2012,
+      "citationCount": 1409,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2230211",
+          "name": "Linli Xu"
+        },
+        {
+          "authorId": "2227868312",
+          "name": "Enhong Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "bf9cd46ab08d37d701e98bca3fc304af3ed66afc",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/bf9cd46ab08d37d701e98bca3fc304af3ed66afc",
+      "title": "A Social Influence Model Based On Circuit Theory",
+      "venue": "arXiv.org",
+      "year": 2012,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "47013419",
+          "name": "B. Xiang"
+        },
+        {
+          "authorId": "2227868312",
+          "name": "Enhong Chen"
+        },
+        {
+          "authorId": "50384136",
+          "name": "Qi Liu"
+        },
+        {
+          "authorId": "2093122576",
+          "name": "Hui Xiong"
+        },
+        {
+          "authorId": "2116467055",
+          "name": "Yu Yang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "cdbe2786b8f9617552409c702283501b153b75ee",
+      "publicationVenue": {
+        "id": "b409d450-86da-43c3-b686-a9eb1f61675c",
+        "name": "Brain Informatics",
+        "type": "journal",
+        "issn": "2198-4026",
+        "url": "http://www.springer.com/40708",
+        "alternate_urls": [
+          "https://braininformatics.springeropen.com",
+          "https://link.springer.com/journal/40708"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/cdbe2786b8f9617552409c702283501b153b75ee",
+      "title": "Chinese Medicine Formula Network Analysis for Core Herbal Discovery",
+      "venue": "Brain Informatics",
+      "year": 2012,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50348026",
+          "name": "Gao Yuan"
+        },
+        {
+          "authorId": "120265359",
+          "name": "Liu-tao Zheng"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "5833850",
+          "name": "Xin-Sheng Fan"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "26b00c204c65a1fb12f934e16b1d56ee51497e39",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/26b00c204c65a1fb12f934e16b1d56ee51497e39",
+      "title": "Detecting Link Communities Based on Local Approach",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2011,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2114093475",
+          "name": "Lei Pan"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "36523639",
+          "name": "Meilin Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "279657af2637ac37742f3a66d995c9a845ee65cc",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/279657af2637ac37742f3a66d995c9a845ee65cc",
+      "title": "A Center-Based Community Detection Method in Weighted Networks",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2011,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2115758739",
+          "name": "Jie Jin"
+        },
+        {
+          "authorId": "2114093475",
+          "name": "Lei Pan"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "4e6909079c89da8d839660eab88350f1fc7e13e2",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4e6909079c89da8d839660eab88350f1fc7e13e2",
+      "title": "Strategic Ability Updating in Concurrent Games by Coalitional Commitment",
+      "venue": "IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)",
+      "year": 2011,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2146665800",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "2420199",
+          "name": "Zhong-Cun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "7a386a5dca0b0886b1293f2c5c0233addd4e0dc9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/7a386a5dca0b0886b1293f2c5c0233addd4e0dc9",
+      "title": "A Lock-Free Solution for Load Balancing in Multi-Core Environment",
+      "venue": "2011 3rd International Workshop on Intelligent Systems and Applications",
+      "year": 2011,
+      "citationCount": 43,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110718455",
+          "name": "Xi Liu"
+        },
+        {
+          "authorId": "2114093475",
+          "name": "Lei Pan"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "8abbbef46de5f08e6e04f201163b1f95e947afc6",
+      "publicationVenue": {
+        "id": "d6dd0471-263c-45b1-8c75-ca4c683398e2",
+        "name": "International Conference on Information and Software Technologies",
+        "type": "conference",
+        "alternate_names": [
+          "International Conference on Information Science and Technology",
+          "ICIST",
+          "Int Conf Inf Softw Technol",
+          "Int Conf Inf Sci Technol",
+          "Int Conf Inf Syst Technol",
+          "International Conferences on Information Systems and Technologies"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/8abbbef46de5f08e6e04f201163b1f95e947afc6",
+      "title": "NDOD: An efficient neighboring dependent outlier detector for bias distributed large datasets",
+      "venue": "International Conference on Information and Software Technologies",
+      "year": 2011,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112243466",
+          "name": "Yun Hu"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2441706",
+          "name": "Cunhua Li"
+        }
+      ]
+    },
+    {
+      "paperId": "a661e500c9421ac7b2951f962570b1c4b91bab2f",
+      "publicationVenue": {
+        "id": "2d2707e1-5dbb-4002-8849-876154b870a8",
+        "name": "Journal of Computational Science and Technology",
+        "type": "journal",
+        "alternate_names": [
+          "Journal of Computer Science and Technology",
+          "J Comput Sci Technol"
+        ],
+        "issn": "1881-6894",
+        "alternate_issns": [
+          "1666-6038",
+          "1000-9000"
+        ],
+        "url": "https://www.jstage.jst.go.jp/browse/jcst",
+        "alternate_urls": [
+          "https://rd.springer.com/journal/11390",
+          "https://link.springer.com/journal/11390",
+          "http://journal.info.unlp.edu.ar/",
+          "https://www.jstage.jst.go.jp/browse/jcst/list/-char/en"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a661e500c9421ac7b2951f962570b1c4b91bab2f",
+      "title": "Energy Efficient Backoff Hierarchical Clustering Algorithms for Multi-Hop Wireless Sensor Networks",
+      "venue": "Journal of Computational Science and Technology",
+      "year": 2011,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49605552",
+          "name": "Jun Wang"
+        },
+        {
+          "authorId": "32137094",
+          "name": "Yongtao Cao"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2107899431",
+          "name": "Shifu Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "c38eeb04766ba27a90ad7b0823f4fd54557425d2",
+      "publicationVenue": {
+        "id": "6c3a9833-5fac-49d3-b7e7-64910bd40b4e",
+        "name": "Adaptive Agents and Multi-Agent Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Adapt Agent Multi-agent Syst",
+          "International Joint Conference on Autonomous Agents & Multiagent Systems",
+          "Adapt Agent Multi-agents Syst",
+          "AAMAS",
+          "Adaptive Agents and Multi-Agents Systems",
+          "Int Jt Conf Auton Agent  Multiagent Syst"
+        ],
+        "url": "http://www.ifaamas.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c38eeb04766ba27a90ad7b0823f4fd54557425d2",
+      "title": "A framework for coalitional normative systems",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2011,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146665800",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "72a505c4a876a56ae52c5e09180030df60118af0",
+      "publicationVenue": {
+        "id": "80bdf04b-f7c5-452d-ace3-3960483ffdfa",
+        "name": "International Conference on Wireless Communications, Networking and Mobile Computing",
+        "type": "conference",
+        "alternate_names": [
+          "WiCOM",
+          "Int Conf Wirel Commun Netw Mob Comput"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/72a505c4a876a56ae52c5e09180030df60118af0",
+      "title": "An Energy Efficient Backoff Clustering Algorithm for Wireless Sensor Networks",
+      "venue": "International Conference on Wireless Communications, Networking and Mobile Computing",
+      "year": 2010,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49605552",
+          "name": "Jun Wang"
+        },
+        {
+          "authorId": "2217431788",
+          "name": "Y. Cao"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "37116752",
+          "name": "Zhengkun Mi"
+        }
+      ]
+    },
+    {
+      "paperId": "0ff7df9bd261e16fc5d73bbd2f669993fb364ed1",
+      "publicationVenue": {
+        "id": "47e0888a-1a02-4c10-896a-464d8d7572a4",
+        "name": "International Conference on Computing, Networking and Communications",
+        "type": "conference",
+        "alternate_names": [
+          "International Conference on Networking and Computing",
+          "ICNC",
+          "CoCoNet",
+          "Int Conf Nat Comput",
+          "International Conference on Natural Computation",
+          "International Conference on Computing and Network Communications",
+          "Int Conf Comput Netw Commun",
+          "Int Conf Netw Comput"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0ff7df9bd261e16fc5d73bbd2f669993fb364ed1",
+      "title": "CORE: A Trust Model for Agent Coalition Formation",
+      "venue": "International Conference on Computing, Networking and Communications",
+      "year": 2009,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2118410820",
+          "name": "Qing Zhou"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "456f1477500775c43246e54e42dbac22f14c4f43",
+      "publicationVenue": {
+        "id": "ba1e9488-a629-4abe-a0c2-ec2c79c91616",
+        "name": "IEEE International Conference on Tools with Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Tool Artif Intell",
+          "ICTAI",
+          "IEEE Int Conf Tool Artif Intell",
+          "International Conference on Tools with Artificial Intelligence"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1488"
+      },
+      "url": "https://www.semanticscholar.org/paper/456f1477500775c43246e54e42dbac22f14c4f43",
+      "title": "Coalitional Planning in Game-like Domains via ATL Model Checking",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2009,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146665800",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2152827248",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "716301000062d2b6903ea53b9ea7afa04e16b3ad",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/716301000062d2b6903ea53b9ea7afa04e16b3ad",
+      "title": "On the Logic of Cellular Reactive Systems",
+      "venue": "2009 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology",
+      "year": 2009,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146665800",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2270854",
+          "name": "X. Tu"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "bb0452f0aead5423d2cf79cdbc82cef8817f9400",
+      "publicationVenue": {
+        "id": "1638196b-ccac-43cf-afbd-132094420c67",
+        "name": "Rough Sets and Knowledge Technology",
+        "type": "conference",
+        "alternate_names": [
+          "RSKT",
+          "Rough Set Knowl Technol"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/bb0452f0aead5423d2cf79cdbc82cef8817f9400",
+      "title": "Temporal Reasoning in Urban Growth Simulation",
+      "venue": "Rough Sets and Knowledge Technology",
+      "year": 2009,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146665800",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "2697799",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2270854",
+          "name": "X. Tu"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "30481546",
+          "name": "L. Pu"
+        }
+      ]
+    },
+    {
+      "paperId": "d6ebc3e87d464b23cc4212ad436002c6a50779ea",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d6ebc3e87d464b23cc4212ad436002c6a50779ea",
+      "title": "Using TLA for modeling and analysis of Web services composition",
+      "venue": "2008 First IEEE International Conference on Ubi-Media Computing",
+      "year": 2008,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2052884548",
+          "name": "Ning Zhou"
+        },
+        {
+          "authorId": "49528885",
+          "name": "Hongbing Wang"
+        },
+        {
+          "authorId": "2112692153",
+          "name": "Xun Xu"
+        },
+        {
+          "authorId": "1707003",
+          "name": "P. Hung"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "7ac7fc0b2b3b22e881e22480353ba04b2ecd8916",
+      "publicationVenue": {
+        "id": "bc946b89-5188-4a8f-b9b6-61b71dd9fccc",
+        "name": "Journal of Network and Computer Applications",
+        "type": "journal",
+        "alternate_names": [
+          "J Netw Comput Appl",
+          "Journal of Network Computing and Applications"
+        ],
+        "issn": "1084-8045",
+        "alternate_issns": [
+          "2371-9206"
+        ],
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622893/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-network-and-computer-applications",
+          "http://www.clausiuspress.com/journal/JNCA/",
+          "http://www.sciencedirect.com/science/journal/10848045"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7ac7fc0b2b3b22e881e22480353ba04b2ecd8916",
+      "title": "A two-layered multi-agent reinforcement learning model and algorithm",
+      "venue": "Journal of Network and Computer Applications",
+      "year": 2007,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2417431",
+          "name": "Ben-Nian Wang"
+        },
+        {
+          "authorId": "145644819",
+          "name": "Yang Gao"
+        },
+        {
+          "authorId": "1836498",
+          "name": "Zhaoqian Chen"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2700301",
+          "name": "Shifu Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "25690f2f1a2f642a6c7e89f63beedc5d7c30679b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/25690f2f1a2f642a6c7e89f63beedc5d7c30679b",
+      "title": "K-Cluster Algorithm for Automatic Discovery of Subgoals in Reinforcement Learning",
+      "venue": "International Conference on Computational Intelligence for Modelling, Control and Automation and International Conference on Intelligent Agents, Web Technologies and Internet Commerce (CIMCA-IAWTIC'06)",
+      "year": 2005,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2417431",
+          "name": "Ben-Nian Wang"
+        },
+        {
+          "authorId": "145644819",
+          "name": "Yang Gao"
+        },
+        {
+          "authorId": "1836498",
+          "name": "Zhaoqian Chen"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2700301",
+          "name": "Shifu Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "899f6d2d33fbc8c228c39935f35ee56090d32578",
+      "publicationVenue": {
+        "id": "00794005-132b-46b2-a3af-565a7199c1f8",
+        "name": "International Conference in IT & Application",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Inf Technol Appl",
+          "Int Conf IT  Appl",
+          "International Conference on Information Technology and Applications",
+          "ICITA"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/899f6d2d33fbc8c228c39935f35ee56090d32578",
+      "title": "LMRL: a multi-agent reinforcement learning model and algorithm",
+      "venue": "International Conference in IT & Application",
+      "year": 2005,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2417431",
+          "name": "Ben-Nian Wang"
+        },
+        {
+          "authorId": "145644819",
+          "name": "Yang Gao"
+        },
+        {
+          "authorId": "1836498",
+          "name": "Zhaoqian Chen"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "2700301",
+          "name": "Shifu Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "54fef2e28aa0f553d8dd3aa666c117e55e5c5324",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/54fef2e28aa0f553d8dd3aa666c117e55e5c5324",
+      "title": "A Parallel Learning Approach for Neural Network Ensemble",
+      "venue": "Australian Conference on Artificial Intelligence",
+      "year": 2004,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2846355",
+          "name": "Zheng-Qun Wang"
+        },
+        {
+          "authorId": "2700301",
+          "name": "Shifu Chen"
+        },
+        {
+          "authorId": "1836498",
+          "name": "Zhaoqian Chen"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "590af7eb5595a000cfdf983f9bf7595a97b99ad6",
+      "publicationVenue": {
+        "id": "4d6e027e-0b14-477a-a374-bd790b87bdd3",
+        "name": "International Conference on Applied Cryptography and Network Security",
+        "type": "conference",
+        "alternate_names": [
+          "Applied Cryptography and Network Security",
+          "Int Conf Appl Cryptogr Netw Secur",
+          "ACNS",
+          "Appl Cryptogr Netw Secur"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Applied_Cryptography_and_Network_Security"
+      },
+      "url": "https://www.semanticscholar.org/paper/590af7eb5595a000cfdf983f9bf7595a97b99ad6",
+      "title": "A Parallel Intrusion Detection System for High-Speed Networks",
+      "venue": "International Conference on Applied Cryptography and Network Security",
+      "year": 2004,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2091007",
+          "name": "Haiguang Lai"
+        },
+        {
+          "authorId": "2435443",
+          "name": "Shengwen Cai"
+        },
+        {
+          "authorId": "2143568430",
+          "name": "Hao Huang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": null,
+          "name": "Hui Li"
+        }
+      ]
+    },
+    {
+      "paperId": "926bf312126f2bf618f5f993b765fb03a3c20bdd",
+      "publicationVenue": {
+        "id": "78d61825-c1d6-4e7f-ab9d-1525db71105c",
+        "name": "Journal of Web Semantics",
+        "type": "journal",
+        "alternate_names": [
+          "J Web Semant"
+        ],
+        "issn": "1570-8268",
+        "url": "http://www.elsevier.com/locate/websem",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/15708268",
+          "http://www.elsevier.com/wps/find/journaldescription.cws_home/671322/description"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/926bf312126f2bf618f5f993b765fb03a3c20bdd",
+      "title": "Web services: problems and future directions",
+      "venue": "Journal of Web Semantics",
+      "year": 2004,
+      "citationCount": 186,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49528885",
+          "name": "Hongbing Wang"
+        },
+        {
+          "authorId": "152292148",
+          "name": "J. Huang"
+        },
+        {
+          "authorId": "1887019",
+          "name": "Yuzhong Qu"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "ccc87c70128a719acc99e0e2e5dc5715d9ee8998",
+      "publicationVenue": {
+        "id": "f7a1d8f5-2c83-48e9-8ef5-8c3a724b2ba2",
+        "name": "International Conference on Grid and Cooperative Computing",
+        "type": "conference",
+        "alternate_names": [
+          "Grid Cooperative Comput",
+          "Grid and Cooperative Computing",
+          "Int Conf Grid Cooperative Comput",
+          "GCC"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1114"
+      },
+      "url": "https://www.semanticscholar.org/paper/ccc87c70128a719acc99e0e2e5dc5715d9ee8998",
+      "title": "The Anatomy of Web Services",
+      "venue": "International Conference on Grid and Cooperative Computing",
+      "year": 2003,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49528885",
+          "name": "Hongbing Wang"
+        },
+        {
+          "authorId": "1887019",
+          "name": "Yuzhong Qu"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "d45bd5809ec46737453a4c130dbc3e20e7e50ea0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d45bd5809ec46737453a4c130dbc3e20e7e50ea0",
+      "title": "Social Law Synthesizing Method Based on Algorithmic Mechanism Design",
+      "venue": "",
+      "year": null,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2287864904",
+          "name": "WU Jun"
+        },
+        {
+          "authorId": "2287866574",
+          "name": "Cao Jie"
+        },
+        {
+          "authorId": "2287793551",
+          "name": "Chong-Jun Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        }
+      ]
+    }
+  ]
+}

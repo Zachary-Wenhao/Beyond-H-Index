@@ -1,0 +1,3613 @@
+{
+  "authorId": "2112143809",
+  "name": "Mu Li",
+  "affiliations": [],
+  "paperCount": 81,
+  "citationCount": 3850,
+  "hIndex": 30,
+  "papers": [
+    {
+      "paperId": "21dabd3a989d578a32fb024732a2107e8da28581",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/21dabd3a989d578a32fb024732a2107e8da28581",
+      "title": "Improving Unsupervised Extractive Summarization with Facet-Aware Modeling",
+      "venue": "Findings",
+      "year": 2021,
+      "citationCount": 43,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "120436437",
+          "name": "Xinnian Liang"
+        },
+        {
+          "authorId": "2362902",
+          "name": "Shuangzhi Wu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "1707275",
+          "name": "Zhoujun Li"
+        }
+      ]
+    },
+    {
+      "paperId": "f9cb7e5fda46c03a1c16eb6e0890d2e408ef8225",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/f9cb7e5fda46c03a1c16eb6e0890d2e408ef8225",
+      "title": "Unsupervised Keyphrase Extraction by Jointly Modeling Local and Global Context",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 60,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "120436437",
+          "name": "Xinnian Liang"
+        },
+        {
+          "authorId": "2362902",
+          "name": "Shuangzhi Wu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "1707275",
+          "name": "Zhoujun Li"
+        }
+      ]
+    },
+    {
+      "paperId": "2733574d40ce8e861d7d658bfc33ab36f529864d",
+      "publicationVenue": {
+        "id": "c22e7c36-3bfa-43e1-bb7b-edccdea2a780",
+        "name": "Journal of machine learning research",
+        "type": "journal",
+        "alternate_names": [
+          "Journal of Machine Learning Research",
+          "J mach learn res",
+          "J Mach Learn Res"
+        ],
+        "issn": "1532-4435",
+        "alternate_issns": [
+          "1533-7928"
+        ],
+        "url": "http://www.ai.mit.edu/projects/jmlr/",
+        "alternate_urls": [
+          "http://jmlr.csail.mit.edu/",
+          "http://www.jmlr.org/",
+          "http://portal.acm.org/affiliated/jmlr"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2733574d40ce8e861d7d658bfc33ab36f529864d",
+      "title": "GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing",
+      "venue": "Journal of machine learning research",
+      "year": 2019,
+      "citationCount": 190,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        },
+        {
+          "authorId": "2140062900",
+          "name": "He He"
+        },
+        {
+          "authorId": "2118328320",
+          "name": "Tong He"
+        },
+        {
+          "authorId": "8789103",
+          "name": "Leonard Lausen"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "49955730",
+          "name": "Haibin Lin"
+        },
+        {
+          "authorId": "3008587",
+          "name": "Xingjian Shi"
+        },
+        {
+          "authorId": "2108755854",
+          "name": "Chenguang Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "40881843",
+          "name": "Sheng Zha"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2119077209",
+          "name": "Hang Zhang"
+        },
+        {
+          "authorId": "2117991985",
+          "name": "Zhi Zhang"
+        },
+        {
+          "authorId": "48806269",
+          "name": "Zhongyue Zhang"
+        },
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "46759150",
+          "name": "Yi Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "747f6c8205061c619d0af6342918c7ae8e17108d",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/747f6c8205061c619d0af6342918c7ae8e17108d",
+      "title": "Approximate Distribution Matching for Sequence-to-Sequence Learning",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2928777",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": null,
+          "name": "Guanlin Li"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "4947404",
+          "name": "Zhirui Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "7bfc8b61c579afc5ae8801dccea768771fabe286",
+      "publicationVenue": {
+        "id": "309e00f7-4bbd-461f-ab37-a90cd14ef21d",
+        "name": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+        "alternate_names": [
+          "IEEE/ACM Trans Audio Speech Lang Process"
+        ],
+        "issn": "2329-9290",
+        "url": "https://ieeexplore.ieee.org/servlet/opac?punumber=6570655",
+        "alternate_urls": [
+          "https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing/ieeeacm"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7bfc8b61c579afc5ae8801dccea768771fabe286",
+      "title": "Dependency-to-Dependency Neural Machine Translation",
+      "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+      "year": 2018,
+      "citationCount": 53,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2362902",
+          "name": "Shuangzhi Wu"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "4947404",
+          "name": "Zhirui Zhang"
+        },
+        {
+          "authorId": "144610884",
+          "name": "Nan Yang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "92660691",
+          "name": "Ming Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "98a2a5226c5a592008145a3bbfa9169672dfd548",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/98a2a5226c5a592008145a3bbfa9169672dfd548",
+      "title": "Regularizing Neural Machine Translation by Target-bidirectional Agreement",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2018,
+      "citationCount": 113,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "4947404",
+          "name": "Zhirui Zhang"
+        },
+        {
+          "authorId": "50052368",
+          "name": "Shuo Ren"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2447408",
+          "name": "Jianyong Wang"
+        },
+        {
+          "authorId": "2158170998",
+          "name": "Peng-Jen Chen"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "2227868312",
+          "name": "Enhong Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "a7d87eafa0e0b74b1c65220feb98f8e11d77eda1",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a7d87eafa0e0b74b1c65220feb98f8e11d77eda1",
+      "title": "Bidirectional Generative Adversarial Networks for Neural Machine Translation",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2018,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "4947404",
+          "name": "Zhirui Zhang"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "2227868312",
+          "name": "Enhong Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "a8492c76ea47b71583a662ec2e791158df9d8995",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a8492c76ea47b71583a662ec2e791158df9d8995",
+      "title": "Joint Training for Neural Machine Translation Models with Monolingual Data",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2018,
+      "citationCount": 112,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "4947404",
+          "name": "Zhirui Zhang"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "2227868312",
+          "name": "Enhong Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "e8b02e05d44c7b1ec9dac3e211eef62a3cd2d9f3",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e8b02e05d44c7b1ec9dac3e211eef62a3cd2d9f3",
+      "title": "Triangular Architecture for Rare Language Translation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 33,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50052368",
+          "name": "Shuo Ren"
+        },
+        {
+          "authorId": "2928777",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "47325834",
+          "name": "Shuai Ma"
+        }
+      ]
+    },
+    {
+      "paperId": "f58bb5ff7dfc6f2b8f154f37597d4bf4cdafd740",
+      "publicationVenue": {
+        "id": "640a5acb-a481-4a3e-a751-1eb880600a99",
+        "name": "Natural Language Processing and Chinese Computing",
+        "type": "conference",
+        "alternate_names": [
+          "NLPCC",
+          "Nat Lang Process Chin Comput"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f58bb5ff7dfc6f2b8f154f37597d4bf4cdafd740",
+      "title": "Coarse-To-Fine Learning for Neural Machine Translation",
+      "venue": "Natural Language Processing and Chinese Computing",
+      "year": 2018,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "4947404",
+          "name": "Zhirui Zhang"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "2227868312",
+          "name": "Enhong Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "fc1d981dd051063ae586a56b05390fe3ea82f040",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/fc1d981dd051063ae586a56b05390fe3ea82f040",
+      "title": "Achieving Human Parity on Automatic Chinese to English News Translation",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 601,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143925074",
+          "name": "Hany Hassan"
+        },
+        {
+          "authorId": "2266204",
+          "name": "Anthony Aue"
+        },
+        {
+          "authorId": "2118429641",
+          "name": "Chang Chen"
+        },
+        {
+          "authorId": "2066238647",
+          "name": "Vishal Chowdhary"
+        },
+        {
+          "authorId": "2109724821",
+          "name": "Jonathan Clark"
+        },
+        {
+          "authorId": "3359291",
+          "name": "C. Federmann"
+        },
+        {
+          "authorId": "144531812",
+          "name": "Xuedong Huang"
+        },
+        {
+          "authorId": "1733933",
+          "name": "Marcin Junczys-Dowmunt"
+        },
+        {
+          "authorId": "119117298",
+          "name": "W. Lewis"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2110264337",
+          "name": "Tie-Yan Liu"
+        },
+        {
+          "authorId": "3440939",
+          "name": "Renqian Luo"
+        },
+        {
+          "authorId": "145280401",
+          "name": "Arul Menezes"
+        },
+        {
+          "authorId": "143826491",
+          "name": "Tao Qin"
+        },
+        {
+          "authorId": "1745715",
+          "name": "F. Seide"
+        },
+        {
+          "authorId": "48391466",
+          "name": "Xu Tan"
+        },
+        {
+          "authorId": "143853336",
+          "name": "Fei Tian"
+        },
+        {
+          "authorId": "47767550",
+          "name": "Lijun Wu"
+        },
+        {
+          "authorId": "2362902",
+          "name": "Shuangzhi Wu"
+        },
+        {
+          "authorId": "2794096",
+          "name": "Yingce Xia"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "4947404",
+          "name": "Zhirui Zhang"
+        },
+        {
+          "authorId": "92660691",
+          "name": "Ming Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "12bc534d30999fb436e0434a0ad23a29b40fe4c6",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/12bc534d30999fb436e0434a0ad23a29b40fe4c6",
+      "title": "Stack-based Multi-layer Attention for Transition-based Dependency Parsing",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2017,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "4947404",
+          "name": "Zhirui Zhang"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "2227868312",
+          "name": "Enhong Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "226a5d08faef2d9739601f9049230dd4a56338a2",
+      "publicationVenue": {
+        "id": "c256ca41-592d-434c-9707-dbccca057025",
+        "name": "Molecular Autism",
+        "type": "journal",
+        "alternate_names": [
+          "Mol Autism"
+        ],
+        "issn": "2040-2392",
+        "url": "https://molecularautism.biomedcentral.com/",
+        "alternate_urls": [
+          "http://www.molecularautism.com/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/226a5d08faef2d9739601f9049230dd4a56338a2",
+      "title": "Development and evaluation of a speech-generating AAC mobile app for minimally verbal children with autism spectrum disorder in Mainland China",
+      "venue": "Molecular Autism",
+      "year": 2017,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Psychology",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1662781632",
+          "name": "Sainan An"
+        },
+        {
+          "authorId": "50482013",
+          "name": "Xiaoping Feng"
+        },
+        {
+          "authorId": "2116914227",
+          "name": "Yue Dai"
+        },
+        {
+          "authorId": "12944789",
+          "name": "H. Bo"
+        },
+        {
+          "authorId": "2155984160",
+          "name": "Xiuqing Wang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "27035085",
+          "name": "John Zhuohao Woo"
+        },
+        {
+          "authorId": "2143618552",
+          "name": "Xingmei Liang"
+        },
+        {
+          "authorId": "2110229701",
+          "name": "Cheng Guo"
+        },
+        {
+          "authorId": "2107909391",
+          "name": "Charles Xingchao Liu"
+        },
+        {
+          "authorId": "35041316",
+          "name": "Liping Wei"
+        }
+      ]
+    },
+    {
+      "paperId": "2bb983c334075864d5ae903624999124279edfc9",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2bb983c334075864d5ae903624999124279edfc9",
+      "title": "Chunk-based Decoder for Neural Machine Translation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2017,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46724659",
+          "name": "Shonosuke Ishiwatari"
+        },
+        {
+          "authorId": "3251154",
+          "name": "Jingtao Yao"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "34849332",
+          "name": "Naoki Yoshinaga"
+        },
+        {
+          "authorId": "1716799",
+          "name": "M. Kitsuregawa"
+        },
+        {
+          "authorId": "1830397637",
+          "name": "Weijia Jia"
+        }
+      ]
+    },
+    {
+      "paperId": "7f73d3bca218b1a27be1142a08815cad7cce0d3d",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/7f73d3bca218b1a27be1142a08815cad7cce0d3d",
+      "title": "Neural Sequence Prediction by Coaching",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2928777",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": null,
+          "name": "Guanlin Li"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "4947404",
+          "name": "Zhirui Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "883b0c17021c83699fe80d1996431dcd3763b869",
+      "publicationVenue": {
+        "id": "9aacb914-3edf-4e02-b8fe-5abf21c4d2ba",
+        "name": "Conference on Machine Translation",
+        "type": "conference",
+        "alternate_names": [
+          "WMT",
+          "Conf Mach Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/883b0c17021c83699fe80d1996431dcd3763b869",
+      "title": "Sogou Neural Machine Translation Systems for WMT17",
+      "venue": "Conference on Machine Translation",
+      "year": 2017,
+      "citationCount": 57,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2115752906",
+          "name": "Yuguang Wang"
+        },
+        {
+          "authorId": "3456696",
+          "name": "Shanbo Cheng"
+        },
+        {
+          "authorId": "2123245509",
+          "name": "Liyang Jiang"
+        },
+        {
+          "authorId": "2110858382",
+          "name": "Jiajun Yang"
+        },
+        {
+          "authorId": null,
+          "name": "Wei Chen"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "2152999457",
+          "name": "Lin Shi"
+        },
+        {
+          "authorId": "2108846215",
+          "name": "Yanfeng Wang"
+        },
+        {
+          "authorId": "1409992416",
+          "name": "Hongtao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "c79d8c3768b8dbde4e9fbbd8924805d4a02a1158",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c79d8c3768b8dbde4e9fbbd8924805d4a02a1158",
+      "title": "Sequence-to-Dependency Neural Machine Translation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2017,
+      "citationCount": 98,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2362902",
+          "name": "Shuangzhi Wu"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "144610884",
+          "name": "Nan Yang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "ea99c3fe19879678b92a0978fae2de9171196c68",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ea99c3fe19879678b92a0978fae2de9171196c68",
+      "title": "Generative Bridging Network in Neural Sequence Prediction",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2928777",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": null,
+          "name": "Guanlin Li"
+        },
+        {
+          "authorId": "50052368",
+          "name": "Shuo Ren"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "4947404",
+          "name": "Zhirui Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "734d0e41828b53a748336884078777cca127dc27",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/734d0e41828b53a748336884078777cca127dc27",
+      "title": "Improving Attention Modeling with Implicit Distortion and Fertility for Machine Translation",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2016,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144588144",
+          "name": "Shi Feng"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "144610884",
+          "name": "Nan Yang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "1796651",
+          "name": "Kenny Q. Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "bc852342b3fc6a0cee0ac50fbdbeabf57daccc76",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/bc852342b3fc6a0cee0ac50fbdbeabf57daccc76",
+      "title": "Knowledge-Based Semantic Embedding for Machine Translation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 63,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2113916510",
+          "name": "Chen Shi"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "50052368",
+          "name": "Shuo Ren"
+        },
+        {
+          "authorId": "144588144",
+          "name": "Shi Feng"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "11774802",
+          "name": "Xu Sun"
+        },
+        {
+          "authorId": "1781885",
+          "name": "Houfeng Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "e1463f8610e229cb8d5e8a58b0a0f490ce44d94e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e1463f8610e229cb8d5e8a58b0a0f490ce44d94e",
+      "title": "Better Addressing Word Deletion for Statistical Machine Translation",
+      "venue": "NLPCC/ICCPOL",
+      "year": 2016,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146262659",
+          "name": "Qiang Li"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "1391183811",
+          "name": "Tong Xiao"
+        },
+        {
+          "authorId": "1728004",
+          "name": "Jingbo Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "2a559a0abdb7182150418e1f7f323f4a79417d29",
+      "publicationVenue": {
+        "id": "640a5acb-a481-4a3e-a751-1eb880600a99",
+        "name": "Natural Language Processing and Chinese Computing",
+        "type": "conference",
+        "alternate_names": [
+          "NLPCC",
+          "Nat Lang Process Chin Comput"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2a559a0abdb7182150418e1f7f323f4a79417d29",
+      "title": "Entity Translation with Collective Inference in Knowledge Graph",
+      "venue": "Natural Language Processing and Chinese Computing",
+      "year": 2015,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2141315379",
+          "name": "Qinglin Li"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "144472953",
+          "name": "R. Lin"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "9303913740e0800ca9551bb64c4c69a6a5cb030c",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9303913740e0800ca9551bb64c4c69a6a5cb030c",
+      "title": "Towards Machine Translation in Semantic Vector Space",
+      "venue": "ACM Trans. Asian Low Resour. Lang. Inf. Process.",
+      "year": 2015,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "38358352",
+          "name": "Jiajun Zhang"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "2423168",
+          "name": "Chengqing Zong"
+        }
+      ]
+    },
+    {
+      "paperId": "c48dea93f7a7ddbe31a199c371f73876b5462a29",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/c48dea93f7a7ddbe31a199c371f73876b5462a29",
+      "title": "Beyond Word-based Language Model in Statistical Machine Translation",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "38358352",
+          "name": "Jiajun Zhang"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "2423168",
+          "name": "Chengqing Zong"
+        }
+      ]
+    },
+    {
+      "paperId": "f895cbc2d4a2cd00b4a81cccabc6d9c94b8ddfe4",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/f895cbc2d4a2cd00b4a81cccabc6d9c94b8ddfe4",
+      "title": "Hierarchical Recurrent Neural Network for Document Modeling",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2015,
+      "citationCount": 165,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144472953",
+          "name": "R. Lin"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2105775",
+          "name": "Muyun Yang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "145175581",
+          "name": "Sheng Li"
+        }
+      ]
+    },
+    {
+      "paperId": "01a1c02db5376929eba4fdb6762cc4d0ece39b69",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/01a1c02db5376929eba4fdb6762cc4d0ece39b69",
+      "title": "Mind the Gap: Machine Translation by Minimizing the Semantic Gap in Embedding Space",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2014,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "38358352",
+          "name": "Jiajun Zhang"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "2423168",
+          "name": "Chengqing Zong"
+        }
+      ]
+    },
+    {
+      "paperId": "1ee0c955e4ba3eb0948c212602344f045193ce06",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1ee0c955e4ba3eb0948c212602344f045193ce06",
+      "title": "Machine Translation by Minimizing the Semantic Gap in the Vector Embedding Space",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "92660691",
+          "name": "Ming Zhou"
+        },
+        {
+          "authorId": "2423168",
+          "name": "Chengqing Zong"
+        },
+        {
+          "authorId": "38358352",
+          "name": "Jiajun Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "5d43224147a5bb8b17b6a6fc77bf86490e86991a",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5d43224147a5bb8b17b6a6fc77bf86490e86991a",
+      "title": "A Recursive Recurrent Neural Network for Statistical Machine Translation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2014,
+      "citationCount": 160,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "144610884",
+          "name": "Nan Yang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "614d87018ec7699a6d45ec2fdc405d2c838e0faa",
+      "publicationVenue": {
+        "id": "1490edaa-ffbc-4472-bc44-138df888bc1b",
+        "name": "Journal of information science and engineering",
+        "type": "journal",
+        "alternate_names": [
+          "J Inf Sci Eng",
+          "Journal of Information Science and Engineering",
+          "J inf sci eng"
+        ],
+        "issn": "1016-2364"
+      },
+      "url": "https://www.semanticscholar.org/paper/614d87018ec7699a6d45ec2fdc405d2c838e0faa",
+      "title": "Woodpecker: An Automatic Methodology for Machine Translation Diagnosis with Rich Linguistic Knowledge",
+      "venue": "Journal of information science and engineering",
+      "year": 2014,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Bo Wang"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "650e1d2d78d2000c1cb00fffca61d2620db8e3e5",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/650e1d2d78d2000c1cb00fffca61d2620db8e3e5",
+      "title": "A Lexicalized Reordering Model for Hierarchical Phrase-based Translation",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2014,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3106089",
+          "name": "Hailong Cao"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "145382463",
+          "name": "T. Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "8c2a643826afd928e6ae0cd284406d29acab8d71",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8c2a643826afd928e6ae0cd284406d29acab8d71",
+      "title": "Learning Topic Representation for SMT with Neural Networks",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2014,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145500855",
+          "name": "Lei Cui"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2145049192",
+          "name": "Qiming Chen"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "2105775",
+          "name": "Muyun Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "bb60e2bc62160cdf76fe3e5bc146d5f52de6ac9e",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/bb60e2bc62160cdf76fe3e5bc146d5f52de6ac9e",
+      "title": "Machine Translation with Real-Time Web Search",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2014,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145500855",
+          "name": "Lei Cui"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "2145049192",
+          "name": "Qiming Chen"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "d1a7f08af36ebc223eb552eced70115bcf21ce7d",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d1a7f08af36ebc223eb552eced70115bcf21ce7d",
+      "title": "Bilingually-constrained Phrase Embeddings for Machine Translation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2014,
+      "citationCount": 120,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "38358352",
+          "name": "Jiajun Zhang"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "2423168",
+          "name": "Chengqing Zong"
+        }
+      ]
+    },
+    {
+      "paperId": "10ce58375314f90f83ca3bb88840cbc67bf8050f",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/10ce58375314f90f83ca3bb88840cbc67bf8050f",
+      "title": "Learning Entity Representation for Entity Disambiguation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2013,
+      "citationCount": 161,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2259453",
+          "name": "Zhengyan He"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "92660691",
+          "name": "Ming Zhou"
+        },
+        {
+          "authorId": "1817730",
+          "name": "Longkai Zhang"
+        },
+        {
+          "authorId": "1781885",
+          "name": "Houfeng Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "184676cb50d1c62b249e90a97e4edc8e42a1c024",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/184676cb50d1c62b249e90a97e4edc8e42a1c024",
+      "title": "Word Alignment Modeling with Context Dependent Deep Neural Network",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2013,
+      "citationCount": 75,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144610884",
+          "name": "Nan Yang"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "1708598",
+          "name": "Nenghai Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "437461d624cf603d0a6ef393e187534510a6fa3d",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/437461d624cf603d0a6ef393e187534510a6fa3d",
+      "title": "Multi-Domain Adaptation for SMT Using Multi-Task Learning",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2013,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145500855",
+          "name": "Lei Cui"
+        },
+        {
+          "authorId": "1769736",
+          "name": "Xilun Chen"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "54bef8bca4bef4a5cb597c11b9389496f40df35c",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/54bef8bca4bef4a5cb597c11b9389496f40df35c",
+      "title": "Punctuation Prediction with Transition-based Parsing",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2013,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2362902",
+          "name": "Shuangzhi Wu"
+        },
+        {
+          "authorId": "144610884",
+          "name": "Nan Yang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "63ba7b1adde66261553dc5d224627a0aa531deb6",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/63ba7b1adde66261553dc5d224627a0aa531deb6",
+      "title": "mammothwill be a jiang shi yixiang juda gongcheng job ( a )",
+      "venue": "",
+      "year": 2013,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "144610884",
+          "name": "Nan Yang"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "92660691",
+          "name": "Ming Zhou"
+        },
+        {
+          "authorId": "1708598",
+          "name": "Nenghai Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "6fd7bb9674bc9ae1e3a1ac16631280ddba9a76c6",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/6fd7bb9674bc9ae1e3a1ac16631280ddba9a76c6",
+      "title": "Efficient Collective Entity Linking with Stacking",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2013,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2259453",
+          "name": "Zhengyan He"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "144404428",
+          "name": "Yang Song"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "1781885",
+          "name": "Houfeng Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "92d4a400a2e57c5ad421820b49b0954bca4500f1",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/92d4a400a2e57c5ad421820b49b0954bca4500f1",
+      "title": "Bilingual Data Cleaning for SMT using Graph-based Random Walk",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2013,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145500855",
+          "name": "Lei Cui"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "9dc2fc8ffcc9b0548c0e5155e08e491291595896",
+      "publicationVenue": {
+        "id": "640a5acb-a481-4a3e-a751-1eb880600a99",
+        "name": "Natural Language Processing and Chinese Computing",
+        "type": "conference",
+        "alternate_names": [
+          "NLPCC",
+          "Nat Lang Process Chin Comput"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9dc2fc8ffcc9b0548c0e5155e08e491291595896",
+      "title": "Collective Corpus Weighting and Phrase Scoring for SMT Using Graph-Based Random Walk",
+      "venue": "Natural Language Processing and Chinese Computing",
+      "year": 2013,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145500855",
+          "name": "Lei Cui"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "0b1851fb7979b4fb99986899d0c5c8798175566e",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0b1851fb7979b4fb99986899d0c5c8798175566e",
+      "title": "Learning Translation Consensus with Structured Label Propagation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2012,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2109746427",
+          "name": "Chi-Ho Li"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "2dfa1ab9ef2e8cd632c3efaaff46e58fe3d359b3",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2dfa1ab9ef2e8cd632c3efaaff46e58fe3d359b3",
+      "title": "A Ranking-based Approach to Word Reordering for Statistical Machine Translation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2012,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144610884",
+          "name": "Nan Yang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "1708598",
+          "name": "Nenghai Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "5bcf256299cc84aca2a33c9699d727da4bf2deff",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5bcf256299cc84aca2a33c9699d727da4bf2deff",
+      "title": "Translation Model Size Reduction for Hierarchical Phrase-based Statistical Machine Translation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2012,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108071530",
+          "name": "Seung-Wook Lee"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "2326357",
+          "name": "Hae-Chang Rim"
+        }
+      ]
+    },
+    {
+      "paperId": "958ffa31d19a3ebe0b4f162a31c41d105e957ff9",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/958ffa31d19a3ebe0b4f162a31c41d105e957ff9",
+      "title": "Forced Derivation Tree based Model Training to Statistical Machine Translation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2012,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46429989",
+          "name": "Nan Duan"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "9f1bdf037d0c57fd1eb210d98511695287ef53e2",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9f1bdf037d0c57fd1eb210d98511695287ef53e2",
+      "title": "Hierarchical Chunk-to-String Translation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2012,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49771779",
+          "name": "Yang Feng"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "1688015",
+          "name": "Qun Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "ba80590f4cc0325e9b6e75de49c74414a15720ce",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/ba80590f4cc0325e9b6e75de49c74414a15720ce",
+      "title": "Re-training Monolingual Parser Bilingually for Syntactic SMT",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2012,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2109746427",
+          "name": "Chi-Ho Li"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "85b24d55e2d6a4307b764cc35e4a8c2d4b58dbbe",
+      "publicationVenue": {
+        "id": "2ca90f66-d056-4b44-87a2-0f6a88aeb347",
+        "name": "Machine Translation Summit",
+        "type": "conference",
+        "alternate_names": [
+          "MTSummit",
+          "Mach Transl Summit"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/85b24d55e2d6a4307b764cc35e4a8c2d4b58dbbe",
+      "title": "Function Word Generation in Statistical Machine Translation Systems",
+      "venue": "Machine Translation Summit",
+      "year": 2011,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145500855",
+          "name": "Lei Cui"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "df399a5c6171b5ca0c5d09a7099b218176dfc7a4",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/df399a5c6171b5ca0c5d09a7099b218176dfc7a4",
+      "title": "Hypothesis Mixture Decoding for Statistical Machine Translation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2011,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46429989",
+          "name": "Nan Duan"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "0fc561a4ba8ed22f3e0b818a0b91fbe8d0723ea4",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0fc561a4ba8ed22f3e0b818a0b91fbe8d0723ea4",
+      "title": "Hybrid Decoding: Decoding with Partial Hypotheses Combination over Multiple SMT Systems",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2010,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145500855",
+          "name": "Lei Cui"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "145382463",
+          "name": "T. Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "28864695f1d0d68bbf3e3eca354e95bcf62f682e",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/28864695f1d0d68bbf3e3eca354e95bcf62f682e",
+      "title": "Adaptive Development Data Selection for Log-linear Model in Statistical Machine Translation",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2010,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "2651937",
+          "name": "Yinggong Zhao"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "2d19aebf9494fe3e22de2a6cbde16d91762e6e79",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2d19aebf9494fe3e22de2a6cbde16d91762e6e79",
+      "title": "A Comparative Study of Bing Web N-gram Language Models for Web Search and Natural Language Processing",
+      "venue": "",
+      "year": 2010,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "14902530",
+          "name": "Patrick Nguyen"
+        },
+        {
+          "authorId": "2108672800",
+          "name": "Xiaolong Li"
+        },
+        {
+          "authorId": "3077650",
+          "name": "Christopher Thrasher"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "1748169",
+          "name": "Kuansan Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "4899e043c69f8ab61c760b1f56961be9f1a5be9a",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4899e043c69f8ab61c760b1f56961be9f1a5be9a",
+      "title": "A Joint Rule Selection Model for Hierarchical Phrase-Based Translation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2010,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145500855",
+          "name": "Lei Cui"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "145382463",
+          "name": "T. Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "6e5d66b05fae7fec8d01274977faae6fc6d85d01",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6e5d66b05fae7fec8d01274977faae6fc6d85d01",
+      "title": "A Unified Character-Based Tagging Framework for Chinese Word Segmentation",
+      "venue": "TALIP",
+      "year": 2010,
+      "citationCount": 86,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "36225434",
+          "name": "Zhao Hai"
+        },
+        {
+          "authorId": "2227579",
+          "name": "C. Huang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "1715839",
+          "name": "Bao-Liang Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "c790636915de3b16de8b134f6fe25865a9a0f745",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c790636915de3b16de8b134f6fe25865a9a0f745",
+      "title": "Mixture Model-based Minimum Bayes Risk Decoding using Multiple Machine Translation Systems",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2010,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46429989",
+          "name": "Nan Duan"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "0f186dbdc45d175f69fdb2d4e7cdd53004d4a507",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0f186dbdc45d175f69fdb2d4e7cdd53004d4a507",
+      "title": "Collaborative Decoding: Partial Hypothesis Re-ranking Using Translation Consensus between Decoders",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2009,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "46429989",
+          "name": "Nan Duan"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2109746427",
+          "name": "Chi-Ho Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "0f49229089be14e4c2bf2131d14a673d60b24910",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/0f49229089be14e4c2bf2131d14a673d60b24910",
+      "title": "Better Parser Combination",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 8,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "46772408",
+          "name": "Xiao Chen"
+        },
+        {
+          "authorId": "2227579",
+          "name": "C. Huang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "1780916",
+          "name": "Chunyu Kit"
+        }
+      ]
+    },
+    {
+      "paperId": "3d9d3a09520922184ed3aab62172f2614760db34",
+      "publicationVenue": {
+        "id": "63eb9f8a-e9a8-43fb-a0f1-bdf78525349d",
+        "name": "Pacific Asia Conference on Language, Information and Computation",
+        "type": "conference",
+        "alternate_names": [
+          "Pacific Asia Conference on Language, Information, and Computation",
+          "Pac Asia Conf Lang Inf Comput",
+          "PACLIC"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3d9d3a09520922184ed3aab62172f2614760db34",
+      "title": "Extracting Keyphrases from Chinese News Articles Using TextRank and Query Log Knowledge",
+      "venue": "Pacific Asia Conference on Language, Information and Computation",
+      "year": 2009,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2085741",
+          "name": "Weiming Liang"
+        },
+        {
+          "authorId": "2227579",
+          "name": "C. Huang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "1715839",
+          "name": "Bao-Liang Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "41767d3ff7d49d661d84671e6b153dff1dc6cd39",
+      "publicationVenue": {
+        "id": "a1c1b2d2-5629-4b8f-b764-20ea10fa588c",
+        "name": "Conference on Intelligent Text Processing and Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Intell Text Process Comput Linguistics",
+          "CICLing"
+        ],
+        "url": "http://www.cicling.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/41767d3ff7d49d661d84671e6b153dff1dc6cd39",
+      "title": "Comparing and Integrating Alignment Template and Standard Phrase-Based Statistical Machine Translation",
+      "venue": "Conference on Intelligent Text Processing and Computational Linguistics",
+      "year": 2009,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152898470",
+          "name": "Lin Xu"
+        },
+        {
+          "authorId": "50322722",
+          "name": "Xiaoguang Cao"
+        },
+        {
+          "authorId": "2538116",
+          "name": "Bufeng Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "6562f292e221ee09da6ae7f8e6bccc6bbe22595c",
+      "publicationVenue": {
+        "id": "2ca90f66-d056-4b44-87a2-0f6a88aeb347",
+        "name": "Machine Translation Summit",
+        "type": "conference",
+        "alternate_names": [
+          "MTSummit",
+          "Mach Transl Summit"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6562f292e221ee09da6ae7f8e6bccc6bbe22595c",
+      "title": "Introduction to China\u2019s CWMT2008 Machine Translation Evaluation",
+      "venue": "Machine Translation Summit",
+      "year": 2009,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146228587",
+          "name": "Hongmei Zhao"
+        },
+        {
+          "authorId": "145626731",
+          "name": "Jun Xie"
+        },
+        {
+          "authorId": "1688015",
+          "name": "Qun Liu"
+        },
+        {
+          "authorId": "1904831",
+          "name": "Yajuan L\u00fc"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "d73a2dbdd0292ed03275e0741dacf6eb964ef170",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/d73a2dbdd0292ed03275e0741dacf6eb964ef170",
+      "title": "The Feature Subspace Method for SMT System Combination",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2009,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46429989",
+          "name": "Nan Duan"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "1739326269",
+          "name": "Tong Xiao"
+        },
+        {
+          "authorId": "92660691",
+          "name": "Ming Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "e585e55ab28bfedbbaffcf8c5bce4cabad164e7e",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/e585e55ab28bfedbbaffcf8c5bce4cabad164e7e",
+      "title": "Better Synchronous Binarization for Machine Translation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2009,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1391183811",
+          "name": "Tong Xiao"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "1728004",
+          "name": "Jingbo Zhu"
+        },
+        {
+          "authorId": "92660691",
+          "name": "Ming Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "228b33cf977d1a56165643a232b51740d2311535",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/228b33cf977d1a56165643a232b51740d2311535",
+      "title": "The MSR-NRC-SRI MT System for NIST Open Machine Translation 2008 Evaluation",
+      "venue": "",
+      "year": 2008,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144137069",
+          "name": "Xiaodong He"
+        },
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "2596310",
+          "name": "Chris Quirk"
+        },
+        {
+          "authorId": "14902530",
+          "name": "Patrick Nguyen"
+        },
+        {
+          "authorId": "145280401",
+          "name": "Arul Menezes"
+        },
+        {
+          "authorId": "143767423",
+          "name": "Robert C. Moore"
+        },
+        {
+          "authorId": "3259253",
+          "name": "Kristina Toutanova"
+        },
+        {
+          "authorId": "2111076629",
+          "name": "Mei Yang"
+        },
+        {
+          "authorId": "66648221",
+          "name": "Bill Dolan"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "2109746427",
+          "name": "Chi-Ho Li"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2112532004",
+          "name": "Long Jiang"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "2153612939",
+          "name": "Henry Li"
+        }
+      ]
+    },
+    {
+      "paperId": "2b111bdc415aeea261ef9905b1b4e05ad0add918",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2b111bdc415aeea261ef9905b1b4e05ad0add918",
+      "title": "An Empirical Study in Source Word Deletion for Phrase-Based Statistical Machine Translation",
+      "venue": "WMT@ACL",
+      "year": 2008,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109746427",
+          "name": "Chi-Ho Li"
+        },
+        {
+          "authorId": "46702748",
+          "name": "Hailei Zhang"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "3434df600fb18f7da1f5b11c0883a5f57b421b06",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3434df600fb18f7da1f5b11c0883a5f57b421b06",
+      "title": "Measure Word Generation for English-Chinese SMT Systems",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2008,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "46429989",
+          "name": "Nan Duan"
+        },
+        {
+          "authorId": "2109746427",
+          "name": "Chi-Ho Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "992ab7bdbfc5c7e107fd9045d78c99a89404eef2",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/992ab7bdbfc5c7e107fd9045d78c99a89404eef2",
+      "title": "Diagnostic Evaluation of Machine Translation Systems Using Automatically Constructed Linguistic Check-Points",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2008,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": null,
+          "name": "Bo Wang"
+        },
+        {
+          "authorId": "1803054",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "145382463",
+          "name": "T. Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "40840a1cf586f6305efdeac19d01d03b809e2e82",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/40840a1cf586f6305efdeac19d01d03b809e2e82",
+      "title": "Phrase Reordering Model Integrating Syntactic Knowledge for SMT",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2007,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "2109746427",
+          "name": "Chi-Ho Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "5af5b02fbcf56c1c1b32c66acbf30172a19ea43d",
+      "publicationVenue": {
+        "id": "596cad8b-de29-492d-84e8-809e819f19a9",
+        "name": "International Conference on Natural Language Processing and Knowledge Engineering",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Nat Lang Process Knowl Eng",
+          "NLPKE",
+          "Nat Lang Process Knowl Eng",
+          "Natural Language Processing and Knowledge Engineering"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5af5b02fbcf56c1c1b32c66acbf30172a19ea43d",
+      "title": "Improving Chinese Chunking with Enriched Statistical and Morphological Knowledge",
+      "venue": "International Conference on Natural Language Processing and Knowledge Engineering",
+      "year": 2007,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1786422",
+          "name": "Limin Yao"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "2227579",
+          "name": "C. Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "9052a361a7f03da8cd2159c1eb3ad987e675e2db",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9052a361a7f03da8cd2159c1eb3ad987e675e2db",
+      "title": "A Probabilistic Approach to Syntax-based Reordering for Statistical Machine Translation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2007,
+      "citationCount": 89,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109746427",
+          "name": "Chi-Ho Li"
+        },
+        {
+          "authorId": "90793468",
+          "name": "Minghui Li"
+        },
+        {
+          "authorId": "40232931",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        },
+        {
+          "authorId": "2069569995",
+          "name": "Y. Guan"
+        }
+      ]
+    },
+    {
+      "paperId": "9cfbd1641866f0693689ca6f87f7c6a0cb89f296",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/9cfbd1641866f0693689ca6f87f7c6a0cb89f296",
+      "title": "Improving Query Spelling Correction Using Web Search Results",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2007,
+      "citationCount": 100,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152520757",
+          "name": "Qing Chen"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "0fef373f43587911e68fff0a94754ac0130d6d94",
+      "publicationVenue": {
+        "id": "63eb9f8a-e9a8-43fb-a0f1-bdf78525349d",
+        "name": "Pacific Asia Conference on Language, Information and Computation",
+        "type": "conference",
+        "alternate_names": [
+          "Pacific Asia Conference on Language, Information, and Computation",
+          "Pac Asia Conf Lang Inf Comput",
+          "PACLIC"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0fef373f43587911e68fff0a94754ac0130d6d94",
+      "title": "Discriminative Reranking for Spelling Correction",
+      "venue": "Pacific Asia Conference on Language, Information and Computation",
+      "year": 2006,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2145955194",
+          "name": "Yang Zhang"
+        },
+        {
+          "authorId": "36054473",
+          "name": "Pilian He"
+        },
+        {
+          "authorId": "2052727681",
+          "name": "Wei Xiang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "67665e8de1a7d84523b1755c6c739203a68818d0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/67665e8de1a7d84523b1755c6c739203a68818d0",
+      "title": "Information Retrieval for short documents",
+      "venue": "",
+      "year": 2006,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1787923",
+          "name": "Haoliang Qi"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "145175581",
+          "name": "Sheng Li"
+        }
+      ]
+    },
+    {
+      "paperId": "ad4ee5a68b76378c3bf4a67404252a9b73f54eea",
+      "publicationVenue": {
+        "id": "63eb9f8a-e9a8-43fb-a0f1-bdf78525349d",
+        "name": "Pacific Asia Conference on Language, Information and Computation",
+        "type": "conference",
+        "alternate_names": [
+          "Pacific Asia Conference on Language, Information, and Computation",
+          "Pac Asia Conf Lang Inf Comput",
+          "PACLIC"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ad4ee5a68b76378c3bf4a67404252a9b73f54eea",
+      "title": "Effective Tag Set Selection in Chinese Word Segmentation via Conditional Random Field Modeling",
+      "venue": "Pacific Asia Conference on Language, Information and Computation",
+      "year": 2006,
+      "citationCount": 120,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "36225434",
+          "name": "Zhao Hai"
+        },
+        {
+          "authorId": "2227579",
+          "name": "C. Huang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "1715839",
+          "name": "Bao-Liang Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "d4414eb1d95dda4ba347f7b6e8335ff513c91e1f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d4414eb1d95dda4ba347f7b6e8335ff513c91e1f",
+      "title": "An Improved Chinese Word Segmentation System with Conditional Random Field",
+      "venue": "SIGHAN@COLING/ACL",
+      "year": 2006,
+      "citationCount": 182,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "36225434",
+          "name": "Zhao Hai"
+        },
+        {
+          "authorId": "2227579",
+          "name": "C. Huang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "d79be6f0fee88c0aa1aaf1b21c259776069b440e",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d79be6f0fee88c0aa1aaf1b21c259776069b440e",
+      "title": "Exploring Distributional Similarity Based Models for Query Spelling Correction",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2006,
+      "citationCount": 141,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "145490067",
+          "name": "Muhua Zhu"
+        },
+        {
+          "authorId": "2145955194",
+          "name": "Yang Zhang"
+        },
+        {
+          "authorId": "143849609",
+          "name": "M. Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "5c4d9251b7e27ff058e8469e492b39c79e6f9fbe",
+      "publicationVenue": {
+        "id": "30a8645d-22d4-42e2-b3f6-304bf4ce3a02",
+        "name": "International Conference on Computational Logic",
+        "type": "conference",
+        "alternate_names": [
+          "CL",
+          "Int Conf Comput Log"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5c4d9251b7e27ff058e8469e492b39c79e6f9fbe",
+      "title": "Chinese Word Segmentation and Named Entity Recognition: A Pragmatic Approach",
+      "venue": "International Conference on Computational Logic",
+      "year": 2005,
+      "citationCount": 227,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "2227579",
+          "name": "C. Huang"
+        },
+        {
+          "authorId": "40046594",
+          "name": "Andi Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "7fdc2c8d5331aafdb1ef12bd893410d511926afa",
+      "publicationVenue": {
+        "id": "7431ff67-91dc-41fa-b322-1b1ca657025f",
+        "name": "International Conference on Information and Knowledge Management",
+        "type": "conference",
+        "alternate_names": [
+          "Conference on Information and Knowledge Management",
+          "Conf Inf Knowl Manag",
+          "Int Conf Inf Knowl Manag",
+          "CIKM"
+        ],
+        "url": "http://www.cikm.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7fdc2c8d5331aafdb1ef12bd893410d511926afa",
+      "title": "Person resolution in person search results: WebHawk",
+      "venue": "International Conference on Information and Knowledge Management",
+      "year": 2005,
+      "citationCount": 93,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145078589",
+          "name": "Xiaojun Wan"
+        },
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "2064493521",
+          "name": "Binggong Ding"
+        }
+      ]
+    },
+    {
+      "paperId": "a929e692425ee679cbf24f9bcea5ab218b42c8fa",
+      "publicationVenue": {
+        "id": "e783305c-5d8a-44b9-b7a2-449d474a85b2",
+        "name": "International Joint Conference on Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "IJCNLP",
+          "Int Jt Conf Nat Lang Process"
+        ],
+        "url": "https://www.aclweb.org/portal/ijcnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/a929e692425ee679cbf24f9bcea5ab218b42c8fa",
+      "title": "Detecting Segmentation Errors in Chinese Annotated Corpus",
+      "venue": "International Joint Conference on Natural Language Processing",
+      "year": 2005,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2913207",
+          "name": "Chengjie Sun"
+        },
+        {
+          "authorId": "2227579",
+          "name": "C. Huang"
+        },
+        {
+          "authorId": "1709719",
+          "name": "Xiaolong Wang"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "2543b1728ea38f947bc00b63091d5e27b13f4eee",
+      "publicationVenue": {
+        "id": "82f6bb1d-b0cf-471f-84f2-298e15a381ca",
+        "name": "Workshop on Chinese Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "SIGHAN",
+          "Workshop Chin Lang Process"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2543b1728ea38f947bc00b63091d5e27b13f4eee",
+      "title": "Single Character Chinese Named Entity Recognition",
+      "venue": "Workshop on Chinese Language Processing",
+      "year": 2003,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "1854999",
+          "name": "Xiao-Dan Zhu"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "2227579",
+          "name": "C. Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "dd4a6f2aa5cc415c45447447c765029540c391c1",
+      "publicationVenue": {
+        "id": "82f6bb1d-b0cf-471f-84f2-298e15a381ca",
+        "name": "Workshop on Chinese Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "SIGHAN",
+          "Workshop Chin Lang Process"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/dd4a6f2aa5cc415c45447447c765029540c391c1",
+      "title": "Unsupervised Training for Overlapping Ambiguity Resolution in Chinese Word Segmentation",
+      "venue": "Workshop on Chinese Language Processing",
+      "year": 2003,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "2227579",
+          "name": "C. Huang"
+        },
+        {
+          "authorId": "2117984506",
+          "name": "Jianfeng Li"
+        }
+      ]
+    },
+    {
+      "paperId": "dfbc1bf4e0d0893d8afcf61351afb140b0f8a518",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/dfbc1bf4e0d0893d8afcf61351afb140b0f8a518",
+      "title": "Improved Source-Channel Models for Chinese Word Segmentation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2003,
+      "citationCount": 70,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "2227579",
+          "name": "C. Huang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2335 @@
+{
+  "authorId": "2384711",
+  "name": "Chunting Zhou",
+  "affiliations": [
+    "Carnegie Mellon University"
+  ],
+  "paperCount": 39,
+  "citationCount": 4554,
+  "hIndex": 25,
+  "papers": [
+    {
+      "paperId": "1c0b3679919cd0531973fced1a1eb49745d9332d",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1c0b3679919cd0531973fced1a1eb49745d9332d",
+      "title": "Instruction-tuned Language Models are Better Knowledge Learners",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2024,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2669515",
+          "name": "Zhengbao Jiang"
+        },
+        {
+          "authorId": "2284929947",
+          "name": "Zhiqing Sun"
+        },
+        {
+          "authorId": "2254168373",
+          "name": "Weijia Shi"
+        },
+        {
+          "authorId": "2253404757",
+          "name": "Pedro Rodriguez"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "2285194103",
+          "name": "Graham Neubig"
+        },
+        {
+          "authorId": "2255374957",
+          "name": "Xi Victoria Lin"
+        },
+        {
+          "authorId": "2072801764",
+          "name": "Wen-tau Yih"
+        },
+        {
+          "authorId": "2284762857",
+          "name": "Srinivasan Iyer"
+        }
+      ]
+    },
+    {
+      "paperId": "5b3991fe7d8f6fc0a7fbd42938e2988ea37efe14",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/5b3991fe7d8f6fc0a7fbd42938e2988ea37efe14",
+      "title": "Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 125,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "2296724476",
+          "name": "Lili Yu"
+        },
+        {
+          "authorId": "2237983657",
+          "name": "Arun Babu"
+        },
+        {
+          "authorId": "2551387",
+          "name": "Kushal Tirumala"
+        },
+        {
+          "authorId": "19168196",
+          "name": "Michihiro Yasunaga"
+        },
+        {
+          "authorId": "2316490131",
+          "name": "Leonid Shamis"
+        },
+        {
+          "authorId": "2316491370",
+          "name": "Jacob Kahn"
+        },
+        {
+          "authorId": "2378954",
+          "name": "Xuezhe Ma"
+        },
+        {
+          "authorId": "2239106612",
+          "name": "Luke Zettlemoyer"
+        },
+        {
+          "authorId": "2296719126",
+          "name": "Omer Levy"
+        }
+      ]
+    },
+    {
+      "paperId": "ab7b2817a8a20b6590f3689289094cb3ff089dea",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/ab7b2817a8a20b6590f3689289094cb3ff089dea",
+      "title": "Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2330065641",
+          "name": "Weixin Liang"
+        },
+        {
+          "authorId": "2315783028",
+          "name": "Lili Yu"
+        },
+        {
+          "authorId": "2313932577",
+          "name": "Liang Luo"
+        },
+        {
+          "authorId": "2313918285",
+          "name": "Srinivasan Iyer"
+        },
+        {
+          "authorId": "2313910396",
+          "name": "Ning Dong"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "134007132",
+          "name": "Gargi Ghosh"
+        },
+        {
+          "authorId": "2253417398",
+          "name": "Mike Lewis"
+        },
+        {
+          "authorId": "2072801764",
+          "name": "Wen-tau Yih"
+        },
+        {
+          "authorId": "2256736753",
+          "name": "Luke S. Zettlemoyer"
+        },
+        {
+          "authorId": "2255374957",
+          "name": "Xi Victoria Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "e9484cf633985ccef70b0ce46866ce232a81ca4b",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e9484cf633985ccef70b0ce46866ce232a81ca4b",
+      "title": "Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2378954",
+          "name": "Xuezhe Ma"
+        },
+        {
+          "authorId": "2296722524",
+          "name": "Xiaomeng Yang"
+        },
+        {
+          "authorId": "2290750668",
+          "name": "Wenhan Xiong"
+        },
+        {
+          "authorId": "2296721324",
+          "name": "Beidi Chen"
+        },
+        {
+          "authorId": "2296724476",
+          "name": "Lili Yu"
+        },
+        {
+          "authorId": "2296716359",
+          "name": "Hao Zhang"
+        },
+        {
+          "authorId": "2296718960",
+          "name": "Jonathan May"
+        },
+        {
+          "authorId": "2137813791",
+          "name": "Luke S. Zettlemoyer"
+        },
+        {
+          "authorId": "2296719126",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "4086d3942f1ded1a75c4ce6b9363af395496918b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4086d3942f1ded1a75c4ce6b9363af395496918b",
+      "title": "Representation Learning for Natural Language Processing",
+      "venue": "",
+      "year": 2023,
+      "citationCount": 53,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "73331542",
+          "name": "\u5468\u6625\u5a77"
+        }
+      ]
+    },
+    {
+      "paperId": "4d74a5048b884e8bb3842240abf98915c619c8f8",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4d74a5048b884e8bb3842240abf98915c619c8f8",
+      "title": "Multi-Dimensional Evaluation of Text Summarization with In-Context Learning",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 33,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2116998524",
+          "name": "Sameer Jain"
+        },
+        {
+          "authorId": "17320214",
+          "name": "Vaishakh Keshava"
+        },
+        {
+          "authorId": "1644192946",
+          "name": "Swarnashree Mysore Sathyendra"
+        },
+        {
+          "authorId": "2058640028",
+          "name": "Patrick Fernandes"
+        },
+        {
+          "authorId": "144118452",
+          "name": "Pengfei Liu"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "546d0624adfc6e18fb87d8cc77e7705bb9ea7445",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/546d0624adfc6e18fb87d8cc77e7705bb9ea7445",
+      "title": "LIMA: Less Is More for Alignment",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 724,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "144118452",
+          "name": "Pengfei Liu"
+        },
+        {
+          "authorId": "2214843767",
+          "name": "Puxin Xu"
+        },
+        {
+          "authorId": "1900163",
+          "name": "Srini Iyer"
+        },
+        {
+          "authorId": "145478138",
+          "name": "Jiao Sun"
+        },
+        {
+          "authorId": "3375249",
+          "name": "Yuning Mao"
+        },
+        {
+          "authorId": "2378954",
+          "name": "Xuezhe Ma"
+        },
+        {
+          "authorId": "1388010852",
+          "name": "Avia Efrat"
+        },
+        {
+          "authorId": "2114104308",
+          "name": "Ping Yu"
+        },
+        {
+          "authorId": "49297123",
+          "name": "L. Yu"
+        },
+        {
+          "authorId": "2108244542",
+          "name": "Susan Zhang"
+        },
+        {
+          "authorId": "134007132",
+          "name": "Gargi Ghosh"
+        },
+        {
+          "authorId": "35084211",
+          "name": "M. Lewis"
+        },
+        {
+          "authorId": "1982950",
+          "name": "Luke Zettlemoyer"
+        },
+        {
+          "authorId": "39455775",
+          "name": "Omer Levy"
+        }
+      ]
+    },
+    {
+      "paperId": "7a5b44ea10a51708e18786595c8d70b18950da11",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/7a5b44ea10a51708e18786595c8d70b18950da11",
+      "title": "FacTool: Factuality Detection in Generative AI - A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 172,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2047713083",
+          "name": "Ethan Chern"
+        },
+        {
+          "authorId": "2224851117",
+          "name": "Steffi Chern"
+        },
+        {
+          "authorId": "2108956946",
+          "name": "Shiqi Chen"
+        },
+        {
+          "authorId": "30300197",
+          "name": "Weizhe Yuan"
+        },
+        {
+          "authorId": "2224772135",
+          "name": "Kehua Feng"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "6215698",
+          "name": "Junxian He"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        },
+        {
+          "authorId": "144118452",
+          "name": "Pengfei Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "d395c771f6537259610497ba218cce5b9bfc2c50",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d395c771f6537259610497ba218cce5b9bfc2c50",
+      "title": "In-Context Pretraining: Language Modeling Beyond Document Boundaries",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "citationCount": 45,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2254168373",
+          "name": "Weijia Shi"
+        },
+        {
+          "authorId": "48872685",
+          "name": "Sewon Min"
+        },
+        {
+          "authorId": "2253400960",
+          "name": "Maria Lomeli"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "2259207413",
+          "name": "Margaret Li"
+        },
+        {
+          "authorId": "2258956777",
+          "name": "Victoria Lin"
+        },
+        {
+          "authorId": "2264002618",
+          "name": "Noah A. Smith"
+        },
+        {
+          "authorId": "2137813791",
+          "name": "Luke S. Zettlemoyer"
+        },
+        {
+          "authorId": "2253400757",
+          "name": "Scott Yih"
+        },
+        {
+          "authorId": "2253417398",
+          "name": "Mike Lewis"
+        }
+      ]
+    },
+    {
+      "paperId": "f2ba9e7d9624bd94a786ea5e3161a9425a21a475",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f2ba9e7d9624bd94a786ea5e3161a9425a21a475",
+      "title": "Self-Alignment with Instruction Backtranslation",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "citationCount": 112,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2116235416",
+          "name": "Xian Li"
+        },
+        {
+          "authorId": "2114104308",
+          "name": "Ping Yu"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "32246932",
+          "name": "Timo Schick"
+        },
+        {
+          "authorId": "1982950",
+          "name": "Luke Zettlemoyer"
+        },
+        {
+          "authorId": "39455775",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "145183709",
+          "name": "J. Weston"
+        },
+        {
+          "authorId": "35084211",
+          "name": "M. Lewis"
+        }
+      ]
+    },
+    {
+      "paperId": "07c70ca55793984ffdf31582a05170ef3d62381a",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/07c70ca55793984ffdf31582a05170ef3d62381a",
+      "title": "Prompt Consistency for Zero-Shot Task Generalization",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 71,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "6215698",
+          "name": "Junxian He"
+        },
+        {
+          "authorId": "2378954",
+          "name": "Xuezhe Ma"
+        },
+        {
+          "authorId": "1400419309",
+          "name": "Taylor Berg-Kirkpatrick"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        }
+      ]
+    },
+    {
+      "paperId": "4e23271a9d79ee41f5056db2af0cb20cf9bdba17",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4e23271a9d79ee41f5056db2af0cb20cf9bdba17",
+      "title": "Improving Coherence of Language Model Generation with Latent Semantic State",
+      "venue": "",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2220750220",
+          "name": "Amanda Askell"
+        },
+        {
+          "authorId": "1486307451",
+          "name": "Yuntao Bai"
+        },
+        {
+          "authorId": "2111073313",
+          "name": "Anna Chen"
+        },
+        {
+          "authorId": "1943097969",
+          "name": "Dawn Drain"
+        },
+        {
+          "authorId": "2081806483",
+          "name": "Deep Ganguli"
+        },
+        {
+          "authorId": "103143311",
+          "name": "T. Henighan"
+        },
+        {
+          "authorId": "2149890773",
+          "name": "Andy Jones"
+        },
+        {
+          "authorId": "2285072384",
+          "name": "Benjamin Mann"
+        },
+        {
+          "authorId": "2142833890",
+          "name": "Nova Dassarma"
+        },
+        {
+          "authorId": "2287337930",
+          "name": "Nelson El-312"
+        },
+        {
+          "authorId": "1573482302",
+          "name": "Zac Hatfield-Dodds"
+        },
+        {
+          "authorId": "39182747",
+          "name": "Danny Hernandez"
+        },
+        {
+          "authorId": "1583434563",
+          "name": "John Kernion"
+        },
+        {
+          "authorId": "1978097132",
+          "name": "Kamal Ndousse"
+        },
+        {
+          "authorId": null,
+          "name": "Catherine Olsson"
+        },
+        {
+          "authorId": "2698777",
+          "name": "Dario Amodei"
+        },
+        {
+          "authorId": "2261282667",
+          "name": "Tom Brown"
+        },
+        {
+          "authorId": "2242485295",
+          "name": "J. Clark"
+        },
+        {
+          "authorId": "2287337318",
+          "name": "Sam Mc-315 Candlish"
+        },
+        {
+          "authorId": "2287268442",
+          "name": "C. Olah"
+        },
+        {
+          "authorId": "2053807409",
+          "name": "Jared Kaplan"
+        },
+        {
+          "authorId": "2260406867",
+          "name": "Nick Ryder"
+        },
+        {
+          "authorId": "2261960223",
+          "name": "Jared D Subbiah"
+        },
+        {
+          "authorId": "2261942588",
+          "name": "Prafulla Kaplan"
+        },
+        {
+          "authorId": "2260445935",
+          "name": "A. Dhariwal"
+        },
+        {
+          "authorId": "2285153028",
+          "name": "P. Neelakantan"
+        },
+        {
+          "authorId": "2285148664",
+          "name": "Girish Shyam"
+        },
+        {
+          "authorId": "2285152996",
+          "name": "Amanda Sastry"
+        },
+        {
+          "authorId": "2285153039",
+          "name": "Sandhini Askell"
+        },
+        {
+          "authorId": "2285152528",
+          "name": "Ariel Agarwal"
+        },
+        {
+          "authorId": "2285144589",
+          "name": "Herbert-Voss"
+        },
+        {
+          "authorId": "2064404342",
+          "name": "Gretchen Krueger"
+        },
+        {
+          "authorId": "48422824",
+          "name": "R. Child"
+        },
+        {
+          "authorId": "2285086252",
+          "name": "Aditya Ramesh"
+        },
+        {
+          "authorId": "2052152920",
+          "name": "Daniel M. Ziegler"
+        },
+        {
+          "authorId": "2242326456",
+          "name": "Jeffrey Wu"
+        },
+        {
+          "authorId": "2286806147",
+          "name": "Christopher Winter"
+        },
+        {
+          "authorId": "2286801959",
+          "name": "Mark Hesse"
+        },
+        {
+          "authorId": "2286618170",
+          "name": "Eric Chen"
+        },
+        {
+          "authorId": "2286801673",
+          "name": "Mateusz Sigler"
+        },
+        {
+          "authorId": "2286991325",
+          "name": "Scott teusz Litwin"
+        },
+        {
+          "authorId": "2286722260",
+          "name": "Benjamin Gray"
+        },
+        {
+          "authorId": "2285135122",
+          "name": "Jack Chess"
+        },
+        {
+          "authorId": "2285086642",
+          "name": "Christopher Clark"
+        },
+        {
+          "authorId": "2285141745",
+          "name": "Sam Berner"
+        },
+        {
+          "authorId": "2285312525",
+          "name": "Alec McCandlish"
+        },
+        {
+          "authorId": "2285140012",
+          "name": "Ilya Radford"
+        },
+        {
+          "authorId": "2285145698",
+          "name": "Sutskever Dario"
+        },
+        {
+          "authorId": "2179889822",
+          "name": "Amodei"
+        },
+        {
+          "authorId": "46219105",
+          "name": "Joshua Maynez"
+        },
+        {
+          "authorId": "143790499",
+          "name": "Shashi Narayan"
+        },
+        {
+          "authorId": "2266464503",
+          "name": "Bernd Bohnet"
+        },
+        {
+          "authorId": "35752280",
+          "name": "Kurt Shuster"
+        },
+        {
+          "authorId": "1753626755",
+          "name": "Spencer Poff"
+        },
+        {
+          "authorId": "2239167583",
+          "name": "Moya Chen"
+        },
+        {
+          "authorId": "2111313627",
+          "name": "Douwe Kiela"
+        },
+        {
+          "authorId": "89093987",
+          "name": "Shane Storks"
+        },
+        {
+          "authorId": "2288100488",
+          "name": "Qiaozi Gao"
+        },
+        {
+          "authorId": "2287296296",
+          "name": "Yichi Zhang"
+        },
+        {
+          "authorId": "2285312501",
+          "name": "Joyce Chai"
+        },
+        {
+          "authorId": "2261389843",
+          "name": "Niket Tandon"
+        },
+        {
+          "authorId": "2287269541",
+          "name": "Keisuke Sakaguchi"
+        },
+        {
+          "authorId": "40135250",
+          "name": "Bhavana Dalvi"
+        },
+        {
+          "authorId": "1801149",
+          "name": "Dheeraj Rajagopal"
+        },
+        {
+          "authorId": "2261985369",
+          "name": "Peter Clark"
+        },
+        {
+          "authorId": "1983252",
+          "name": "Michal Guerquin"
+        },
+        {
+          "authorId": "2287660043",
+          "name": "Kyle Richardson"
+        },
+        {
+          "authorId": "2256998951",
+          "name": "Eduard H. Hovy"
+        },
+        {
+          "authorId": "2249637441",
+          "name": "A. dataset"
+        },
+        {
+          "authorId": "49629836",
+          "name": "Rowan Zellers"
+        },
+        {
+          "authorId": "2257034335",
+          "name": "Ari Holtzman"
+        },
+        {
+          "authorId": "2285154336",
+          "name": "Matthew E. Peters"
+        },
+        {
+          "authorId": "3012475",
+          "name": "Roozbeh Mottaghi"
+        },
+        {
+          "authorId": "2684226",
+          "name": "Aniruddha Kembhavi"
+        },
+        {
+          "authorId": "2268551564",
+          "name": "Ali Farhadi"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "2285194103",
+          "name": "Graham Neubig"
+        },
+        {
+          "authorId": null,
+          "name": "Jiatao Gu"
+        },
+        {
+          "authorId": "2286906583",
+          "name": "Mona Diab"
+        },
+        {
+          "authorId": "2280918473",
+          "name": "Francisco Guzm\u00e1n"
+        },
+        {
+          "authorId": "2137813791",
+          "name": "Luke S. Zettlemoyer"
+        }
+      ]
+    },
+    {
+      "paperId": "515cf674fcdced5a7d5bb156dd5fcc1f5290e79b",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/515cf674fcdced5a7d5bb156dd5fcc1f5290e79b",
+      "title": "In-context Examples Selection for Machine Translation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 176,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "5112699",
+          "name": "Sweta Agrawal"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "35084211",
+          "name": "M. Lewis"
+        },
+        {
+          "authorId": "1982950",
+          "name": "Luke Zettlemoyer"
+        },
+        {
+          "authorId": "2320509",
+          "name": "Marjan Ghazvininejad"
+        }
+      ]
+    },
+    {
+      "paperId": "5bb3bd2ec1e99b11a84ccd0e4dce4bdb2a776a5e",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5bb3bd2ec1e99b11a84ccd0e4dce4bdb2a776a5e",
+      "title": "Training Trajectories of Language Models Across Scales",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 50,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "67284811",
+          "name": "Mengzhou Xia"
+        },
+        {
+          "authorId": "2347956",
+          "name": "Mikel Artetxe"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "143724481",
+          "name": "Xi Victoria Lin"
+        },
+        {
+          "authorId": "10721120",
+          "name": "Ramakanth Pasunuru"
+        },
+        {
+          "authorId": "50536468",
+          "name": "Danqi Chen"
+        },
+        {
+          "authorId": "1982950",
+          "name": "Luke Zettlemoyer"
+        },
+        {
+          "authorId": "1389924486",
+          "name": "Ves Stoyanov"
+        }
+      ]
+    },
+    {
+      "paperId": "70e91e16eb321067d9402710e14a40cf28311f73",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/70e91e16eb321067d9402710e14a40cf28311f73",
+      "title": "Mega: Moving Average Equipped Gated Attention",
+      "venue": "International Conference on Learning Representations",
+      "year": 2022,
+      "citationCount": 170,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2378954",
+          "name": "Xuezhe Ma"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "97791350",
+          "name": "Xiang Kong"
+        },
+        {
+          "authorId": "6215698",
+          "name": "Junxian He"
+        },
+        {
+          "authorId": "1970583",
+          "name": "Liangke Gui"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        },
+        {
+          "authorId": "143823227",
+          "name": "Jonathan May"
+        },
+        {
+          "authorId": "1982950",
+          "name": "Luke Zettlemoyer"
+        }
+      ]
+    },
+    {
+      "paperId": "c01225eee64252f5f1fc6937b6f943446412437c",
+      "publicationVenue": {
+        "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+        "name": "IEEE Transactions on Visualization and Computer Graphics",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Vis Comput Graph"
+        ],
+        "issn": "1077-2626",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+      },
+      "url": "https://www.semanticscholar.org/paper/c01225eee64252f5f1fc6937b6f943446412437c",
+      "title": "Incorporation of Human Knowledge into Data Embeddings to Improve Pattern Significance and Interpretability",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2022,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2155869183",
+          "name": "Jie Li"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "43a87867fe6bf4eb920f97fc753be4b727308923",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/43a87867fe6bf4eb920f97fc753be4b727308923",
+      "title": "Towards a Unified View of Parameter-Efficient Transfer Learning",
+      "venue": "International Conference on Learning Representations",
+      "year": 2021,
+      "citationCount": 851,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "6215698",
+          "name": "Junxian He"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "2378954",
+          "name": "Xuezhe Ma"
+        },
+        {
+          "authorId": "1400419309",
+          "name": "Taylor Berg-Kirkpatrick"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        }
+      ]
+    },
+    {
+      "paperId": "714fc6626c527e05f2a31626d067d46520c6740e",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/714fc6626c527e05f2a31626d067d46520c6740e",
+      "title": "Examining and Combating Spurious Features under Distribution Shift",
+      "venue": "International Conference on Machine Learning",
+      "year": 2021,
+      "citationCount": 63,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "2378954",
+          "name": "Xuezhe Ma"
+        },
+        {
+          "authorId": "144397625",
+          "name": "Paul Michel"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        }
+      ]
+    },
+    {
+      "paperId": "9b3a071734cfecb2880105d84bde6791b48bf4a3",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/9b3a071734cfecb2880105d84bde6791b48bf4a3",
+      "title": "Distributionally Robust Multilingual Machine Translation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "153461979",
+          "name": "Daniel L\u00e9vy"
+        },
+        {
+          "authorId": "2116235416",
+          "name": "Xian Li"
+        },
+        {
+          "authorId": "2320509",
+          "name": "Marjan Ghazvininejad"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        }
+      ]
+    },
+    {
+      "paperId": "9b68d582f003b73e95cc8ef7499526198216e737",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9b68d582f003b73e95cc8ef7499526198216e737",
+      "title": "Maximum Proxy-Likelihood Estimation for Non-autoregressive Machine Translation",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2285708771",
+          "name": "William Lewis"
+        },
+        {
+          "authorId": "2285602351",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "2257368805",
+          "name": "Shujie Liu"
+        },
+        {
+          "authorId": "2256760771",
+          "name": "Tie-Yan Liu"
+        },
+        {
+          "authorId": "3440939",
+          "name": "Renqian Luo"
+        },
+        {
+          "authorId": "2273371670",
+          "name": "Arul Menezes"
+        },
+        {
+          "authorId": "2267250090",
+          "name": "Tao Qin"
+        },
+        {
+          "authorId": "1745715",
+          "name": "F. Seide"
+        },
+        {
+          "authorId": "2286441659",
+          "name": "Xu Tan"
+        },
+        {
+          "authorId": "2285491168",
+          "name": "Fei Tian"
+        },
+        {
+          "authorId": "2199806227",
+          "name": "Lijun Wu"
+        },
+        {
+          "authorId": "2362902",
+          "name": "Shuangzhi Wu"
+        },
+        {
+          "authorId": "2794096",
+          "name": "Yingce Xia"
+        },
+        {
+          "authorId": "2286096040",
+          "name": "Dongdong Zhang"
+        },
+        {
+          "authorId": "2285860939",
+          "name": "Zhirui Zhang"
+        },
+        {
+          "authorId": "2285596241",
+          "name": "Jason Lee"
+        },
+        {
+          "authorId": "2273790995",
+          "name": "Dustin Tran"
+        },
+        {
+          "authorId": "2273534960",
+          "name": "Orhan Firat"
+        },
+        {
+          "authorId": "40511414",
+          "name": "Myle Ott"
+        },
+        {
+          "authorId": "2325985",
+          "name": "Michael Auli"
+        },
+        {
+          "authorId": "2529182",
+          "name": "David Grangier"
+        },
+        {
+          "authorId": "2068070",
+          "name": "Sergey Edunov"
+        },
+        {
+          "authorId": "51428394",
+          "name": "Alexei Baevski"
+        },
+        {
+          "authorId": "1630664874",
+          "name": "Ashish Vaswani"
+        },
+        {
+          "authorId": "1846258",
+          "name": "Noam M. Shazeer"
+        },
+        {
+          "authorId": "3877127",
+          "name": "Niki Parmar"
+        },
+        {
+          "authorId": "2231473185",
+          "name": "Llion Uszkoreit"
+        },
+        {
+          "authorId": "2232195299",
+          "name": "Aidan N Jones"
+        },
+        {
+          "authorId": "2286852351",
+          "name": "Lukasz Gomez"
+        },
+        {
+          "authorId": "2231462639",
+          "name": "Kaiser Illia"
+        },
+        {
+          "authorId": "2231462584",
+          "name": "Polosukhin. 2017"
+        },
+        {
+          "authorId": "2231473624",
+          "name": "Attention"
+        },
+        {
+          "authorId": "2285717420",
+          "name": "Bingzhen Wei"
+        },
+        {
+          "authorId": "2285763682",
+          "name": "Mingxuan Wang"
+        },
+        {
+          "authorId": "2285703884",
+          "name": "Junyang Hao Zhou"
+        },
+        {
+          "authorId": "2285666059",
+          "name": "Lantao Yu"
+        },
+        {
+          "authorId": "2244690305",
+          "name": "Weinan Zhang"
+        },
+        {
+          "authorId": "2250713040",
+          "name": "Jun Wang"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "2285672742",
+          "name": "Jiatao Gu"
+        },
+        {
+          "authorId": "2285194103",
+          "name": "Graham Neubig"
+        }
+      ]
+    },
+    {
+      "paperId": "af679d69fcc1d0fcf0f039aba937853bcb50a8de",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/af679d69fcc1d0fcf0f039aba937853bcb50a8de",
+      "title": "Luna: Linear Unified Nested Attention",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "citationCount": 114,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2378954",
+          "name": "Xuezhe Ma"
+        },
+        {
+          "authorId": "97791350",
+          "name": "Xiang Kong"
+        },
+        {
+          "authorId": "2116420716",
+          "name": "Sinong Wang"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "143823227",
+          "name": "Jonathan May"
+        },
+        {
+          "authorId": "2110815489",
+          "name": "Hao Ma"
+        },
+        {
+          "authorId": "1982950",
+          "name": "Luke Zettlemoyer"
+        }
+      ]
+    },
+    {
+      "paperId": "fc1326303b74b0f5a136a08e48af6f79c5ab828f",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/fc1326303b74b0f5a136a08e48af6f79c5ab828f",
+      "title": "Learning Structures for Deep Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2118572640",
+          "name": "Jinhui Yuan"
+        },
+        {
+          "authorId": "1491642853",
+          "name": "Fei Pan"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "143826491",
+          "name": "Tao Qin"
+        },
+        {
+          "authorId": "2110264337",
+          "name": "Tie-Yan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "01ed852322e718d2c44c4debc8a64631070fa6df",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/01ed852322e718d2c44c4debc8a64631070fa6df",
+      "title": "Detecting Hallucinated Content in Conditional Neural Sequence Generation",
+      "venue": "Findings",
+      "year": 2020,
+      "citationCount": 186,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "3016273",
+          "name": "Jiatao Gu"
+        },
+        {
+          "authorId": "1700007",
+          "name": "Mona T. Diab"
+        },
+        {
+          "authorId": "134578837",
+          "name": "P. Guzm\u00e1n"
+        },
+        {
+          "authorId": "1982950",
+          "name": "Luke Zettlemoyer"
+        },
+        {
+          "authorId": "2320509",
+          "name": "Marjan Ghazvininejad"
+        }
+      ]
+    },
+    {
+      "paperId": "03006aefccdd0c5c6736ab11ed574d02ba1cc086",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/03006aefccdd0c5c6736ab11ed574d02ba1cc086",
+      "title": "Handling Syntactic Divergence in Low-resource Machine Translation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "2378954",
+          "name": "Xuezhe Ma"
+        },
+        {
+          "authorId": "2149221827",
+          "name": "Junjie Hu"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        }
+      ]
+    },
+    {
+      "paperId": "1e5b826ddf0754f6e93234ba1260bd939c255e7f",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1e5b826ddf0754f6e93234ba1260bd939c255e7f",
+      "title": "Understanding Knowledge Distillation in Non-autoregressive Machine Translation",
+      "venue": "International Conference on Learning Representations",
+      "year": 2019,
+      "citationCount": 217,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        },
+        {
+          "authorId": "3016273",
+          "name": "Jiatao Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "75fe6c3ffdea2608794b4f21119c5a4dec07663a",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/75fe6c3ffdea2608794b4f21119c5a4dec07663a",
+      "title": "FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 187,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2378954",
+          "name": "Xuezhe Ma"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "2116235416",
+          "name": "Xian Li"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        },
+        {
+          "authorId": "144547315",
+          "name": "E. Hovy"
+        }
+      ]
+    },
+    {
+      "paperId": "c6d2a216fae7043e9251e5e87141482a1ffc68cd",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c6d2a216fae7043e9251e5e87141482a1ffc68cd",
+      "title": "MAE: Mutual Posterior-Divergence Regularization for Variational AutoEncoders",
+      "venue": "International Conference on Learning Representations",
+      "year": 2019,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2378954",
+          "name": "Xuezhe Ma"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "144547315",
+          "name": "E. Hovy"
+        }
+      ]
+    },
+    {
+      "paperId": "ece62ada00cef99d9fc7a60e7d4b773f6d87c8f9",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/ece62ada00cef99d9fc7a60e7d4b773f6d87c8f9",
+      "title": "The ARIEL-CMU Systems for LoReHLT18",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51250894",
+          "name": "Aditi Chaudhary"
+        },
+        {
+          "authorId": "35186886",
+          "name": "Siddharth Dalmia"
+        },
+        {
+          "authorId": "145919378",
+          "name": "Junjie Hu"
+        },
+        {
+          "authorId": "47058260",
+          "name": "Xinjian Li"
+        },
+        {
+          "authorId": "144633696",
+          "name": "Austin Matthews"
+        },
+        {
+          "authorId": "3456073",
+          "name": "Aldrian Obaja Muis"
+        },
+        {
+          "authorId": "145671279",
+          "name": "Naoki Otani"
+        },
+        {
+          "authorId": "7391530",
+          "name": "Shruti Rijhwani"
+        },
+        {
+          "authorId": "38599655",
+          "name": "Zaid A. W. Sheikh"
+        },
+        {
+          "authorId": "47963068",
+          "name": "Nidhi Vyas"
+        },
+        {
+          "authorId": null,
+          "name": "Xinyi Wang"
+        },
+        {
+          "authorId": "20467900",
+          "name": "Jiateng Xie"
+        },
+        {
+          "authorId": "8233965",
+          "name": "Ruochen Xu"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "25707161",
+          "name": "Peter J. Jansen"
+        },
+        {
+          "authorId": "35729970",
+          "name": "Yiming Yang"
+        },
+        {
+          "authorId": "1686960",
+          "name": "Lori S. Levin"
+        },
+        {
+          "authorId": "1740721",
+          "name": "Florian Metze"
+        },
+        {
+          "authorId": "1706595",
+          "name": "T. Mitamura"
+        },
+        {
+          "authorId": "3407646",
+          "name": "David R. Mortensen"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        },
+        {
+          "authorId": "144547315",
+          "name": "E. Hovy"
+        },
+        {
+          "authorId": "1690706",
+          "name": "A. Black"
+        },
+        {
+          "authorId": "143712374",
+          "name": "J. Carbonell"
+        },
+        {
+          "authorId": "2429228",
+          "name": "Graham Horwood"
+        },
+        {
+          "authorId": "41123680",
+          "name": "Shabnam Tafreshi"
+        },
+        {
+          "authorId": "1700007",
+          "name": "Mona T. Diab"
+        },
+        {
+          "authorId": "2793610",
+          "name": "Efsun Sarioglu Kayi"
+        },
+        {
+          "authorId": "2881964",
+          "name": "N. Farra"
+        },
+        {
+          "authorId": "145590324",
+          "name": "K. McKeown"
+        }
+      ]
+    },
+    {
+      "paperId": "f26f17ec49f2593bcc926051394871480a80c0c2",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/f26f17ec49f2593bcc926051394871480a80c0c2",
+      "title": "Density Matching for Bilingual Word Embedding",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 39,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "2378954",
+          "name": "Xuezhe Ma"
+        },
+        {
+          "authorId": "144629034",
+          "name": "Di Wang"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        }
+      ]
+    },
+    {
+      "paperId": "2068825cabd94c951a0282ed731a8b8f2da1721c",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2068825cabd94c951a0282ed731a8b8f2da1721c",
+      "title": "StructVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 102,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "38253388",
+          "name": "Pengcheng Yin"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "6215698",
+          "name": "Junxian He"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        }
+      ]
+    },
+    {
+      "paperId": "a2ce385fc8d5068e8c87ebe4699c8f9b295cad5e",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/a2ce385fc8d5068e8c87ebe4699c8f9b295cad5e",
+      "title": "Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 61,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51250894",
+          "name": "Aditi Chaudhary"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "1686960",
+          "name": "Lori S. Levin"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        },
+        {
+          "authorId": "3407646",
+          "name": "David R. Mortensen"
+        },
+        {
+          "authorId": "143712374",
+          "name": "J. Carbonell"
+        }
+      ]
+    },
+    {
+      "paperId": "86b91922923b03c66497accfa88c638299fc8d26",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/86b91922923b03c66497accfa88c638299fc8d26",
+      "title": "Morphological Inflection Generation with Multi-space Variational Encoder-Decoders",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2017,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        }
+      ]
+    },
+    {
+      "paperId": "a1999b7fe0bcdd1594e86f9906d68d636201636b",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a1999b7fe0bcdd1594e86f9906d68d636201636b",
+      "title": "Multi-space Variational Encoder-Decoders for Semi-supervised Labeled Sequence Transduction",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2017,
+      "citationCount": 55,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        }
+      ]
+    },
+    {
+      "paperId": "951e05c9d3861775cf7931604c189b584561d5a9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/951e05c9d3861775cf7931604c189b584561d5a9",
+      "title": "Representation learning for natural language processing",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "73331542",
+          "name": "\u5468\u6625\u5a77"
+        }
+      ]
+    },
+    {
+      "paperId": "10f62af29c3fc5e2572baddca559ffbfd6be8787",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/10f62af29c3fc5e2572baddca559ffbfd6be8787",
+      "title": "A C-LSTM Neural Network for Text Classification",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "citationCount": 851,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "152873559",
+          "name": "Chonglin Sun"
+        },
+        {
+          "authorId": "49293587",
+          "name": "Zhiyuan Liu"
+        },
+        {
+          "authorId": "1697834",
+          "name": "F. Lau"
+        }
+      ]
+    },
+    {
+      "paperId": "27a52ed7a9a11564af75d80d6c778c868b7b00a2",
+      "publicationVenue": {
+        "id": "1e517cb2-1ca1-45b8-964a-456366bdcdc1",
+        "name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "PAKDD",
+          "Pacific-asia Conf Knowl Discov Data Min"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/27a52ed7a9a11564af75d80d6c778c868b7b00a2",
+      "title": "Efficient Methods for Multi-label Classification",
+      "venue": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+      "year": 2015,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152873559",
+          "name": "Chonglin Sun"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "144732658",
+          "name": "Bo Jin"
+        },
+        {
+          "authorId": "1697834",
+          "name": "F. Lau"
+        }
+      ]
+    },
+    {
+      "paperId": "3edab81ee08f2278f9d2cfca36e517e16d832b50",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3edab81ee08f2278f9d2cfca36e517e16d832b50",
+      "title": "Category Enhanced Word Embedding",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "152873559",
+          "name": "Chonglin Sun"
+        },
+        {
+          "authorId": "49293587",
+          "name": "Zhiyuan Liu"
+        },
+        {
+          "authorId": "1697834",
+          "name": "F. Lau"
+        }
+      ]
+    },
+    {
+      "paperId": "fc096ea6215cf93f073d4bde56e3bf3b39f0d72f",
+      "publicationVenue": {
+        "id": "b189dec0-41d0-4cea-a906-7c5186895904",
+        "name": "Global Communications Conference",
+        "type": "conference",
+        "alternate_names": [
+          "GLOBECOM",
+          "Glob Commun Conf"
+        ],
+        "url": "http://www.ieee-globecom.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/fc096ea6215cf93f073d4bde56e3bf3b39f0d72f",
+      "title": "Optimized Periodical Charging in Large-Scale Deployed WSNs",
+      "venue": "Global Communications Conference",
+      "year": 2014,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1755844",
+          "name": "Zhenquan Qin"
+        },
+        {
+          "authorId": "2701003",
+          "name": "Bingxian Lu"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "145131947",
+          "name": "Lei Wang"
+        },
+        {
+          "authorId": "2152184269",
+          "name": "Ming Zhu"
+        },
+        {
+          "authorId": "1731449",
+          "name": "Lei Shu"
+        },
+        {
+          "authorId": "2218990652",
+          "name": "Xiaojing Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "b66ec44c99ca6a4fa67f8f8511a918bfba1e8773",
+      "publicationVenue": {
+        "id": "9aa57e01-2dc2-4422-93b7-2b628326f78c",
+        "name": "Information and Communication Technology Convergence",
+        "type": "conference",
+        "alternate_names": [
+          "International Conference on Information and Communication Technology Convergence",
+          "Inf Commun Technol Converg",
+          "Int Conf Inf Commun Technol Converg",
+          "ICTC"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/b66ec44c99ca6a4fa67f8f8511a918bfba1e8773",
+      "title": "A practical solution to wireless energy transfer in WSNs",
+      "venue": "Information and Communication Technology Convergence",
+      "year": 2013,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1755844",
+          "name": "Zhenquan Qin"
+        },
+        {
+          "authorId": "2384711",
+          "name": "Chunting Zhou"
+        },
+        {
+          "authorId": "2117163576",
+          "name": "Yue Yu"
+        },
+        {
+          "authorId": "145131947",
+          "name": "Lei Wang"
+        },
+        {
+          "authorId": "2110940567",
+          "name": "Liang Sun"
+        },
+        {
+          "authorId": "2145794089",
+          "name": "Yuanyuan Zhang"
+        }
+      ]
+    }
+  ]
+}
