@@ -1,0 +1,15 @@
+
+
+Loading Citation Sentiment Corpus
+Number of examples of type: positive = 728
+Number of examples of type: negative = 253
+Number of examples of type: neutral = 6999
+
+Splitting data into train and test sets
+Training set: positive=582, negative=202, neutral=5599
+Test set: positive=146, negative=51, neutral=1400
+
+Writing data files...
+Data preparation completed successfully!
+Data structure created in: aclImdb/
+Ready for XLNet training!
