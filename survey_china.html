@@ -2595,6 +2595,7 @@
             console.log('Final responses object:', responses.final);
             formattedResponses['final-q1'] = responses.final?.topFactors || [];
             formattedResponses['final-q2'] = responses.final?.additionalInfo || '';
+            formattedResponses['final-q3'] = responses.final?.overallConfidence || '';
             formattedResponses['career-stage'] = responses.final?.careerStage || '';
             
             const submissionData = {
@@ -2607,6 +2608,7 @@
             console.log('Final questions in submission:', {
                 'final-q1': formattedResponses['final-q1'],
                 'final-q2': formattedResponses['final-q2'],
+                'final-q3': formattedResponses['final-q3'],
                 'career-stage': formattedResponses['career-stage']
             });
             

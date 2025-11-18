@@ -381,9 +381,263 @@
             font-size: 0.9em;
             text-align: center;
         }
+        
+        /* Consent Form Styles */
+        .consent-section {
+            background: white;
+            border-radius: 10px;
+            padding: 40px;
+            margin: 20px auto;
+            max-width: 900px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            display: block;
+        }
+        
+        .consent-section.hidden {
+            display: none;
+        }
+        
+        .survey-content {
+            display: none;
+        }
+        
+        .survey-content.visible {
+            display: block;
+        }
+        
+        .consent-title {
+            color: #667eea;
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        
+        .consent-subtitle {
+            color: #666;
+            font-size: 1.1em;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        
+        .consent-text {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 25px;
+            margin-bottom: 25px;
+            max-height: 500px;
+            overflow-y: auto;
+            border: 1px solid #e9ecef;
+        }
+        
+        .consent-text h3 {
+            color: #667eea;
+            margin-top: 20px;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+        
+        .consent-text h3:first-child {
+            margin-top: 0;
+        }
+        
+        .consent-text p {
+            margin-bottom: 15px;
+            line-height: 1.8;
+        }
+        
+        .consent-text ul {
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+        
+        .consent-text li {
+            margin-bottom: 8px;
+        }
+        
+        .consent-checkboxes {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            border-radius: 8px;
+            padding: 25px;
+            margin: 30px 0;
+        }
+        
+        .consent-checkbox-group {
+            margin-bottom: 20px;
+        }
+        
+        .consent-checkbox-group label {
+            display: flex;
+            align-items: flex-start;
+            padding: 15px;
+            background: white;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.3s;
+            margin-bottom: 10px;
+        }
+        
+        .consent-checkbox-group label:hover {
+            background: #f8f9fa;
+            transform: translateX(5px);
+        }
+        
+        .consent-checkbox-group input[type="checkbox"] {
+            margin-right: 12px;
+            margin-top: 3px;
+            flex-shrink: 0;
+        }
+        
+        .consent-checkbox-group input[type="checkbox"]:disabled {
+            cursor: not-allowed;
+        }
+        
+        .consent-button-group {
+            text-align: center;
+            margin-top: 30px;
+        }
+        
+        .btn-consent {
+            padding: 15px 40px;
+            border-radius: 5px;
+            font-size: 1.2em;
+            cursor: pointer;
+            transition: all 0.3s;
+            border: none;
+            margin: 0 10px;
+        }
+        
+        .btn-consent-agree {
+            background: #667eea;
+            color: white;
+        }
+        
+        .btn-consent-agree:hover:not(:disabled) {
+            background: #5a67d8;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .btn-consent-agree:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            opacity: 0.6;
+        }
+        
+        .btn-consent-decline {
+            background: #6c757d;
+            color: white;
+        }
+        
+        .btn-consent-decline:hover {
+            background: #5a6268;
+        }
+        
+        .consent-warning {
+            color: #856404;
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            border-radius: 5px;
+            padding: 15px;
+            margin-top: 20px;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
+    <!-- Consent Form Section -->
+    <div class="consent-section" id="consent-section">
+        <div class="container">
+            <h1 class="consent-title">Research Study Consent Form</h1>
+            <p class="consent-subtitle">Carnegie Mellon University - STUDY2023_00001234</p>
+            
+            <div class="consent-text">
+                <h3>Benign Online Survey</h3>
+                <p>We are inviting you to take part in a research study conducted by Professor Carolyn Rose, Divyan Goyal, Wenhao Xu, and Wang Xiang at Carnegie Mellon University (STUDY2023_00001234). Participation in this study is voluntary.</p>
+                
+                <p>If you choose to take part, you will complete an online survey that will help us understand how individuals perceive and evaluate the impact of scientific research and researchers. The survey will take about 15-20 minutes to complete. You may skip questions that you do not want to answer or stop at any time.</p>
+                
+                <p>We will not be obtaining any information that can identify you or record you in any way. Study data may be shared, made public, or used for future research or educational purposes.</p>
+                
+                <p><strong>Questions?</strong> Please contact us at <a href="mailto:wenhaoxu@andrew.cmu.edu">wenhaoxu@andrew.cmu.edu</a> or Professor Rose at <a href="mailto:cp3a@andrew.cmu.edu">cp3a@andrew.cmu.edu</a>. If you have questions or concerns about your rights as a research participant, you can contact the Carnegie Mellon IRB at (412) 268-4721, <a href="mailto:IRB-review@andrew.cmu.edu">IRB-review@andrew.cmu.edu</a>.</p>
+                
+                <p>If you want to participate in this study, click the [Agree] button to start the survey.</p>
+                
+                <h3>Consent with respect to EU and UK Personal Information</h3>
+                
+                <p><strong>Data Controller:</strong> Carnegie Mellon University</p>
+                
+                <p><strong>Contact Information.</strong> Carnegie Mellon University ATTN: Data Protection Officer, E-mail at <a href="mailto:GDPR-info@andrew.cmu.edu">GDPR-info@andrew.cmu.edu</a>.</p>
+                
+                <p>We wish to inform you about the manner in which we collect, use, disclose, retain and transfer Personal Information in connection with Beyond H-Index Survey: Evaluating Research Excellence through Pairwise Comparisons and obtain your consent as set forth below.</p>
+                
+                <p><strong>Personal Information.</strong> By "Personal Information," we mean information related to you, including your name, address, telephone number, e-mail address, none of which are collected in this study, and any other information related to you that we acquire in connection with the Beyond H-Index Survey. This study is designed so that no identifiable personal information is collected or stored; survey responses are completely anonymous.</p>
+                
+                <p><strong>Collection of Personal Information.</strong> We may obtain information directly from you, from your responses to assessments and questionnaires, and from the observations and conclusions of our researchers and personnel. This information will be processed by the Data Controller directly or through its affiliates or third-party service providers.</p>
+                
+                <p><strong>Use of Personal Information.</strong> We process personal information to enable us to carry out academic research in the public interest. This includes analysis of aggregated, anonymous responses to better understand perceptions of research impact and evaluation criteria across academic communities. Data are used solely for research, teaching, and publication purposes under CMU's ethical and data-protection standards. No data will be disclosed to third parties or used for commercial purposes. We will not use Personal Information for any purpose incompatible with this Consent, unless required or authorized by applicable law, authorized by you, or in your own vital interest (such as in the case of a medical emergency).</p>
+                
+                <p>You may have the right to access and delete Personal Information, and request that we correct inaccurate Personal Information by contacting us and demonstrating its inaccuracy or incompleteness to our satisfaction. If you would like to exercise any rights including your right to withdrawal consent for continued processing or have any other inquiries with respect to your Personal Information, please contact the Data Controller at the address set forth above.</p>
+                
+                <p>If you are not satisfied with our answer or how we manage your personal data, you may also have the right to make a complaint to a data protection regulator. If you reside within the EU, a list of National Data Protection Authorities can be found here: <a href="http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm" target="_blank">http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm</a></p>
+                
+                <p><strong>Storage and Transfer of Personal Information.</strong> We retain Personal Information electronically or in tangible form. We may transfer Personal Information to offices of our affiliates or other locations where our employees, researchers, consultants, or service providers are located. This may include countries outside your country of residence; the laws of such countries may provide differing levels of data protection than the country where you reside. In addition, your information may be stored outside of your country of residence and may be maintained in locations in the United States of America.</p>
+                
+                <p><strong>Protecting Personal Information.</strong> We will take commercially reasonable technical, organizational, and legal measures to secure Personal Information. We require all third-party service providers who process Personal Information for us to use appropriate measures to protect the confidentiality and security of that information in order to comply with the purposes described in this Consent.</p>
+                
+                <p><strong>Data Integrity.</strong> We will take commercially reasonable measures to ensure that Personal Information we process is reliable for its intended use, accurate and complete as necessary to carry out the purposes described in this Consent.</p>
+                
+                <p><strong>Privacy Practices.</strong> For more information on our Privacy Practices and your rights please review our Privacy Notice available at <a href="https://www.cmu.edu/legal/privacy-notice.html" target="_blank">https://www.cmu.edu/legal/privacy-notice.html</a>.</p>
+                
+                <p><strong>Consent.</strong> By signing below, you consent to the collection, use, disclosure, retention and transfer of Personal Information described in this Consent.</p>
+                
+                <h3>Voluntary Participation Section</h3>
+                
+                <p>Your participation in this study is completely voluntary. You may choose not to participate or to stop participating at any time by closing the survey window. There are no penalties or loss of benefits if you decide not to take part or withdraw before finishing.</p>
+                
+                <p>By selecting "I agree" below, you acknowledge that:</p>
+                <ul>
+                    <li>You are 18 years of age or older.</li>
+                    <li>You have read and understood the information provided above</li>
+                    <li>You voluntarily agree to participate in this research study conducted by Carnegie Mellon University</li>
+                </ul>
+                
+                <p>If you do not wish to participate, please close this window now.</p>
+            </div>
+            
+            <div class="consent-checkboxes">
+                <div class="consent-checkbox-group">
+                    <label>
+                        <input type="checkbox" id="consent-agree" onchange="updateConsentButton()">
+                        <span>I agree to participate in this study</span>
+                    </label>
+                </div>
+                
+                <div class="consent-checkbox-group">
+                    <label>
+                        <input type="checkbox" id="consent-decline" onchange="handleDecline()">
+                        <span>I do not agree to participate</span>
+                    </label>
+                </div>
+            </div>
+            
+            <div class="consent-button-group">
+                <button class="btn btn-consent btn-consent-agree" id="btn-start-survey" onclick="startSurvey()" disabled>
+                    I Agree - Start Survey
+                </button>
+                <button class="btn btn-consent btn-consent-decline" onclick="declineParticipation()">
+                    I Do Not Agree
+                </button>
+            </div>
+            
+            <div class="consent-warning" id="consent-warning" style="display: none;">
+                Please select your consent choice above before proceeding.
+            </div>
+        </div>
+    </div>
+    
+    <!-- Survey Content (hidden until consent is given) -->
+    <div class="survey-content" id="survey-content">
     <div class="container">
         <!-- Header -->
         <header>
@@ -2343,27 +2597,111 @@
             }
         }
         
-        // Load saved responses on page load
-        window.onload = function() {
-            // Initialize randomization first
+        // Consent handling functions
+        function updateConsentButton() {
+            const agreeCheckbox = document.getElementById('consent-agree');
+            const declineCheckbox = document.getElementById('consent-decline');
+            const startButton = document.getElementById('btn-start-survey');
+            const warning = document.getElementById('consent-warning');
+            
+            // If agree is checked, uncheck decline
+            if (agreeCheckbox.checked) {
+                declineCheckbox.checked = false;
+                startButton.disabled = false;
+                warning.style.display = 'none';
+            } else {
+                startButton.disabled = true;
+            }
+        }
+        
+        function handleDecline() {
+            const agreeCheckbox = document.getElementById('consent-agree');
+            const declineCheckbox = document.getElementById('consent-decline');
+            
+            // If decline is checked, uncheck agree
+            if (declineCheckbox.checked) {
+                agreeCheckbox.checked = false;
+                document.getElementById('btn-start-survey').disabled = true;
+            }
+        }
+        
+        function startSurvey() {
+            const agreeCheckbox = document.getElementById('consent-agree');
+            
+            if (!agreeCheckbox.checked) {
+                document.getElementById('consent-warning').style.display = 'block';
+                return;
+            }
+            
+            // Store consent in localStorage
+            localStorage.setItem('surveyConsent', JSON.stringify({
+                agreed: true,
+                timestamp: new Date().toISOString(),
+                studyId: 'STUDY2023_00001234'
+            }));
+            
+            // Hide consent form
+            document.getElementById('consent-section').classList.add('hidden');
+            
+            // Show survey content
+            document.getElementById('survey-content').classList.add('visible');
+            
+            // Initialize survey
             initializeRandomization();
+            loadSavedResponses();
+            checkSubmissionReady();
+        }
+        
+        function declineParticipation() {
+            const declineCheckbox = document.getElementById('consent-decline');
+            declineCheckbox.checked = true;
             
-            // Console-only verification for admins (hidden from participants)
-            console.log('%c=== SURVEY CONDITION (ADMIN ONLY) ===', 'color: blue; font-weight: bold;');
-            console.log('FIXED ALTERNATING PATTERN:');
-            console.log('  ODD comparisons (1,3,5,7,9) = FULL INFO (anonymized)');
-            console.log('  EVEN comparisons (2,4,6,8,10) = MINIMAL INFO (with names)');
-            console.log('\nDisplay Conditions:', displayConditions);
-            console.log('Full Info (anonymized):', Object.keys(displayConditions).filter(k => displayConditions[k] === 'full').join(', '));
-            console.log('Minimal Info (with names):', Object.keys(displayConditions).filter(k => displayConditions[k] === 'minimal').join(', '));
-            console.log('%c=====================================', 'color: blue;');
+            alert('Thank you for your time. If you change your mind, you can return to this page to participate.');
             
+            // Optionally redirect or close
+            // window.close(); // This might not work in all browsers
+        }
+        
+        function loadSavedResponses() {
             const saved = localStorage.getItem('surveyResponses');
             if (saved) {
                 Object.assign(responses, JSON.parse(saved));
                 console.log('Loaded saved responses:', responses);
             }
             
+            // Restore the last comparison they were on
+            const lastComparison = localStorage.getItem('lastComparison');
+            if (lastComparison) {
+                const compNum = parseInt(lastComparison);
+                if (compNum >= 1 && compNum <= totalComparisons) {
+                    currentComparison = compNum;
+                    
+                    // Check if they completed the survey (have final responses)
+                    if (responses.final && responses.final.completedAt) {
+                        // They completed it, show final section
+                        document.querySelectorAll('.comparison').forEach(comp => {
+                            comp.classList.remove('active');
+                        });
+                        document.getElementById('final-section').classList.add('active');
+                        document.querySelector('.progress-bar').style.display = 'none';
+                        console.log('Survey was completed, showing final section');
+                    } else {
+                        // Hide all comparisons
+                        document.querySelectorAll('.comparison').forEach(comp => {
+                            comp.classList.remove('active');
+                        });
+                        
+                        // Show the last comparison they were on
+                        document.getElementById(`comparison-${compNum}`).classList.add('active');
+                        updateProgress();
+                        
+                        console.log('Restored to comparison', compNum);
+                    }
+                }
+            }
+        }
+        
+        function checkSubmissionReady() {
             // Check if Apps Script URL is configured
             if (APPS_SCRIPT_URL !== 'YOUR_APPS_SCRIPT_URL_HERE') {
                 submissionReady = true;
@@ -2373,11 +2711,44 @@
                 updateStorageStatus('⚠️ Local storage only - Configure Apps Script URL to enable submission');
                 console.log('Apps Script URL not configured');
             }
+        }
+        
+        // Load saved responses on page load
+        window.onload = function() {
+            // Check if consent was already given
+            const consent = localStorage.getItem('surveyConsent');
+            
+            if (consent) {
+                // Consent already given, show survey directly
+                document.getElementById('consent-section').classList.add('hidden');
+                document.getElementById('survey-content').classList.add('visible');
+                
+                // Initialize randomization first
+                initializeRandomization();
+                
+                // Console-only verification for admins (hidden from participants)
+                console.log('%c=== SURVEY CONDITION (ADMIN ONLY) ===', 'color: blue; font-weight: bold;');
+                console.log('FIXED ALTERNATING PATTERN:');
+                console.log('  ODD comparisons (1,3,5,7,9) = FULL INFO (anonymized)');
+                console.log('  EVEN comparisons (2,4,6,8,10) = MINIMAL INFO (with names)');
+                console.log('\nDisplay Conditions:', displayConditions);
+                console.log('Full Info (anonymized):', Object.keys(displayConditions).filter(k => displayConditions[k] === 'full').join(', '));
+                console.log('Minimal Info (with names):', Object.keys(displayConditions).filter(k => displayConditions[k] === 'minimal').join(', '));
+                console.log('%c=====================================', 'color: blue;');
+                
+                loadSavedResponses();
+                checkSubmissionReady();
+            } else {
+                // No consent yet, show consent form (it's already visible by default)
+                // Consent form is shown, survey content is hidden
+            }
         };
         
         function saveToLocalStorage() {
             localStorage.setItem('surveyResponses', JSON.stringify(responses));
             localStorage.setItem('lastUpdated', new Date().toISOString());
+            // Save current comparison position
+            localStorage.setItem('lastComparison', currentComparison.toString());
         }
         
         function saveCurrentResponses(compNum) {
@@ -2569,9 +2940,14 @@
             formattedResponses['final-q3'] = responses.final?.overallConfidence || '';
             formattedResponses['career-stage'] = responses.final?.careerStage || '';
             
+            // Get consent information
+            const consentInfo = JSON.parse(localStorage.getItem('surveyConsent') || '{}');
+            
             const submissionData = {
                 respondent_id: respondentId,
                 timestamp: new Date().toISOString(),
+                consent_timestamp: consentInfo.timestamp || '',
+                consent_study_id: consentInfo.studyId || 'STUDY2023_00001234',
                 responses: formattedResponses
             };
             
@@ -2600,6 +2976,7 @@
                 // Clear local storage after successful submission
                 localStorage.removeItem('surveyResponses');
                 localStorage.removeItem('lastUpdated');
+                localStorage.removeItem('lastComparison');
                 
                 // Disable the submit button to prevent double submission
                 event.target.disabled = true;
@@ -2645,5 +3022,6 @@
             }
         });
     </script>
+    </div> <!-- Close survey-content div -->
 </body>
 </html>
