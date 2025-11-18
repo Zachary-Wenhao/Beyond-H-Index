@@ -1,0 +1,1218 @@
+{
+  "authorId": "2240597",
+  "name": "David McClosky",
+  "affiliations": [],
+  "paperCount": 33,
+  "citationCount": 9807,
+  "hIndex": 19,
+  "papers": [
+    {
+      "paperId": "9111e772e9556e3ff7160d931d3b02a8d22bddf3",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9111e772e9556e3ff7160d931d3b02a8d22bddf3",
+      "title": "Lexington Corridor Redesign",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        }
+      ]
+    },
+    {
+      "paperId": "cf9830bf8d2babc3c32d192cdccb27aeaf46a048",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/cf9830bf8d2babc3c32d192cdccb27aeaf46a048",
+      "title": "The Role of Context Types and Dimensionality in Learning Word Embeddings",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 123,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2298649",
+          "name": "Oren Melamud"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "145984521",
+          "name": "Siddharth Patwardhan"
+        },
+        {
+          "authorId": "143977268",
+          "name": "Mohit Bansal"
+        }
+      ]
+    },
+    {
+      "paperId": "2253a140c49855b6d09fef6655760ef045b092b5",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2253a140c49855b6d09fef6655760ef045b092b5",
+      "title": "Parsing Paraphrases with Joint Inference",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2015,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3185221",
+          "name": "Do Kook Choe"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        }
+      ]
+    },
+    {
+      "paperId": "63bdfb13ed333a5a87defb97eaf943d4e45a0260",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/63bdfb13ed333a5a87defb97eaf943d4e45a0260",
+      "title": "Syntactic Parse Fusion",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2015,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3185221",
+          "name": "Do Kook Choe"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "1749837",
+          "name": "Eugene Charniak"
+        }
+      ]
+    },
+    {
+      "paperId": "2f5102ec3f70d0dea98c957cc2cab4d15d83a2da",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2f5102ec3f70d0dea98c957cc2cab4d15d83a2da",
+      "title": "The Stanford CoreNLP Natural Language Processing Toolkit",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2014,
+      "citationCount": 7253,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        },
+        {
+          "authorId": "1760868",
+          "name": "M. Surdeanu"
+        },
+        {
+          "authorId": "144661918",
+          "name": "John Bauer"
+        },
+        {
+          "authorId": "2784228",
+          "name": "J. Finkel"
+        },
+        {
+          "authorId": "2105138",
+          "name": "Steven Bethard"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        }
+      ]
+    },
+    {
+      "paperId": "0b753d3c9fb80145c59f987749ebbde80a0de475",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/0b753d3c9fb80145c59f987749ebbde80a0de475",
+      "title": "Stanford \u2019 s System for Parsing the English Web",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 4,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "144409897",
+          "name": "Marta Recasens"
+        },
+        {
+          "authorId": "2565228",
+          "name": "Mengqiu Wang"
+        },
+        {
+          "authorId": "2166511",
+          "name": "R. Socher"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        }
+      ]
+    },
+    {
+      "paperId": "60b5779bed9ae726fc0d65e532655eb131499ad9",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/60b5779bed9ae726fc0d65e532655eb131499ad9",
+      "title": "Learning Constraints for Consistent Timeline Extraction",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2012,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        }
+      ]
+    },
+    {
+      "paperId": "ef8b070d73391c7c3bc11586d1d4f3ce62df748a",
+      "publicationVenue": {
+        "id": "be3f884c-b44a-496a-a593-1cad3f89d254",
+        "name": "BMC Bioinformatics",
+        "type": "journal",
+        "alternate_names": [
+          "BMC Bioinform"
+        ],
+        "issn": "1471-2105",
+        "url": "http://www.biomedcentral.com/bmcbioinformatics",
+        "alternate_urls": [
+          "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=13",
+          "http://www.biomedcentral.com/bmcbioinformatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ef8b070d73391c7c3bc11586d1d4f3ce62df748a",
+      "title": "Combining joint models for biomedical event extraction",
+      "venue": "BMC Bioinformatics",
+      "year": 2012,
+      "citationCount": 37,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "48662861",
+          "name": "Sebastian Riedel"
+        },
+        {
+          "authorId": "1760868",
+          "name": "M. Surdeanu"
+        },
+        {
+          "authorId": "143753639",
+          "name": "A. McCallum"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        }
+      ]
+    },
+    {
+      "paperId": "1583d772b9228f2e0aec1ce939ac1fff0acf90dc",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1583d772b9228f2e0aec1ce939ac1fff0acf90dc",
+      "title": "Model Combination for Event Extraction in BioNLP 2011",
+      "venue": "BioNLP@ACL",
+      "year": 2011,
+      "citationCount": 85,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48662861",
+          "name": "Sebastian Riedel"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "1760868",
+          "name": "M. Surdeanu"
+        },
+        {
+          "authorId": "143753639",
+          "name": "A. McCallum"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        }
+      ]
+    },
+    {
+      "paperId": "3b38b86bb382ec53ee0b7f079ecbd7c1e9491700",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3b38b86bb382ec53ee0b7f079ecbd7c1e9491700",
+      "title": "Event Extraction as Dependency Parsing for BioNLP 2011",
+      "venue": "BioNLP@ACL",
+      "year": 2011,
+      "citationCount": 55,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "1760868",
+          "name": "M. Surdeanu"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        }
+      ]
+    },
+    {
+      "paperId": "4b0983f8864f0599c93b1168aefd443877ea1bca",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4b0983f8864f0599c93b1168aefd443877ea1bca",
+      "title": "Event Extraction as Dependency Parsing",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2011,
+      "citationCount": 194,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "1760868",
+          "name": "M. Surdeanu"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        }
+      ]
+    },
+    {
+      "paperId": "4c078c7c69f429c4adc260c228a3e6bf99b74f62",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4c078c7c69f429c4adc260c228a3e6bf99b74f62",
+      "title": "Customizing an Information Extraction System to a New Domain",
+      "venue": "RELMS@ACL",
+      "year": 2011,
+      "citationCount": 32,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1760868",
+          "name": "M. Surdeanu"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "2109889722",
+          "name": "Mason Smith"
+        },
+        {
+          "authorId": "2055686857",
+          "name": "Andrey Gusev"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        }
+      ]
+    },
+    {
+      "paperId": "4f80b25968df7fa0e1f98c802780ae3251e60e43",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4f80b25968df7fa0e1f98c802780ae3251e60e43",
+      "title": "Anonymous Accounting for Decentralized Systems",
+      "venue": "",
+      "year": 2011,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "66612411",
+          "name": "C. Erway"
+        },
+        {
+          "authorId": "66612411",
+          "name": "C. Erway"
+        },
+        {
+          "authorId": "2939154",
+          "name": "John Jannotti"
+        },
+        {
+          "authorId": "1783286",
+          "name": "Anna Lysyanskaya"
+        },
+        {
+          "authorId": "2248869255",
+          "name": "Roberto Tamassia"
+        },
+        {
+          "authorId": "2248869308",
+          "name": "Peter M Date"
+        },
+        {
+          "authorId": "2248870273",
+          "name": "Weber"
+        },
+        {
+          "authorId": "1702687",
+          "name": "Mira Belenkiy"
+        },
+        {
+          "authorId": "2248869987",
+          "name": "Melissa Chase"
+        },
+        {
+          "authorId": "2103955803",
+          "name": "Theodora Hinkle"
+        },
+        {
+          "authorId": "1746108",
+          "name": "Alptekin K\u00fcp\u00e7\u00fc"
+        },
+        {
+          "authorId": "2248869549",
+          "name": "Sarah Meiklejohn"
+        },
+        {
+          "authorId": "2773499",
+          "name": "Nikos Triandopoulos"
+        },
+        {
+          "authorId": "2831451",
+          "name": "G. Eddon"
+        },
+        {
+          "authorId": "2248871682",
+          "name": "Crystal Kahn"
+        },
+        {
+          "authorId": "2248876199",
+          "name": "Steve Gomez"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "2248869310",
+          "name": "Peter Sibley"
+        },
+        {
+          "authorId": "2248870079",
+          "name": "Yanif Ahmad"
+        },
+        {
+          "authorId": "2248869475",
+          "name": "Guillaume Marceau"
+        },
+        {
+          "authorId": "2248869578",
+          "name": "Luc Mercier"
+        },
+        {
+          "authorId": "2966785",
+          "name": "T. Moscovich"
+        },
+        {
+          "authorId": "2248869506",
+          "name": "Tori Sweetser"
+        },
+        {
+          "authorId": "2248875135",
+          "name": "Stella Frank"
+        },
+        {
+          "authorId": "2248869832",
+          "name": "Casey Marks"
+        },
+        {
+          "authorId": "2248869332",
+          "name": "Eric Koskinen"
+        },
+        {
+          "authorId": "3120714",
+          "name": "Michael Gaiman"
+        },
+        {
+          "authorId": "2248869375",
+          "name": "Andy Pavlo"
+        },
+        {
+          "authorId": "2248869199",
+          "name": "Carleton"
+        },
+        {
+          "authorId": "1808424",
+          "name": "Eric Rachlin"
+        },
+        {
+          "authorId": "148243456",
+          "name": "Tibet Sprague"
+        },
+        {
+          "authorId": "2248869592",
+          "name": "Phil Trevvett"
+        },
+        {
+          "authorId": "2248870428",
+          "name": "David Segal"
+        },
+        {
+          "authorId": "2248869281",
+          "name": "Harry Siple"
+        },
+        {
+          "authorId": "2248869698",
+          "name": "Dan Bass"
+        },
+        {
+          "authorId": "2248869274",
+          "name": "Joseph Gulezian"
+        },
+        {
+          "authorId": "2249170658",
+          "name": "Eric Johnson"
+        }
+      ]
+    },
+    {
+      "paperId": "677455e832f1f07d060188238c4164e2450c3cd1",
+      "publicationVenue": {
+        "id": "4e9e07f8-6008-4ffc-b3c0-92c327e36463",
+        "name": "Text Analysis Conference",
+        "type": "conference",
+        "alternate_names": [
+          "TAC",
+          "Text Anal Conf"
+        ],
+        "url": "https://tac.nist.gov/"
+      },
+      "url": "https://www.semanticscholar.org/paper/677455e832f1f07d060188238c4164e2450c3cd1",
+      "title": "Stanford's Distantly-Supervised Slot-Filling System",
+      "venue": "Text Analysis Conference",
+      "year": 2011,
+      "citationCount": 47,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1760868",
+          "name": "M. Surdeanu"
+        },
+        {
+          "authorId": "2701297",
+          "name": "S. Gupta"
+        },
+        {
+          "authorId": "144661918",
+          "name": "John Bauer"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "145830541",
+          "name": "Angel X. Chang"
+        },
+        {
+          "authorId": "2556884",
+          "name": "Valentin I. Spitkovsky"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        }
+      ]
+    },
+    {
+      "paperId": "ad607d9a5796f6228163ee5462d4eb1fdb39037d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ad607d9a5796f6228163ee5462d4eb1fdb39037d",
+      "title": "Hierachical Name Entity Recognition",
+      "venue": "",
+      "year": 2011,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2509667",
+          "name": "Dakan Wang"
+        },
+        {
+          "authorId": "2096839326",
+          "name": "Yu Wu Mentor"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "1760868",
+          "name": "M. Surdeanu"
+        }
+      ]
+    },
+    {
+      "paperId": "9572853609551687dbb1d3e19d5a520d4de8f470",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9572853609551687dbb1d3e19d5a520d4de8f470",
+      "title": "Proceedings of the 2010 Workshop on Domain Adaptation for Natural Language Processing",
+      "venue": "",
+      "year": 2010,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1722360",
+          "name": "Hal Daum\u00e9"
+        },
+        {
+          "authorId": "2398266",
+          "name": "Tejaswini Deoskar"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "2022124",
+          "name": "Barbara Plank"
+        },
+        {
+          "authorId": "143675545",
+          "name": "J. Tiedemann"
+        }
+      ]
+    },
+    {
+      "paperId": "9a222218041f07dd63d0e8c34b0402a88d50c463",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/9a222218041f07dd63d0e8c34b0402a88d50c463",
+      "title": "Automatic Domain Adaptation for Parsing",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2010,
+      "citationCount": 171,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "1749837",
+          "name": "Eugene Charniak"
+        },
+        {
+          "authorId": "145177220",
+          "name": "Mark Johnson"
+        }
+      ]
+    },
+    {
+      "paperId": "afb1ec22220a99c2729b19104239f8ef18f0c115",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/afb1ec22220a99c2729b19104239f8ef18f0c115",
+      "title": "Any Domain Parsing: Automatic Domain Adaptation for Natural Language Parsing",
+      "venue": "",
+      "year": 2010,
+      "citationCount": 143,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        }
+      ]
+    },
+    {
+      "paperId": "cc6f07b1b34fe7e7f4b35516423d2c85b820dd7c",
+      "publicationVenue": {
+        "id": "4e9e07f8-6008-4ffc-b3c0-92c327e36463",
+        "name": "Text Analysis Conference",
+        "type": "conference",
+        "alternate_names": [
+          "TAC",
+          "Text Anal Conf"
+        ],
+        "url": "https://tac.nist.gov/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cc6f07b1b34fe7e7f4b35516423d2c85b820dd7c",
+      "title": "A Simple Distant Supervision Approach for the TAC-KBP Slot Filling Task",
+      "venue": "Text Analysis Conference",
+      "year": 2010,
+      "citationCount": 66,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1760868",
+          "name": "M. Surdeanu"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "2099589",
+          "name": "J. Tibshirani"
+        },
+        {
+          "authorId": "144661918",
+          "name": "John Bauer"
+        },
+        {
+          "authorId": "145830541",
+          "name": "Angel X. Chang"
+        },
+        {
+          "authorId": "2556884",
+          "name": "Valentin I. Spitkovsky"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        }
+      ]
+    },
+    {
+      "paperId": "9bdbd5381c027a8757f5335bce3f7069395ac045",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/9bdbd5381c027a8757f5335bce3f7069395ac045",
+      "title": "Improving Unsupervised Dependency Parsing with Richer Contexts and Smoothing",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2009,
+      "citationCount": 146,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3020818",
+          "name": "William P. Headden"
+        },
+        {
+          "authorId": "145177220",
+          "name": "Mark Johnson"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        }
+      ]
+    },
+    {
+      "paperId": "13392a6b2d27a7c8c79b3dbe9be7b3f42e42c24c",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/13392a6b2d27a7c8c79b3dbe9be7b3f42e42c24c",
+      "title": "When is Self-Training Effective for Parsing?",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2008,
+      "citationCount": 59,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "1749837",
+          "name": "Eugene Charniak"
+        },
+        {
+          "authorId": "145177220",
+          "name": "Mark Johnson"
+        }
+      ]
+    },
+    {
+      "paperId": "170479ac946ef294455005cc6fb6adb1d2df7a4f",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/170479ac946ef294455005cc6fb6adb1d2df7a4f",
+      "title": "Self-Training for Biomedical Parsing",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2008,
+      "citationCount": 128,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "1749837",
+          "name": "Eugene Charniak"
+        }
+      ]
+    },
+    {
+      "paperId": "31caf7f54c7d3c151aed94a8427e2928f0a0b122",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/31caf7f54c7d3c151aed94a8427e2928f0a0b122",
+      "title": "Evaluating Unsupervised Part-of-Speech Tagging for Grammar Induction",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2008,
+      "citationCount": 40,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3020818",
+          "name": "William P. Headden"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "1749837",
+          "name": "Eugene Charniak"
+        }
+      ]
+    },
+    {
+      "paperId": "b59a2d12b44818030f53714c86bdd02e69577cdb",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b59a2d12b44818030f53714c86bdd02e69577cdb",
+      "title": "Modeling Valence Effects in Unsupervised Grammar Induction",
+      "venue": "",
+      "year": 2008,
+      "citationCount": 6,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        }
+      ]
+    },
+    {
+      "paperId": "e7b0b8b77fcf33df0d1dda6fce176359a47a1293",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e7b0b8b77fcf33df0d1dda6fce176359a47a1293",
+      "title": "BLLIP North American news text",
+      "venue": "",
+      "year": 2008,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Sociology"
+      ],
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "1749837",
+          "name": "Eugene Charniak"
+        },
+        {
+          "authorId": "152465203",
+          "name": "Mark Johnson"
+        }
+      ]
+    },
+    {
+      "paperId": "78a9513e70f596077179101f6cb6eadc51602039",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/78a9513e70f596077179101f6cb6eadc51602039",
+      "title": "Effective Self-Training for Parsing",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2006,
+      "citationCount": 685,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "1749837",
+          "name": "Eugene Charniak"
+        },
+        {
+          "authorId": "145177220",
+          "name": "Mark Johnson"
+        }
+      ]
+    },
+    {
+      "paperId": "85659e0f50624de355f122f84ef8b112e58fe052",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/85659e0f50624de355f122f84ef8b112e58fe052",
+      "title": "A Look at Parsing and Its Applications",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2006,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1747771",
+          "name": "Matthew Lease"
+        },
+        {
+          "authorId": "1749837",
+          "name": "Eugene Charniak"
+        },
+        {
+          "authorId": "145177220",
+          "name": "Mark Johnson"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        }
+      ]
+    },
+    {
+      "paperId": "91fb3e2b1ac9e588037e37e4d9be485e5fd60b27",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/91fb3e2b1ac9e588037e37e4d9be485e5fd60b27",
+      "title": "Reranking and Self-Training for Parser Adaptation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2006,
+      "citationCount": 285,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "1749837",
+          "name": "Eugene Charniak"
+        },
+        {
+          "authorId": "145177220",
+          "name": "Mark Johnson"
+        }
+      ]
+    },
+    {
+      "paperId": "99c577f1daaf4edf8a7bbf65d8e14a3b783e22d7",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/99c577f1daaf4edf8a7bbf65d8e14a3b783e22d7",
+      "title": "Restricted Programming Paradigms for Parallelism",
+      "venue": "",
+      "year": 2006,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        }
+      ]
+    },
+    {
+      "paperId": "6e682f6b2ccb55641e644c9a1a1f136ebc69e38a",
+      "publicationVenue": {
+        "id": "f8e3f8d0-0f40-48c0-b3c0-0c540237b859",
+        "name": "Human Language Technology - The Baltic Perspectiv",
+        "type": "conference",
+        "alternate_names": [
+          "Human Language Technology",
+          "HLT",
+          "Hum Lang Technol",
+          "Hum Lang Technol  Balt Perspect"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6e682f6b2ccb55641e644c9a1a1f136ebc69e38a",
+      "title": "Improving Statistical MT through Morphological Analysis",
+      "venue": "Human Language Technology - The Baltic Perspectiv",
+      "year": 2005,
+      "citationCount": 190,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1991315",
+          "name": "S. Goldwater"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        }
+      ]
+    },
+    {
+      "paperId": "ac3fc456167668ab04dda1540b20a9258faf23df",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ac3fc456167668ab04dda1540b20a9258faf23df",
+      "title": "Explorer Improving Statistical MT through Morphological Analysis",
+      "venue": "",
+      "year": 2005,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1991315",
+          "name": "S. Goldwater"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        }
+      ]
+    },
+    {
+      "paperId": "fd00e5b3d680cb47d39c89dad3cca8580adbd79a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/fd00e5b3d680cb47d39c89dad3cca8580adbd79a",
+      "title": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+      "venue": "",
+      "year": 2005,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1991315",
+          "name": "S. Goldwater"
+        },
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        }
+      ]
+    },
+    {
+      "paperId": "342f2c6742be406f3c1d473ac9a40a06ab314bd8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/342f2c6742be406f3c1d473ac9a40a06ab314bd8",
+      "title": "Your Voice At Its Best",
+      "venue": "",
+      "year": 1959,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "2240597",
+          "name": "David McClosky"
+        },
+        {
+          "authorId": "4667569",
+          "name": "W. Robinson"
+        }
+      ]
+    }
+  ]
+}

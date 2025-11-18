@@ -1,0 +1,678 @@
+{
+  "authorId": "2148900809",
+  "name": "Jian Guo",
+  "affiliations": [],
+  "paperCount": 12,
+  "citationCount": 942,
+  "hIndex": 9,
+  "papers": [
+    {
+      "paperId": "2032aa3ea996e32b45890e9d5bfae4638af2b3cc",
+      "publicationVenue": {
+        "id": "22c9862f-a25e-40cd-9d31-d09e68a293e6",
+        "name": "Machine-mediated learning",
+        "type": "journal",
+        "alternate_names": [
+          "Mach learn",
+          "Machine Learning",
+          "Mach Learn"
+        ],
+        "issn": "0732-6718",
+        "alternate_issns": [
+          "0885-6125"
+        ],
+        "url": "http://www.springer.com/computer/artificial/journal/10994",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10994",
+          "http://www.springer.com/west/home/computer/artificial?SGWID=4-147-70-35726603-0"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2032aa3ea996e32b45890e9d5bfae4638af2b3cc",
+      "title": "Dynamic Datasets and Market Environments for Financial Reinforcement Learning",
+      "venue": "Machine-mediated learning",
+      "year": 2023,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "4029028",
+          "name": "Xiao-Yang Liu"
+        },
+        {
+          "authorId": "2186589721",
+          "name": "Ziyi Xia"
+        },
+        {
+          "authorId": "1504453822",
+          "name": "Hongyang Yang"
+        },
+        {
+          "authorId": "1505808706",
+          "name": "Jiechao Gao"
+        },
+        {
+          "authorId": "1759658",
+          "name": "D. Zha"
+        },
+        {
+          "authorId": "2152184398",
+          "name": "Ming Zhu"
+        },
+        {
+          "authorId": "2118324724",
+          "name": "Chris Wang"
+        },
+        {
+          "authorId": "50218397",
+          "name": "Zhaoran Wang"
+        },
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        }
+      ]
+    },
+    {
+      "paperId": "8a932d5fd75c3d7eee7548981792cbb6fe769e0f",
+      "publicationVenue": {
+        "id": "67f7f831-711a-43c8-8785-1e09005359b5",
+        "name": "International Joint Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Jt Conf Artif Intell",
+          "IJCAI"
+        ],
+        "url": "http://www.ijcai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8a932d5fd75c3d7eee7548981792cbb6fe769e0f",
+      "title": "IMM: An Imitative Reinforcement Learning Approach with Predictive Representation Learning for Automatic Market Making",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Economics"
+      ],
+      "authors": [
+        {
+          "authorId": "2120899436",
+          "name": "Hui Niu"
+        },
+        {
+          "authorId": "2010180602",
+          "name": "Siyuan Li"
+        },
+        {
+          "authorId": "2118455844",
+          "name": "Jiahao Zheng"
+        },
+        {
+          "authorId": "2203581104",
+          "name": "Zhouchi Lin"
+        },
+        {
+          "authorId": "2151966907",
+          "name": "Jian Li"
+        },
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        },
+        {
+          "authorId": "143706345",
+          "name": "Bo An"
+        }
+      ]
+    },
+    {
+      "paperId": "ba622a5136681f25ceead6815c932fbcfbde0429",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/ba622a5136681f25ceead6815c932fbcfbde0429",
+      "title": "Alpha-GPT: Human-AI Interactive Alpha Mining for Quantitative Investment",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Economics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2211588034",
+          "name": "Sai Wang"
+        },
+        {
+          "authorId": "2213691260",
+          "name": "Hang Yuan"
+        },
+        {
+          "authorId": "2118784043",
+          "name": "Leon Zhou"
+        },
+        {
+          "authorId": "1726587",
+          "name": "L. Ni"
+        },
+        {
+          "authorId": "93596028",
+          "name": "H. Shum"
+        },
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        }
+      ]
+    },
+    {
+      "paperId": "3b239d232ebb0fdb0515f41fd439e54ed4e8f86a",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3b239d232ebb0fdb0515f41fd439e54ed4e8f86a",
+      "title": "Vision-Language Intelligence: Tasks, Representation Learning, and Large Models",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 34,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152978390",
+          "name": "Feng Li"
+        },
+        {
+          "authorId": "2315254849",
+          "name": "Hao Zhang"
+        },
+        {
+          "authorId": "2145062298",
+          "name": "Yi-Fan Zhang"
+        },
+        {
+          "authorId": "2131155334",
+          "name": "S. Liu"
+        },
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        },
+        {
+          "authorId": "1726587",
+          "name": "L. Ni"
+        },
+        {
+          "authorId": "9325940",
+          "name": "Pengchuan Zhang"
+        },
+        {
+          "authorId": "2152832911",
+          "name": "Lei Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "497a1accfd0be6cad1be4f2b6fa88078dae7414a",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/497a1accfd0be6cad1be4f2b6fa88078dae7414a",
+      "title": "Quant 4.0: Engineering Quantitative Investment with Automated, Explainable and Knowledge-driven Artificial Intelligence",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Economics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        },
+        {
+          "authorId": "2211588034",
+          "name": "Sai Wang"
+        },
+        {
+          "authorId": "1726587",
+          "name": "L. Ni"
+        },
+        {
+          "authorId": "93596028",
+          "name": "H. Shum"
+        }
+      ]
+    },
+    {
+      "paperId": "78d02f2909a582c624eca2d0f67c91ee91974180",
+      "publicationVenue": {
+        "id": "768b87bb-8a18-4d9c-a161-4d483c776bcf",
+        "name": "Computer Vision and Pattern Recognition",
+        "type": "conference",
+        "alternate_names": [
+          "CVPR",
+          "Comput Vis Pattern Recognit"
+        ],
+        "issn": "1063-6919",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147",
+        "alternate_urls": [
+          "https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/78d02f2909a582c624eca2d0f67c91ee91974180",
+      "title": "DN-DETR: Accelerate DETR Training by Introducing Query DeNoising",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2022,
+      "citationCount": 587,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152978390",
+          "name": "Feng Li"
+        },
+        {
+          "authorId": "2315254849",
+          "name": "Hao Zhang"
+        },
+        {
+          "authorId": "2144330792",
+          "name": "Shi-guang Liu"
+        },
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        },
+        {
+          "authorId": "1726587",
+          "name": "L. Ni"
+        },
+        {
+          "authorId": "2152832911",
+          "name": "Lei Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "cc3cb6b0ea04eb35c1907e3917a4db4b435c95b1",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cc3cb6b0ea04eb35c1907e3917a4db4b435c95b1",
+      "title": "FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "citationCount": 54,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Economics"
+      ],
+      "authors": [
+        {
+          "authorId": "4029028",
+          "name": "Xiao-Yang Liu"
+        },
+        {
+          "authorId": "2186589721",
+          "name": "Ziyi Xia"
+        },
+        {
+          "authorId": "2145151658",
+          "name": "Jingyang Rui"
+        },
+        {
+          "authorId": "1505808706",
+          "name": "Jiechao Gao"
+        },
+        {
+          "authorId": "1504453822",
+          "name": "Hongyang Yang"
+        },
+        {
+          "authorId": "2152184398",
+          "name": "Ming Zhu"
+        },
+        {
+          "authorId": "2118324724",
+          "name": "Chris Wang"
+        },
+        {
+          "authorId": "50218397",
+          "name": "Zhaoran Wang"
+        },
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        }
+      ]
+    },
+    {
+      "paperId": "17390797566679c8df66a77b9ca30737f0f1a117",
+      "publicationVenue": {
+        "id": "5276bfc2-b6f9-4564-83fa-df391a9ea260",
+        "name": "International Conference on AI in Finance",
+        "type": "conference",
+        "alternate_names": [
+          "ICAIF",
+          "Int Conf AI Finance"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/17390797566679c8df66a77b9ca30737f0f1a117",
+      "title": "FinRL-podracer: high performance and scalable deep reinforcement learning for quantitative finance",
+      "venue": "International Conference on AI in Finance",
+      "year": 2021,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Economics"
+      ],
+      "authors": [
+        {
+          "authorId": "2145251225",
+          "name": "Zechu Li"
+        },
+        {
+          "authorId": "2111039012",
+          "name": "Xiao-Yang Liu"
+        },
+        {
+          "authorId": "2118455844",
+          "name": "Jiahao Zheng"
+        },
+        {
+          "authorId": "50218397",
+          "name": "Zhaoran Wang"
+        },
+        {
+          "authorId": "1783299",
+          "name": "A. Elwalid"
+        },
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        }
+      ]
+    },
+    {
+      "paperId": "81bdb269c006aa167af703400b46aa3281dfbd8a",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/81bdb269c006aa167af703400b46aa3281dfbd8a",
+      "title": "ElegantRL-Podracer: Scalable and Elastic Library for Cloud-Native Deep Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "4029028",
+          "name": "Xiao-Yang Liu"
+        },
+        {
+          "authorId": "2145251225",
+          "name": "Zechu Li"
+        },
+        {
+          "authorId": "150358650",
+          "name": "Zhuoran Yang"
+        },
+        {
+          "authorId": "2118455844",
+          "name": "Jiahao Zheng"
+        },
+        {
+          "authorId": "50218397",
+          "name": "Zhaoran Wang"
+        },
+        {
+          "authorId": "30910424",
+          "name": "A. Walid"
+        },
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        },
+        {
+          "authorId": "1694621",
+          "name": "Michael I. Jordan"
+        }
+      ]
+    },
+    {
+      "paperId": "bc2f8313d0cd6efbd317a9f7e4ad8e20ade30367",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/bc2f8313d0cd6efbd317a9f7e4ad8e20ade30367",
+      "title": "FinRL-Meta: A Universe of Near-Real Market Environments for Data-Driven Deep Reinforcement Learning in Quantitative Finance",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Economics"
+      ],
+      "authors": [
+        {
+          "authorId": "2142863052",
+          "name": "Xiao-Yang Liu"
+        },
+        {
+          "authorId": "2145151658",
+          "name": "Jingyang Rui"
+        },
+        {
+          "authorId": "1505808706",
+          "name": "Jiechao Gao"
+        },
+        {
+          "authorId": "2119061550",
+          "name": "Liuqing Yang"
+        },
+        {
+          "authorId": "1504453822",
+          "name": "Hongyang Yang"
+        },
+        {
+          "authorId": "50218397",
+          "name": "Zhaoran Wang"
+        },
+        {
+          "authorId": "2118324724",
+          "name": "Chris Wang"
+        },
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        }
+      ]
+    },
+    {
+      "paperId": "d44c3f1085616f8f0c099e1ed8056d3b1ed8d804",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/d44c3f1085616f8f0c099e1ed8056d3b1ed8d804",
+      "title": "VisMCA: A Visual Analytics System for Misclassification Correction and Analysis. VAST Challenge 2020, Mini-Challenge 2 Award: Honorable Mention for Detailed Analysis of Patterns of Misclassification",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1505179974",
+          "name": "Huyen N. Nguyen"
+        },
+        {
+          "authorId": "2148366333",
+          "name": "Jake Gonzalez"
+        },
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        },
+        {
+          "authorId": "120729363",
+          "name": "Ngan V. T. Nguyen"
+        },
+        {
+          "authorId": "152334560",
+          "name": "Tommy Dang"
+        }
+      ]
+    },
+    {
+      "paperId": "2733574d40ce8e861d7d658bfc33ab36f529864d",
+      "publicationVenue": {
+        "id": "c22e7c36-3bfa-43e1-bb7b-edccdea2a780",
+        "name": "Journal of machine learning research",
+        "type": "journal",
+        "alternate_names": [
+          "Journal of Machine Learning Research",
+          "J mach learn res",
+          "J Mach Learn Res"
+        ],
+        "issn": "1532-4435",
+        "alternate_issns": [
+          "1533-7928"
+        ],
+        "url": "http://www.ai.mit.edu/projects/jmlr/",
+        "alternate_urls": [
+          "http://jmlr.csail.mit.edu/",
+          "http://www.jmlr.org/",
+          "http://portal.acm.org/affiliated/jmlr"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2733574d40ce8e861d7d658bfc33ab36f529864d",
+      "title": "GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing",
+      "venue": "Journal of machine learning research",
+      "year": 2019,
+      "citationCount": 190,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        },
+        {
+          "authorId": "2140062900",
+          "name": "He He"
+        },
+        {
+          "authorId": "2118328320",
+          "name": "Tong He"
+        },
+        {
+          "authorId": "8789103",
+          "name": "Leonard Lausen"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "49955730",
+          "name": "Haibin Lin"
+        },
+        {
+          "authorId": "3008587",
+          "name": "Xingjian Shi"
+        },
+        {
+          "authorId": "2108755854",
+          "name": "Chenguang Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "40881843",
+          "name": "Sheng Zha"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2119077209",
+          "name": "Hang Zhang"
+        },
+        {
+          "authorId": "2117991985",
+          "name": "Zhi Zhang"
+        },
+        {
+          "authorId": "48806269",
+          "name": "Zhongyue Zhang"
+        },
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "46759150",
+          "name": "Yi Zhu"
+        }
+      ]
+    }
+  ]
+}

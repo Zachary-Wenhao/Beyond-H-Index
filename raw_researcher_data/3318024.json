@@ -1,0 +1,4903 @@
+{
+  "authorId": "3318024",
+  "name": "Emad Shihab",
+  "affiliations": [],
+  "paperCount": 124,
+  "citationCount": 6333,
+  "hIndex": 45,
+  "papers": [
+    {
+      "paperId": "64a5d8ebae84843c52fe349b3a7dd33f793def84",
+      "publicationVenue": {
+        "id": "10a4a695-8417-42c7-983d-742df48b3905",
+        "name": "Journal of Systems and Software",
+        "type": "journal",
+        "alternate_names": [
+          "J Syst Softw"
+        ],
+        "issn": "0164-1212",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/505732/description#description",
+        "alternate_urls": [
+          "http://www.elsevier.com/wps/find/journaldescription.cws_home/505732/description",
+          "http://www.sciencedirect.com/science/journal/01641212"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/64a5d8ebae84843c52fe349b3a7dd33f793def84",
+      "title": "Empirical analysis of security-related code reviews in npm packages",
+      "venue": "Journal of Systems and Software",
+      "year": 2023,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "9724763",
+          "name": "Mahmoud Alfadel"
+        },
+        {
+          "authorId": "2161918616",
+          "name": "N. Nagy"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "7400d7bb714f3c5505d7ea9050d5357887b7ed64",
+      "publicationVenue": {
+        "id": "0730105a-4941-449f-9450-28cba8ae056b",
+        "name": "ACM Transactions on Software Engineering and Methodology",
+        "type": "journal",
+        "alternate_names": [
+          "ACM Trans Softw Eng Methodol"
+        ],
+        "issn": "1049-331X",
+        "url": "http://www.acm.org/pubs/contents/journals/tosem/",
+        "alternate_urls": [
+          "https://tosem.acm.org/",
+          "http://tosem.acm.org/",
+          "http://www.acm.org/pubs/tosem/",
+          "http://portal.acm.org/tosem"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7400d7bb714f3c5505d7ea9050d5357887b7ed64",
+      "title": "Understanding the Helpfulness of Stale Bot for Pull-Based Development: An Empirical Study of 20 Large Open-Source Projects",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "year": 2023,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "70044512",
+          "name": "S. Khatoonabadi"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "914983a499e1e5cc4e2cc3fb5dde95d3584d1837",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/914983a499e1e5cc4e2cc3fb5dde95d3584d1837",
+      "title": "Diversity Awareness in Software Engineering Participant Research",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)",
+      "year": 2023,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51103885",
+          "name": "Riya Dutta"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2105187470",
+          "name": "Tanja Tajmel"
+        }
+      ]
+    },
+    {
+      "paperId": "ba4d0821c24e18dc67109d3e6dfcec8e389157ed",
+      "publicationVenue": {
+        "id": "b02cf974-33be-46bd-9cbc-022db6cb7151",
+        "name": "IEEE International Conference on Software Maintenance and Evolution",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Sci Manag Eng",
+          "IEEE Int Conf Softw Maint Evol",
+          "ICSME",
+          "International Conference Science, Management, and Engineering"
+        ],
+        "url": "http://conferences.computer.org/icsm/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ba4d0821c24e18dc67109d3e6dfcec8e389157ed",
+      "title": "An Empirical Study on Bugs Inside PyTorch: A Replication Study",
+      "venue": "IEEE International Conference on Software Maintenance and Evolution",
+      "year": 2023,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2174176115",
+          "name": "Vahid Majdinasab"
+        },
+        {
+          "authorId": "2222761024",
+          "name": "Sharon Chee Yin Ho"
+        },
+        {
+          "authorId": "2174794868",
+          "name": "Mohayeminul Islam"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1703493",
+          "name": "Foutse Khomh"
+        },
+        {
+          "authorId": "1869015",
+          "name": "Sarah Nadi"
+        },
+        {
+          "authorId": "2224891018",
+          "name": "Muhammad Raza"
+        }
+      ]
+    },
+    {
+      "paperId": "d72c112a0936ec0b7a4bad177cdc11d72180906d",
+      "publicationVenue": {
+        "id": "0730105a-4941-449f-9450-28cba8ae056b",
+        "name": "ACM Transactions on Software Engineering and Methodology",
+        "type": "journal",
+        "alternate_names": [
+          "ACM Trans Softw Eng Methodol"
+        ],
+        "issn": "1049-331X",
+        "url": "http://www.acm.org/pubs/contents/journals/tosem/",
+        "alternate_urls": [
+          "https://tosem.acm.org/",
+          "http://tosem.acm.org/",
+          "http://www.acm.org/pubs/tosem/",
+          "http://portal.acm.org/tosem"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/d72c112a0936ec0b7a4bad177cdc11d72180906d",
+      "title": "Dependency Update Strategies and Package Characteristics",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "year": 2023,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2249772814",
+          "name": "Abbas Javan Jafari"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        }
+      ]
+    },
+    {
+      "paperId": "f35e05b0901eb7800e74fbbda218357164c18e82",
+      "publicationVenue": {
+        "id": "1c2ab05c-7d69-465e-929d-0920857aedce",
+        "name": "International Conference on Automated Software Engineering",
+        "type": "conference",
+        "alternate_names": [
+          "Autom Softw Eng",
+          "ASE",
+          "Automated Software Engineering",
+          "Int Conf Autom Softw Eng"
+        ],
+        "url": "http://ase.informatik.uni-essen.de/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f35e05b0901eb7800e74fbbda218357164c18e82",
+      "title": "Where to Go Now? Finding Alternatives for Declining Packages in the npm Ecosystem",
+      "venue": "International Conference on Automated Software Engineering",
+      "year": 2023,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "1e5a0421e3ff826b769f65a312170079c16e9286",
+      "publicationVenue": {
+        "id": "c99cfe66-b71c-4ca4-bedd-26267b9cb068",
+        "name": "IEEE Transactions on Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Softw Eng"
+        ],
+        "issn": "0098-5589",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=32",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tse/about"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/1e5a0421e3ff826b769f65a312170079c16e9286",
+      "title": "On the Untriviality of Trivial Packages: An Empirical Study of npm JavaScript Packages",
+      "venue": "IEEE Transactions on Software Engineering",
+      "year": 2022,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2125013745",
+          "name": "Md Atique Reza Chowdhury"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        }
+      ]
+    },
+    {
+      "paperId": "275f1ab332a2f326a589bbaed7a3c0f3a956a1d5",
+      "publicationVenue": {
+        "id": "1c2ab05c-7d69-465e-929d-0920857aedce",
+        "name": "International Conference on Automated Software Engineering",
+        "type": "conference",
+        "alternate_names": [
+          "Autom Softw Eng",
+          "ASE",
+          "Automated Software Engineering",
+          "Int Conf Autom Softw Eng"
+        ],
+        "url": "http://ase.informatik.uni-essen.de/"
+      },
+      "url": "https://www.semanticscholar.org/paper/275f1ab332a2f326a589bbaed7a3c0f3a956a1d5",
+      "title": "Not All Dependencies are Equal: An Empirical Study on Production Dependencies in NPM",
+      "venue": "International Conference on Automated Software Engineering",
+      "year": 2022,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2086607788",
+          "name": "Jasmine Latendresse"
+        },
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "349011c795d5a7e10ae8215a74ad3730ad35fb0a",
+      "publicationVenue": {
+        "id": "d7907408-25bc-4816-a81d-4e0f2f6482c8",
+        "name": "IEEE Working Conference on Mining Software Repositories",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Work Conf Min Softw Repos",
+          "Min Softw Repos",
+          "Mining Software Repositories",
+          "MSR"
+        ],
+        "url": "https://dl.acm.org/conference/icse/proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/349011c795d5a7e10ae8215a74ad3730ad35fb0a",
+      "title": "BotHunter: An Approach to Detect Software Bots in GitHub",
+      "venue": "IEEE Working Conference on Mining Software Repositories",
+      "year": 2022,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145141548",
+          "name": "Ahmad Abdellatif"
+        },
+        {
+          "authorId": "2156237",
+          "name": "M. Wessel"
+        },
+        {
+          "authorId": "2091414",
+          "name": "Igor Steinmacher"
+        },
+        {
+          "authorId": "143911967",
+          "name": "M. Gerosa"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "38b9e57d9b94a4e59c39835e7067d1e5858feb97",
+      "publicationVenue": {
+        "id": "a36dc29e-4ea1-4567-b0fe-1c06daf8bee8",
+        "name": "International Conference on Software Engineering",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Softw Eng",
+          "ICSE"
+        ],
+        "url": "http://www.icse-conferences.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/38b9e57d9b94a4e59c39835e7067d1e5858feb97",
+      "title": "Bots for Pull Requests: The Good, the Bad, and the Promising",
+      "venue": "International Conference on Software Engineering",
+      "year": 2022,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2156237",
+          "name": "M. Wessel"
+        },
+        {
+          "authorId": "145141548",
+          "name": "Ahmad Abdellatif"
+        },
+        {
+          "authorId": "2381447",
+          "name": "I. Wiese"
+        },
+        {
+          "authorId": "8956664",
+          "name": "T. Conte"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "143911967",
+          "name": "M. Gerosa"
+        },
+        {
+          "authorId": "2091414",
+          "name": "Igor Steinmacher"
+        }
+      ]
+    },
+    {
+      "paperId": "5d7c3b42b39d84c114cf8084526553276826262c",
+      "publicationVenue": {
+        "id": "75d7a8c1-d871-42db-a8e4-7cf5146fdb62",
+        "name": "Social Science Research Network",
+        "type": "journal",
+        "alternate_names": [
+          "SSRN, Social Science Research Network (SSRN) home page",
+          "SSRN Electronic Journal",
+          "Soc Sci Res Netw",
+          "SSRN",
+          "SSRN Home Page",
+          "SSRN Electron J",
+          "Social Science Electronic Publishing presents Social Science Research Network"
+        ],
+        "issn": "1556-5068",
+        "url": "http://www.ssrn.com/",
+        "alternate_urls": [
+          "www.ssrn.com/",
+          "https://fatcat.wiki/container/tol7woxlqjeg5bmzadeg6qrg3e",
+          "https://www.wikidata.org/wiki/Q53949192",
+          "www.ssrn.com/en",
+          "http://www.ssrn.com/en/",
+          "http://umlib.nl/ssrn",
+          "umlib.nl/ssrn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5d7c3b42b39d84c114cf8084526553276826262c",
+      "title": "Qualitative Analysis of Security-Related Code Reviews in NPM Packages: An Empirical Study",
+      "venue": "Social Science Research Network",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "9724763",
+          "name": "Mahmoud Alfadel"
+        },
+        {
+          "authorId": "2161918616",
+          "name": "N. Nagy"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "9418ff59aa9a34717acb489d796399aed923806e",
+      "publicationVenue": {
+        "id": "119227a6-1b94-433e-a52d-8445a387dbbe",
+        "name": "IEEE Software",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Softw"
+        ],
+        "issn": "0740-7459",
+        "url": "http://www.computer.org/software",
+        "alternate_urls": [
+          "http://ieeexplore.ieee.org/servlet/opac?punumber=52"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9418ff59aa9a34717acb489d796399aed923806e",
+      "title": "The Present and Future of Bots in Software Engineering",
+      "venue": "IEEE Software",
+      "year": 2022,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "49859108",
+          "name": "S. Wagner"
+        },
+        {
+          "authorId": "143911967",
+          "name": "M. Gerosa"
+        },
+        {
+          "authorId": "2156237",
+          "name": "M. Wessel"
+        },
+        {
+          "authorId": "144220398",
+          "name": "Jordi Cabot"
+        }
+      ]
+    },
+    {
+      "paperId": "a70943612074530cd56d4b178c388a4afb9e3e30",
+      "publicationVenue": {
+        "id": "64ae7767-9467-4e70-9e31-e4185f9f16ff",
+        "name": "Information and Software Technology",
+        "type": "journal",
+        "alternate_names": [
+          "Inf  Softw Technol",
+          "Information & Software Technology",
+          "Inf Softw Technol"
+        ],
+        "issn": "0950-5849",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/525444/description#description",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09505849"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a70943612074530cd56d4b178c388a4afb9e3e30",
+      "title": "An empirical study on self-admitted technical debt in modern code review",
+      "venue": "Information and Software Technology",
+      "year": 2022,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40293906",
+          "name": "Yutaro Kashiwa"
+        },
+        {
+          "authorId": "2153348219",
+          "name": "Ryoma Nishikawa"
+        },
+        {
+          "authorId": "1706639",
+          "name": "Yasutaka Kamei"
+        },
+        {
+          "authorId": "22022819",
+          "name": "Masanari Kondo"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "48662169",
+          "name": "Ryosuke Sato"
+        },
+        {
+          "authorId": "1806862",
+          "name": "Naoyasu Ubayashi"
+        }
+      ]
+    },
+    {
+      "paperId": "a77539e4fd9e78b5ac483ef821d92a1c43dfb821",
+      "publicationVenue": {
+        "id": "0730105a-4941-449f-9450-28cba8ae056b",
+        "name": "ACM Transactions on Software Engineering and Methodology",
+        "type": "journal",
+        "alternate_names": [
+          "ACM Trans Softw Eng Methodol"
+        ],
+        "issn": "1049-331X",
+        "url": "http://www.acm.org/pubs/contents/journals/tosem/",
+        "alternate_urls": [
+          "https://tosem.acm.org/",
+          "http://tosem.acm.org/",
+          "http://www.acm.org/pubs/tosem/",
+          "http://portal.acm.org/tosem"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a77539e4fd9e78b5ac483ef821d92a1c43dfb821",
+      "title": "On the Discoverability of npm Vulnerabilities in Node.js Projects",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "year": 2022,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "9724763",
+          "name": "Mahmoud Alfadel"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        }
+      ]
+    },
+    {
+      "paperId": "aa1bcae6b0c89a306041c99b9aba1e70c8ff5ca2",
+      "publicationVenue": {
+        "id": "10a4a695-8417-42c7-983d-742df48b3905",
+        "name": "Journal of Systems and Software",
+        "type": "journal",
+        "alternate_names": [
+          "J Syst Softw"
+        ],
+        "issn": "0164-1212",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/505732/description#description",
+        "alternate_urls": [
+          "http://www.elsevier.com/wps/find/journaldescription.cws_home/505732/description",
+          "http://www.sciencedirect.com/science/journal/01641212"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/aa1bcae6b0c89a306041c99b9aba1e70c8ff5ca2",
+      "title": "What are the characteristics of highly-selected packages? A case study on the npm ecosystem",
+      "venue": "Journal of Systems and Software",
+      "year": 2022,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "b084f578ec59e916d1e5ad6e75c6207b553e4454",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b084f578ec59e916d1e5ad6e75c6207b553e4454",
+      "title": "Achievement unlocked: a case study on gamifying DevOps practices in industry",
+      "venue": "ESEC/SIGSOFT FSE",
+      "year": 2022,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2142542273",
+          "name": "Patrick Ayoup"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "b7e638fe57b1cb69c1a1e4a7acdf4e719880829e",
+      "publicationVenue": {
+        "id": "75d7a8c1-d871-42db-a8e4-7cf5146fdb62",
+        "name": "Social Science Research Network",
+        "type": "journal",
+        "alternate_names": [
+          "SSRN, Social Science Research Network (SSRN) home page",
+          "SSRN Electronic Journal",
+          "Soc Sci Res Netw",
+          "SSRN",
+          "SSRN Home Page",
+          "SSRN Electron J",
+          "Social Science Electronic Publishing presents Social Science Research Network"
+        ],
+        "issn": "1556-5068",
+        "url": "http://www.ssrn.com/",
+        "alternate_urls": [
+          "www.ssrn.com/",
+          "https://fatcat.wiki/container/tol7woxlqjeg5bmzadeg6qrg3e",
+          "https://www.wikidata.org/wiki/Q53949192",
+          "www.ssrn.com/en",
+          "http://www.ssrn.com/en/",
+          "http://umlib.nl/ssrn",
+          "umlib.nl/ssrn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/b7e638fe57b1cb69c1a1e4a7acdf4e719880829e",
+      "title": "A Machine Learning Approach to Determine the Semantic Versioning Type of npm Packages Releases",
+      "venue": "Social Science Research Network",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "2125013745",
+          "name": "Md Atique Reza Chowdhury"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "c0e46e1308faee72e8bb3ae120810af503299df4",
+      "publicationVenue": {
+        "id": "c99cfe66-b71c-4ca4-bedd-26267b9cb068",
+        "name": "IEEE Transactions on Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Softw Eng"
+        ],
+        "issn": "0098-5589",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=32",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tse/about"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c0e46e1308faee72e8bb3ae120810af503299df4",
+      "title": "PerfJIT: Test-Level Just-in-Time Prediction for Performance Regression Introducing Commits",
+      "venue": "IEEE Transactions on Software Engineering",
+      "year": 2022,
+      "citationCount": 32,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108146300",
+          "name": "Jinfu Chen"
+        },
+        {
+          "authorId": "39724619",
+          "name": "Weiyi Shang"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "d828b3ea717a7034d4ee7bd56b1e08d15c570ffa",
+      "publicationVenue": {
+        "id": "d7907408-25bc-4816-a81d-4e0f2f6482c8",
+        "name": "IEEE Working Conference on Mining Software Repositories",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Work Conf Min Softw Repos",
+          "Min Softw Repos",
+          "Mining Software Repositories",
+          "MSR"
+        ],
+        "url": "https://dl.acm.org/conference/icse/proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/d828b3ea717a7034d4ee7bd56b1e08d15c570ffa",
+      "title": "Software Bots in Software Engineering: Benefits and Challenges",
+      "venue": "IEEE Working Conference on Mining Software Repositories",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2156237",
+          "name": "M. Wessel"
+        },
+        {
+          "authorId": "143911967",
+          "name": "M. Gerosa"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "13bb7ac99a70c1ce2a01a1b52ad0c1f1fb1d7106",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/13bb7ac99a70c1ce2a01a1b52ad0c1f1fb1d7106",
+      "title": "An exploratory study on the introduction and removal of different types of technical debt in deep learning frameworks",
+      "venue": "Empirical Software Engineering",
+      "year": 2021,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "120809900",
+          "name": "Jiakun Liu"
+        },
+        {
+          "authorId": "2111287178",
+          "name": "Qiao Huang"
+        },
+        {
+          "authorId": "144558659",
+          "name": "Xin Xia"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "143960552",
+          "name": "David Lo"
+        },
+        {
+          "authorId": "1773299",
+          "name": "Shanping Li"
+        }
+      ]
+    },
+    {
+      "paperId": "1fea8f0678617f746fb1508adad3e8867a583fb6",
+      "publicationVenue": {
+        "id": "c99cfe66-b71c-4ca4-bedd-26267b9cb068",
+        "name": "IEEE Transactions on Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Softw Eng"
+        ],
+        "issn": "0098-5589",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=32",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tse/about"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/1fea8f0678617f746fb1508adad3e8867a583fb6",
+      "title": "A Machine Learning Approach to Improve the Detection of CI Skip Commits",
+      "venue": "IEEE Transactions on Software Engineering",
+      "year": 2021,
+      "citationCount": 48,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "2387ca79a14e543014df76db93b169bdb6da2dca",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2387ca79a14e543014df76db93b169bdb6da2dca",
+      "title": "Summary of the 2nd International Workshop on Bots in Software Engineering (BotSE 2020)",
+      "venue": "ACM SIGSOFT Softw. Eng. Notes",
+      "year": 2021,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "49859108",
+          "name": "S. Wagner"
+        },
+        {
+          "authorId": "143911967",
+          "name": "M. Gerosa"
+        }
+      ]
+    },
+    {
+      "paperId": "4084d54c9d997d9fd238968d263f922a143cb26e",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4084d54c9d997d9fd238968d263f922a143cb26e",
+      "title": "Helping or not helping? Why and how trivial packages impact the npm ecosystem",
+      "venue": "Empirical Software Engineering",
+      "year": 2021,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109092024",
+          "name": "Xiaowei Chen"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "144558659",
+          "name": "Xin Xia"
+        }
+      ]
+    },
+    {
+      "paperId": "5baed64325113e0c07b6c698ca21bb15ff70597b",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5baed64325113e0c07b6c698ca21bb15ff70597b",
+      "title": "On the Removal of Feature Toggles",
+      "venue": "Empirical Software Engineering",
+      "year": 2021,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2057459375",
+          "name": "J. Hoyos"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2064108841",
+          "name": "Albeiro Espinosa Bedoya"
+        }
+      ]
+    },
+    {
+      "paperId": "6707ae8ee7325a5be7482f12204ae1934619f1f7",
+      "publicationVenue": {
+        "id": "899831a7-9af2-403b-b185-fa56c8634454",
+        "name": "IEEE transactions on engineering management",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Transactions on Engineering Management",
+          "IEEE Trans Eng Manag",
+          "IEEE trans eng manag"
+        ],
+        "issn": "0018-9391",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=17",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6707ae8ee7325a5be7482f12204ae1934619f1f7",
+      "title": "Toward Using Package Centrality Trend to Identify Packages in Decline",
+      "venue": "IEEE transactions on engineering management",
+      "year": 2021,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "39014194",
+          "name": "M. Saied"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        }
+      ]
+    },
+    {
+      "paperId": "9742ae014ce8d8eb16016e9f4b52247a8517b49c",
+      "publicationVenue": {
+        "id": "0730105a-4941-449f-9450-28cba8ae056b",
+        "name": "ACM Transactions on Software Engineering and Methodology",
+        "type": "journal",
+        "alternate_names": [
+          "ACM Trans Softw Eng Methodol"
+        ],
+        "issn": "1049-331X",
+        "url": "http://www.acm.org/pubs/contents/journals/tosem/",
+        "alternate_urls": [
+          "https://tosem.acm.org/",
+          "http://tosem.acm.org/",
+          "http://www.acm.org/pubs/tosem/",
+          "http://portal.acm.org/tosem"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9742ae014ce8d8eb16016e9f4b52247a8517b49c",
+      "title": "On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests\u2013A Mixed-Methods Study of 10 Large Open-Source Projects",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "year": 2021,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "70044512",
+          "name": "S. Khatoonabadi"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "bc2721ac4f1dcdbd325e0259f7fabe44c5116d58",
+      "publicationVenue": {
+        "id": "d7907408-25bc-4816-a81d-4e0f2f6482c8",
+        "name": "IEEE Working Conference on Mining Software Repositories",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Work Conf Min Softw Repos",
+          "Min Softw Repos",
+          "Mining Software Repositories",
+          "MSR"
+        ],
+        "url": "https://dl.acm.org/conference/icse/proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/bc2721ac4f1dcdbd325e0259f7fabe44c5116d58",
+      "title": "How Effective is Continuous Integration in Indicating Single-Statement Bugs?",
+      "venue": "IEEE Working Conference on Mining Software Repositories",
+      "year": 2021,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2086607788",
+          "name": "Jasmine Latendresse"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "bd99aa53be0f6544e1f8db7ac60402cafa84f25d",
+      "publicationVenue": {
+        "id": "d8655d54-1311-417a-91f7-c5c6daf8fba2",
+        "name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Int Conf Softw Anal Evol Reengineering",
+          "SANER"
+        ],
+        "url": "http://www.informatik.uni-stuttgart.de/ifi/ps/reengineering/"
+      },
+      "url": "https://www.semanticscholar.org/paper/bd99aa53be0f6544e1f8db7ac60402cafa84f25d",
+      "title": "Empirical analysis of security vulnerabilities in Python packages",
+      "venue": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+      "year": 2021,
+      "citationCount": 98,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "9724763",
+          "name": "Mahmoud Alfadel"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "d2693b5ac3c4a6e0e75c0f7416f1cfd624036790",
+      "publicationVenue": {
+        "id": "d7907408-25bc-4816-a81d-4e0f2f6482c8",
+        "name": "IEEE Working Conference on Mining Software Repositories",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Work Conf Min Softw Repos",
+          "Min Softw Repos",
+          "Mining Software Repositories",
+          "MSR"
+        ],
+        "url": "https://dl.acm.org/conference/icse/proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/d2693b5ac3c4a6e0e75c0f7416f1cfd624036790",
+      "title": "On the Use of Dependabot Security Pull Requests",
+      "venue": "IEEE Working Conference on Mining Software Repositories",
+      "year": 2021,
+      "citationCount": 41,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "9724763",
+          "name": "Mahmoud Alfadel"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2100142115",
+          "name": "Mouafak Mkhallalati"
+        }
+      ]
+    },
+    {
+      "paperId": "e7f45f86d367c86116b5768279734b44914d0f9a",
+      "publicationVenue": {
+        "id": "c99cfe66-b71c-4ca4-bedd-26267b9cb068",
+        "name": "IEEE Transactions on Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Softw Eng"
+        ],
+        "issn": "0098-5589",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=32",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tse/about"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e7f45f86d367c86116b5768279734b44914d0f9a",
+      "title": "Which Commits Can Be CI Skipped?",
+      "venue": "IEEE Transactions on Software Engineering",
+      "year": 2021,
+      "citationCount": 47,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1398213085",
+          "name": "J. Rilling"
+        }
+      ]
+    },
+    {
+      "paperId": "192ed0a44ca0fdbde1e30021e9d09f9b2b625c19",
+      "publicationVenue": {
+        "id": "c99cfe66-b71c-4ca4-bedd-26267b9cb068",
+        "name": "IEEE Transactions on Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Softw Eng"
+        ],
+        "issn": "0098-5589",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=32",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tse/about"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/192ed0a44ca0fdbde1e30021e9d09f9b2b625c19",
+      "title": "Dependency Smells in JavaScript Projects",
+      "venue": "IEEE Transactions on Software Engineering",
+      "year": 2020,
+      "citationCount": 37,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48898996",
+          "name": "Abbas Javan Jafari"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2101511",
+          "name": "Nikolaos Tsantalis"
+        }
+      ]
+    },
+    {
+      "paperId": "1931447908586e7fceb480b9142c29018f3cbf5b",
+      "publicationVenue": {
+        "id": "c99cfe66-b71c-4ca4-bedd-26267b9cb068",
+        "name": "IEEE Transactions on Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Softw Eng"
+        ],
+        "issn": "0098-5589",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=32",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tse/about"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/1931447908586e7fceb480b9142c29018f3cbf5b",
+      "title": "A Comparison of Natural Language Understanding Platforms for Chatbots in Software Engineering",
+      "venue": "IEEE Transactions on Software Engineering",
+      "year": 2020,
+      "citationCount": 64,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145141548",
+          "name": "Ahmad Abdellatif"
+        },
+        {
+          "authorId": "31428169",
+          "name": "K. Badran"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "1f676ac2d78537680ba926f60d6d97bc1180d6c5",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/1f676ac2d78537680ba926f60d6d97bc1180d6c5",
+      "title": "On the impact of using trivial packages: an empirical case study on npm and PyPI",
+      "venue": "Empirical Software Engineering",
+      "year": 2020,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "1481766276",
+          "name": "Vinicius Oda"
+        },
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "5a7b50d3574e840c8e96d44974a86a5f0acaaf1d",
+      "publicationVenue": {
+        "id": "d7907408-25bc-4816-a81d-4e0f2f6482c8",
+        "name": "IEEE Working Conference on Mining Software Repositories",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Work Conf Min Softw Repos",
+          "Min Softw Repos",
+          "Mining Software Repositories",
+          "MSR"
+        ],
+        "url": "https://dl.acm.org/conference/icse/proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/5a7b50d3574e840c8e96d44974a86a5f0acaaf1d",
+      "title": "Challenges in Chatbot Development: A Study of Stack Overflow Posts",
+      "venue": "IEEE Working Conference on Mining Software Repositories",
+      "year": 2020,
+      "citationCount": 109,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145141548",
+          "name": "Ahmad Abdellatif"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "31428169",
+          "name": "K. Badran"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "616414e34552255d5043b4d40d760bf78c53efe0",
+      "publicationVenue": {
+        "id": "c99cfe66-b71c-4ca4-bedd-26267b9cb068",
+        "name": "IEEE Transactions on Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Softw Eng"
+        ],
+        "issn": "0098-5589",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=32",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tse/about"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/616414e34552255d5043b4d40d760bf78c53efe0",
+      "title": "Breaking Type Safety in Go: An Empirical Study on the Usage of the unsafe Package",
+      "venue": "IEEE Transactions on Software Engineering",
+      "year": 2020,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "7cb355437baea5be9edc13702769c94af1d57ceb",
+      "publicationVenue": {
+        "id": "d7907408-25bc-4816-a81d-4e0f2f6482c8",
+        "name": "IEEE Working Conference on Mining Software Repositories",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Work Conf Min Softw Repos",
+          "Min Softw Repos",
+          "Mining Software Repositories",
+          "MSR"
+        ],
+        "url": "https://dl.acm.org/conference/icse/proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/7cb355437baea5be9edc13702769c94af1d57ceb",
+      "title": "Using Others' Tests to Identify Breaking Updates",
+      "venue": "IEEE Working Conference on Mining Software Repositories",
+      "year": 2020,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1725534",
+          "name": "Shane McIntosh"
+        }
+      ]
+    },
+    {
+      "paperId": "7e4a1fcb6f471e40087da287ee6072f27148bc85",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/7e4a1fcb6f471e40087da287ee6072f27148bc85",
+      "title": "On the Threat of npm Vulnerable Dependencies in Node.js Applications",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "9724763",
+          "name": "Mahmoud Alfadel"
+        },
+        {
+          "authorId": "115989708",
+          "name": "D. Costa"
+        },
+        {
+          "authorId": "2100142115",
+          "name": "Mouafak Mkhallalati"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        }
+      ]
+    },
+    {
+      "paperId": "836545c62625bd79f455a915ea10049954f802ed",
+      "publicationVenue": {
+        "id": "64ae7767-9467-4e70-9e31-e4185f9f16ff",
+        "name": "Information and Software Technology",
+        "type": "journal",
+        "alternate_names": [
+          "Inf  Softw Technol",
+          "Information & Software Technology",
+          "Inf Softw Technol"
+        ],
+        "issn": "0950-5849",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/525444/description#description",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09505849"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/836545c62625bd79f455a915ea10049954f802ed",
+      "title": "Simplifying the Search of npm Packages",
+      "venue": "Information and Software Technology",
+      "year": 2020,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145141548",
+          "name": "Ahmad Abdellatif"
+        },
+        {
+          "authorId": "2111106864",
+          "name": "Yi Zeng"
+        },
+        {
+          "authorId": "1431282109",
+          "name": "Mohamed Elshafei"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "39724619",
+          "name": "Weiyi Shang"
+        }
+      ]
+    },
+    {
+      "paperId": "a1a5be89fa2b3c87ca7c3b08d7a34097a5547589",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a1a5be89fa2b3c87ca7c3b08d7a34097a5547589",
+      "title": "What do Programmers Discuss about Deep Learning Frameworks",
+      "venue": "Empirical Software Engineering",
+      "year": 2020,
+      "citationCount": 78,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "52175948",
+          "name": "Junxiao Han"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "3453740",
+          "name": "Zhiyuan Wan"
+        },
+        {
+          "authorId": "145590434",
+          "name": "Shuiguang Deng"
+        },
+        {
+          "authorId": "144558659",
+          "name": "Xin Xia"
+        }
+      ]
+    },
+    {
+      "paperId": "c7c71c2726415b67f37ad7e65e81048f6d6d64fe",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c7c71c2726415b67f37ad7e65e81048f6d6d64fe",
+      "title": "Is Using Deep Learning Frameworks Free? Characterizing Technical Debt in Deep Learning Frameworks",
+      "venue": "2020 IEEE/ACM 42nd International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)",
+      "year": 2020,
+      "citationCount": 44,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "120809900",
+          "name": "Jiakun Liu"
+        },
+        {
+          "authorId": "2111287178",
+          "name": "Qiao Huang"
+        },
+        {
+          "authorId": "144558659",
+          "name": "Xin Xia"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "143960553",
+          "name": "D. Lo"
+        },
+        {
+          "authorId": "1773299",
+          "name": "Shanping Li"
+        }
+      ]
+    },
+    {
+      "paperId": "0a8714ab894977f6ab09c924b44a3e4c51d72ef9",
+      "publicationVenue": {
+        "id": "d8655d54-1311-417a-91f7-c5c6daf8fba2",
+        "name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Int Conf Softw Anal Evol Reengineering",
+          "SANER"
+        ],
+        "url": "http://www.informatik.uni-stuttgart.de/ifi/ps/reengineering/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0a8714ab894977f6ab09c924b44a3e4c51d72ef9",
+      "title": "Is Self-Admitted Technical Debt a Good Indicator of Architectural Divergences?",
+      "venue": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+      "year": 2019,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "20453764",
+          "name": "Giancarlo Sierra"
+        },
+        {
+          "authorId": "40866418",
+          "name": "A. Tahmid"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2101511",
+          "name": "Nikolaos Tsantalis"
+        }
+      ]
+    },
+    {
+      "paperId": "5f2620d870b11d8217978151cee1e3a2c8da7484",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5f2620d870b11d8217978151cee1e3a2c8da7484",
+      "title": "MSRBot: Using bots to answer questions from software repositories",
+      "venue": "Empirical Software Engineering",
+      "year": 2019,
+      "citationCount": 40,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145141548",
+          "name": "Ahmad Abdellatif"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "652b5f7fe649214a7ca58d8de4fb1b27c21a3670",
+      "publicationVenue": {
+        "id": "c99cfe66-b71c-4ca4-bedd-26267b9cb068",
+        "name": "IEEE Transactions on Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Softw Eng"
+        ],
+        "issn": "0098-5589",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=32",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tse/about"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/652b5f7fe649214a7ca58d8de4fb1b27c21a3670",
+      "title": "Automating Change-Level Self-Admitted Technical Debt Determination",
+      "venue": "IEEE Transactions on Software Engineering",
+      "year": 2019,
+      "citationCount": 68,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145513359",
+          "name": "Meng Yan"
+        },
+        {
+          "authorId": "144558659",
+          "name": "Xin Xia"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "143960553",
+          "name": "D. Lo"
+        },
+        {
+          "authorId": "1734105",
+          "name": "Jianwei Yin"
+        },
+        {
+          "authorId": "1809356",
+          "name": "Xiaohu Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "778d29b1e52d36926ff853fa2a74f484efa1480c",
+      "publicationVenue": {
+        "id": "d8655d54-1311-417a-91f7-c5c6daf8fba2",
+        "name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Int Conf Softw Anal Evol Reengineering",
+          "SANER"
+        ],
+        "url": "http://www.informatik.uni-stuttgart.de/ifi/ps/reengineering/"
+      },
+      "url": "https://www.semanticscholar.org/paper/778d29b1e52d36926ff853fa2a74f484efa1480c",
+      "title": "Message from the General Chair, Program Co-Chairs, and Local Chair",
+      "venue": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2115553036",
+          "name": "Xinyu Wang"
+        },
+        {
+          "authorId": "143960553",
+          "name": "D. Lo"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "144558659",
+          "name": "Xin Xia"
+        }
+      ]
+    },
+    {
+      "paperId": "a13fbb3b141c9e9c28003dc01a6ff3a7e9e8ec14",
+      "publicationVenue": {
+        "id": "a36dc29e-4ea1-4567-b0fe-1c06daf8bee8",
+        "name": "International Conference on Software Engineering",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Softw Eng",
+          "ICSE"
+        ],
+        "url": "http://www.icse-conferences.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a13fbb3b141c9e9c28003dc01a6ff3a7e9e8ec14",
+      "title": "Class Imbalance Evolution and Verification Latency in Just-in-Time Software Defect Prediction",
+      "venue": "International Conference on Software Engineering",
+      "year": 2019,
+      "citationCount": 69,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3207221",
+          "name": "George G. Cabral"
+        },
+        {
+          "authorId": "1805698",
+          "name": "Leandro L. Minku"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        }
+      ]
+    },
+    {
+      "paperId": "e468767feb5cf28e93064d589f0eec392dacea4f",
+      "publicationVenue": {
+        "id": "10a4a695-8417-42c7-983d-742df48b3905",
+        "name": "Journal of Systems and Software",
+        "type": "journal",
+        "alternate_names": [
+          "J Syst Softw"
+        ],
+        "issn": "0164-1212",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/505732/description#description",
+        "alternate_urls": [
+          "http://www.elsevier.com/wps/find/journaldescription.cws_home/505732/description",
+          "http://www.sciencedirect.com/science/journal/01641212"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e468767feb5cf28e93064d589f0eec392dacea4f",
+      "title": "A survey of self-admitted technical debt",
+      "venue": "Journal of Systems and Software",
+      "year": 2019,
+      "citationCount": 59,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "20453764",
+          "name": "Giancarlo Sierra"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1706639",
+          "name": "Yasutaka Kamei"
+        }
+      ]
+    },
+    {
+      "paperId": "fd719f40023013182221dabccb091de92f70e7a8",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/fd719f40023013182221dabccb091de92f70e7a8",
+      "title": "Guest editorial: special section on predictive models and data analytics in software engineering",
+      "venue": "Empirical Software Engineering",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143969104",
+          "name": "David Bowes"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "145973228",
+          "name": "Burak Turhan"
+        }
+      ]
+    },
+    {
+      "paperId": "1edfcaff615857bd1de92ded38f80cc4a08147a0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1edfcaff615857bd1de92ded38f80cc4a08147a0",
+      "title": "SATD Detector: A Text-Mining-Based Self-Admitted Technical Debt Detection Tool",
+      "venue": "2018 IEEE/ACM 40th International Conference on Software Engineering: Companion (ICSE-Companion)",
+      "year": 2018,
+      "citationCount": 58,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "12907867",
+          "name": "Zhongxin Liu"
+        },
+        {
+          "authorId": "2111287178",
+          "name": "Qiao Huang"
+        },
+        {
+          "authorId": "144558659",
+          "name": "Xin Xia"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "143960553",
+          "name": "D. Lo"
+        },
+        {
+          "authorId": "1773299",
+          "name": "Shanping Li"
+        }
+      ]
+    },
+    {
+      "paperId": "442fe472c80e7f8c2ae1b58680ae1f3a4f5a07d3",
+      "publicationVenue": {
+        "id": "b02cf974-33be-46bd-9cbc-022db6cb7151",
+        "name": "IEEE International Conference on Software Maintenance and Evolution",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Sci Manag Eng",
+          "IEEE Int Conf Softw Maint Evol",
+          "ICSME",
+          "International Conference Science, Management, and Engineering"
+        ],
+        "url": "http://conferences.computer.org/icsm/"
+      },
+      "url": "https://www.semanticscholar.org/paper/442fe472c80e7f8c2ae1b58680ae1f3a4f5a07d3",
+      "title": "Studying Permission Related Issues in Android Wearable Apps",
+      "venue": "IEEE International Conference on Software Maintenance and Evolution",
+      "year": 2018,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "5dc4499c898a44183f642c2643a71f3d8d73f35d",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5dc4499c898a44183f642c2643a71f3d8d73f35d",
+      "title": "An empirical study of Android Wear user complaints",
+      "venue": "Empirical Software Engineering",
+      "year": 2018,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "20453764",
+          "name": "Giancarlo Sierra"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "39724619",
+          "name": "Weiyi Shang"
+        }
+      ]
+    },
+    {
+      "paperId": "6f6f76304df56c0a03851b3df13b55bda4353b23",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6f6f76304df56c0a03851b3df13b55bda4353b23",
+      "title": "The modular and feature toggle architectures of Google Chrome",
+      "venue": "Empirical Software Engineering",
+      "year": 2018,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2694207",
+          "name": "Md Tajmilur Rahman"
+        },
+        {
+          "authorId": "39374345",
+          "name": "Peter C. Rigby"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "80b156966713f6aa82dd3c94cc9d98c26c6dea16",
+      "publicationVenue": {
+        "id": "b02cf974-33be-46bd-9cbc-022db6cb7151",
+        "name": "IEEE International Conference on Software Maintenance and Evolution",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Sci Manag Eng",
+          "IEEE Int Conf Softw Maint Evol",
+          "ICSME",
+          "International Conference Science, Management, and Engineering"
+        ],
+        "url": "http://conferences.computer.org/icsm/"
+      },
+      "url": "https://www.semanticscholar.org/paper/80b156966713f6aa82dd3c94cc9d98c26c6dea16",
+      "title": "Test Re-Prioritization in Continuous Testing Environments",
+      "venue": "IEEE International Conference on Software Maintenance and Evolution",
+      "year": 2018,
+      "citationCount": 40,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109529834",
+          "name": "Y. Zhu"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "39374345",
+          "name": "Peter C. Rigby"
+        }
+      ]
+    },
+    {
+      "paperId": "c17d290351d9a1171d4d032e45e9eea553264afc",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c17d290351d9a1171d4d032e45e9eea553264afc",
+      "title": "Studying and detecting log-related issues",
+      "venue": "Empirical Software Engineering",
+      "year": 2018,
+      "citationCount": 51,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40798928",
+          "name": "Mehran Hassani"
+        },
+        {
+          "authorId": "39724619",
+          "name": "Weiyi Shang"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2101511",
+          "name": "Nikolaos Tsantalis"
+        }
+      ]
+    },
+    {
+      "paperId": "e92de0c4ef62a84201fac284eb66c37330b5fe1c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/e92de0c4ef62a84201fac284eb66c37330b5fe1c",
+      "title": "Learning to Generate Corrective Patches using Neural Machine Translation",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 50,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145050815",
+          "name": "Hideaki Hata"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        }
+      ]
+    },
+    {
+      "paperId": "edd1dfff74869dc1c3600a8c3f877a688390bde1",
+      "publicationVenue": {
+        "id": "9d988347-1c3c-4cf9-9b6f-d15117510bf4",
+        "name": "International Symposium on Empirical Software Engineering and Measurement",
+        "type": "conference",
+        "alternate_names": [
+          "ESEM",
+          "Empirical Software Engineering and Measurement",
+          "Int Symp Empir Softw Eng Meas",
+          "Empir Softw Eng Meas"
+        ],
+        "issn": "1938-6451",
+        "alternate_issns": [
+          "1949-3770"
+        ],
+        "url": "http://www.esem-conferences.org/",
+        "alternate_urls": [
+          "http://portal.acm.org/toc.cfm?CFID=8875694&CFTOKEN=63500259&WantType=Proceedings&coll=portal&dl=ACM&id=SERIES11506&idx=SERIES11506&part=series&title=ESEM&type=series"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/edd1dfff74869dc1c3600a8c3f877a688390bde1",
+      "title": "Identifying unmaintained projects in github",
+      "venue": "International Symposium on Empirical Software Engineering and Measurement",
+      "year": 2018,
+      "citationCount": 46,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "37127134",
+          "name": "Jailton Coelho"
+        },
+        {
+          "authorId": "1757592",
+          "name": "M. T. Valente"
+        },
+        {
+          "authorId": "1391027283",
+          "name": "L. L. Silva"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "25200ca879b97b0b371c541bc69b5a9c8ed1bd8f",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/25200ca879b97b0b371c541bc69b5a9c8ed1bd8f",
+      "title": "Identifying self-admitted technical debt in open source projects using text mining",
+      "venue": "Empirical Software Engineering",
+      "year": 2017,
+      "citationCount": 151,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2111287178",
+          "name": "Qiao Huang"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "144558659",
+          "name": "Xin Xia"
+        },
+        {
+          "authorId": "143960552",
+          "name": "David Lo"
+        },
+        {
+          "authorId": "1773299",
+          "name": "Shanping Li"
+        }
+      ]
+    },
+    {
+      "paperId": "317ff029697a2436ac9bec5b162af668e566aafd",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/317ff029697a2436ac9bec5b162af668e566aafd",
+      "title": "Empirical study on the discrepancy between performance testing results from virtual and physical environments",
+      "venue": "Empirical Software Engineering",
+      "year": 2017,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "144727085",
+          "name": "Muhammad Moiz Arif"
+        },
+        {
+          "authorId": "39724619",
+          "name": "Weiyi Shang"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "43bec3febf229f54783f9bae38c541569e1b5993",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/43bec3febf229f54783f9bae38c541569e1b5993",
+      "title": "Mining Software Repositories : Accomplishments , Challenges and Future Trends",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2385419",
+          "name": "Akinori Ihara"
+        },
+        {
+          "authorId": "2088369015",
+          "name": "March"
+        }
+      ]
+    },
+    {
+      "paperId": "5c37ae1cbb8d010d5633b0f35ce9bac316630f01",
+      "publicationVenue": {
+        "id": "338e2db2-c6ad-4e6c-8de7-78c5c3a6a02b",
+        "name": "NII Shonan Meeting Report",
+        "alternate_names": [
+          "NII Shonan Meet Rep"
+        ],
+        "issn": "2186-7437"
+      },
+      "url": "https://www.semanticscholar.org/paper/5c37ae1cbb8d010d5633b0f35ce9bac316630f01",
+      "title": "Mining Software Repositories:Accomplishments, Challenges andFuture Trends (NII Shonan Meeting 2017-2)",
+      "venue": "NII Shonan Meeting Report",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2385419",
+          "name": "Akinori Ihara"
+        }
+      ]
+    },
+    {
+      "paperId": "5fb66aeb6f0ee6aae533e4905e2d7335be2697da",
+      "publicationVenue": {
+        "id": "b02cf974-33be-46bd-9cbc-022db6cb7151",
+        "name": "IEEE International Conference on Software Maintenance and Evolution",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Sci Manag Eng",
+          "IEEE Int Conf Softw Maint Evol",
+          "ICSME",
+          "International Conference Science, Management, and Engineering"
+        ],
+        "url": "http://conferences.computer.org/icsm/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5fb66aeb6f0ee6aae533e4905e2d7335be2697da",
+      "title": "An Empirical Study on the Removal of Self-Admitted Technical Debt",
+      "venue": "IEEE International Conference on Software Maintenance and Evolution",
+      "year": 2017,
+      "citationCount": 86,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2098974",
+          "name": "Everton da S. Maldonado"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1747171",
+          "name": "Alexander Serebrenik"
+        }
+      ]
+    },
+    {
+      "paperId": "5fd6603eedc5f32bd18910d6306c3e03c0fa8c81",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5fd6603eedc5f32bd18910d6306c3e03c0fa8c81",
+      "title": "Erratum to: Studying high impact fix-inducing changes",
+      "venue": "Empirical Software Engineering",
+      "year": 2017,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Chemistry",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "4458730",
+          "name": "Ayse Tosun Misirli"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1706639",
+          "name": "Yasutaka Kamei"
+        }
+      ]
+    },
+    {
+      "paperId": "7af8a7cff59902ddfe8fb845ff4eda639c486f5f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/7af8a7cff59902ddfe8fb845ff4eda639c486f5f",
+      "title": "Why do developers use trivial packages? an empirical case study on npm",
+      "venue": "ESEC/SIGSOFT FSE",
+      "year": 2017,
+      "citationCount": 133,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "2105324470",
+          "name": "Olivier Nourry"
+        },
+        {
+          "authorId": "3408327",
+          "name": "Sultan Wehaibi"
+        },
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "94e3476be79cdcd77f365d72071f610679fca324",
+      "publicationVenue": {
+        "id": "c99cfe66-b71c-4ca4-bedd-26267b9cb068",
+        "name": "IEEE Transactions on Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Softw Eng"
+        ],
+        "issn": "0098-5589",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=32",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tse/about"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/94e3476be79cdcd77f365d72071f610679fca324",
+      "title": "Using Natural Language Processing to Automatically Detect Self-Admitted Technical Debt",
+      "venue": "IEEE Transactions on Software Engineering",
+      "year": 2017,
+      "citationCount": 183,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2098974",
+          "name": "Everton da S. Maldonado"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2101511",
+          "name": "Nikolaos Tsantalis"
+        }
+      ]
+    },
+    {
+      "paperId": "99b20e5860d476ecdd4da8ae1d441b099a1d0bd3",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/99b20e5860d476ecdd4da8ae1d441b099a1d0bd3",
+      "title": "Proceedings of the 2nd ACM SIGSOFT International Workshop on App Market Analytics",
+      "venue": "WAMA@ESEC/SIGSOFT FSE",
+      "year": 2017,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2103653",
+          "name": "Federica Sarro"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "7274019",
+          "name": "M. Nagappan"
+        },
+        {
+          "authorId": "1752960",
+          "name": "M. Platenius"
+        },
+        {
+          "authorId": "35661719",
+          "name": "Daniel Kaimann"
+        }
+      ]
+    },
+    {
+      "paperId": "b175237e312096749f5b36e4eb352490720c3d80",
+      "publicationVenue": {
+        "id": "5bf91b20-382a-4391-9f39-a3432374f1f7",
+        "name": "International Conference on Mobile Software Engineering and Systems",
+        "type": "conference",
+        "alternate_names": [
+          "MOBILESoft",
+          "Int Conf Mob Softw Eng Syst"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/b175237e312096749f5b36e4eb352490720c3d80",
+      "title": "Examining User Complaints of Wearable Apps: A Case Study on Android Wear",
+      "venue": "International Conference on Mobile Software Engineering and Systems",
+      "year": 2017,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "19281977",
+          "name": "Suhaib Mujahid"
+        },
+        {
+          "authorId": "20453764",
+          "name": "Giancarlo Sierra"
+        },
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "39724619",
+          "name": "Weiyi Shang"
+        }
+      ]
+    },
+    {
+      "paperId": "baf77336afa708e071c5c5e1c6f481ff27d0150d",
+      "publicationVenue": {
+        "id": "64ae7767-9467-4e70-9e31-e4185f9f16ff",
+        "name": "Information and Software Technology",
+        "type": "journal",
+        "alternate_names": [
+          "Inf  Softw Technol",
+          "Information & Software Technology",
+          "Inf Softw Technol"
+        ],
+        "issn": "0950-5849",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/525444/description#description",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09505849"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/baf77336afa708e071c5c5e1c6f481ff27d0150d",
+      "title": "On code reuse from StackOverflow: An exploratory study on Android apps",
+      "venue": "Information and Software Technology",
+      "year": 2017,
+      "citationCount": 107,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1398213085",
+          "name": "J. Rilling"
+        }
+      ]
+    },
+    {
+      "paperId": "d178bb7ed093e30e7351a3518c3dce86d7aec8fa",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d178bb7ed093e30e7351a3518c3dce86d7aec8fa",
+      "title": "Welcome to the 13th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE 2017)",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145973228",
+          "name": "Burak Turhan"
+        },
+        {
+          "authorId": "143969104",
+          "name": "David Bowes"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "f9f2d1d02ae438a0ac9c2a1ec33dc9ca520865af",
+      "publicationVenue": {
+        "id": "119227a6-1b94-433e-a52d-8445a387dbbe",
+        "name": "IEEE Software",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Softw"
+        ],
+        "issn": "0740-7459",
+        "url": "http://www.computer.org/software",
+        "alternate_urls": [
+          "http://ieeexplore.ieee.org/servlet/opac?punumber=52"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f9f2d1d02ae438a0ac9c2a1ec33dc9ca520865af",
+      "title": "What Do Developers Use the Crowd For? A Study Using Stack Overflow",
+      "venue": "IEEE Software",
+      "year": 2017,
+      "citationCount": 65,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2154809",
+          "name": "Rabe Abdalkareem"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1398213085",
+          "name": "J. Rilling"
+        }
+      ]
+    },
+    {
+      "paperId": "08d3a9ebb6c276d687c3876f14064cae4712f67d",
+      "publicationVenue": {
+        "id": "9d988347-1c3c-4cf9-9b6f-d15117510bf4",
+        "name": "International Symposium on Empirical Software Engineering and Measurement",
+        "type": "conference",
+        "alternate_names": [
+          "ESEM",
+          "Empirical Software Engineering and Measurement",
+          "Int Symp Empir Softw Eng Meas",
+          "Empir Softw Eng Meas"
+        ],
+        "issn": "1938-6451",
+        "alternate_issns": [
+          "1949-3770"
+        ],
+        "url": "http://www.esem-conferences.org/",
+        "alternate_urls": [
+          "http://portal.acm.org/toc.cfm?CFID=8875694&CFTOKEN=63500259&WantType=Proceedings&coll=portal&dl=ACM&id=SERIES11506&idx=SERIES11506&part=series&title=ESEM&type=series"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/08d3a9ebb6c276d687c3876f14064cae4712f67d",
+      "title": "Predicting Crashing Releases of Mobile Applications",
+      "venue": "International Symposium on Empirical Software Engineering and Measurement",
+      "year": 2016,
+      "citationCount": 61,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "144558659",
+          "name": "Xin Xia"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1706639",
+          "name": "Yasutaka Kamei"
+        },
+        {
+          "authorId": "143960553",
+          "name": "D. Lo"
+        },
+        {
+          "authorId": "2115553036",
+          "name": "Xinyu Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "290a8d4bbb97b1ff26d0e2c629b2a1ffeeeb9b58",
+      "publicationVenue": {
+        "id": "e574da12-4e4c-4b78-a203-ae3719c0c4f7",
+        "name": "Annual International Computer Software and Applications Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Comput Softw Appl Conf",
+          "Annu Int Comput Softw Appl Conf",
+          "COMPSAC Work",
+          "Computer Software and Applications Conference",
+          "COMPSAC Workshops",
+          "COMPSAC"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=548"
+      },
+      "url": "https://www.semanticscholar.org/paper/290a8d4bbb97b1ff26d0e2c629b2a1ffeeeb9b58",
+      "title": "It Takes Two to Tango: Deleted Stack Overflow Question Prediction with Text and Meta Features",
+      "venue": "Annual International Computer Software and Applications Conference",
+      "year": 2016,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144558659",
+          "name": "Xin Xia"
+        },
+        {
+          "authorId": "143960553",
+          "name": "D. Lo"
+        },
+        {
+          "authorId": "40056533",
+          "name": "D. Correa"
+        },
+        {
+          "authorId": "145914213",
+          "name": "A. Sureka"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "3a780cb558f6fb701fd37e6c0aface04de54e01c",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3a780cb558f6fb701fd37e6c0aface04de54e01c",
+      "title": "Erratum to: Studying high impact fix-inducing changes",
+      "venue": "Empirical Software Engineering",
+      "year": 2016,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2064008203",
+          "name": "Ay\u015fe Tosun"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1706639",
+          "name": "Yasutaka Kamei"
+        }
+      ]
+    },
+    {
+      "paperId": "46465b5e83edfb592e782fae1523234d2d68a0bf",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/46465b5e83edfb592e782fae1523234d2d68a0bf",
+      "title": "Using Analytics to Quantify Interest of Self-Admitted Technical Debt",
+      "venue": "QuASoQ/TDA@APSEC",
+      "year": 2016,
+      "citationCount": 32,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Business"
+      ],
+      "authors": [
+        {
+          "authorId": "1706639",
+          "name": "Yasutaka Kamei"
+        },
+        {
+          "authorId": "2098974",
+          "name": "Everton da S. Maldonado"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1806862",
+          "name": "Naoyasu Ubayashi"
+        }
+      ]
+    },
+    {
+      "paperId": "66e25fb6f16f9b0a62447e1ebd59dd99857a6c4f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/66e25fb6f16f9b0a62447e1ebd59dd99857a6c4f",
+      "title": "Proceedings of the International Workshop on App Market Analytics",
+      "venue": "WAMA@SIGSOFT FSE",
+      "year": 2016,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "7274019",
+          "name": "M. Nagappan"
+        },
+        {
+          "authorId": "2103653",
+          "name": "Federica Sarro"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "73409a8595f2b1577336b9c199c8c187158016bd",
+      "publicationVenue": {
+        "id": "9d988347-1c3c-4cf9-9b6f-d15117510bf4",
+        "name": "International Symposium on Empirical Software Engineering and Measurement",
+        "type": "conference",
+        "alternate_names": [
+          "ESEM",
+          "Empirical Software Engineering and Measurement",
+          "Int Symp Empir Softw Eng Meas",
+          "Empir Softw Eng Meas"
+        ],
+        "issn": "1938-6451",
+        "alternate_issns": [
+          "1949-3770"
+        ],
+        "url": "http://www.esem-conferences.org/",
+        "alternate_urls": [
+          "http://portal.acm.org/toc.cfm?CFID=8875694&CFTOKEN=63500259&WantType=Proceedings&coll=portal&dl=ACM&id=SERIES11506&idx=SERIES11506&part=series&title=ESEM&type=series"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/73409a8595f2b1577336b9c199c8c187158016bd",
+      "title": "How Are Discussions Associated with Bug Reworking?: An Empirical Study on Open Source Projects",
+      "venue": "International Symposium on Empirical Software Engineering and Measurement",
+      "year": 2016,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110261578",
+          "name": "Yu Zhao"
+        },
+        {
+          "authorId": "39747310",
+          "name": "Feng Zhang"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "145930277",
+          "name": "Ying Zou"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "8f847ffeac86a6cf4cb9a316299125d5a8c7cf8e",
+      "publicationVenue": {
+        "id": "29e6e722-a307-4196-958e-46e585f2fc47",
+        "name": "IEEE Transactions on Reliability",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Reliab"
+        ],
+        "issn": "0018-9529",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=24",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/8f847ffeac86a6cf4cb9a316299125d5a8c7cf8e",
+      "title": "Automated Bug Report Field Reassignment and Refinement Prediction",
+      "venue": "IEEE Transactions on Reliability",
+      "year": 2016,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144558659",
+          "name": "Xin Xia"
+        },
+        {
+          "authorId": "143960553",
+          "name": "D. Lo"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2115553036",
+          "name": "Xinyu Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "a328ad57acb62b104f47e7bf48b8ec7b1912b4ef",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a328ad57acb62b104f47e7bf48b8ec7b1912b4ef",
+      "title": "Mobile app store analytics",
+      "venue": "Perspectives on Data Science for Software Engineering",
+      "year": 2016,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "7274019",
+          "name": "M. Nagappan"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "a794e29bea8e46ba4e4b7e19a93d4cfd3a7f4318",
+      "publicationVenue": {
+        "id": "d8655d54-1311-417a-91f7-c5c6daf8fba2",
+        "name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Int Conf Softw Anal Evol Reengineering",
+          "SANER"
+        ],
+        "url": "http://www.informatik.uni-stuttgart.de/ifi/ps/reengineering/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a794e29bea8e46ba4e4b7e19a93d4cfd3a7f4318",
+      "title": "Defect Prediction: Accomplishments and Future Challenges",
+      "venue": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+      "year": 2016,
+      "citationCount": 118,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1706639",
+          "name": "Yasutaka Kamei"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "b73694c24ec259da39e125c2c7d9496b2f222ba0",
+      "publicationVenue": {
+        "id": "d8655d54-1311-417a-91f7-c5c6daf8fba2",
+        "name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Int Conf Softw Anal Evol Reengineering",
+          "SANER"
+        ],
+        "url": "http://www.informatik.uni-stuttgart.de/ifi/ps/reengineering/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b73694c24ec259da39e125c2c7d9496b2f222ba0",
+      "title": "Future Trends in Software Engineering Research for Mobile Apps",
+      "venue": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+      "year": 2016,
+      "citationCount": 108,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "7274019",
+          "name": "M. Nagappan"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "dbacf6ceb40976bad65457921ad00d4d01ed6bc2",
+      "publicationVenue": {
+        "id": "d8655d54-1311-417a-91f7-c5c6daf8fba2",
+        "name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Int Conf Softw Anal Evol Reengineering",
+          "SANER"
+        ],
+        "url": "http://www.informatik.uni-stuttgart.de/ifi/ps/reengineering/"
+      },
+      "url": "https://www.semanticscholar.org/paper/dbacf6ceb40976bad65457921ad00d4d01ed6bc2",
+      "title": "Examining the Impact of Self-Admitted Technical Debt on Software Quality",
+      "venue": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+      "year": 2016,
+      "citationCount": 102,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3408327",
+          "name": "Sultan Wehaibi"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1782697",
+          "name": "Latifa Guerrouj"
+        }
+      ]
+    },
+    {
+      "paperId": "e68947c31c9248d22fe29af6da5a3c7ea004901d",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e68947c31c9248d22fe29af6da5a3c7ea004901d",
+      "title": "Studying high impact fix-inducing changes",
+      "venue": "Empirical Software Engineering",
+      "year": 2016,
+      "citationCount": 42,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "4458730",
+          "name": "Ayse Tosun Misirli"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1706639",
+          "name": "Yasutaka Kamei"
+        }
+      ]
+    },
+    {
+      "paperId": "0e8cfc2364d89530fccc0c14411e6740e0e049a6",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0e8cfc2364d89530fccc0c14411e6740e0e049a6",
+      "title": "What are mobile developers asking about? A large scale study using stack overflow",
+      "venue": "Empirical Software Engineering",
+      "year": 2015,
+      "citationCount": 292,
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2054548554",
+          "name": "Christoffer Rosen"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "49a7ea3492c078f1361bc89c03d56dd7cc25290d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/49a7ea3492c078f1361bc89c03d56dd7cc25290d",
+      "title": "Detecting and quantifying different types of self-admitted technical Debt",
+      "venue": "2015 IEEE 7th International Workshop on Managing Technical Debt (MTD)",
+      "year": 2015,
+      "citationCount": 138,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2098974",
+          "name": "Everton da S. Maldonado"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "65f01b3a7ffa9b3df307d1d1a1262cc3582cc47a",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/65f01b3a7ffa9b3df307d1d1a1262cc3582cc47a",
+      "title": "Studying high impact fix-inducing changes",
+      "venue": "Empirical Software Engineering",
+      "year": 2015,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "4458730",
+          "name": "Ayse Tosun Misirli"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2194578325",
+          "name": "Yasukata Kamei"
+        }
+      ]
+    },
+    {
+      "paperId": "868ef975337faa4e55513e88bdd90fa151f1a7ca",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/868ef975337faa4e55513e88bdd90fa151f1a7ca",
+      "title": "Commit guru: analytics and risk prediction of software commits",
+      "venue": "ESEC/SIGSOFT FSE",
+      "year": 2015,
+      "citationCount": 130,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2054548554",
+          "name": "Christoffer Rosen"
+        },
+        {
+          "authorId": "2467754",
+          "name": "Ben Grawi"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "96db910399451ea38a816d60d4a70d4e56c2f825",
+      "publicationVenue": {
+        "id": "119227a6-1b94-433e-a52d-8445a387dbbe",
+        "name": "IEEE Software",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Softw"
+        ],
+        "issn": "0740-7459",
+        "url": "http://www.computer.org/software",
+        "alternate_urls": [
+          "http://ieeexplore.ieee.org/servlet/opac?punumber=52"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/96db910399451ea38a816d60d4a70d4e56c2f825",
+      "title": "What Do Mobile App Users Complain About?",
+      "venue": "IEEE Software",
+      "year": 2015,
+      "citationCount": 389,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3201569",
+          "name": "Hammad Khalid"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "7274019",
+          "name": "M. Nagappan"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "a31882d28982858b558cf5baab19c05800d6f10d",
+      "publicationVenue": {
+        "id": "64ae7767-9467-4e70-9e31-e4185f9f16ff",
+        "name": "Information and Software Technology",
+        "type": "journal",
+        "alternate_names": [
+          "Inf  Softw Technol",
+          "Information & Software Technology",
+          "Inf Softw Technol"
+        ],
+        "issn": "0950-5849",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/525444/description#description",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09505849"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a31882d28982858b558cf5baab19c05800d6f10d",
+      "title": "ELBlocker: Predicting blocking bugs with ensemble imbalance learning",
+      "venue": "Information and Software Technology",
+      "year": 2015,
+      "citationCount": 90,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144558659",
+          "name": "Xin Xia"
+        },
+        {
+          "authorId": "143960553",
+          "name": "D. Lo"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2115553036",
+          "name": "Xinyu Wang"
+        },
+        {
+          "authorId": "1809356",
+          "name": "Xiaohu Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "c031f47545a4e1ed1fde198a0bd1592f98a0d527",
+      "publicationVenue": {
+        "id": "d8655d54-1311-417a-91f7-c5c6daf8fba2",
+        "name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Int Conf Softw Anal Evol Reengineering",
+          "SANER"
+        ],
+        "url": "http://www.informatik.uni-stuttgart.de/ifi/ps/reengineering/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c031f47545a4e1ed1fde198a0bd1592f98a0d527",
+      "title": "Cross-project build co-change prediction",
+      "venue": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+      "year": 2015,
+      "citationCount": 40,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144558659",
+          "name": "Xin Xia"
+        },
+        {
+          "authorId": "143960553",
+          "name": "D. Lo"
+        },
+        {
+          "authorId": "1725534",
+          "name": "Shane McIntosh"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "e614bbc075284a6e903230b4dc2199ca912ebf07",
+      "publicationVenue": {
+        "id": "d80d58be-58fc-4181-a397-5ac6fd976a47",
+        "name": "ACM Symposium on Applied Computing",
+        "type": "conference",
+        "alternate_names": [
+          "Sel Area Cryptogr",
+          "Int Conf Sel area Cryptogr",
+          "International Conference on Selected areas in Cryptography",
+          "ACM Symp Appl Comput",
+          "Selected Areas in Cryptography",
+          "Symposium on Applied Computing",
+          "SAC",
+          "Symp Appl Comput"
+        ],
+        "url": "https://www.acm.org/publications",
+        "alternate_urls": [
+          "http://sacworkshop.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e614bbc075284a6e903230b4dc2199ca912ebf07",
+      "title": "Examining the effectiveness of using concolic analysis to detect code clones",
+      "venue": "ACM Symposium on Applied Computing",
+      "year": 2015,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2013851",
+          "name": "Daniel E. Krutz"
+        },
+        {
+          "authorId": "2049817",
+          "name": "Samuel A. Malachowsky"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "1f684edbfcb6cd031833c90c883c5b615790f14f",
+      "publicationVenue": {
+        "id": "1c2ab05c-7d69-465e-929d-0920857aedce",
+        "name": "International Conference on Automated Software Engineering",
+        "type": "conference",
+        "alternate_names": [
+          "Autom Softw Eng",
+          "ASE",
+          "Automated Software Engineering",
+          "Int Conf Autom Softw Eng"
+        ],
+        "url": "http://ase.informatik.uni-essen.de/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1f684edbfcb6cd031833c90c883c5b615790f14f",
+      "title": "Automatic, high accuracy prediction of reopened bugs",
+      "venue": "International Conference on Automated Software Engineering",
+      "year": 2014,
+      "citationCount": 71,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144558659",
+          "name": "Xin Xia"
+        },
+        {
+          "authorId": "143960553",
+          "name": "D. Lo"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2115553036",
+          "name": "Xinyu Wang"
+        },
+        {
+          "authorId": "145818177",
+          "name": "Bo Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "4aa874bab6338140cd5618f4fde97e6caff9c349",
+      "publicationVenue": {
+        "id": "d7907408-25bc-4816-a81d-4e0f2f6482c8",
+        "name": "IEEE Working Conference on Mining Software Repositories",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Work Conf Min Softw Repos",
+          "Min Softw Repos",
+          "Mining Software Repositories",
+          "MSR"
+        ],
+        "url": "https://dl.acm.org/conference/icse/proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/4aa874bab6338140cd5618f4fde97e6caff9c349",
+      "title": "An empirical study of dormant bugs",
+      "venue": "IEEE Working Conference on Mining Software Repositories",
+      "year": 2014,
+      "citationCount": 75,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "50815221",
+          "name": "T. Chen"
+        },
+        {
+          "authorId": "7274019",
+          "name": "M. Nagappan"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "4d0faa521a455870a51605be19f4d0738ccc822d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4d0faa521a455870a51605be19f4d0738ccc822d",
+      "title": "An empirical study of bug report field reassignment",
+      "venue": "2014 Software Evolution Week - IEEE Conference on Software Maintenance, Reengineering, and Reverse Engineering (CSMR-WCRE)",
+      "year": 2014,
+      "citationCount": 45,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "144558659",
+          "name": "Xin Xia"
+        },
+        {
+          "authorId": "143960553",
+          "name": "D. Lo"
+        },
+        {
+          "authorId": "38784613",
+          "name": "Ming Wen"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "145818177",
+          "name": "Bo Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "688acbe4ca82a26798a32a3dc43ee943008c37b1",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/688acbe4ca82a26798a32a3dc43ee943008c37b1",
+      "title": "Prioritizing the devices to test your app on: a case study of Android game apps",
+      "venue": "SIGSOFT FSE",
+      "year": 2014,
+      "citationCount": 93,
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3201569",
+          "name": "Hammad Khalid"
+        },
+        {
+          "authorId": "7274019",
+          "name": "M. Nagappan"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "699c613e8bdbdd80f197b43a03895b99636ea722",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/699c613e8bdbdd80f197b43a03895b99636ea722",
+      "title": "What Do Mobile App Users Complain About ? A Study on Free iOS Apps",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 79,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3201569",
+          "name": "Hammad Khalid"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "7274019",
+          "name": "M. Nagappan"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "884f3ecba493d93daaa0dffe1352e9410c0e458c",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/884f3ecba493d93daaa0dffe1352e9410c0e458c",
+      "title": "ICSME 2014 Tool Demo Track Program Committee",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Art"
+      ],
+      "authors": [
+        {
+          "authorId": "2131161",
+          "name": "D. Germ\u00e1n"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        },
+        {
+          "authorId": "2783719",
+          "name": "Christopher S. Corley"
+        },
+        {
+          "authorId": "145818752",
+          "name": "A. D. Lucia"
+        },
+        {
+          "authorId": "1735435",
+          "name": "M. Grechanik"
+        },
+        {
+          "authorId": "1703493",
+          "name": "Foutse Khomh"
+        },
+        {
+          "authorId": "1722056",
+          "name": "K. Kontogiannis"
+        },
+        {
+          "authorId": "1853199",
+          "name": "A. Mesbah"
+        },
+        {
+          "authorId": "39374345",
+          "name": "Peter C. Rigby"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "a3e61203c32d6f1a70e7b9de3f333f9f76ca776d",
+      "publicationVenue": {
+        "id": "d7907408-25bc-4816-a81d-4e0f2f6482c8",
+        "name": "IEEE Working Conference on Mining Software Repositories",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Work Conf Min Softw Repos",
+          "Min Softw Repos",
+          "Mining Software Repositories",
+          "MSR"
+        ],
+        "url": "https://dl.acm.org/conference/icse/proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/a3e61203c32d6f1a70e7b9de3f333f9f76ca776d",
+      "title": "Characterizing and predicting blocking bugs in open source projects",
+      "venue": "IEEE Working Conference on Mining Software Repositories",
+      "year": 2014,
+      "citationCount": 131,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "32732864",
+          "name": "H. Garcia"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "ddf82ba67e252428fde55fcf9b73e848924a3372",
+      "publicationVenue": {
+        "id": "b02cf974-33be-46bd-9cbc-022db6cb7151",
+        "name": "IEEE International Conference on Software Maintenance and Evolution",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Sci Manag Eng",
+          "IEEE Int Conf Softw Maint Evol",
+          "ICSME",
+          "International Conference Science, Management, and Engineering"
+        ],
+        "url": "http://conferences.computer.org/icsm/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ddf82ba67e252428fde55fcf9b73e848924a3372",
+      "title": "An Exploratory Study on Self-Admitted Technical Debt",
+      "venue": "IEEE International Conference on Software Maintenance and Evolution",
+      "year": 2014,
+      "citationCount": 235,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2064753",
+          "name": "A. Potdar"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "ecb0f8a1fd3f69ddf44df753b56bd963678ff97f",
+      "publicationVenue": {
+        "id": "b02cf974-33be-46bd-9cbc-022db6cb7151",
+        "name": "IEEE International Conference on Software Maintenance and Evolution",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Sci Manag Eng",
+          "IEEE Int Conf Softw Maint Evol",
+          "ICSME",
+          "International Conference Science, Management, and Engineering"
+        ],
+        "url": "http://conferences.computer.org/icsm/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ecb0f8a1fd3f69ddf44df753b56bd963678ff97f",
+      "title": "Practical Software Quality Prediction",
+      "venue": "IEEE International Conference on Software Maintenance and Evolution",
+      "year": 2014,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "04eb410c0a59fc08a4648af43f7de323cc7d06c2",
+      "publicationVenue": {
+        "id": "c99cfe66-b71c-4ca4-bedd-26267b9cb068",
+        "name": "IEEE Transactions on Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Softw Eng"
+        ],
+        "issn": "0098-5589",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=32",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tse/about"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/04eb410c0a59fc08a4648af43f7de323cc7d06c2",
+      "title": "A large-scale empirical study of just-in-time quality assurance",
+      "venue": "IEEE Transactions on Software Engineering",
+      "year": 2013,
+      "citationCount": 582,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1706639",
+          "name": "Yasutaka Kamei"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        },
+        {
+          "authorId": "1702551",
+          "name": "A. Mockus"
+        },
+        {
+          "authorId": "2079873209",
+          "name": "Anand Sinha"
+        },
+        {
+          "authorId": "1806862",
+          "name": "Naoyasu Ubayashi"
+        }
+      ]
+    },
+    {
+      "paperId": "386ce6b2affe7dc075cf1bdd028e67c5c30ef4f6",
+      "publicationVenue": {
+        "id": "16f7a344-c856-4496-8de9-bbcc61177328",
+        "name": "Working Conference on Reverse Engineering",
+        "type": "conference",
+        "alternate_names": [
+          "WCRE",
+          "Work Conf Reverse Eng"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/386ce6b2affe7dc075cf1bdd028e67c5c30ef4f6",
+      "title": "CCCD: Concolic code clone detection",
+      "venue": "Working Conference on Reverse Engineering",
+      "year": 2013,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2013851",
+          "name": "Daniel E. Krutz"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "7150d7cb1bff18a2f187527ab4740978fbfe14d8",
+      "publicationVenue": {
+        "id": "ca2cf7d7-0fd9-4338-b72f-48b0a5d6412c",
+        "name": "Conference of the Centre for Advanced Studies on Collaborative Research",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Cent Adv Stud Collab Res",
+          "CASCON"
+        ],
+        "url": "http://cas.ibm.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7150d7cb1bff18a2f187527ab4740978fbfe14d8",
+      "title": "Challenges in mobile apps: a multi-disciplinary perspective",
+      "venue": "Conference of the Centre for Advanced Studies on Collaborative Research",
+      "year": 2013,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "7274019",
+          "name": "M. Nagappan"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "c0600dd415100fb1b3ad82b48f4f1f3d3bb68d3e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c0600dd415100fb1b3ad82b48f4f1f3d3bb68d3e",
+      "title": "Report of the 2013 ICSE 1st international workshop on engineering mobile-enabled systems (MOBS 2013): 12",
+      "venue": "SOEN",
+      "year": 2013,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "1723579",
+          "name": "G. Lewis"
+        },
+        {
+          "authorId": "1693689",
+          "name": "Nachiappan Nagappan"
+        },
+        {
+          "authorId": "143748820",
+          "name": "J. Gray"
+        },
+        {
+          "authorId": "1889646",
+          "name": "David S. Rosenblum"
+        },
+        {
+          "authorId": "1785902",
+          "name": "H. Muccini"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "d51fb5bbdc0715ae2fc35939dcb90e8dc5828392",
+      "publicationVenue": {
+        "id": "64ae7767-9467-4e70-9e31-e4185f9f16ff",
+        "name": "Information and Software Technology",
+        "type": "journal",
+        "alternate_names": [
+          "Inf  Softw Technol",
+          "Information & Software Technology",
+          "Inf Softw Technol"
+        ],
+        "issn": "0950-5849",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/525444/description#description",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09505849"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/d51fb5bbdc0715ae2fc35939dcb90e8dc5828392",
+      "title": "Is lines of code a good measure of effort in effort-aware models?",
+      "venue": "Information and Software Technology",
+      "year": 2013,
+      "citationCount": 46,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1706639",
+          "name": "Yasutaka Kamei"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "dfbac2178bed8489b969c3876202dfde826f939d",
+      "publicationVenue": {
+        "id": "a36dc29e-4ea1-4567-b0fe-1c06daf8bee8",
+        "name": "International Conference on Software Engineering",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Softw Eng",
+          "ICSE"
+        ],
+        "url": "http://www.icse-conferences.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/dfbac2178bed8489b969c3876202dfde826f939d",
+      "title": "1st International workshop on the engineering of mobile-enabled systems (MOBS 2013)",
+      "venue": "International Conference on Software Engineering",
+      "year": 2013,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1723579",
+          "name": "G. Lewis"
+        },
+        {
+          "authorId": "2285676104",
+          "name": "Jeffrey G. Gray"
+        },
+        {
+          "authorId": "1785902",
+          "name": "H. Muccini"
+        },
+        {
+          "authorId": "1693689",
+          "name": "Nachiappan Nagappan"
+        },
+        {
+          "authorId": "1889646",
+          "name": "David S. Rosenblum"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "e2fcfe80bb12ad6dcd9889babd1440cf08011be8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e2fcfe80bb12ad6dcd9889babd1440cf08011be8",
+      "title": "The evolution of mobile apps: an exploratory study",
+      "venue": "DeMobile 2013",
+      "year": 2013,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2108020104",
+          "name": "Jack Zhang"
+        },
+        {
+          "authorId": "30907921",
+          "name": "S. Sagar"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "1054094a5f4501512fa18f800a2603848261761b",
+      "publicationVenue": {
+        "id": "f528e58c-0e4e-45b0-9456-832847244f0e",
+        "name": "Empirical Software Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Empir Softw Eng"
+        ],
+        "issn": "1382-3256",
+        "url": "http://www.springer.com/computer/programming/journal/10664",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10664"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/1054094a5f4501512fa18f800a2603848261761b",
+      "title": "Studying re-opened bugs in open source software",
+      "venue": "Empirical Software Engineering",
+      "year": 2012,
+      "citationCount": 134,
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2385419",
+          "name": "Akinori Ihara"
+        },
+        {
+          "authorId": "1706639",
+          "name": "Yasutaka Kamei"
+        },
+        {
+          "authorId": "153809230",
+          "name": "Walid M. Ibrahim"
+        },
+        {
+          "authorId": "9455254",
+          "name": "M. Ohira"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        },
+        {
+          "authorId": "144975613",
+          "name": "Ken-ichi Matsumoto"
+        }
+      ]
+    },
+    {
+      "paperId": "144a5e7781b4462ebc95b31cac8e5a357c949962",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/144a5e7781b4462ebc95b31cac8e5a357c949962",
+      "title": "The effect of branching strategies on software quality",
+      "venue": "Proceedings of the 2012 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement",
+      "year": 2012,
+      "citationCount": 77,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "145193818",
+          "name": "C. Bird"
+        },
+        {
+          "authorId": "143609903",
+          "name": "Thomas Zimmermann"
+        }
+      ]
+    },
+    {
+      "paperId": "282ec1105667a5441b34acf8be2e75668e1a4c28",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/282ec1105667a5441b34acf8be2e75668e1a4c28",
+      "title": "An Exploration of Challenges Limiting Pragmatic Software Defect Prediction",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 43,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "e038983b5015cbc44c9f796e15bf34bf219edd4e",
+      "publicationVenue": {
+        "id": "d7907408-25bc-4816-a81d-4e0f2f6482c8",
+        "name": "IEEE Working Conference on Mining Software Repositories",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Work Conf Min Softw Repos",
+          "Min Softw Repos",
+          "Mining Software Repositories",
+          "MSR"
+        ],
+        "url": "https://dl.acm.org/conference/icse/proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/e038983b5015cbc44c9f796e15bf34bf219edd4e",
+      "title": "Mining challenge 2012: The Android platform",
+      "venue": "IEEE Working Conference on Mining Software Repositories",
+      "year": 2012,
+      "citationCount": 37,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1706639",
+          "name": "Yasutaka Kamei"
+        },
+        {
+          "authorId": "33559727",
+          "name": "P. Bhattacharya"
+        }
+      ]
+    },
+    {
+      "paperId": "faf22ca7f98264a101cb050e8c49bf80f367d580",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/faf22ca7f98264a101cb050e8c49bf80f367d580",
+      "title": "An industrial study on the risk of software changes",
+      "venue": "SIGSOFT FSE",
+      "year": 2012,
+      "citationCount": 149,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        },
+        {
+          "authorId": "1762589",
+          "name": "Z. Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "6d2be78b567f03c3e9728b8b01d96acbdea70412",
+      "publicationVenue": {
+        "id": "16f7a344-c856-4496-8de9-bbcc61177328",
+        "name": "Working Conference on Reverse Engineering",
+        "type": "conference",
+        "alternate_names": [
+          "WCRE",
+          "Work Conf Reverse Eng"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6d2be78b567f03c3e9728b8b01d96acbdea70412",
+      "title": "Impact of Installation Counts on Perceived Quality: A Case Study on Debian",
+      "venue": "Working Conference on Reverse Engineering",
+      "year": 2011,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "35197893",
+          "name": "I. Herraiz"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "144101747",
+          "name": "Thanh H. D. Nguyen"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "9ced8ce94b6dc5a4e2aa4fe2760c26d294769745",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9ced8ce94b6dc5a4e2aa4fe2760c26d294769745",
+      "title": "High-impact defects: a study of breakage and surprise defects",
+      "venue": "ESEC/FSE '11",
+      "year": 2011,
+      "citationCount": 94,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1702551",
+          "name": "A. Mockus"
+        },
+        {
+          "authorId": "1706639",
+          "name": "Yasutaka Kamei"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "e5ef0f1da25576b45e11b37e2788c1eb754065bf",
+      "publicationVenue": {
+        "id": "a36dc29e-4ea1-4567-b0fe-1c06daf8bee8",
+        "name": "International Conference on Software Engineering",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Softw Eng",
+          "ICSE"
+        ],
+        "url": "http://www.icse-conferences.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e5ef0f1da25576b45e11b37e2788c1eb754065bf",
+      "title": "Pragmatic prioritization of software quality assurance efforts",
+      "venue": "International Conference on Software Engineering",
+      "year": 2011,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        }
+      ]
+    },
+    {
+      "paperId": "ead4d1c5cc36217d1f8e872d18687fc0308e73d5",
+      "publicationVenue": {
+        "id": "3da56ce6-4a70-402c-a8b0-7dd39a3273d3",
+        "name": "Software, Practice & Experience",
+        "type": "journal",
+        "alternate_names": [
+          "Softw  Pract Exp",
+          "Softw Pract  Exp",
+          "Software - Practice and Experience"
+        ],
+        "issn": "0038-0644",
+        "url": "http://www3.interscience.wiley.com/cgi-bin/jhome/1752",
+        "alternate_urls": [
+          "http://www.interscience.wiley.com/jpages/0038-0644/",
+          "https://onlinelibrary.wiley.com/journal/1097024X"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ead4d1c5cc36217d1f8e872d18687fc0308e73d5",
+      "title": "Prioritizing the creation of unit tests in legacy software systems",
+      "venue": "Software, Practice & Experience",
+      "year": 2011,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1762589",
+          "name": "Z. Jiang"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        },
+        {
+          "authorId": "120541930",
+          "name": "R. Bowerman"
+        }
+      ]
+    },
+    {
+      "paperId": "1ab4aa0591ff7ae3c90c715654d2b25181140954",
+      "publicationVenue": {
+        "id": "d7907408-25bc-4816-a81d-4e0f2f6482c8",
+        "name": "IEEE Working Conference on Mining Software Repositories",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Work Conf Min Softw Repos",
+          "Min Softw Repos",
+          "Mining Software Repositories",
+          "MSR"
+        ],
+        "url": "https://dl.acm.org/conference/icse/proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/1ab4aa0591ff7ae3c90c715654d2b25181140954",
+      "title": "Should I contribute to this discussion?",
+      "venue": "IEEE Working Conference on Mining Software Repositories",
+      "year": 2010,
+      "citationCount": 37,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "153809230",
+          "name": "Walid M. Ibrahim"
+        },
+        {
+          "authorId": "2426138",
+          "name": "Nicolas Bettenburg"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "5ab2f32f298864a3a5c316bede2beb67acfa2393",
+      "publicationVenue": {
+        "id": "9d988347-1c3c-4cf9-9b6f-d15117510bf4",
+        "name": "International Symposium on Empirical Software Engineering and Measurement",
+        "type": "conference",
+        "alternate_names": [
+          "ESEM",
+          "Empirical Software Engineering and Measurement",
+          "Int Symp Empir Softw Eng Meas",
+          "Empir Softw Eng Meas"
+        ],
+        "issn": "1938-6451",
+        "alternate_issns": [
+          "1949-3770"
+        ],
+        "url": "http://www.esem-conferences.org/",
+        "alternate_urls": [
+          "http://portal.acm.org/toc.cfm?CFID=8875694&CFTOKEN=63500259&WantType=Proceedings&coll=portal&dl=ACM&id=SERIES11506&idx=SERIES11506&part=series&title=ESEM&type=series"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5ab2f32f298864a3a5c316bede2beb67acfa2393",
+      "title": "Understanding the impact of code and process metrics on post-release defects: a case study on the Eclipse project",
+      "venue": "International Symposium on Empirical Software Engineering and Measurement",
+      "year": 2010,
+      "citationCount": 100,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1762589",
+          "name": "Z. Jiang"
+        },
+        {
+          "authorId": "153809230",
+          "name": "Walid M. Ibrahim"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "6e57cc0c6be2b30412d7a16c6f79f478c93f6f50",
+      "publicationVenue": {
+        "id": "fb0c06f1-96e4-48aa-82a8-2e9c8fd738cb",
+        "name": "International Conference on Quality Software",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Qual Softw",
+          "QSIC"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6e57cc0c6be2b30412d7a16c6f79f478c93f6f50",
+      "title": "Prioritizing Unit Test Creation for Test-Driven Maintenance of Legacy Systems",
+      "venue": "International Conference on Quality Software",
+      "year": 2010,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1762589",
+          "name": "Z. Jiang"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        },
+        {
+          "authorId": "120541930",
+          "name": "R. Bowerman"
+        }
+      ]
+    },
+    {
+      "paperId": "84da64a0ef496a4fee01f3fd5ef4976ddcd48e26",
+      "publicationVenue": {
+        "id": "16f7a344-c856-4496-8de9-bbcc61177328",
+        "name": "Working Conference on Reverse Engineering",
+        "type": "conference",
+        "alternate_names": [
+          "WCRE",
+          "Work Conf Reverse Eng"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/84da64a0ef496a4fee01f3fd5ef4976ddcd48e26",
+      "title": "Predicting Re-opened Bugs: A Case Study on the Eclipse Project",
+      "venue": "Working Conference on Reverse Engineering",
+      "year": 2010,
+      "citationCount": 107,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2385419",
+          "name": "Akinori Ihara"
+        },
+        {
+          "authorId": "1706639",
+          "name": "Yasutaka Kamei"
+        },
+        {
+          "authorId": "153809230",
+          "name": "Walid M. Ibrahim"
+        },
+        {
+          "authorId": "9455254",
+          "name": "M. Ohira"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        },
+        {
+          "authorId": "144975613",
+          "name": "Ken-ichi Matsumoto"
+        }
+      ]
+    },
+    {
+      "paperId": "b786e0718f92328e7dd463be3dca5d1954325f0f",
+      "publicationVenue": {
+        "id": "d7907408-25bc-4816-a81d-4e0f2f6482c8",
+        "name": "IEEE Working Conference on Mining Software Repositories",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Work Conf Min Softw Repos",
+          "Min Softw Repos",
+          "Mining Software Repositories",
+          "MSR"
+        ],
+        "url": "https://dl.acm.org/conference/icse/proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/b786e0718f92328e7dd463be3dca5d1954325f0f",
+      "title": "Mining Challenge 2010: FreeBSD, GNOME Desktop and Debian/Ubuntu",
+      "venue": "IEEE Working Conference on Mining Software Repositories",
+      "year": 2010,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145369636",
+          "name": "Abram Hindle"
+        },
+        {
+          "authorId": "35197893",
+          "name": "I. Herraiz"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1762589",
+          "name": "Z. Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "eec852d06f10429adad1c694809eefb390a4bc8b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/eec852d06f10429adad1c694809eefb390a4bc8b",
+      "title": "An Industrial Case Study on Speeding Up User Acceptance Testing by Mining Execution Logs",
+      "venue": "2010 Fourth International Conference on Secure Software Integration and Reliability Improvement",
+      "year": 2010,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "1762589",
+          "name": "Z. Jiang"
+        },
+        {
+          "authorId": "1770189",
+          "name": "Alberto Avritzer"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        },
+        {
+          "authorId": "1793275",
+          "name": "P. Flora"
+        }
+      ]
+    },
+    {
+      "paperId": "19373fe6150ae6121ec4b87df4455244d80b8626",
+      "publicationVenue": {
+        "id": "be08b48d-1f6e-4825-b2e4-20eda7d086d1",
+        "name": "IEEE International Working Conference on Mining Software Repositories",
+        "alternate_names": [
+          "IEEE Int Work Conf Min Softw Repos"
+        ],
+        "issn": "2160-1852",
+        "alternate_issns": [
+          "2160-1860"
+        ],
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1001959",
+        "alternate_urls": [
+          "http://2017.msrconf.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/19373fe6150ae6121ec4b87df4455244d80b8626",
+      "title": "On the use of Internet Relay Chat (IRC) meetings by developers of the GNOME GTK+ project",
+      "venue": "IEEE International Working Conference on Mining Software Repositories",
+      "year": 2009,
+      "citationCount": 51,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1762589",
+          "name": "Z. Jiang"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "597cc87efb754ec65a52ae709a6164529b6bd89f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/597cc87efb754ec65a52ae709a6164529b6bd89f",
+      "title": "On the Central Role of Mailing Lists in Open Source Projects: An Exploratory Study",
+      "venue": "JSAI-isAI Workshops",
+      "year": 2009,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "2426138",
+          "name": "Nicolas Bettenburg"
+        },
+        {
+          "authorId": "143612725",
+          "name": "Bram Adams"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "6e265a9fc42960aabbf6a6425d5b974e069a3e0a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6e265a9fc42960aabbf6a6425d5b974e069a3e0a",
+      "title": "Studying the use of developer IRC meetings in open source projects",
+      "venue": "2009 IEEE International Conference on Software Maintenance",
+      "year": 2009,
+      "citationCount": 62,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1762589",
+          "name": "Z. Jiang"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "af7e1fe65548612d90a121613211a4462dffc84c",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/af7e1fe65548612d90a121613211a4462dffc84c",
+      "title": "On the use of IRC channels by developers of the GNOME GTK + open source project",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 3,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "1762589",
+          "name": "Z. Jiang"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    },
+    {
+      "paperId": "e734cd3358927e603d0be0b14a39cbc3b8b490e9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e734cd3358927e603d0be0b14a39cbc3b8b490e9",
+      "title": "An empirical study on the risks of using off-the-shelf techniques for processing mailing list data",
+      "venue": "2009 IEEE International Conference on Software Maintenance",
+      "year": 2009,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2426138",
+          "name": "Nicolas Bettenburg"
+        },
+        {
+          "authorId": "3318024",
+          "name": "Emad Shihab"
+        },
+        {
+          "authorId": "144890499",
+          "name": "A. Hassan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,782 @@
+{
+  "authorId": "3451493",
+  "name": "Manuel R. Ciosici",
+  "affiliations": [],
+  "paperCount": 16,
+  "citationCount": 203,
+  "hIndex": 7,
+  "papers": [
+    {
+      "paperId": "32be385a1cf9971ffce0a3e6c60e7522c8449eac",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/32be385a1cf9971ffce0a3e6c60e7522c8449eac",
+      "title": "Remember what you did so you know what to do next",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "2046633188",
+          "name": "Alex Hedges"
+        },
+        {
+          "authorId": "2029668178",
+          "name": "Yash Kankanampati"
+        },
+        {
+          "authorId": "2265463469",
+          "name": "Justin Martin"
+        },
+        {
+          "authorId": "2265382082",
+          "name": "Marjorie Freedman"
+        },
+        {
+          "authorId": "1732071",
+          "name": "R. Weischedel"
+        }
+      ]
+    },
+    {
+      "paperId": "e4437293a703fcf282bf1b38bf7900ed8ca711bb",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/e4437293a703fcf282bf1b38bf7900ed8ca711bb",
+      "title": "Training a T5 Using Lab-sized Resources",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "113320522",
+          "name": "Leon Derczynski"
+        }
+      ]
+    },
+    {
+      "paperId": "fd7e88a2313e176315d99fc299277e752d7703b7",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/fd7e88a2313e176315d99fc299277e752d7703b7",
+      "title": "Efficient Methods for Natural Language Processing: A Survey",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 101,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145188499",
+          "name": "Marcos Vin\u00edcius Treviso"
+        },
+        {
+          "authorId": "51129266",
+          "name": "Tianchu Ji"
+        },
+        {
+          "authorId": "2108605329",
+          "name": "Ji-Ung Lee"
+        },
+        {
+          "authorId": "51436004",
+          "name": "Betty van Aken"
+        },
+        {
+          "authorId": "31961604",
+          "name": "Qingqing Cao"
+        },
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "2141516697",
+          "name": "Michael Hassid"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "50237813",
+          "name": "Sara Hooker"
+        },
+        {
+          "authorId": "144869806",
+          "name": "Pedro Henrique Martins"
+        },
+        {
+          "authorId": "1400227478",
+          "name": "Andr\u00e9 F. T. Martins"
+        },
+        {
+          "authorId": "2719024",
+          "name": "Peter Milder"
+        },
+        {
+          "authorId": "2402716",
+          "name": "Colin Raffel"
+        },
+        {
+          "authorId": "145795026",
+          "name": "Edwin Simpson"
+        },
+        {
+          "authorId": "1766595",
+          "name": "N. Slonim"
+        },
+        {
+          "authorId": "35217367",
+          "name": "Niranjan Balasubramanian"
+        },
+        {
+          "authorId": "113320522",
+          "name": "Leon Derczynski"
+        },
+        {
+          "authorId": "4671928",
+          "name": "Roy Schwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "4563a3a0fa8a1bad759c63ae6427ba7cad9f8d16",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/4563a3a0fa8a1bad759c63ae6427ba7cad9f8d16",
+      "title": "Machine-Assisted Script Curation",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "49519539",
+          "name": "Joseph Cummings"
+        },
+        {
+          "authorId": "2046875291",
+          "name": "Mitchell DeHaven"
+        },
+        {
+          "authorId": "2046633188",
+          "name": "Alex Hedges"
+        },
+        {
+          "authorId": "2029668178",
+          "name": "Yash Kankanampati"
+        },
+        {
+          "authorId": "73037511",
+          "name": "Dong-Ho Lee"
+        },
+        {
+          "authorId": "1732071",
+          "name": "R. Weischedel"
+        },
+        {
+          "authorId": "2052513135",
+          "name": "Marjorie Freedman"
+        }
+      ]
+    },
+    {
+      "paperId": "70ae152b27ce97f621c3ef4ac55a71c60f33a768",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/70ae152b27ce97f621c3ef4ac55a71c60f33a768",
+      "title": "A reproduction of Apple\u2019s bi-directional LSTM models for language identification in short strings",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2049406706",
+          "name": "M. Toftrup"
+        },
+        {
+          "authorId": "2049406119",
+          "name": "S. Sorensen"
+        },
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "1713664",
+          "name": "I. Assent"
+        }
+      ]
+    },
+    {
+      "paperId": "ef5a79368dddf07a368347c64c289bfaaa587fa5",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/ef5a79368dddf07a368347c64c289bfaaa587fa5",
+      "title": "Perhaps PTLMs Should Go to School \u2013 A Task to Assess Open Book and Closed Book QA",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "2088874465",
+          "name": "Joe Cecil"
+        },
+        {
+          "authorId": "2046633188",
+          "name": "Alex Hedges"
+        },
+        {
+          "authorId": "2115475530",
+          "name": "Dong-Ho Lee"
+        },
+        {
+          "authorId": "2052513135",
+          "name": "Marjorie Freedman"
+        },
+        {
+          "authorId": "1732071",
+          "name": "R. Weischedel"
+        }
+      ]
+    },
+    {
+      "paperId": "56ae511ca5bf35fcbe03fe5d7592b7d028e4ffca",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/56ae511ca5bf35fcbe03fe5d7592b7d028e4ffca",
+      "title": "One of these words is not like the other: a reproduction of outlier identification using non-contextual word representations",
+      "venue": "EVAL4NLP",
+      "year": 2020,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2008215490",
+          "name": "Jesper Brink Andersen"
+        },
+        {
+          "authorId": "2008216241",
+          "name": "Mikkel Bak Bertelsen"
+        },
+        {
+          "authorId": "2008214319",
+          "name": "Mikkel H\u00f8rby Schou"
+        },
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "1713664",
+          "name": "I. Assent"
+        }
+      ]
+    },
+    {
+      "paperId": "739a52f5023983cf72d605f91c32d111bcdfa108",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/739a52f5023983cf72d605f91c32d111bcdfa108",
+      "title": "Accelerated High-Quality Mutual-Information Based Word Clustering",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2020,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "1713664",
+          "name": "I. Assent"
+        },
+        {
+          "authorId": "113320522",
+          "name": "Leon Derczynski"
+        }
+      ]
+    },
+    {
+      "paperId": "73cb8b7a02d1b9c9f3e5c21d25752cb4115fa83d",
+      "publicationVenue": {
+        "id": "e1fe3df7-d2f1-40a5-8885-155f479eb07c",
+        "name": "Nordic Conference of Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "NODALIDA",
+          "Nord Conf Comput Linguistics"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/73cb8b7a02d1b9c9f3e5c21d25752cb4115fa83d",
+      "title": "The Danish Gigaword Corpus",
+      "venue": "Nordic Conference of Computational Linguistics",
+      "year": 2020,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "113320522",
+          "name": "Leon Derczynski"
+        },
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "29865787",
+          "name": "R. Baglini"
+        },
+        {
+          "authorId": "50534109",
+          "name": "Morten H. Christiansen"
+        },
+        {
+          "authorId": "1581551638",
+          "name": "Jacob Aarup Dalsgaard"
+        },
+        {
+          "authorId": "2067643",
+          "name": "Riccardo Fusaroli"
+        },
+        {
+          "authorId": "2635442",
+          "name": "P. Henrichsen"
+        },
+        {
+          "authorId": "1581828012",
+          "name": "Rasmus Hvingelby"
+        },
+        {
+          "authorId": "2190615",
+          "name": "Andreas S\u00f8eborg Kirkedal"
+        },
+        {
+          "authorId": "121316248",
+          "name": "Alex Speed Kjeldsen"
+        },
+        {
+          "authorId": "1680032105",
+          "name": "Claus Ladefoged"
+        },
+        {
+          "authorId": "2060102843",
+          "name": "F. Nielsen"
+        },
+        {
+          "authorId": "2106433892",
+          "name": "Jens Madsen"
+        },
+        {
+          "authorId": "32717568",
+          "name": "M. Petersen"
+        },
+        {
+          "authorId": "1679975220",
+          "name": "Jonathan H. Rystr\u00f8m"
+        },
+        {
+          "authorId": "51117789",
+          "name": "Daniel Varab"
+        }
+      ]
+    },
+    {
+      "paperId": "ef9ad7bbb363aa30b006769a5ba938c26fc5a9b5",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/ef9ad7bbb363aa30b006769a5ba938c26fc5a9b5",
+      "title": "The Danish Gigaword Project",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "113320522",
+          "name": "Leon Derczynski"
+        },
+        {
+          "authorId": "29865787",
+          "name": "R. Baglini"
+        },
+        {
+          "authorId": "1726141",
+          "name": "Morten H. Christiansen"
+        },
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "1581551638",
+          "name": "Jacob Aarup Dalsgaard"
+        },
+        {
+          "authorId": "2067643",
+          "name": "Riccardo Fusaroli"
+        },
+        {
+          "authorId": "2635442",
+          "name": "P. Henrichsen"
+        },
+        {
+          "authorId": "1581828012",
+          "name": "Rasmus Hvingelby"
+        },
+        {
+          "authorId": "2190615",
+          "name": "Andreas S\u00f8eborg Kirkedal"
+        },
+        {
+          "authorId": "121316248",
+          "name": "Alex Speed Kjeldsen"
+        },
+        {
+          "authorId": "1680032105",
+          "name": "Claus Ladefoged"
+        },
+        {
+          "authorId": "2060102843",
+          "name": "F. Nielsen"
+        },
+        {
+          "authorId": "32717568",
+          "name": "M. Petersen"
+        },
+        {
+          "authorId": "1679975220",
+          "name": "Jonathan H. Rystr\u00f8m"
+        },
+        {
+          "authorId": "51117789",
+          "name": "Daniel Varab"
+        }
+      ]
+    },
+    {
+      "paperId": "40586ffd4e2bc700943e85d68245e216992abbde",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/40586ffd4e2bc700943e85d68245e216992abbde",
+      "title": "Quantifying the morphosyntactic content of Brown Clusters",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "113320522",
+          "name": "Leon Derczynski"
+        },
+        {
+          "authorId": "1713664",
+          "name": "I. Assent"
+        }
+      ]
+    },
+    {
+      "paperId": "4e53ed3a42854d5c977c57cb4c53a946f6d4596e",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/4e53ed3a42854d5c977c57cb4c53a946f6d4596e",
+      "title": "Abbreviation Explorer - an interactive system for pre-evaluation of Unsupervised Abbreviation Disambiguation",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "1713664",
+          "name": "I. Assent"
+        }
+      ]
+    },
+    {
+      "paperId": "bf4949c38dfc981f3afd15e7ad036d6c8b9a0f37",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/bf4949c38dfc981f3afd15e7ad036d6c8b9a0f37",
+      "title": "CRAFT Shared Tasks 2019 Overview \u2014 Integrated Structure, Semantics, and Coreference",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1729058",
+          "name": "W. Baumgartner"
+        },
+        {
+          "authorId": "2163000",
+          "name": "M. Bada"
+        },
+        {
+          "authorId": "1708916",
+          "name": "S. Pyysalo"
+        },
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "3043714",
+          "name": "N. Hailu"
+        },
+        {
+          "authorId": "1410832522",
+          "name": "Harrison Pielke-Lombardo"
+        },
+        {
+          "authorId": "145666891",
+          "name": "Michael Regan"
+        },
+        {
+          "authorId": "145720231",
+          "name": "L. Hunter"
+        }
+      ]
+    },
+    {
+      "paperId": "cae92b53ed9e20de77692387e299733f38b54437",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/cae92b53ed9e20de77692387e299733f38b54437",
+      "title": "Unsupervised Abbreviation Disambiguation Contextual disambiguation using word embeddings",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "1746788",
+          "name": "T. Sommer"
+        },
+        {
+          "authorId": "1713664",
+          "name": "I. Assent"
+        }
+      ]
+    },
+    {
+      "paperId": "dcbc6d398ed21b5321ad22f734e95f0fe86de760",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/dcbc6d398ed21b5321ad22f734e95f0fe86de760",
+      "title": "Abbreviation Expander - a Web-based System for Easy Reading of Technical Documents",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2018,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "1713664",
+          "name": "I. Assent"
+        }
+      ]
+    },
+    {
+      "paperId": "be0f12de3f990f6ec2a56bcb5c915e1d5ae4ec02",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/be0f12de3f990f6ec2a56bcb5c915e1d5ae4ec02",
+      "title": "Improving Quality of Hierarchical Clustering for Large Data Series",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        }
+      ]
+    }
+  ]
+}

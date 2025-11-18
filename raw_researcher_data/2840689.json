@@ -1,0 +1,5322 @@
+{
+  "authorId": "2840689",
+  "name": "A. Callahan",
+  "affiliations": [],
+  "paperCount": 73,
+  "citationCount": 3999,
+  "hIndex": 24,
+  "papers": [
+    {
+      "paperId": "95fac522253d3c44de9b5a9d0abc79e95b65c6c5",
+      "publicationVenue": {
+        "id": "811a7a2a-70ce-4bde-9f59-dd8bb126e30f",
+        "name": "JAMIA Open",
+        "issn": "2574-2531"
+      },
+      "url": "https://www.semanticscholar.org/paper/95fac522253d3c44de9b5a9d0abc79e95b65c6c5",
+      "title": "The Stanford Medicine data science ecosystem for clinical and translational research",
+      "venue": "JAMIA Open",
+      "year": 2023,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2220825270",
+          "name": "Euan A Ashley"
+        },
+        {
+          "authorId": "5446768",
+          "name": "Somalee Datta"
+        },
+        {
+          "authorId": "2057113353",
+          "name": "Priyamvada Desai"
+        },
+        {
+          "authorId": "32860292",
+          "name": "T. Ferris"
+        },
+        {
+          "authorId": "121010486",
+          "name": "J. Fries"
+        },
+        {
+          "authorId": "2727841",
+          "name": "Michael Halaas"
+        },
+        {
+          "authorId": "1584627064",
+          "name": "C. Langlotz"
+        },
+        {
+          "authorId": "2068879085",
+          "name": "Sean Mackey"
+        },
+        {
+          "authorId": "145882108",
+          "name": "J. Posada"
+        },
+        {
+          "authorId": "50585910",
+          "name": "M. Pfeffer"
+        },
+        {
+          "authorId": "1491329554",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "a120124389a829cc31126865135a0e4d9e1f188d",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a120124389a829cc31126865135a0e4d9e1f188d",
+      "title": "MedAlign: A Clinician-Generated Dataset for Instruction Following with Electronic Medical Records",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2023,
+      "citationCount": 52,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49954923",
+          "name": "S. Fleming"
+        },
+        {
+          "authorId": "2052999011",
+          "name": "A. Lozano"
+        },
+        {
+          "authorId": "2188041350",
+          "name": "W. Haberkorn"
+        },
+        {
+          "authorId": "152527444",
+          "name": "Jenelle A. Jindal"
+        },
+        {
+          "authorId": "2053866922",
+          "name": "E. Reis"
+        },
+        {
+          "authorId": "1519406940",
+          "name": "Rahul Thapa"
+        },
+        {
+          "authorId": "13794901",
+          "name": "Louis Blankemeier"
+        },
+        {
+          "authorId": "2879621",
+          "name": "Julian Z. Genkins"
+        },
+        {
+          "authorId": "34673824",
+          "name": "E. Steinberg"
+        },
+        {
+          "authorId": "152111820",
+          "name": "Ashwin Nayak"
+        },
+        {
+          "authorId": "46884621",
+          "name": "Birju S. Patel"
+        },
+        {
+          "authorId": "2234347139",
+          "name": "Chia-Chun Chiang"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "41032859",
+          "name": "Zepeng Huo"
+        },
+        {
+          "authorId": "3403367",
+          "name": "S. Gatidis"
+        },
+        {
+          "authorId": "3583566",
+          "name": "S. Adams"
+        },
+        {
+          "authorId": "38497927",
+          "name": "Oluseyi Fayanju"
+        },
+        {
+          "authorId": "2222543794",
+          "name": "Shreya Shah"
+        },
+        {
+          "authorId": "2144876726",
+          "name": "Thomas Savage"
+        },
+        {
+          "authorId": "1561496247",
+          "name": "Ethan Goh"
+        },
+        {
+          "authorId": "31072467",
+          "name": "A. Chaudhari"
+        },
+        {
+          "authorId": "3135425",
+          "name": "N. Aghaeepour"
+        },
+        {
+          "authorId": "2082437275",
+          "name": "Christopher D. Sharp"
+        },
+        {
+          "authorId": "50585910",
+          "name": "M. Pfeffer"
+        },
+        {
+          "authorId": "145419642",
+          "name": "Percy Liang"
+        },
+        {
+          "authorId": "1421788668",
+          "name": "Jonathan H. Chen"
+        },
+        {
+          "authorId": "47277580",
+          "name": "K. Morse"
+        },
+        {
+          "authorId": "2563117",
+          "name": "E. Brunskill"
+        },
+        {
+          "authorId": "31592365",
+          "name": "Jason Alan Fries"
+        },
+        {
+          "authorId": "1491329554",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "b26596678a1beb75e36bb63a9f1ed118e1280788",
+      "publicationVenue": {
+        "id": "f9827422-a381-440c-a8a4-e5e50415934e",
+        "name": "Journal of Biomedical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Informatics"
+        ],
+        "issn": "1532-0464",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622857/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-biomedical-informatics/",
+          "http://www.sciencedirect.com/science/journal/15320464",
+          "http://www.journals.elsevier.com/journal-of-biomedical-informatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/b26596678a1beb75e36bb63a9f1ed118e1280788",
+      "title": "APLUS: A Python library for usefulness simulations of machine learning models in healthcare",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2023,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1993736674",
+          "name": "Michael Wornow"
+        },
+        {
+          "authorId": "32238580",
+          "name": "E. Ross"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1491329554",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "eb9f6b27be887b2c33a6a58c2ede044733b8d4b4",
+      "publicationVenue": {
+        "id": "f9827422-a381-440c-a8a4-e5e50415934e",
+        "name": "Journal of Biomedical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Informatics"
+        ],
+        "issn": "1532-0464",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622857/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-biomedical-informatics/",
+          "http://www.sciencedirect.com/science/journal/15320464",
+          "http://www.journals.elsevier.com/journal-of-biomedical-informatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/eb9f6b27be887b2c33a6a58c2ede044733b8d4b4",
+      "title": "Principled estimation and evaluation of treatment effect heterogeneity: A case study application to dabigatran for patients with atrial fibrillation",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2023,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2145537973",
+          "name": "Yizhe Xu"
+        },
+        {
+          "authorId": "2161451790",
+          "name": "Katelyn K. Bechler"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1491329554",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "2d7c2d336f9123acd261da6b75d2aa2b166d3552",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2d7c2d336f9123acd261da6b75d2aa2b166d3552",
+      "title": "Real-World Data at the Point-of-Care: Exploring Education Needs Across All Stakeholders",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2879621",
+          "name": "Julian Z. Genkins"
+        },
+        {
+          "authorId": "2156939237",
+          "name": "Dev Dash"
+        },
+        {
+          "authorId": "145208173",
+          "name": "L. Sung"
+        },
+        {
+          "authorId": "48847750",
+          "name": "S. Gombar"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        }
+      ]
+    },
+    {
+      "paperId": "8c0eb08e028aef5f0e7d1b61e1c81c8ce2c0d08c",
+      "publicationVenue": {
+        "id": "4431daa4-da7f-4fbc-9d1b-6ac7f82b2e3e",
+        "name": "American Journal of Obstetrics and Gynecology",
+        "type": "journal",
+        "alternate_names": [
+          "Am J Obstet Gynecol"
+        ],
+        "issn": "0002-9378",
+        "url": "http://www.harcourthealth.com/scripts/om.dll/serve?action=searchDB&id=ob&searchDBfor=home",
+        "alternate_urls": [
+          "https://www.ajog.org/",
+          "http://www.ajog.org/",
+          "http://www.sciencedirect.com/science/journal/00029378"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/8c0eb08e028aef5f0e7d1b61e1c81c8ce2c0d08c",
+      "title": "Constructing a cohort of nulliparous, term, singleton, vertex births from electronic health records",
+      "venue": "American Journal of Obstetrics and Gynecology",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "5554661",
+          "name": "G. Murugappan"
+        },
+        {
+          "authorId": "5017463",
+          "name": "E. Main"
+        },
+        {
+          "authorId": "2052989636",
+          "name": "S. Leonard"
+        }
+      ]
+    },
+    {
+      "paperId": "964bd39b546f0f6625ff3b9ef1083f797807ef2e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/964bd39b546f0f6625ff3b9ef1083f797807ef2e",
+      "title": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 2221,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1379806208",
+          "name": "Teven Le Scao"
+        },
+        {
+          "authorId": "144270981",
+          "name": "Angela Fan"
+        },
+        {
+          "authorId": "2003696840",
+          "name": "Christopher Akiki"
+        },
+        {
+          "authorId": "2949185",
+          "name": "Ellie Pavlick"
+        },
+        {
+          "authorId": "2066663381",
+          "name": "Suzana Ili'c"
+        },
+        {
+          "authorId": "80424302",
+          "name": "Daniel Hesslow"
+        },
+        {
+          "authorId": "2190282134",
+          "name": "Roman Castagn'e"
+        },
+        {
+          "authorId": "2993731",
+          "name": "A. Luccioni"
+        },
+        {
+          "authorId": "1846431",
+          "name": "Fran\u00e7ois Yvon"
+        },
+        {
+          "authorId": "2907260",
+          "name": "Matthias Gall\u00e9"
+        },
+        {
+          "authorId": "50195579",
+          "name": "J. Tow"
+        },
+        {
+          "authorId": "2531268",
+          "name": "Alexander M. Rush"
+        },
+        {
+          "authorId": "103476203",
+          "name": "Stella Biderman"
+        },
+        {
+          "authorId": "1991019030",
+          "name": "Albert Webson"
+        },
+        {
+          "authorId": "1451644426",
+          "name": "Pawan Sasanka Ammanamanchi"
+        },
+        {
+          "authorId": "2135734748",
+          "name": "Thomas Wang"
+        },
+        {
+          "authorId": "68990982",
+          "name": "Beno\u00eet Sagot"
+        },
+        {
+          "authorId": "2037383772",
+          "name": "Niklas Muennighoff"
+        },
+        {
+          "authorId": "46219923",
+          "name": "Albert Villanova del Moral"
+        },
+        {
+          "authorId": "2537545",
+          "name": "Olatunji Ruwase"
+        },
+        {
+          "authorId": "48983885",
+          "name": "Rachel Bawden"
+        },
+        {
+          "authorId": "32136590",
+          "name": "Stas Bekman"
+        },
+        {
+          "authorId": "1584940075",
+          "name": "Angelina McMillan-Major"
+        },
+        {
+          "authorId": "46181066",
+          "name": "Iz Beltagy"
+        },
+        {
+          "authorId": "2168170616",
+          "name": "Huu Nguyen"
+        },
+        {
+          "authorId": "2113836860",
+          "name": "Lucile Saulnier"
+        },
+        {
+          "authorId": "145814654",
+          "name": "Samson Tan"
+        },
+        {
+          "authorId": "147846651",
+          "name": "Pedro Ortiz Suarez"
+        },
+        {
+          "authorId": "2285868436",
+          "name": "Victor Sanh"
+        },
+        {
+          "authorId": "2172404846",
+          "name": "Hugo Laurenccon"
+        },
+        {
+          "authorId": "2262249",
+          "name": "Yacine Jernite"
+        },
+        {
+          "authorId": "143945447",
+          "name": "Julien Launay"
+        },
+        {
+          "authorId": "49501003",
+          "name": "Margaret Mitchell"
+        },
+        {
+          "authorId": "2402716",
+          "name": "Colin Raffel"
+        },
+        {
+          "authorId": "2273789852",
+          "name": "Aaron Gokaslan"
+        },
+        {
+          "authorId": "2183598223",
+          "name": "Adi Simhi"
+        },
+        {
+          "authorId": "2078619062",
+          "name": "Aitor Soroa Etxabe"
+        },
+        {
+          "authorId": "8129718",
+          "name": "Alham Fikri Aji"
+        },
+        {
+          "authorId": "73769093",
+          "name": "Amit Alfassy"
+        },
+        {
+          "authorId": "145046059",
+          "name": "Anna Rogers"
+        },
+        {
+          "authorId": "2190281124",
+          "name": "Ariel Kreisberg Nitzav"
+        },
+        {
+          "authorId": "66247317",
+          "name": "Canwen Xu"
+        },
+        {
+          "authorId": "35966970",
+          "name": "Chenghao Mou"
+        },
+        {
+          "authorId": "1591176064",
+          "name": "Chris C. Emezue"
+        },
+        {
+          "authorId": "2261291789",
+          "name": "Christopher Klamm"
+        },
+        {
+          "authorId": "89269402",
+          "name": "Colin Leong"
+        },
+        {
+          "authorId": "71075073",
+          "name": "Daniel Alexander van Strien"
+        },
+        {
+          "authorId": "2518906",
+          "name": "David Ifeoluwa Adelani"
+        },
+        {
+          "authorId": "9215251",
+          "name": "Dragomir R. Radev"
+        },
+        {
+          "authorId": "79512668",
+          "name": "E. G. Ponferrada"
+        },
+        {
+          "authorId": "2190281122",
+          "name": "Efrat Levkovizh"
+        },
+        {
+          "authorId": "2047591327",
+          "name": "Ethan Kim"
+        },
+        {
+          "authorId": "2088048322",
+          "name": "Eyal Natan"
+        },
+        {
+          "authorId": "2067891070",
+          "name": "F. Toni"
+        },
+        {
+          "authorId": "13656138",
+          "name": "G\u00e9rard Dupont"
+        },
+        {
+          "authorId": "2067996",
+          "name": "Germ\u00e1n Kruszewski"
+        },
+        {
+          "authorId": "2158858559",
+          "name": "Giada Pistilli"
+        },
+        {
+          "authorId": "2218938",
+          "name": "Hady ElSahar"
+        },
+        {
+          "authorId": "90563027",
+          "name": "Hamza Benyamina"
+        },
+        {
+          "authorId": "2057078797",
+          "name": "H. Tran"
+        },
+        {
+          "authorId": "47948569",
+          "name": "Ian Yu"
+        },
+        {
+          "authorId": "1429833598",
+          "name": "Idris Abdulmumin"
+        },
+        {
+          "authorId": "2060080508",
+          "name": "Isaac Johnson"
+        },
+        {
+          "authorId": "1404791152",
+          "name": "Itziar Gonzalez-Dios"
+        },
+        {
+          "authorId": "144979591",
+          "name": "Javier de la Rosa"
+        },
+        {
+          "authorId": "2164872258",
+          "name": "Jenny Chim"
+        },
+        {
+          "authorId": "34176020",
+          "name": "Jesse Dodge"
+        },
+        {
+          "authorId": "144549416",
+          "name": "Jian Zhu"
+        },
+        {
+          "authorId": "2116123009",
+          "name": "Jonathan Chang"
+        },
+        {
+          "authorId": "2146695800",
+          "name": "Jorg Frohberg"
+        },
+        {
+          "authorId": "2094755167",
+          "name": "Josephine Tobing"
+        },
+        {
+          "authorId": "143779690",
+          "name": "J. Bhattacharjee"
+        },
+        {
+          "authorId": "90615055",
+          "name": "Khalid Almubarak"
+        },
+        {
+          "authorId": "2157630500",
+          "name": "Kimbo Chen"
+        },
+        {
+          "authorId": "46258841",
+          "name": "Kyle Lo"
+        },
+        {
+          "authorId": "51128119",
+          "name": "L. V. Werra"
+        },
+        {
+          "authorId": "20308468",
+          "name": "Leon Weber"
+        },
+        {
+          "authorId": null,
+          "name": "Long Phan"
+        },
+        {
+          "authorId": "2190281230",
+          "name": "Loubna Ben Allal"
+        },
+        {
+          "authorId": "77970446",
+          "name": "Ludovic Tanguy"
+        },
+        {
+          "authorId": "1879591269",
+          "name": "Manan Dey"
+        },
+        {
+          "authorId": "115568186",
+          "name": "M. Mu\u00f1oz"
+        },
+        {
+          "authorId": "153528116",
+          "name": "Maraim Masoud"
+        },
+        {
+          "authorId": "2176184513",
+          "name": "Mar\u00eda Grandury"
+        },
+        {
+          "authorId": "2125821515",
+          "name": "Mario vSavsko"
+        },
+        {
+          "authorId": "2112504552",
+          "name": "Max Huang"
+        },
+        {
+          "authorId": "3443469",
+          "name": "Maximin Coavoux"
+        },
+        {
+          "authorId": "145431050",
+          "name": "Mayank Singh"
+        },
+        {
+          "authorId": "5745221",
+          "name": "Mike Tian-Jian Jiang"
+        },
+        {
+          "authorId": "1484109150",
+          "name": "Minh Chien Vu"
+        },
+        {
+          "authorId": "2097304324",
+          "name": "M. A. Jauhar"
+        },
+        {
+          "authorId": "2721586",
+          "name": "Mustafa Ghaleb"
+        },
+        {
+          "authorId": "34202134",
+          "name": "Nishant Subramani"
+        },
+        {
+          "authorId": "9529535",
+          "name": "Nora Kassner"
+        },
+        {
+          "authorId": "37441312",
+          "name": "Nurulaqilla Khamis"
+        },
+        {
+          "authorId": "2089233725",
+          "name": "Olivier Nguyen"
+        },
+        {
+          "authorId": "2190280842",
+          "name": "Omar Espejel"
+        },
+        {
+          "authorId": "51436367",
+          "name": "Ona de Gibert"
+        },
+        {
+          "authorId": "2176184659",
+          "name": "Paulo Villegas"
+        },
+        {
+          "authorId": "2071773966",
+          "name": "Peter Henderson"
+        },
+        {
+          "authorId": "46985469",
+          "name": "Pierre Colombo"
+        },
+        {
+          "authorId": "2190281321",
+          "name": "Priscilla Amuok"
+        },
+        {
+          "authorId": "2113836945",
+          "name": "Quentin Lhoest"
+        },
+        {
+          "authorId": "80858030",
+          "name": "Rheza Harliman"
+        },
+        {
+          "authorId": "150272855",
+          "name": "Rishi Bommasani"
+        },
+        {
+          "authorId": "116000979",
+          "name": "R. L'opez"
+        },
+        {
+          "authorId": null,
+          "name": "Rui Ribeiro"
+        },
+        {
+          "authorId": "1486204986",
+          "name": "Salomey Osei"
+        },
+        {
+          "authorId": "1708916",
+          "name": "S. Pyysalo"
+        },
+        {
+          "authorId": "47351277",
+          "name": "Sebastian Nagel"
+        },
+        {
+          "authorId": "2795685",
+          "name": "Shamik Bose"
+        },
+        {
+          "authorId": "7744881",
+          "name": "Shamsuddeen Hassan Muhammad"
+        },
+        {
+          "authorId": "1409842673",
+          "name": "S. Sharma"
+        },
+        {
+          "authorId": "29909347",
+          "name": "S. Longpre"
+        },
+        {
+          "authorId": "2099315138",
+          "name": "Somaieh Nikpoor"
+        },
+        {
+          "authorId": "82674724",
+          "name": "S. Silberberg"
+        },
+        {
+          "authorId": "2053516473",
+          "name": "S. Pai"
+        },
+        {
+          "authorId": "2074482488",
+          "name": "S. Zink"
+        },
+        {
+          "authorId": "46308692",
+          "name": "Tiago Timponi Torrent"
+        },
+        {
+          "authorId": "32246932",
+          "name": "Timo Schick"
+        },
+        {
+          "authorId": "1500242049",
+          "name": "Tristan Thrush"
+        },
+        {
+          "authorId": "3382327",
+          "name": "V. Danchev"
+        },
+        {
+          "authorId": "2841761",
+          "name": "Vassilina Nikoulina"
+        },
+        {
+          "authorId": "1796619",
+          "name": "Veronika Laippala"
+        },
+        {
+          "authorId": "2190280574",
+          "name": "Violette Lepercq"
+        },
+        {
+          "authorId": "2059767242",
+          "name": "V. Prabhu"
+        },
+        {
+          "authorId": "25098419",
+          "name": "Zaid Alyafeai"
+        },
+        {
+          "authorId": "2138053020",
+          "name": "Zeerak Talat"
+        },
+        {
+          "authorId": "2048082186",
+          "name": "Arun Raja"
+        },
+        {
+          "authorId": "2266692",
+          "name": "Benjamin Heinzerling"
+        },
+        {
+          "authorId": "152358188",
+          "name": "Chenglei Si"
+        },
+        {
+          "authorId": "3448427",
+          "name": "Elizabeth Salesky"
+        },
+        {
+          "authorId": "27689253",
+          "name": "Sabrina J. Mielke"
+        },
+        {
+          "authorId": "2183377987",
+          "name": "Wilson Y. Lee"
+        },
+        {
+          "authorId": "2051500420",
+          "name": "Abheesht Sharma"
+        },
+        {
+          "authorId": "2065039862",
+          "name": "Andrea Santilli"
+        },
+        {
+          "authorId": "2129106958",
+          "name": "Antoine Chaffin"
+        },
+        {
+          "authorId": "114762823",
+          "name": "Arnaud Stiegler"
+        },
+        {
+          "authorId": "2852125",
+          "name": "Debajyoti Datta"
+        },
+        {
+          "authorId": "50812522",
+          "name": "Eliza Szczechla"
+        },
+        {
+          "authorId": "1509809381",
+          "name": "Gunjan Chhablani"
+        },
+        {
+          "authorId": "144407394",
+          "name": "Han Wang"
+        },
+        {
+          "authorId": "144834468",
+          "name": "Harshit Pandey"
+        },
+        {
+          "authorId": "2879705",
+          "name": "Hendrik Strobelt"
+        },
+        {
+          "authorId": "31592365",
+          "name": "Jason Alan Fries"
+        },
+        {
+          "authorId": "120419790",
+          "name": "Jos Rozen"
+        },
+        {
+          "authorId": "2027599537",
+          "name": "Leo Gao"
+        },
+        {
+          "authorId": "35566806",
+          "name": "Lintang Sutawika"
+        },
+        {
+          "authorId": "31773000",
+          "name": "M Saiful Bari"
+        },
+        {
+          "authorId": "1752627730",
+          "name": "Maged S. Al-Shaibani"
+        },
+        {
+          "authorId": "35904689",
+          "name": "Matteo Manica"
+        },
+        {
+          "authorId": "22209084",
+          "name": "Nihal V. Nayak"
+        },
+        {
+          "authorId": "2131107966",
+          "name": "Ryan Teehan"
+        },
+        {
+          "authorId": "7641268",
+          "name": "Samuel Albanie"
+        },
+        {
+          "authorId": "2191455",
+          "name": "Sheng Shen"
+        },
+        {
+          "authorId": "2152318619",
+          "name": "Srulik Ben-David"
+        },
+        {
+          "authorId": "2870504",
+          "name": "Stephen H. Bach"
+        },
+        {
+          "authorId": "2111181991",
+          "name": "Taewoon Kim"
+        },
+        {
+          "authorId": "94251255",
+          "name": "T. Bers"
+        },
+        {
+          "authorId": "79215748",
+          "name": "Thibault F\u00e9vry"
+        },
+        {
+          "authorId": "10729963",
+          "name": "Trishala Neeraj"
+        },
+        {
+          "authorId": "70296695",
+          "name": "Urmish Thakker"
+        },
+        {
+          "authorId": "24025563",
+          "name": "Vikas Raunak"
+        },
+        {
+          "authorId": "2118488348",
+          "name": "Xiang Tang"
+        },
+        {
+          "authorId": "1725420331",
+          "name": "Zheng-Xin Yong"
+        },
+        {
+          "authorId": "48064856",
+          "name": "Zhiqing Sun"
+        },
+        {
+          "authorId": "1720739223",
+          "name": "Shaked Brody"
+        },
+        {
+          "authorId": "2101395835",
+          "name": "Y. Uri"
+        },
+        {
+          "authorId": "2190280874",
+          "name": "Hadar Tojarieh"
+        },
+        {
+          "authorId": "145625142",
+          "name": "Adam Roberts"
+        },
+        {
+          "authorId": "3351938",
+          "name": "Hyung Won Chung"
+        },
+        {
+          "authorId": "2112211652",
+          "name": "Jaesung Tae"
+        },
+        {
+          "authorId": "80842917",
+          "name": "Jason Phang"
+        },
+        {
+          "authorId": "40170001",
+          "name": "Ofir Press"
+        },
+        {
+          "authorId": "2609325",
+          "name": "Conglong Li"
+        },
+        {
+          "authorId": "22252150",
+          "name": "D. Narayanan"
+        },
+        {
+          "authorId": "2190280830",
+          "name": "Hatim Bourfoune"
+        },
+        {
+          "authorId": "48991386",
+          "name": "J. Casper"
+        },
+        {
+          "authorId": "3299496",
+          "name": "Jeff Rasley"
+        },
+        {
+          "authorId": "1491753352",
+          "name": "Max Ryabinin"
+        },
+        {
+          "authorId": "1381446720",
+          "name": "Mayank Mishra"
+        },
+        {
+          "authorId": "67016465",
+          "name": "Minjia Zhang"
+        },
+        {
+          "authorId": "1911755",
+          "name": "M. Shoeybi"
+        },
+        {
+          "authorId": "31758637",
+          "name": "Myriam Peyrounette"
+        },
+        {
+          "authorId": "31614549",
+          "name": "N. Patry"
+        },
+        {
+          "authorId": "2179884903",
+          "name": "Nouamane Tazi"
+        },
+        {
+          "authorId": "2186979509",
+          "name": "Omar Sanseviero"
+        },
+        {
+          "authorId": "138609838",
+          "name": "Patrick von Platen"
+        },
+        {
+          "authorId": "2190281218",
+          "name": "Pierre Cornette"
+        },
+        {
+          "authorId": "2190280981",
+          "name": "Pierre Franccois Lavall'ee"
+        },
+        {
+          "authorId": "31734741",
+          "name": "R. Lacroix"
+        },
+        {
+          "authorId": "32817044",
+          "name": "Samyam Rajbhandari"
+        },
+        {
+          "authorId": "2188737826",
+          "name": "Sanchit Gandhi"
+        },
+        {
+          "authorId": "2110486618",
+          "name": "Shaden Smith"
+        },
+        {
+          "authorId": "2293408",
+          "name": "S. Requena"
+        },
+        {
+          "authorId": "2147312210",
+          "name": "Suraj Patil"
+        },
+        {
+          "authorId": "3239480",
+          "name": "Tim Dettmers"
+        },
+        {
+          "authorId": "114850513",
+          "name": "Ahmed Baruwa"
+        },
+        {
+          "authorId": null,
+          "name": "Amanpreet Singh"
+        },
+        {
+          "authorId": "2190281235",
+          "name": "Anastasia Cheveleva"
+        },
+        {
+          "authorId": "1769176",
+          "name": "Anne-Laure Ligozat"
+        },
+        {
+          "authorId": "1677386832",
+          "name": "Arjun Subramonian"
+        },
+        {
+          "authorId": "2190281078",
+          "name": "Aur'elie N'ev'eol"
+        },
+        {
+          "authorId": "10727711",
+          "name": "Charles Lovering"
+        },
+        {
+          "authorId": "69045302",
+          "name": "Daniel H Garrette"
+        },
+        {
+          "authorId": "70209311",
+          "name": "D. Tunuguntla"
+        },
+        {
+          "authorId": "144568312",
+          "name": "Ehud Reiter"
+        },
+        {
+          "authorId": "2051713939",
+          "name": "Ekaterina Taktasheva"
+        },
+        {
+          "authorId": "2135526571",
+          "name": "E. Voloshina"
+        },
+        {
+          "authorId": "2158860079",
+          "name": "Eli Bogdanov"
+        },
+        {
+          "authorId": "9162688",
+          "name": "Genta Indra Winata"
+        },
+        {
+          "authorId": "2184031883",
+          "name": "Hailey Schoelkopf"
+        },
+        {
+          "authorId": "3245041",
+          "name": "Jan-Christoph Kalo"
+        },
+        {
+          "authorId": "2848048",
+          "name": "Jekaterina Novikova"
+        },
+        {
+          "authorId": "39774809",
+          "name": "J. Forde"
+        },
+        {
+          "authorId": "47274259",
+          "name": "Xiangru Tang"
+        },
+        {
+          "authorId": "11348687",
+          "name": "Jungo Kasai"
+        },
+        {
+          "authorId": "50106621",
+          "name": "Ken Kawamura"
+        },
+        {
+          "authorId": "2047711867",
+          "name": "Liam Hazan"
+        },
+        {
+          "authorId": "2954727",
+          "name": "Marine Carpuat"
+        },
+        {
+          "authorId": "2029314697",
+          "name": "Miruna Clinciu"
+        },
+        {
+          "authorId": "8756748",
+          "name": "Najoung Kim"
+        },
+        {
+          "authorId": "15590401",
+          "name": "Newton Cheng"
+        },
+        {
+          "authorId": "1799401599",
+          "name": "Oleg Serikov"
+        },
+        {
+          "authorId": "2132545395",
+          "name": "Omer Antverg"
+        },
+        {
+          "authorId": "1986356851",
+          "name": "Oskar van der Wal"
+        },
+        {
+          "authorId": "15176410",
+          "name": "Rui Zhang"
+        },
+        {
+          "authorId": "49775305",
+          "name": "Ruochen Zhang"
+        },
+        {
+          "authorId": "3159346",
+          "name": "Sebastian Gehrmann"
+        },
+        {
+          "authorId": "8963527",
+          "name": "Shachar Mirkin"
+        },
+        {
+          "authorId": "3097741",
+          "name": "S. Pais"
+        },
+        {
+          "authorId": "2134610800",
+          "name": "Tatiana Shavrina"
+        },
+        {
+          "authorId": "90745780",
+          "name": "Thomas Scialom"
+        },
+        {
+          "authorId": "2127600348",
+          "name": "Tian Yun"
+        },
+        {
+          "authorId": "1666636295",
+          "name": "Tomasz Limisiewicz"
+        },
+        {
+          "authorId": "1681799",
+          "name": "Verena Rieser"
+        },
+        {
+          "authorId": "2135362820",
+          "name": "Vitaly Protasov"
+        },
+        {
+          "authorId": "51259225",
+          "name": "V. Mikhailov"
+        },
+        {
+          "authorId": "100984698",
+          "name": "Yada Pruksachatkun"
+        },
+        {
+          "authorId": "2083259",
+          "name": "Yonatan Belinkov"
+        },
+        {
+          "authorId": "2190281071",
+          "name": "Zachary Bamberger"
+        },
+        {
+          "authorId": "2343772132",
+          "name": "Zden\u02c7ek Kasner"
+        },
+        {
+          "authorId": "1805991958",
+          "name": "Zden\u011bk Kasner"
+        },
+        {
+          "authorId": "2190281954",
+          "name": "A. Pestana"
+        },
+        {
+          "authorId": "15845853",
+          "name": "A. Feizpour"
+        },
+        {
+          "authorId": "2190399370",
+          "name": "Ammar Khan"
+        },
+        {
+          "authorId": "2190281566",
+          "name": "Amy Faranak"
+        },
+        {
+          "authorId": "2148971654",
+          "name": "A. Santos"
+        },
+        {
+          "authorId": "1739149407",
+          "name": "Anthony Hevia"
+        },
+        {
+          "authorId": "2190281069",
+          "name": "Antigona Unldreaj"
+        },
+        {
+          "authorId": "115638227",
+          "name": "Arash Aghagol"
+        },
+        {
+          "authorId": "2361305",
+          "name": "Arezoo Abdollahi"
+        },
+        {
+          "authorId": "101302626",
+          "name": "A. Tammour"
+        },
+        {
+          "authorId": "3110645",
+          "name": "A. HajiHosseini"
+        },
+        {
+          "authorId": "2190281564",
+          "name": "Bahareh Behroozi"
+        },
+        {
+          "authorId": "83263885",
+          "name": "Benjamin Ayoade Ajibade"
+        },
+        {
+          "authorId": "31577522",
+          "name": "B. Saxena"
+        },
+        {
+          "authorId": "2005399190",
+          "name": "Carlos Mu\u00f1oz Ferrandis"
+        },
+        {
+          "authorId": "2075459",
+          "name": "Danish Contractor"
+        },
+        {
+          "authorId": "144635557",
+          "name": "D. Lansky"
+        },
+        {
+          "authorId": "2058260775",
+          "name": "Davis David"
+        },
+        {
+          "authorId": "2111313627",
+          "name": "Douwe Kiela"
+        },
+        {
+          "authorId": "5943347",
+          "name": "D. A. Nguyen"
+        },
+        {
+          "authorId": "47654100",
+          "name": "Edward Tan"
+        },
+        {
+          "authorId": "2026649806",
+          "name": "Emi Baylor"
+        },
+        {
+          "authorId": "2190281502",
+          "name": "Ezinwanne Ozoani"
+        },
+        {
+          "authorId": "35330153",
+          "name": "F. Mirza"
+        },
+        {
+          "authorId": "2190281922",
+          "name": "Frankline Ononiwu"
+        },
+        {
+          "authorId": "123343513",
+          "name": "Habib Rezanejad"
+        },
+        {
+          "authorId": "2119822136",
+          "name": "H.A. Jones"
+        },
+        {
+          "authorId": "2105001416",
+          "name": "Indrani Bhattacharya"
+        },
+        {
+          "authorId": "1404060690",
+          "name": "Irene Solaiman"
+        },
+        {
+          "authorId": "2190281379",
+          "name": "Irina Sedenko"
+        },
+        {
+          "authorId": "3163125",
+          "name": "Isar Nejadgholi"
+        },
+        {
+          "authorId": "145629075",
+          "name": "J. Passmore"
+        },
+        {
+          "authorId": "150162316",
+          "name": "Joshua Seltzer"
+        },
+        {
+          "authorId": "97979993",
+          "name": "Julio Bonis Sanz"
+        },
+        {
+          "authorId": null,
+          "name": "Karen Fort"
+        },
+        {
+          "authorId": "3530609",
+          "name": "L\u00edvia Dutra"
+        },
+        {
+          "authorId": "2190281373",
+          "name": "Mairon Samagaio"
+        },
+        {
+          "authorId": "2190281500",
+          "name": "Maraim Elbadri"
+        },
+        {
+          "authorId": "2921990",
+          "name": "Margot Mieskes"
+        },
+        {
+          "authorId": "151492708",
+          "name": "Marissa Gerchick"
+        },
+        {
+          "authorId": "2190281205",
+          "name": "Martha Akinlolu"
+        },
+        {
+          "authorId": "2060092577",
+          "name": "Michael McKenna"
+        },
+        {
+          "authorId": "2056851511",
+          "name": "Mike Qiu"
+        },
+        {
+          "authorId": "144449938",
+          "name": "M. Ghauri"
+        },
+        {
+          "authorId": "2190281203",
+          "name": "Mykola Burynok"
+        },
+        {
+          "authorId": "1401945312",
+          "name": "Nafis Abrar"
+        },
+        {
+          "authorId": "8937909",
+          "name": "Nazneen Rajani"
+        },
+        {
+          "authorId": "2190281555",
+          "name": "Nour Elkott"
+        },
+        {
+          "authorId": "1992948200",
+          "name": "N. Fahmy"
+        },
+        {
+          "authorId": "2164156047",
+          "name": "Olanrewaju Samuel"
+        },
+        {
+          "authorId": "2061141169",
+          "name": "Ran An"
+        },
+        {
+          "authorId": "9294251",
+          "name": "R. Kromann"
+        },
+        {
+          "authorId": "2137183106",
+          "name": "Ryan Hao"
+        },
+        {
+          "authorId": "4279554",
+          "name": "S. Alizadeh"
+        },
+        {
+          "authorId": "2190281531",
+          "name": "Sarmad Shubber"
+        },
+        {
+          "authorId": "2116420702",
+          "name": "Silas L. Wang"
+        },
+        {
+          "authorId": "2109853801",
+          "name": "Sourav Roy"
+        },
+        {
+          "authorId": "10726201",
+          "name": "S. Viguier"
+        },
+        {
+          "authorId": "2153620715",
+          "name": "Thanh-Cong Le"
+        },
+        {
+          "authorId": "2190281729",
+          "name": "Tobi Oyebade"
+        },
+        {
+          "authorId": "2153620985",
+          "name": "T. Le"
+        },
+        {
+          "authorId": "2190429590",
+          "name": "Yoyo Yang"
+        },
+        {
+          "authorId": "2297189567",
+          "name": "Zach Nguyen"
+        },
+        {
+          "authorId": "41124383",
+          "name": "Abhinav Ramesh Kashyap"
+        },
+        {
+          "authorId": "2318515251",
+          "name": "A. Palasciano"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2042747208",
+          "name": "Anima Shukla"
+        },
+        {
+          "authorId": "1414073449",
+          "name": "Antonio Miranda-Escalada"
+        },
+        {
+          "authorId": "2110183222",
+          "name": "A. Singh"
+        },
+        {
+          "authorId": "1379935164",
+          "name": "Benjamin Beilharz"
+        },
+        {
+          "authorId": "2165371942",
+          "name": "Bo Wang"
+        },
+        {
+          "authorId": "144972524",
+          "name": "C. Brito"
+        },
+        {
+          "authorId": "2111169784",
+          "name": "Chenxi Zhou"
+        },
+        {
+          "authorId": "50732716",
+          "name": "Chirag Jain"
+        },
+        {
+          "authorId": "2158158973",
+          "name": "Chuxin Xu"
+        },
+        {
+          "authorId": "2080941785",
+          "name": "Cl\u00e9mentine Fourrier"
+        },
+        {
+          "authorId": "2174177869",
+          "name": "Daniel Le'on Perin'an"
+        },
+        {
+          "authorId": "2082057793",
+          "name": "Daniel Molano"
+        },
+        {
+          "authorId": "150978762",
+          "name": "Dian Yu"
+        },
+        {
+          "authorId": "24907368",
+          "name": "Enrique Manjavacas"
+        },
+        {
+          "authorId": "2139792578",
+          "name": "Fabio Barth"
+        },
+        {
+          "authorId": "2190281754",
+          "name": "Florian Fuhrimann"
+        },
+        {
+          "authorId": "2165227550",
+          "name": "Gabriel Altay"
+        },
+        {
+          "authorId": "2166224123",
+          "name": "Giyaseddin Bayrak"
+        },
+        {
+          "authorId": null,
+          "name": "Gully Burns"
+        },
+        {
+          "authorId": "88811067",
+          "name": "Helena U. Vrabec"
+        },
+        {
+          "authorId": "121044523",
+          "name": "I. Bello"
+        },
+        {
+          "authorId": "93460753",
+          "name": "Isha Dash"
+        },
+        {
+          "authorId": "72725318",
+          "name": "J. Kang"
+        },
+        {
+          "authorId": "37585306",
+          "name": "John Giorgi"
+        },
+        {
+          "authorId": "144983077",
+          "name": "Jonas Golde"
+        },
+        {
+          "authorId": "2066514466",
+          "name": "J. Posada"
+        },
+        {
+          "authorId": "1601562797",
+          "name": "Karthi Sivaraman"
+        },
+        {
+          "authorId": "2190281314",
+          "name": "Lokesh Bulchandani"
+        },
+        {
+          "authorId": "2145287083",
+          "name": "Lu Liu"
+        },
+        {
+          "authorId": "2100596120",
+          "name": "Luisa Shinzato"
+        },
+        {
+          "authorId": "2190281960",
+          "name": "Madeleine Hahn de Bykhovetz"
+        },
+        {
+          "authorId": "2068853922",
+          "name": "Maiko Takeuchi"
+        },
+        {
+          "authorId": "1850527789",
+          "name": "Marc P\u00e0mies"
+        },
+        {
+          "authorId": "87956698",
+          "name": "M. A. Castillo"
+        },
+        {
+          "authorId": "2174178585",
+          "name": "Marianna Nezhurina"
+        },
+        {
+          "authorId": "1879523878",
+          "name": "Mario Sanger"
+        },
+        {
+          "authorId": "3004898",
+          "name": "M. Samwald"
+        },
+        {
+          "authorId": "120397552",
+          "name": "Michael Cullan"
+        },
+        {
+          "authorId": "50564168",
+          "name": "Michael Weinberg"
+        },
+        {
+          "authorId": "2072502429",
+          "name": "M. Wolf"
+        },
+        {
+          "authorId": "2190280864",
+          "name": "Mina Mihaljcic"
+        },
+        {
+          "authorId": "2112211627",
+          "name": "Minna Liu"
+        },
+        {
+          "authorId": "1397064923",
+          "name": "M. Freidank"
+        },
+        {
+          "authorId": "4981508",
+          "name": "Myungsun Kang"
+        },
+        {
+          "authorId": "12046785",
+          "name": "Natasha Seelam"
+        },
+        {
+          "authorId": "48948105",
+          "name": "N. Dahlberg"
+        },
+        {
+          "authorId": "40208102",
+          "name": "N. Broad"
+        },
+        {
+          "authorId": "70256289",
+          "name": "N. Muellner"
+        },
+        {
+          "authorId": "40539650",
+          "name": "Pascale Fung"
+        },
+        {
+          "authorId": "2097023671",
+          "name": "Patricia Haller"
+        },
+        {
+          "authorId": "2298902857",
+          "name": "Patrick Haller"
+        },
+        {
+          "authorId": "115525190",
+          "name": "R. Eisenberg"
+        },
+        {
+          "authorId": "2111138678",
+          "name": "Robert Martin"
+        },
+        {
+          "authorId": "2291171257",
+          "name": "Rodrigo Canalli"
+        },
+        {
+          "authorId": "2190282202",
+          "name": "Rosaline Su"
+        },
+        {
+          "authorId": "153083809",
+          "name": "Ruisi Su"
+        },
+        {
+          "authorId": "66986482",
+          "name": "Samuel Cahyawijaya"
+        },
+        {
+          "authorId": "51878929",
+          "name": "Samuele Garda"
+        },
+        {
+          "authorId": "2174177330",
+          "name": "Shlok S Deshmukh"
+        },
+        {
+          "authorId": "2112134590",
+          "name": "Shubhanshu Mishra"
+        },
+        {
+          "authorId": "39620434",
+          "name": "Sid Kiblawi"
+        },
+        {
+          "authorId": "119994729",
+          "name": "Simon Ott"
+        },
+        {
+          "authorId": "2190281679",
+          "name": "Sinee Sang-aroonsiri"
+        },
+        {
+          "authorId": "120438284",
+          "name": "Srishti Kumar"
+        },
+        {
+          "authorId": "134757625",
+          "name": "Stefan Schweter"
+        },
+        {
+          "authorId": "8723233",
+          "name": "S. Bharati"
+        },
+        {
+          "authorId": "103242455",
+          "name": "Tanmay Laud"
+        },
+        {
+          "authorId": "2174176862",
+          "name": "Th\u00e9o Gigant"
+        },
+        {
+          "authorId": "2190281376",
+          "name": "Tomoya Kainuma"
+        },
+        {
+          "authorId": "50320098",
+          "name": "Wojciech Kusa"
+        },
+        {
+          "authorId": "2139767217",
+          "name": "Yanis Labrak"
+        },
+        {
+          "authorId": "1572961212",
+          "name": "Yashasvi Bajaj"
+        },
+        {
+          "authorId": "2051879548",
+          "name": "Y. Venkatraman"
+        },
+        {
+          "authorId": "2110154622",
+          "name": "Yifan Xu"
+        },
+        {
+          "authorId": "2118670234",
+          "name": "Ying Xu"
+        },
+        {
+          "authorId": "2142717873",
+          "name": "Yu Xu"
+        },
+        {
+          "authorId": "1643680733",
+          "name": "Z. Tan"
+        },
+        {
+          "authorId": "79110285",
+          "name": "Zhongli Xie"
+        },
+        {
+          "authorId": "2114134227",
+          "name": "Zifan Ye"
+        },
+        {
+          "authorId": "2065370401",
+          "name": "M. Bras"
+        },
+        {
+          "authorId": "2037496520",
+          "name": "Younes Belkada"
+        },
+        {
+          "authorId": "50335211",
+          "name": "Thomas Wolf"
+        }
+      ]
+    },
+    {
+      "paperId": "a98617f38a22c523fcb715e09afb057a4c92312a",
+      "publicationVenue": {
+        "id": "bb452b4b-64df-4f54-b48d-b763de1db74d",
+        "name": "Applied Clinical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "Appl Clin Informatics"
+        ],
+        "issn": "1869-0327",
+        "url": "https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00035026"
+      },
+      "url": "https://www.semanticscholar.org/paper/a98617f38a22c523fcb715e09afb057a4c92312a",
+      "title": "Building a Learning Health System: Creating an Analytical Workflow for Evidence Generation to Inform Institutional Clinical Care Guidelines",
+      "venue": "Applied Clinical Informatics",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2156939237",
+          "name": "Dev Dash"
+        },
+        {
+          "authorId": "152430438",
+          "name": "A. Gokhale"
+        },
+        {
+          "authorId": "46884621",
+          "name": "Birju S. Patel"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "145882108",
+          "name": "J. Posada"
+        },
+        {
+          "authorId": "2084651134",
+          "name": "G. Krishnan"
+        },
+        {
+          "authorId": "2156937759",
+          "name": "W. Collins"
+        },
+        {
+          "authorId": "35534358",
+          "name": "Ron C. Li"
+        },
+        {
+          "authorId": "2060723079",
+          "name": "Kevin A. Schulman"
+        },
+        {
+          "authorId": "88884825",
+          "name": "Lily Ren"
+        },
+        {
+          "authorId": "1491329554",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "b449c5b7d5fcb13f794c2912d0584718033cb314",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b449c5b7d5fcb13f794c2912d0584718033cb314",
+      "title": "Constructing a Pregnancy Loss Cohort From Electronic Health Records [A331]",
+      "venue": "Obstetrics &amp; Gynecology",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2052989636",
+          "name": "S. Leonard"
+        },
+        {
+          "authorId": "4519226",
+          "name": "M. Druzin"
+        },
+        {
+          "authorId": "6397476",
+          "name": "R. Lathi"
+        },
+        {
+          "authorId": "5554661",
+          "name": "G. Murugappan"
+        }
+      ]
+    },
+    {
+      "paperId": "d2296cf9717fd84fd0c6e47b5520a7ca35ac12db",
+      "publicationVenue": {
+        "id": "b9444cdd-c1d0-45a8-9db6-f8a53936292e",
+        "name": "JAMA Network Open",
+        "alternate_names": [
+          "JAMA Netw Open"
+        ],
+        "issn": "2574-3805"
+      },
+      "url": "https://www.semanticscholar.org/paper/d2296cf9717fd84fd0c6e47b5520a7ca35ac12db",
+      "title": "Assessment of Adherence to Reporting Guidelines by Commonly Used Clinical Prediction Models From a Single Vendor",
+      "venue": "JAMA Network Open",
+      "year": 2022,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2164212554",
+          "name": "J. Lu"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "46884621",
+          "name": "Birju S. Patel"
+        },
+        {
+          "authorId": "47277580",
+          "name": "K. Morse"
+        },
+        {
+          "authorId": "2156939237",
+          "name": "Dev Dash"
+        },
+        {
+          "authorId": "50585910",
+          "name": "M. Pfeffer"
+        },
+        {
+          "authorId": "1491329554",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "d3e4553f0a1fd465ae358701f1bdc2e8265308d6",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d3e4553f0a1fd465ae358701f1bdc2e8265308d6",
+      "title": "BigBIO: A Framework for Data-Centric Biomedical Natural Language Processing",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "citationCount": 44,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "31592365",
+          "name": "Jason Alan Fries"
+        },
+        {
+          "authorId": "20308468",
+          "name": "Leon Weber"
+        },
+        {
+          "authorId": "12046785",
+          "name": "Natasha Seelam"
+        },
+        {
+          "authorId": "2165227550",
+          "name": "Gabriel Altay"
+        },
+        {
+          "authorId": "2852125",
+          "name": "Debajyoti Datta"
+        },
+        {
+          "authorId": "51878929",
+          "name": "Samuele Garda"
+        },
+        {
+          "authorId": "4981508",
+          "name": "Myungsun Kang"
+        },
+        {
+          "authorId": "153083809",
+          "name": "Ruisi Su"
+        },
+        {
+          "authorId": "50320098",
+          "name": "Wojciech Kusa"
+        },
+        {
+          "authorId": "66986482",
+          "name": "Samuel Cahyawijaya"
+        },
+        {
+          "authorId": "2139792578",
+          "name": "Fabio Barth"
+        },
+        {
+          "authorId": "119994729",
+          "name": "Simon Ott"
+        },
+        {
+          "authorId": "3004898",
+          "name": "M. Samwald"
+        },
+        {
+          "authorId": "2870504",
+          "name": "Stephen H. Bach"
+        },
+        {
+          "authorId": "103476203",
+          "name": "Stella Biderman"
+        },
+        {
+          "authorId": "1879523878",
+          "name": "Mario Sanger"
+        },
+        {
+          "authorId": "2165371942",
+          "name": "Bo Wang"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2174177869",
+          "name": "Daniel Le'on Perin'an"
+        },
+        {
+          "authorId": "2174176862",
+          "name": "Th\u00e9o Gigant"
+        },
+        {
+          "authorId": "2298902857",
+          "name": "Patrick Haller"
+        },
+        {
+          "authorId": "2164872258",
+          "name": "Jenny Chim"
+        },
+        {
+          "authorId": "2066514466",
+          "name": "J. Posada"
+        },
+        {
+          "authorId": "37585306",
+          "name": "John Giorgi"
+        },
+        {
+          "authorId": "1601562797",
+          "name": "Karthi Sivaraman"
+        },
+        {
+          "authorId": "1850527789",
+          "name": "Marc P\u00e0mies"
+        },
+        {
+          "authorId": "2174178585",
+          "name": "Marianna Nezhurina"
+        },
+        {
+          "authorId": "2111138678",
+          "name": "Robert Martin"
+        },
+        {
+          "authorId": "120397552",
+          "name": "Michael Cullan"
+        },
+        {
+          "authorId": "1397064923",
+          "name": "M. Freidank"
+        },
+        {
+          "authorId": "48948105",
+          "name": "N. Dahlberg"
+        },
+        {
+          "authorId": "2112134877",
+          "name": "Shubhanshu Mishra"
+        },
+        {
+          "authorId": "2795685",
+          "name": "Shamik Bose"
+        },
+        {
+          "authorId": "40208102",
+          "name": "N. Broad"
+        },
+        {
+          "authorId": "2139767217",
+          "name": "Yanis Labrak"
+        },
+        {
+          "authorId": "2174177330",
+          "name": "Shlok S Deshmukh"
+        },
+        {
+          "authorId": "39620434",
+          "name": "Sid Kiblawi"
+        },
+        {
+          "authorId": "47264348",
+          "name": "Ayush Singh"
+        },
+        {
+          "authorId": "1484109150",
+          "name": "Minh Chien Vu"
+        },
+        {
+          "authorId": "10729963",
+          "name": "Trishala Neeraj"
+        },
+        {
+          "authorId": "144983077",
+          "name": "Jonas Golde"
+        },
+        {
+          "authorId": "46219923",
+          "name": "Albert Villanova del Moral"
+        },
+        {
+          "authorId": "1379935164",
+          "name": "Benjamin Beilharz"
+        }
+      ]
+    },
+    {
+      "paperId": "132fafb677d94ca753936dcc68560c0bb6d7b0f0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/132fafb677d94ca753936dcc68560c0bb6d7b0f0",
+      "title": "ACE: the Advanced Cohort Engine for searching longitudinal patient records",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2021,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1394589076",
+          "name": "Vladimir Polony"
+        },
+        {
+          "authorId": "145882108",
+          "name": "J. Posada"
+        },
+        {
+          "authorId": "2410740",
+          "name": "J. Banda"
+        },
+        {
+          "authorId": "48847750",
+          "name": "S. Gombar"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "2564d74f1c6e59a3bcb4c2c7e4f50c10eda6921f",
+      "publicationVenue": {
+        "id": "b9444cdd-c1d0-45a8-9db6-f8a53936292e",
+        "name": "JAMA Network Open",
+        "alternate_names": [
+          "JAMA Netw Open"
+        ],
+        "issn": "2574-3805"
+      },
+      "url": "https://www.semanticscholar.org/paper/2564d74f1c6e59a3bcb4c2c7e4f50c10eda6921f",
+      "title": "Assessment of Extractability and Accuracy of Electronic Health Record Data for Joint Implant Registries",
+      "venue": "JAMA Network Open",
+      "year": 2021,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "6056043",
+          "name": "N. Giori"
+        },
+        {
+          "authorId": "2077003652",
+          "name": "John Radin"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "31592365",
+          "name": "Jason Alan Fries"
+        },
+        {
+          "authorId": "4166541",
+          "name": "Eni Halilaj"
+        },
+        {
+          "authorId": "1803218",
+          "name": "Christopher R\u00e9"
+        },
+        {
+          "authorId": "3302800",
+          "name": "S. Delp"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        },
+        {
+          "authorId": "144397496",
+          "name": "Alex H. S. Harris"
+        }
+      ]
+    },
+    {
+      "paperId": "83f72ee8d57bfc1dba5e309ee31d4e5c063a8f8f",
+      "publicationVenue": {
+        "id": "d5e5b5e7-54b1-4f53-82fc-4853f3e71c58",
+        "name": "medRxiv",
+        "type": "journal",
+        "url": "https://www.medrxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/83f72ee8d57bfc1dba5e309ee31d4e5c063a8f8f",
+      "title": "Using aggregate patient data at the bedside via an on-demand consultation service",
+      "venue": "medRxiv",
+      "year": 2021,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "48847750",
+          "name": "S. Gombar"
+        },
+        {
+          "authorId": "66468888",
+          "name": "Eli M. Cahan"
+        },
+        {
+          "authorId": "145064562",
+          "name": "Kenneth Jung"
+        },
+        {
+          "authorId": "34673824",
+          "name": "E. Steinberg"
+        },
+        {
+          "authorId": "1394589076",
+          "name": "Vladimir Polony"
+        },
+        {
+          "authorId": "47277580",
+          "name": "K. Morse"
+        },
+        {
+          "authorId": "1761784",
+          "name": "R. Tibshirani"
+        },
+        {
+          "authorId": "1784682",
+          "name": "T. Hastie"
+        },
+        {
+          "authorId": "118751181",
+          "name": "R. Harrington"
+        },
+        {
+          "authorId": "1491329554",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "96131b2324c98b3ac88b76d7d5662b060b7dc22b",
+      "publicationVenue": {
+        "id": "d5e5b5e7-54b1-4f53-82fc-4853f3e71c58",
+        "name": "medRxiv",
+        "type": "journal",
+        "url": "https://www.medrxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/96131b2324c98b3ac88b76d7d5662b060b7dc22b",
+      "title": "Low adherence to existing model reporting guidelines by commonly used clinical prediction models",
+      "venue": "medRxiv",
+      "year": 2021,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2219028456",
+          "name": "J. Lu"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2052604476",
+          "name": "B. Patel"
+        },
+        {
+          "authorId": "83683652",
+          "name": "K. Morse"
+        },
+        {
+          "authorId": "40087056",
+          "name": "D. Dash"
+        },
+        {
+          "authorId": "1491329554",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "c77551b83de9ed8f951d8a56e126627df05e2b3e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c77551b83de9ed8f951d8a56e126627df05e2b3e",
+      "title": "Association of Systemic Diseases With Surgical Treatment for Obstructive Sleep Apnea Compared With Continuous Positive Airway Pressure.",
+      "venue": "JAMA Otolaryngology - Head and Neck Surgery",
+      "year": 2021,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "49507697",
+          "name": "Badr Ibrahim"
+        },
+        {
+          "authorId": "2047174124",
+          "name": "Maria Isabel de Freitas Mendonca"
+        },
+        {
+          "authorId": "48847750",
+          "name": "S. Gombar"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "145064563",
+          "name": "Kenneth Jung"
+        },
+        {
+          "authorId": "4844101",
+          "name": "R. Capasso"
+        }
+      ]
+    },
+    {
+      "paperId": "ed8b94e4ec36ddc0df4542cf83dd84c72cfe3f05",
+      "publicationVenue": {
+        "id": "37c23d10-77f1-4891-a44e-57d5285a49bf",
+        "name": "JCO Clinical Cancer Informatics",
+        "alternate_names": [
+          "JCO Clin Cancer Informatics"
+        ],
+        "issn": "2473-4276",
+        "url": "https://ascopubs.org/journal/cci/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ed8b94e4ec36ddc0df4542cf83dd84c72cfe3f05",
+      "title": "Treatment and Monitoring Variability in US Metastatic Breast Cancer Care.",
+      "venue": "JCO Clinical Cancer Informatics",
+      "year": 2021,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1403950193",
+          "name": "Jennifer L. Caswell-Jin"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "28057345",
+          "name": "N. Purington"
+        },
+        {
+          "authorId": "3885102",
+          "name": "Summer S. Han"
+        },
+        {
+          "authorId": "119687588",
+          "name": "Haruka Itakura"
+        },
+        {
+          "authorId": "143641863",
+          "name": "E. John"
+        },
+        {
+          "authorId": "4778970",
+          "name": "D. Blayney"
+        },
+        {
+          "authorId": "145080723",
+          "name": "G. Sledge"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        },
+        {
+          "authorId": "9246781",
+          "name": "A. Kurian"
+        }
+      ]
+    },
+    {
+      "paperId": "0b709d1e4ceca9c1905082d1cbe17317d774641a",
+      "publicationVenue": {
+        "id": "10aeaa7b-eb72-46ce-9823-168542246e83",
+        "name": "Journal of Neurotrauma",
+        "type": "journal",
+        "alternate_names": [
+          "J Neurotrauma"
+        ],
+        "issn": "0897-7151",
+        "url": "https://www.liebertpub.com/loi/neu",
+        "alternate_urls": [
+          "http://www.liebertpub.com/overview/journal-of-neurotrauma/39/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0b709d1e4ceca9c1905082d1cbe17317d774641a",
+      "title": "FAIR SCI Ahead: the evolution of the Open Data Commons for preclinical spinal cord injury research (ODC-SCI.org).",
+      "venue": "Journal of Neurotrauma",
+      "year": 2020,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "144065013",
+          "name": "K. Fouad"
+        },
+        {
+          "authorId": "3232945",
+          "name": "J. Bixby"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1736528",
+          "name": "J. Grethe"
+        },
+        {
+          "authorId": "4246155",
+          "name": "L. Jakeman"
+        },
+        {
+          "authorId": "3110541",
+          "name": "V. Lemmon"
+        },
+        {
+          "authorId": "46476538",
+          "name": "D. Magnuson"
+        },
+        {
+          "authorId": "2969738",
+          "name": "M. Martone"
+        },
+        {
+          "authorId": "4782760",
+          "name": "Jessica L. Nielson"
+        },
+        {
+          "authorId": "2437273",
+          "name": "J. Schwab"
+        },
+        {
+          "authorId": "1403996590",
+          "name": "C. Taylor-Burds"
+        },
+        {
+          "authorId": "3727795",
+          "name": "W. Tetzlaff"
+        },
+        {
+          "authorId": "1399472071",
+          "name": "Abel Torres-Esp\u00edn"
+        },
+        {
+          "authorId": "144410904",
+          "name": "Adam R Ferguson"
+        }
+      ]
+    },
+    {
+      "paperId": "873ef41c371bf34630a5faca0a2851305e076539",
+      "publicationVenue": {
+        "id": "d5e5b5e7-54b1-4f53-82fc-4853f3e71c58",
+        "name": "medRxiv",
+        "type": "journal",
+        "url": "https://www.medrxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/873ef41c371bf34630a5faca0a2851305e076539",
+      "title": "Measure what matters: Counts of hospitalized patients are a better metric for health system capacity planning for a reopening",
+      "venue": "medRxiv",
+      "year": 2020,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1752628613",
+          "name": "Sehj Kashyap"
+        },
+        {
+          "authorId": "48847750",
+          "name": "S. Gombar"
+        },
+        {
+          "authorId": "2856607",
+          "name": "Steve Yadlowsky"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "121010486",
+          "name": "J. Fries"
+        },
+        {
+          "authorId": "4476491",
+          "name": "B. Pinsky"
+        },
+        {
+          "authorId": "1491329554",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "8f21318b0befa8b0ddcad550b50aaf92630ce543",
+      "publicationVenue": {
+        "id": "ef485645-f75f-4344-8b9d-3c260e69503b",
+        "name": "npj Digital Medicine",
+        "alternate_names": [
+          "npj Digit Med"
+        ],
+        "issn": "2398-6352",
+        "url": "http://www.nature.com/npjdigitalmed/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8f21318b0befa8b0ddcad550b50aaf92630ce543",
+      "title": "Estimating the efficacy of symptom-based screening for COVID-19",
+      "venue": "npj Digital Medicine",
+      "year": 2020,
+      "citationCount": 51,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "34673824",
+          "name": "E. Steinberg"
+        },
+        {
+          "authorId": "31592365",
+          "name": "Jason Alan Fries"
+        },
+        {
+          "authorId": "48847750",
+          "name": "S. Gombar"
+        },
+        {
+          "authorId": "46884643",
+          "name": "Birju Patel"
+        },
+        {
+          "authorId": "46209698",
+          "name": "Conor K. Corbin"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "ceac4a4efd3e686b3f10fcee7d674ac0ce634ce9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ceac4a4efd3e686b3f10fcee7d674ac0ce634ce9",
+      "title": "Linking insurance claims across time to characterize treatment, monitoring, and end-of-life care in metastatic breast cancer.",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1403950193",
+          "name": "Jennifer L. Caswell-Jin"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "28057345",
+          "name": "N. Purington"
+        },
+        {
+          "authorId": "3885102",
+          "name": "Summer S. Han"
+        },
+        {
+          "authorId": "119687588",
+          "name": "Haruka Itakura"
+        },
+        {
+          "authorId": "145080723",
+          "name": "G. Sledge"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        },
+        {
+          "authorId": "9246781",
+          "name": "A. Kurian"
+        }
+      ]
+    },
+    {
+      "paperId": "d0780b0e4de4b2f4a56e69d3d612ed435131edc6",
+      "publicationVenue": {
+        "id": "43b3f0f9-489a-4566-8164-02fafde3cd98",
+        "name": "Nature Communications",
+        "type": "journal",
+        "alternate_names": [
+          "Nat Commun"
+        ],
+        "issn": "2041-1723",
+        "url": "https://www.nature.com/ncomms/",
+        "alternate_urls": [
+          "http://www.nature.com/ncomms/about/index.html",
+          "http://www.nature.com/ncomms/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/d0780b0e4de4b2f4a56e69d3d612ed435131edc6",
+      "title": "Ontology-driven weak supervision for clinical entity classification in electronic health records",
+      "venue": "Nature Communications",
+      "year": 2020,
+      "citationCount": 70,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "31592365",
+          "name": "Jason Alan Fries"
+        },
+        {
+          "authorId": "34673824",
+          "name": "E. Steinberg"
+        },
+        {
+          "authorId": "122333481",
+          "name": "S. Khattar"
+        },
+        {
+          "authorId": "49954923",
+          "name": "S. Fleming"
+        },
+        {
+          "authorId": "145882108",
+          "name": "J. Posada"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "f4df7e855b1c2bf002e1f6807533d63087caa82a",
+      "publicationVenue": {
+        "id": "643b0c17-99ac-463b-81c4-df44ad66e34d",
+        "name": "Annals of Internal Medicine",
+        "type": "journal",
+        "alternate_names": [
+          "Ann Intern Med"
+        ],
+        "issn": "0003-4819",
+        "url": "http://www.acponline.org/journals/annals/annaltoc.htm",
+        "alternate_urls": [
+          "http://www.annals.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f4df7e855b1c2bf002e1f6807533d63087caa82a",
+      "title": "Research and Reporting Considerations for Observational Studies Using Electronic Health Record Data",
+      "venue": "Annals of Internal Medicine",
+      "year": 2020,
+      "citationCount": 52,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        },
+        {
+          "authorId": "1421788668",
+          "name": "Jonathan H. Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "342b064ae7d707f97303c352a719e8dfcfde6452",
+      "publicationVenue": {
+        "id": "a5913268-3957-484f-b41f-347b0ba23338",
+        "name": "Journal of Clinical Oncology",
+        "type": "journal",
+        "alternate_names": [
+          "J Clin Oncol"
+        ],
+        "issn": "0732-183X",
+        "url": "https://ascopubs.org/loi/jco",
+        "alternate_urls": [
+          "http://www.jco.org/",
+          "http://jco.ascopubs.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/342b064ae7d707f97303c352a719e8dfcfde6452",
+      "title": "Real-world efficacy of bone modifying agents (BMAs) in patients with breast cancer (BC) treated in an academic health system: Use of the \u201cgreen button.",
+      "venue": "Journal of Clinical Oncology",
+      "year": 2019,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2106325948",
+          "name": "Y. Karimi"
+        },
+        {
+          "authorId": "48847750",
+          "name": "S. Gombar"
+        },
+        {
+          "authorId": "147299123",
+          "name": "Latanya Dean"
+        },
+        {
+          "authorId": "2107831997",
+          "name": "J. Hansen"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "145064563",
+          "name": "Kenneth Jung"
+        },
+        {
+          "authorId": "80489984",
+          "name": "V. Divi"
+        },
+        {
+          "authorId": "4778970",
+          "name": "D. Blayney"
+        }
+      ]
+    },
+    {
+      "paperId": "4c15e100af8e23b5e9cff66f6be78610b330114d",
+      "publicationVenue": {
+        "id": "428c04d8-ea7f-4b27-bb65-afd170194217",
+        "name": "JMIR Public Health and Surveillance",
+        "type": "journal",
+        "alternate_names": [
+          "JMIR public health surveill",
+          "JMIR Public Health Surveill",
+          "JMIR public health and surveillance"
+        ],
+        "issn": "2369-2960",
+        "url": "https://publichealth.jmir.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4c15e100af8e23b5e9cff66f6be78610b330114d",
+      "title": "Early Detection of Adverse Drug Reactions in Social Health Networks: A Natural Language Processing Pipeline for Signal Detection",
+      "venue": "JMIR Public Health and Surveillance",
+      "year": 2019,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1902199",
+          "name": "Azadeh Nikfarjam"
+        },
+        {
+          "authorId": "48784552",
+          "name": "J. Ransohoff"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "13581965",
+          "name": "E. Jones"
+        },
+        {
+          "authorId": "145030018",
+          "name": "B. Loew"
+        },
+        {
+          "authorId": "7384350",
+          "name": "B. Kwong"
+        },
+        {
+          "authorId": "6439350",
+          "name": "K. Sarin"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "6197ce0fab880849d291735c7a374118c9734898",
+      "publicationVenue": {
+        "id": "6c68e781-5ebc-47cf-a4a0-77b077106aef",
+        "name": "BMC Medical Research Methodology",
+        "type": "journal",
+        "alternate_names": [
+          "BMC Med Res Methodol"
+        ],
+        "issn": "1471-2288",
+        "url": "http://www.biomedcentral.com/bmcmedresmethodol/",
+        "alternate_urls": [
+          "https://bmcmedresmethodol.biomedcentral.com/",
+          "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=43",
+          "https://link.springer.com/journal/12874"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6197ce0fab880849d291735c7a374118c9734898",
+      "title": "Feasibility and evaluation of a large-scale external validation approach for patient-level prediction in an international data network: validation of models predicting stroke in female patients newly diagnosed with atrial fibrillation",
+      "venue": "BMC Medical Research Methodology",
+      "year": 2019,
+      "citationCount": 32,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2090454",
+          "name": "J. Reps"
+        },
+        {
+          "authorId": "1675571801",
+          "name": "Ross D. Williams"
+        },
+        {
+          "authorId": "35526457",
+          "name": "S. You"
+        },
+        {
+          "authorId": "2067019412",
+          "name": "T. Falconer"
+        },
+        {
+          "authorId": "3459304",
+          "name": "E. Minty"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "32192623",
+          "name": "P. Ryan"
+        },
+        {
+          "authorId": "1731706",
+          "name": "R. W. Park"
+        },
+        {
+          "authorId": "9866836",
+          "name": "H. Lim"
+        },
+        {
+          "authorId": "1983061",
+          "name": "P. Rijnbeek"
+        }
+      ]
+    },
+    {
+      "paperId": "6ff965d20c450af28a74243d9d3b195b1dddd218",
+      "publicationVenue": {
+        "id": "8cd0658b-273f-4a78-9262-bae6eea40607",
+        "name": "Journal of the American College of Cardiology",
+        "type": "journal",
+        "alternate_names": [
+          "J Am Coll Cardiol",
+          "Journal of the American college of cardiology",
+          "J Am coll cardiol"
+        ],
+        "issn": "1790-5257",
+        "alternate_issns": [
+          "1975-8030",
+          "0735-1097",
+          "2214-997X"
+        ],
+        "url": "http://asia.elsevierhealth.com/",
+        "alternate_urls": [
+          "http://content.onlinejacc.org/",
+          "http://www.sciencedirect.com/science/journal/07351097"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6ff965d20c450af28a74243d9d3b195b1dddd218",
+      "title": "CARDIOVASCULAR SAFETY OF MEXILETINE AS A THERAPY FOR MYOTONIA IN PATIENTS WITH MYOTONIC DYSTROPHY",
+      "venue": "Journal of the American College of Cardiology",
+      "year": 2019,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "145457320",
+          "name": "J. Rhee"
+        },
+        {
+          "authorId": "48847750",
+          "name": "S. Gombar"
+        },
+        {
+          "authorId": "47048129",
+          "name": "K. Beutner"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "145064563",
+          "name": "Kenneth Jung"
+        },
+        {
+          "authorId": "3200394",
+          "name": "M. Wheeler"
+        }
+      ]
+    },
+    {
+      "paperId": "81caaa9bbe5193151c660831f4d520215137d754",
+      "publicationVenue": {
+        "id": "811a7a2a-70ce-4bde-9f59-dd8bb126e30f",
+        "name": "JAMIA Open",
+        "issn": "2574-2531"
+      },
+      "url": "https://www.semanticscholar.org/paper/81caaa9bbe5193151c660831f4d520215137d754",
+      "title": "Profiling off-label prescriptions in cancer treatment using social health networks",
+      "venue": "JAMIA Open",
+      "year": 2019,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1902199",
+          "name": "Azadeh Nikfarjam"
+        },
+        {
+          "authorId": "48784552",
+          "name": "J. Ransohoff"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1394589076",
+          "name": "Vladimir Polony"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "98cea44dd1c913c791e887bb44ce27ce718cca58",
+      "publicationVenue": {
+        "id": "ef485645-f75f-4344-8b9d-3c260e69503b",
+        "name": "npj Digital Medicine",
+        "alternate_names": [
+          "npj Digit Med"
+        ],
+        "issn": "2398-6352",
+        "url": "http://www.nature.com/npjdigitalmed/"
+      },
+      "url": "https://www.semanticscholar.org/paper/98cea44dd1c913c791e887bb44ce27ce718cca58",
+      "title": "Medical device surveillance with electronic health records",
+      "venue": "npj Digital Medicine",
+      "year": 2019,
+      "citationCount": 51,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "31592365",
+          "name": "Jason Alan Fries"
+        },
+        {
+          "authorId": "2114485554",
+          "name": "C. R\u00e9"
+        },
+        {
+          "authorId": "144961120",
+          "name": "J. Huddleston"
+        },
+        {
+          "authorId": "6056043",
+          "name": "N. Giori"
+        },
+        {
+          "authorId": "3302800",
+          "name": "S. Delp"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "c9885fa46c164b4a919dfb67efbd5deb9ba44005",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c9885fa46c164b4a919dfb67efbd5deb9ba44005",
+      "title": "Learning Across a Healthcare Data Network to Improve Model Robustness and Evidence Reliability",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2763493",
+          "name": "No\u00e9mie Elhadad"
+        },
+        {
+          "authorId": "2721916",
+          "name": "I\u00f1igo Urteaga"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2090454",
+          "name": "J. Reps"
+        },
+        {
+          "authorId": "32192623",
+          "name": "P. Ryan"
+        }
+      ]
+    },
+    {
+      "paperId": "cb24c76bcecce4f5d7d40ccfbc55029bd7c3ddce",
+      "publicationVenue": {
+        "id": "ef485645-f75f-4344-8b9d-3c260e69503b",
+        "name": "npj Digital Medicine",
+        "alternate_names": [
+          "npj Digit Med"
+        ],
+        "issn": "2398-6352",
+        "url": "http://www.nature.com/npjdigitalmed/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cb24c76bcecce4f5d7d40ccfbc55029bd7c3ddce",
+      "title": "It is time to learn from patients like mine",
+      "venue": "npj Digital Medicine",
+      "year": 2019,
+      "citationCount": 37,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48847750",
+          "name": "S. Gombar"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2052004",
+          "name": "R. Califf"
+        },
+        {
+          "authorId": "1932201",
+          "name": "R. Harrington"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "ccae7a4ffb6aa7cec73c4784a96212f16cee113c",
+      "publicationVenue": {
+        "id": "f20432ac-3c14-4779-bc66-2f24e1b2715e",
+        "name": "Open Forum Infectious Diseases",
+        "type": "journal",
+        "alternate_names": [
+          "Open Forum Infect Dis"
+        ],
+        "issn": "2328-8957"
+      },
+      "url": "https://www.semanticscholar.org/paper/ccae7a4ffb6aa7cec73c4784a96212f16cee113c",
+      "title": "210. Step-down from IV to oral therapy in patients with bacteremia due to Enterobacteriaceae: fluoroquinolones (FQ) vs. \u00df-lactams (BL) or trimethoprim-sulfamethoxazole (TMP-SMX)",
+      "venue": "Open Forum Infectious Diseases",
+      "year": 2019,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "48153742",
+          "name": "Lina Meng"
+        },
+        {
+          "authorId": "48847750",
+          "name": "S. Gombar"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "145064563",
+          "name": "Kenneth Jung"
+        },
+        {
+          "authorId": "9545193",
+          "name": "M. Holubar"
+        },
+        {
+          "authorId": "2099754032",
+          "name": "Amy Chang"
+        },
+        {
+          "authorId": "16177577",
+          "name": "Emily Mui"
+        },
+        {
+          "authorId": "153546228",
+          "name": "S. Deresinski"
+        }
+      ]
+    },
+    {
+      "paperId": "eed9b871f3aa54982ec1c81002ddb808593916a4",
+      "publicationVenue": {
+        "id": "07e8fb32-f6f7-4ed8-93c9-d758472ce745",
+        "name": "Reactions weekly",
+        "type": "journal",
+        "alternate_names": [
+          "Reactions Weekly",
+          "React wkly",
+          "React Wkly"
+        ],
+        "issn": "0114-9954",
+        "url": "http://adisonline.com/reactions/pages/default.aspx",
+        "alternate_urls": [
+          "https://link.springer.com/journal/volumesAndIssues/40278"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/eed9b871f3aa54982ec1c81002ddb808593916a4",
+      "title": "Cardiovascular events with second-line antidiabetic medication",
+      "venue": "Reactions weekly",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        }
+      ]
+    },
+    {
+      "paperId": "15fdfbbe2fb9d79abe636976eea15d52a156c6f2",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/15fdfbbe2fb9d79abe636976eea15d52a156c6f2",
+      "title": "Early Detection of Adverse Drug Reactions in Social Health Networks: A Natural Language Processing Pipeline for Signal Detection (Preprint)",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1902199",
+          "name": "Azadeh Nikfarjam"
+        },
+        {
+          "authorId": "48784552",
+          "name": "J. Ransohoff"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2147380362",
+          "name": "E. Jones"
+        },
+        {
+          "authorId": "145030018",
+          "name": "B. Loew"
+        },
+        {
+          "authorId": "7384350",
+          "name": "B. Kwong"
+        },
+        {
+          "authorId": "6439350",
+          "name": "K. Sarin"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "2514da768c69b6e3a135b9c011e33a944db8c8f1",
+      "publicationVenue": {
+        "id": "6c8c2afc-7abf-4f41-a2ea-a673c67ab017",
+        "name": "Statistics in Medicine",
+        "type": "journal",
+        "alternate_names": [
+          "Stat Med"
+        ],
+        "issn": "0277-6715",
+        "url": "http://www.interscience.wiley.com/jpages/0277-6715/",
+        "alternate_urls": [
+          "http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291097-0258",
+          "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0258",
+          "https://onlinelibrary.wiley.com/journal/10970258"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2514da768c69b6e3a135b9c011e33a944db8c8f1",
+      "title": "Comparing methods for estimation of heterogeneous treatment effects using observational data from health care databases",
+      "venue": "Statistics in Medicine",
+      "year": 2018,
+      "citationCount": 107,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2229619301",
+          "name": "Thierry Wendling"
+        },
+        {
+          "authorId": "145064562",
+          "name": "Kenneth Jung"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "16265051",
+          "name": "Alejandro Schuler"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        },
+        {
+          "authorId": "145497572",
+          "name": "B. Gallego"
+        }
+      ]
+    },
+    {
+      "paperId": "3b11c148a230c2776794ce4fffd31b35f4ac157c",
+      "publicationVenue": {
+        "id": "b6f15cbe-f802-4c5e-a65c-41d3bff95983",
+        "name": "Pharmaceutical Medicine",
+        "type": "journal",
+        "alternate_names": [
+          "Pharmaceutical medicine",
+          "Pharm Med",
+          "Pharm med"
+        ],
+        "issn": "1178-2595",
+        "alternate_issns": [
+          "0265-0673"
+        ],
+        "url": "https://www.springer.com/adis/journal/40290",
+        "alternate_urls": [
+          "https://link.springer.com/journal/40290"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3b11c148a230c2776794ce4fffd31b35f4ac157c",
+      "title": "Acknowledgement to Referees",
+      "venue": "Pharmaceutical Medicine",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "4848450",
+          "name": "L. Aagaard"
+        },
+        {
+          "authorId": "14671838",
+          "name": "Matthew M. Abernathy"
+        },
+        {
+          "authorId": "3871567",
+          "name": "O. Adejumo"
+        },
+        {
+          "authorId": "3736407",
+          "name": "K. Bloem"
+        },
+        {
+          "authorId": "9548676",
+          "name": "L. Bloem"
+        },
+        {
+          "authorId": "6349772",
+          "name": "J. Bouvy"
+        },
+        {
+          "authorId": "1384303519",
+          "name": "Z. \u00c7al\u0131\u015fkan"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "39783932",
+          "name": "Hillel P. Cohen"
+        },
+        {
+          "authorId": "1388245819",
+          "name": "Mitch Conover"
+        },
+        {
+          "authorId": "40658005",
+          "name": "S. Cr\u00e9pin"
+        },
+        {
+          "authorId": "145311720",
+          "name": "M. Curtis"
+        },
+        {
+          "authorId": "113078420",
+          "name": "S. Dahl\u00e9n"
+        },
+        {
+          "authorId": "48229458",
+          "name": "S. Dalal"
+        },
+        {
+          "authorId": "4542010",
+          "name": "G. Danan"
+        },
+        {
+          "authorId": "1381734247",
+          "name": "France Eric Deconinck"
+        },
+        {
+          "authorId": "1381734252",
+          "name": "Alexander Nii"
+        },
+        {
+          "authorId": "1381734130",
+          "name": "Oto Dodoo"
+        },
+        {
+          "authorId": "4173193",
+          "name": "L. Endrenyi"
+        },
+        {
+          "authorId": "5713963",
+          "name": "S. Eremenco"
+        },
+        {
+          "authorId": "3546707",
+          "name": "A. E\u015fkazan"
+        },
+        {
+          "authorId": "4065712",
+          "name": "J. Fadare"
+        },
+        {
+          "authorId": "49561229",
+          "name": "A. Fathallah"
+        },
+        {
+          "authorId": "144730454",
+          "name": "Rafael Fonseca"
+        },
+        {
+          "authorId": "144583598",
+          "name": "D. T. Graham"
+        },
+        {
+          "authorId": "2059753564",
+          "name": "A. R. Hart"
+        },
+        {
+          "authorId": "39009236",
+          "name": "A. Hochberg"
+        },
+        {
+          "authorId": "143688079",
+          "name": "D. Holt"
+        },
+        {
+          "authorId": "144974415",
+          "name": "A. Isah"
+        }
+      ]
+    },
+    {
+      "paperId": "3dfaa5cbb7ec2e3d701d14f56830c406e5ba94c9",
+      "publicationVenue": {
+        "id": "b9444cdd-c1d0-45a8-9db6-f8a53936292e",
+        "name": "JAMA Network Open",
+        "alternate_names": [
+          "JAMA Netw Open"
+        ],
+        "issn": "2574-3805"
+      },
+      "url": "https://www.semanticscholar.org/paper/3dfaa5cbb7ec2e3d701d14f56830c406e5ba94c9",
+      "title": "A Second Opinion From Observational Data on Second-line Diabetes Drugs.",
+      "venue": "JAMA Network Open",
+      "year": 2018,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "4a50bd406bcd5f194825e83804f78a0a8a726ae9",
+      "publicationVenue": {
+        "id": "b9444cdd-c1d0-45a8-9db6-f8a53936292e",
+        "name": "JAMA Network Open",
+        "alternate_names": [
+          "JAMA Netw Open"
+        ],
+        "issn": "2574-3805"
+      },
+      "url": "https://www.semanticscholar.org/paper/4a50bd406bcd5f194825e83804f78a0a8a726ae9",
+      "title": "Association of Hemoglobin A1c Levels With Use of Sulfonylureas, Dipeptidyl Peptidase 4 Inhibitors, and Thiazolidinediones in Patients With Type 2 Diabetes Treated With Metformin",
+      "venue": "JAMA Network Open",
+      "year": 2018,
+      "citationCount": 57,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "47245031",
+          "name": "R. Vashisht"
+        },
+        {
+          "authorId": "145064563",
+          "name": "Kenneth Jung"
+        },
+        {
+          "authorId": "16265051",
+          "name": "Alejandro Schuler"
+        },
+        {
+          "authorId": "2410740",
+          "name": "J. Banda"
+        },
+        {
+          "authorId": "1731706",
+          "name": "R. W. Park"
+        },
+        {
+          "authorId": "2565170",
+          "name": "Sanghyung Jin"
+        },
+        {
+          "authorId": "2156055664",
+          "name": "Li Li"
+        },
+        {
+          "authorId": "13964487",
+          "name": "J. Dudley"
+        },
+        {
+          "authorId": "10776200",
+          "name": "Kipp W. Johnson"
+        },
+        {
+          "authorId": "41150621",
+          "name": "Mark M. Shervey"
+        },
+        {
+          "authorId": "2118872041",
+          "name": "Hua Xu"
+        },
+        {
+          "authorId": "2115859099",
+          "name": "Yonghui Wu"
+        },
+        {
+          "authorId": "2147257582",
+          "name": "Karthik Natrajan"
+        },
+        {
+          "authorId": "1686114",
+          "name": "G. Hripcsak"
+        },
+        {
+          "authorId": "2070027704",
+          "name": "Peng Jin"
+        },
+        {
+          "authorId": "66683891",
+          "name": "Mui Van Zandt"
+        },
+        {
+          "authorId": "66778499",
+          "name": "Anthony Reckard"
+        },
+        {
+          "authorId": "7872438",
+          "name": "C. Reich"
+        },
+        {
+          "authorId": "37130237",
+          "name": "J. Weaver"
+        },
+        {
+          "authorId": "2904133",
+          "name": "M. Schuemie"
+        },
+        {
+          "authorId": "32192623",
+          "name": "P. Ryan"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "4fdbde2653d8615cccb40d47dbad905c6fd057f0",
+      "publicationVenue": {
+        "id": "62924b2a-8fb8-4b93-92c6-735516b49af0",
+        "name": "Scientific Data",
+        "type": "journal",
+        "alternate_names": [
+          "Sci Data"
+        ],
+        "issn": "2052-4463",
+        "url": "http://www.nature.com/sdata/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4fdbde2653d8615cccb40d47dbad905c6fd057f0",
+      "title": "U-Index, a dataset and an impact metric for informatics tools and databases",
+      "venue": "Scientific Data",
+      "year": 2018,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2931137",
+          "name": "R. Winnenburg"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "71629af8e7be33da56ebaf532ce397e653a16631",
+      "publicationVenue": {
+        "id": "f80195fb-14b8-48fd-a5e4-c1ff01b01410",
+        "name": "Journal of the American College of Radiology",
+        "type": "journal",
+        "alternate_names": [
+          "J Am Coll Radiol",
+          "Journal of The American College of Radiology"
+        ],
+        "issn": "1546-1440",
+        "url": "http://www.sciencedirect.com/science/journal/15461440",
+        "alternate_urls": [
+          "https://www.jacr.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/71629af8e7be33da56ebaf532ce397e653a16631",
+      "title": "Performing an Informatics Consult: Methods and Challenges.",
+      "venue": "Journal of the American College of Radiology",
+      "year": 2018,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "16265051",
+          "name": "Alejandro Schuler"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "145064562",
+          "name": "Kenneth Jung"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "1e0ad5a5c771b9beac99b18175ecc71b5d1a7e34",
+      "publicationVenue": {
+        "id": "1da23fa7-10d9-44df-b40f-6e2aab3bb8f0",
+        "name": "Experimental Neurology",
+        "type": "journal",
+        "alternate_names": [
+          "Exp Neurol"
+        ],
+        "issn": "0014-4886",
+        "url": "http://www.academicpress.com/www/journal/en.htm",
+        "alternate_urls": [
+          "http://www.journals.elsevier.com/experimental-neurology",
+          "http://www.sciencedirect.com/science/journal/00144886",
+          "https://www.journals.elsevier.com/experimental-neurology"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/1e0ad5a5c771b9beac99b18175ecc71b5d1a7e34",
+      "title": "Developing a data sharing community for spinal cord injury research",
+      "venue": "Experimental Neurology",
+      "year": 2017,
+      "citationCount": 48,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "114261327",
+          "name": "K. Anderson"
+        },
+        {
+          "authorId": "40245062",
+          "name": "M. Beattie"
+        },
+        {
+          "authorId": "3232945",
+          "name": "J. Bixby"
+        },
+        {
+          "authorId": "144410904",
+          "name": "Adam R Ferguson"
+        },
+        {
+          "authorId": "144065013",
+          "name": "K. Fouad"
+        },
+        {
+          "authorId": "4246155",
+          "name": "L. Jakeman"
+        },
+        {
+          "authorId": "4782760",
+          "name": "Jessica L. Nielson"
+        },
+        {
+          "authorId": "1705133",
+          "name": "P. Popovich"
+        },
+        {
+          "authorId": "2437273",
+          "name": "J. Schwab"
+        },
+        {
+          "authorId": "3110541",
+          "name": "V. Lemmon"
+        }
+      ]
+    },
+    {
+      "paperId": "d849873201a042956ae928dc2b09fb87d5fca9fc",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d849873201a042956ae928dc2b09fb87d5fca9fc",
+      "title": "Machine Learning in Healthcare",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1491329554",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "f9200a172a73ad38e7172a221f491bc28da6d09c",
+      "publicationVenue": {
+        "id": "0d67273f-71c8-43f4-a642-9c384870ccb2",
+        "name": "Circulation",
+        "type": "journal",
+        "issn": "0009-7322",
+        "url": "http://gateway.ovid.com/ovidweb.cgi?AN=00002060-000000000-00000&D=ovft&MODE=ovid&NEWS=N&PAGE=toc&T=JS",
+        "alternate_urls": [
+          "http://circ.ahajournals.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f9200a172a73ad38e7172a221f491bc28da6d09c",
+      "title": "Abstract 21307: Beta-Blockers Inferior to Calcium Channel Blockers in Hypertrophic Cardiomyopathy",
+      "venue": "Circulation",
+      "year": 2017,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "48847750",
+          "name": "S. Gombar"
+        },
+        {
+          "authorId": "14123432",
+          "name": "K. Moneghetti"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "145064563",
+          "name": "Kenneth Jung"
+        },
+        {
+          "authorId": "3200394",
+          "name": "M. Wheeler"
+        }
+      ]
+    },
+    {
+      "paperId": "144af581b0624971ca4e0f71f83014b2ff76ba1d",
+      "publicationVenue": {
+        "id": "bf8c915b-282b-4817-987d-62e47e42d5e1",
+        "name": "Pacific Symposium on Biocomputing",
+        "type": "conference",
+        "alternate_names": [
+          "PSB",
+          "Pac Symp Biocomput"
+        ],
+        "url": "http://psb.stanford.edu/"
+      },
+      "url": "https://www.semanticscholar.org/paper/144af581b0624971ca4e0f71f83014b2ff76ba1d",
+      "title": "Discovering Patient Phenotypes Using Generalized Low Rank Models",
+      "venue": "Pacific Symposium on Biocomputing",
+      "year": 2016,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "16265051",
+          "name": "Alejandro Schuler"
+        },
+        {
+          "authorId": "39717165",
+          "name": "V. Liu"
+        },
+        {
+          "authorId": "10660212",
+          "name": "J. Wan"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2384128",
+          "name": "Madeleine Udell"
+        },
+        {
+          "authorId": "48095761",
+          "name": "David E. Stark"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "1b0c14c4adcbc3a6be971df3259a9daa4057a1e9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1b0c14c4adcbc3a6be971df3259a9daa4057a1e9",
+      "title": "Elucidating effects of nerve injury on gene expression using RegenBase",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "39568699",
+          "name": "M. Danzi"
+        },
+        {
+          "authorId": "37949902",
+          "name": "Giulia Zunino"
+        },
+        {
+          "authorId": "144944548",
+          "name": "Daniel J. Cooper"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        },
+        {
+          "authorId": "1765935",
+          "name": "U. Visser"
+        },
+        {
+          "authorId": "3232945",
+          "name": "J. Bixby"
+        },
+        {
+          "authorId": "3110541",
+          "name": "V. Lemmon"
+        }
+      ]
+    },
+    {
+      "paperId": "dee8b204ae75ed4426e141e81a92dff22c1f4e93",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/dee8b204ae75ed4426e141e81a92dff22c1f4e93",
+      "title": "RegenBase: a knowledge base of spinal cord injury biology for translational research",
+      "venue": "Database J. Biol. Databases Curation",
+      "year": 2016,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2394165",
+          "name": "Saminda Abeyruwan"
+        },
+        {
+          "authorId": "146865108",
+          "name": "H. Al-Ali"
+        },
+        {
+          "authorId": "2806102",
+          "name": "Kunie Sakurai"
+        },
+        {
+          "authorId": "144410904",
+          "name": "Adam R Ferguson"
+        },
+        {
+          "authorId": "1705133",
+          "name": "P. Popovich"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        },
+        {
+          "authorId": "1765935",
+          "name": "U. Visser"
+        },
+        {
+          "authorId": "3232945",
+          "name": "J. Bixby"
+        },
+        {
+          "authorId": "3110541",
+          "name": "V. Lemmon"
+        }
+      ]
+    },
+    {
+      "paperId": "1fb07a8226653145005a6e5208fd01de5a810244",
+      "publicationVenue": {
+        "id": "2baad992-2268-4c38-9120-e453622f2eeb",
+        "name": "Journal of Medical Internet Research",
+        "type": "journal",
+        "alternate_names": [
+          "J Med Internet Res"
+        ],
+        "issn": "1438-8871",
+        "url": "http://www.symposion.com/jmir/index.htm",
+        "alternate_urls": [
+          "http://www.jmir.org/",
+          "https://www.jmir.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/1fb07a8226653145005a6e5208fd01de5a810244",
+      "title": "Analyzing Information Seeking and Drug-Safety Alert Response by Health Care Professionals as New Methods for Surveillance",
+      "venue": "Journal of Medical Internet Research",
+      "year": 2015,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1710947",
+          "name": "Igor Pernek"
+        },
+        {
+          "authorId": "2971162",
+          "name": "G. \u0160tiglic"
+        },
+        {
+          "authorId": "1702139",
+          "name": "J. Leskovec"
+        },
+        {
+          "authorId": "3026900",
+          "name": "H. Strasberg"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "ad948c7b002a929f5950b02c1317648e41057343",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ad948c7b002a929f5950b02c1317648e41057343",
+      "title": "Dataset Descriptions: HCLS Community Profile",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "34071005",
+          "name": "A. Gray"
+        },
+        {
+          "authorId": "3246027",
+          "name": "J. Baran"
+        },
+        {
+          "authorId": "145394742",
+          "name": "M. S. Marshall"
+        },
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        },
+        {
+          "authorId": "1879067",
+          "name": "V. Alexiev"
+        },
+        {
+          "authorId": "2530001",
+          "name": "P. Ansell"
+        },
+        {
+          "authorId": "144937305",
+          "name": "Gary D Bader"
+        },
+        {
+          "authorId": "11657321",
+          "name": "Asuka Bando"
+        },
+        {
+          "authorId": "3349310",
+          "name": "Jerven T. Bolleman"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1403851557",
+          "name": "Jose Cruz-Toledo"
+        },
+        {
+          "authorId": "1873696",
+          "name": "P. Gaudet"
+        },
+        {
+          "authorId": "145404788",
+          "name": "E. Gombocz"
+        },
+        {
+          "authorId": "1401553965",
+          "name": "Alejandra N. Gonz\u00e1lez-Beltr\u00e1n"
+        },
+        {
+          "authorId": "1727784",
+          "name": "Paul T. Groth"
+        },
+        {
+          "authorId": "1976792",
+          "name": "M. Haendel"
+        },
+        {
+          "authorId": "2102205",
+          "name": "Maori Ito"
+        },
+        {
+          "authorId": "1740795",
+          "name": "S. Jupp"
+        },
+        {
+          "authorId": "50790096",
+          "name": "N. Juty"
+        },
+        {
+          "authorId": "3222277",
+          "name": "Toshiaki Katayama"
+        },
+        {
+          "authorId": "2307143",
+          "name": "Norio Kobayashi"
+        },
+        {
+          "authorId": "47446089",
+          "name": "Kalpana Krishnaswami"
+        },
+        {
+          "authorId": "3054798",
+          "name": "Camille Laibe"
+        },
+        {
+          "authorId": "8098752",
+          "name": "N. Nov\u00e8re"
+        },
+        {
+          "authorId": "2107932062",
+          "name": "Simon Lin"
+        },
+        {
+          "authorId": "143970570",
+          "name": "J. Malone"
+        },
+        {
+          "authorId": "2116728129",
+          "name": "Michael I. Miller"
+        },
+        {
+          "authorId": "52038267",
+          "name": "C. Mungall"
+        },
+        {
+          "authorId": "2843742",
+          "name": "Laurens Rietveld"
+        },
+        {
+          "authorId": "2277490",
+          "name": "Sarala M. Wimalaratne"
+        },
+        {
+          "authorId": "2159388",
+          "name": "Atsuko Yamaguchi"
+        }
+      ]
+    },
+    {
+      "paperId": "e327f1d818d2cc5068c7ec30705ea1294be51b60",
+      "publicationVenue": {
+        "id": "be3f884c-b44a-496a-a593-1cad3f89d254",
+        "name": "BMC Bioinformatics",
+        "type": "journal",
+        "alternate_names": [
+          "BMC Bioinform"
+        ],
+        "issn": "1471-2105",
+        "url": "http://www.biomedcentral.com/bmcbioinformatics",
+        "alternate_urls": [
+          "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=13",
+          "http://www.biomedcentral.com/bmcbioinformatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e327f1d818d2cc5068c7ec30705ea1294be51b60",
+      "title": "An evidence-based approach to identify aging-related genes in Caenorhabditis elegans",
+      "venue": "BMC Bioinformatics",
+      "year": 2015,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Biology",
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2061636355",
+          "name": "Juan Cifuentes"
+        },
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        }
+      ]
+    },
+    {
+      "paperId": "f034bf14402add550be102d99a18234419b7caf3",
+      "publicationVenue": {
+        "id": "8a29d48c-16af-49a1-8c20-f7c7bbc7cf66",
+        "name": "Drug Safety",
+        "type": "journal",
+        "alternate_names": [
+          "Drug Saf"
+        ],
+        "issn": "0114-5916",
+        "url": "https://link.springer.com/journal/40264"
+      },
+      "url": "https://www.semanticscholar.org/paper/f034bf14402add550be102d99a18234419b7caf3",
+      "title": "Feasibility of Prioritizing Drug\u2013Drug-Event Associations Found in Electronic Health Records",
+      "venue": "Drug Safety",
+      "year": 2015,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2410740",
+          "name": "J. Banda"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2931137",
+          "name": "R. Winnenburg"
+        },
+        {
+          "authorId": "3026900",
+          "name": "H. Strasberg"
+        },
+        {
+          "authorId": "1759811",
+          "name": "A. Cami"
+        },
+        {
+          "authorId": "2475283",
+          "name": "Ben Y. Reis"
+        },
+        {
+          "authorId": "145111251",
+          "name": "S. Vilar"
+        },
+        {
+          "authorId": "1686114",
+          "name": "G. Hripcsak"
+        },
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "0748362466f02bf939e9a58a79062cbd73c7c71e",
+      "publicationVenue": {
+        "id": "efa3ff7a-4d96-44a1-a022-a683408919b6",
+        "name": "International Workshop on the Semantic Web",
+        "type": "conference",
+        "alternate_names": [
+          "SemWeb",
+          "Int Workshop Semantic Web"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0748362466f02bf939e9a58a79062cbd73c7c71e",
+      "title": "Bio2RDF Release 3: A larger, more connected network of Linked Data for the Life Sciences",
+      "venue": "International Workshop on the Semantic Web",
+      "year": 2014,
+      "citationCount": 72,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1403851557",
+          "name": "Jose Cruz-Toledo"
+        },
+        {
+          "authorId": "2530001",
+          "name": "P. Ansell"
+        },
+        {
+          "authorId": "2467370",
+          "name": "Vincent Emonet"
+        },
+        {
+          "authorId": "2000896",
+          "name": "F. Belleau"
+        },
+        {
+          "authorId": "2343798019",
+          "name": "Arnaud Droit"
+        }
+      ]
+    },
+    {
+      "paperId": "10492c53ef0e17a1d2f32e9a37da36a07e60a75a",
+      "publicationVenue": {
+        "id": "bf8c915b-282b-4817-987d-62e47e42d5e1",
+        "name": "Pacific Symposium on Biocomputing",
+        "type": "conference",
+        "alternate_names": [
+          "PSB",
+          "Pac Symp Biocomput"
+        ],
+        "url": "http://psb.stanford.edu/"
+      },
+      "url": "https://www.semanticscholar.org/paper/10492c53ef0e17a1d2f32e9a37da36a07e60a75a",
+      "title": "Analyzing Search Behavior of Healthcare Professionals for Drug Safety Surveillance",
+      "venue": "Pacific Symposium on Biocomputing",
+      "year": 2014,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47806040",
+          "name": "David J. Odgers"
+        },
+        {
+          "authorId": "3270932",
+          "name": "R. Harpaz"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2971162",
+          "name": "G. \u0160tiglic"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "2283764265645435c51c1e75ab34b45e7daa023e",
+      "publicationVenue": {
+        "id": "eaa831b9-4740-4277-bdd0-6994ed487095",
+        "name": "Journal of Biomedical Semantics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Semant"
+        ],
+        "issn": "2041-1480",
+        "url": "http://www.jbiomedsem.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2283764265645435c51c1e75ab34b45e7daa023e",
+      "title": "Automatically exposing OpenLifeData via SADI semantic Web Services",
+      "venue": "Journal of Biomedical Semantics",
+      "year": 2014,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2203136583",
+          "name": "A. R. Gonz\u00e1lez"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1403851557",
+          "name": "Jose Cruz-Toledo"
+        },
+        {
+          "authorId": "2157758626",
+          "name": "A. Garc\u00eda"
+        },
+        {
+          "authorId": "3946134",
+          "name": "Mikel Ega\u00f1a Aranguren"
+        },
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        },
+        {
+          "authorId": "31764087",
+          "name": "Mark D. Wilkinson"
+        }
+      ]
+    },
+    {
+      "paperId": "2645b298dff8c9d15062802a2170052101e552cd",
+      "publicationVenue": {
+        "id": "8a29d48c-16af-49a1-8c20-f7c7bbc7cf66",
+        "name": "Drug Safety",
+        "type": "journal",
+        "alternate_names": [
+          "Drug Saf"
+        ],
+        "issn": "0114-5916",
+        "url": "https://link.springer.com/journal/40264"
+      },
+      "url": "https://www.semanticscholar.org/paper/2645b298dff8c9d15062802a2170052101e552cd",
+      "title": "Text Mining for Adverse Drug Events: the Promise, Challenges, and State of the Art",
+      "venue": "Drug Safety",
+      "year": 2014,
+      "citationCount": 216,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3270932",
+          "name": "R. Harpaz"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2364709",
+          "name": "S. Tamang"
+        },
+        {
+          "authorId": "10765063",
+          "name": "Yen S. Low"
+        },
+        {
+          "authorId": "47806040",
+          "name": "David J. Odgers"
+        },
+        {
+          "authorId": "12532947",
+          "name": "Sam Finlayson"
+        },
+        {
+          "authorId": "145064562",
+          "name": "Kenneth Jung"
+        },
+        {
+          "authorId": "1765304",
+          "name": "P. LePendu"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "c53692ba562818cf8488bd03936eaac9de42d2bf",
+      "publicationVenue": {
+        "id": "eaa831b9-4740-4277-bdd0-6994ed487095",
+        "name": "Journal of Biomedical Semantics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Semant"
+        ],
+        "issn": "2041-1480",
+        "url": "http://www.jbiomedsem.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c53692ba562818cf8488bd03936eaac9de42d2bf",
+      "title": "The Semanticscience Integrated Ontology (SIO) for biomedical research and knowledge discovery",
+      "venue": "Journal of Biomedical Semantics",
+      "year": 2014,
+      "citationCount": 213,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        },
+        {
+          "authorId": "50016623",
+          "name": "C. Baker"
+        },
+        {
+          "authorId": "3246027",
+          "name": "J. Baran"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1923599",
+          "name": "L. Chepelev"
+        },
+        {
+          "authorId": "1403851557",
+          "name": "Jose Cruz-Toledo"
+        },
+        {
+          "authorId": "143936514",
+          "name": "N. D. Rio"
+        },
+        {
+          "authorId": "32703858",
+          "name": "Geraint Duck"
+        },
+        {
+          "authorId": "2101003",
+          "name": "L. Furlong"
+        },
+        {
+          "authorId": "1405032010",
+          "name": "Nichealla Keath"
+        },
+        {
+          "authorId": "35799662",
+          "name": "Dana Klassen"
+        },
+        {
+          "authorId": "2902113",
+          "name": "Jamie McCusker"
+        },
+        {
+          "authorId": "1404116936",
+          "name": "N. Queralt-Rosinach"
+        },
+        {
+          "authorId": "3004898",
+          "name": "M. Samwald"
+        },
+        {
+          "authorId": "1402807854",
+          "name": "N. Villanueva-Rosales"
+        },
+        {
+          "authorId": "31764087",
+          "name": "Mark D. Wilkinson"
+        },
+        {
+          "authorId": "1798963",
+          "name": "R. Hoehndorf"
+        }
+      ]
+    },
+    {
+      "paperId": "02f7521297669e25517fa210b0c800e5963528d2",
+      "publicationVenue": {
+        "id": "eaa831b9-4740-4277-bdd0-6994ed487095",
+        "name": "Journal of Biomedical Semantics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Semant"
+        ],
+        "issn": "2041-1480",
+        "url": "http://www.jbiomedsem.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/02f7521297669e25517fa210b0c800e5963528d2",
+      "title": "Ontology-Based Querying with Bio2RDF\u2019s Linked Open Data",
+      "venue": "Journal of Biomedical Semantics",
+      "year": 2013,
+      "citationCount": 72,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1403851557",
+          "name": "Jose Cruz-Toledo"
+        },
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        }
+      ]
+    },
+    {
+      "paperId": "4fb9f24d5764d315302d3a3c29b8899de8e9d64f",
+      "publicationVenue": {
+        "id": "3cdc49e1-c3cc-4e0f-b9d6-6d16f4369b01",
+        "name": "International Conference on Biomedical Ontology",
+        "type": "conference",
+        "alternate_names": [
+          "ICBO",
+          "Int Conf Biomed Ontol"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1293"
+      },
+      "url": "https://www.semanticscholar.org/paper/4fb9f24d5764d315302d3a3c29b8899de8e9d64f",
+      "title": "HyQue: A Semantic Web tool for evaluating scientific hypotheses",
+      "venue": "International Conference on Biomedical Ontology",
+      "year": 2013,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        }
+      ]
+    },
+    {
+      "paperId": "5020b215d7d0dc68ac1d3e69739a57fdaaac6d6f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/5020b215d7d0dc68ac1d3e69739a57fdaaac6d6f",
+      "title": "Bio2RDF: Linked Data for the Life Sciences",
+      "venue": "",
+      "year": 2013,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1403851557",
+          "name": "Jose Cruz-Toledo"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        }
+      ]
+    },
+    {
+      "paperId": "6bbb24c7341b4cf7e04a68136628cb11fb6c0da8",
+      "publicationVenue": {
+        "id": "c7bde2ee-6ad5-49c7-9498-a01e46c162eb",
+        "name": "Extended Semantic Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Semantic Web Conf",
+          "Ext Semantic Web Conf",
+          "European Semantic Web Conference",
+          "ESWC"
+        ],
+        "url": "https://link.springer.com/conference/esws"
+      },
+      "url": "https://www.semanticscholar.org/paper/6bbb24c7341b4cf7e04a68136628cb11fb6c0da8",
+      "title": "Bio2RDF Release 2: Improved Coverage, Interoperability and Provenance of Life Science Linked Data",
+      "venue": "Extended Semantic Web Conference",
+      "year": 2013,
+      "citationCount": 147,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1403851557",
+          "name": "Jose Cruz-Toledo"
+        },
+        {
+          "authorId": "2530001",
+          "name": "P. Ansell"
+        },
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        }
+      ]
+    },
+    {
+      "paperId": "91dfdea4cd2d2f63fa7cbe17d48cd7ae88c0fd99",
+      "publicationVenue": {
+        "id": "62323f72-a441-453e-a13f-bf3b6945b9ba",
+        "name": "Bulletin of IEEE Technical Committee on Digital Libraries",
+        "alternate_names": [
+          "Bull IEEE Tech Comm Digit Libr"
+        ],
+        "issn": "1937-7266",
+        "url": "http://www.ieee-tcdl.org/bulletin.html",
+        "alternate_urls": [
+          "http://www.ieee-tcdl.org/Bulletin/current/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/91dfdea4cd2d2f63fa7cbe17d48cd7ae88c0fd99",
+      "title": "1st Semantic Web Technologies for Libraries and Readers (STLR 2011)",
+      "venue": "Bulletin of IEEE Technical Committee on Digital Libraries",
+      "year": 2013,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        },
+        {
+          "authorId": "1692044",
+          "name": "Jodi Schneider"
+        },
+        {
+          "authorId": "26360377",
+          "name": "Lars G. Svensson"
+        }
+      ]
+    },
+    {
+      "paperId": "aa3799134889167923b687372760cbe064f6245e",
+      "publicationVenue": {
+        "id": "aecf448b-0597-4fd6-8fe4-406c1eca15f2",
+        "name": "International Workshop on OWL Reasoner Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "ORE",
+          "Int Workshop OWL Reason Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/aa3799134889167923b687372760cbe064f6245e",
+      "title": "A Large-scale Gene-centric Semantic Web Knowledge Base for Molecular Biology",
+      "venue": "International Workshop on OWL Reasoner Evaluation",
+      "year": 2013,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1403851557",
+          "name": "Jose Cruz-Toledo"
+        },
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        }
+      ]
+    },
+    {
+      "paperId": "b7804892c5ccb8e2d8fba9310f78e2463584d450",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b7804892c5ccb8e2d8fba9310f78e2463584d450",
+      "title": "Bio2RDF release 2: improved coverage, interoperability and provenance of linked data for the life sciences",
+      "venue": "",
+      "year": 2013,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1403851557",
+          "name": "Jose Cruz-Toledo"
+        },
+        {
+          "authorId": "2530001",
+          "name": "P. Ansell"
+        },
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        }
+      ]
+    },
+    {
+      "paperId": "ec8c8b7aa4a7f02853de865d1cf3b0c8d6422d0b",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/ec8c8b7aa4a7f02853de865d1cf3b0c8d6422d0b",
+      "title": "Ovopub: Modular data publication with minimal provenance",
+      "venue": "arXiv.org",
+      "year": 2013,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        }
+      ]
+    },
+    {
+      "paperId": "458a40408c04e276f2b827b7d1f58e9bcf040ab5",
+      "publicationVenue": {
+        "id": "c7bde2ee-6ad5-49c7-9498-a01e46c162eb",
+        "name": "Extended Semantic Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Eur Semantic Web Conf",
+          "Ext Semantic Web Conf",
+          "European Semantic Web Conference",
+          "ESWC"
+        ],
+        "url": "https://link.springer.com/conference/esws"
+      },
+      "url": "https://www.semanticscholar.org/paper/458a40408c04e276f2b827b7d1f58e9bcf040ab5",
+      "title": "Evaluating Scientific Hypotheses Using the SPARQL Inferencing Notation",
+      "venue": "Extended Semantic Web Conference",
+      "year": 2012,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        }
+      ]
+    },
+    {
+      "paperId": "882273a9b75d493b8c3e84ca8d35a870876ad08c",
+      "publicationVenue": {
+        "id": "6440d316-9f88-4ca6-b7c1-91ba23c64a67",
+        "name": "Workshop on Semantic Web Applications and Tools for Life Sciences",
+        "type": "conference",
+        "alternate_names": [
+          "Workshop Semantic Web Appl Tool Life Sci",
+          "Semantic Web Appl Tool Life Sci",
+          "Semantic Web Applications and Tools for Life Sciences",
+          "SWAT4LS"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/882273a9b75d493b8c3e84ca8d35a870876ad08c",
+      "title": "Improved Dataset Coverage and Interoperability with Bio2RDF Release 2",
+      "venue": "Workshop on Semantic Web Applications and Tools for Life Sciences",
+      "year": 2012,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1403851557",
+          "name": "Jose Cruz-Toledo"
+        },
+        {
+          "authorId": "2530001",
+          "name": "P. Ansell"
+        },
+        {
+          "authorId": "35799662",
+          "name": "Dana Klassen"
+        },
+        {
+          "authorId": "1414027096",
+          "name": "Giovanni Tumarello"
+        },
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        }
+      ]
+    },
+    {
+      "paperId": "e669f8852024577c37ddafe9045e3cf9029b4e0e",
+      "publicationVenue": {
+        "id": "eaa831b9-4740-4277-bdd0-6994ed487095",
+        "name": "Journal of Biomedical Semantics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Semant"
+        ],
+        "issn": "2041-1480",
+        "url": "http://www.jbiomedsem.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e669f8852024577c37ddafe9045e3cf9029b4e0e",
+      "title": "HyQue: evaluating hypotheses using Semantic Web technologies",
+      "venue": "Journal of Biomedical Semantics",
+      "year": 2011,
+      "citationCount": 42,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "2257173542",
+          "name": "Michel Dumontier"
+        },
+        {
+          "authorId": "2257501198",
+          "name": "Nigam H. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "dc44e0728687b33ac8698b12598aa7a5f8cb8c76",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/dc44e0728687b33ac8698b12598aa7a5f8cb8c76",
+      "title": "Contextual cocitation: Augmenting cocitation analysis and its applications",
+      "venue": "J. Assoc. Inf. Sci. Technol.",
+      "year": 2010,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1903662",
+          "name": "S. Hockema"
+        },
+        {
+          "authorId": "1754570",
+          "name": "G. Eysenbach"
+        }
+      ]
+    },
+    {
+      "paperId": "0684e3404718354424617722fda85a59e053550f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/0684e3404718354424617722fda85a59e053550f",
+      "title": "Metaphor in management and organization theory: Evolution and criticism",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        }
+      ]
+    },
+    {
+      "paperId": "2a2dc4b0a26b0b896c3017a520b65dc9825d4002",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2a2dc4b0a26b0b896c3017a520b65dc9825d4002",
+      "title": "Should We Pull the Plug? Towards an Ethics for ICT Use",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        }
+      ]
+    },
+    {
+      "paperId": "b2f860cc5e0d7406d797270ad8e4452f6fa2a406",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b2f860cc5e0d7406d797270ad8e4452f6fa2a406",
+      "title": "Should We Pull the Plug? Towards an Ethics for ICT Use",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        }
+      ]
+    },
+    {
+      "paperId": "4226bbaa1b046d30c9ad615a102a3e25c924b248",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4226bbaa1b046d30c9ad615a102a3e25c924b248",
+      "title": "Performance of the Charniak-Lease parser on biological text using different training corpora",
+      "venue": "",
+      "year": 2008,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        },
+        {
+          "authorId": "1736389",
+          "name": "M. Dumontier"
+        }
+      ]
+    },
+    {
+      "paperId": "9a18e8868895838d7c489db31ec49cf7ca27ee2d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9a18e8868895838d7c489db31ec49cf7ca27ee2d",
+      "title": "Interview with Steve Hockema",
+      "venue": "",
+      "year": 2008,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Political Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        }
+      ]
+    },
+    {
+      "paperId": "df50d4f2e651e72962210214f1aa7d78ebc268a2",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/df50d4f2e651e72962210214f1aa7d78ebc268a2",
+      "title": "Interview with Siobhan Stevenson",
+      "venue": "",
+      "year": 2008,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Sociology"
+      ],
+      "authors": [
+        {
+          "authorId": "2840689",
+          "name": "A. Callahan"
+        }
+      ]
+    }
+  ]
+}

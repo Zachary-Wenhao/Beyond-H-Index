@@ -1,0 +1,439 @@
+{
+  "correlations_with_h_index": {
+    "citation_impact_weighted": {
+      "correlation": 0.16897361503374775,
+      "p_value": 7.640036924757607e-08
+    },
+    "breadth_weighted": {
+      "correlation": 0.4228841363950073,
+      "p_value": 1.1910089811180448e-44
+    },
+    "productivity_weighted": {
+      "correlation": 0.7428447577080846,
+      "p_value": 4.042082114650743e-176
+    },
+    "leadership_weighted": {
+      "correlation": 0.1485384400449333,
+      "p_value": 2.387415067928851e-06
+    },
+    "quality_weighted": {
+      "correlation": -0.0030840753587248974,
+      "p_value": 0.9224045528073386
+    }
+  },
+  "component_statistics": {
+    "citation_impact_weighted": {
+      "count": 1000.0,
+      "mean": 0.21270704724783518,
+      "std": 0.1329806359173512,
+      "min": 0.01831578947368421,
+      "25%": 0.0964861111111111,
+      "50%": 0.17554838709677423,
+      "75%": 0.37500000000000006,
+      "max": 0.4
+    },
+    "breadth_weighted": {
+      "count": 1000.0,
+      "mean": 0.18446604385292875,
+      "std": 0.04371471266263173,
+      "min": 0.0015,
+      "25%": 0.17526042831644334,
+      "50%": 0.18460353274562902,
+      "75%": 0.20712131010220103,
+      "max": 0.24604918620945704
+    },
+    "productivity_weighted": {
+      "count": 1000.0,
+      "mean": 0.0754537953598904,
+      "std": 0.05813743455241856,
+      "min": 0.0007079646017699115,
+      "25%": 0.02914529914529914,
+      "50%": 0.06,
+      "75%": 0.10582417582417583,
+      "max": 0.2
+    },
+    "leadership_weighted": {
+      "count": 1000.0,
+      "mean": 0.0506896809710391,
+      "std": 0.027632457649066734,
+      "min": 0.0,
+      "25%": 0.03134191176470588,
+      "50%": 0.050167785234899336,
+      "75%": 0.06999999999999999,
+      "max": 0.1
+    },
+    "quality_weighted": {
+      "count": 1000.0,
+      "mean": 0.03701858958884351,
+      "std": 0.008036262966110382,
+      "min": 0.016439432979444845,
+      "25%": 0.03,
+      "50%": 0.03932660044597798,
+      "75%": 0.042474250108400474,
+      "max": 0.05
+    }
+  },
+  "top_researchers_by_component": {
+    "Citation Impact": [
+      {
+        "name": "N. Broad",
+        "citation_impact_weighted": 0.4,
+        "citation_impact_weighted_rank": 1.0,
+        "h_index": 4,
+        "h_index_rank": 809.0
+      },
+      {
+        "name": "Joel Grus",
+        "citation_impact_weighted": 0.4,
+        "citation_impact_weighted_rank": 1.0,
+        "h_index": 6,
+        "h_index_rank": 704.0
+      },
+      {
+        "name": "Margaret E. Roberts",
+        "citation_impact_weighted": 0.4,
+        "citation_impact_weighted_rank": 1.0,
+        "h_index": 28,
+        "h_index_rank": 232.0
+      },
+      {
+        "name": "Vicente Ordonez",
+        "citation_impact_weighted": 0.4,
+        "citation_impact_weighted_rank": 1.0,
+        "h_index": 34,
+        "h_index_rank": 164.0
+      },
+      {
+        "name": "Yoav Goldberg",
+        "citation_impact_weighted": 0.4,
+        "citation_impact_weighted_rank": 1.0,
+        "h_index": 51,
+        "h_index_rank": 88.0
+      },
+      {
+        "name": "Morgan Funtowicz",
+        "citation_impact_weighted": 0.4,
+        "citation_impact_weighted_rank": 1.0,
+        "h_index": 2,
+        "h_index_rank": 903.0
+      },
+      {
+        "name": "Aditya Koli",
+        "citation_impact_weighted": 0.4,
+        "citation_impact_weighted_rank": 1.0,
+        "h_index": 1,
+        "h_index_rank": 945.0
+      },
+      {
+        "name": "Alexis Conneau",
+        "citation_impact_weighted": 0.4,
+        "citation_impact_weighted_rank": 1.0,
+        "h_index": 29,
+        "h_index_rank": 218.0
+      },
+      {
+        "name": "Mark Neumann",
+        "citation_impact_weighted": 0.4,
+        "citation_impact_weighted_rank": 1.0,
+        "h_index": 8,
+        "h_index_rank": 635.0
+      },
+      {
+        "name": "Lewis Tunstall",
+        "citation_impact_weighted": 0.4,
+        "citation_impact_weighted_rank": 1.0,
+        "h_index": 8,
+        "h_index_rank": 635.0
+      }
+    ],
+    "Research Breadth": [
+      {
+        "name": "Liping Zhao",
+        "breadth_weighted": 0.24604918620945704,
+        "breadth_weighted_rank": 1.0,
+        "h_index": 17,
+        "h_index_rank": 405.0
+      },
+      {
+        "name": "P. Lenca",
+        "breadth_weighted": 0.24561521632448313,
+        "breadth_weighted_rank": 2.0,
+        "h_index": 19,
+        "h_index_rank": 364.0
+      },
+      {
+        "name": "I. Harris",
+        "breadth_weighted": 0.24535482366636618,
+        "breadth_weighted_rank": 3.0,
+        "h_index": 20,
+        "h_index_rank": 350.0
+      },
+      {
+        "name": "Lei He",
+        "breadth_weighted": 0.24511042395010935,
+        "breadth_weighted_rank": 4.0,
+        "h_index": 53,
+        "h_index_rank": 77.0
+      },
+      {
+        "name": "Thanh Vu",
+        "breadth_weighted": 0.2449435876947948,
+        "breadth_weighted_rank": 5.0,
+        "h_index": 24,
+        "h_index_rank": 281.0
+      },
+      {
+        "name": "W. El-Hajj",
+        "breadth_weighted": 0.2444977078306687,
+        "breadth_weighted_rank": 6.0,
+        "h_index": 29,
+        "h_index_rank": 218.0
+      },
+      {
+        "name": "Y. Barash",
+        "breadth_weighted": 0.24415565943253825,
+        "breadth_weighted_rank": 7.0,
+        "h_index": 21,
+        "h_index_rank": 321.0
+      },
+      {
+        "name": "Xiaodong Liu",
+        "breadth_weighted": 0.24318824395068828,
+        "breadth_weighted_rank": 8.0,
+        "h_index": 37,
+        "h_index_rank": 150.0
+      },
+      {
+        "name": "Yanjun Qi",
+        "breadth_weighted": 0.2431355130381922,
+        "breadth_weighted_rank": 9.0,
+        "h_index": 31,
+        "h_index_rank": 202.0
+      },
+      {
+        "name": "Jie Zhou",
+        "breadth_weighted": 0.24310681053188743,
+        "breadth_weighted_rank": 10.0,
+        "h_index": 58,
+        "h_index_rank": 58.0
+      }
+    ],
+    "Productivity": [
+      {
+        "name": "Hinrich Sch\u00fctze",
+        "productivity_weighted": 0.2,
+        "productivity_weighted_rank": 1.0,
+        "h_index": 67,
+        "h_index_rank": 39.0
+      },
+      {
+        "name": "Isabelle Augenstein",
+        "productivity_weighted": 0.2,
+        "productivity_weighted_rank": 1.0,
+        "h_index": 40,
+        "h_index_rank": 133.0
+      },
+      {
+        "name": "G. Ceder",
+        "productivity_weighted": 0.2,
+        "productivity_weighted_rank": 1.0,
+        "h_index": 153,
+        "h_index_rank": 2.0
+      },
+      {
+        "name": "C. Bauckhage",
+        "productivity_weighted": 0.2,
+        "productivity_weighted_rank": 1.0,
+        "h_index": 46,
+        "h_index_rank": 98.0
+      },
+      {
+        "name": "Soujanya Poria",
+        "productivity_weighted": 0.2,
+        "productivity_weighted_rank": 1.0,
+        "h_index": 71,
+        "h_index_rank": 34.0
+      },
+      {
+        "name": "Xuanjing Huang",
+        "productivity_weighted": 0.2,
+        "productivity_weighted_rank": 1.0,
+        "h_index": 64,
+        "h_index_rank": 44.0
+      },
+      {
+        "name": "Shiliang Sun",
+        "productivity_weighted": 0.2,
+        "productivity_weighted_rank": 1.0,
+        "h_index": 49,
+        "h_index_rank": 91.0
+      },
+      {
+        "name": "Kyunghyun Cho",
+        "productivity_weighted": 0.2,
+        "productivity_weighted_rank": 1.0,
+        "h_index": 90,
+        "h_index_rank": 21.0
+      },
+      {
+        "name": "W. Bruce Croft",
+        "productivity_weighted": 0.2,
+        "productivity_weighted_rank": 1.0,
+        "h_index": 125,
+        "h_index_rank": 6.0
+      },
+      {
+        "name": "Xavier Franch",
+        "productivity_weighted": 0.2,
+        "productivity_weighted_rank": 1.0,
+        "h_index": 44,
+        "h_index_rank": 108.0
+      }
+    ],
+    "Leadership": [
+      {
+        "name": "Adri\u00e1n Pastor Cimat",
+        "leadership_weighted": 0.1,
+        "leadership_weighted_rank": 1.0,
+        "h_index": 1,
+        "h_index_rank": 945.0
+      },
+      {
+        "name": "Diksha Khurana",
+        "leadership_weighted": 0.1,
+        "leadership_weighted_rank": 1.0,
+        "h_index": 2,
+        "h_index_rank": 903.0
+      },
+      {
+        "name": "Gwendolyn Halford",
+        "leadership_weighted": 0.1,
+        "leadership_weighted_rank": 1.0,
+        "h_index": 3,
+        "h_index_rank": 852.0
+      },
+      {
+        "name": "Y. Wilks",
+        "leadership_weighted": 0.1,
+        "leadership_weighted_rank": 1.0,
+        "h_index": 55,
+        "h_index_rank": 68.0
+      },
+      {
+        "name": "Mustafa Jarrar",
+        "leadership_weighted": 0.1,
+        "leadership_weighted_rank": 1.0,
+        "h_index": 27,
+        "h_index_rank": 244.0
+      },
+      {
+        "name": "Peratham Wiriyathammabhum",
+        "leadership_weighted": 0.1,
+        "leadership_weighted_rank": 1.0,
+        "h_index": 5,
+        "h_index_rank": 764.0
+      },
+      {
+        "name": "T. Arnold",
+        "leadership_weighted": 0.1,
+        "leadership_weighted_rank": 1.0,
+        "h_index": 11,
+        "h_index_rank": 542.0
+      },
+      {
+        "name": "Wiebke Wagner",
+        "leadership_weighted": 0.1,
+        "leadership_weighted_rank": 1.0,
+        "h_index": 2,
+        "h_index_rank": 903.0
+      },
+      {
+        "name": "Mrs . Indu",
+        "leadership_weighted": 0.1,
+        "leadership_weighted_rank": 1.0,
+        "h_index": 1,
+        "h_index_rank": 945.0
+      },
+      {
+        "name": "Kanchan M.Tarwani",
+        "leadership_weighted": 0.1,
+        "leadership_weighted_rank": 1.0,
+        "h_index": 1,
+        "h_index_rank": 945.0
+      }
+    ],
+    "Quality Focus": [
+      {
+        "name": "Hiroaki Hayashi",
+        "quality_weighted": 0.05,
+        "quality_weighted_rank": 1.0,
+        "h_index": 13,
+        "h_index_rank": 473.0
+      },
+      {
+        "name": "Surabhi Datta",
+        "quality_weighted": 0.05,
+        "quality_weighted_rank": 1.0,
+        "h_index": 8,
+        "h_index_rank": 635.0
+      },
+      {
+        "name": "Pratik Ratadiya",
+        "quality_weighted": 0.05,
+        "quality_weighted_rank": 1.0,
+        "h_index": 5,
+        "h_index_rank": 764.0
+      },
+      {
+        "name": "Shucheng Li",
+        "quality_weighted": 0.05,
+        "quality_weighted_rank": 1.0,
+        "h_index": 5,
+        "h_index_rank": 764.0
+      },
+      {
+        "name": "Huadong Wang",
+        "quality_weighted": 0.05,
+        "quality_weighted_rank": 1.0,
+        "h_index": 10,
+        "h_index_rank": 570.0
+      },
+      {
+        "name": "L. Huang",
+        "quality_weighted": 0.05,
+        "quality_weighted_rank": 1.0,
+        "h_index": 3,
+        "h_index_rank": 852.0
+      },
+      {
+        "name": "Luis Espinosa-Anke",
+        "quality_weighted": 0.05,
+        "quality_weighted_rank": 1.0,
+        "h_index": 5,
+        "h_index_rank": 764.0
+      },
+      {
+        "name": "Bo Zhao",
+        "quality_weighted": 0.05,
+        "quality_weighted_rank": 1.0,
+        "h_index": 3,
+        "h_index_rank": 852.0
+      },
+      {
+        "name": "Yige Xu",
+        "quality_weighted": 0.05,
+        "quality_weighted_rank": 1.0,
+        "h_index": 6,
+        "h_index_rank": 704.0
+      },
+      {
+        "name": "Billel Gueni",
+        "quality_weighted": 0.05,
+        "quality_weighted_rank": 1.0,
+        "h_index": 6,
+        "h_index_rank": 704.0
+      }
+    ]
+  },
+  "component_specialists": {}
+}

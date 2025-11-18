@@ -1,0 +1,1874 @@
+{
+  "authorId": "46609506",
+  "name": "Amir Feder",
+  "affiliations": [
+    "Columbia University",
+    "Google"
+  ],
+  "paperCount": 33,
+  "citationCount": 1816,
+  "hIndex": 18,
+  "papers": [
+    {
+      "paperId": "20f6b9a86f7f753c39f44c1001ca8494844854b9",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/20f6b9a86f7f753c39f44c1001ca8494844854b9",
+      "title": "Can LLMs Learn Macroeconomic Narratives from Social Media?",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2204956989",
+          "name": "Almog Gueta"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "2158816391",
+          "name": "Zorik Gekhman"
+        },
+        {
+          "authorId": "2250857819",
+          "name": "Ariel Goldstein"
+        },
+        {
+          "authorId": "2249760179",
+          "name": "Roi Reichart"
+        }
+      ]
+    },
+    {
+      "paperId": "3046cb3ace7baa64f40c46b43c5cb412a975ab3b",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3046cb3ace7baa64f40c46b43c5cb412a975ab3b",
+      "title": "Distributional reasoning in LLMs: Parallel reasoning processes in multi-hop reasoning",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "151264946",
+          "name": "Yuval Shalev"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "2289609556",
+          "name": "Ariel Goldstein"
+        }
+      ]
+    },
+    {
+      "paperId": "54972b2e4304d2164a61036ae947df2503c07009",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/54972b2e4304d2164a61036ae947df2503c07009",
+      "title": "Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2024,
+      "citationCount": 85,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2158816391",
+          "name": "Zorik Gekhman"
+        },
+        {
+          "authorId": "36825265",
+          "name": "G. Yona"
+        },
+        {
+          "authorId": "2335771",
+          "name": "Roee Aharoni"
+        },
+        {
+          "authorId": "35298844",
+          "name": "Matan Eyal"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "2249760179",
+          "name": "Roi Reichart"
+        },
+        {
+          "authorId": "2253566854",
+          "name": "Jonathan Herzig"
+        }
+      ]
+    },
+    {
+      "paperId": "12acdfc7e32e9d603dc108008bb15e65439e7c79",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/12acdfc7e32e9d603dc108008bb15e65439e7c79",
+      "title": "Evaluating the Moral Beliefs Encoded in LLMs",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 104,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1742339548",
+          "name": "Nino Scherrer"
+        },
+        {
+          "authorId": "133797256",
+          "name": "Claudia Shi"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        }
+      ]
+    },
+    {
+      "paperId": "49dcf3606d016f677b5b3d14d37d5a1fbadf5731",
+      "publicationVenue": {
+        "id": "027ffd21-ebb0-4af8-baf5-911124292fd0",
+        "name": "bioRxiv",
+        "type": "journal",
+        "url": "http://biorxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/49dcf3606d016f677b5b3d14d37d5a1fbadf5731",
+      "title": "Correspondence between the layered structure of deep language models and temporal structure of natural language processing in the human brain",
+      "venue": "bioRxiv",
+      "year": 2023,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Biology",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2000634995",
+          "name": "Ariel Goldstein"
+        },
+        {
+          "authorId": "2157249795",
+          "name": "Eric Ham"
+        },
+        {
+          "authorId": "2139746326",
+          "name": "Samuel A. Nastase"
+        },
+        {
+          "authorId": "2027233929",
+          "name": "Zaid Zada"
+        },
+        {
+          "authorId": "2176240503",
+          "name": "Avigail Grinstein-Dabus"
+        },
+        {
+          "authorId": "2033760252",
+          "name": "Bobbi Aubrey"
+        },
+        {
+          "authorId": "39190484",
+          "name": "Mariano Schain"
+        },
+        {
+          "authorId": "2493119",
+          "name": "H. Gazula"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "1850025",
+          "name": "W. Doyle"
+        },
+        {
+          "authorId": "7006458",
+          "name": "S. Devore"
+        },
+        {
+          "authorId": "38679576",
+          "name": "Patricia Dugan"
+        },
+        {
+          "authorId": "145886746",
+          "name": "D. Friedman"
+        },
+        {
+          "authorId": "2068714621",
+          "name": "Michael P. Brenner"
+        },
+        {
+          "authorId": "1809983",
+          "name": "Avinatan Hassidim"
+        },
+        {
+          "authorId": "145966661",
+          "name": "O. Devinsky"
+        },
+        {
+          "authorId": "145898353",
+          "name": "A. Flinker"
+        },
+        {
+          "authorId": "39455775",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "1787630",
+          "name": "U. Hasson"
+        }
+      ]
+    },
+    {
+      "paperId": "894df6e5d0f34014e6a67b2d5f43e2bde91f63e3",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/894df6e5d0f34014e6a67b2d5f43e2bde91f63e3",
+      "title": "Faithful Explanations of Black-box NLP Models Using LLM-generated Counterfactuals",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2166789313",
+          "name": "Y. Gat"
+        },
+        {
+          "authorId": "2135910736",
+          "name": "Nitay Calderon"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "2249758894",
+          "name": "Alexander Chapanin"
+        },
+        {
+          "authorId": "2249959434",
+          "name": "Amit Sharma"
+        },
+        {
+          "authorId": "2249760179",
+          "name": "Roi Reichart"
+        }
+      ]
+    },
+    {
+      "paperId": "d95b441c2838888d7ac1af73b5f9c800f22fad3a",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d95b441c2838888d7ac1af73b5f9c800f22fad3a",
+      "title": "An Invariant Learning Characterization of Controlled Text Generation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "133797256",
+          "name": "Claudia Shi"
+        },
+        {
+          "authorId": "2113919506",
+          "name": "Carolina Zheng"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "70025184",
+          "name": "Keyon Vafa"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        }
+      ]
+    },
+    {
+      "paperId": "f5cc6df1a7d00a5ed93bee3db2e5df00c338a936",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f5cc6df1a7d00a5ed93bee3db2e5df00c338a936",
+      "title": "LLMs Accelerate Annotation for Medical Information Extraction",
+      "venue": "ML4H@NeurIPS",
+      "year": 2023,
+      "citationCount": 90,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2269736191",
+          "name": "Akshay Goel"
+        },
+        {
+          "authorId": "2204956989",
+          "name": "Almog Gueta"
+        },
+        {
+          "authorId": "2269735644",
+          "name": "Omry Gilon"
+        },
+        {
+          "authorId": "2269762842",
+          "name": "Chang Liu"
+        },
+        {
+          "authorId": "2101317386",
+          "name": "Sofia Erell"
+        },
+        {
+          "authorId": "2269759759",
+          "name": "Lan Huong Nguyen"
+        },
+        {
+          "authorId": "2269757864",
+          "name": "Xiaohong Hao"
+        },
+        {
+          "authorId": "2269734365",
+          "name": "Bolous Jaber"
+        },
+        {
+          "authorId": "2269733442",
+          "name": "Shashir Reddy"
+        },
+        {
+          "authorId": "2269734359",
+          "name": "Rupesh Kartha"
+        },
+        {
+          "authorId": "2269735887",
+          "name": "Jean Steiner"
+        },
+        {
+          "authorId": "40142021",
+          "name": "Itay Laish"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        }
+      ]
+    },
+    {
+      "paperId": "0b031700fd4fb450ee7fabbd2120900e73c95c54",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/0b031700fd4fb450ee7fabbd2120900e73c95c54",
+      "title": "CausalNLP Tutorial: An Introduction to Causality for Natural Language Processing",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2111472502",
+          "name": "Zhijing Jin"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "37844380",
+          "name": "Kun Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "21cffc4bba036d874ad479c330904135d6e17365",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/21cffc4bba036d874ad479c330904135d6e17365",
+      "title": "Useful Confidence Measures: Beyond the Max Score",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "36825265",
+          "name": "G. Yona"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "40142021",
+          "name": "Itay Laish"
+        }
+      ]
+    },
+    {
+      "paperId": "29b7f31ed2330bf7d0603454243475788254df67",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/29b7f31ed2330bf7d0603454243475788254df67",
+      "title": "In the Eye of the Beholder: Robust Prediction with Causal User Modeling",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "2106233279",
+          "name": "G. Horowitz"
+        },
+        {
+          "authorId": "2042084",
+          "name": "Yoav Wald"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        },
+        {
+          "authorId": "3138200",
+          "name": "Nir Rosenfeld"
+        }
+      ]
+    },
+    {
+      "paperId": "4721dd8c4f2681e231040cc5deebdbf938f58392",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/4721dd8c4f2681e231040cc5deebdbf938f58392",
+      "title": "Measuring Causal Effects of Data Statistics on Language Model's 'Factual' Predictions",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 50,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51131518",
+          "name": "Yanai Elazar"
+        },
+        {
+          "authorId": "9529535",
+          "name": "Nora Kassner"
+        },
+        {
+          "authorId": "2143278592",
+          "name": "Shauli Ravfogel"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "3023068",
+          "name": "Abhilasha Ravichander"
+        },
+        {
+          "authorId": "2354177897",
+          "name": "Marius Mosbach"
+        },
+        {
+          "authorId": "2083259",
+          "name": "Yonatan Belinkov"
+        },
+        {
+          "authorId": "2328410308",
+          "name": "Hinrich Schutze"
+        },
+        {
+          "authorId": "79775260",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "508ff1a8d87011ee35ffde1b8c37301b777a6e20",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/508ff1a8d87011ee35ffde1b8c37301b777a6e20",
+      "title": "CEBaB: Estimating the Causal Effects of Real-World Concepts on NLP Model Behavior",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "citationCount": 41,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2166804928",
+          "name": "Eldar David Abraham"
+        },
+        {
+          "authorId": "2123124766",
+          "name": "Karel D\u2019Oosterlinck"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "2166789313",
+          "name": "Y. Gat"
+        },
+        {
+          "authorId": "80833908",
+          "name": "Atticus Geiger"
+        },
+        {
+          "authorId": "144922861",
+          "name": "Christopher Potts"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        },
+        {
+          "authorId": "47039337",
+          "name": "Zhengxuan Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "891c1667436c82eaad61044664920292be4ccf7f",
+      "publicationVenue": {
+        "id": "96bce4f4-d6bc-4b8f-8a7d-e343e9a5eb67",
+        "name": "International Workshop on Health Text Mining and Information Analysis",
+        "type": "conference",
+        "alternate_names": [
+          "Louhi",
+          "Int Workshop Health Text Min Inf Anal"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/891c1667436c82eaad61044664920292be4ccf7f",
+      "title": "Section Classification in Clinical Notes with Multi-task Transformers",
+      "venue": "International Workshop on Health Text Mining and Information Analysis",
+      "year": 2022,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50212920",
+          "name": "Fan Zhang"
+        },
+        {
+          "authorId": "40142021",
+          "name": "Itay Laish"
+        },
+        {
+          "authorId": "15544679",
+          "name": "Ayelet Benjamini"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        }
+      ]
+    },
+    {
+      "paperId": "8aecf983fd2dbf64455502b02fb71a0fb5193e89",
+      "publicationVenue": {
+        "id": "96bce4f4-d6bc-4b8f-8a7d-e343e9a5eb67",
+        "name": "International Workshop on Health Text Mining and Information Analysis",
+        "type": "conference",
+        "alternate_names": [
+          "Louhi",
+          "Int Workshop Health Text Min Inf Anal"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/8aecf983fd2dbf64455502b02fb71a0fb5193e89",
+      "title": "Building a Clinically-Focused Problem List From Medical Notes",
+      "venue": "International Workshop on Health Text Mining and Information Analysis",
+      "year": 2022,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "40142021",
+          "name": "Itay Laish"
+        },
+        {
+          "authorId": "2168723240",
+          "name": "Shashank Agarwal"
+        },
+        {
+          "authorId": "40534108",
+          "name": "U. Lerner"
+        },
+        {
+          "authorId": "2063075309",
+          "name": "A. Atias"
+        },
+        {
+          "authorId": "2203789885",
+          "name": "Cathy Cheung"
+        },
+        {
+          "authorId": "10737357",
+          "name": "P. Clardy"
+        },
+        {
+          "authorId": "2203790860",
+          "name": "Alon Peled-Cohen"
+        },
+        {
+          "authorId": "2203789378",
+          "name": "Rachana Fellinger"
+        },
+        {
+          "authorId": "6611654",
+          "name": "Hengrui Liu"
+        },
+        {
+          "authorId": "2164932448",
+          "name": "Lan Huong Nguyen"
+        },
+        {
+          "authorId": "46884621",
+          "name": "Birju S. Patel"
+        },
+        {
+          "authorId": "2203789376",
+          "name": "Natan Potikha"
+        },
+        {
+          "authorId": "2203788219",
+          "name": "Amir Taubenfeld"
+        },
+        {
+          "authorId": "2219943403",
+          "name": "Liwen Xu"
+        },
+        {
+          "authorId": "2203888116",
+          "name": "Seung Doo Yang"
+        },
+        {
+          "authorId": "15544679",
+          "name": "Ayelet Benjamini"
+        },
+        {
+          "authorId": "1809983",
+          "name": "Avinatan Hassidim"
+        }
+      ]
+    },
+    {
+      "paperId": "aec212c099e8a711367582806d620f7b0867ce91",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/aec212c099e8a711367582806d620f7b0867ce91",
+      "title": "DoCoGen: Domain Counterfactual Generation for Low Resource Domain Adaptation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 47,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2135910736",
+          "name": "Nitay Calderon"
+        },
+        {
+          "authorId": "2031088828",
+          "name": "Eyal Ben-David"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        }
+      ]
+    },
+    {
+      "paperId": "b36a4b5e4e8b9a00d0c913d7a22a290d454e068f",
+      "publicationVenue": {
+        "id": "d5e5b5e7-54b1-4f53-82fc-4853f3e71c58",
+        "name": "medRxiv",
+        "type": "journal",
+        "url": "https://www.medrxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b36a4b5e4e8b9a00d0c913d7a22a290d454e068f",
+      "title": "Structured Understanding of Assessment and Plans in Clinical Documentation",
+      "venue": "medRxiv",
+      "year": 2022,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "87582557",
+          "name": "Doron Stupp"
+        },
+        {
+          "authorId": "1791038",
+          "name": "R. Barequet"
+        },
+        {
+          "authorId": null,
+          "name": "I.-C. Lee"
+        },
+        {
+          "authorId": "2162724457",
+          "name": "E. Oren"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "2148345010",
+          "name": "A. Benjamini"
+        },
+        {
+          "authorId": "32826904",
+          "name": "A. Hassidim"
+        },
+        {
+          "authorId": "1745572",
+          "name": "Yossi Matias"
+        },
+        {
+          "authorId": "40297052",
+          "name": "E. Ofek"
+        },
+        {
+          "authorId": "8638650",
+          "name": "A. Rajkomar"
+        }
+      ]
+    },
+    {
+      "paperId": "b4206dd288958affeb314aee0ec1397de5c74c23",
+      "publicationVenue": {
+        "id": "7892f01e-f701-4d07-8c36-e108b84ec6ab",
+        "name": "Nature Neuroscience",
+        "type": "journal",
+        "alternate_names": [
+          "Nat Neurosci"
+        ],
+        "issn": "1097-6256",
+        "url": "http://www.nature.com/neuro/",
+        "alternate_urls": [
+          "http://www.nature.com/neuro/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/b4206dd288958affeb314aee0ec1397de5c74c23",
+      "title": "Shared computational principles for language processing in humans and deep language models",
+      "venue": "Nature Neuroscience",
+      "year": 2022,
+      "citationCount": 301,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2000634995",
+          "name": "Ariel Goldstein"
+        },
+        {
+          "authorId": "2027233929",
+          "name": "Zaid Zada"
+        },
+        {
+          "authorId": "1841204",
+          "name": "Eliav Buchnik"
+        },
+        {
+          "authorId": "39190484",
+          "name": "Mariano Schain"
+        },
+        {
+          "authorId": "3435186",
+          "name": "A. Price"
+        },
+        {
+          "authorId": "2033760252",
+          "name": "Bobbi Aubrey"
+        },
+        {
+          "authorId": "2139746326",
+          "name": "Samuel A. Nastase"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "49021734",
+          "name": "Dotan Emanuel"
+        },
+        {
+          "authorId": "145741057",
+          "name": "Alon Cohen"
+        },
+        {
+          "authorId": "35996413",
+          "name": "A. Jansen"
+        },
+        {
+          "authorId": "2493119",
+          "name": "H. Gazula"
+        },
+        {
+          "authorId": "2033170377",
+          "name": "Gina Choe"
+        },
+        {
+          "authorId": "2033760108",
+          "name": "Aditi Rao"
+        },
+        {
+          "authorId": "2033600755",
+          "name": "Catherine Kim"
+        },
+        {
+          "authorId": "2033760369",
+          "name": "Colton Casto"
+        },
+        {
+          "authorId": "1396683025",
+          "name": "Lora Fanda"
+        },
+        {
+          "authorId": "1850025",
+          "name": "W. Doyle"
+        },
+        {
+          "authorId": "145886746",
+          "name": "D. Friedman"
+        },
+        {
+          "authorId": "38679576",
+          "name": "Patricia Dugan"
+        },
+        {
+          "authorId": "1943519",
+          "name": "Lucia Melloni"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        },
+        {
+          "authorId": "7006458",
+          "name": "S. Devore"
+        },
+        {
+          "authorId": "145898353",
+          "name": "A. Flinker"
+        },
+        {
+          "authorId": "7004034",
+          "name": "Liat Hasenfratz"
+        },
+        {
+          "authorId": "39455775",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "1809983",
+          "name": "Avinatan Hassidim"
+        },
+        {
+          "authorId": "2068714773",
+          "name": "Michael Brenner"
+        },
+        {
+          "authorId": "1745572",
+          "name": "Yossi Matias"
+        },
+        {
+          "authorId": "1780319",
+          "name": "K. Norman"
+        },
+        {
+          "authorId": "145966661",
+          "name": "O. Devinsky"
+        },
+        {
+          "authorId": "1787630",
+          "name": "U. Hasson"
+        }
+      ]
+    },
+    {
+      "paperId": "b898d468f7905b55b13faaf5f335e833752871e8",
+      "publicationVenue": {
+        "id": "027ffd21-ebb0-4af8-baf5-911124292fd0",
+        "name": "bioRxiv",
+        "type": "journal",
+        "url": "http://biorxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b898d468f7905b55b13faaf5f335e833752871e8",
+      "title": "Brain embeddings with shared geometry to artificial contextual embeddings, as a code for representing language in the human brain",
+      "venue": "bioRxiv",
+      "year": 2022,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "2000634995",
+          "name": "Ariel Goldstein"
+        },
+        {
+          "authorId": "2157242156",
+          "name": "Avigail Dabush"
+        },
+        {
+          "authorId": "2033760252",
+          "name": "Bobbi Aubrey"
+        },
+        {
+          "authorId": "39190484",
+          "name": "Mariano Schain"
+        },
+        {
+          "authorId": "2139746326",
+          "name": "Samuel A. Nastase"
+        },
+        {
+          "authorId": "2027233929",
+          "name": "Zaid Zada"
+        },
+        {
+          "authorId": "2157249795",
+          "name": "Eric Ham"
+        },
+        {
+          "authorId": "2157255794",
+          "name": "Zhuoqiao Hong"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "2493119",
+          "name": "H. Gazula"
+        },
+        {
+          "authorId": "1841204",
+          "name": "Eliav Buchnik"
+        },
+        {
+          "authorId": "1850025",
+          "name": "W. Doyle"
+        },
+        {
+          "authorId": "7006458",
+          "name": "S. Devore"
+        },
+        {
+          "authorId": "38679576",
+          "name": "Patricia Dugan"
+        },
+        {
+          "authorId": "145886746",
+          "name": "D. Friedman"
+        },
+        {
+          "authorId": "2068714621",
+          "name": "Michael P. Brenner"
+        },
+        {
+          "authorId": "1809983",
+          "name": "Avinatan Hassidim"
+        },
+        {
+          "authorId": "145966661",
+          "name": "O. Devinsky"
+        },
+        {
+          "authorId": "145898353",
+          "name": "A. Flinker"
+        },
+        {
+          "authorId": "1787630",
+          "name": "U. Hasson"
+        }
+      ]
+    },
+    {
+      "paperId": "130d432ccbc836380a212bea618f84ff094a6a52",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/130d432ccbc836380a212bea618f84ff094a6a52",
+      "title": "Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 230,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "145137850",
+          "name": "Katherine A. Keith"
+        },
+        {
+          "authorId": "2125374460",
+          "name": "Emaad A. Manzoor"
+        },
+        {
+          "authorId": "2253657208",
+          "name": "Reid Pryzant"
+        },
+        {
+          "authorId": "153485411",
+          "name": "Dhanya Sridhar"
+        },
+        {
+          "authorId": "1411379613",
+          "name": "Zach Wood-Doughty"
+        },
+        {
+          "authorId": "144154709",
+          "name": "Jacob Eisenstein"
+        },
+        {
+          "authorId": "2361828",
+          "name": "Justin Grimmer"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        },
+        {
+          "authorId": "2464550",
+          "name": "Margaret E. Roberts"
+        },
+        {
+          "authorId": "28924497",
+          "name": "Brandon M Stewart"
+        },
+        {
+          "authorId": "2974320",
+          "name": "Victor Veitch"
+        },
+        {
+          "authorId": "2143919864",
+          "name": "Diyi Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "13f67bd8700d5cd869c07b4aa9cb92b9e79bb17e",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/13f67bd8700d5cd869c07b4aa9cb92b9e79bb17e",
+      "title": "Model Compression for Domain Adaptation through Causal Effect Estimation",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "117095364",
+          "name": "Guy Rotman"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        }
+      ]
+    },
+    {
+      "paperId": "abaa9cc845d3b18328d2014d780235fdd9695d1e",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/abaa9cc845d3b18328d2014d780235fdd9695d1e",
+      "title": "Are VQA Systems RAD? Measuring Robustness to Augmented Data with Focused Interventions",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2107634759",
+          "name": "Daniel Rosenberg"
+        },
+        {
+          "authorId": "2064713742",
+          "name": "Itai Gat"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        }
+      ]
+    },
+    {
+      "paperId": "bfc7bd9442c6a7ecbf0d4f2bf4e23a8861792c01",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/bfc7bd9442c6a7ecbf0d4f2bf4e23a8861792c01",
+      "title": "On Calibration and Out-of-domain Generalization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "citationCount": 148,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2042084",
+          "name": "Yoav Wald"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "4119758",
+          "name": "D. Greenfeld"
+        },
+        {
+          "authorId": "2304764",
+          "name": "Uri Shalit"
+        }
+      ]
+    },
+    {
+      "paperId": "c3b597011f64e7c5459bbe4502163e463fb13f5a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c3b597011f64e7c5459bbe4502163e463fb13f5a",
+      "title": "Learning and Evaluating a Differentially Private Pre-trained Language Model",
+      "venue": "PRIVATENLP",
+      "year": 2021,
+      "citationCount": 70,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2945567",
+          "name": "S. Hoory"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "2468924",
+          "name": "Avichai Tendler"
+        },
+        {
+          "authorId": "145741057",
+          "name": "Alon Cohen"
+        },
+        {
+          "authorId": "2101317386",
+          "name": "Sofia Erell"
+        },
+        {
+          "authorId": "40142021",
+          "name": "Itay Laish"
+        },
+        {
+          "authorId": "3346298",
+          "name": "Hootan Nakhost"
+        },
+        {
+          "authorId": "2734576",
+          "name": "Uri Stemmer"
+        },
+        {
+          "authorId": "15544679",
+          "name": "Ayelet Benjamini"
+        },
+        {
+          "authorId": "1809983",
+          "name": "Avinatan Hassidim"
+        },
+        {
+          "authorId": "1745572",
+          "name": "Yossi Matias"
+        }
+      ]
+    },
+    {
+      "paperId": "2370ed2de59cdd99a2cc332853f979fcc84993d8",
+      "publicationVenue": {
+        "id": "027ffd21-ebb0-4af8-baf5-911124292fd0",
+        "name": "bioRxiv",
+        "type": "journal",
+        "url": "http://biorxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2370ed2de59cdd99a2cc332853f979fcc84993d8",
+      "title": "Thinking ahead: spontaneous prediction in context as a keystone of language in humans and machines",
+      "venue": "bioRxiv",
+      "year": 2020,
+      "citationCount": 34,
+      "fieldsOfStudy": [
+        "Biology",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2000634995",
+          "name": "Ariel Goldstein"
+        },
+        {
+          "authorId": "2027233929",
+          "name": "Zaid Zada"
+        },
+        {
+          "authorId": "1841204",
+          "name": "Eliav Buchnik"
+        },
+        {
+          "authorId": "39190484",
+          "name": "Mariano Schain"
+        },
+        {
+          "authorId": "3435186",
+          "name": "A. Price"
+        },
+        {
+          "authorId": "2033760252",
+          "name": "Bobbi Aubrey"
+        },
+        {
+          "authorId": "2646546",
+          "name": "Samuel A. Nastase"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "49021734",
+          "name": "Dotan Emanuel"
+        },
+        {
+          "authorId": "145741057",
+          "name": "Alon Cohen"
+        },
+        {
+          "authorId": "35996413",
+          "name": "A. Jansen"
+        },
+        {
+          "authorId": "2493119",
+          "name": "H. Gazula"
+        },
+        {
+          "authorId": "2033170377",
+          "name": "Gina Choe"
+        },
+        {
+          "authorId": "2033760108",
+          "name": "Aditi Rao"
+        },
+        {
+          "authorId": "2033600755",
+          "name": "Catherine Kim"
+        },
+        {
+          "authorId": "2033760369",
+          "name": "Colton Casto"
+        },
+        {
+          "authorId": "2033759751",
+          "name": "Fanda Lora"
+        },
+        {
+          "authorId": "145898353",
+          "name": "A. Flinker"
+        },
+        {
+          "authorId": "7006458",
+          "name": "S. Devore"
+        },
+        {
+          "authorId": "1850025",
+          "name": "W. Doyle"
+        },
+        {
+          "authorId": "145886746",
+          "name": "D. Friedman"
+        },
+        {
+          "authorId": "38679576",
+          "name": "Patricia Dugan"
+        },
+        {
+          "authorId": "1809983",
+          "name": "Avinatan Hassidim"
+        },
+        {
+          "authorId": "2068714621",
+          "name": "Michael P. Brenner"
+        },
+        {
+          "authorId": "1745572",
+          "name": "Yossi Matias"
+        },
+        {
+          "authorId": "1780319",
+          "name": "K. Norman"
+        },
+        {
+          "authorId": "145966661",
+          "name": "O. Devinsky"
+        },
+        {
+          "authorId": "1787630",
+          "name": "U. Hasson"
+        }
+      ]
+    },
+    {
+      "paperId": "4f0318290bc75294338fdeb450e4365929b3aa0c",
+      "publicationVenue": {
+        "id": "30a8645d-22d4-42e2-b3f6-304bf4ce3a02",
+        "name": "International Conference on Computational Logic",
+        "type": "conference",
+        "alternate_names": [
+          "CL",
+          "Int Conf Comput Log"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4f0318290bc75294338fdeb450e4365929b3aa0c",
+      "title": "CausaLM: Causal Model Explanation Through Counterfactual Language Models",
+      "venue": "International Conference on Computational Logic",
+      "year": 2020,
+      "citationCount": 154,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "1382650252",
+          "name": "Nadav Oved"
+        },
+        {
+          "authorId": "2304764",
+          "name": "Uri Shalit"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        }
+      ]
+    },
+    {
+      "paperId": "939cce0698bed6e97c28b4dc35b1f3b47511ff20",
+      "publicationVenue": {
+        "id": "f9827422-a381-440c-a8a4-e5e50415934e",
+        "name": "Journal of Biomedical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Informatics"
+        ],
+        "issn": "1532-0464",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622857/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-biomedical-informatics/",
+          "http://www.sciencedirect.com/science/journal/15320464",
+          "http://www.journals.elsevier.com/journal-of-biomedical-informatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/939cce0698bed6e97c28b4dc35b1f3b47511ff20",
+      "title": "Active deep learning to detect demographic traits in free-form clinical notes",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2020,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "20719254",
+          "name": "Danny Vainstein"
+        },
+        {
+          "authorId": "88507334",
+          "name": "Roni Rosenfeld"
+        },
+        {
+          "authorId": "145888259",
+          "name": "Tzvika Hartman"
+        },
+        {
+          "authorId": "1809983",
+          "name": "Avinatan Hassidim"
+        },
+        {
+          "authorId": "1745572",
+          "name": "Yossi Matias"
+        }
+      ]
+    },
+    {
+      "paperId": "03cf16a4336823cdcfcefc5a06ff499776997acc",
+      "publicationVenue": {
+        "id": "ee37a78c-f3d8-407a-bd24-bb97fe6dbab9",
+        "name": "Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Comput Linguistics"
+        ],
+        "issn": "0891-2017",
+        "alternate_issns": [
+          "1530-9312",
+          "0362-613x",
+          "0362-613X"
+        ],
+        "url": "http://aclanthology.info/venues/cl",
+        "alternate_urls": [
+          "http://mitpress.mit.edu/catalog/item/default.asp?ttype=4&tid=10",
+          "https://www.mitpressjournals.org/loi/coli"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/03cf16a4336823cdcfcefc5a06ff499776997acc",
+      "title": "Predicting In-Game Actions from Interviews of NBA Players",
+      "venue": "Computational Linguistics",
+      "year": 2019,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Psychology",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1382650252",
+          "name": "Nadav Oved"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        }
+      ]
+    },
+    {
+      "paperId": "5809135c6ad6d0392be20a3143f2f74ab6f64ef4",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/5809135c6ad6d0392be20a3143f2f74ab6f64ef4",
+      "title": "Explaining Classifiers with Causal Concept Effect (CaCE)",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 168,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "37226164",
+          "name": "Yash Goyal"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "2304764",
+          "name": "Uri Shalit"
+        },
+        {
+          "authorId": "3351164",
+          "name": "Been Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "f1ed71399650e5c1c31ab00146dfddf63ffcabaf",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/f1ed71399650e5c1c31ab00146dfddf63ffcabaf",
+      "title": "Predicting In-game Actions From the Language of NBA Players",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1382650252",
+          "name": "Nadav Oved"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "1762757",
+          "name": "Roi Reichart"
+        }
+      ]
+    },
+    {
+      "paperId": "720df21f2adb29fa7cbe58f638d8ff1cdc5ce615",
+      "publicationVenue": {
+        "id": "37f5b9b7-f828-4ae1-a174-45b538cbd4e4",
+        "name": "Information Processing & Management",
+        "type": "journal",
+        "alternate_names": [
+          "Inf Process Manag",
+          "Inf Process  Manag",
+          "Information Processing and Management"
+        ],
+        "issn": "0306-4573",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/244/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/information-processing-and-management/",
+          "http://www.sciencedirect.com/science/journal/03064573",
+          "http://www.journals.elsevier.com/information-processing-and-management/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/720df21f2adb29fa7cbe58f638d8ff1cdc5ce615",
+      "title": "An Examination of the Cryptocurrency Pump and Dump Ecosystem",
+      "venue": "Information Processing & Management",
+      "year": 2018,
+      "citationCount": 85,
+      "fieldsOfStudy": [
+        "Business",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "122359362",
+          "name": "J. Hamrick"
+        },
+        {
+          "authorId": "133977257",
+          "name": "Farhang Rouhi"
+        },
+        {
+          "authorId": "51460423",
+          "name": "A. Mukherjee"
+        },
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "2991397",
+          "name": "Neil Gandal"
+        },
+        {
+          "authorId": "103311621",
+          "name": "T. Moore"
+        },
+        {
+          "authorId": "35870001",
+          "name": "Marie Vasek"
+        }
+      ]
+    },
+    {
+      "paperId": "e280623765318f26c29244ff819a416365c914b6",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e280623765318f26c29244ff819a416365c914b6",
+      "title": "The Rise and Fall of Cryptocurrencies",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 11,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "2991397",
+          "name": "Neil Gandal"
+        },
+        {
+          "authorId": "103311621",
+          "name": "T. Moore"
+        },
+        {
+          "authorId": "35870001",
+          "name": "Marie Vasek"
+        }
+      ]
+    },
+    {
+      "paperId": "f85f25eb699eaaa87cae76d9a61e1aad55e22401",
+      "publicationVenue": {
+        "id": "91a636b2-7d67-48f5-b326-712bc1218671",
+        "name": "Journal of Cybersecurity",
+        "type": "journal",
+        "alternate_names": [
+          "J Cybersecur"
+        ],
+        "issn": "2057-2093",
+        "alternate_issns": [
+          "2057-2085"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f85f25eb699eaaa87cae76d9a61e1aad55e22401",
+      "title": "The impact of DDoS and other security shocks on Bitcoin currency exchanges: evidence from Mt. Gox",
+      "venue": "Journal of Cybersecurity",
+      "year": 2017,
+      "citationCount": 90,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46609506",
+          "name": "Amir Feder"
+        },
+        {
+          "authorId": "2991397",
+          "name": "Neil Gandal"
+        },
+        {
+          "authorId": "122359362",
+          "name": "J. Hamrick"
+        },
+        {
+          "authorId": "103311621",
+          "name": "T. Moore"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5489 @@
+{
+  "authorId": "1702849",
+  "name": "Nianwen Xue",
+  "affiliations": [],
+  "paperCount": 134,
+  "citationCount": 6348,
+  "hIndex": 37,
+  "papers": [
+    {
+      "paperId": "03734718cf83e0269721c431ad1799fe33fa95d9",
+      "publicationVenue": {
+        "id": "32e97278-1c8c-4e1f-a5b6-9a6359ea439d",
+        "name": "International Workshop on Treebanks and Linguistic Theories",
+        "type": "conference",
+        "alternate_names": [
+          "TLT",
+          "Int Workshop Treebanks Linguistic Theor"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/03734718cf83e0269721c431ad1799fe33fa95d9",
+      "title": "Mapping AMR to UMR: Resources for Adapting Existing Corpora for Cross-Lingual Compatibility",
+      "venue": "International Workshop on Treebanks and Linguistic Theories",
+      "year": 2023,
+      "citationCount": 12,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "19331592",
+          "name": "Julia Bonn"
+        },
+        {
+          "authorId": "1380290459",
+          "name": "Skatje Myers"
+        },
+        {
+          "authorId": "2210202342",
+          "name": "Jens E. L. Van Gysel"
+        },
+        {
+          "authorId": "4698577",
+          "name": "Lukas Denk"
+        },
+        {
+          "authorId": "51882643",
+          "name": "Meagan Vigus"
+        },
+        {
+          "authorId": "2142154911",
+          "name": "Jin Zhao"
+        },
+        {
+          "authorId": "2070241255",
+          "name": "Andrew Cowell"
+        },
+        {
+          "authorId": "144456145",
+          "name": "W. Bruce Croft"
+        },
+        {
+          "authorId": "144002335",
+          "name": "Jan Hajic"
+        },
+        {
+          "authorId": "2086466630",
+          "name": "James H Martin"
+        },
+        {
+          "authorId": "6214002",
+          "name": "Alexis Palmer"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        },
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "3344673",
+          "name": "Zdenka Uresov\u00e1"
+        },
+        {
+          "authorId": "143886116",
+          "name": "Rosa Vallejos"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "8c73cfdfa9b6131201108c105a4ea81037d41faa",
+      "publicationVenue": {
+        "id": "e551db07-5020-436c-a968-a52882c905f6",
+        "name": "Law",
+        "type": "conference",
+        "alternate_names": [
+          "Linguistic Annot Workshop",
+          "LAW",
+          "Linguistic Annotation Workshop"
+        ],
+        "issn": "2308-3107",
+        "url": "https://www.aclweb.org/anthology/venues/law/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8c73cfdfa9b6131201108c105a4ea81037d41faa",
+      "title": "UMR-Writer 2.0: Incorporating a New Keyboard Interface and Workflow into UMR-Writer",
+      "venue": "Law",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "20609243",
+          "name": "Sijia Ge"
+        },
+        {
+          "authorId": "2142154911",
+          "name": "Jin Zhao"
+        },
+        {
+          "authorId": "1410067271",
+          "name": "Kristin Wright-Bettner"
+        },
+        {
+          "authorId": "1380290459",
+          "name": "Skatje Myers"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        }
+      ]
+    },
+    {
+      "paperId": "f76038a25224d96cc697e0f4d8d6c3b51128edbc",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f76038a25224d96cc697e0f4d8d6c3b51128edbc",
+      "title": "UMR annotation of Chinese Verb compounds and related constructions",
+      "venue": "CXGSNLP",
+      "year": 2023,
+      "citationCount": 4,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2210565902",
+          "name": "Haibo Sun"
+        },
+        {
+          "authorId": "2125064076",
+          "name": "Yifan Zhu"
+        },
+        {
+          "authorId": "2142154911",
+          "name": "Jin Zhao"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "5f02c45168ebe30d05f12b5178a93cb7186cd4df",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/5f02c45168ebe30d05f12b5178a93cb7186cd4df",
+      "title": "Meaning Representations for Natural Languages: Design, Models and Applications",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "144683841",
+          "name": "Jeffrey Flanigan"
+        },
+        {
+          "authorId": "144377686",
+          "name": "Ishan Jindal"
+        },
+        {
+          "authorId": "1718694",
+          "name": "Yunyao Li"
+        },
+        {
+          "authorId": "1388957618",
+          "name": "Timothy J. O'Gorman"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "6923b2dd4f2a691496a6931c59150189cd496d76",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6923b2dd4f2a691496a6931c59150189cd496d76",
+      "title": "A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "33985877",
+          "name": "Annemarie Friedrich"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "6214002",
+          "name": "Alexis Palmer"
+        }
+      ]
+    },
+    {
+      "paperId": "86fb04cb22f1fa3f5f5da236701ee1ab0f47484f",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/86fb04cb22f1fa3f5f5da236701ee1ab0f47484f",
+      "title": "Modal Dependency Parsing via Language Model Priming",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40040342",
+          "name": "Jiarui Yao"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "1875233",
+          "name": "Bonan Min"
+        }
+      ]
+    },
+    {
+      "paperId": "cf94c76af4795e4a3c05e5a000db1474ae3bb789",
+      "publicationVenue": {
+        "id": "1503109c-8624-463d-8f3a-f3a3732fa08d",
+        "name": "Chinese Lexical Semantics",
+        "type": "conference",
+        "alternate_names": [
+          "CLSW",
+          "Chin Lex Semant"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/cf94c76af4795e4a3c05e5a000db1474ae3bb789",
+      "title": "A Dependency Structure Annotation for Modality in Chinese News Articles",
+      "venue": "Chinese Lexical Semantics",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109114881",
+          "name": "Zhifu Liu"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "97157c36bff249ecc81322d86759ff6d3a8b6e38",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/97157c36bff249ecc81322d86759ff6d3a8b6e38",
+      "title": "UMR-Writer: A Web Application for Annotating Uniform Meaning Representations",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2142154911",
+          "name": "Jin Zhao"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "116305713",
+          "name": "J. V. Gysel"
+        },
+        {
+          "authorId": "4724587",
+          "name": "Jinho D. Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "b1c1bfe5f7a5696909c0ee7de7fbb4092a04c907",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b1c1bfe5f7a5696909c0ee7de7fbb4092a04c907",
+      "title": "Designing a Uniform Meaning Representation for Natural Language Processing",
+      "venue": "KI - K\u00fcnstliche Intelligenz",
+      "year": 2021,
+      "citationCount": 68,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "116305713",
+          "name": "J. V. Gysel"
+        },
+        {
+          "authorId": "51882643",
+          "name": "Meagan Vigus"
+        },
+        {
+          "authorId": "41124366",
+          "name": "Jayeol Chun"
+        },
+        {
+          "authorId": "2715566",
+          "name": "Kenneth Lai"
+        },
+        {
+          "authorId": "51500425",
+          "name": "Sarah Moeller"
+        },
+        {
+          "authorId": "40040342",
+          "name": "Jiarui Yao"
+        },
+        {
+          "authorId": "1388957618",
+          "name": "Timothy J. O'Gorman"
+        },
+        {
+          "authorId": "2070241255",
+          "name": "Andrew Cowell"
+        },
+        {
+          "authorId": "144456145",
+          "name": "W. Bruce Croft"
+        },
+        {
+          "authorId": "1405994600",
+          "name": "Chu-Ren Huang"
+        },
+        {
+          "authorId": "144002335",
+          "name": "Jan Hajic"
+        },
+        {
+          "authorId": "1740728360",
+          "name": "James H. Martin"
+        },
+        {
+          "authorId": "2949607",
+          "name": "S. Oepen"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        },
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "143886116",
+          "name": "Rosa Vallejos"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "ddf45536044b870a7e93966317474ef3b2ab2560",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ddf45536044b870a7e93966317474ef3b2ab2560",
+      "title": "Factuality Assessment as Modal Dependency Parsing",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40040342",
+          "name": "Jiarui Yao"
+        },
+        {
+          "authorId": "1817035",
+          "name": "Haoling Qiu"
+        },
+        {
+          "authorId": "2142154911",
+          "name": "Jin Zhao"
+        },
+        {
+          "authorId": "1875233",
+          "name": "Bonan Min"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "fe4558c2301b21bed2b7073de04fc664823fd9cb",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/fe4558c2301b21bed2b7073de04fc664823fd9cb",
+      "title": "A Joint Model for Dropped Pronoun Recovery and Conversational Discourse Parsing in Chinese Conversational Speech",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2121285355",
+          "name": "Jingxuan Yang"
+        },
+        {
+          "authorId": "2051971628",
+          "name": "Kerui Xu"
+        },
+        {
+          "authorId": "2150636233",
+          "name": "Jun Xu"
+        },
+        {
+          "authorId": "2118153856",
+          "name": "Si Li"
+        },
+        {
+          "authorId": "144636492",
+          "name": "Sheng Gao"
+        },
+        {
+          "authorId": "2140051783",
+          "name": "Jun Guo"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "2259699",
+          "name": "Ji-Rong Wen"
+        }
+      ]
+    },
+    {
+      "paperId": "20de3fe9e7833d8468ece3dce2b32b5358c7ac25",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/20de3fe9e7833d8468ece3dce2b32b5358c7ac25",
+      "title": "Annotating Temporal Dependency Graphs via Crowdsourcing",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40040342",
+          "name": "Jiarui Yao"
+        },
+        {
+          "authorId": "1817035",
+          "name": "Haoling Qiu"
+        },
+        {
+          "authorId": "1875233",
+          "name": "Bonan Min"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "a0c700a03782b5105b3b3b6c0c0c4b537e6db745",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a0c700a03782b5105b3b3b6c0c0c4b537e6db745",
+      "title": "Transformer-GCRF: Recovering Chinese Dropped Pronouns with General Conditional Random Fields",
+      "venue": "Findings",
+      "year": 2020,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2121285355",
+          "name": "Jingxuan Yang"
+        },
+        {
+          "authorId": "2051971628",
+          "name": "Kerui Xu"
+        },
+        {
+          "authorId": "2150636233",
+          "name": "Jun Xu"
+        },
+        {
+          "authorId": "2118153856",
+          "name": "Si Li"
+        },
+        {
+          "authorId": "144636492",
+          "name": "Sheng Gao"
+        },
+        {
+          "authorId": "2140051783",
+          "name": "Jun Guo"
+        },
+        {
+          "authorId": "153693432",
+          "name": "Ji-rong Wen"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "dff49c89b2d15704b7122c309e76bf7c545200b2",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/dff49c89b2d15704b7122c309e76bf7c545200b2",
+      "title": "MRP 2020: The Second Shared Task on Cross-Framework and Cross-Lingual Meaning Representation Parsing",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2020,
+      "citationCount": 66,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2949607",
+          "name": "S. Oepen"
+        },
+        {
+          "authorId": "2769805",
+          "name": "Omri Abend"
+        },
+        {
+          "authorId": "2453967",
+          "name": "Lasha Abzianidze"
+        },
+        {
+          "authorId": "3461596",
+          "name": "Johan Bos"
+        },
+        {
+          "authorId": "144002335",
+          "name": "Jan Hajic"
+        },
+        {
+          "authorId": "2086349",
+          "name": "Daniel Hershcovich"
+        },
+        {
+          "authorId": "2185910490",
+          "name": "Bin Li"
+        },
+        {
+          "authorId": "1388957618",
+          "name": "Timothy J. O'Gorman"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "1771298",
+          "name": "Daniel Zeman"
+        }
+      ]
+    },
+    {
+      "paperId": "f5cfbf5b68531cb3714c20e5c6423f8d66f7c6d8",
+      "publicationVenue": {
+        "id": "63eb9f8a-e9a8-43fb-a0f1-bdf78525349d",
+        "name": "Pacific Asia Conference on Language, Information and Computation",
+        "type": "conference",
+        "alternate_names": [
+          "Pacific Asia Conference on Language, Information, and Computation",
+          "Pac Asia Conf Lang Inf Comput",
+          "PACLIC"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f5cfbf5b68531cb3714c20e5c6423f8d66f7c6d8",
+      "title": "Abstract Meaning Representation for MWE: A study of the mapping of aspectuality based on Mandarin light verb jiayi",
+      "venue": "Pacific Asia Conference on Language, Information and Computation",
+      "year": 2020,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2149373430",
+          "name": "Lu Lu"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "1405994600",
+          "name": "Chu-Ren Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "06a646e91447ed87dd5566d40872df359692ba61",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/06a646e91447ed87dd5566d40872df359692ba61",
+      "title": "A Survey of Discourse Representations for Chinese Discourse Annotation",
+      "venue": "ACM Trans. Asian Low Resour. Lang. Inf. Process.",
+      "year": 2019,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Sociology"
+      ],
+      "authors": [
+        {
+          "authorId": "32395619",
+          "name": "Xiaomian Kang"
+        },
+        {
+          "authorId": "2423168",
+          "name": "Chengqing Zong"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "3c17e2784b7d29088abab27f45c38258a9398677",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/3c17e2784b7d29088abab27f45c38258a9398677",
+      "title": "Recovering dropped pronouns in Chinese conversations via modeling their referents",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2121285355",
+          "name": "Jingxuan Yang"
+        },
+        {
+          "authorId": "47109079",
+          "name": "Jianzhuo Tong"
+        },
+        {
+          "authorId": "2118153856",
+          "name": "Si Li"
+        },
+        {
+          "authorId": "144636492",
+          "name": "Sheng Gao"
+        },
+        {
+          "authorId": "2140051783",
+          "name": "Jun Guo"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "402a7ab2b96250f6f96bb189a9e60cac350e8b15",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/402a7ab2b96250f6f96bb189a9e60cac350e8b15",
+      "title": "Modeling Quantification and Scope in Abstract Meaning Representations",
+      "venue": "Proceedings of the First International Workshop on Designing Meaning Representations",
+      "year": 2019,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "2715566",
+          "name": "Kenneth Lai"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "59dd57ae98c2d9c373c9f04ea390f1ba6c5fffa8",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/59dd57ae98c2d9c373c9f04ea390f1ba6c5fffa8",
+      "title": "MRP 2019: Cross-Framework Meaning Representation Parsing",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2019,
+      "citationCount": 78,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2949607",
+          "name": "S. Oepen"
+        },
+        {
+          "authorId": "2769805",
+          "name": "Omri Abend"
+        },
+        {
+          "authorId": "144002335",
+          "name": "Jan Hajic"
+        },
+        {
+          "authorId": "2086349",
+          "name": "Daniel Hershcovich"
+        },
+        {
+          "authorId": "40462390",
+          "name": "Marco Kuhlmann"
+        },
+        {
+          "authorId": "1388957618",
+          "name": "Timothy J. O'Gorman"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "41124366",
+          "name": "Jayeol Chun"
+        },
+        {
+          "authorId": "2757959",
+          "name": "Milan Straka"
+        },
+        {
+          "authorId": "3344673",
+          "name": "Zdenka Uresov\u00e1"
+        }
+      ]
+    },
+    {
+      "paperId": "7036950284d095e1286fec9f6c5154a9e1c10430",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/7036950284d095e1286fec9f6c5154a9e1c10430",
+      "title": "Proceedings of the Shared Task on Cross-Framework Meaning Representation Parsing at the 2019 Conference on Natural Language Learning, CoNLL 2019, Hong Kong, Novemer 3, 2019",
+      "venue": "CoNLL Shared Task",
+      "year": 2019,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2949607",
+          "name": "S. Oepen"
+        },
+        {
+          "authorId": "2769805",
+          "name": "Omri Abend"
+        },
+        {
+          "authorId": "144002335",
+          "name": "Jan Hajic"
+        },
+        {
+          "authorId": "2086349",
+          "name": "Daniel Hershcovich"
+        },
+        {
+          "authorId": "40462390",
+          "name": "Marco Kuhlmann"
+        },
+        {
+          "authorId": "1388957618",
+          "name": "Timothy J. O'Gorman"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "bb0dcfa42c51d2cdde4f532ccc92529adb08e55e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/bb0dcfa42c51d2cdde4f532ccc92529adb08e55e",
+      "title": "Building a Chinese AMR Bank with Concept and Relation Alignments",
+      "venue": "LILT",
+      "year": 2019,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2007713335",
+          "name": "Bin Li"
+        },
+        {
+          "authorId": "47509786",
+          "name": "Y. Wen"
+        },
+        {
+          "authorId": "2150598697",
+          "name": "Li Song"
+        },
+        {
+          "authorId": "2901365",
+          "name": "Weiguang Qu"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "bdec761ecdf1cd33df19e3222531d87ebd479007",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/bdec761ecdf1cd33df19e3222531d87ebd479007",
+      "title": "Digital language resources and NLP tools",
+      "venue": "The Routledge Handbook of Chinese Applied Linguistics",
+      "year": 2019,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1730936",
+          "name": "Chu-Ren Huang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "e9a183cca0fc59cac2d9cfdffe5d90781c549658",
+      "publicationVenue": {
+        "id": "640a5acb-a481-4a3e-a751-1eb880600a99",
+        "name": "Natural Language Processing and Chinese Computing",
+        "type": "conference",
+        "alternate_names": [
+          "NLPCC",
+          "Nat Lang Process Chin Comput"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e9a183cca0fc59cac2d9cfdffe5d90781c549658",
+      "title": "SMART: A Stratified Machine Reading Test",
+      "venue": "Natural Language Processing and Chinese Computing",
+      "year": 2019,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40040342",
+          "name": "Jiarui Yao"
+        },
+        {
+          "authorId": "31117100",
+          "name": "Minxuan Feng"
+        },
+        {
+          "authorId": "2113276256",
+          "name": "Haixia Feng"
+        },
+        {
+          "authorId": "40296541",
+          "name": "Zhiguo Wang"
+        },
+        {
+          "authorId": "49889227",
+          "name": "Yuchen Zhang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "f8300c875a84f675d889e66dcb3141bc9d76c1c7",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f8300c875a84f675d889e66dcb3141bc9d76c1c7",
+      "title": "Acquiring Structured Temporal Representation via Crowdsourcing: A Feasibility Study",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2019,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49889227",
+          "name": "Yuchen Zhang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "14e6d024f8f6bc83928afa2fe9bdb8d28c6f99de",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/14e6d024f8f6bc83928afa2fe9bdb8d28c6f99de",
+      "title": "Neural Ranking Models for Temporal Dependency Structure Parsing",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49889227",
+          "name": "Yuchen Zhang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "65b7ca8e618f7116b13dc4abab8b410beb9ba701",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/65b7ca8e618f7116b13dc4abab8b410beb9ba701",
+      "title": "Transition-Based Chinese AMR Parsing",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47074942",
+          "name": "Chuan Wang"
+        },
+        {
+          "authorId": "2007713335",
+          "name": "Bin Li"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "941b7b233d54b21a055c4cccb696385a7dd2df1c",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/941b7b233d54b21a055c4cccb696385a7dd2df1c",
+      "title": "Structured Interpretation of Temporal Relations",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2018,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49889227",
+          "name": "Yuchen Zhang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "02258d796c3b52c2fd88bca8300465ba79f6199a",
+      "publicationVenue": {
+        "id": "30a8645d-22d4-42e2-b3f6-304bf4ce3a02",
+        "name": "International Conference on Computational Logic",
+        "type": "conference",
+        "alternate_names": [
+          "CL",
+          "Int Conf Comput Log"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/02258d796c3b52c2fd88bca8300465ba79f6199a",
+      "title": "Translation Divergences in Chinese\u2013English Machine Translation: An Empirical Investigation",
+      "venue": "International Conference on Computational Logic",
+      "year": 2017,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "121137142",
+          "name": "D. Deng"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "05f1070b446ebe93fb3179f85b369d4f05e27a7e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/05f1070b446ebe93fb3179f85b369d4f05e27a7e",
+      "title": "Discourse Segmentation for Building a RST Chinese Treebank",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3381195",
+          "name": "Shuyuan Cao"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "31793506",
+          "name": "I. D. Cunha"
+        },
+        {
+          "authorId": "2994713",
+          "name": "Mikel Iruskieta"
+        },
+        {
+          "authorId": "47074942",
+          "name": "Chuan Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "2f749824d04e23279e18dde64d84905e938079cf",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2f749824d04e23279e18dde64d84905e938079cf",
+      "title": "A Systematic Study of Neural Discourse Models for Implicit Discourse Relation",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2017,
+      "citationCount": 46,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "30466808",
+          "name": "Attapol T. Rutherford"
+        },
+        {
+          "authorId": "2869436",
+          "name": "Vera Demberg"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "45c518aa2dd1538cc56329fbabd58ea9e0b96461",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/45c518aa2dd1538cc56329fbabd58ea9e0b96461",
+      "title": "Getting the Most out of AMR Parsing",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2017,
+      "citationCount": 44,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47074942",
+          "name": "Chuan Wang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "8c3d322ebd1fe00115e176358ba4d9815aff01e4",
+      "publicationVenue": {
+        "id": "e783305c-5d8a-44b9-b7a2-449d474a85b2",
+        "name": "International Joint Conference on Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "IJCNLP",
+          "Int Jt Conf Nat Lang Process"
+        ],
+        "url": "https://www.aclweb.org/portal/ijcnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/8c3d322ebd1fe00115e176358ba4d9815aff01e4",
+      "title": "Proceedings of the IJCNLP 2017, Shared Tasks",
+      "venue": "International Joint Conference on Natural Language Processing",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3741691",
+          "name": "Chao-Hong Liu"
+        },
+        {
+          "authorId": "1683562",
+          "name": "Preslav Nakov"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "c5c5608e1e28d71d2974addc3076a7f142a54620",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c5c5608e1e28d71d2974addc3076a7f142a54620",
+      "title": "Addressing the Data Sparsity Issue in Neural AMR Parsing",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2017,
+      "citationCount": 70,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2602530",
+          "name": "Xiaochang Peng"
+        },
+        {
+          "authorId": "47074942",
+          "name": "Chuan Wang"
+        },
+        {
+          "authorId": "1793218",
+          "name": "D. Gildea"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "0469ed1f8cc91582aa9a3bb5252e0407b21b1598",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/0469ed1f8cc91582aa9a3bb5252e0407b21b1598",
+      "title": "Converting SynTagRus Dependency Treebank into Penn Treebank Style",
+      "venue": "LAW@ACL",
+      "year": 2016,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49382363",
+          "name": "Alex L\u01b0u"
+        },
+        {
+          "authorId": "32045964",
+          "name": "Sophia A. Malamud"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "21e8986e32ed2f1362c1433f7852186dd385513a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/21e8986e32ed2f1362c1433f7852186dd385513a",
+      "title": "Annotating the Little Prince with Chinese AMRs",
+      "venue": "LAW@ACL",
+      "year": 2016,
+      "citationCount": 51,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2007713335",
+          "name": "Bin Li"
+        },
+        {
+          "authorId": "47509786",
+          "name": "Y. Wen"
+        },
+        {
+          "authorId": "2901365",
+          "name": "Weiguang Qu"
+        },
+        {
+          "authorId": "2052848512",
+          "name": "Lijun Bu"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "24be978ca09ca4c2a689f0619bdd709838e69309",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/24be978ca09ca4c2a689f0619bdd709838e69309",
+      "title": "Towards Accurate Word Segmentation for Chinese Patents",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2118153856",
+          "name": "Si Li"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "3d3dff813a571c5dad0a6bc57d68727e2512226f",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3d3dff813a571c5dad0a6bc57d68727e2512226f",
+      "title": "Large Multi-lingual, Multi-level and Multi-genre Annotation Corpus",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2016,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2685733",
+          "name": "Xuansong Li"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "1744313",
+          "name": "L. Ramshaw"
+        },
+        {
+          "authorId": "1958890",
+          "name": "M. Maamouri"
+        },
+        {
+          "authorId": "3212973",
+          "name": "Ann Bies"
+        },
+        {
+          "authorId": "39996046",
+          "name": "Kathryn Conger"
+        },
+        {
+          "authorId": "144084268",
+          "name": "Stephen Grimes"
+        },
+        {
+          "authorId": "1754963",
+          "name": "Stephanie Strassel"
+        }
+      ]
+    },
+    {
+      "paperId": "5af25bc90da5d4bf539b4ccf47e16874ef4ca99a",
+      "publicationVenue": {
+        "id": "7dda5bd1-752f-45e5-bc7b-09633096916e",
+        "name": "Language Resources and Evaluation",
+        "type": "journal",
+        "alternate_names": [
+          "Lang Resour Evaluation"
+        ],
+        "issn": "1574-020X",
+        "url": "https://link.springer.com/journal/10579",
+        "alternate_urls": [
+          "http://www.jstor.org/action/showPublication?journalCode=langresoeval"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5af25bc90da5d4bf539b4ccf47e16874ef4ca99a",
+      "title": "Generalizing the semantic roles in the Chinese Proposition Bank",
+      "venue": "Language Resources and Evaluation",
+      "year": 2016,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50077752",
+          "name": "Xiaopeng Bai"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "a076d5d4e07fb22dcab7481ce669e3d031bd3ce5",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a076d5d4e07fb22dcab7481ce669e3d031bd3ce5",
+      "title": "Annotating the discourse and dialogue structure of SMS message conversations",
+      "venue": "LAW@ACL",
+      "year": 2016,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "3462093",
+          "name": "Qishen Su"
+        },
+        {
+          "authorId": "153219423",
+          "name": "S. Jeong"
+        }
+      ]
+    },
+    {
+      "paperId": "b672dbb2d6fc80bc52c2d4c753269a73e24eb869",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/b672dbb2d6fc80bc52c2d4c753269a73e24eb869",
+      "title": "Robust Non-Explicit Neural Discourse Parser in English and Chinese",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2016,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "30466808",
+          "name": "Attapol T. Rutherford"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "cc489dd24fff40097186291149b54a8f7fc4c4d2",
+      "publicationVenue": {
+        "id": "2f5d0e8a-faad-4f10-b323-2b2e3c439a78",
+        "name": "Lecture Notes in Computer Science",
+        "type": "journal",
+        "alternate_names": [
+          "LNCS",
+          "Transactions on Computational Systems Biology",
+          "Trans Comput Syst Biology",
+          "Lect Note Comput Sci"
+        ],
+        "issn": "0302-9743",
+        "alternate_issns": [
+          "1861-2059",
+          "1861-2075",
+          "1866-4733"
+        ],
+        "url": "http://www.springer.com/lncs",
+        "alternate_urls": [
+          "http://www.springer.com/sgw/cda/frontpage/0,11855,1-164-2-73659-0,00.html",
+          "https://link.springer.com/bookseries/558",
+          "http://link.springer.com/search?query=\"Transactions+on+Computational+Systems+Biology\""
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/cc489dd24fff40097186291149b54a8f7fc4c4d2",
+      "title": "Natural Language Understanding and Intelligent Applications",
+      "venue": "Lecture Notes in Computer Science",
+      "year": 2016,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1781574",
+          "name": "Chin-Yew Lin"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "9072379",
+          "name": "Dongyan Zhao"
+        },
+        {
+          "authorId": "1790227",
+          "name": "Xuanjing Huang"
+        },
+        {
+          "authorId": "1717629",
+          "name": "Yansong Feng"
+        }
+      ]
+    },
+    {
+      "paperId": "e14751dae95de964db633e6e26f21539387feebc",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e14751dae95de964db633e6e26f21539387feebc",
+      "title": "CoNLL 2016 Shared Task on Multilingual Shallow Discourse Parsing",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2016,
+      "citationCount": 134,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "34789794",
+          "name": "H. Ng"
+        },
+        {
+          "authorId": "1735131",
+          "name": "Sameer Pradhan"
+        },
+        {
+          "authorId": "30466808",
+          "name": "Attapol T. Rutherford"
+        },
+        {
+          "authorId": "1736049",
+          "name": "B. Webber"
+        },
+        {
+          "authorId": "47074942",
+          "name": "Chuan Wang"
+        },
+        {
+          "authorId": "46506498",
+          "name": "Hongmin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "f417e2860170f2fd3ac17bc8eaa9f4eda27b39bc",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f417e2860170f2fd3ac17bc8eaa9f4eda27b39bc",
+      "title": "CAMR at SemEval-2016 Task 8: An Extended Transition-based AMR Parser",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2016,
+      "citationCount": 50,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47074942",
+          "name": "Chuan Wang"
+        },
+        {
+          "authorId": "1735131",
+          "name": "Sameer Pradhan"
+        },
+        {
+          "authorId": "34741133",
+          "name": "Xiaoman Pan"
+        },
+        {
+          "authorId": "144016781",
+          "name": "Heng Ji"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "ff3a766c9f1137df8b6792e0a00d4f952ba8d457",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/ff3a766c9f1137df8b6792e0a00d4f952ba8d457",
+      "title": "Neural Network Models for Implicit Discourse Relation Classification in English and Chinese without Surface Features",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "30466808",
+          "name": "Attapol T. Rutherford"
+        },
+        {
+          "authorId": "2869436",
+          "name": "Vera Demberg"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "09fbb6a0cf21f07f0e8e4382a791a743c254a5a3",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/09fbb6a0cf21f07f0e8e4382a791a743c254a5a3",
+      "title": "Recovering dropped pronouns from Chinese text messages",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2015,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108797784",
+          "name": "Yaqin Yang"
+        },
+        {
+          "authorId": "2144470687",
+          "name": "Yalin Liu"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "121120d81cc33be9b70d76fc561140a817c12eaa",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/121120d81cc33be9b70d76fc561140a817c12eaa",
+      "title": "Modeling word concepts without convention : linguistic and computational issues in Chinese word identification",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1730936",
+          "name": "Chu-Ren Huang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "3f903781f7d199593d84ab42ee45e8a19531fa54",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3f903781f7d199593d84ab42ee45e8a19531fa54",
+      "title": "Harmonizing word alignments and syntactic structures for extracting phrasal translation equivalents",
+      "venue": "SSST@NAACL-HLT",
+      "year": 2015,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "121137142",
+          "name": "D. Deng"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "3471005",
+          "name": "Shiman Guo"
+        }
+      ]
+    },
+    {
+      "paperId": "5ba79e88b37a084026ddc9ed2875a9dbe156aed4",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5ba79e88b37a084026ddc9ed2875a9dbe156aed4",
+      "title": "Feature Optimization for Constituent Parsing via Neural Networks",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2015,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40296541",
+          "name": "Zhiguo Wang"
+        },
+        {
+          "authorId": "2013337",
+          "name": "Haitao Mi"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "76dcddc9326b43dfe02f21f4597e2cef7970a131",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/76dcddc9326b43dfe02f21f4597e2cef7970a131",
+      "title": "GALE Chinese-English Parallel Aligned Treebank -- Training",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2685733",
+          "name": "Xuansong Li"
+        },
+        {
+          "authorId": "144084268",
+          "name": "Stephen Grimes"
+        },
+        {
+          "authorId": "1754963",
+          "name": "Stephanie Strassel"
+        },
+        {
+          "authorId": "2225466",
+          "name": "Xiaoyi Ma"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "1734174",
+          "name": "Mitchell P. Marcus"
+        },
+        {
+          "authorId": "145046822",
+          "name": "Ann Taylor"
+        }
+      ]
+    },
+    {
+      "paperId": "7f28517601328add02bb4cb13c0de27e36f4f993",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7f28517601328add02bb4cb13c0de27e36f4f993",
+      "title": "The CoNLL-2015 Shared Task on Shallow Discourse Parsing",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2015,
+      "citationCount": 149,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "34789794",
+          "name": "H. Ng"
+        },
+        {
+          "authorId": "1735131",
+          "name": "Sameer Pradhan"
+        },
+        {
+          "authorId": "143916481",
+          "name": "R. Prasad"
+        },
+        {
+          "authorId": "145178009",
+          "name": "Christopher Bryant"
+        },
+        {
+          "authorId": "30466808",
+          "name": "Attapol T. Rutherford"
+        }
+      ]
+    },
+    {
+      "paperId": "7fd36c11aee785663ba82b0d9e3cde82b7c78072",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7fd36c11aee785663ba82b0d9e3cde82b7c78072",
+      "title": "Boosting Transition-based AMR Parsing with Refined Actions and Auxiliary Analyzers",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2015,
+      "citationCount": 73,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47074942",
+          "name": "Chuan Wang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "1735131",
+          "name": "Sameer Pradhan"
+        }
+      ]
+    },
+    {
+      "paperId": "857ae0aeab2eca1689980cbf299bde72140cc2b4",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/857ae0aeab2eca1689980cbf299bde72140cc2b4",
+      "title": "Improving the Inference of Implicit Discourse Relations via Classifying Explicit Discourse Connectives",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2015,
+      "citationCount": 88,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "30466808",
+          "name": "Attapol T. Rutherford"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "91830ca68422d6b42446631eeef696c84e602e87",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/91830ca68422d6b42446631eeef696c84e602e87",
+      "title": "A Transition-based Algorithm for AMR Parsing",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2015,
+      "citationCount": 171,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47074942",
+          "name": "Chuan Wang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "1735131",
+          "name": "Sameer Pradhan"
+        }
+      ]
+    },
+    {
+      "paperId": "a374f747da9776fcac33145d9eb18932db0f2bfd",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a374f747da9776fcac33145d9eb18932db0f2bfd",
+      "title": "Modeling Word Concepts without Convention",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1730936",
+          "name": "Chu-Ren Huang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "10e04f49a2199670a621c08c59408baa3fa5f048",
+      "publicationVenue": {
+        "id": "7dda5bd1-752f-45e5-bc7b-09633096916e",
+        "name": "Language Resources and Evaluation",
+        "type": "journal",
+        "alternate_names": [
+          "Lang Resour Evaluation"
+        ],
+        "issn": "1574-020X",
+        "url": "https://link.springer.com/journal/10579",
+        "alternate_urls": [
+          "http://www.jstor.org/action/showPublication?journalCode=langresoeval"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/10e04f49a2199670a621c08c59408baa3fa5f048",
+      "title": "The Chinese Discourse TreeBank: a Chinese corpus annotated with discourse relations",
+      "venue": "Language Resources and Evaluation",
+      "year": 2014,
+      "citationCount": 86,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "7743173",
+          "name": "Yuping Zhou"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "1888e68e6e0cab5a3ca0a7f172687c975710e0db",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1888e68e6e0cab5a3ca0a7f172687c975710e0db",
+      "title": "Buy one get one free: Distant annotation of Chinese tense, event type and modality",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2014,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "49889227",
+          "name": "Yuchen Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "6d4a38fc3404b8be34def67acb8b19b8b19849b1",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6d4a38fc3404b8be34def67acb8b19b8b19849b1",
+      "title": "Discovering Implicit Discourse Relations Through Brown Cluster Pair Representation and Coreference Patterns",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2014,
+      "citationCount": 124,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "30466808",
+          "name": "Attapol T. Rutherford"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "7099fd783370d14cdd6b5bc399feca970b658563",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7099fd783370d14cdd6b5bc399feca970b658563",
+      "title": "Not an Interlingua, But Close: Comparison of English AMRs to Chinese and Czech",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2014,
+      "citationCount": 75,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "143832874",
+          "name": "Ondrej Bojar"
+        },
+        {
+          "authorId": "144002335",
+          "name": "Jan Hajic"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        },
+        {
+          "authorId": "3344673",
+          "name": "Zdenka Uresov\u00e1"
+        },
+        {
+          "authorId": "2108763357",
+          "name": "Xiuhong Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "74c0fa2cc26ab2f49ac60e219ce3f6607d4feaab",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/74c0fa2cc26ab2f49ac60e219ce3f6607d4feaab",
+      "title": "Automatic Inference of the Tense of Chinese Events Using Implicit Linguistic Information",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2014,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49889227",
+          "name": "Yuchen Zhang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "7859f1b76ef1f77d44467f00280b735611d3189d",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7859f1b76ef1f77d44467f00280b735611d3189d",
+      "title": "Building a Hierarchically Aligned Chinese-English Parallel Treebank",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2014,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "121137142",
+          "name": "D. Deng"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "907065d735cfa2c2f169dd01c668c00302c64297",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/907065d735cfa2c2f169dd01c668c00302c64297",
+      "title": "Aligning Chinese-English Parallel Parse Trees: Is it Feasible?",
+      "venue": "LAW@COLING",
+      "year": 2014,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "121137142",
+          "name": "D. Deng"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "9c8affd69f19c1e3fed565d2b07aa98784b106a1",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9c8affd69f19c1e3fed565d2b07aa98784b106a1",
+      "title": "Joint POS Tagging and Transition-based Constituent Parsing in Chinese with Non-local Features",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2014,
+      "citationCount": 42,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40296541",
+          "name": "Zhiguo Wang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "f50ade15074b00633c2f0999b7ca9672ef0fd071",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f50ade15074b00633c2f0999b7ca9672ef0fd071",
+      "title": "Effective Document-Level Features for Chinese Patent Word Segmentation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2014,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2118153856",
+          "name": "Si Li"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "4101e922b788c4d60560b46d3cd9903f9559a81d",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/4101e922b788c4d60560b46d3cd9903f9559a81d",
+      "title": "Dependency-based empty category detection via phrase structure trees",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2013,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "2108797784",
+          "name": "Yaqin Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "7bc889b932f81575bc81eec21ce76872a736bb08",
+      "publicationVenue": {
+        "id": "f9827422-a381-440c-a8a4-e5e50415934e",
+        "name": "Journal of Biomedical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Informatics"
+        ],
+        "issn": "1532-0464",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622857/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-biomedical-informatics/",
+          "http://www.sciencedirect.com/science/journal/15320464",
+          "http://www.journals.elsevier.com/journal-of-biomedical-informatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7bc889b932f81575bc81eec21ce76872a736bb08",
+      "title": "Temporal relation discovery between events and temporal expressions identified in clinical narrative",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2013,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2117878218",
+          "name": "Yao Cheng"
+        },
+        {
+          "authorId": "1723684",
+          "name": "Peter G. Anick"
+        },
+        {
+          "authorId": "145595134",
+          "name": "Pengyu Hong"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "a4ebc46452c9386a0e439e3e2e693cf0dacf7406",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a4ebc46452c9386a0e439e3e2e693cf0dacf7406",
+      "title": "A Lattice-based Framework for Joint Chinese Word Segmentation, POS Tagging and Parsing",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2013,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40296541",
+          "name": "Zhiguo Wang"
+        },
+        {
+          "authorId": "2423168",
+          "name": "Chengqing Zong"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "a9db51f18b06557b8027e52560edd6fa0d8b351b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a9db51f18b06557b8027e52560edd6fa0d8b351b",
+      "title": "Distant annotation of Chinese tense and modality",
+      "venue": "",
+      "year": 2013,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "49889227",
+          "name": "Yuchen Zhang"
+        },
+        {
+          "authorId": "2108797784",
+          "name": "Yaqin Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "c92970286c535992a86539b761357761e97a37ee",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c92970286c535992a86539b761357761e97a37ee",
+      "title": "Towards Robust Linguistic Analysis using OntoNotes",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2013,
+      "citationCount": 453,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1735131",
+          "name": "Sameer Pradhan"
+        },
+        {
+          "authorId": "1719404",
+          "name": "Alessandro Moschitti"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "34789794",
+          "name": "H. Ng"
+        },
+        {
+          "authorId": "1737207",
+          "name": "Anders Bj\u00f6rkelund"
+        },
+        {
+          "authorId": "143835479",
+          "name": "Olga Uryupina"
+        },
+        {
+          "authorId": null,
+          "name": "Yuchen Zhang"
+        },
+        {
+          "authorId": "2069512660",
+          "name": "Z. Zhong"
+        }
+      ]
+    },
+    {
+      "paperId": "cc79db113ddab633742c6637206a9f52ac2acc25",
+      "publicationVenue": {
+        "id": "0242a0a8-eac8-4d42-a284-4789a579aa9b",
+        "name": "China National Conference on Chinese Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "CCL",
+          "Constraint Comput Log",
+          "China National Conf Chin Comput Linguistics",
+          "Constraints in Computational Logics"
+        ],
+        "issn": "0319-0080",
+        "url": "http://ccl.uwinnipeg.ca/",
+        "alternate_urls": [
+          "http://ps-www.dfki.uni-sb.de/ccl/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/cc79db113ddab633742c6637206a9f52ac2acc25",
+      "title": "Bidirectional Sequence Labeling via Dual Decomposition",
+      "venue": "China National Conference on Chinese Computational Linguistics",
+      "year": 2013,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40296541",
+          "name": "Zhiguo Wang"
+        },
+        {
+          "authorId": "2423168",
+          "name": "Chengqing Zong"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "028ac1678dbc79eea3785aaf033348021713dc4c",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/028ac1678dbc79eea3785aaf033348021713dc4c",
+      "title": "Annotating dropped pronouns in Chinese newswire text",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2012,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40019720",
+          "name": "E. Baran"
+        },
+        {
+          "authorId": "2108797784",
+          "name": "Yaqin Yang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "1079d2c61c0a439b526911f2511bc11bbe1be3d4",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1079d2c61c0a439b526911f2511bc11bbe1be3d4",
+      "title": "PDTB-style Discourse Annotation of Chinese Text",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2012,
+      "citationCount": 115,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "7743173",
+          "name": "Yuping Zhou"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "1b379d0d55689c7e7f2e14f9f53905d9c4414bab",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/1b379d0d55689c7e7f2e14f9f53905d9c4414bab",
+      "title": "Joint Conference on EMNLP and CoNLL - Shared Task",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2012,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1735131",
+          "name": "Sameer Pradhan"
+        },
+        {
+          "authorId": "1719404",
+          "name": "Alessandro Moschitti"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "1d96469fd34319bf5ef7761fdd8cd7f9a8c7dcbb",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1d96469fd34319bf5ef7761fdd8cd7f9a8c7dcbb",
+      "title": "Chinese Comma Disambiguation for Discourse Analysis",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2012,
+      "citationCount": 33,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108797784",
+          "name": "Yaqin Yang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "38e46087b3c054551ffce9a0bdb7cb43976653c1",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/38e46087b3c054551ffce9a0bdb7cb43976653c1",
+      "title": "Extending and Scaling up the Chinese Treebank Annotation",
+      "venue": "CIPS-SIGHAN",
+      "year": 2012,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108763357",
+          "name": "Xiuhong Zhang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "5a52857892e15cf4bb0ae2ee452db0c697206af0",
+      "publicationVenue": {
+        "id": "be3f884c-b44a-496a-a593-1cad3f89d254",
+        "name": "BMC Bioinformatics",
+        "type": "journal",
+        "alternate_names": [
+          "BMC Bioinform"
+        ],
+        "issn": "1471-2105",
+        "url": "http://www.biomedcentral.com/bmcbioinformatics",
+        "alternate_urls": [
+          "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=13",
+          "http://www.biomedcentral.com/bmcbioinformatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5a52857892e15cf4bb0ae2ee452db0c697206af0",
+      "title": "A corpus of full-text journal articles is a robust evaluation tool for revealing differences in performance of biomedical natural language processing tools",
+      "venue": "BMC Bioinformatics",
+      "year": 2012,
+      "citationCount": 121,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "144765178",
+          "name": "Karin M. Verspoor"
+        },
+        {
+          "authorId": "145468230",
+          "name": "K. Cohen"
+        },
+        {
+          "authorId": "153446856",
+          "name": "Arrick Lanfranchi"
+        },
+        {
+          "authorId": "47871369",
+          "name": "Colin Warner"
+        },
+        {
+          "authorId": "1747709",
+          "name": "Helen L. Johnson"
+        },
+        {
+          "authorId": "4314126",
+          "name": "Christophe Roeder"
+        },
+        {
+          "authorId": "4724587",
+          "name": "Jinho D. Choi"
+        },
+        {
+          "authorId": "2060126517",
+          "name": "Christopher S. Funk"
+        },
+        {
+          "authorId": "8626980",
+          "name": "Yuriy Malenkiy"
+        },
+        {
+          "authorId": "144143332",
+          "name": "Miriam Eckert"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "1729058",
+          "name": "W. Baumgartner"
+        },
+        {
+          "authorId": "2163000",
+          "name": "M. Bada"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        },
+        {
+          "authorId": "145720231",
+          "name": "L. Hunter"
+        }
+      ]
+    },
+    {
+      "paperId": "5b61629ad28fb84b4d457879ad90fd93e1c8283d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/5b61629ad28fb84b4d457879ad90fd93e1c8283d",
+      "title": "Building a Chinese Lexical Taxonomy",
+      "venue": "CIPS-SIGHAN",
+      "year": 2012,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "50077752",
+          "name": "Xiaopeng Bai"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "7e35f0ba30546c64c59a97f61b710d064d93a318",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7e35f0ba30546c64c59a97f61b710d064d93a318",
+      "title": "Towards an Annotation Schema for Cancer Trajectory State Detection",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2012,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144153297",
+          "name": "J. Warner"
+        },
+        {
+          "authorId": "1723684",
+          "name": "Peter G. Anick"
+        },
+        {
+          "authorId": "98142485",
+          "name": "Kenneth Roach"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "143868926",
+          "name": "R. Joyce"
+        },
+        {
+          "authorId": "49284141",
+          "name": "C. Safran"
+        },
+        {
+          "authorId": "145595134",
+          "name": "Pengyu Hong"
+        }
+      ]
+    },
+    {
+      "paperId": "8c9f471aee4d0877bdd0cf2cac384786d5c25a8b",
+      "publicationVenue": {
+        "id": "be3f884c-b44a-496a-a593-1cad3f89d254",
+        "name": "BMC Bioinformatics",
+        "type": "journal",
+        "alternate_names": [
+          "BMC Bioinform"
+        ],
+        "issn": "1471-2105",
+        "url": "http://www.biomedcentral.com/bmcbioinformatics",
+        "alternate_urls": [
+          "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=13",
+          "http://www.biomedcentral.com/bmcbioinformatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/8c9f471aee4d0877bdd0cf2cac384786d5c25a8b",
+      "title": "A corpus of full-text journal articles is a robust evaluation tool for revealing differences in performance of biomedical natural language processing tools",
+      "venue": "BMC Bioinformatics",
+      "year": 2012,
+      "citationCount": 16,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "144765178",
+          "name": "Karin M. Verspoor"
+        },
+        {
+          "authorId": "145468230",
+          "name": "K. Cohen"
+        },
+        {
+          "authorId": "153446856",
+          "name": "Arrick Lanfranchi"
+        },
+        {
+          "authorId": "47871369",
+          "name": "Colin Warner"
+        },
+        {
+          "authorId": "1747709",
+          "name": "Helen L. Johnson"
+        },
+        {
+          "authorId": "4314126",
+          "name": "Christophe Roeder"
+        },
+        {
+          "authorId": "4724587",
+          "name": "Jinho D. Choi"
+        },
+        {
+          "authorId": "2060126517",
+          "name": "Christopher S. Funk"
+        },
+        {
+          "authorId": "8626980",
+          "name": "Yuriy Malenkiy"
+        },
+        {
+          "authorId": "144143332",
+          "name": "Miriam Eckert"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "2200590024",
+          "name": "William A. Baumgartner"
+        },
+        {
+          "authorId": "2163000",
+          "name": "M. Bada"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        },
+        {
+          "authorId": "2053934897",
+          "name": "Lawrence E. Hunter"
+        }
+      ]
+    },
+    {
+      "paperId": "956788df022f8006566e4b5d333fd365d9e6cae5",
+      "publicationVenue": {
+        "id": "984325f8-27b7-4088-9a6d-c3de9e23beca",
+        "name": "Language and Linguistics Compass",
+        "type": "journal",
+        "alternate_names": [
+          "Lang Linguistics Compass"
+        ],
+        "issn": "1749-818X",
+        "url": "http://www.blackwell-compass.com/subject/linguistics/",
+        "alternate_urls": [
+          "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1749-818X",
+          "http://www.blackwell-synergy.com/loi/lnco"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/956788df022f8006566e4b5d333fd365d9e6cae5",
+      "title": "Words without Boundaries: Computational Approaches to Chinese Word Segmentation",
+      "venue": "Language and Linguistics Compass",
+      "year": 2012,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1730936",
+          "name": "Chu-Ren Huang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "a10de77f7b93846631baa6ac571a5455e1235c0a",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a10de77f7b93846631baa6ac571a5455e1235c0a",
+      "title": "Parallel Aligned Treebanks at LDC: New Challenges Interfacing Existing Infrastructures",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2012,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2685733",
+          "name": "Xuansong Li"
+        },
+        {
+          "authorId": "1754963",
+          "name": "Stephanie Strassel"
+        },
+        {
+          "authorId": "144084268",
+          "name": "Stephen Grimes"
+        },
+        {
+          "authorId": "38189719",
+          "name": "S. Ismael"
+        },
+        {
+          "authorId": "1958890",
+          "name": "M. Maamouri"
+        },
+        {
+          "authorId": "3212973",
+          "name": "Ann Bies"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "e3ca52d42f4f262ef9e9447c8be69eca29007ae9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e3ca52d42f4f262ef9e9447c8be69eca29007ae9",
+      "title": "Exploring Temporal Vagueness with Mechanical Turk",
+      "venue": "LAW@ACL",
+      "year": 2012,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "7743173",
+          "name": "Yuping Zhou"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "f8cdf754fb7c08caf6e2f82b176819230910be5b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f8cdf754fb7c08caf6e2f82b176819230910be5b",
+      "title": "CoNLL-2012 Shared Task: Modeling Multilingual Unrestricted Coreference in OntoNotes",
+      "venue": "EMNLP-CoNLL Shared Task",
+      "year": 2012,
+      "citationCount": 808,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1735131",
+          "name": "Sameer Pradhan"
+        },
+        {
+          "authorId": "1719404",
+          "name": "Alessandro Moschitti"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "143835479",
+          "name": "Olga Uryupina"
+        },
+        {
+          "authorId": "49889227",
+          "name": "Yuchen Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "0255a217b8ca1e8faac541609ae25e89231cab60",
+      "publicationVenue": {
+        "id": "2ca90f66-d056-4b44-87a2-0f6a88aeb347",
+        "name": "Machine Translation Summit",
+        "type": "conference",
+        "alternate_names": [
+          "MTSummit",
+          "Mach Transl Summit"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0255a217b8ca1e8faac541609ae25e89231cab60",
+      "title": "Singular or Plural? Exploiting Parallel Corpora for Chinese Number Prediction",
+      "venue": "Machine Translation Summit",
+      "year": 2011,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40019720",
+          "name": "E. Baran"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "0304d70973a04d38dcc1508ecda89464f6d2bbca",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/0304d70973a04d38dcc1508ecda89464f6d2bbca",
+      "title": "Improving MT Word Alignment Using Aligned Multi-Stage Parses",
+      "venue": "SSST@ACL",
+      "year": 2011,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144817783",
+          "name": "Adam Meyers"
+        },
+        {
+          "authorId": "3227103",
+          "name": "M. Kosaka"
+        },
+        {
+          "authorId": "39524110",
+          "name": "Shasha Liao"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "11aafec2467efad35320cef4b3203102be8e0a87",
+      "publicationVenue": {
+        "id": "e551db07-5020-436c-a968-a52882c905f6",
+        "name": "Law",
+        "type": "conference",
+        "alternate_names": [
+          "Linguistic Annot Workshop",
+          "LAW",
+          "Linguistic Annotation Workshop"
+        ],
+        "issn": "2308-3107",
+        "url": "https://www.aclweb.org/anthology/venues/law/"
+      },
+      "url": "https://www.semanticscholar.org/paper/11aafec2467efad35320cef4b3203102be8e0a87",
+      "title": "Discourse-constrained Temporal Annotation",
+      "venue": "Law",
+      "year": 2011,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "7743173",
+          "name": "Yuping Zhou"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "210f93c292c74c69e0daa93ba4dcfffce227925e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/210f93c292c74c69e0daa93ba4dcfffce227925e",
+      "title": "Introduction to the Special Issue on Chinese Language Processing",
+      "venue": "TALIP",
+      "year": 2011,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2332834",
+          "name": "Keh-Jiann Chen"
+        },
+        {
+          "authorId": "1688015",
+          "name": "Qun Liu"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": null,
+          "name": "Le Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "29b0d0f8332ef0914936cb65f4b772e2558b3bbf",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/29b0d0f8332ef0914936cb65f4b772e2558b3bbf",
+      "title": "A Machine Learning-Based Coreference Detection System for OntoNotes",
+      "venue": "CoNLL Shared Task",
+      "year": 2011,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108797784",
+          "name": "Yaqin Yang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "1723684",
+          "name": "Peter G. Anick"
+        }
+      ]
+    },
+    {
+      "paperId": "34f2f4bcc00d42465fc5f068a3e50378c0e2cf2d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/34f2f4bcc00d42465fc5f068a3e50378c0e2cf2d",
+      "title": "Modeling Unrestricted Coreference in OntoNotes",
+      "venue": "",
+      "year": 2011,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1735131",
+          "name": "Sameer Pradhan"
+        },
+        {
+          "authorId": "1744313",
+          "name": "L. Ramshaw"
+        },
+        {
+          "authorId": "1734174",
+          "name": "Mitchell P. Marcus"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        },
+        {
+          "authorId": "1732071",
+          "name": "R. Weischedel"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "3e70c38cec8860071daad22f6b16a2df13bd088f",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3e70c38cec8860071daad22f6b16a2df13bd088f",
+      "title": "Chinese sentence segmentation as comma classification",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2011,
+      "citationCount": 51,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "2108797784",
+          "name": "Yaqin Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "717ae3cebb79bbb525267b5f03d5e2180640e5b6",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/717ae3cebb79bbb525267b5f03d5e2180640e5b6",
+      "title": "Electronic Health Records in Oncology Natural Language Processing and the Oncologic History: Is There a Match?",
+      "venue": "",
+      "year": 2011,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "144153297",
+          "name": "J. Warner"
+        },
+        {
+          "authorId": "1723684",
+          "name": "Peter G. Anick"
+        },
+        {
+          "authorId": "145595134",
+          "name": "Pengyu Hong"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "86128b764ea86caa207298a092f70f8bedc8ba3f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/86128b764ea86caa207298a092f70f8bedc8ba3f",
+      "title": "CoNLL-2011 Shared Task: Modeling Unrestricted Coreference in OntoNotes",
+      "venue": "CoNLL Shared Task",
+      "year": 2011,
+      "citationCount": 333,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1735131",
+          "name": "Sameer Pradhan"
+        },
+        {
+          "authorId": "1744313",
+          "name": "L. Ramshaw"
+        },
+        {
+          "authorId": "1734174",
+          "name": "Mitchell P. Marcus"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        },
+        {
+          "authorId": "1732071",
+          "name": "R. Weischedel"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "10168117f627120908160c3674bebecc864180fc",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/10168117f627120908160c3674bebecc864180fc",
+      "title": "Chasing the ghost: recovering empty categories in the Chinese Treebank",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2010,
+      "citationCount": 40,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108797784",
+          "name": "Yaqin Yang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "78a1a491b544c3346d7e21d67faccb226b8ca626",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/78a1a491b544c3346d7e21d67faccb226b8ca626",
+      "title": "Applying Syntactic, Semantic and Discourse Constraints in Chinese Temporal Annotation",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2010,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "7743173",
+          "name": "Yuping Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "a9cbcf6bb98ec6afcefb2ad6e020a14a77424b65",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a9cbcf6bb98ec6afcefb2ad6e020a14a77424b65",
+      "title": "Parallel Aligned Treebank Corpora at LDC: Methodology, Annotation and Integration",
+      "venue": "",
+      "year": 2010,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2685733",
+          "name": "Xuansong Li"
+        },
+        {
+          "authorId": "1754963",
+          "name": "Stephanie Strassel"
+        },
+        {
+          "authorId": "144084268",
+          "name": "Stephen Grimes"
+        },
+        {
+          "authorId": "38189719",
+          "name": "S. Ismael"
+        },
+        {
+          "authorId": "2225466",
+          "name": "Xiaoyi Ma"
+        },
+        {
+          "authorId": "35088923",
+          "name": "Niyu Ge"
+        },
+        {
+          "authorId": "3212973",
+          "name": "Ann Bies"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "1958890",
+          "name": "M. Maamouri"
+        }
+      ]
+    },
+    {
+      "paperId": "f1942199cd90eae9a91ec2beb33935e61927a210",
+      "publicationVenue": {
+        "id": "b0dc264e-1ef6-4c58-be54-d2e6137ac35f",
+        "name": "Natural Language Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Nat Lang Eng"
+        ],
+        "issn": "1351-3249",
+        "url": "https://www.cambridge.org/core/journals/natural-language-engineering",
+        "alternate_urls": [
+          "http://journals.cambridge.org/action/displayJournal?jid=NLE"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f1942199cd90eae9a91ec2beb33935e61927a210",
+      "title": "Book review: birdsteven, kleinevan and loperedward. natural language processing with python . o'reilly media, inc.2009. isbn: 978-0-596-51649-9.",
+      "venue": "Natural Language Engineering",
+      "year": 2010,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "f9120b1bdc4c2bf9f991016594fa4ea04505dcd1",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f9120b1bdc4c2bf9f991016594fa4ea04505dcd1",
+      "title": "Proceedings of the Fourth Linguistic Annotation Workshop",
+      "venue": "",
+      "year": 2010,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "1678591",
+          "name": "Massimo Poesio"
+        }
+      ]
+    },
+    {
+      "paperId": "fc9bd46a3c5ed14e91fe102acf00af2f62a11b5f",
+      "publicationVenue": {
+        "id": "e551db07-5020-436c-a968-a52882c905f6",
+        "name": "Law",
+        "type": "conference",
+        "alternate_names": [
+          "Linguistic Annot Workshop",
+          "LAW",
+          "Linguistic Annotation Workshop"
+        ],
+        "issn": "2308-3107",
+        "url": "https://www.aclweb.org/anthology/venues/law/"
+      },
+      "url": "https://www.semanticscholar.org/paper/fc9bd46a3c5ed14e91fe102acf00af2f62a11b5f",
+      "title": "PropBank Annotation of Multilingual Light Verb Constructions",
+      "venue": "Law",
+      "year": 2010,
+      "citationCount": 51,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2012510",
+          "name": "Jena D. Hwang"
+        },
+        {
+          "authorId": "2632964",
+          "name": "Archna Bhatia"
+        },
+        {
+          "authorId": "3202888",
+          "name": "C. Bonial"
+        },
+        {
+          "authorId": "3255404",
+          "name": "Aous Mansouri"
+        },
+        {
+          "authorId": "10732152",
+          "name": "Ashwini Vaidya"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        }
+      ]
+    },
+    {
+      "paperId": "44acd22bfb89f6e3d5529b2fa92b18b035e6bab5",
+      "publicationVenue": {
+        "id": "b0dc264e-1ef6-4c58-be54-d2e6137ac35f",
+        "name": "Natural Language Engineering",
+        "type": "journal",
+        "alternate_names": [
+          "Nat Lang Eng"
+        ],
+        "issn": "1351-3249",
+        "url": "https://www.cambridge.org/core/journals/natural-language-engineering",
+        "alternate_urls": [
+          "http://journals.cambridge.org/action/displayJournal?jid=NLE"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/44acd22bfb89f6e3d5529b2fa92b18b035e6bab5",
+      "title": "Adding semantic roles to the Chinese Treebank",
+      "venue": "Natural Language Engineering",
+      "year": 2009,
+      "citationCount": 115,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        }
+      ]
+    },
+    {
+      "paperId": "94efb4961f738062504d123495cb3d1a279e839f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/94efb4961f738062504d123495cb3d1a279e839f",
+      "title": "Linguistic Annotation",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 51,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "38352944",
+          "name": "M. Palmer"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "96fa295f6854f27b591a96106b71f465fe7249ac",
+      "publicationVenue": {
+        "id": "e551db07-5020-436c-a968-a52882c905f6",
+        "name": "Law",
+        "type": "conference",
+        "alternate_names": [
+          "Linguistic Annot Workshop",
+          "LAW",
+          "Linguistic Annotation Workshop"
+        ],
+        "issn": "2308-3107",
+        "url": "https://www.aclweb.org/anthology/venues/law/"
+      },
+      "url": "https://www.semanticscholar.org/paper/96fa295f6854f27b591a96106b71f465fe7249ac",
+      "title": "Transducing Logical Relations from Automatic and Manual GLARF",
+      "venue": "Law",
+      "year": 2009,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144817783",
+          "name": "Adam Meyers"
+        },
+        {
+          "authorId": "3227103",
+          "name": "M. Kosaka"
+        },
+        {
+          "authorId": "144016781",
+          "name": "Heng Ji"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "1999488",
+          "name": "M. Harper"
+        },
+        {
+          "authorId": "10022445",
+          "name": "Ang Sun"
+        },
+        {
+          "authorId": "145738420",
+          "name": "Wei Xu"
+        },
+        {
+          "authorId": "39524110",
+          "name": "Shasha Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "c7d3f610b528226f1c862c4f9cd6b37623f7390f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c7d3f610b528226f1c862c4f9cd6b37623f7390f",
+      "title": "The CoNLL-2009 Shared Task: Syntactic and Semantic Dependencies in Multiple Languages",
+      "venue": "CoNLL Shared Task",
+      "year": 2009,
+      "citationCount": 620,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144002335",
+          "name": "Jan Hajic"
+        },
+        {
+          "authorId": "2754495",
+          "name": "Massimiliano Ciaramita"
+        },
+        {
+          "authorId": "145341661",
+          "name": "Richard Johansson"
+        },
+        {
+          "authorId": "2368642",
+          "name": "Daisuke Kawahara"
+        },
+        {
+          "authorId": "40430085",
+          "name": "M. A. Mart\u00ed"
+        },
+        {
+          "authorId": "3049328",
+          "name": "Llu\u00eds M\u00e0rquez i Villodre"
+        },
+        {
+          "authorId": "144817783",
+          "name": "Adam Meyers"
+        },
+        {
+          "authorId": "1720988",
+          "name": "Joakim Nivre"
+        },
+        {
+          "authorId": "1708581",
+          "name": "Sebastian Pad\u00f3"
+        },
+        {
+          "authorId": "153593239",
+          "name": "J. Step\u00e1nek"
+        },
+        {
+          "authorId": "1788237",
+          "name": "P. Stran\u00e1k"
+        },
+        {
+          "authorId": "1760868",
+          "name": "M. Surdeanu"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "49889438",
+          "name": "Yi Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "cfd2541b63a1e40a6e483f57779f851f0eb95b63",
+      "publicationVenue": {
+        "id": "e551db07-5020-436c-a968-a52882c905f6",
+        "name": "Law",
+        "type": "conference",
+        "alternate_names": [
+          "Linguistic Annot Workshop",
+          "LAW",
+          "Linguistic Annotation Workshop"
+        ],
+        "issn": "2308-3107",
+        "url": "https://www.aclweb.org/anthology/venues/law/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cfd2541b63a1e40a6e483f57779f851f0eb95b63",
+      "title": "Using Parallel Propbanks to enhance Word-alignments",
+      "venue": "Law",
+      "year": 2009,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "4724587",
+          "name": "Jinho D. Choi"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "d8a63c0729bcef4fd1d41dc0e723620e48fbdc7d",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/d8a63c0729bcef4fd1d41dc0e723620e48fbdc7d",
+      "title": "OntoNotes: The 90% Solution",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2009,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1735131",
+          "name": "Sameer Pradhan"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "ef5f30e214266802bfaba7233e7dd3bbaa917ea9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ef5f30e214266802bfaba7233e7dd3bbaa917ea9",
+      "title": "Automatic Recognition of Logical Relations for English, Chinese and Japanese in the GLARF Framework",
+      "venue": "SEW@NAACL-HLT",
+      "year": 2009,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144817783",
+          "name": "Adam Meyers"
+        },
+        {
+          "authorId": "3227103",
+          "name": "M. Kosaka"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "144016781",
+          "name": "Heng Ji"
+        },
+        {
+          "authorId": "10022445",
+          "name": "Ang Sun"
+        },
+        {
+          "authorId": "39524110",
+          "name": "Shasha Liao"
+        },
+        {
+          "authorId": "145738420",
+          "name": "Wei Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "03541f4c7b737964289b3cb2cde4b6ac08a1c29d",
+      "publicationVenue": {
+        "id": "30a8645d-22d4-42e2-b3f6-304bf4ce3a02",
+        "name": "International Conference on Computational Logic",
+        "type": "conference",
+        "alternate_names": [
+          "CL",
+          "Int Conf Comput Log"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/03541f4c7b737964289b3cb2cde4b6ac08a1c29d",
+      "title": "Labeling Chinese Predicates with Semantic Roles",
+      "venue": "International Conference on Computational Logic",
+      "year": 2008,
+      "citationCount": 143,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "1a204223758f7310d023943fbca64a660cecede4",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1a204223758f7310d023943fbca64a660cecede4",
+      "title": "Coling 2008: Proceedings of the workshop on Cross-Framework and Cross-Domain Parser Evaluation",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2008,
+      "citationCount": 36,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3461596",
+          "name": "Johan Bos"
+        },
+        {
+          "authorId": "66434770",
+          "name": "E. Briscoe"
+        },
+        {
+          "authorId": "145557710",
+          "name": "A. Cahill"
+        },
+        {
+          "authorId": "2141496882",
+          "name": "John Carroll"
+        },
+        {
+          "authorId": "144523372",
+          "name": "S. Clark"
+        },
+        {
+          "authorId": "15379653",
+          "name": "Ann A. Copestake"
+        },
+        {
+          "authorId": "3209288",
+          "name": "D. Flickinger"
+        },
+        {
+          "authorId": "7519068",
+          "name": "Josef van Genabith"
+        },
+        {
+          "authorId": "3118681",
+          "name": "J. Hockenmaier"
+        },
+        {
+          "authorId": "1714374",
+          "name": "A. Joshi"
+        },
+        {
+          "authorId": "1803660",
+          "name": "R. Kaplan"
+        },
+        {
+          "authorId": "2142738",
+          "name": "Tracy Holloway King"
+        },
+        {
+          "authorId": "1804668",
+          "name": "Sandra K\u00fcbler"
+        },
+        {
+          "authorId": "1690956",
+          "name": "Dekang Lin"
+        },
+        {
+          "authorId": "1403877043",
+          "name": "Jan Tore L\u00f8nning"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        },
+        {
+          "authorId": "1768065",
+          "name": "Yusuke Miyao"
+        },
+        {
+          "authorId": "1720988",
+          "name": "Joakim Nivre"
+        },
+        {
+          "authorId": "2949607",
+          "name": "S. Oepen"
+        },
+        {
+          "authorId": "1757166",
+          "name": "Kenji Sagae"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "49889438",
+          "name": "Yi Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "e2b45e2fdeb2aa223a4676f36b1d9457e6044da7",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e2b45e2fdeb2aa223a4676f36b1d9457e6044da7",
+      "title": "Annotating \u201ctense\u201d in a Tense-less Language",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2008,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "2064913099",
+          "name": "Hua Zhong"
+        },
+        {
+          "authorId": "2118441015",
+          "name": "Kai-Yun Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "f556dea70a4434a6f78d4f7d39935ba579174d95",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/f556dea70a4434a6f78d4f7d39935ba579174d95",
+      "title": "Automatic Inference of the Temporal Location of Situations in Chinese Text",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2008,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "f97adee5f8a5a19633b728d9f5adaded238f9513",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f97adee5f8a5a19633b728d9f5adaded238f9513",
+      "title": "22nd International Conference on Computational Linguistics Proceedings of the Workshop on Cross-Framework and Cross-Domain",
+      "venue": "",
+      "year": 2008,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "3461596",
+          "name": "Johan Bos"
+        },
+        {
+          "authorId": "66434770",
+          "name": "E. Briscoe"
+        },
+        {
+          "authorId": "145557710",
+          "name": "A. Cahill"
+        },
+        {
+          "authorId": "144708726",
+          "name": "John A. Carroll"
+        },
+        {
+          "authorId": "144523372",
+          "name": "S. Clark"
+        },
+        {
+          "authorId": "15379653",
+          "name": "Ann A. Copestake"
+        },
+        {
+          "authorId": "3209288",
+          "name": "D. Flickinger"
+        },
+        {
+          "authorId": "7519068",
+          "name": "Josef van Genabith"
+        },
+        {
+          "authorId": "3118681",
+          "name": "J. Hockenmaier"
+        },
+        {
+          "authorId": "1714374",
+          "name": "A. Joshi"
+        },
+        {
+          "authorId": "1803660",
+          "name": "R. Kaplan"
+        },
+        {
+          "authorId": "2142738",
+          "name": "Tracy Holloway King"
+        },
+        {
+          "authorId": "153161063",
+          "name": "K. Sandra"
+        },
+        {
+          "authorId": "1690956",
+          "name": "Dekang Lin"
+        },
+        {
+          "authorId": "1403877043",
+          "name": "Jan Tore L\u00f8nning"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        },
+        {
+          "authorId": "1768065",
+          "name": "Yusuke Miyao"
+        },
+        {
+          "authorId": "1720988",
+          "name": "Joakim Nivre"
+        },
+        {
+          "authorId": "2949607",
+          "name": "S. Oepen"
+        },
+        {
+          "authorId": "1757166",
+          "name": "Kenji Sagae"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "49889438",
+          "name": "Yi Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "1b1e4be77e6a22bfa474ad2f23dd1f34bd08bca7",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1b1e4be77e6a22bfa474ad2f23dd1f34bd08bca7",
+      "title": "Tapping the Implicit Information for the PS to DS Conversion of the Chinese Treebank",
+      "venue": "",
+      "year": 2007,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "5baeca4da00f2c22a09e2435c33a86b3fac17898",
+      "publicationVenue": {
+        "id": "7dda5bd1-752f-45e5-bc7b-09633096916e",
+        "name": "Language Resources and Evaluation",
+        "type": "journal",
+        "alternate_names": [
+          "Lang Resour Evaluation"
+        ],
+        "issn": "1574-020X",
+        "url": "https://link.springer.com/journal/10579",
+        "alternate_urls": [
+          "http://www.jstor.org/action/showPublication?journalCode=langresoeval"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5baeca4da00f2c22a09e2435c33a86b3fac17898",
+      "title": "A Chinese semantic lexicon of senses and roles",
+      "venue": "Language Resources and Evaluation",
+      "year": 2007,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "7384f5824d58c91c70226792114a4060989f68b0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/7384f5824d58c91c70226792114a4060989f68b0",
+      "title": "Defining a methodology for mapping Chinese and English sense inventories",
+      "venue": "",
+      "year": 2007,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40035663",
+          "name": "V. T. Lai"
+        },
+        {
+          "authorId": "48746844",
+          "name": "Mei-hsia Chang"
+        },
+        {
+          "authorId": "32727726",
+          "name": "Cecily Jill Duffield"
+        },
+        {
+          "authorId": "2012510",
+          "name": "Jena D. Hwang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        }
+      ]
+    },
+    {
+      "paperId": "c2fea87e1bf55906c6c42ae771329855aa13bc93",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c2fea87e1bf55906c6c42ae771329855aa13bc93",
+      "title": "Annotation Guidelines for the Chinese Proposition Bank",
+      "venue": "",
+      "year": 2007,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "00646a75a889c60d487813b39b1864d2842f5b75",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/00646a75a889c60d487813b39b1864d2842f5b75",
+      "title": "Semantic role labeling of nominalized predicates in Chinese",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2006,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "245675c900799d9dd22cb13bdcc71395241ca0c3",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/245675c900799d9dd22cb13bdcc71395241ca0c3",
+      "title": "Aligning Features with Sense Distinction Dimensions",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2006,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "2108216213",
+          "name": "Jinying Chen"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        }
+      ]
+    },
+    {
+      "paperId": "da2fde237b4cab624426892b45b7b3ace8d9b72d",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/da2fde237b4cab624426892b45b7b3ace8d9b72d",
+      "title": "Annotating the Predicate-Argument Structure of Chinese Nominalizations",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2006,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "ee4c4fe7fd24125531a0e9eafb6d110cf3c27398",
+      "publicationVenue": {
+        "id": "67f7f831-711a-43c8-8785-1e09005359b5",
+        "name": "International Joint Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Jt Conf Artif Intell",
+          "IJCAI"
+        ],
+        "url": "http://www.ijcai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ee4c4fe7fd24125531a0e9eafb6d110cf3c27398",
+      "title": "Automatic Semantic Role Labeling for Chinese Verbs",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2005,
+      "citationCount": 107,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        }
+      ]
+    },
+    {
+      "paperId": "39b82c13d89196ceb8bb31e21630d45542b7d028",
+      "publicationVenue": {
+        "id": "e783305c-5d8a-44b9-b7a2-449d474a85b2",
+        "name": "International Joint Conference on Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "IJCNLP",
+          "Int Jt Conf Nat Lang Process"
+        ],
+        "url": "https://www.aclweb.org/portal/ijcnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/39b82c13d89196ceb8bb31e21630d45542b7d028",
+      "title": "Using a Smoothing Maximum Entropy Model for Chinese Nominal Entity Tagging",
+      "venue": "International Joint Conference on Natural Language Processing",
+      "year": 2004,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108216213",
+          "name": "Jinying Chen"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        }
+      ]
+    },
+    {
+      "paperId": "80c6abf049ff5e280c57d4d28d23f3acdab80ddb",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/80c6abf049ff5e280c57d4d28d23f3acdab80ddb",
+      "title": "Calibrating Features for Semantic Role Labeling",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2004,
+      "citationCount": 374,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        }
+      ]
+    },
+    {
+      "paperId": "86c02190ff738ba4035f0bee32950962e656c748",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/86c02190ff738ba4035f0bee32950962e656c748",
+      "title": "Handling Dislocated and Discontinuous Constituents in Chinese Semantic Role Labeling",
+      "venue": "",
+      "year": 2004,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "e9239157a0559c3e60c60908e96c143ba6040671",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e9239157a0559c3e60c60908e96c143ba6040671",
+      "title": "Proposition Bank II: Delving Deeper",
+      "venue": "FCP@NAACL-HLT",
+      "year": 2004,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1403816758",
+          "name": "O. Babko-Malaya"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "1714374",
+          "name": "A. Joshi"
+        },
+        {
+          "authorId": "2695965",
+          "name": "S. Kulick"
+        }
+      ]
+    },
+    {
+      "paperId": "595285c299db89143fe71d83a2d02954f6d0b6c9",
+      "publicationVenue": {
+        "id": "2ca90f66-d056-4b44-87a2-0f6a88aeb347",
+        "name": "Machine Translation Summit",
+        "type": "conference",
+        "alternate_names": [
+          "MTSummit",
+          "Mach Transl Summit"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/595285c299db89143fe71d83a2d02954f6d0b6c9",
+      "title": "Automatic predicate argument structure analysis of the Penn Chinese Treebank",
+      "venue": "Machine Translation Summit",
+      "year": 2003,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "2695965",
+          "name": "S. Kulick"
+        }
+      ]
+    },
+    {
+      "paperId": "a20b6b16dd92c195d8e8611a962584f5da0cd94e",
+      "publicationVenue": {
+        "id": "82f6bb1d-b0cf-471f-84f2-298e15a381ca",
+        "name": "Workshop on Chinese Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "SIGHAN",
+          "Workshop Chin Lang Process"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a20b6b16dd92c195d8e8611a962584f5da0cd94e",
+      "title": "Chinese Word Segmentation as LMR Tagging",
+      "venue": "Workshop on Chinese Language Processing",
+      "year": 2003,
+      "citationCount": 153,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "39839719",
+          "name": "Libin Shen"
+        }
+      ]
+    },
+    {
+      "paperId": "e33cf703e6f101b892f559cfa7941531d84af4a3",
+      "publicationVenue": {
+        "id": "82f6bb1d-b0cf-471f-84f2-298e15a381ca",
+        "name": "Workshop on Chinese Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "SIGHAN",
+          "Workshop Chin Lang Process"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e33cf703e6f101b892f559cfa7941531d84af4a3",
+      "title": "Annotating the Propositions in the Penn Chinese Treebank",
+      "venue": "Workshop on Chinese Language Processing",
+      "year": 2003,
+      "citationCount": 90,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        }
+      ]
+    },
+    {
+      "paperId": "0f107d947cc032a6fedba5470d965b7aaa261eaa",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0f107d947cc032a6fedba5470d965b7aaa261eaa",
+      "title": "Building a Large-Scale Annotated Chinese Corpus",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2002,
+      "citationCount": 155,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "8973780",
+          "name": "Fu-Dong Chiou"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        }
+      ]
+    },
+    {
+      "paperId": "25f2f5437ff2fca5a9557cea5650b56aa4534ac4",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/25f2f5437ff2fca5a9557cea5650b56aa4534ac4",
+      "title": "Defining and automatically identifying words in Chinese",
+      "venue": "",
+      "year": 2002,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "dec33d8324fd8894ea58b6f3cc778f31fdea1957",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/dec33d8324fd8894ea58b6f3cc778f31fdea1957",
+      "title": "Combining Classifiers for Chinese Word Segmentation",
+      "venue": "SIGHAN@COLING",
+      "year": 2002,
+      "citationCount": 37,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "6911333",
+          "name": "Susan P. Converse"
+        }
+      ]
+    },
+    {
+      "paperId": "eed072a715bd962794fcb7998f50559a84255cfa",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/eed072a715bd962794fcb7998f50559a84255cfa",
+      "title": "Least square deconvolution (LSD): A new way of resolving STR/DNA mixture samples",
+      "venue": "",
+      "year": 2002,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2116054499",
+          "name": "Timothy E. Wang"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "114630079",
+          "name": "R. Wickenheiser"
+        }
+      ]
+    },
+    {
+      "paperId": "14cdeb3f6651c8b9afad88c73c94c243fc9149c6",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/14cdeb3f6651c8b9afad88c73c94c243fc9149c6",
+      "title": "The Bracketing Guidelines for the Chinese Treebank",
+      "venue": "",
+      "year": 2000,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "2143632870",
+          "name": "Fei Xia"
+        },
+        {
+          "authorId": "2463050",
+          "name": "Shizhe Huang"
+        },
+        {
+          "authorId": "2108865199",
+          "name": "T. Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "2beb10029a69353b10413ba4f8c87c1abfbe85eb",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2beb10029a69353b10413ba4f8c87c1abfbe85eb",
+      "title": "Developing Guidelines and Ensuring Consistency for Chinese Text Annotation",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2000,
+      "citationCount": 143,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Fei Xia"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "2417157",
+          "name": "M. E. Okurowski"
+        },
+        {
+          "authorId": "2060579976",
+          "name": "J. Kovarik"
+        },
+        {
+          "authorId": "8973780",
+          "name": "Fu-Dong Chiou"
+        },
+        {
+          "authorId": "2463050",
+          "name": "Shizhe Huang"
+        },
+        {
+          "authorId": "2469003",
+          "name": "T. Kroch"
+        },
+        {
+          "authorId": "1734174",
+          "name": "Mitchell P. Marcus"
+        }
+      ]
+    },
+    {
+      "paperId": "98c0d28ebf0ce3b644d60d316263d197d2e0e329",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/98c0d28ebf0ce3b644d60d316263d197d2e0e329",
+      "title": "The Bracketing Guidelines for the Penn Chinese Treebank Project",
+      "venue": "",
+      "year": 2000,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "2143632870",
+          "name": "Fei Xia"
+        }
+      ]
+    },
+    {
+      "paperId": "a3c11b10ee57313c37c93bb62d669f01894ae768",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a3c11b10ee57313c37c93bb62d669f01894ae768",
+      "title": "The Bracketing Guidelines for the Penn Chinese Treebank (3.0)",
+      "venue": "",
+      "year": 2000,
+      "citationCount": 72,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "2143632870",
+          "name": "Fei Xia"
+        },
+        {
+          "authorId": "2463050",
+          "name": "Shizhe Huang"
+        },
+        {
+          "authorId": "33408121",
+          "name": "A. Kroch"
+        }
+      ]
+    },
+    {
+      "paperId": "02e5f147a3d49100bc9f32baccc36ae115435fc6",
+      "publicationVenue": {
+        "id": "30a8645d-22d4-42e2-b3f6-304bf4ce3a02",
+        "name": "International Conference on Computational Logic",
+        "type": "conference",
+        "alternate_names": [
+          "CL",
+          "Int Conf Comput Log"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/02e5f147a3d49100bc9f32baccc36ae115435fc6",
+      "title": "Reviewers, Volume 33",
+      "venue": "International Conference on Computational Logic",
+      "year": 1990,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1742930",
+          "name": "E. Andr\u00e9"
+        },
+        {
+          "authorId": "2124468062",
+          "name": "Mark W. Johnson"
+        },
+        {
+          "authorId": "1696030",
+          "name": "M. de Rijke"
+        },
+        {
+          "authorId": "1387994164",
+          "name": "Jason Baldridge"
+        },
+        {
+          "authorId": "2692018",
+          "name": "Laura Kallmeyer"
+        },
+        {
+          "authorId": "145428168",
+          "name": "M. Riley"
+        },
+        {
+          "authorId": "35313721",
+          "name": "S. Bangalore"
+        },
+        {
+          "authorId": "1932753",
+          "name": "A. Kehler"
+        },
+        {
+          "authorId": "144386741",
+          "name": "Fabio Rinaldi"
+        },
+        {
+          "authorId": "144779911",
+          "name": "P. Blackburn"
+        },
+        {
+          "authorId": "1746503",
+          "name": "A. Kilgarriff"
+        },
+        {
+          "authorId": "34739267",
+          "name": "G. Ritchie"
+        },
+        {
+          "authorId": "3461596",
+          "name": "Johan Bos"
+        },
+        {
+          "authorId": "152971314",
+          "name": "Kevin Knight"
+        },
+        {
+          "authorId": "1794100",
+          "name": "Brian Roark"
+        },
+        {
+          "authorId": "145977875",
+          "name": "Antal van den Bosch"
+        },
+        {
+          "authorId": "1755162",
+          "name": "Philipp Koehn"
+        },
+        {
+          "authorId": "2263444789",
+          "name": "J. Rogers"
+        },
+        {
+          "authorId": "1784037",
+          "name": "T. Brants"
+        },
+        {
+          "authorId": "2299876",
+          "name": "R. Koeling"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        },
+        {
+          "authorId": "2250447175",
+          "name": "Christopher Brew"
+        },
+        {
+          "authorId": "145762466",
+          "name": "A. Korhonen"
+        },
+        {
+          "authorId": "2064422245",
+          "name": "Giorgio Satta"
+        },
+        {
+          "authorId": "145693410",
+          "name": "Ted Briscoe"
+        },
+        {
+          "authorId": "2059862306",
+          "name": "Andr'as Kornai"
+        },
+        {
+          "authorId": "2135004",
+          "name": "Karin Kipper Schuler"
+        },
+        {
+          "authorId": "3139133",
+          "name": "Razvan C. Bunescu"
+        },
+        {
+          "authorId": "1404704044",
+          "name": "Emiel Krahmer"
+        },
+        {
+          "authorId": "145077269",
+          "name": "F. Sebastiani"
+        },
+        {
+          "authorId": "2526345",
+          "name": "J. Burstein"
+        },
+        {
+          "authorId": "2695965",
+          "name": "S. Kulick"
+        },
+        {
+          "authorId": "39290981",
+          "name": "Julie C. Sedivy"
+        },
+        {
+          "authorId": "1788025",
+          "name": "L. Cavedon"
+        },
+        {
+          "authorId": "1747893",
+          "name": "Mirella Lapata"
+        },
+        {
+          "authorId": "3109039",
+          "name": "Violeta Seretan"
+        },
+        {
+          "authorId": "2332834",
+          "name": "Keh-Jiann Chen"
+        },
+        {
+          "authorId": "1733034",
+          "name": "Gina-Anne Levow"
+        },
+        {
+          "authorId": "1692491",
+          "name": "Stuart M. Shieber"
+        },
+        {
+          "authorId": "2218418",
+          "name": "Timothy Chklovski"
+        },
+        {
+          "authorId": "2116425506",
+          "name": "David Lewis"
+        },
+        {
+          "authorId": "1722590",
+          "name": "Advaith Siddharthan"
+        },
+        {
+          "authorId": "2754495",
+          "name": "Massimiliano Ciaramita"
+        },
+        {
+          "authorId": "1751795",
+          "name": "G. Ligozat"
+        },
+        {
+          "authorId": "144866028",
+          "name": "Michel Simard"
+        },
+        {
+          "authorId": "144523372",
+          "name": "S. Clark"
+        },
+        {
+          "authorId": "145580839",
+          "name": "Jimmy J. Lin"
+        },
+        {
+          "authorId": "2153151617",
+          "name": "David Smith"
+        },
+        {
+          "authorId": "2067900468",
+          "name": "Michael Collins"
+        },
+        {
+          "authorId": "1729172",
+          "name": "I. Mani"
+        },
+        {
+          "authorId": "1876369",
+          "name": "H. Somers"
+        },
+        {
+          "authorId": "15379653",
+          "name": "Ann A. Copestake"
+        },
+        {
+          "authorId": "2132343592",
+          "name": "Christopher Manning"
+        },
+        {
+          "authorId": "1737285",
+          "name": "Radu Soricut"
+        },
+        {
+          "authorId": "1733593",
+          "name": "J. Curran"
+        },
+        {
+          "authorId": "1695463",
+          "name": "D. Marcu"
+        },
+        {
+          "authorId": "145421878",
+          "name": "R. Sproat"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        },
+        {
+          "authorId": "1701063",
+          "name": "Mark Maybury"
+        },
+        {
+          "authorId": "1690152",
+          "name": "Amanda Stent"
+        },
+        {
+          "authorId": "1700007",
+          "name": "Mona T. Diab"
+        },
+        {
+          "authorId": "1798723",
+          "name": "Mandar Mitra"
+        },
+        {
+          "authorId": "31380436",
+          "name": "M. Strube"
+        },
+        {
+          "authorId": "145660941",
+          "name": "P. Edmonds"
+        },
+        {
+          "authorId": "78659204",
+          "name": "Mehryar Mohri"
+        },
+        {
+          "authorId": "1760868",
+          "name": "M. Surdeanu"
+        },
+        {
+          "authorId": "2140552",
+          "name": "D. Eichmann"
+        },
+        {
+          "authorId": "1719404",
+          "name": "Alessandro Moschitti"
+        },
+        {
+          "authorId": "1730911",
+          "name": "M. Swerts"
+        },
+        {
+          "authorId": "144016062",
+          "name": "T. Mark Ellison"
+        },
+        {
+          "authorId": "1683363",
+          "name": "M. Nederhof"
+        },
+        {
+          "authorId": "3259253",
+          "name": "Kristina Toutanova"
+        },
+        {
+          "authorId": "1708114",
+          "name": "K. Erk"
+        },
+        {
+          "authorId": "3115414",
+          "name": "A. Nenkova"
+        },
+        {
+          "authorId": "38734660",
+          "name": "S. Tseng"
+        },
+        {
+          "authorId": "2059490498",
+          "name": "George Foster"
+        },
+        {
+          "authorId": "145322333",
+          "name": "H. Ney"
+        },
+        {
+          "authorId": "5108268",
+          "name": "Gokhan Tur"
+        },
+        {
+          "authorId": "1683412",
+          "name": "Pascale Fung"
+        },
+        {
+          "authorId": "2949607",
+          "name": "S. Oepen"
+        },
+        {
+          "authorId": "1750554",
+          "name": "Sriram Venkatapathy"
+        },
+        {
+          "authorId": "1794075",
+          "name": "Claire Gardent"
+        },
+        {
+          "authorId": "1723120",
+          "name": "Kemal Oflazer"
+        },
+        {
+          "authorId": "1817166",
+          "name": "Clare R. Voss"
+        },
+        {
+          "authorId": "7519068",
+          "name": "Josef van Genabith"
+        },
+        {
+          "authorId": "12514743",
+          "name": "Tom O'Hara"
+        },
+        {
+          "authorId": "1736049",
+          "name": "B. Webber"
+        },
+        {
+          "authorId": "1793218",
+          "name": "D. Gildea"
+        },
+        {
+          "authorId": "145047294",
+          "name": "Gerald Penn"
+        },
+        {
+          "authorId": "2106279802",
+          "name": "David Weir"
+        },
+        {
+          "authorId": "2469966",
+          "name": "Roxana Girju"
+        },
+        {
+          "authorId": "1678591",
+          "name": "Massimo Poesio"
+        },
+        {
+          "authorId": "2009300",
+          "name": "R. Wicentowski"
+        },
+        {
+          "authorId": "144003169",
+          "name": "Claire Grover"
+        },
+        {
+          "authorId": "1735131",
+          "name": "Sameer Pradhan"
+        },
+        {
+          "authorId": "144120827",
+          "name": "Janyce Wiebe"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "2694275",
+          "name": "D. Prescher"
+        },
+        {
+          "authorId": "49803096",
+          "name": "Florian Wolf"
+        },
+        {
+          "authorId": "1713428",
+          "name": "S. Harabagiu"
+        },
+        {
+          "authorId": "144790244",
+          "name": "A. Prince"
+        },
+        {
+          "authorId": null,
+          "name": "Fei Xia"
+        },
+        {
+          "authorId": "1752407",
+          "name": "P. Heeman"
+        },
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "3118681",
+          "name": "J. Hockenmaier"
+        },
+        {
+          "authorId": "2113633716",
+          "name": "D. R. Scott"
+        },
+        {
+          "authorId": "144105277",
+          "name": "Wen-tau Yih"
+        },
+        {
+          "authorId": "1726601",
+          "name": "R. Hwa"
+        },
+        {
+          "authorId": "1680292",
+          "name": "P. Resnik"
+        },
+        {
+          "authorId": "2808366",
+          "name": "Deniz Yuret"
+        },
+        {
+          "authorId": "93837210",
+          "name": "Su-Ching Jian"
+        },
+        {
+          "authorId": "3289329",
+          "name": "S. Riezler"
+        },
+        {
+          "authorId": "2337426",
+          "name": "Fabio Massimo Zanzotto"
+        }
+      ]
+    },
+    {
+      "paperId": "2c1df088175b9ede98e720f6a51d0985f452c1d9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2c1df088175b9ede98e720f6a51d0985f452c1d9",
+      "title": "PropBank as a Bootstrap for Richer Annotation Schemes",
+      "venue": "",
+      "year": null,
+      "citationCount": 6,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2489901",
+          "name": "Paul R. Kingsbury"
+        },
+        {
+          "authorId": "144163566",
+          "name": "Benjamin Snyder"
+        },
+        {
+          "authorId": "1702849",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        }
+      ]
+    }
+  ]
+}

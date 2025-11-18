@@ -1,0 +1,2425 @@
+{
+  "authorId": "3103343",
+  "name": "Vered Shwartz",
+  "affiliations": [
+    "University of British Columbia"
+  ],
+  "paperCount": 49,
+  "citationCount": 2406,
+  "hIndex": 23,
+  "papers": [
+    {
+      "paperId": "036192c65196cbda8fc656e3c8b7c0ff7325beac",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/036192c65196cbda8fc656e3c8b7c0ff7325beac",
+      "title": "Efficiently Identifying Low-Quality Language Subsets in Multilingual Datasets: A Case Study on a Large-Scale Multilingual Audio Dataset",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2266466672",
+          "name": "Farhan Samir"
+        },
+        {
+          "authorId": "2324782792",
+          "name": "Emily P. Ahn"
+        },
+        {
+          "authorId": "2324785283",
+          "name": "Shreya Prakash"
+        },
+        {
+          "authorId": "2324783388",
+          "name": "M'arton Soskuthy"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2266850156",
+          "name": "Jian Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "584ed55420f43d703861aca5df5279b04b45a961",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/584ed55420f43d703861aca5df5279b04b45a961",
+      "title": "MCPDial: A Minecraft Persona-driven Dialogue Dataset",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2328088256",
+          "name": "Seyed Hossein Alavi"
+        },
+        {
+          "authorId": "2266808200",
+          "name": "Sudha Rao"
+        },
+        {
+          "authorId": "2328087996",
+          "name": "Ashutosh Adhikari"
+        },
+        {
+          "authorId": "2175481063",
+          "name": "Gabriel DesGarennes"
+        },
+        {
+          "authorId": "144963080",
+          "name": "Akanksha Malhotra"
+        },
+        {
+          "authorId": "70087270",
+          "name": "C. Brockett"
+        },
+        {
+          "authorId": "2328088753",
+          "name": "Mahmoud Adada"
+        },
+        {
+          "authorId": "2328086465",
+          "name": "Raymond T. Ng"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2328087208",
+          "name": "Bill Dolan"
+        }
+      ]
+    },
+    {
+      "paperId": "7410e79e85d4548a427117eb3f043f4ad0184f72",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/7410e79e85d4548a427117eb3f043f4ad0184f72",
+      "title": "CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs' (Lack of) Multicultural Knowledge",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2277244466",
+          "name": "Yu Ying Chiu"
+        },
+        {
+          "authorId": "2112504145",
+          "name": "Liwei Jiang"
+        },
+        {
+          "authorId": "2266838583",
+          "name": "Maria Antoniak"
+        },
+        {
+          "authorId": "50487261",
+          "name": "Chan Young Park"
+        },
+        {
+          "authorId": "2295954288",
+          "name": "Shuyue Stella Li"
+        },
+        {
+          "authorId": "2057417892",
+          "name": "Mehar Bhatia"
+        },
+        {
+          "authorId": "152650432",
+          "name": "Sahithya Ravi"
+        },
+        {
+          "authorId": "2258958466",
+          "name": "Yulia Tsvetkov"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2259707400",
+          "name": "Yejin Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "b46f0ec1fb045aaf501a4252d4f80575f3cd4f08",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/b46f0ec1fb045aaf501a4252d4f80575f3cd4f08",
+      "title": "Locating Information Gaps and Narrative Inconsistencies Across Languages: A Case Study of LGBT People Portrayals on Wikipedia",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2024,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2266466672",
+          "name": "Farhan Samir"
+        },
+        {
+          "authorId": "50487261",
+          "name": "Chan Young Park"
+        },
+        {
+          "authorId": "49713890",
+          "name": "Anjalie Field"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2324782612",
+          "name": "Yulia Tsvetkov"
+        }
+      ]
+    },
+    {
+      "paperId": "d159fd1df66ac204e66ebfa8be2af797d1839855",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/d159fd1df66ac204e66ebfa8be2af797d1839855",
+      "title": "CulturalBench: a Robust, Diverse and Challenging Benchmark on Measuring the (Lack of) Cultural Knowledge of LLMs",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2277244466",
+          "name": "Yu Ying Chiu"
+        },
+        {
+          "authorId": "2112504145",
+          "name": "Liwei Jiang"
+        },
+        {
+          "authorId": "2273918810",
+          "name": "Bill Yuchen Lin"
+        },
+        {
+          "authorId": "50487261",
+          "name": "Chan Young Park"
+        },
+        {
+          "authorId": "2295954288",
+          "name": "Shuyue Stella Li"
+        },
+        {
+          "authorId": "152650432",
+          "name": "Sahithya Ravi"
+        },
+        {
+          "authorId": "2057417892",
+          "name": "Mehar Bhatia"
+        },
+        {
+          "authorId": "2266838583",
+          "name": "Maria Antoniak"
+        },
+        {
+          "authorId": "2258958466",
+          "name": "Yulia Tsvetkov"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2257385142",
+          "name": "Yejin Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "d2df0049dd6a789f214cb7d69f8990c8fda898b2",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/d2df0049dd6a789f214cb7d69f8990c8fda898b2",
+      "title": "Aligning Generalisation Between Humans and Machines",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2332093880",
+          "name": "Filip Ilievski"
+        },
+        {
+          "authorId": "2240249052",
+          "name": "Barbara Hammer"
+        },
+        {
+          "authorId": "2250359763",
+          "name": "F. V. Harmelen"
+        },
+        {
+          "authorId": "2076081",
+          "name": "Benjamin Paassen"
+        },
+        {
+          "authorId": "3467930",
+          "name": "S. Saralajew"
+        },
+        {
+          "authorId": "2332090700",
+          "name": "Ute Schmid"
+        },
+        {
+          "authorId": "2257234279",
+          "name": "Michael Biehl"
+        },
+        {
+          "authorId": "2332093724",
+          "name": "Marianna Bolognesi"
+        },
+        {
+          "authorId": "2333117396",
+          "name": "Xin Luna Dong"
+        },
+        {
+          "authorId": "24868638",
+          "name": "Kiril Gashteovski"
+        },
+        {
+          "authorId": "2249233890",
+          "name": "Pascal Hitzler"
+        },
+        {
+          "authorId": "2332088602",
+          "name": "Giuseppe Marra"
+        },
+        {
+          "authorId": "2294362638",
+          "name": "Pasquale Minervini"
+        },
+        {
+          "authorId": "2267335619",
+          "name": "Martin Mundt"
+        },
+        {
+          "authorId": "1712107",
+          "name": "A. Ngomo"
+        },
+        {
+          "authorId": "49930888",
+          "name": "A. Oltramari"
+        },
+        {
+          "authorId": "2332090363",
+          "name": "Gabriella Pasi"
+        },
+        {
+          "authorId": "1912456",
+          "name": "Z. G. Saribatur"
+        },
+        {
+          "authorId": "2247535490",
+          "name": "L. Serafini"
+        },
+        {
+          "authorId": "2247607383",
+          "name": "John Shawe-Taylor"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2301317752",
+          "name": "Gabriella Skitalinskaya"
+        },
+        {
+          "authorId": "25172215",
+          "name": "Clemens Stachl"
+        },
+        {
+          "authorId": "118439707",
+          "name": "Gido M. van de Ven"
+        },
+        {
+          "authorId": "2285996540",
+          "name": "Thomas Villmann"
+        }
+      ]
+    },
+    {
+      "paperId": "d7c7ac0e597ebec7472fe799c80e1dfcfd0e6ae0",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/d7c7ac0e597ebec7472fe799c80e1dfcfd0e6ae0",
+      "title": "Game Plot Design with an LLM-powered Assistant: An Empirical Study with Game Designers",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2328088256",
+          "name": "Seyed Hossein Alavi"
+        },
+        {
+          "authorId": "2266751372",
+          "name": "Weijia Xu"
+        },
+        {
+          "authorId": "2235694378",
+          "name": "Nebojsa Jojic"
+        },
+        {
+          "authorId": "2329186723",
+          "name": "Daniel Kennett"
+        },
+        {
+          "authorId": "2328086465",
+          "name": "Raymond T. Ng"
+        },
+        {
+          "authorId": "2266808200",
+          "name": "Sudha Rao"
+        },
+        {
+          "authorId": "2329295106",
+          "name": "Haiyan Zhang"
+        },
+        {
+          "authorId": "2328087208",
+          "name": "Bill Dolan"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "0d0590e3303f59d733fcb42845c9f32c4188b6ee",
+      "publicationVenue": {
+        "id": "b1dc244e-c5b3-447d-b200-a46d55e8d8ee",
+        "name": "IEEE Games Entertainment Media Conference",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Game Entertain Media Conf",
+          "GEM",
+          "Int Conf Genet Evol Method",
+          "International Conference on Genetic and Evolutionary Methods"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0d0590e3303f59d733fcb42845c9f32c4188b6ee",
+      "title": "Automatic Evaluation of Generative Models with Instruction Tuning",
+      "venue": "IEEE Games Entertainment Media Conference",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2264258458",
+          "name": "Shuhaib Mehri"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "1cc45dd8a190a4a0aae44ddd100c797965853d78",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1cc45dd8a190a4a0aae44ddd100c797965853d78",
+      "title": "From chocolate bunny to chocolate crocodile: Do Language Models Understand Noun Compounds?",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2217756936",
+          "name": "Jordan Coil"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "82bc98475cfa5a9df49a4ef4cd4e43b5f5816461",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/82bc98475cfa5a9df49a4ef4cd4e43b5f5816461",
+      "title": "Towards Concept-Aware Language Models",
+      "venue": "",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "51020741",
+          "name": "Michael Boratko"
+        },
+        {
+          "authorId": "2285624477",
+          "name": "X. Li"
+        },
+        {
+          "authorId": "2285649967",
+          "name": "T. O\u2019Gorman"
+        },
+        {
+          "authorId": "2286766701",
+          "name": "Rajarshi"
+        },
+        {
+          "authorId": "2286572749",
+          "name": "Dan Das"
+        },
+        {
+          "authorId": "2286497447",
+          "name": "Le Andrew"
+        },
+        {
+          "authorId": "2286790407",
+          "name": "McCallum. 2020"
+        },
+        {
+          "authorId": "2286766274",
+          "name": "Pro-299"
+        },
+        {
+          "authorId": "2286679423",
+          "name": "Ernest Davis"
+        },
+        {
+          "authorId": "2139514097",
+          "name": "G. Marcus"
+        },
+        {
+          "authorId": "2286766272",
+          "name": "Commonsense"
+        },
+        {
+          "authorId": "2261961752",
+          "name": "J. Devlin"
+        },
+        {
+          "authorId": "2262085555",
+          "name": "Ming-Wei Chang"
+        },
+        {
+          "authorId": "2262196473",
+          "name": "Kenton Lee"
+        },
+        {
+          "authorId": "1747306",
+          "name": "L. Gabora"
+        },
+        {
+          "authorId": "2261982608",
+          "name": "Eleanor Rosch"
+        },
+        {
+          "authorId": "2285814724",
+          "name": "Diederik Aerts"
+        },
+        {
+          "authorId": "14487640",
+          "name": "Ari Holtzman"
+        },
+        {
+          "authorId": "119659229",
+          "name": "Peter West"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2286448322",
+          "name": "Yejin Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "8a5e3ae834e2fe724f978d574843470f7c28d18e",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/8a5e3ae834e2fe724f978d574843470f7c28d18e",
+      "title": "GD-COMET: A Geo-Diverse Commonsense Inference Model",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2057417892",
+          "name": "Mehar Bhatia"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "d0f108b8f5fcfb81e4354b498f3f8491740ece7e",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/d0f108b8f5fcfb81e4354b498f3f8491740ece7e",
+      "title": "COMET-M: Reasoning about Multiple Events in Complex Sentences",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152650432",
+          "name": "Sahithya Ravi"
+        },
+        {
+          "authorId": "2208652953",
+          "name": "R. Ng"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "ddcd2bcc809bd0c2755a4a9487473d61ac327c50",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ddcd2bcc809bd0c2755a4a9487473d61ac327c50",
+      "title": "Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 107,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2067118898",
+          "name": "Natalie Shapira"
+        },
+        {
+          "authorId": "51028767",
+          "name": "Mosh Levy"
+        },
+        {
+          "authorId": "143654999",
+          "name": "S. Alavi"
+        },
+        {
+          "authorId": "144101734",
+          "name": "Xuhui Zhou"
+        },
+        {
+          "authorId": "1699545",
+          "name": "Yejin Choi"
+        },
+        {
+          "authorId": "79775260",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2729164",
+          "name": "Maarten Sap"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "15124bd493aaa91ec1557e31486b4a0dab212707",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/15124bd493aaa91ec1557e31486b4a0dab212707",
+      "title": "Uncovering Implicit Gender Bias in Narratives through Commonsense Inference",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110510944",
+          "name": "Tenghao Huang"
+        },
+        {
+          "authorId": "9252833",
+          "name": "Faeze Brahman"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "37202877",
+          "name": "Snigdha Chaturvedi"
+        }
+      ]
+    },
+    {
+      "paperId": "1925a3a95482cd5c1f14665f84b02bbc38de1812",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1925a3a95482cd5c1f14665f84b02bbc38de1812",
+      "title": "Dissertation Abstract:Learning High Precision Lexical Inferences",
+      "venue": "KI - K\u00fcnstliche Intelligenz",
+      "year": 2021,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "edd6dbf81aa54cc2ddacd0a23f1d862e28d5482a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/edd6dbf81aa54cc2ddacd0a23f1d862e28d5482a",
+      "title": "How Good is a Recommender in Machine-Assisted Cross Document Event Coreference Resolution Annotation?",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2261961752",
+          "name": "J. Devlin"
+        },
+        {
+          "authorId": "2262085555",
+          "name": "Ming-Wei Chang"
+        },
+        {
+          "authorId": "2262196473",
+          "name": "Kenton Lee"
+        },
+        {
+          "authorId": "2288811736",
+          "name": "Kristina Toutanova. 2018"
+        },
+        {
+          "authorId": "2285781007",
+          "name": "Bert"
+        },
+        {
+          "authorId": "46204033",
+          "name": "Jan-Christoph Klie"
+        },
+        {
+          "authorId": "51202789",
+          "name": "M. Bugert"
+        },
+        {
+          "authorId": "5650585",
+          "name": "Beto Boullosa"
+        },
+        {
+          "authorId": "11323179",
+          "name": "Yinhan Liu"
+        },
+        {
+          "authorId": "40511414",
+          "name": "Myle Ott"
+        },
+        {
+          "authorId": "39589154",
+          "name": "Naman Goyal"
+        },
+        {
+          "authorId": "3048577",
+          "name": "Jingfei Du"
+        },
+        {
+          "authorId": "2285032310",
+          "name": "Mandar Joshi"
+        },
+        {
+          "authorId": "2255489905",
+          "name": "Danqi Chen"
+        },
+        {
+          "authorId": "2253752918",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "2261973116",
+          "name": "Mike Lewis"
+        },
+        {
+          "authorId": "2289007972",
+          "name": "Zhengzhong Liu"
+        },
+        {
+          "authorId": "2288454161",
+          "name": "Jun Araki"
+        },
+        {
+          "authorId": "2285877067",
+          "name": "Eduard H. Hovy"
+        },
+        {
+          "authorId": "2288816499",
+          "name": "Yehudit Meged"
+        },
+        {
+          "authorId": "2288816486",
+          "name": "Avi Caciularu"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2285139906",
+          "name": "Zeming Killeen"
+        },
+        {
+          "authorId": "2285149143",
+          "name": "Natalia Lin"
+        },
+        {
+          "authorId": "2285127593",
+          "name": "Gimelshein"
+        },
+        {
+          "authorId": "2285134733",
+          "name": "Luca"
+        },
+        {
+          "authorId": "2285137161",
+          "name": "Alban Antiga"
+        },
+        {
+          "authorId": "2285127178",
+          "name": "Andreas Desmaison"
+        },
+        {
+          "authorId": "2285146435",
+          "name": "Edward Kopf"
+        },
+        {
+          "authorId": "2285209716",
+          "name": "Zachary Yang"
+        },
+        {
+          "authorId": "2285136503",
+          "name": "Martin DeVito"
+        },
+        {
+          "authorId": "2285126711",
+          "name": "Alykhan Raison"
+        },
+        {
+          "authorId": "2106621544",
+          "name": "T. Sasank"
+        },
+        {
+          "authorId": "2285139875",
+          "name": "Benoit Chilamkurthy"
+        },
+        {
+          "authorId": "2285127219",
+          "name": "Lu Steiner"
+        },
+        {
+          "authorId": "2285146219",
+          "name": "Fang"
+        }
+      ]
+    },
+    {
+      "paperId": "10391eed628dfece8a9136f76c5df53b5704422d",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/10391eed628dfece8a9136f76c5df53b5704422d",
+      "title": "Social Chemistry 101: Learning to Reason about Social and Moral Norms",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 253,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39191185",
+          "name": "Maxwell Forbes"
+        },
+        {
+          "authorId": "2012510",
+          "name": "Jena D. Hwang"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2729164",
+          "name": "Maarten Sap"
+        },
+        {
+          "authorId": "1699545",
+          "name": "Yejin Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "14c454c27dffd655cea839a0684a2d855117cd58",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/14c454c27dffd655cea839a0684a2d855117cd58",
+      "title": "Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 79,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3444092",
+          "name": "Lianhui Qin"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "119659229",
+          "name": "Peter West"
+        },
+        {
+          "authorId": "1857797",
+          "name": "Chandra Bhagavatula"
+        },
+        {
+          "authorId": "2012510",
+          "name": "Jena D. Hwang"
+        },
+        {
+          "authorId": "39227408",
+          "name": "Ronan Le Bras"
+        },
+        {
+          "authorId": "2691021",
+          "name": "Antoine Bosselut"
+        },
+        {
+          "authorId": "1699545",
+          "name": "Yejin Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "33f775b297dca5a31d20c258b1cabbb88d231bab",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/33f775b297dca5a31d20c258b1cabbb88d231bab",
+      "title": "Paraphrasing vs Coreferring: Two Sides of the Same Coin",
+      "venue": "Findings",
+      "year": 2020,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "98131467",
+          "name": "Y. Meged"
+        },
+        {
+          "authorId": "27743758",
+          "name": "Avi Caciularu"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        }
+      ]
+    },
+    {
+      "paperId": "3a1311fbba348a13857f54b92c24be4ee75d1b41",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3a1311fbba348a13857f54b92c24be4ee75d1b41",
+      "title": "Learning to Rationalize for Nonmonotonic Reasoning with Distant Supervision",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2020,
+      "citationCount": 40,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "9252833",
+          "name": "Faeze Brahman"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2034613",
+          "name": "Rachel Rudinger"
+        },
+        {
+          "authorId": "1699545",
+          "name": "Yejin Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "47e799f83b0850f3d036a2e3a66bb337661b7e68",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/47e799f83b0850f3d036a2e3a66bb337661b7e68",
+      "title": "Thinking Like a Skeptic: Defeasible Inference in Natural Language",
+      "venue": "Findings",
+      "year": 2020,
+      "citationCount": 92,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2034613",
+          "name": "Rachel Rudinger"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2012510",
+          "name": "Jena D. Hwang"
+        },
+        {
+          "authorId": "1857797",
+          "name": "Chandra Bhagavatula"
+        },
+        {
+          "authorId": "39191185",
+          "name": "Maxwell Forbes"
+        },
+        {
+          "authorId": "39227408",
+          "name": "Ronan Le Bras"
+        },
+        {
+          "authorId": "144365875",
+          "name": "Noah A. Smith"
+        },
+        {
+          "authorId": "1699545",
+          "name": "Yejin Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "4d96bfa3a4c283d6fcd71122897c2cb8ee1c886d",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/4d96bfa3a4c283d6fcd71122897c2cb8ee1c886d",
+      "title": "\u201cYou Are Grounded!\u201d: Latent Name Artifacts in Pre-trained Language Models",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 50,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2034613",
+          "name": "Rachel Rudinger"
+        },
+        {
+          "authorId": "3385516",
+          "name": "Oyvind Tafjord"
+        }
+      ]
+    },
+    {
+      "paperId": "5dfc43bb697acf5eacf8b8a05d78dba8beb0dd42",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5dfc43bb697acf5eacf8b8a05d78dba8beb0dd42",
+      "title": "Paragraph-Level Commonsense Transformers with Recurrent Memory",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2020,
+      "citationCount": 39,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "119902504",
+          "name": "Saadia Gabriel"
+        },
+        {
+          "authorId": "1857797",
+          "name": "Chandra Bhagavatula"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "39227408",
+          "name": "Ronan Le Bras"
+        },
+        {
+          "authorId": "39191185",
+          "name": "Maxwell Forbes"
+        },
+        {
+          "authorId": "1699545",
+          "name": "Yejin Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "65948749bc28a9a622a8507e29cf7c3a6a19841d",
+      "publicationVenue": {
+        "id": "6fedff74-7525-4b7f-bbb4-4df4e23948e4",
+        "name": "The AI Magazine",
+        "type": "journal",
+        "alternate_names": [
+          "AI Mag",
+          "Ai Mag",
+          "Ai Magazine"
+        ],
+        "issn": "0738-4602",
+        "url": "https://www.aaai.org/Library/Magazine/magazine-library.php",
+        "alternate_urls": [
+          "https://www.aaai.org/ojs/index.php/aimagazine/",
+          "https://www.aaai.org/Magazine/magazine.php"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/65948749bc28a9a622a8507e29cf7c3a6a19841d",
+      "title": "The Association for the Advancement of Artificial Intelligence 2020 Workshop Program",
+      "venue": "The AI Magazine",
+      "year": 2020,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152367159",
+          "name": "G. Bang"
+        },
+        {
+          "authorId": "38124254",
+          "name": "Guy Barash"
+        },
+        {
+          "authorId": "2047291317",
+          "name": "Ryan Beal"
+        },
+        {
+          "authorId": "1997807",
+          "name": "Jacques Cal\u00ec"
+        },
+        {
+          "authorId": "1399399382",
+          "name": "M. Castillo-Effen"
+        },
+        {
+          "authorId": "2145230961",
+          "name": "Xin Cynthia Chen"
+        },
+        {
+          "authorId": "2954043",
+          "name": "Niyati Chhaya"
+        },
+        {
+          "authorId": "2101707861",
+          "name": "Rachel Cummings"
+        },
+        {
+          "authorId": "2053045711",
+          "name": "Rohan Dhoopar"
+        },
+        {
+          "authorId": "3422854",
+          "name": "Sebastijan Dumancic"
+        },
+        {
+          "authorId": "3040011",
+          "name": "H. Espinoza"
+        },
+        {
+          "authorId": "2338905",
+          "name": "E. Farchi"
+        },
+        {
+          "authorId": "2868276",
+          "name": "Ferdinando Fioretto"
+        },
+        {
+          "authorId": "3148517",
+          "name": "R. Fuentetaja"
+        },
+        {
+          "authorId": "143826664",
+          "name": "C. Geib"
+        },
+        {
+          "authorId": "1709908",
+          "name": "Odd Erik Gundersen"
+        },
+        {
+          "authorId": "1398777358",
+          "name": "J. Hern\u00e1ndez-Orallo"
+        },
+        {
+          "authorId": "2262090724",
+          "name": "Xiaowei Huang"
+        },
+        {
+          "authorId": "2798221",
+          "name": "Kokil Jaidka"
+        },
+        {
+          "authorId": "1898340",
+          "name": "Sarah Keren"
+        },
+        {
+          "authorId": "2047181",
+          "name": "Seokhwan Kim"
+        },
+        {
+          "authorId": "1947267",
+          "name": "Michel Galley"
+        },
+        {
+          "authorId": "2108959746",
+          "name": "Xiaomo Liu"
+        },
+        {
+          "authorId": "2113488050",
+          "name": "Tyler Lu"
+        },
+        {
+          "authorId": "2116415715",
+          "name": "Zhiqiang Ma"
+        },
+        {
+          "authorId": "2053036883",
+          "name": "Richard Mallah"
+        },
+        {
+          "authorId": "1789893",
+          "name": "J. Mcdermid"
+        },
+        {
+          "authorId": "1753015",
+          "name": "Martin Michalowski"
+        },
+        {
+          "authorId": "3402763",
+          "name": "Reuth Mirsky"
+        },
+        {
+          "authorId": "35793299",
+          "name": "Se\u00e1n \u00d3 h\u00c9igeartaigh"
+        },
+        {
+          "authorId": "34968061",
+          "name": "Deepak Ramachandran"
+        },
+        {
+          "authorId": "3410468",
+          "name": "Javier Segovia Aguas"
+        },
+        {
+          "authorId": "2395016",
+          "name": "Onn Shehory"
+        },
+        {
+          "authorId": "1398105314",
+          "name": "Arash Shaban-Nejad"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "145305735",
+          "name": "Siddharth Srivastava"
+        },
+        {
+          "authorId": "2940762",
+          "name": "Kartik Talamadupula"
+        },
+        {
+          "authorId": "2115854945",
+          "name": "Jian Tang"
+        },
+        {
+          "authorId": "8388443",
+          "name": "Pascal Van Hentenryck"
+        },
+        {
+          "authorId": "37510526",
+          "name": "Dell Zhang"
+        },
+        {
+          "authorId": "2155127085",
+          "name": "Jian Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "7096304d19457833972daec4d3f5107befe30b1c",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7096304d19457833972daec4d3f5107befe30b1c",
+      "title": "Do Neural Language Models Overcome Reporting Bias?",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2020,
+      "citationCount": 62,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "1699545",
+          "name": "Yejin Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "9808d59113029d96f48a0376b1578dbab5427bb4",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/9808d59113029d96f48a0376b1578dbab5427bb4",
+      "title": "Unsupervised Commonsense Question Answering with Self-Talk",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 254,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "119659229",
+          "name": "Peter West"
+        },
+        {
+          "authorId": "39227408",
+          "name": "Ronan Le Bras"
+        },
+        {
+          "authorId": "1857797",
+          "name": "Chandra Bhagavatula"
+        },
+        {
+          "authorId": "1699545",
+          "name": "Yejin Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "c24a3ba1f161df77bdf9374d787851d6ce7e366b",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c24a3ba1f161df77bdf9374d787851d6ce7e366b",
+      "title": "Commonsense Reasoning for Natural Language Processing",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 103,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2729164",
+          "name": "Maarten Sap"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "8536286",
+          "name": "Antoine Bosselut"
+        },
+        {
+          "authorId": "2257385140",
+          "name": "Yejin Choi"
+        },
+        {
+          "authorId": "2249759427",
+          "name": "Dan Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "4c9a8caf940627126aaa9bd3ac813d07065c86a0",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4c9a8caf940627126aaa9bd3ac813d07065c86a0",
+      "title": "Diversify Your Datasets: Analyzing Generalization via Controlled Variance in Adversarial Datasets",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2019,
+      "citationCount": 37,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1379931325",
+          "name": "Ohad Rozen"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2335771",
+          "name": "Roee Aharoni"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        }
+      ]
+    },
+    {
+      "paperId": "6cd9c11017595a2194cacfedb3ec4ecb30462287",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6cd9c11017595a2194cacfedb3ec4ecb30462287",
+      "title": "Revisiting Joint Modeling of Cross-document Entity and Event Coreference Resolution",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 91,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "134697410",
+          "name": "Shany Barhom"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "51150806",
+          "name": "Alon Eirew"
+        },
+        {
+          "authorId": "51202789",
+          "name": "M. Bugert"
+        },
+        {
+          "authorId": "2959414",
+          "name": "Nils Reimers"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        }
+      ]
+    },
+    {
+      "paperId": "a5ec883e080d858b5df60f1b5d711d514459b1e4",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a5ec883e080d858b5df60f1b5d711d514459b1e4",
+      "title": "Still a Pain in the Neck: Evaluating Text Representations on Lexical Composition",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 76,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        }
+      ]
+    },
+    {
+      "paperId": "fca558b1698310dc589e14e3c6a64e345cbf3e63",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/fca558b1698310dc589e14e3c6a64e345cbf3e63",
+      "title": "A Systematic Comparison of English Noun Compound Representations",
+      "venue": "MWE-WN@ACL",
+      "year": 2019,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "2c253dc6d35df2bc5932fecdfa9169a8e663dc31",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/2c253dc6d35df2bc5932fecdfa9169a8e663dc31",
+      "title": "Evaluating Text GANs as Language Models",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "81493694",
+          "name": "Guy Tevet"
+        },
+        {
+          "authorId": "81272781",
+          "name": "Gavriel Habib"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "1750652",
+          "name": "Jonathan Berant"
+        }
+      ]
+    },
+    {
+      "paperId": "383f807f41d9f66572c6a8a6ae0b51c6bf4afae0",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/383f807f41d9f66572c6a8a6ae0b51c6bf4afae0",
+      "title": "Olive Oil is Made of Olives, Baby Oil is Made for Babies: Interpreting Noun Compounds Using Paraphrases in a Neural Model",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "48381017",
+          "name": "C. Waterson"
+        }
+      ]
+    },
+    {
+      "paperId": "413a03a146e6f7b16c11e73243d83e6f1a6627a3",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/413a03a146e6f7b16c11e73243d83e6f1a6627a3",
+      "title": "Breaking NLI Systems with Sentences that Require Simple Lexical Inferences",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 363,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46179620",
+          "name": "Max Glockner"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "92f061ba65e49599f3c18cf237f75c2f9ffd7612",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/92f061ba65e49599f3c18cf237f75c2f9ffd7612",
+      "title": "Integrating Multiplicative Features into Supervised Distributional Methods for Lexical Entailment",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2018,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144244743",
+          "name": "Tu Vu"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "9ac35ee292815b0ede4e765cce45fd48c739bd0c",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9ac35ee292815b0ede4e765cce45fd48c739bd0c",
+      "title": "Proceedings of ACL 2018, Student Research Workshop",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2504467",
+          "name": "Jeniya Tabassum"
+        },
+        {
+          "authorId": "35248702",
+          "name": "Rob Voigt"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "2241127",
+          "name": "M. Marneffe"
+        },
+        {
+          "authorId": "2742475",
+          "name": "M. Nissim"
+        }
+      ]
+    },
+    {
+      "paperId": "a1b8da0b0f1d22c99191721661808df0c2d0d92f",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a1b8da0b0f1d22c99191721661808df0c2d0d92f",
+      "title": "Paraphrase to Explicate: Revealing Implicit Noun-Compound Relations",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        }
+      ]
+    },
+    {
+      "paperId": "f71fcfba360244c3d1591da05d833f817ff9402e",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f71fcfba360244c3d1591da05d833f817ff9402e",
+      "title": "SemEval-2018 Task 9: Hypernym Discovery",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2018,
+      "citationCount": 93,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1387447871",
+          "name": "Jos\u00e9 Camacho-Collados"
+        },
+        {
+          "authorId": "3257579",
+          "name": "Claudio Delli Bovi"
+        },
+        {
+          "authorId": "2254466",
+          "name": "Luis Espinosa Anke"
+        },
+        {
+          "authorId": "3149915",
+          "name": "Sergio Oramas"
+        },
+        {
+          "authorId": "40438851",
+          "name": "Tommaso Pasini"
+        },
+        {
+          "authorId": "2628786",
+          "name": "Enrico Santus"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "1733928",
+          "name": "Roberto Navigli"
+        },
+        {
+          "authorId": "3014320",
+          "name": "Horacio Saggion"
+        }
+      ]
+    },
+    {
+      "paperId": "26183f24a7c9a594577f45178a9a10674120f408",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/26183f24a7c9a594577f45178a9a10674120f408",
+      "title": "Learning Antonyms with Paraphrases and a Morphology-Aware Neural Network",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2017,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1404816216",
+          "name": "Sneha Rajana"
+        },
+        {
+          "authorId": "1763608",
+          "name": "Chris Callison-Burch"
+        },
+        {
+          "authorId": "2817917",
+          "name": "Marianna Apidianaki"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "5568943e88861e9435f3ebe154346a8e6d147a04",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5568943e88861e9435f3ebe154346a8e6d147a04",
+      "title": "Acquiring Predicate Paraphrases from News Tweets",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2017,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2157025",
+          "name": "Gabriel Stanovsky"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        }
+      ]
+    },
+    {
+      "paperId": "e312889d29c6f3a5bf21c26d2d373936d89b1828",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e312889d29c6f3a5bf21c26d2d373936d89b1828",
+      "title": "A Consolidated Open Knowledge Representation for Multiple Texts",
+      "venue": "LSDSem@EACL",
+      "year": 2017,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1414011202",
+          "name": "Rachel Wities"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2157025",
+          "name": "Gabriel Stanovsky"
+        },
+        {
+          "authorId": "2819757",
+          "name": "M. Adler"
+        },
+        {
+          "authorId": "15392843",
+          "name": "Ori Shapira"
+        },
+        {
+          "authorId": "33145619",
+          "name": "Shyam Upadhyay"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        },
+        {
+          "authorId": "1397974254",
+          "name": "Eugenio Mart\u00ednez-C\u00e1mara"
+        },
+        {
+          "authorId": "1730400",
+          "name": "Iryna Gurevych"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        }
+      ]
+    },
+    {
+      "paperId": "f681ceb64b7b7cc440a417d255fbf30d69926970",
+      "publicationVenue": {
+        "id": "be46d9bc-380b-4b57-8140-bbd0da45ce9c",
+        "name": "International Conference on Computational Semantics",
+        "type": "conference",
+        "alternate_names": [
+          "IWCS",
+          "Int Conf Comput Semant"
+        ],
+        "url": "http://www.sigsem.org/wiki/index.php?title=IWCS"
+      },
+      "url": "https://www.semanticscholar.org/paper/f681ceb64b7b7cc440a417d255fbf30d69926970",
+      "title": "Neural Disambiguation of Causal Lexical Markers Based on Context",
+      "venue": "International Conference on Computational Semantics",
+      "year": 2017,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1397974254",
+          "name": "Eugenio Mart\u00ednez-C\u00e1mara"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "1730400",
+          "name": "Iryna Gurevych"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        }
+      ]
+    },
+    {
+      "paperId": "42830b96a3ee6c875cf6c4ca9bbe32ed6ec27470",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/42830b96a3ee6c875cf6c4ca9bbe32ed6ec27470",
+      "title": "Path-based vs. Distributional Information in Recognizing Lexical Semantic Relations",
+      "venue": "CogALex@COLING",
+      "year": 2016,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        }
+      ]
+    },
+    {
+      "paperId": "495e83b32d2306c683ecf0f3a2f8eda1c30af3ed",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/495e83b32d2306c683ecf0f3a2f8eda1c30af3ed",
+      "title": "Hypernyms under Siege: Linguistically-motivated Artillery for Hypernymy Detection",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 102,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2628786",
+          "name": "Enrico Santus"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "3449121",
+          "name": "Dominik Schlechtweg"
+        }
+      ]
+    },
+    {
+      "paperId": "874e9feccd16d6a9a6cf0af373500bedf94f97f8",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/874e9feccd16d6a9a6cf0af373500bedf94f97f8",
+      "title": "Adding Context to Semantic Data-Driven Paraphrasing",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2016,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        }
+      ]
+    },
+    {
+      "paperId": "a782d0fc34c0ed5cd94a1e4237cb40900a248836",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a782d0fc34c0ed5cd94a1e4237cb40900a248836",
+      "title": "Improving Hypernymy Detection with an Integrated Path-based and Distributional Method",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 235,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        }
+      ]
+    },
+    {
+      "paperId": "f1c1dea4317899be2acb6e862de7b0e252c593e7",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f1c1dea4317899be2acb6e862de7b0e252c593e7",
+      "title": "CogALex-V Shared Task: LexNET - Integrated Path-based and Distributional Method for the Identification of Semantic Relations",
+      "venue": "CogALex@COLING",
+      "year": 2016,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        }
+      ]
+    },
+    {
+      "paperId": "cee94959cf360f86587a7aea2106d29d525d6bc5",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/cee94959cf360f86587a7aea2106d29d525d6bc5",
+      "title": "Learning to Exploit Structured Resources for Lexical Inference",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2015,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "39455775",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        },
+        {
+          "authorId": "34508613",
+          "name": "J. Goldberger"
+        }
+      ]
+    },
+    {
+      "paperId": "d36cb7dfd4c5c51dac80ea970a6255d46ea3563c",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/d36cb7dfd4c5c51dac80ea970a6255d46ea3563c",
+      "title": "Multi-Level Alignments As An Extensible Representation Basis for Textual Entailment Algorithms",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2015,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3104237",
+          "name": "Tae-Gil Noh"
+        },
+        {
+          "authorId": "1708581",
+          "name": "Sebastian Pad\u00f3"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        },
+        {
+          "authorId": "2256003",
+          "name": "Vivi Nastase"
+        },
+        {
+          "authorId": "153183474",
+          "name": "Kathrin Eichler"
+        },
+        {
+          "authorId": "2020379",
+          "name": "Lili Kotlerman"
+        },
+        {
+          "authorId": "2819757",
+          "name": "M. Adler"
+        }
+      ]
+    }
+  ]
+}

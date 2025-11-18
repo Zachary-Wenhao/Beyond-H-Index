@@ -1,0 +1,418 @@
+{
+  "authorId": "2163583830",
+  "name": "Kaiyue Wen",
+  "affiliations": [],
+  "paperCount": 10,
+  "citationCount": 245,
+  "hIndex": 5,
+  "papers": [
+    {
+      "paperId": "b096dc25eeacb00ca35293131230e6234bac9a59",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/b096dc25eeacb00ca35293131230e6234bac9a59",
+      "title": "Understanding Warmup-Stable-Decay Learning Rates: A River Valley Loss Landscape Perspective",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2163583830",
+          "name": "Kaiyue Wen"
+        },
+        {
+          "authorId": "2284829110",
+          "name": "Zhiyuan Li"
+        },
+        {
+          "authorId": "2324838348",
+          "name": "Jason Wang"
+        },
+        {
+          "authorId": "2325169816",
+          "name": "David Hall"
+        },
+        {
+          "authorId": "2324797515",
+          "name": "Percy Liang"
+        },
+        {
+          "authorId": "2284835869",
+          "name": "Tengyu Ma"
+        }
+      ]
+    },
+    {
+      "paperId": "0c311d188f2708e2f3a90ac03cfdd68c5523009b",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0c311d188f2708e2f3a90ac03cfdd68c5523009b",
+      "title": "Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2163583830",
+          "name": "Kaiyue Wen"
+        },
+        {
+          "authorId": "1901958",
+          "name": "Tengyu Ma"
+        },
+        {
+          "authorId": "46947755",
+          "name": "Zhiyuan Li"
+        }
+      ]
+    },
+    {
+      "paperId": "8d0f6d369b2a0adb77a127f4f3085facfc7acce5",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8d0f6d369b2a0adb77a127f4f3085facfc7acce5",
+      "title": "How Sharpness-Aware Minimization Minimizes Sharpness?",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2163583830",
+          "name": "Kaiyue Wen"
+        },
+        {
+          "authorId": "1901958",
+          "name": "Tengyu Ma"
+        },
+        {
+          "authorId": "46947755",
+          "name": "Zhiyuan Li"
+        }
+      ]
+    },
+    {
+      "paperId": "e05abf3232b24acc401778461291d50167c63624",
+      "publicationVenue": {
+        "id": "166fd2b5-a928-4a98-a449-3b90935cc101",
+        "name": "IACR Cryptology ePrint Archive",
+        "type": "journal",
+        "alternate_names": [
+          "IACR Cryptol eprint Arch"
+        ],
+        "url": "http://eprint.iacr.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e05abf3232b24acc401778461291d50167c63624",
+      "title": "Practically Solving LPN in High Noise Regimes Faster Using Neural Networks",
+      "venue": "IACR Cryptology ePrint Archive",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152631650",
+          "name": "Haozhe Jiang"
+        },
+        {
+          "authorId": "2163583830",
+          "name": "Kaiyue Wen"
+        },
+        {
+          "authorId": "2109183391",
+          "name": "Yi-Long Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "07dbbb95eff2640e07ade6e42e666c14ae5d1d19",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/07dbbb95eff2640e07ade6e42e666c14ae5d1d19",
+      "title": "How Does Sharpness-Aware Minimization Minimize Sharpness?",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 45,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2163583830",
+          "name": "Kaiyue Wen"
+        },
+        {
+          "authorId": "2114186424",
+          "name": "Tengyu Ma"
+        },
+        {
+          "authorId": "46947755",
+          "name": "Zhiyuan Li"
+        }
+      ]
+    },
+    {
+      "paperId": "098669d74f7a84b711718dccef7070052f22ca65",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/098669d74f7a84b711718dccef7070052f22ca65",
+      "title": "Benign Overfitting in Classification: Provably Counter Label Noise with Larger Models",
+      "venue": "International Conference on Learning Representations",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2163583830",
+          "name": "Kaiyue Wen"
+        },
+        {
+          "authorId": "1577622084",
+          "name": "Jiaye Teng"
+        },
+        {
+          "authorId": "50561307",
+          "name": "J. Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "5d3cf0909ba206cd6bc2e86610f77ca25d9b2d1c",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/5d3cf0909ba206cd6bc2e86610f77ca25d9b2d1c",
+      "title": "Finding Skill Neurons in Pre-trained Transformer-based Language Models",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 47,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48631777",
+          "name": "Xiaozhi Wang"
+        },
+        {
+          "authorId": "2163583830",
+          "name": "Kaiyue Wen"
+        },
+        {
+          "authorId": "2621696",
+          "name": "Zhengyan Zhang"
+        },
+        {
+          "authorId": "145779862",
+          "name": "Lei Hou"
+        },
+        {
+          "authorId": null,
+          "name": "Zhiyuan Liu"
+        },
+        {
+          "authorId": "2133353675",
+          "name": "Juanzi Li"
+        }
+      ]
+    },
+    {
+      "paperId": "91e7589ac6e9097e010eea6cbcac445b93d9856f",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/91e7589ac6e9097e010eea6cbcac445b93d9856f",
+      "title": "Realistic Deep Learning May Not Fit Benignly",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2163583830",
+          "name": "Kaiyue Wen"
+        },
+        {
+          "authorId": "1577622084",
+          "name": "Jiaye Teng"
+        },
+        {
+          "authorId": "50561307",
+          "name": "J. Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "92da7162223e417d0cb40972f6ead5c01bd09396",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/92da7162223e417d0cb40972f6ead5c01bd09396",
+      "title": "Residual Permutation Test for High-Dimensional Regression Coefficient Testing",
+      "venue": "",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2163583830",
+          "name": "Kaiyue Wen"
+        },
+        {
+          "authorId": "2196654",
+          "name": "Tengyao Wang"
+        },
+        {
+          "authorId": "2115769306",
+          "name": "Yuhao Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "46d846aa7df7b5c0cd4b129591b5754272701eae",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/46d846aa7df7b5c0cd4b129591b5754272701eae",
+      "title": "On Transferability of Prompt Tuning for Natural Language Processing",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 95,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48576745",
+          "name": "Yusheng Su"
+        },
+        {
+          "authorId": "48631777",
+          "name": "Xiaozhi Wang"
+        },
+        {
+          "authorId": "50625437",
+          "name": "Yujia Qin"
+        },
+        {
+          "authorId": "2151547817",
+          "name": "Chi-Min Chan"
+        },
+        {
+          "authorId": "2149202150",
+          "name": "Yankai Lin"
+        },
+        {
+          "authorId": "2155242767",
+          "name": "Huadong Wang"
+        },
+        {
+          "authorId": "2163583830",
+          "name": "Kaiyue Wen"
+        },
+        {
+          "authorId": "2141313179",
+          "name": "Zhiyuan Liu"
+        },
+        {
+          "authorId": "144326610",
+          "name": "Peng Li"
+        },
+        {
+          "authorId": "2133353675",
+          "name": "Juanzi Li"
+        },
+        {
+          "authorId": "145779862",
+          "name": "Lei Hou"
+        },
+        {
+          "authorId": "1753344",
+          "name": "Maosong Sun"
+        },
+        {
+          "authorId": "49178343",
+          "name": "Jie Zhou"
+        }
+      ]
+    }
+  ]
+}

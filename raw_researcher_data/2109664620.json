@@ -1,0 +1,1049 @@
+{
+  "authorId": "2109664620",
+  "name": "Wenhu Chen",
+  "affiliations": [],
+  "paperCount": 22,
+  "citationCount": 732,
+  "hIndex": 12,
+  "papers": [
+    {
+      "paperId": "0bf85ecae19a6f64c5beea5ee7109cff5c0f4a42",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0bf85ecae19a6f64c5beea5ee7109cff5c0f4a42",
+      "title": "WildVision: Evaluating Vision-Language Models in the Wild with Human Preferences",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2257339858",
+          "name": "Yujie Lu"
+        },
+        {
+          "authorId": "2197076899",
+          "name": "Dongfu Jiang"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "2257130316",
+          "name": "William Yang Wang"
+        },
+        {
+          "authorId": "2266363632",
+          "name": "Yejin Choi"
+        },
+        {
+          "authorId": "51583409",
+          "name": "Bill Yuchen Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "5354281f118de985fe2bbd1a0b45862d363a5202",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5354281f118de985fe2bbd1a0b45862d363a5202",
+      "title": "T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2258750843",
+          "name": "Jiachen Li"
+        },
+        {
+          "authorId": "2168285733",
+          "name": "Weixi Feng"
+        },
+        {
+          "authorId": "41020222",
+          "name": "Tsu-Jui Fu"
+        },
+        {
+          "authorId": "2237389696",
+          "name": "Xinyi Wang"
+        },
+        {
+          "authorId": "2303654967",
+          "name": "Sugato Basu"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "2258793748",
+          "name": "William Yang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "d780f4913a1bd906393f13186a85581ec8a198a0",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/d780f4913a1bd906393f13186a85581ec8a198a0",
+      "title": "T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2258750843",
+          "name": "Jiachen Li"
+        },
+        {
+          "authorId": "2324981827",
+          "name": "Qian Long"
+        },
+        {
+          "authorId": "2300296962",
+          "name": "Jian Zheng"
+        },
+        {
+          "authorId": "2325188590",
+          "name": "Xiaofeng Gao"
+        },
+        {
+          "authorId": "2268494451",
+          "name": "Robinson Piramuthu"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "2258793748",
+          "name": "William Yang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "df9ad7a8e603760a8e2ffe8b4571e8871fc09916",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/df9ad7a8e603760a8e2ffe8b4571e8871fc09916",
+      "title": "Reward Guided Latent Consistency Distillation",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2258750843",
+          "name": "Jiachen Li"
+        },
+        {
+          "authorId": "2168285733",
+          "name": "Weixi Feng"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "2258793748",
+          "name": "William Yang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "f50cd839d4bafd0b799c8da298d70a1b42a1b923",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/f50cd839d4bafd0b799c8da298d70a1b42a1b923",
+      "title": "TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and Image-to-Video Generation",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2168285733",
+          "name": "Weixi Feng"
+        },
+        {
+          "authorId": "2258750843",
+          "name": "Jiachen Li"
+        },
+        {
+          "authorId": "48227633",
+          "name": "Michael Stephen Saxon"
+        },
+        {
+          "authorId": "41020222",
+          "name": "Tsu-Jui Fu"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "2258793748",
+          "name": "William Yang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "f76b280d9201cf0ae43717afe05ce15edeb13bb1",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f76b280d9201cf0ae43717afe05ce15edeb13bb1",
+      "title": "Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2115553132",
+          "name": "Xinyi Wang"
+        },
+        {
+          "authorId": "2039956094",
+          "name": "Alfonso Amayuelas"
+        },
+        {
+          "authorId": "2119058805",
+          "name": "Kexun Zhang"
+        },
+        {
+          "authorId": "2256983134",
+          "name": "Liangming Pan"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "2257130314",
+          "name": "W. Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "3ec625fabd8c43a05381d601b4e15dead0ae2317",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3ec625fabd8c43a05381d601b4e15dead0ae2317",
+      "title": "Interactive Natural Language Processing",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 33,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Zekun Wang"
+        },
+        {
+          "authorId": "2143853895",
+          "name": "Ge Zhang"
+        },
+        {
+          "authorId": "2004672900",
+          "name": "Kexin Yang"
+        },
+        {
+          "authorId": "49402878",
+          "name": "Ning Shi"
+        },
+        {
+          "authorId": "150341221",
+          "name": "Wangchunshu Zhou"
+        },
+        {
+          "authorId": "2218114137",
+          "name": "Shaochun Hao"
+        },
+        {
+          "authorId": "2218054707",
+          "name": "Guangzheng Xiong"
+        },
+        {
+          "authorId": "2129449392",
+          "name": "Yizhi Li"
+        },
+        {
+          "authorId": "2191710039",
+          "name": "Mong Yuan Sim"
+        },
+        {
+          "authorId": "46772896",
+          "name": "Xiuying Chen"
+        },
+        {
+          "authorId": "2152206274",
+          "name": "Qingqing Zhu"
+        },
+        {
+          "authorId": "2218306363",
+          "name": "Zhenzhu Yang"
+        },
+        {
+          "authorId": "2189375026",
+          "name": "A. Nik"
+        },
+        {
+          "authorId": "11149237",
+          "name": "Qi Liu"
+        },
+        {
+          "authorId": "2268783",
+          "name": "Chenghua Lin"
+        },
+        {
+          "authorId": "2144215438",
+          "name": "Shi Wang"
+        },
+        {
+          "authorId": "7247867",
+          "name": "Ruibo Liu"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "2249845515",
+          "name": "Ke Xu"
+        },
+        {
+          "authorId": "7415571",
+          "name": "Dayiheng Liu"
+        },
+        {
+          "authorId": "2118270918",
+          "name": "Yi-Ting Guo"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "5767aae52ef4090251c91f86d713309ddfdc4612",
+      "publicationVenue": {
+        "id": "8dce23a9-44e0-4381-a39e-2acc1edff700",
+        "name": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+          "Int ACM SIGIR Conf Res Dev Inf Retr",
+          "SIGIR",
+          "Annu Int ACM SIGIR Conf Res Dev Inf Retr"
+        ],
+        "url": "http://www.acm.org/sigir/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5767aae52ef4090251c91f86d713309ddfdc4612",
+      "title": "Knowledge Discovery from Unstructured Data in Financial Services (KDF) Workshop",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "36532736",
+          "name": "Sameena Shah"
+        },
+        {
+          "authorId": "2142938694",
+          "name": "Xiaodan Zhu"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "3361240",
+          "name": "Manling Li"
+        },
+        {
+          "authorId": "2144369",
+          "name": "Armineh Nourbakhsh"
+        },
+        {
+          "authorId": "2108959746",
+          "name": "Xiaomo Liu"
+        },
+        {
+          "authorId": "2116415715",
+          "name": "Zhiqiang Ma"
+        },
+        {
+          "authorId": "37722032",
+          "name": "Charese Smiley"
+        },
+        {
+          "authorId": "2223742792",
+          "name": "Yulong Pei"
+        },
+        {
+          "authorId": null,
+          "name": "Akshat Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "c22bfecc684be370bc22611deb8737d65466a390",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c22bfecc684be370bc22611deb8737d65466a390",
+      "title": "Knowledge of Knowledge: Exploring Known-Unknowns Uncertainty with Large Language Models",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2039956094",
+          "name": "Alfonso Amayuelas"
+        },
+        {
+          "authorId": "3470231",
+          "name": "Liangming Pan"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "152876475",
+          "name": "W. Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "fef6471c4a2a0e7abc4a2261a6cf916e34091d12",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/fef6471c4a2a0e7abc4a2261a6cf916e34091d12",
+      "title": "On the Risk of Misinformation Pollution with Large Language Models",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 96,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2218334588",
+          "name": "Yikang Pan"
+        },
+        {
+          "authorId": "3470231",
+          "name": "Liangming Pan"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "2026545715",
+          "name": "Preslav Nakov"
+        },
+        {
+          "authorId": "37596605",
+          "name": "Min-Yen Kan"
+        },
+        {
+          "authorId": "152876475",
+          "name": "W. Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "4e767a28f24a4ac1f760cce849a326f7c32d80f9",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4e767a28f24a4ac1f760cce849a326f7c32d80f9",
+      "title": "HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data",
+      "venue": "Findings",
+      "year": 2022,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2141373615",
+          "name": "Kai Nakamura"
+        },
+        {
+          "authorId": "49285370",
+          "name": "Sharon Levy"
+        },
+        {
+          "authorId": "41017887",
+          "name": "Yi-Lin Tuan"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "152876475",
+          "name": "W. Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "dd647f97921a1ff49078d53dc5629c1bd1702909",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/dd647f97921a1ff49078d53dc5629c1bd1702909",
+      "title": "Prompt-tuning in Controlled Dialogue Generation",
+      "venue": "",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2143186498",
+          "name": "Runcheng Liu"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "11d5308ef2590e5946277c16b86d8c830a12b945",
+      "publicationVenue": {
+        "id": "e783305c-5d8a-44b9-b7a2-449d474a85b2",
+        "name": "International Joint Conference on Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "IJCNLP",
+          "Int Jt Conf Nat Lang Process"
+        ],
+        "url": "https://www.aclweb.org/portal/ijcnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/11d5308ef2590e5946277c16b86d8c830a12b945",
+      "title": "Attacking Open-domain Question Answering by Injecting Misinformation",
+      "venue": "International Joint Conference on Natural Language Processing",
+      "year": 2021,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3470231",
+          "name": "Liangming Pan"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "37596605",
+          "name": "Min-Yen Kan"
+        },
+        {
+          "authorId": "152876475",
+          "name": "W. Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "147ab7f5cb42aa1681dd5ed21989a4c4e4257cb8",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/147ab7f5cb42aa1681dd5ed21989a4c4e4257cb8",
+      "title": "ContraQA: Question Answering under Contradicting Contexts",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3470231",
+          "name": "Liangming Pan"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "2257033898",
+          "name": "Min-Yen Kan"
+        },
+        {
+          "authorId": "2257130314",
+          "name": "W. Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "25c9dbcad66fedec76a8941db46bda2e9bd8f698",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/25c9dbcad66fedec76a8941db46bda2e9bd8f698",
+      "title": "Zero-shot Fact Verification by Claim Generation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 53,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3470231",
+          "name": "Liangming Pan"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "22253126",
+          "name": "Wenhan Xiong"
+        },
+        {
+          "authorId": "37596605",
+          "name": "Min-Yen Kan"
+        },
+        {
+          "authorId": "152876475",
+          "name": "W. Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "364621e7e864d3399ee90a7b2a058474e698e6de",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/364621e7e864d3399ee90a7b2a058474e698e6de",
+      "title": "Task-adaptive Pre-training and Self-training are Complementary for Natural Language Understanding",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2129756845",
+          "name": "Shiyang Li"
+        },
+        {
+          "authorId": "3014143",
+          "name": "Semih Yavuz"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "1740249",
+          "name": "Xifeng Yan"
+        }
+      ]
+    },
+    {
+      "paperId": "5d733042a5185a97eb80e4c665eaeaf71f9d1bba",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/5d733042a5185a97eb80e4c665eaeaf71f9d1bba",
+      "title": "A Dataset for Answering Time-Sensitive Questions",
+      "venue": "NeurIPS Datasets and Benchmarks",
+      "year": 2021,
+      "citationCount": 103,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "2115553132",
+          "name": "Xinyi Wang"
+        },
+        {
+          "authorId": "152876475",
+          "name": "W. Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "60a2567a238aff33d8cab667be76df83c63d9e1f",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/60a2567a238aff33d8cab667be76df83c63d9e1f",
+      "title": "Local Explanation of Dialogue Response Generation",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "41017887",
+          "name": "Yi-Lin Tuan"
+        },
+        {
+          "authorId": "2111682654",
+          "name": "Connor Pryor"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "1746034",
+          "name": "L. Getoor"
+        },
+        {
+          "authorId": "152876475",
+          "name": "W. Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "87c6052a674f93936dc14969336cc87c68b1d4aa",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/87c6052a674f93936dc14969336cc87c68b1d4aa",
+      "title": "Counterfactual Maximum Likelihood Estimation for Training Deep Networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2115553132",
+          "name": "Xinyi Wang"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "48227633",
+          "name": "Michael Stephen Saxon"
+        },
+        {
+          "authorId": "152876475",
+          "name": "W. Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "99053e3a708fc27709c9dab33110dc98b187c158",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/99053e3a708fc27709c9dab33110dc98b187c158",
+      "title": "FinQA: A Dataset of Numerical Reasoning over Financial Data",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 274,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Zhiyu Chen"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "37722032",
+          "name": "Charese Smiley"
+        },
+        {
+          "authorId": "36532736",
+          "name": "Sameena Shah"
+        },
+        {
+          "authorId": "2125334899",
+          "name": "Iana Borova"
+        },
+        {
+          "authorId": "2125329151",
+          "name": "Dylan Langdon"
+        },
+        {
+          "authorId": "2125329600",
+          "name": "Reema N Moussa"
+        },
+        {
+          "authorId": "67048282",
+          "name": "Matthew I. Beane"
+        },
+        {
+          "authorId": "144188081",
+          "name": "Ting-Hao 'Kenneth' Huang"
+        },
+        {
+          "authorId": "3087875",
+          "name": "Bryan R. Routledge"
+        },
+        {
+          "authorId": "152876475",
+          "name": "W. Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "da1688c89dad9045c8159bf8abe4ecdbf0a7a63f",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/da1688c89dad9045c8159bf8abe4ecdbf0a7a63f",
+      "title": "A Systematic Investigation of KB-Text Embedding Alignment at Scale",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "7591930",
+          "name": "Vardaan Pahuja"
+        },
+        {
+          "authorId": "2022231256",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "3847638",
+          "name": "M. Bahrami"
+        },
+        {
+          "authorId": "1557267924",
+          "name": "Lei Liu"
+        },
+        {
+          "authorId": "2109593960",
+          "name": "Wei-Peng Chen"
+        },
+        {
+          "authorId": "1758652",
+          "name": "Yu Su"
+        }
+      ]
+    },
+    {
+      "paperId": "31dfd1339e28f1867e585d8ae8e254ed04415c1c",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/31dfd1339e28f1867e585d8ae8e254ed04415c1c",
+      "title": "Xin Wang",
+      "venue": "Dictionary of Geotourism",
+      "year": 2019,
+      "citationCount": 12,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "47904091",
+          "name": "Yuan-fang Wang"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "2111123862",
+          "name": "Jiawei Wu"
+        },
+        {
+          "authorId": "152876475",
+          "name": "W. Wang"
+        },
+        {
+          "authorId": "2177528",
+          "name": "Geoffrey Oxholm"
+        },
+        {
+          "authorId": "2109561120",
+          "name": "Da Zhang"
+        }
+      ]
+    }
+  ]
+}

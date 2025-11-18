@@ -1,0 +1,1768 @@
+{
+  "authorId": "50043859",
+  "name": "Mark Neumann",
+  "affiliations": [
+    "Allen Institute for AI"
+  ],
+  "paperCount": 16,
+  "citationCount": 14436,
+  "hIndex": 8,
+  "papers": [
+    {
+      "paperId": "65a08d863c6ea1ffa458dfdfd0471309c743f366",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/65a08d863c6ea1ffa458dfdfd0471309c743f366",
+      "title": "A Comprehensive Evaluation of Biomedical Entity Linking and Normalization Models",
+      "venue": "",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2057234493",
+          "name": "Dhruv Agarwal"
+        },
+        {
+          "authorId": "40555739",
+          "name": "Rico Angell"
+        },
+        {
+          "authorId": "2121348263",
+          "name": "Nicholas Monath"
+        },
+        {
+          "authorId": "2287262451",
+          "name": "Nishant Sunil Mohan"
+        },
+        {
+          "authorId": "1703414",
+          "name": "A. Aronson"
+        },
+        {
+          "authorId": "2287238950",
+          "name": "Francois-Michel Lang. 2010"
+        },
+        {
+          "authorId": "2285366383",
+          "name": "An"
+        },
+        {
+          "authorId": "2910801",
+          "name": "Marco Basaldella"
+        },
+        {
+          "authorId": "2287944357",
+          "name": "Fangyu Liu"
+        },
+        {
+          "authorId": "2888926",
+          "name": "Ehsan Shareghi"
+        },
+        {
+          "authorId": "41019080",
+          "name": "Nicola De Cao"
+        },
+        {
+          "authorId": "2261981869",
+          "name": "Gautier Izacard"
+        },
+        {
+          "authorId": "2257279869",
+          "name": "Sebastian Riedel"
+        },
+        {
+          "authorId": "2841893",
+          "name": "Aakanksha Chowdhery"
+        },
+        {
+          "authorId": "46617804",
+          "name": "Sharan Narang"
+        },
+        {
+          "authorId": "2261961752",
+          "name": "J. Devlin"
+        },
+        {
+          "authorId": "108109364",
+          "name": "A. P. Davis"
+        },
+        {
+          "authorId": "47186808",
+          "name": "Cynthia J. Grondin"
+        },
+        {
+          "authorId": "2287133616",
+          "name": "John-528 son"
+        },
+        {
+          "authorId": "2160494",
+          "name": "D. Sciaky"
+        },
+        {
+          "authorId": "9693063",
+          "name": "Roy McMorran"
+        },
+        {
+          "authorId": "8380092",
+          "name": "Jolene Wiegers"
+        },
+        {
+          "authorId": "2273837286",
+          "name": "Dina Demner-Fushman"
+        },
+        {
+          "authorId": "34708703",
+          "name": "Willie J. Rogers"
+        },
+        {
+          "authorId": "2287215002",
+          "name": "Alan R 533"
+        },
+        {
+          "authorId": "2262085555",
+          "name": "Ming-Wei Chang"
+        },
+        {
+          "authorId": "2262196473",
+          "name": "Kenton Lee"
+        },
+        {
+          "authorId": "2286965082",
+          "name": "Zaiqiao Meng"
+        },
+        {
+          "authorId": "2876316",
+          "name": "Lajanugen Logeswaran"
+        },
+        {
+          "authorId": "144653901",
+          "name": "Daniel Loureiro"
+        },
+        {
+          "authorId": "2287240780",
+          "name": "Al\u00edpio M\u00e1rio"
+        },
+        {
+          "authorId": "1758049",
+          "name": "D. Maglott"
+        },
+        {
+          "authorId": "2286708294",
+          "name": "J. Ostell"
+        },
+        {
+          "authorId": "1753253",
+          "name": "K. Pruitt"
+        },
+        {
+          "authorId": "2288942715",
+          "name": "Donghui Li"
+        },
+        {
+          "authorId": "2287244788",
+          "name": "Medmentions"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "2287206339",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "2260133345",
+          "name": "Iz Beltagy"
+        },
+        {
+          "authorId": "2250741832",
+          "name": "Laurel J. Orr"
+        },
+        {
+          "authorId": "37866790",
+          "name": "Megan Leszczynski"
+        },
+        {
+          "authorId": "2820009",
+          "name": "Neel Guha"
+        },
+        {
+          "authorId": "2286927018",
+          "name": "Sen Wu"
+        },
+        {
+          "authorId": "2285788571",
+          "name": "Simran Arora"
+        },
+        {
+          "authorId": "2286881944",
+          "name": "Xiao Ling"
+        },
+        {
+          "authorId": "2250761261",
+          "name": "Christopher R\u00e9"
+        },
+        {
+          "authorId": "2257278245",
+          "name": "Ouyang Long"
+        },
+        {
+          "authorId": "2242326456",
+          "name": "Jeffrey Wu"
+        },
+        {
+          "authorId": "2262085432",
+          "name": "Xu Jiang"
+        },
+        {
+          "authorId": "2275252021",
+          "name": "Diogo Almeida"
+        },
+        {
+          "authorId": "2275245962",
+          "name": "Carroll L. Wainwright"
+        },
+        {
+          "authorId": "2051714782",
+          "name": "Pamela Mishkin"
+        },
+        {
+          "authorId": "2262080679",
+          "name": "Chong Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "99087c723e07b07162e277a3c06bcdf1447eeade",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/99087c723e07b07162e277a3c06bcdf1447eeade",
+      "title": "sciDataQA: Scientific Dataset Recommendation for Question Answering",
+      "venue": "",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "46196592",
+          "name": "Leonard Adolphs"
+        },
+        {
+          "authorId": "2143311006",
+          "name": "Michelle Chen Huebscher"
+        },
+        {
+          "authorId": "2286686329",
+          "name": "Sertan Buck"
+        },
+        {
+          "authorId": "2286684417",
+          "name": "Olivier Girgin"
+        },
+        {
+          "authorId": "2286730590",
+          "name": "Bachem"
+        },
+        {
+          "authorId": "2286684278",
+          "name": "Massimiliano"
+        },
+        {
+          "authorId": "2285551030",
+          "name": "C. Alberti"
+        },
+        {
+          "authorId": "3365603",
+          "name": "D. Andor"
+        },
+        {
+          "authorId": "2585932",
+          "name": "Emily Pitler"
+        },
+        {
+          "authorId": "2261961752",
+          "name": "J. Devlin"
+        },
+        {
+          "authorId": "1400347538",
+          "name": "Ateret Anaby-Tavor"
+        },
+        {
+          "authorId": "1719299",
+          "name": "Boaz Carmeli"
+        },
+        {
+          "authorId": "1734231",
+          "name": "Esther Goldbraich"
+        },
+        {
+          "authorId": "2236429",
+          "name": "Tushar Khot"
+        },
+        {
+          "authorId": "2258709497",
+          "name": "Peter Clark"
+        },
+        {
+          "authorId": "1983252",
+          "name": "Michal Guerquin"
+        },
+        {
+          "authorId": "2286697151",
+          "name": "Jayant Krishnamurthy"
+        },
+        {
+          "authorId": "3385516",
+          "name": "Oyvind Tafjord"
+        },
+        {
+          "authorId": "3287470",
+          "name": "Onur K\u00fc\u00e7\u00fcktun\u00e7"
+        },
+        {
+          "authorId": "143914759",
+          "name": "Erik Saule"
+        },
+        {
+          "authorId": "69375712",
+          "name": "K. Kaya"
+        },
+        {
+          "authorId": "2286698174",
+          "name": "Luiz Andr\u00e9"
+        },
+        {
+          "authorId": "2286730582",
+          "name": "Paes Leme"
+        },
+        {
+          "authorId": "2286684367",
+          "name": "Giseli Rabello"
+        },
+        {
+          "authorId": "2286706874",
+          "name": "Lopes"
+        },
+        {
+          "authorId": "2237628118",
+          "name": "Bernardo Pereira Nunes"
+        },
+        {
+          "authorId": "2270804563",
+          "name": "M. A. Casanova"
+        },
+        {
+          "authorId": "2158251943",
+          "name": "Pan Lu"
+        },
+        {
+          "authorId": "2287936369",
+          "name": "Swaroop Mishra"
+        },
+        {
+          "authorId": "2143749775",
+          "name": "Tony Xia"
+        },
+        {
+          "authorId": "47659905",
+          "name": "Liang Qiu"
+        },
+        {
+          "authorId": "2286948896",
+          "name": "Wei-Cheng Chang"
+        },
+        {
+          "authorId": "2286519127",
+          "name": "Song-Chun Zhu"
+        },
+        {
+          "authorId": "2135666594",
+          "name": "Jiaqi Chen"
+        },
+        {
+          "authorId": "2109831678",
+          "name": "Yizhou Zhao"
+        },
+        {
+          "authorId": "2275512271",
+          "name": "Wei Zhang"
+        },
+        {
+          "authorId": "2281909781",
+          "name": "Zhou Yu"
+        },
+        {
+          "authorId": "2279864033",
+          "name": "Xiaodan Liang"
+        },
+        {
+          "authorId": "2283262903",
+          "name": "Yu Meng"
+        },
+        {
+          "authorId": "2340363933",
+          "name": "Jiaxin Huang"
+        },
+        {
+          "authorId": "2286782364",
+          "name": "Yu Zhang"
+        },
+        {
+          "authorId": "39980906",
+          "name": "Todor Mihaylov"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "47405529",
+          "name": "Daniel R. King"
+        },
+        {
+          "authorId": "2260133345",
+          "name": "Iz Beltagy"
+        }
+      ]
+    },
+    {
+      "paperId": "471fdf22b12363f380077a5de14078f17a104d04",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/471fdf22b12363f380077a5de14078f17a104d04",
+      "title": "Metadata Shaping: Natural Language Annotations for the Long Tail Anonymous",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2270406464",
+          "name": "Karan Goel"
+        },
+        {
+          "authorId": "8937909",
+          "name": "Nazneen Rajani"
+        },
+        {
+          "authorId": "2238207712",
+          "name": "Jesse Vig"
+        },
+        {
+          "authorId": "2260295997",
+          "name": "Samson Tan"
+        },
+        {
+          "authorId": "2286942195",
+          "name": "Jason Wu"
+        },
+        {
+          "authorId": "2287280999",
+          "name": "Stephan Zheng"
+        },
+        {
+          "authorId": "2266753302",
+          "name": "Caiming Xiong"
+        },
+        {
+          "authorId": "2287322460",
+          "name": "Christopher R\u00e9. 2021"
+        },
+        {
+          "authorId": "2287322451",
+          "name": "Robustness"
+        },
+        {
+          "authorId": "2273585010",
+          "name": "Isabelle Guyon"
+        },
+        {
+          "authorId": "2287272713",
+          "name": "Andre Elisseeff. 2003"
+        },
+        {
+          "authorId": "2285366383",
+          "name": "An"
+        },
+        {
+          "authorId": "2287474027",
+          "name": "Xu Han"
+        },
+        {
+          "authorId": "2150606888",
+          "name": "Weilin Zhao"
+        },
+        {
+          "authorId": "2219798016",
+          "name": "Ning Ding"
+        },
+        {
+          "authorId": "2261154189",
+          "name": "Zhiyuan Liu"
+        },
+        {
+          "authorId": "2287825597",
+          "name": "Hao Zhu"
+        },
+        {
+          "authorId": "2288460668",
+          "name": "Pengfei Yu"
+        },
+        {
+          "authorId": "2124823889",
+          "name": "Ziyun Wang"
+        },
+        {
+          "authorId": "2286116177",
+          "name": "Yuan"
+        },
+        {
+          "authorId": "3182726",
+          "name": "Matthew Honnibal"
+        },
+        {
+          "authorId": "151451181",
+          "name": "Ines Montani"
+        },
+        {
+          "authorId": "2287298204",
+          "name": "Sofie Van"
+        },
+        {
+          "authorId": "2287322317",
+          "name": "Lan-689 deghem"
+        },
+        {
+          "authorId": "2285075370",
+          "name": "Adriane Boyd"
+        },
+        {
+          "authorId": "2286939725",
+          "name": "Mandar Joshi"
+        },
+        {
+          "authorId": "2262196473",
+          "name": "Kenton Lee"
+        },
+        {
+          "authorId": "2287130440",
+          "name": "Yi Luan"
+        },
+        {
+          "authorId": "2844898",
+          "name": "N. Keskar"
+        },
+        {
+          "authorId": "143775536",
+          "name": "Bryan McCann"
+        },
+        {
+          "authorId": "2287290524",
+          "name": "Lav R. Varsh-698"
+        },
+        {
+          "authorId": "2286962698",
+          "name": "Richard Socher"
+        },
+        {
+          "authorId": "2285740821",
+          "name": "Pengfei Liu"
+        },
+        {
+          "authorId": "30300197",
+          "name": "Weizhe Yuan"
+        },
+        {
+          "authorId": "2287968509",
+          "name": "Jinlan Fu"
+        },
+        {
+          "authorId": "2285567442",
+          "name": "Zhengbao Jiang"
+        },
+        {
+          "authorId": "2154957011",
+          "name": "Weijie Liu"
+        },
+        {
+          "authorId": "2287975499",
+          "name": "Peng Zhou"
+        },
+        {
+          "authorId": "2263956659",
+          "name": "Zhe Zhao"
+        },
+        {
+          "authorId": "2261355095",
+          "name": "Zhiruo Wang"
+        },
+        {
+          "authorId": "2287297778",
+          "name": "Qi Ju"
+        },
+        {
+          "authorId": "2876316",
+          "name": "Lajanugen Logeswaran"
+        },
+        {
+          "authorId": "2262085555",
+          "name": "Ming-Wei Chang"
+        },
+        {
+          "authorId": "2275365960",
+          "name": "Christopher D. Manning"
+        },
+        {
+          "authorId": "1760868",
+          "name": "M. Surdeanu"
+        },
+        {
+          "authorId": "2286012849",
+          "name": "John Bauer"
+        },
+        {
+          "authorId": "2784228",
+          "name": "J. Finkel"
+        },
+        {
+          "authorId": "2105138",
+          "name": "Steven Bethard"
+        },
+        {
+          "authorId": "2287284029",
+          "name": "David Mc-721"
+        },
+        {
+          "authorId": "2285636469",
+          "name": "Mitchell P. Marcus"
+        },
+        {
+          "authorId": "2424234",
+          "name": "Beatrice Santorini"
+        },
+        {
+          "authorId": "2285608248",
+          "name": "Mary Ann"
+        },
+        {
+          "authorId": "2250741832",
+          "name": "Laurel J. Orr"
+        },
+        {
+          "authorId": "37866790",
+          "name": "Megan Leszczynski"
+        },
+        {
+          "authorId": "2287272614",
+          "name": "Sen Simran Arora"
+        },
+        {
+          "authorId": "2287134461",
+          "name": "Neel Wu"
+        },
+        {
+          "authorId": "2287297282",
+          "name": "Xiao Guha"
+        },
+        {
+          "authorId": "2287284019",
+          "name": "Ling Chris"
+        },
+        {
+          "authorId": "2287274793",
+          "name": "R\u00e9"
+        },
+        {
+          "authorId": "2267244582",
+          "name": "Matthew E. Peters"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "2285460685",
+          "name": "Roy Schwartz"
+        },
+        {
+          "authorId": "24887082",
+          "name": "Vidur Joshi"
+        },
+        {
+          "authorId": "2285902374",
+          "name": "Sameer Singh"
+        },
+        {
+          "authorId": "48576745",
+          "name": "Yusheng Su"
+        },
+        {
+          "authorId": "2621696",
+          "name": "Zhengyan Zhang"
+        },
+        {
+          "authorId": "2427350",
+          "name": "Yankai Lin"
+        },
+        {
+          "authorId": "2209965245",
+          "name": "Peng Li"
+        },
+        {
+          "authorId": "2266995673",
+          "name": "Jie Zhou"
+        },
+        {
+          "authorId": "2286237772",
+          "name": "Yi Tay"
+        },
+        {
+          "authorId": "2256989598",
+          "name": "Mostafa Dehghani"
+        },
+        {
+          "authorId": "2786352",
+          "name": "Samira Abnar"
+        },
+        {
+          "authorId": "2124685444",
+          "name": "Yikang"
+        },
+        {
+          "authorId": "2286935198",
+          "name": "Dara Shen"
+        },
+        {
+          "authorId": "2287274881",
+          "name": "Philip Bahri"
+        },
+        {
+          "authorId": "2287164900",
+          "name": "Jinfeng Pham"
+        },
+        {
+          "authorId": "2285813825",
+          "name": "Rao"
+        },
+        {
+          "authorId": "2273533743",
+          "name": "Liu"
+        },
+        {
+          "authorId": "2286904056",
+          "name": "Sebastian Yang"
+        },
+        {
+          "authorId": "2287322397",
+          "name": "Ruder Donald"
+        },
+        {
+          "authorId": "2287274862",
+          "name": "Metzler"
+        }
+      ]
+    },
+    {
+      "paperId": "70bb4cfc6154f699106e0f3f7a7f6814ec9825ff",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/70bb4cfc6154f699106e0f3f7a7f6814ec9825ff",
+      "title": "T ailor : Generating and Perturbing Text with Semantic Controls",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3460261",
+          "name": "L. Banarescu"
+        },
+        {
+          "authorId": "3202888",
+          "name": "C. Bonial"
+        },
+        {
+          "authorId": "2276244705",
+          "name": "Madalina Shu Cai"
+        },
+        {
+          "authorId": "2276233465",
+          "name": "Kira Georgescu"
+        },
+        {
+          "authorId": "2286649828",
+          "name": "Ulf Gri \ufb03 tt"
+        },
+        {
+          "authorId": "2276240565",
+          "name": "Kevin Hermjakob"
+        },
+        {
+          "authorId": "2276244463",
+          "name": "Philipp Knight"
+        },
+        {
+          "authorId": "2276233476",
+          "name": "Martha Koehn"
+        },
+        {
+          "authorId": "2276245279",
+          "name": "Palmer Nathan"
+        },
+        {
+          "authorId": "2285098724",
+          "name": "Samuel R. Bowman"
+        },
+        {
+          "authorId": "2285060905",
+          "name": "Gabor Angeli"
+        },
+        {
+          "authorId": "2253742954",
+          "name": "Christopher Potts"
+        },
+        {
+          "authorId": "2285086642",
+          "name": "Christopher Clark"
+        },
+        {
+          "authorId": "2262196473",
+          "name": "Kenton Lee"
+        },
+        {
+          "authorId": "2262085555",
+          "name": "Ming-Wei Chang"
+        },
+        {
+          "authorId": "3491117",
+          "name": "Sumanth Dathathri"
+        },
+        {
+          "authorId": "2111680936",
+          "name": "Andrea Madotto"
+        },
+        {
+          "authorId": "2286386146",
+          "name": "Janice Lan"
+        },
+        {
+          "authorId": "2059429321",
+          "name": "Eric Frank"
+        },
+        {
+          "authorId": "34890911",
+          "name": "Piero Molino"
+        },
+        {
+          "authorId": "2965424",
+          "name": "J. Yosinski"
+        },
+        {
+          "authorId": "2285605774",
+          "name": "Matt Gardner"
+        },
+        {
+          "authorId": "3167681",
+          "name": "Yoav Artzi"
+        },
+        {
+          "authorId": "134827613",
+          "name": "Victoria Basmov"
+        },
+        {
+          "authorId": "2286665564",
+          "name": "Ben Berant"
+        },
+        {
+          "authorId": "2286665643",
+          "name": "Sihao Bogin"
+        },
+        {
+          "authorId": "2286627692",
+          "name": "Pradeep Chen"
+        },
+        {
+          "authorId": "2286670458",
+          "name": "Dasigi"
+        },
+        {
+          "authorId": "1783281",
+          "name": "Daniel Khashabi"
+        },
+        {
+          "authorId": "2257764581",
+          "name": "Kevin Lin"
+        },
+        {
+          "authorId": "2286626584",
+          "name": "Jiangming Liu"
+        },
+        {
+          "authorId": "2137972411",
+          "name": "Nelson Liu"
+        },
+        {
+          "authorId": "46244238",
+          "name": "Phoebe Mulcaire"
+        },
+        {
+          "authorId": "2275170705",
+          "name": "Qiang Ning"
+        },
+        {
+          "authorId": "2285902374",
+          "name": "Sameer Singh"
+        },
+        {
+          "authorId": "2276220558",
+          "name": "Noah A. Smith"
+        },
+        {
+          "authorId": "2275137302",
+          "name": "Sanjay Subramanian"
+        },
+        {
+          "authorId": "2799181",
+          "name": "Reut Tsarfaty"
+        },
+        {
+          "authorId": "145217343",
+          "name": "Eric Wallace"
+        },
+        {
+          "authorId": "2153658440",
+          "name": "Ally Zhang"
+        },
+        {
+          "authorId": "2275819186",
+          "name": "Ben Zhou"
+        },
+        {
+          "authorId": "40695489",
+          "name": "Joel Grus"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "3385516",
+          "name": "Oyvind Tafjord"
+        },
+        {
+          "authorId": "2697425",
+          "name": "Pradeep Dasigi"
+        },
+        {
+          "authorId": "2137972411",
+          "name": "Nelson Liu"
+        },
+        {
+          "authorId": "2286676204",
+          "name": "Matthew Pe-631 ters"
+        },
+        {
+          "authorId": "2286676842",
+          "name": "Michael Schmitz"
+        },
+        {
+          "authorId": "2286649032",
+          "name": "Luke Zettlemoyer. 2018"
+        },
+        {
+          "authorId": "2282138468",
+          "name": "William Merrill"
+        },
+        {
+          "authorId": "2285322061",
+          "name": "Jesse Dodge"
+        },
+        {
+          "authorId": "2286648884",
+          "name": "Jan Haji\u02c7c"
+        },
+        {
+          "authorId": "2754495",
+          "name": "Massimiliano Ciaramita"
+        },
+        {
+          "authorId": "2286675637",
+          "name": "Richard Johans-643 son"
+        },
+        {
+          "authorId": "2286649723",
+          "name": "Daisuke Kawahara"
+        },
+        {
+          "authorId": "2286676936",
+          "name": "Maria Ant\u00f2nia Mart\u00ed"
+        },
+        {
+          "authorId": "2286675590",
+          "name": "Llu\u00eds M\u00e0rquez"
+        },
+        {
+          "authorId": "2250666298",
+          "name": "Adam Meyers"
+        },
+        {
+          "authorId": "2256431387",
+          "name": "Joakim Nivre"
+        },
+        {
+          "authorId": "1708581",
+          "name": "Sebastian Pad\u00f3"
+        },
+        {
+          "authorId": "2286669611",
+          "name": "Jan \u0160t\u02c7ep\u00e1nek"
+        },
+        {
+          "authorId": "2286666206",
+          "name": "Pavel Stra\u02c7n\u00e1k"
+        },
+        {
+          "authorId": "1760868",
+          "name": "M. Surdeanu"
+        },
+        {
+          "authorId": null,
+          "name": "Kuan-Hao Huang"
+        },
+        {
+          "authorId": "2285381401",
+          "name": "Kai-Wei Chang"
+        },
+        {
+          "authorId": "2286675595",
+          "name": "Generat-668"
+        },
+        {
+          "authorId": "2844898",
+          "name": "N. Keskar"
+        },
+        {
+          "authorId": "143775536",
+          "name": "Bryan McCann"
+        },
+        {
+          "authorId": "2286669896",
+          "name": "L. Varshney"
+        },
+        {
+          "authorId": "2118674091",
+          "name": "Chuanrong Li"
+        },
+        {
+          "authorId": "2286732788",
+          "name": "Shengshuo Lin"
+        },
+        {
+          "authorId": "2286662041",
+          "name": "Zeyu Liu"
+        },
+        {
+          "authorId": "2238645593",
+          "name": "Xinyi Wu"
+        },
+        {
+          "authorId": "2286413517",
+          "name": "Xuhui Zhou"
+        },
+        {
+          "authorId": "1403904282",
+          "name": "Shane Steinert-Threlkeld"
+        },
+        {
+          "authorId": "11323179",
+          "name": "Yinhan Liu"
+        },
+        {
+          "authorId": "40511414",
+          "name": "Myle Ott"
+        },
+        {
+          "authorId": "39589154",
+          "name": "Naman Goyal"
+        },
+        {
+          "authorId": "3048577",
+          "name": "Jingfei Du"
+        },
+        {
+          "authorId": "2285032310",
+          "name": "Mandar Joshi"
+        },
+        {
+          "authorId": "2255489905",
+          "name": "Danqi Chen"
+        },
+        {
+          "authorId": "2253752918",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "2261973116",
+          "name": "Mike Lewis"
+        },
+        {
+          "authorId": null,
+          "name": "Yiwei Lyu"
+        },
+        {
+          "authorId": "28130078",
+          "name": "Paul Pu Liang"
+        },
+        {
+          "authorId": "2286477259",
+          "name": "Hai Pham"
+        },
+        {
+          "authorId": "2285877067",
+          "name": "Eduard H. Hovy"
+        },
+        {
+          "authorId": "21626987",
+          "name": "Aman Madaan"
+        },
+        {
+          "authorId": "80366270",
+          "name": "Amrith Rajagopal Setlur"
+        },
+        {
+          "authorId": "46719088",
+          "name": "Tanmay Parekh"
+        },
+        {
+          "authorId": "2286704915",
+          "name": "Hao Peng"
+        },
+        {
+          "authorId": "144729897",
+          "name": "Ankur P. Parikh"
+        },
+        {
+          "authorId": "1779225",
+          "name": "Manaal Faruqui"
+        },
+        {
+          "authorId": "2286693562",
+          "name": "Bhuwan"
+        },
+        {
+          "authorId": "2257177188",
+          "name": "Sameer Pradhan"
+        },
+        {
+          "authorId": "1719404",
+          "name": "Alessandro Moschitti"
+        },
+        {
+          "authorId": "2286215683",
+          "name": "Nianwen Xue"
+        },
+        {
+          "authorId": "2286693707",
+          "name": "Colin Ra \ufb00 el"
+        },
+        {
+          "authorId": "1846258",
+          "name": "Noam M. Shazeer"
+        },
+        {
+          "authorId": "2275223445",
+          "name": "A. Roberts"
+        },
+        {
+          "authorId": "2275576898",
+          "name": "K. Lee"
+        },
+        {
+          "authorId": "46617804",
+          "name": "Sharan Narang"
+        },
+        {
+          "authorId": "1380243217",
+          "name": "Michael Matena"
+        },
+        {
+          "authorId": "102430532",
+          "name": "Yanqi"
+        },
+        {
+          "authorId": "2275910701",
+          "name": "Wei Zhou"
+        },
+        {
+          "authorId": "2275371502",
+          "name": "J. LiPeter"
+        },
+        {
+          "authorId": "2286648944",
+          "name": "Liu. 2020"
+        },
+        {
+          "authorId": "2286665645",
+          "name": "Exploring"
+        },
+        {
+          "authorId": "2706258",
+          "name": "Pranav Rajpurkar"
+        },
+        {
+          "authorId": "2286785446",
+          "name": "Jian Zhang"
+        },
+        {
+          "authorId": "2787620",
+          "name": "Konstantin Lopyrev"
+        },
+        {
+          "authorId": "2289370104",
+          "name": "M. Ribeiro"
+        },
+        {
+          "authorId": "1412355294",
+          "name": "Carlos Guestrin"
+        },
+        {
+          "authorId": "2261675987",
+          "name": "Tongshuang Wu"
+        },
+        {
+          "authorId": "32739287",
+          "name": "Alexis Ross"
+        },
+        {
+          "authorId": "2273870623",
+          "name": "Ana Marasovi\u00b4c"
+        }
+      ]
+    },
+    {
+      "paperId": "6a9cab267526de228a51f70ae56f1e07ecfc7bf8",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6a9cab267526de228a51f70ae56f1e07ecfc7bf8",
+      "title": "Grammar-based Neural Text-to-SQL Generation",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 50,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48085802",
+          "name": "Kevin Lin"
+        },
+        {
+          "authorId": "50757607",
+          "name": "Ben Bogin"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "1750652",
+          "name": "Jonathan Berant"
+        },
+        {
+          "authorId": "40642935",
+          "name": "Matt Gardner"
+        }
+      ]
+    },
+    {
+      "paperId": "aafb34507cfc87292cb75f320d4f54a5354c5287",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/aafb34507cfc87292cb75f320d4f54a5354c5287",
+      "title": "Development of a Low Specific Speed, Centrifugal, Mini Pump for a Two Phase Mechanically Pumped Fluid Loop",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Materials Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1395674717",
+          "name": "Diego Mugurusa"
+        },
+        {
+          "authorId": "115624880",
+          "name": "Michael D. Arner"
+        },
+        {
+          "authorId": "1395674727",
+          "name": "Caitlin Patruski"
+        },
+        {
+          "authorId": "120264115",
+          "name": "Gary A. Adamson"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "21769336",
+          "name": "Harold Hansen"
+        }
+      ]
+    },
+    {
+      "paperId": "bfeb827d06c1a3583b5cc6d25241203a81f6af09",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/bfeb827d06c1a3583b5cc6d25241203a81f6af09",
+      "title": "Knowledge Enhanced Contextual Word Representations",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 648,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39139825",
+          "name": "Matthew E. Peters"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "1387915630",
+          "name": "IV RobertL.Logan"
+        },
+        {
+          "authorId": "4671928",
+          "name": "Roy Schwartz"
+        },
+        {
+          "authorId": "24887082",
+          "name": "Vidur Joshi"
+        },
+        {
+          "authorId": "34650964",
+          "name": "Sameer Singh"
+        },
+        {
+          "authorId": "144365875",
+          "name": "Noah A. Smith"
+        }
+      ]
+    },
+    {
+      "paperId": "de28ec1d7bd38c8fc4e8ac59b6133800818b4e29",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/de28ec1d7bd38c8fc4e8ac59b6133800818b4e29",
+      "title": "ScispaCy: Fast and Robust Models for Biomedical Natural Language Processing",
+      "venue": "BioNLP@ACL",
+      "year": 2019,
+      "citationCount": 671,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "145104486",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "46181066",
+          "name": "Iz Beltagy"
+        },
+        {
+          "authorId": "145585097",
+          "name": "Bridger Waleed Ammar"
+        }
+      ]
+    },
+    {
+      "paperId": "3febb2bed8865945e7fddc99efd791887bb7e14f",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/3febb2bed8865945e7fddc99efd791887bb7e14f",
+      "title": "Deep Contextualized Word Representations",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 11362,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39139825",
+          "name": "Matthew E. Peters"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "2136562",
+          "name": "Mohit Iyyer"
+        },
+        {
+          "authorId": "40642935",
+          "name": "Matt Gardner"
+        },
+        {
+          "authorId": "143997772",
+          "name": "Christopher Clark"
+        },
+        {
+          "authorId": "2544107",
+          "name": "Kenton Lee"
+        },
+        {
+          "authorId": "1982950",
+          "name": "Luke Zettlemoyer"
+        }
+      ]
+    },
+    {
+      "paperId": "6123dc54b29c3178aa6d1d4af2b6bbb5cc71824f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6123dc54b29c3178aa6d1d4af2b6bbb5cc71824f",
+      "title": "AllenNLP: A Deep Semantic Natural Language Processing Platform",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 8,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "40642935",
+          "name": "Matt Gardner"
+        },
+        {
+          "authorId": "40695489",
+          "name": "Joel Grus"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "3385516",
+          "name": "Oyvind Tafjord"
+        },
+        {
+          "authorId": "2697425",
+          "name": "Pradeep Dasigi"
+        },
+        {
+          "authorId": "2137972411",
+          "name": "Nelson Liu"
+        },
+        {
+          "authorId": "144874222",
+          "name": "Michael Schmitz"
+        }
+      ]
+    },
+    {
+      "paperId": "93b4cc549a1bc4bc112189da36c318193d05d806",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/93b4cc549a1bc4bc112189da36c318193d05d806",
+      "title": "AllenNLP: A Deep Semantic Natural Language Processing Platform",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 1269,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40642935",
+          "name": "Matt Gardner"
+        },
+        {
+          "authorId": "40695489",
+          "name": "Joel Grus"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "3385516",
+          "name": "Oyvind Tafjord"
+        },
+        {
+          "authorId": "2697425",
+          "name": "Pradeep Dasigi"
+        },
+        {
+          "authorId": "22243769",
+          "name": "Nelson F. Liu"
+        },
+        {
+          "authorId": "39139825",
+          "name": "Matthew E. Peters"
+        },
+        {
+          "authorId": "144874222",
+          "name": "Michael Schmitz"
+        },
+        {
+          "authorId": "1982950",
+          "name": "Luke Zettlemoyer"
+        }
+      ]
+    },
+    {
+      "paperId": "ac11062f1f368d97f4c826c317bf50dcc13fdb59",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/ac11062f1f368d97f4c826c317bf50dcc13fdb59",
+      "title": "Dissecting Contextual Word Embeddings: Architecture and Representation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 418,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39139825",
+          "name": "Matthew E. Peters"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "1982950",
+          "name": "Luke Zettlemoyer"
+        },
+        {
+          "authorId": "144105277",
+          "name": "Wen-tau Yih"
+        }
+      ]
+    },
+    {
+      "paperId": "c53a4b02f6fb97b467372de2f94baad3d4deb54d",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/c53a4b02f6fb97b467372de2f94baad3d4deb54d",
+      "title": "Writing Code for NLP Research",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40642935",
+          "name": "Matt Gardner"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "40695489",
+          "name": "Joel Grus"
+        },
+        {
+          "authorId": "35219984",
+          "name": "Nicholas Lourie"
+        }
+      ]
+    },
+    {
+      "paperId": "d449ec41cd3222f9f8b325adfacc8f4b9e7b95d3",
+      "publicationVenue": {
+        "id": "3afb600a-49ad-40aa-858c-081def027584",
+        "name": "Workshop on Biomedical Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "BioNLP",
+          "Workshop Biomed Nat Lang Process"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/d449ec41cd3222f9f8b325adfacc8f4b9e7b95d3",
+      "title": "Ontology alignment in the biomedical domain using entity definitions and context",
+      "venue": "Workshop on Biomedical Natural Language Processing",
+      "year": 2018,
+      "citationCount": 50,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "31860505",
+          "name": "Lucy Lu Wang"
+        },
+        {
+          "authorId": "1857797",
+          "name": "Chandra Bhagavatula"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "46258841",
+          "name": "Kyle Lo"
+        },
+        {
+          "authorId": "46212260",
+          "name": "Christopher Wilhelm"
+        },
+        {
+          "authorId": "145585097",
+          "name": "Bridger Waleed Ammar"
+        }
+      ]
+    },
+    {
+      "paperId": "9550ebf7640a4ee880591b5e8739294d085bedf6",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9550ebf7640a4ee880591b5e8739294d085bedf6",
+      "title": "Learning to Reason With Adaptive Computation",
+      "venue": "Neural Information Processing Systems",
+      "year": 2016,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "1918552",
+          "name": "Pontus Stenetorp"
+        },
+        {
+          "authorId": "48662861",
+          "name": "Sebastian Riedel"
+        }
+      ]
+    },
+    {
+      "paperId": "10859cda0ff4b16847a9fc0d9b847b3e0e7e0db5",
+      "publicationVenue": {
+        "id": "7d9ba37c-0411-42dc-8d4f-f155ce586507",
+        "name": "Diabetologia",
+        "type": "journal",
+        "issn": "0012-186X",
+        "url": "https://link.springer.com/journal/125",
+        "alternate_urls": [
+          "http://www.diabetologia-journal.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/10859cda0ff4b16847a9fc0d9b847b3e0e7e0db5",
+      "title": "Effects of norepinephrine, theophylline and dibutyryl cyclic amp onin vitro lipolysis of human adipose tissue in obesity",
+      "venue": "Diabetologia",
+      "year": 1972,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Biology",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "5688231",
+          "name": "F. Gries"
+        },
+        {
+          "authorId": "50727944",
+          "name": "M. Berger"
+        },
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "2869763",
+          "name": "H. Preiss"
+        },
+        {
+          "authorId": "6809410",
+          "name": "H. Liebermeister"
+        },
+        {
+          "authorId": "1421549078",
+          "name": "C. Hesse-Wortmann"
+        },
+        {
+          "authorId": "2070477859",
+          "name": "K. Jahnke"
+        }
+      ]
+    }
+  ]
+}

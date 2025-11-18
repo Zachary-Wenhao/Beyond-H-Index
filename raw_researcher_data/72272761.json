@@ -1,0 +1,1640 @@
+{
+  "authorId": "72272761",
+  "name": "Qiang Wei",
+  "affiliations": [],
+  "paperCount": 31,
+  "citationCount": 1201,
+  "hIndex": 12,
+  "papers": [
+    {
+      "paperId": "ca19aaca6adee5877bc49821abb9f9e8a570da1b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ca19aaca6adee5877bc49821abb9f9e8a570da1b",
+      "title": "Prompt Tuning in Biomedical Relation Extraction",
+      "venue": "J. Heal. Informatics Res.",
+      "year": 2024,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2248723240",
+          "name": "Jianping He"
+        },
+        {
+          "authorId": "2239639546",
+          "name": "Fang Li"
+        },
+        {
+          "authorId": "2248042521",
+          "name": "Jianfu Li"
+        },
+        {
+          "authorId": "2110049012",
+          "name": "Xinyue Hu"
+        },
+        {
+          "authorId": "41210261",
+          "name": "Yi Nian"
+        },
+        {
+          "authorId": "2289585775",
+          "name": "Yang Xiang"
+        },
+        {
+          "authorId": "120465645",
+          "name": "Jingqi Wang"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2258422715",
+          "name": "Yiming Li"
+        },
+        {
+          "authorId": "2285048912",
+          "name": "Hua Xu"
+        },
+        {
+          "authorId": "2247871178",
+          "name": "Cui Tao"
+        }
+      ]
+    },
+    {
+      "paperId": "d191214c0a9ab65fe33fe9852b99cb574f8e63b2",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d191214c0a9ab65fe33fe9852b99cb574f8e63b2",
+      "title": "Ensemble pretrained language models to extract biomedical knowledge from literature",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2024,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2156264961",
+          "name": "Zhao Li"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2266424757",
+          "name": "Liang-chin Huang"
+        },
+        {
+          "authorId": "2117984733",
+          "name": "Jianfu Li"
+        },
+        {
+          "authorId": "2113665949",
+          "name": "Yan Hu"
+        },
+        {
+          "authorId": "2267334290",
+          "name": "Yao-Shun Chuang"
+        },
+        {
+          "authorId": "2248723240",
+          "name": "Jianping He"
+        },
+        {
+          "authorId": "2281347371",
+          "name": "Avisha Das"
+        },
+        {
+          "authorId": "65893930",
+          "name": "V. Keloth"
+        },
+        {
+          "authorId": "1939387716",
+          "name": "Yuntao Yang"
+        },
+        {
+          "authorId": "2036651317",
+          "name": "Chiamaka S. Diala"
+        },
+        {
+          "authorId": "2250945912",
+          "name": "Kirk E. Roberts"
+        },
+        {
+          "authorId": "2273985833",
+          "name": "Cui Tao"
+        },
+        {
+          "authorId": "2144809813",
+          "name": "Xiaoqian Jiang"
+        },
+        {
+          "authorId": "2347483551",
+          "name": "W. J. Zheng"
+        },
+        {
+          "authorId": "2255379300",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "de9a4881ec6c92b34e01bdafe50cb63d358c96e0",
+      "publicationVenue": {
+        "id": "74ac5df9-f803-4de9-91f3-ec5f69bc0c8c",
+        "name": "Medinfo",
+        "alternate_names": [
+          "Medinfo"
+        ],
+        "issn": "1314-0345",
+        "url": "https://www.medinfo.bg/"
+      },
+      "url": "https://www.semanticscholar.org/paper/de9a4881ec6c92b34e01bdafe50cb63d358c96e0",
+      "title": "Extracting Drug-Protein Relation from Literature Using Ensembles of Biomedical Transformers",
+      "venue": "Medinfo",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2281347371",
+          "name": "Avisha Das"
+        },
+        {
+          "authorId": "2156264961",
+          "name": "Zhao Li"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2117984733",
+          "name": "Jianfu Li"
+        },
+        {
+          "authorId": "2266424757",
+          "name": "Liang-chin Huang"
+        },
+        {
+          "authorId": "2113665949",
+          "name": "Yan Hu"
+        },
+        {
+          "authorId": "2281738253",
+          "name": "Rongbin Li"
+        },
+        {
+          "authorId": "2267075024",
+          "name": "W. J. Zheng"
+        },
+        {
+          "authorId": "2257317511",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "31b8a6e637e8b51dd1a18c2cedfaa2882481b363",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/31b8a6e637e8b51dd1a18c2cedfaa2882481b363",
+      "title": "Fast Textual Corpus Retrieval from Electronic Health Records using PDF Parser and TxtSplit Tools",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2116201292",
+          "name": "Yiming Li"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2110334284",
+          "name": "Yujia Zhou"
+        },
+        {
+          "authorId": "2156139031",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "371a96d1d7f7ce379649fd5d44bc62f7185252b3",
+      "publicationVenue": {
+        "id": "4c82b394-c401-4ce2-982e-7ab79de2bd24",
+        "name": "IEEE International Conference on Healthcare Informatics",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Int Conf Healthc Informatics",
+          "ICHI"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/371a96d1d7f7ce379649fd5d44bc62f7185252b3",
+      "title": "Chemical-Protein Relation Extraction with Pre-trained Prompt Tuning",
+      "venue": "IEEE International Conference on Healthcare Informatics",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2153102859",
+          "name": "Jianping He"
+        },
+        {
+          "authorId": "2146327413",
+          "name": "Fang Li"
+        },
+        {
+          "authorId": "2110049012",
+          "name": "Xinyue Hu"
+        },
+        {
+          "authorId": "2117984733",
+          "name": "Jianfu Li"
+        },
+        {
+          "authorId": "41210261",
+          "name": "Yi Nian"
+        },
+        {
+          "authorId": "120465645",
+          "name": "Jingqi Wang"
+        },
+        {
+          "authorId": "2068334010",
+          "name": "Yang Xiang"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2109368718",
+          "name": "Hua Xu"
+        },
+        {
+          "authorId": "34394575",
+          "name": "Cui Tao"
+        }
+      ]
+    },
+    {
+      "paperId": "3c9ffd6f3296f52ea60e542200808ff2e14785a8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3c9ffd6f3296f52ea60e542200808ff2e14785a8",
+      "title": "ClinicalLayoutLM: A Pre-trained Multi-modal Model for Understanding Scanned Document in Electronic Health Records",
+      "venue": "2022 IEEE International Conference on Big Data (Big Data)",
+      "year": 2022,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2044484154",
+          "name": "X. Zuo"
+        },
+        {
+          "authorId": "2926907",
+          "name": "Omer Anjum"
+        },
+        {
+          "authorId": "2113665949",
+          "name": "Yan Hu"
+        },
+        {
+          "authorId": "2203093455",
+          "name": "Ryan Denlinger"
+        },
+        {
+          "authorId": "2381941",
+          "name": "E. Bernstam"
+        },
+        {
+          "authorId": "2890733",
+          "name": "M. Citardi"
+        },
+        {
+          "authorId": "2116533373",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "b0b9cbddb4f564f657b0473a9fbc8995bb0d4564",
+      "publicationVenue": {
+        "id": "76da9cc5-c5a7-42b4-a250-3e708c5f4980",
+        "name": "BMC Medical Informatics and Decision Making",
+        "type": "journal",
+        "alternate_names": [
+          "BMC Med Informatics Decis Mak"
+        ],
+        "issn": "1472-6947",
+        "url": "http://www.biomedcentral.com/bmcmedinformdecismak/",
+        "alternate_urls": [
+          "https://bmcmedinformdecismak.biomedcentral.com/",
+          "https://link.springer.com/journal/12911",
+          "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=42"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/b0b9cbddb4f564f657b0473a9fbc8995bb0d4564",
+      "title": "A comparative study of pre-trained language models for named entity recognition in clinical trial eligibility criteria from multiple corpora",
+      "venue": "BMC Medical Informatics and Decision Making",
+      "year": 2022,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2117984733",
+          "name": "Jianfu Li"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2407725",
+          "name": "O. Ghiasvand"
+        },
+        {
+          "authorId": "2135972125",
+          "name": "Miao Chen"
+        },
+        {
+          "authorId": "1715684",
+          "name": "V. Lobanov"
+        },
+        {
+          "authorId": "1707789",
+          "name": "C. Weng"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "0697ab68da040b1b1c7974e44b1bbfc93ec80653",
+      "publicationVenue": {
+        "id": "0aed7a40-85f3-4c66-9e1b-c1556c57001b",
+        "name": "PLoS ONE",
+        "type": "journal",
+        "alternate_names": [
+          "Plo ONE",
+          "PLOS ONE",
+          "PLO ONE"
+        ],
+        "issn": "1932-6203",
+        "url": "https://journals.plos.org/plosone/",
+        "alternate_urls": [
+          "http://www.plosone.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0697ab68da040b1b1c7974e44b1bbfc93ec80653",
+      "title": "Leveraging a health information exchange for analyses of COVID-19 outcomes including an example application using smoking history and mortality",
+      "venue": "PLoS ONE",
+      "year": 2021,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "14207795",
+          "name": "G. Tortolero"
+        },
+        {
+          "authorId": "2281074723",
+          "name": "Michael R. Brown"
+        },
+        {
+          "authorId": "2218656142",
+          "name": "Shreela V. Sharma"
+        },
+        {
+          "authorId": "5401462",
+          "name": "Marcia C. de Oliveira Otto"
+        },
+        {
+          "authorId": "3156502",
+          "name": "Jose-Miguel Yamal"
+        },
+        {
+          "authorId": "2073188642",
+          "name": "David Aguilar"
+        },
+        {
+          "authorId": "2106851054",
+          "name": "Matt D Gunther"
+        },
+        {
+          "authorId": "2275422879",
+          "name": "Dania I Mofleh"
+        },
+        {
+          "authorId": "2106856349",
+          "name": "Rachel Harris"
+        },
+        {
+          "authorId": "144613433",
+          "name": "J. John"
+        },
+        {
+          "authorId": "123086041",
+          "name": "P. D. de Vries"
+        },
+        {
+          "authorId": "2294007799",
+          "name": "Ryan Ramphul"
+        },
+        {
+          "authorId": "2106854274",
+          "name": "Dritana Marko Serbo"
+        },
+        {
+          "authorId": "51205454",
+          "name": "Jennifer Kiger"
+        },
+        {
+          "authorId": "46857144",
+          "name": "Deborah Banerjee"
+        },
+        {
+          "authorId": "2106855139",
+          "name": "Nick Bonvino"
+        },
+        {
+          "authorId": "121092524",
+          "name": "A. Merchant"
+        },
+        {
+          "authorId": "2096419905",
+          "name": "W. Clifford"
+        },
+        {
+          "authorId": "2106853982",
+          "name": "Jenny Mikhail"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        },
+        {
+          "authorId": "1753602451",
+          "name": "Robert Murphy"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "5723124",
+          "name": "F. Vahidy"
+        },
+        {
+          "authorId": "2204893",
+          "name": "A. Morrison"
+        },
+        {
+          "authorId": "2918432",
+          "name": "E. Boerwinkle"
+        }
+      ]
+    },
+    {
+      "paperId": "9d10ed3e95bd2e115658aa79c030422616f99c9a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9d10ed3e95bd2e115658aa79c030422616f99c9a",
+      "title": "UTHealth@BioCreativeVII: Domain-specific Transformer Models for Drug-Protein Relation Extraction",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 3,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "10389390",
+          "name": "Avisha Das"
+        },
+        {
+          "authorId": "2156264961",
+          "name": "Zhao Li"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2117984733",
+          "name": "Jianfu Li"
+        },
+        {
+          "authorId": "1405862512",
+          "name": "Liang-Chin Huang"
+        },
+        {
+          "authorId": "2113665949",
+          "name": "Yan Hu"
+        },
+        {
+          "authorId": "150278870",
+          "name": "Rong-feng Li"
+        },
+        {
+          "authorId": "2347483650",
+          "name": "W. J. Zheng"
+        },
+        {
+          "authorId": "2109366017",
+          "name": "Huan Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "dde9b1144881248c4675f0ee85501fa2bfbcdf26",
+      "publicationVenue": {
+        "id": "4c82b394-c401-4ce2-982e-7ab79de2bd24",
+        "name": "IEEE International Conference on Healthcare Informatics",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Int Conf Healthc Informatics",
+          "ICHI"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/dde9b1144881248c4675f0ee85501fa2bfbcdf26",
+      "title": "Study of Pre-trained Language Models for Named Entity Recognition in Clinical Trial Eligibility Criteria from Multiple Corpora",
+      "venue": "IEEE International Conference on Healthcare Informatics",
+      "year": 2021,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2117984733",
+          "name": "Jianfu Li"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2257296718",
+          "name": "Omid Ghiasvand"
+        },
+        {
+          "authorId": "2257314632",
+          "name": "Miao Chen"
+        },
+        {
+          "authorId": "1715684",
+          "name": "V. Lobanov"
+        },
+        {
+          "authorId": "2254460615",
+          "name": "Chunhua Weng"
+        },
+        {
+          "authorId": "2257317511",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "1332bb9b18fa9debe050beeb07d851f049d8b9ac",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1332bb9b18fa9debe050beeb07d851f049d8b9ac",
+      "title": "Cancer classification based on chromatin accessibility profiles with deep adversarial learning model",
+      "venue": "PLoS Comput. Biol.",
+      "year": 2020,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "113325917",
+          "name": "Hai Yang"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "122900519",
+          "name": "Dongdong Li"
+        },
+        {
+          "authorId": "2108194033",
+          "name": "Zhe Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "8a0fe2418838189ed6db7d608bce13379c352484",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8a0fe2418838189ed6db7d608bce13379c352484",
+      "title": "Network completion via deep metric learning",
+      "venue": "Journal of Physics: Conference Series",
+      "year": 2020,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        }
+      ]
+    },
+    {
+      "paperId": "9d2b623e59f65969242b9242bc8aed8061d1f685",
+      "publicationVenue": {
+        "id": "4c82b394-c401-4ce2-982e-7ab79de2bd24",
+        "name": "IEEE International Conference on Healthcare Informatics",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Int Conf Healthc Informatics",
+          "ICHI"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9d2b623e59f65969242b9242bc8aed8061d1f685",
+      "title": "Named Entity Recognition from Table Headers in Randomized Controlled Trial Articles",
+      "venue": "IEEE International Conference on Healthcare Informatics",
+      "year": 2020,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2110334284",
+          "name": "Yujia Zhou"
+        },
+        {
+          "authorId": "2112525563",
+          "name": "Bo Zhao"
+        },
+        {
+          "authorId": "2110049012",
+          "name": "Xinyue Hu"
+        },
+        {
+          "authorId": "1743469",
+          "name": "Qiaozhu Mei"
+        },
+        {
+          "authorId": "34394575",
+          "name": "Cui Tao"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "364ce0b25adda96d5110d52820f264186af2b686",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/364ce0b25adda96d5110d52820f264186af2b686",
+      "title": "Cost-aware active learning for named entity recognition in clinical text",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2019,
+      "citationCount": 32,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "1768324",
+          "name": "Yukun Chen"
+        },
+        {
+          "authorId": "40202511",
+          "name": "Mandana Salimi"
+        },
+        {
+          "authorId": "26430919",
+          "name": "J. Denny"
+        },
+        {
+          "authorId": "1743469",
+          "name": "Qiaozhu Mei"
+        },
+        {
+          "authorId": "2257806",
+          "name": "T. Lasko"
+        },
+        {
+          "authorId": "2459443",
+          "name": "Qingxia Chen"
+        },
+        {
+          "authorId": "2112298559",
+          "name": "S. Wu"
+        },
+        {
+          "authorId": "40457924",
+          "name": "A. Franklin"
+        },
+        {
+          "authorId": "2696466",
+          "name": "T. Cohen"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "570b85615b17b4ed3f304392a37d6e9f3209dfa0",
+      "publicationVenue": {
+        "id": "4c82b394-c401-4ce2-982e-7ab79de2bd24",
+        "name": "IEEE International Conference on Healthcare Informatics",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Int Conf Healthc Informatics",
+          "ICHI"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/570b85615b17b4ed3f304392a37d6e9f3209dfa0",
+      "title": "Detect Attributes of Medical Concepts via Sequence Labeling",
+      "venue": "IEEE International Conference on Healthcare Informatics",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145306377",
+          "name": "Jun Xu"
+        },
+        {
+          "authorId": "2116263582",
+          "name": "Zhiheng Li"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2115859099",
+          "name": "Yonghui Wu"
+        },
+        {
+          "authorId": "2068334010",
+          "name": "Yang Xiang"
+        },
+        {
+          "authorId": "2287717",
+          "name": "Hee-Jin Lee"
+        },
+        {
+          "authorId": "46867859",
+          "name": "Yaoyun Zhang"
+        },
+        {
+          "authorId": "2112298559",
+          "name": "S. Wu"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "650029e4379dfb130fa15d49000c300554cac09f",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/650029e4379dfb130fa15d49000c300554cac09f",
+      "title": "Exploring difference in public perceptions on HPV vaccine between gender groups from Twitter using deep learning",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1728324",
+          "name": "Jingcheng Du"
+        },
+        {
+          "authorId": "50649494",
+          "name": "Chongliang Luo"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2155260322",
+          "name": "Yong Chen"
+        },
+        {
+          "authorId": "34394575",
+          "name": "Cui Tao"
+        }
+      ]
+    },
+    {
+      "paperId": "78041b4014d075d4d1c6e2aa640ddb952e4f3370",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/78041b4014d075d4d1c6e2aa640ddb952e4f3370",
+      "title": "Cost-sensitive Active Learning for Phenotyping of Electronic Health Records.",
+      "venue": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+      "year": 2019,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "121500133",
+          "name": "Zongcheng Ji"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "40457924",
+          "name": "A. Franklin"
+        },
+        {
+          "authorId": "2696466",
+          "name": "T. Cohen"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "8492269d2bb474d57d6def97efcf86c42735554a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8492269d2bb474d57d6def97efcf86c42735554a",
+      "title": "BERT-based Ranking for Biomedical Entity Normalization",
+      "venue": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+      "year": 2019,
+      "citationCount": 121,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1701747",
+          "name": "Zongcheng Ji"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "a2d2a482ccd62a705c8fafeb5f93bca33a4d796d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a2d2a482ccd62a705c8fafeb5f93bca33a4d796d",
+      "title": "Deep learning in clinical natural language processing: a methodical review",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2019,
+      "citationCount": 346,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3975984",
+          "name": "Stephen T Wu"
+        },
+        {
+          "authorId": "1742509",
+          "name": "Kirk Roberts"
+        },
+        {
+          "authorId": "32630015",
+          "name": "Surabhi Datta"
+        },
+        {
+          "authorId": "1728324",
+          "name": "Jingcheng Du"
+        },
+        {
+          "authorId": "121500133",
+          "name": "Zongcheng Ji"
+        },
+        {
+          "authorId": "31666608",
+          "name": "Yuqi Si"
+        },
+        {
+          "authorId": "145944603",
+          "name": "Sarvesh Soni"
+        },
+        {
+          "authorId": "2116218678",
+          "name": "Qiong Wang"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2068334010",
+          "name": "Yang Xiang"
+        },
+        {
+          "authorId": "2112525563",
+          "name": "Bo Zhao"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "a792d9c05008e56142acae588a9018ff9b3ba7a9",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a792d9c05008e56142acae588a9018ff9b3ba7a9",
+      "title": "Relation Extraction from Clinical Narratives Using Pre-trained Language Models",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2019,
+      "citationCount": 62,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "121500133",
+          "name": "Zongcheng Ji"
+        },
+        {
+          "authorId": "31666608",
+          "name": "Yuqi Si"
+        },
+        {
+          "authorId": "1728324",
+          "name": "Jingcheng Du"
+        },
+        {
+          "authorId": "120465645",
+          "name": "Jingqi Wang"
+        },
+        {
+          "authorId": "40798861",
+          "name": "Firat Tiryaki"
+        },
+        {
+          "authorId": "2112298559",
+          "name": "S. Wu"
+        },
+        {
+          "authorId": "34394575",
+          "name": "Cui Tao"
+        },
+        {
+          "authorId": "1742509",
+          "name": "Kirk Roberts"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "a87ac231c27b13ce12cceb23e6eb53729be57fd5",
+      "publicationVenue": {
+        "id": "76da9cc5-c5a7-42b4-a250-3e708c5f4980",
+        "name": "BMC Medical Informatics and Decision Making",
+        "type": "journal",
+        "alternate_names": [
+          "BMC Med Informatics Decis Mak"
+        ],
+        "issn": "1472-6947",
+        "url": "http://www.biomedcentral.com/bmcmedinformdecismak/",
+        "alternate_urls": [
+          "https://bmcmedinformdecismak.biomedcentral.com/",
+          "https://link.springer.com/journal/12911",
+          "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=42"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a87ac231c27b13ce12cceb23e6eb53729be57fd5",
+      "title": "Applying a deep learning-based sequence labeling approach to detect attributes of medical concepts in clinical text",
+      "venue": "BMC Medical Informatics and Decision Making",
+      "year": 2019,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145306377",
+          "name": "Jun Xu"
+        },
+        {
+          "authorId": "2116263582",
+          "name": "Zhiheng Li"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2115859099",
+          "name": "Yonghui Wu"
+        },
+        {
+          "authorId": "2068334010",
+          "name": "Yang Xiang"
+        },
+        {
+          "authorId": "2287717",
+          "name": "Hee-Jin Lee"
+        },
+        {
+          "authorId": "46867859",
+          "name": "Yaoyun Zhang"
+        },
+        {
+          "authorId": "2112298559",
+          "name": "S. Wu"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "bbcd694fb071034e59e66f96c8c7dec109edcc15",
+      "publicationVenue": {
+        "id": "e57f7e14-2158-47fb-8409-d4f185d70242",
+        "name": "Health Informatics Journal",
+        "type": "journal",
+        "alternate_names": [
+          "Health Informatics J"
+        ],
+        "issn": "0965-8335",
+        "alternate_issns": [
+          "1460-4582"
+        ],
+        "url": "http://jhi.sagepub.com/",
+        "alternate_urls": [
+          "https://journals.sagepub.com/doi/full/10.1177/1460458216656471",
+          "https://journals.sagepub.com/loi/jhib"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/bbcd694fb071034e59e66f96c8c7dec109edcc15",
+      "title": "Recognizing software names in biomedical literature using machine learning",
+      "venue": "Health Informatics Journal",
+      "year": 2019,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "46867859",
+          "name": "Yaoyun Zhang"
+        },
+        {
+          "authorId": "2843910",
+          "name": "M. Amith"
+        },
+        {
+          "authorId": "2565406",
+          "name": "Rebecca Z. Lin"
+        },
+        {
+          "authorId": "1397145226",
+          "name": "Jenay Lapeyrolerie"
+        },
+        {
+          "authorId": "34394575",
+          "name": "Cui Tao"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "e3426fd3062680e48452fb83be84ee0dd55096d2",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e3426fd3062680e48452fb83be84ee0dd55096d2",
+      "title": "A study of deep learning approaches for medication and adverse drug event extraction from clinical text",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2019,
+      "citationCount": 110,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "121500133",
+          "name": "Zongcheng Ji"
+        },
+        {
+          "authorId": "2116263582",
+          "name": "Zhiheng Li"
+        },
+        {
+          "authorId": "1728324",
+          "name": "Jingcheng Du"
+        },
+        {
+          "authorId": "120465645",
+          "name": "Jingqi Wang"
+        },
+        {
+          "authorId": "145306377",
+          "name": "Jun Xu"
+        },
+        {
+          "authorId": "2068334010",
+          "name": "Yang Xiang"
+        },
+        {
+          "authorId": "40798861",
+          "name": "Firat Tiryaki"
+        },
+        {
+          "authorId": "2112298559",
+          "name": "S. Wu"
+        },
+        {
+          "authorId": "46867859",
+          "name": "Yaoyun Zhang"
+        },
+        {
+          "authorId": "34394575",
+          "name": "Cui Tao"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "10a861bc17ff8a5494d14dd28871c668511c4cb7",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/10a861bc17ff8a5494d14dd28871c668511c4cb7",
+      "title": "CLAMP-PA: A machine learning based pre-annotation pipeline for corpus construction of clinical concepts",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46867859",
+          "name": "Yaoyun Zhang"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "120465645",
+          "name": "Jingqi Wang"
+        },
+        {
+          "authorId": "2109368718",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "aafff8a3b2434b056bac8243db3409a38265315d",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/aafff8a3b2434b056bac8243db3409a38265315d",
+      "title": "Clinical text annotation - what factors are associated with the cost of time?",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2018,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "40457924",
+          "name": "A. Franklin"
+        },
+        {
+          "authorId": "2696466",
+          "name": "T. Cohen"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "bbe3ddd649ba586e174e753afc1b6c7965620fe6",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/bbe3ddd649ba586e174e753afc1b6c7965620fe6",
+      "title": "Building a Biomedical Chinese-English Parallel Corpus from MEDLINE",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "11799712",
+          "name": "Lingyi Tang"
+        },
+        {
+          "authorId": "145306377",
+          "name": "Jun Xu"
+        },
+        {
+          "authorId": "2110049012",
+          "name": "Xinyue Hu"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "c131f849e6e1a109ad7f5f7290f7e0fa2ed16090",
+      "publicationVenue": {
+        "id": "76da9cc5-c5a7-42b4-a250-3e708c5f4980",
+        "name": "BMC Medical Informatics and Decision Making",
+        "type": "journal",
+        "alternate_names": [
+          "BMC Med Informatics Decis Mak"
+        ],
+        "issn": "1472-6947",
+        "url": "http://www.biomedcentral.com/bmcmedinformdecismak/",
+        "alternate_urls": [
+          "https://bmcmedinformdecismak.biomedcentral.com/",
+          "https://link.springer.com/journal/12911",
+          "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=42"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c131f849e6e1a109ad7f5f7290f7e0fa2ed16090",
+      "title": "Extracting psychiatric stressors for suicide from social media using deep learning",
+      "venue": "BMC Medical Informatics and Decision Making",
+      "year": 2018,
+      "citationCount": 128,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1728324",
+          "name": "Jingcheng Du"
+        },
+        {
+          "authorId": "46867859",
+          "name": "Yaoyun Zhang"
+        },
+        {
+          "authorId": "2141243530",
+          "name": "Jianhong Luo"
+        },
+        {
+          "authorId": "50438879",
+          "name": "Yuxi Jia"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "34394575",
+          "name": "Cui Tao"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "1b075d19514c4f5b796adb08ecdc3c2bf2c8dbb5",
+      "publicationVenue": {
+        "id": "4e9e07f8-6008-4ffc-b3c0-92c327e36463",
+        "name": "Text Analysis Conference",
+        "type": "conference",
+        "alternate_names": [
+          "TAC",
+          "Text Anal Conf"
+        ],
+        "url": "https://tac.nist.gov/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1b075d19514c4f5b796adb08ecdc3c2bf2c8dbb5",
+      "title": "UTH_CCB System for Adverse Drug Reaction Extraction from Drug Labels at TAC-ADR 2017",
+      "venue": "Text Analysis Conference",
+      "year": 2017,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145306377",
+          "name": "Jun Xu"
+        },
+        {
+          "authorId": "2287717",
+          "name": "Hee-Jin Lee"
+        },
+        {
+          "authorId": "1701747",
+          "name": "Zongcheng Ji"
+        },
+        {
+          "authorId": "120465645",
+          "name": "Jingqi Wang"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "1d36ea93bc328754b3ac95a8c8c50b830eda672d",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1d36ea93bc328754b3ac95a8c8c50b830eda672d",
+      "title": "Detecting Contradictory and Consistent Citations in Biomedical Literature",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Psychology",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145306377",
+          "name": "Jun Xu"
+        },
+        {
+          "authorId": "2115859099",
+          "name": "Yonghui Wu"
+        },
+        {
+          "authorId": "46867859",
+          "name": "Yaoyun Zhang"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2109368718",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "f1223647ccae3edb2e64c5d488eaf476462866f5",
+      "publicationVenue": {
+        "id": "7959fdab-81a2-4da4-8f2a-bd5855de5c6e",
+        "name": "BMC Systems Biology",
+        "type": "journal",
+        "alternate_names": [
+          "BMC Syst Biology"
+        ],
+        "issn": "1752-0509",
+        "url": "http://www.biomedcentral.com/bmcsystbiol/",
+        "alternate_urls": [
+          "https://bmcsystbiol.biomedcentral.com/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f1223647ccae3edb2e64c5d488eaf476462866f5",
+      "title": "A systematic analysis of FDA-approved anticancer drugs",
+      "venue": "BMC Systems Biology",
+      "year": 2017,
+      "citationCount": 258,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3239967",
+          "name": "Jingchun Sun"
+        },
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "2144145909",
+          "name": "Yubo Zhou"
+        },
+        {
+          "authorId": "120465645",
+          "name": "Jingqi Wang"
+        },
+        {
+          "authorId": "50384171",
+          "name": "Qi Liu"
+        },
+        {
+          "authorId": "2219752599",
+          "name": "Hua Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "33f3ad8c5fcc25da442d9fee8c95ad2c33772cba",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/33f3ad8c5fcc25da442d9fee8c95ad2c33772cba",
+      "title": "A Study of Active Learning for Document Selection in Clinical Named Entity Recognition",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2016,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "72272761",
+          "name": "Qiang Wei"
+        },
+        {
+          "authorId": "1768324",
+          "name": "Yukun Chen"
+        },
+        {
+          "authorId": "2751715",
+          "name": "Sungrim Moon"
+        },
+        {
+          "authorId": "2696466",
+          "name": "T. Cohen"
+        },
+        {
+          "authorId": "2109368718",
+          "name": "Hua Xu"
+        }
+      ]
+    }
+  ]
+}

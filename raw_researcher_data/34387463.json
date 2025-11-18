@@ -1,0 +1,5223 @@
+{
+  "authorId": "34387463",
+  "name": "T. Cai",
+  "affiliations": [],
+  "paperCount": 62,
+  "citationCount": 1793,
+  "hIndex": 20,
+  "papers": [
+    {
+      "paperId": "02fd9c019e2e075267c91fbdc191adb7b310158a",
+      "publicationVenue": {
+        "id": "f9827422-a381-440c-a8a4-e5e50415934e",
+        "name": "Journal of Biomedical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Informatics"
+        ],
+        "issn": "1532-0464",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622857/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-biomedical-informatics/",
+          "http://www.sciencedirect.com/science/journal/15320464",
+          "http://www.journals.elsevier.com/journal-of-biomedical-informatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/02fd9c019e2e075267c91fbdc191adb7b310158a",
+      "title": "DOME: Directional medical embedding vectors from Electronic Health Records",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2025,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2186138038",
+          "name": "Jun Wen"
+        },
+        {
+          "authorId": "2339244037",
+          "name": "Hao Xue"
+        },
+        {
+          "authorId": "7394208",
+          "name": "E. Rush"
+        },
+        {
+          "authorId": "2051138129",
+          "name": "V. Panickan"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2256313484",
+          "name": "Doudou Zhou"
+        },
+        {
+          "authorId": "31779600",
+          "name": "Y. Ho"
+        },
+        {
+          "authorId": "2313336526",
+          "name": "Lauren Costa"
+        },
+        {
+          "authorId": "2138992899",
+          "name": "E. Begoli"
+        },
+        {
+          "authorId": "2244155388",
+          "name": "Chuan Hong"
+        },
+        {
+          "authorId": "2302239783",
+          "name": "J. M. Gaziano"
+        },
+        {
+          "authorId": "2275987140",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "2247079201",
+          "name": "Katherine P. Liao"
+        },
+        {
+          "authorId": "2218113443",
+          "name": "Junwei Lu"
+        },
+        {
+          "authorId": "2276430855",
+          "name": "Tianxi Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "cf1df32b9990de22d2aef3c5b9edf2d688631877",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/cf1df32b9990de22d2aef3c5b9edf2d688631877",
+      "title": "Representation Learning to Advance Multi-institutional Studies with Electronic Health Record Data",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2256313484",
+          "name": "Doudou Zhou"
+        },
+        {
+          "authorId": "2345005195",
+          "name": "Han Tong"
+        },
+        {
+          "authorId": "2249689517",
+          "name": "Linshanshan Wang"
+        },
+        {
+          "authorId": "2325199571",
+          "name": "Suqi Liu"
+        },
+        {
+          "authorId": "2170343663",
+          "name": "Xin Xiong"
+        },
+        {
+          "authorId": "2178627000",
+          "name": "Ziming Gan"
+        },
+        {
+          "authorId": "83517267",
+          "name": "R. Griffier"
+        },
+        {
+          "authorId": "2056925",
+          "name": "B. Hejblum"
+        },
+        {
+          "authorId": "2345136198",
+          "name": "Yun-Chung Liu"
+        },
+        {
+          "authorId": "2244155388",
+          "name": "Chuan Hong"
+        },
+        {
+          "authorId": "2051597779",
+          "name": "Clara-Lea Bonzel"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2330502530",
+          "name": "K. Pan"
+        },
+        {
+          "authorId": "31779600",
+          "name": "Y. Ho"
+        },
+        {
+          "authorId": "2313336526",
+          "name": "Lauren Costa"
+        },
+        {
+          "authorId": "2051138129",
+          "name": "V. Panickan"
+        },
+        {
+          "authorId": "2302239783",
+          "name": "J. M. Gaziano"
+        },
+        {
+          "authorId": "2345004674",
+          "name": "Kenneth Mandl"
+        },
+        {
+          "authorId": "2812717",
+          "name": "V. Jouhet"
+        },
+        {
+          "authorId": "2316854328",
+          "name": "Rodolphe Thi\u00e9baut"
+        },
+        {
+          "authorId": "2249691781",
+          "name": "Zongqi Xia"
+        },
+        {
+          "authorId": "2242180564",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "2247079201",
+          "name": "Katherine P. Liao"
+        },
+        {
+          "authorId": "2325158458",
+          "name": "Tianxi Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "02f71272cf5b03abe3c8047ec5a9cb6c6595d0e1",
+      "publicationVenue": {
+        "id": "5b06c629-b3bb-458f-b8df-646ad6665e93",
+        "name": "ACR Open Rheumatology",
+        "type": "journal",
+        "alternate_names": [
+          "ACR Open Rheumatol"
+        ],
+        "issn": "2578-5745",
+        "url": "https://onlinelibrary.wiley.com/journal/25785745",
+        "alternate_urls": [
+          "https://onlinelibrary.wiley.com/loi/25785745"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/02f71272cf5b03abe3c8047ec5a9cb6c6595d0e1",
+      "title": "Classifying Individuals With Rheumatic Conditions as Financially Insecure Using Electronic Health Record Data and Natural Language Processing: Algorithm Derivation and Validation",
+      "venue": "ACR Open Rheumatology",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2170201305",
+          "name": "Mia T Chandler"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2126061425",
+          "name": "L. Santacroce"
+        },
+        {
+          "authorId": "2161521627",
+          "name": "Sciaska N Ulysse"
+        },
+        {
+          "authorId": "2272362472",
+          "name": "K. P. Liao"
+        },
+        {
+          "authorId": "2243931841",
+          "name": "Candace H. Feldman"
+        }
+      ]
+    },
+    {
+      "paperId": "5baab1a50825d905dd0913c8512ab99ffac90a7f",
+      "publicationVenue": {
+        "id": "9d0f468d-117a-4e63-beae-93f161248b94",
+        "name": "Journal of the American Heart Association : Cardiovascular and Cerebrovascular Disease",
+        "type": "journal",
+        "alternate_names": [
+          "J Am Heart Assoc  Cardiovasc Cerebrovasc Dis",
+          "J Am Heart Assoc",
+          "Journal of the American Heart Association"
+        ],
+        "issn": "2047-9980",
+        "url": "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-9980",
+        "alternate_urls": [
+          "http://jaha.ahajournals.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5baab1a50825d905dd0913c8512ab99ffac90a7f",
+      "title": "Interplay Between Systemic Inflammation, Myocardial Injury, and Coronary Microvascular Dysfunction in Rheumatoid Arthritis: Results From the LiiRA Study",
+      "venue": "Journal of the American Heart Association : Cardiovascular and Cerebrovascular Disease",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2298367052",
+          "name": "Britanny Weber"
+        },
+        {
+          "authorId": "1395722471",
+          "name": "Dana Weisenfeld"
+        },
+        {
+          "authorId": "2280405178",
+          "name": "Elena Massarotti"
+        },
+        {
+          "authorId": "1582072893",
+          "name": "Thany Seyok"
+        },
+        {
+          "authorId": "2084105419",
+          "name": "Gabrielle Cremone"
+        },
+        {
+          "authorId": "1404170251",
+          "name": "E. Lam"
+        },
+        {
+          "authorId": "2036836818",
+          "name": "Charlotte Golnik"
+        },
+        {
+          "authorId": "1471402044",
+          "name": "Seth Brownmiller"
+        },
+        {
+          "authorId": "2299184773",
+          "name": "Feng Liu"
+        },
+        {
+          "authorId": "122131914",
+          "name": "Sicong Huang"
+        },
+        {
+          "authorId": "2299149546",
+          "name": "Derrick J Todd"
+        },
+        {
+          "authorId": "6255567",
+          "name": "J. Coblyn"
+        },
+        {
+          "authorId": "2240672294",
+          "name": "M. Weinblatt"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2073579409",
+          "name": "Kumar P Dahal"
+        },
+        {
+          "authorId": "2299153427",
+          "name": "Minna Kohler"
+        },
+        {
+          "authorId": "13620146",
+          "name": "Janeth Yinh"
+        },
+        {
+          "authorId": "78882609",
+          "name": "Leanne Barrett"
+        },
+        {
+          "authorId": "2239311659",
+          "name": "D. H. Solomon"
+        },
+        {
+          "authorId": "2266235403",
+          "name": "Jorge Plutzky"
+        },
+        {
+          "authorId": "2240824779",
+          "name": "H. Schelbert"
+        },
+        {
+          "authorId": "2242408305",
+          "name": "Roxana Campisi"
+        },
+        {
+          "authorId": "4921404",
+          "name": "M. Bolster"
+        },
+        {
+          "authorId": "2268459636",
+          "name": "Marcelo F. Di Carli"
+        },
+        {
+          "authorId": "2272362472",
+          "name": "K. P. Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "a4c58859cf51afedd0af14ca6424269932dc4902",
+      "publicationVenue": {
+        "id": "d5e5b5e7-54b1-4f53-82fc-4853f3e71c58",
+        "name": "medRxiv",
+        "type": "journal",
+        "url": "https://www.medrxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a4c58859cf51afedd0af14ca6424269932dc4902",
+      "title": "Early detection of non-small cell lung cancer using electronic health record data",
+      "venue": "medRxiv",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2241801052",
+          "name": "Xiudi Li"
+        },
+        {
+          "authorId": "2328016462",
+          "name": "Erin Y. Yuan"
+        },
+        {
+          "authorId": "2311023619",
+          "name": "Stephen J. Kuperberg"
+        },
+        {
+          "authorId": "2051597779",
+          "name": "Clara-Lea Bonzel"
+        },
+        {
+          "authorId": "2289483483",
+          "name": "Mary I. Jeffway"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2247079201",
+          "name": "Katherine P. Liao"
+        },
+        {
+          "authorId": "1403080666",
+          "name": "Raquel Aguiar-Ib\u00e1\u00f1ez"
+        },
+        {
+          "authorId": "2310923550",
+          "name": "Yu-Han Kao"
+        },
+        {
+          "authorId": "2311018235",
+          "name": "Melissa L. Santorelli"
+        },
+        {
+          "authorId": "2261022570",
+          "name": "D. Christiani"
+        },
+        {
+          "authorId": "2239196258",
+          "name": "Tianxi Cai"
+        },
+        {
+          "authorId": "2310934886",
+          "name": "Rui Duan"
+        }
+      ]
+    },
+    {
+      "paperId": "c807cfb6ae78443849d5806f726c7b3be8b600f6",
+      "publicationVenue": {
+        "id": "607fb06f-dfb3-4bbf-9815-ffde1115a105",
+        "name": "Journal of Thoracic Oncology",
+        "type": "journal",
+        "alternate_names": [
+          "J Thorac Oncol"
+        ],
+        "issn": "1556-0864",
+        "url": "http://journals.lww.com/jto/pages/default.aspx",
+        "alternate_urls": [
+          "https://www.jto.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c807cfb6ae78443849d5806f726c7b3be8b600f6",
+      "title": "PP01.105 Early Detection of Non-Small Cell Lung Cancer using Electronic Health Record Data",
+      "venue": "Journal of Thoracic Oncology",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2241801052",
+          "name": "Xiudi Li"
+        },
+        {
+          "authorId": "2311023619",
+          "name": "Stephen J. Kuperberg"
+        },
+        {
+          "authorId": "2311007804",
+          "name": "Qing Liu"
+        },
+        {
+          "authorId": "2073579409",
+          "name": "Kumar P Dahal"
+        },
+        {
+          "authorId": "2051597779",
+          "name": "Clara-Lea Bonzel"
+        },
+        {
+          "authorId": "2289483483",
+          "name": "Mary I. Jeffway"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2247079201",
+          "name": "Katherine P. Liao"
+        },
+        {
+          "authorId": "1403080666",
+          "name": "Raquel Aguiar-Ib\u00e1\u00f1ez"
+        },
+        {
+          "authorId": "2310923550",
+          "name": "Yu-Han Kao"
+        },
+        {
+          "authorId": "2311018235",
+          "name": "Melissa L. Santorelli"
+        },
+        {
+          "authorId": "2261022570",
+          "name": "D. Christiani"
+        },
+        {
+          "authorId": "2239196258",
+          "name": "Tianxi Cai"
+        },
+        {
+          "authorId": "2310934886",
+          "name": "Rui Duan"
+        }
+      ]
+    },
+    {
+      "paperId": "08ab865e28dc35259f9cb47f7d688fa068236fc1",
+      "publicationVenue": {
+        "id": "1ec2aefc-fc1e-40a8-94f5-6df6dc894032",
+        "name": "Arthritis care & research",
+        "type": "journal",
+        "alternate_names": [
+          "Arthritis care  res",
+          "Arthritis Care Res",
+          "Arthritis Care and Research"
+        ],
+        "issn": "2151-464X",
+        "url": "http://www3.interscience.wiley.com/cgi-bin/issn?DESCRIPTOR=PRINTISSN&VALUE=2151-464X",
+        "alternate_urls": [
+          "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2151-4658",
+          "https://onlinelibrary.wiley.com/journal/21514658"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/08ab865e28dc35259f9cb47f7d688fa068236fc1",
+      "title": "Social Determinants of Health Documentation Among Individuals With Rheumatic and Musculoskeletal Conditions in an Integrated Care Management Program",
+      "venue": "Arthritis care & research",
+      "year": 2023,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2161521627",
+          "name": "Sciaska N Ulysse"
+        },
+        {
+          "authorId": "2170201305",
+          "name": "Mia T Chandler"
+        },
+        {
+          "authorId": "2126061425",
+          "name": "L. Santacroce"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "4807135",
+          "name": "C. Feldman"
+        }
+      ]
+    },
+    {
+      "paperId": "11f8b27fe28495b4e57531b7c366f3c0af6c16d3",
+      "publicationVenue": {
+        "id": "0f9e8bfc-fdfb-402f-bb26-c23177ec102a",
+        "name": "Pharmacoepidemiology and Drug Safety",
+        "type": "journal",
+        "alternate_names": [
+          "Pharmacoepidemiol Drug Saf"
+        ],
+        "issn": "1053-8569",
+        "url": "http://onlinelibrary.wiley.com/journal/10.1002/(issn)1099-1557",
+        "alternate_urls": [
+          "https://onlinelibrary.wiley.com/journal/10991557"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/11f8b27fe28495b4e57531b7c366f3c0af6c16d3",
+      "title": "Improving the accuracy of automated gout flare ascertainment using natural language processing of electronic health records and linked Medicare claims data",
+      "venue": "Pharmacoepidemiology and Drug Safety",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "145429664",
+          "name": "K. Yoshida"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "89075096",
+          "name": "Lily G. Bessette"
+        },
+        {
+          "authorId": "2343271461",
+          "name": "Erin Kim"
+        },
+        {
+          "authorId": "50111593",
+          "name": "Su Been Lee"
+        },
+        {
+          "authorId": "2129403328",
+          "name": "Luke E. Zabotka"
+        },
+        {
+          "authorId": "2236898765",
+          "name": "Alec Sun"
+        },
+        {
+          "authorId": "2120719170",
+          "name": "Julianna M Mastrorilli"
+        },
+        {
+          "authorId": "2148430921",
+          "name": "Theresa Oduol"
+        },
+        {
+          "authorId": "40940512",
+          "name": "Jun Liu"
+        },
+        {
+          "authorId": "2059919059",
+          "name": "D. H. Solomon"
+        },
+        {
+          "authorId": "1455972455",
+          "name": "Seoyoung C. Kim"
+        },
+        {
+          "authorId": "49277759",
+          "name": "R. Desai"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "508730e9b10bf7fb048677248b53d82144d63666",
+      "publicationVenue": {
+        "id": "d5e5b5e7-54b1-4f53-82fc-4853f3e71c58",
+        "name": "medRxiv",
+        "type": "journal",
+        "url": "https://www.medrxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/508730e9b10bf7fb048677248b53d82144d63666",
+      "title": "ARCH: Large-scale Knowledge Graph via Aggregated Narrative Codified Health Records Analysis",
+      "venue": "medRxiv",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "89114243",
+          "name": "Z. Gan"
+        },
+        {
+          "authorId": "1648733211",
+          "name": "D. Zhou"
+        },
+        {
+          "authorId": "7394208",
+          "name": "E. Rush"
+        },
+        {
+          "authorId": "2051138129",
+          "name": "V. Panickan"
+        },
+        {
+          "authorId": "2105619049",
+          "name": "Yu-Lin Ho"
+        },
+        {
+          "authorId": "1781276",
+          "name": "G. Ostrouchov"
+        },
+        {
+          "authorId": "2254325443",
+          "name": "Zhiwei Xu"
+        },
+        {
+          "authorId": "14880633",
+          "name": "S. Shen"
+        },
+        {
+          "authorId": "2069443443",
+          "name": "X. Xiong"
+        },
+        {
+          "authorId": "2217983833",
+          "name": "K. F. Greco"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "2051597779",
+          "name": "Clara-Lea Bonzel"
+        },
+        {
+          "authorId": "145024315",
+          "name": "Jun Wen"
+        },
+        {
+          "authorId": "2112776487",
+          "name": "L. Costa"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2138992899",
+          "name": "E. Begoli"
+        },
+        {
+          "authorId": "2072879442",
+          "name": "Z. Xia"
+        },
+        {
+          "authorId": "2302239780",
+          "name": "J. Gaziano"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "2107188188",
+          "name": "K. Cho"
+        },
+        {
+          "authorId": "2219028456",
+          "name": "J. Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "856000cd7953558cc55daa17ab91b878021ad5e5",
+      "publicationVenue": {
+        "id": "2baad992-2268-4c38-9120-e453622f2eeb",
+        "name": "Journal of Medical Internet Research",
+        "type": "journal",
+        "alternate_names": [
+          "J Med Internet Res"
+        ],
+        "issn": "1438-8871",
+        "url": "http://www.symposion.com/jmir/index.htm",
+        "alternate_urls": [
+          "http://www.jmir.org/",
+          "https://www.jmir.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/856000cd7953558cc55daa17ab91b878021ad5e5",
+      "title": "Generate Analysis-Ready Data for Real-world Evidence: Tutorial for Harnessing Electronic Health Records With Advanced Informatic Technologies",
+      "venue": "Journal of Medical Internet Research",
+      "year": 2023,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2152079523",
+          "name": "Jue Hou"
+        },
+        {
+          "authorId": "2114013174",
+          "name": "R. Zhao"
+        },
+        {
+          "authorId": "14929566",
+          "name": "Jessica L. Gronsbell"
+        },
+        {
+          "authorId": "150349905",
+          "name": "Yucong Lin"
+        },
+        {
+          "authorId": "2051597779",
+          "name": "Clara-Lea Bonzel"
+        },
+        {
+          "authorId": "15346240",
+          "name": "Qingyi Zeng"
+        },
+        {
+          "authorId": "2218458822",
+          "name": "Sinian Zhang"
+        },
+        {
+          "authorId": "1402651503",
+          "name": "Brett K. Beaulieu-Jones"
+        },
+        {
+          "authorId": "144135987",
+          "name": "G. Weber"
+        },
+        {
+          "authorId": "4107687",
+          "name": "T. Jemielita"
+        },
+        {
+          "authorId": "48214109",
+          "name": "S. Wan"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "145024315",
+          "name": "Jun Wen"
+        },
+        {
+          "authorId": "2218824885",
+          "name": "Vidul Ayakulangara Panickan"
+        },
+        {
+          "authorId": "145068268",
+          "name": "K. Liaw"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "9b9560b9f3030ef9497f15b29b592854335c449d",
+      "publicationVenue": {
+        "id": "ee1ffcf9-667a-4b07-8b57-b01287b3797d",
+        "name": "EBioMedicine",
+        "type": "journal",
+        "issn": "2352-3964",
+        "url": "https://www.ebiomedicine.com/",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/ebiomedicine/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9b9560b9f3030ef9497f15b29b592854335c449d",
+      "title": "Identifying shared genetic architecture between rheumatoid arthritis and other conditions: a phenome-wide association study with genetic risk scores",
+      "venue": "EBioMedicine",
+      "year": 2023,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2128678115",
+          "name": "Harrison G. Zhang"
+        },
+        {
+          "authorId": "2060521651",
+          "name": "G. McDermott"
+        },
+        {
+          "authorId": "1582072893",
+          "name": "Thany Seyok"
+        },
+        {
+          "authorId": "50178985",
+          "name": "Sicong Huang"
+        },
+        {
+          "authorId": "2073579409",
+          "name": "Kumar P Dahal"
+        },
+        {
+          "authorId": "1399263337",
+          "name": "S. L\u2019Yi"
+        },
+        {
+          "authorId": "2215790696",
+          "name": "Clara Lea-Bonzel"
+        },
+        {
+          "authorId": "150164377",
+          "name": "Jacklyn Stratton"
+        },
+        {
+          "authorId": "1395722471",
+          "name": "Dana Weisenfeld"
+        },
+        {
+          "authorId": "2178955489",
+          "name": "Paul A Monach"
+        },
+        {
+          "authorId": "2139108",
+          "name": "S. Raychaudhuri"
+        },
+        {
+          "authorId": "2150426303",
+          "name": "Kun\u2010Hsing Yu"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "143805961",
+          "name": "J. Cui"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "a04b9d92326fd157bdfb9bd57bf1de64a17cb06f",
+      "publicationVenue": {
+        "id": "7433889a-97f1-44b6-908a-d4de0a878054",
+        "name": "JAMA Internal Medicine",
+        "type": "journal",
+        "alternate_names": [
+          "JAMA Intern Med"
+        ],
+        "issn": "2168-6106",
+        "url": "http://archinte.jamanetwork.com/journal.aspx",
+        "alternate_urls": [
+          "http://archinte.ama-assn.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a04b9d92326fd157bdfb9bd57bf1de64a17cb06f",
+      "title": "Endovascular Aneurysm Repair Devices as a Use Case for Postmarketing Surveillance of Medical Devices.",
+      "venue": "JAMA Internal Medicine",
+      "year": 2023,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2108320110",
+          "name": "Xuan Wang"
+        },
+        {
+          "authorId": "2218824885",
+          "name": "Vidul Ayakulangara Panickan"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2170343663",
+          "name": "Xin Xiong"
+        },
+        {
+          "authorId": "50428022",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        },
+        {
+          "authorId": "40592816",
+          "name": "Florence T. Bourgeois"
+        }
+      ]
+    },
+    {
+      "paperId": "b867212b3fcc07cfea068973e09522dc21649eed",
+      "publicationVenue": {
+        "id": "17bac89e-3dba-467a-b9d4-71e3baefb08b",
+        "name": "Patterns",
+        "type": "journal",
+        "issn": "2666-3899",
+        "url": "https://www.cell.com/patterns",
+        "alternate_urls": [
+          "https://www.sciencedirect.com/journal/patterns"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/b867212b3fcc07cfea068973e09522dc21649eed",
+      "title": "LATTE: Label-efficient incident phenotyping from longitudinal electronic health records",
+      "venue": "Patterns",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "145024315",
+          "name": "Jun Wen"
+        },
+        {
+          "authorId": "2152079523",
+          "name": "Jue Hou"
+        },
+        {
+          "authorId": "2051597779",
+          "name": "Clara-Lea Bonzel"
+        },
+        {
+          "authorId": "2191529483",
+          "name": "Yihan Zhao"
+        },
+        {
+          "authorId": "2176357544",
+          "name": "Victor Castro"
+        },
+        {
+          "authorId": "2046904",
+          "name": "V. Gainer"
+        },
+        {
+          "authorId": "1395722471",
+          "name": "Dana Weisenfeld"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "31779600",
+          "name": "Y. Ho"
+        },
+        {
+          "authorId": "2051138129",
+          "name": "V. Panickan"
+        },
+        {
+          "authorId": "21998321",
+          "name": "L. Costa"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "145385409",
+          "name": "J. Gaziano"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "2218113443",
+          "name": "Junwei Lu"
+        },
+        {
+          "authorId": "50428022",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "cff6ca33b29b153c9d43b67950166ece415c5195",
+      "publicationVenue": {
+        "id": "d5e5b5e7-54b1-4f53-82fc-4853f3e71c58",
+        "name": "medRxiv",
+        "type": "journal",
+        "url": "https://www.medrxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cff6ca33b29b153c9d43b67950166ece415c5195",
+      "title": "Knowledge-Driven Online Multimodal Automated Phenotyping System",
+      "venue": "medRxiv",
+      "year": 2023,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2170343663",
+          "name": "Xin Xiong"
+        },
+        {
+          "authorId": "2249640781",
+          "name": "Sara Morini Sweet"
+        },
+        {
+          "authorId": "46175887",
+          "name": "Molei Liu"
+        },
+        {
+          "authorId": "2244155388",
+          "name": "Chuan Hong"
+        },
+        {
+          "authorId": "2051597779",
+          "name": "Clara-Lea Bonzel"
+        },
+        {
+          "authorId": "2051138129",
+          "name": "V. Panickan"
+        },
+        {
+          "authorId": "2256313484",
+          "name": "Doudou Zhou"
+        },
+        {
+          "authorId": "2249689517",
+          "name": "Linshanshan Wang"
+        },
+        {
+          "authorId": "2280300090",
+          "name": "Lauren Costa"
+        },
+        {
+          "authorId": "31779600",
+          "name": "Y. Ho"
+        },
+        {
+          "authorId": "1996100",
+          "name": "A. Geva"
+        },
+        {
+          "authorId": "2238579451",
+          "name": "K. D. Mandl"
+        },
+        {
+          "authorId": "2255949953",
+          "name": "Su-Chun Cheng"
+        },
+        {
+          "authorId": "2249691781",
+          "name": "Zongqi Xia"
+        },
+        {
+          "authorId": "2242180564",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "145385409",
+          "name": "J. Gaziano"
+        },
+        {
+          "authorId": "2247079201",
+          "name": "Katherine P. Liao"
+        },
+        {
+          "authorId": "2239196258",
+          "name": "Tianxi Cai"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "f125e9308364a7024f9085fa3863dcf0cbffa937",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f125e9308364a7024f9085fa3863dcf0cbffa937",
+      "title": "Multimodal representation learning for predicting molecule\u2013disease relations",
+      "venue": "Bioinform.",
+      "year": 2023,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145024315",
+          "name": "Jun Wen"
+        },
+        {
+          "authorId": "2190289602",
+          "name": "Xiang Zhang"
+        },
+        {
+          "authorId": "7394208",
+          "name": "E. Rush"
+        },
+        {
+          "authorId": "2051138129",
+          "name": "V. Panickan"
+        },
+        {
+          "authorId": "51008082",
+          "name": "Xingyu Li"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "1648733211",
+          "name": "D. Zhou"
+        },
+        {
+          "authorId": "31779600",
+          "name": "Y. Ho"
+        },
+        {
+          "authorId": "21998321",
+          "name": "L. Costa"
+        },
+        {
+          "authorId": "2138992899",
+          "name": "E. Begoli"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "145385409",
+          "name": "J. Gaziano"
+        },
+        {
+          "authorId": "50428022",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "2218113443",
+          "name": "Junwei Lu"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "2095762",
+          "name": "M. Zitnik"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "048a5a9eee058ebf9c526abf6dc5ffcfa387d5e5",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/048a5a9eee058ebf9c526abf6dc5ffcfa387d5e5",
+      "title": "Knowledge-Driven Online Multimodal Automated Phenotyping System",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46175887",
+          "name": "Molei Liu"
+        },
+        {
+          "authorId": "2261383228",
+          "name": "Sara Morini"
+        },
+        {
+          "authorId": "2170343663",
+          "name": "Xin Xiong"
+        },
+        {
+          "authorId": "2244155388",
+          "name": "Chuan Hong"
+        },
+        {
+          "authorId": "2051597779",
+          "name": "Clara-Lea Bonzel"
+        },
+        {
+          "authorId": "2051138129",
+          "name": "V. Panickan"
+        },
+        {
+          "authorId": "7394208",
+          "name": "E. Rush"
+        },
+        {
+          "authorId": "31779600",
+          "name": "Y. Ho"
+        },
+        {
+          "authorId": "2242180564",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "145385409",
+          "name": "J. Gaziano"
+        },
+        {
+          "authorId": "2247079201",
+          "name": "Katherine P. Liao"
+        },
+        {
+          "authorId": "2239196258",
+          "name": "Tianxi Cai"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "1447c679052e0363043318612ec48ad03edaf994",
+      "publicationVenue": {
+        "id": "f9827422-a381-440c-a8a4-e5e50415934e",
+        "name": "Journal of Biomedical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Informatics"
+        ],
+        "issn": "1532-0464",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622857/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-biomedical-informatics/",
+          "http://www.sciencedirect.com/science/journal/15320464",
+          "http://www.journals.elsevier.com/journal-of-biomedical-informatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/1447c679052e0363043318612ec48ad03edaf994",
+      "title": "Scalable relevance ranking algorithm via semantic similarity assessment improves efficiency of medical chart review",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "1409990484",
+          "name": "Zeling He"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "2108350305",
+          "name": "Yichi Zhang"
+        },
+        {
+          "authorId": "31779600",
+          "name": "Y. Ho"
+        },
+        {
+          "authorId": "40790782",
+          "name": "J. Honerlaw"
+        },
+        {
+          "authorId": "1996100",
+          "name": "A. Geva"
+        },
+        {
+          "authorId": "2051138129",
+          "name": "V. Panickan"
+        },
+        {
+          "authorId": "2184254070",
+          "name": "Amanda King"
+        },
+        {
+          "authorId": "2292261",
+          "name": "D. Gagnon"
+        },
+        {
+          "authorId": "145385409",
+          "name": "J. Gaziano"
+        },
+        {
+          "authorId": "50428022",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "1c9a64ea86003e125ad2f69910e5e01e0ab990ee",
+      "publicationVenue": {
+        "id": "b9444cdd-c1d0-45a8-9db6-f8a53936292e",
+        "name": "JAMA Network Open",
+        "alternate_names": [
+          "JAMA Netw Open"
+        ],
+        "issn": "2574-3805"
+      },
+      "url": "https://www.semanticscholar.org/paper/1c9a64ea86003e125ad2f69910e5e01e0ab990ee",
+      "title": "Temporal Trends in Clinical Evidence of 5-Year Survival Within Electronic Health Records Among Patients With Early-Stage Colon Cancer Managed With Laparoscopy-Assisted Colectomy vs Open Colectomy",
+      "venue": "JAMA Network Open",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2152079523",
+          "name": "Jue Hou"
+        },
+        {
+          "authorId": "2114013174",
+          "name": "R. Zhao"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "1402651503",
+          "name": "Brett K. Beaulieu-Jones"
+        },
+        {
+          "authorId": "1582072893",
+          "name": "Thany Seyok"
+        },
+        {
+          "authorId": "2073579409",
+          "name": "Kumar P Dahal"
+        },
+        {
+          "authorId": "40918096",
+          "name": "Qianyu Yuan"
+        },
+        {
+          "authorId": "2170343663",
+          "name": "Xin Xiong"
+        },
+        {
+          "authorId": "2051597779",
+          "name": "Clara-Lea Bonzel"
+        },
+        {
+          "authorId": "2058474837",
+          "name": "C. Fox"
+        },
+        {
+          "authorId": "46416910",
+          "name": "D. Christiani"
+        },
+        {
+          "authorId": "4107687",
+          "name": "T. Jemielita"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "145068268",
+          "name": "K. Liaw"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "2db341716db701830186b75fc54d65899cba1604",
+      "publicationVenue": {
+        "id": "9d0f468d-117a-4e63-beae-93f161248b94",
+        "name": "Journal of the American Heart Association : Cardiovascular and Cerebrovascular Disease",
+        "type": "journal",
+        "alternate_names": [
+          "J Am Heart Assoc  Cardiovasc Cerebrovasc Dis",
+          "J Am Heart Assoc",
+          "Journal of the American Heart Association"
+        ],
+        "issn": "2047-9980",
+        "url": "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-9980",
+        "alternate_urls": [
+          "http://jaha.ahajournals.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2db341716db701830186b75fc54d65899cba1604",
+      "title": "Natural Language Processing to Improve Prediction of Incident Atrial Fibrillation Using Electronic Health Records",
+      "venue": "Journal of the American Heart Association : Cardiovascular and Cerebrovascular Disease",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3471765",
+          "name": "Jeffrey M. Ashburner"
+        },
+        {
+          "authorId": "144375326",
+          "name": "Yuchiao Chang"
+        },
+        {
+          "authorId": "2153687399",
+          "name": "Xin Wang"
+        },
+        {
+          "authorId": "145802045",
+          "name": "S. Khurshid"
+        },
+        {
+          "authorId": "2116941892",
+          "name": "Christopher D. Anderson"
+        },
+        {
+          "authorId": "2073579409",
+          "name": "Kumar P Dahal"
+        },
+        {
+          "authorId": "1395722471",
+          "name": "Dana Weisenfeld"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "2727465",
+          "name": "K. Wagholikar"
+        },
+        {
+          "authorId": "3511689",
+          "name": "S. Murphy"
+        },
+        {
+          "authorId": "36614372",
+          "name": "S. Atlas"
+        },
+        {
+          "authorId": "143681668",
+          "name": "S. Lubitz"
+        },
+        {
+          "authorId": "2122382497",
+          "name": "Daniel E. Singer"
+        }
+      ]
+    },
+    {
+      "paperId": "4ccfa38a93a90354d87dfe01f06ab6ba711df842",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4ccfa38a93a90354d87dfe01f06ab6ba711df842",
+      "title": "Harnessing electronic health records for real-world evidence",
+      "venue": "",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2152079523",
+          "name": "Jue Hou"
+        },
+        {
+          "authorId": "2114013174",
+          "name": "R. Zhao"
+        },
+        {
+          "authorId": "14929566",
+          "name": "Jessica L. Gronsbell"
+        },
+        {
+          "authorId": "1402651503",
+          "name": "Brett K. Beaulieu-Jones"
+        },
+        {
+          "authorId": "2192821829",
+          "name": "Griffin Webber"
+        },
+        {
+          "authorId": "4107687",
+          "name": "T. Jemielita"
+        },
+        {
+          "authorId": "48214109",
+          "name": "S. Wan"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "150349905",
+          "name": "Yucong Lin"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "145024315",
+          "name": "Jun Wen"
+        },
+        {
+          "authorId": "2051138129",
+          "name": "V. Panickan"
+        },
+        {
+          "authorId": "2051597779",
+          "name": "Clara-Lea Bonzel"
+        },
+        {
+          "authorId": "145068268",
+          "name": "K. Liaw"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "9a6051a32b2a31e5d241d90c2753f59c0ef8f745",
+      "publicationVenue": {
+        "id": "d5e5b5e7-54b1-4f53-82fc-4853f3e71c58",
+        "name": "medRxiv",
+        "type": "journal",
+        "url": "https://www.medrxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9a6051a32b2a31e5d241d90c2753f59c0ef8f745",
+      "title": "Development of the Centralized Interactive Phenomics Resource (CIPHER) Standard for Electronic Health Data-Based Phenomics Knowledgebase",
+      "venue": "medRxiv",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "40790782",
+          "name": "J. Honerlaw"
+        },
+        {
+          "authorId": "2105619049",
+          "name": "Yu-Lin Ho"
+        },
+        {
+          "authorId": "115263698",
+          "name": "F. Fontin"
+        },
+        {
+          "authorId": "5366254",
+          "name": "J. Gosian"
+        },
+        {
+          "authorId": "2164236596",
+          "name": "M. Maripuri"
+        },
+        {
+          "authorId": "2151189800",
+          "name": "M. Murray"
+        },
+        {
+          "authorId": "10182166",
+          "name": "R. Sangar"
+        },
+        {
+          "authorId": "1800674448",
+          "name": "A. Galloway"
+        },
+        {
+          "authorId": "5505347",
+          "name": "A. Zimolzak"
+        },
+        {
+          "authorId": "118567759",
+          "name": "S. Whitbourne"
+        },
+        {
+          "authorId": "143992800",
+          "name": "J. Casas"
+        },
+        {
+          "authorId": "2089078277",
+          "name": "R. Ramoni"
+        },
+        {
+          "authorId": "2292261",
+          "name": "D. Gagnon"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "145385409",
+          "name": "J. Gaziano"
+        },
+        {
+          "authorId": "48412982",
+          "name": "S. Muralidhar"
+        },
+        {
+          "authorId": "2107188188",
+          "name": "K. Cho"
+        }
+      ]
+    },
+    {
+      "paperId": "b8a2b3f37c489116be14a1be2928677bea1583d7",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b8a2b3f37c489116be14a1be2928677bea1583d7",
+      "title": "Binary acronym disambiguation in clinical notes from electronic health records with an application in computational phenotyping",
+      "venue": "Int. J. Medical Informatics",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "103352983",
+          "name": "N. Link"
+        },
+        {
+          "authorId": "50178985",
+          "name": "Sicong Huang"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "1731008",
+          "name": "Jiehuan Sun"
+        },
+        {
+          "authorId": "2073579409",
+          "name": "Kumar P Dahal"
+        },
+        {
+          "authorId": "21998321",
+          "name": "L. Costa"
+        },
+        {
+          "authorId": "50428022",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        }
+      ]
+    },
+    {
+      "paperId": "bb15f7c8c01635a42c27ab1f2f842f9b6b2b43d4",
+      "publicationVenue": {
+        "id": "f9827422-a381-440c-a8a4-e5e50415934e",
+        "name": "Journal of Biomedical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Informatics"
+        ],
+        "issn": "1532-0464",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622857/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-biomedical-informatics/",
+          "http://www.sciencedirect.com/science/journal/15320464",
+          "http://www.journals.elsevier.com/journal-of-biomedical-informatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/bb15f7c8c01635a42c27ab1f2f842f9b6b2b43d4",
+      "title": "Multiview Incomplete Knowledge Graph Integration with application to cross-institutional EHR data harmonization",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2022,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1648733211",
+          "name": "D. Zhou"
+        },
+        {
+          "authorId": "2178627000",
+          "name": "Ziming Gan"
+        },
+        {
+          "authorId": "2110155877",
+          "name": "Xu Shi"
+        },
+        {
+          "authorId": "2178776395",
+          "name": "Alina Patwari"
+        },
+        {
+          "authorId": "7394208",
+          "name": "E. Rush"
+        },
+        {
+          "authorId": "2051597779",
+          "name": "Clara-Lea Bonzel"
+        },
+        {
+          "authorId": "2051138129",
+          "name": "V. Panickan"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "31779600",
+          "name": "Y. Ho"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "21998321",
+          "name": "L. Costa"
+        },
+        {
+          "authorId": "2154544498",
+          "name": "Xiaoou Li"
+        },
+        {
+          "authorId": "145241630",
+          "name": "V. Castro"
+        },
+        {
+          "authorId": "3511689",
+          "name": "S. Murphy"
+        },
+        {
+          "authorId": "4083144",
+          "name": "G. Brat"
+        },
+        {
+          "authorId": "144135987",
+          "name": "G. Weber"
+        },
+        {
+          "authorId": "2636446",
+          "name": "P. Avillach"
+        },
+        {
+          "authorId": "145385409",
+          "name": "J. Gaziano"
+        },
+        {
+          "authorId": "50428022",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "2218113443",
+          "name": "Junwei Lu"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "641391a6519d29f4d0b1ea65323194d2fc12c374",
+      "publicationVenue": {
+        "id": "b9444cdd-c1d0-45a8-9db6-f8a53936292e",
+        "name": "JAMA Network Open",
+        "alternate_names": [
+          "JAMA Netw Open"
+        ],
+        "issn": "2574-3805"
+      },
+      "url": "https://www.semanticscholar.org/paper/641391a6519d29f4d0b1ea65323194d2fc12c374",
+      "title": "Performance of a Machine Learning Algorithm Using Electronic Health Record Data to Identify and Estimate Survival in a Longitudinal Cohort of Patients With Lung Cancer",
+      "venue": "JAMA Network Open",
+      "year": 2021,
+      "citationCount": 66,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "40918096",
+          "name": "Qianyu Yuan"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "145048803",
+          "name": "Mulong Du"
+        },
+        {
+          "authorId": "115060139",
+          "name": "B. Johnson"
+        },
+        {
+          "authorId": "4162260",
+          "name": "M. Lanuti"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        },
+        {
+          "authorId": "2052854",
+          "name": "D. Christiani"
+        }
+      ]
+    },
+    {
+      "paperId": "64c4f3aa66fb692b4084038423da08093cc4254c",
+      "publicationVenue": {
+        "id": "1ec2aefc-fc1e-40a8-94f5-6df6dc894032",
+        "name": "Arthritis care & research",
+        "type": "journal",
+        "alternate_names": [
+          "Arthritis care  res",
+          "Arthritis Care Res",
+          "Arthritis Care and Research"
+        ],
+        "issn": "2151-464X",
+        "url": "http://www3.interscience.wiley.com/cgi-bin/issn?DESCRIPTOR=PRINTISSN&VALUE=2151-464X",
+        "alternate_urls": [
+          "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2151-4658",
+          "https://onlinelibrary.wiley.com/journal/21514658"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/64c4f3aa66fb692b4084038423da08093cc4254c",
+      "title": "The Association Between Inflammation, Incident Heart Failure, and Heart Failure Subtypes in Patients with Rheumatoid Arthritis.",
+      "venue": "Arthritis care & research",
+      "year": 2021,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "50178985",
+          "name": "Sicong Huang"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "14322718",
+          "name": "B. Weber"
+        },
+        {
+          "authorId": "1409990484",
+          "name": "Zeling He"
+        },
+        {
+          "authorId": "2073579409",
+          "name": "Kumar P Dahal"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "2152079523",
+          "name": "Jue Hou"
+        },
+        {
+          "authorId": "1582072893",
+          "name": "Thany Seyok"
+        },
+        {
+          "authorId": "3460472",
+          "name": "A. Cagan"
+        },
+        {
+          "authorId": "6673255",
+          "name": "M. DiCarli"
+        },
+        {
+          "authorId": "145533961",
+          "name": "J. Joseph"
+        },
+        {
+          "authorId": "1455972455",
+          "name": "Seoyoung C. Kim"
+        },
+        {
+          "authorId": "1832962",
+          "name": "D. Solomon"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "818b393f8e2379798682e042632b55aa760e903b",
+      "publicationVenue": {
+        "id": "ef485645-f75f-4344-8b9d-3c260e69503b",
+        "name": "npj Digital Medicine",
+        "alternate_names": [
+          "npj Digit Med"
+        ],
+        "issn": "2398-6352",
+        "url": "http://www.nature.com/npjdigitalmed/"
+      },
+      "url": "https://www.semanticscholar.org/paper/818b393f8e2379798682e042632b55aa760e903b",
+      "title": "Clinical knowledge extraction via sparse embedding regression (KESER) with multi-center large scale electronic health record data",
+      "venue": "npj Digital Medicine",
+      "year": 2021,
+      "citationCount": 45,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "7394208",
+          "name": "E. Rush"
+        },
+        {
+          "authorId": "2107811715",
+          "name": "M. Liu"
+        },
+        {
+          "authorId": "2107405000",
+          "name": "D. Zhou"
+        },
+        {
+          "authorId": "2107765386",
+          "name": "J. Sun"
+        },
+        {
+          "authorId": "1820889184",
+          "name": "A. Sonabend"
+        },
+        {
+          "authorId": "145241630",
+          "name": "V. Castro"
+        },
+        {
+          "authorId": "108394390",
+          "name": "P. Schubert"
+        },
+        {
+          "authorId": "2051138129",
+          "name": "V. Panickan"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2112776487",
+          "name": "L. Costa"
+        },
+        {
+          "authorId": "2217757117",
+          "name": "Z. He"
+        },
+        {
+          "authorId": "103352983",
+          "name": "N. Link"
+        },
+        {
+          "authorId": "83013108",
+          "name": "R. Hauser"
+        },
+        {
+          "authorId": "2302239780",
+          "name": "J. Gaziano"
+        },
+        {
+          "authorId": "1938747145",
+          "name": "S. Murphy"
+        },
+        {
+          "authorId": "1781276",
+          "name": "G. Ostrouchov"
+        },
+        {
+          "authorId": "31779600",
+          "name": "Y. Ho"
+        },
+        {
+          "authorId": "2856308",
+          "name": "Edmon Begoli"
+        },
+        {
+          "authorId": "2107277097",
+          "name": "J. Lu"
+        },
+        {
+          "authorId": "2107188188",
+          "name": "K. Cho"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "ac8ebf02f5307fe71d141dc68d30fc7d4ea00c5a",
+      "publicationVenue": {
+        "id": "5b06c629-b3bb-458f-b8df-646ad6665e93",
+        "name": "ACR Open Rheumatology",
+        "type": "journal",
+        "alternate_names": [
+          "ACR Open Rheumatol"
+        ],
+        "issn": "2578-5745",
+        "url": "https://onlinelibrary.wiley.com/journal/25785745",
+        "alternate_urls": [
+          "https://onlinelibrary.wiley.com/loi/25785745"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ac8ebf02f5307fe71d141dc68d30fc7d4ea00c5a",
+      "title": "Improving the Efficiency of Clinical Trial Recruitment Using an Ensemble Machine Learning to Assist With Eligibility Screening",
+      "venue": "ACR Open Rheumatology",
+      "year": 2021,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2064273653",
+          "name": "Fiona Cai"
+        },
+        {
+          "authorId": "2073579409",
+          "name": "Kumar P Dahal"
+        },
+        {
+          "authorId": "2084105419",
+          "name": "Gabrielle Cremone"
+        },
+        {
+          "authorId": "1404170251",
+          "name": "E. Lam"
+        },
+        {
+          "authorId": "2036836818",
+          "name": "Charlotte Golnik"
+        },
+        {
+          "authorId": "1582072893",
+          "name": "Thany Seyok"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "cb501f025e89b5456fd3066a77e1f1e7b72ea7ec",
+      "publicationVenue": {
+        "id": "de89c788-cff1-4a20-bb9e-0b13faf8c734",
+        "name": "Annals of Clinical and Translational Neurology",
+        "type": "journal",
+        "alternate_names": [
+          "Ann Clin Transl Neurol",
+          "Annals of clinical and translational neurology",
+          "Ann clin transl neurol"
+        ],
+        "issn": "2328-9503",
+        "url": "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2328-9503",
+        "alternate_urls": [
+          "https://onlinelibrary.wiley.com/journal/23289503"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/cb501f025e89b5456fd3066a77e1f1e7b72ea7ec",
+      "title": "Leveraging electronic health records data to predict multiple sclerosis disease activity",
+      "venue": "Annals of Clinical and Translational Neurology",
+      "year": 2021,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1399681585",
+          "name": "Y. Ahuja"
+        },
+        {
+          "authorId": "2111395211",
+          "name": "Nicole Kim"
+        },
+        {
+          "authorId": "145494028",
+          "name": "Liang Liang"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2073579409",
+          "name": "Kumar P Dahal"
+        },
+        {
+          "authorId": "1582072893",
+          "name": "Thany Seyok"
+        },
+        {
+          "authorId": "2146251002",
+          "name": "Chen Lin"
+        },
+        {
+          "authorId": "2536917",
+          "name": "S. Finan"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "2051577094",
+          "name": "Guergana Savovoa"
+        },
+        {
+          "authorId": "2468396",
+          "name": "T. Chitnis"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "33596542",
+          "name": "Zongqi Xia"
+        }
+      ]
+    },
+    {
+      "paperId": "e2c08ab8d4aa3ca8885e7d338424bd59385d67e9",
+      "publicationVenue": {
+        "id": "b9444cdd-c1d0-45a8-9db6-f8a53936292e",
+        "name": "JAMA Network Open",
+        "alternate_names": [
+          "JAMA Netw Open"
+        ],
+        "issn": "2574-3805"
+      },
+      "url": "https://www.semanticscholar.org/paper/e2c08ab8d4aa3ca8885e7d338424bd59385d67e9",
+      "title": "Comparison of Dimethyl Fumarate vs Fingolimod and Rituximab vs Natalizumab for Treatment of Multiple Sclerosis",
+      "venue": "JAMA Network Open",
+      "year": 2021,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2152079523",
+          "name": "Jue Hou"
+        },
+        {
+          "authorId": "2111395211",
+          "name": "Nicole Kim"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2073579409",
+          "name": "Kumar P Dahal"
+        },
+        {
+          "authorId": "31581741",
+          "name": "H. Weiner"
+        },
+        {
+          "authorId": "2468396",
+          "name": "T. Chitnis"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "33596542",
+          "name": "Zongqi Xia"
+        }
+      ]
+    },
+    {
+      "paperId": "f1048ff8796f1012f8fad1b785090647397cefff",
+      "publicationVenue": {
+        "id": "e8d8b9af-bc37-4239-8e75-13eb72b16a09",
+        "name": "Multiple Sclerosis and Related Disorders",
+        "type": "journal",
+        "alternate_names": [
+          "Mult Scler Relat Disord",
+          "Multiple sclerosis and related disorders",
+          "Mult scler relat disord"
+        ],
+        "issn": "2211-0348",
+        "url": "https://www.journals.elsevier.com/multiple-sclerosis-and-related-disorders/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f1048ff8796f1012f8fad1b785090647397cefff",
+      "title": "Temporal trends of multiple sclerosis disease activity: Electronic health records indicators.",
+      "venue": "Multiple Sclerosis and Related Disorders",
+      "year": 2021,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "145494028",
+          "name": "Liang Liang"
+        },
+        {
+          "authorId": "2111395211",
+          "name": "Nicole Kim"
+        },
+        {
+          "authorId": "2152079523",
+          "name": "Jue Hou"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2073579409",
+          "name": "Kumar P Dahal"
+        },
+        {
+          "authorId": "2146251002",
+          "name": "Chen Lin"
+        },
+        {
+          "authorId": "2536917",
+          "name": "S. Finan"
+        },
+        {
+          "authorId": "2051577094",
+          "name": "Guergana Savovoa"
+        },
+        {
+          "authorId": "47939919",
+          "name": "M. Rosso"
+        },
+        {
+          "authorId": "2154448656",
+          "name": "Mariann Polgar-Tucsanyi"
+        },
+        {
+          "authorId": "31581741",
+          "name": "H. Weiner"
+        },
+        {
+          "authorId": "2468396",
+          "name": "T. Chitnis"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "33596542",
+          "name": "Zongqi Xia"
+        }
+      ]
+    },
+    {
+      "paperId": "f3d483638760b25dfbe03cf2ec7a0e3a1ae22131",
+      "publicationVenue": {
+        "id": "0d67273f-71c8-43f4-a642-9c384870ccb2",
+        "name": "Circulation",
+        "type": "journal",
+        "issn": "0009-7322",
+        "url": "http://gateway.ovid.com/ovidweb.cgi?AN=00002060-000000000-00000&D=ovft&MODE=ovid&NEWS=N&PAGE=toc&T=JS",
+        "alternate_urls": [
+          "http://circ.ahajournals.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f3d483638760b25dfbe03cf2ec7a0e3a1ae22131",
+      "title": "Abstract P118: Machine Learning Algorithm For Improving Classification Of Myocardial Infarction Across A Diverse Population Using US Veteran Electronic Health Record Data",
+      "venue": "Circulation",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "50428022",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "103352983",
+          "name": "N. Link"
+        },
+        {
+          "authorId": "108394390",
+          "name": "P. Schubert"
+        },
+        {
+          "authorId": "1409990484",
+          "name": "Zeling He"
+        },
+        {
+          "authorId": "40790782",
+          "name": "J. Honerlaw"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "25485200",
+          "name": "A. Orkaby"
+        },
+        {
+          "authorId": "24485455",
+          "name": "Saadia Qazi"
+        },
+        {
+          "authorId": "1816759596",
+          "name": "Vidisha Tanukonda"
+        },
+        {
+          "authorId": "1731008",
+          "name": "Jiehuan Sun"
+        },
+        {
+          "authorId": "2073579409",
+          "name": "Kumar P Dahal"
+        },
+        {
+          "authorId": "1800674448",
+          "name": "A. Galloway"
+        },
+        {
+          "authorId": "21998321",
+          "name": "L. Costa"
+        },
+        {
+          "authorId": "2108350305",
+          "name": "Yichi Zhang"
+        },
+        {
+          "authorId": "2292261",
+          "name": "D. Gagnon"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "31779600",
+          "name": "Y. Ho"
+        },
+        {
+          "authorId": "145385409",
+          "name": "J. Gaziano"
+        },
+        {
+          "authorId": "2146981456",
+          "name": "P. Wilson"
+        },
+        {
+          "authorId": "2248318370",
+          "name": "Tianxi Cai"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "84b5c48dcc5bdf1b65fcfc348b723cd20e07510a",
+      "publicationVenue": {
+        "id": "1ec2aefc-fc1e-40a8-94f5-6df6dc894032",
+        "name": "Arthritis care & research",
+        "type": "journal",
+        "alternate_names": [
+          "Arthritis care  res",
+          "Arthritis Care Res",
+          "Arthritis Care and Research"
+        ],
+        "issn": "2151-464X",
+        "url": "http://www3.interscience.wiley.com/cgi-bin/issn?DESCRIPTOR=PRINTISSN&VALUE=2151-464X",
+        "alternate_urls": [
+          "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2151-4658",
+          "https://onlinelibrary.wiley.com/journal/21514658"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/84b5c48dcc5bdf1b65fcfc348b723cd20e07510a",
+      "title": "Classifying Pseudogout Using Machine Learning Approaches With Electronic Health Record Data",
+      "venue": "Arthritis care & research",
+      "year": 2020,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "4865814",
+          "name": "S. Tedeschi"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "1409990484",
+          "name": "Zeling He"
+        },
+        {
+          "authorId": "1399681585",
+          "name": "Y. Ahuja"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "46940762",
+          "name": "K. Yates"
+        },
+        {
+          "authorId": "2073579409",
+          "name": "Kumar P Dahal"
+        },
+        {
+          "authorId": "48258751",
+          "name": "Chang Xu"
+        },
+        {
+          "authorId": "52170849",
+          "name": "H. Lyu"
+        },
+        {
+          "authorId": "145429664",
+          "name": "K. Yoshida"
+        },
+        {
+          "authorId": "1832962",
+          "name": "D. Solomon"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "b0e69d5dc20ce2bc77f58abaa7542826588b9735",
+      "publicationVenue": {
+        "id": "d5e5b5e7-54b1-4f53-82fc-4853f3e71c58",
+        "name": "medRxiv",
+        "type": "journal",
+        "url": "https://www.medrxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b0e69d5dc20ce2bc77f58abaa7542826588b9735",
+      "title": "Acronym Disambiguation in Clinical Notes from Electronic Health Records",
+      "venue": "medRxiv",
+      "year": 2020,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "103352983",
+          "name": "N. Link"
+        },
+        {
+          "authorId": "15634018",
+          "name": "Selena Huang"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "1409990484",
+          "name": "Zeling He"
+        },
+        {
+          "authorId": "1731008",
+          "name": "Jiehuan Sun"
+        },
+        {
+          "authorId": "2073579409",
+          "name": "Kumar P Dahal"
+        },
+        {
+          "authorId": "21998321",
+          "name": "L. Costa"
+        },
+        {
+          "authorId": "2107188188",
+          "name": "K. Cho"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        }
+      ]
+    },
+    {
+      "paperId": "bd127d50a5b901f42b2eae937748587b23092f94",
+      "publicationVenue": {
+        "id": "4f242814-09d1-4320-b225-b4c9b7872311",
+        "name": "Rheumatology",
+        "type": "journal",
+        "alternate_names": [
+          "Reumatologia"
+        ],
+        "issn": "1462-0324",
+        "alternate_issns": [
+          "0034-6233",
+          "1607-2669",
+          "2631-9233",
+          "0080-2727"
+        ],
+        "url": "https://mts.intechopen.com/series/rheumatology",
+        "alternate_urls": [
+          "https://www.termedia.pl/Czasopismo/Reumatologia-18",
+          "https://www.rheumatology.kiev.ua/",
+          "https://academic.oup.com/rheumatology"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/bd127d50a5b901f42b2eae937748587b23092f94",
+      "title": "Impact of ICD10 and secular changes on electronic medical record rheumatoid arthritis algorithms.",
+      "venue": "Rheumatology",
+      "year": 2020,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "50178985",
+          "name": "Sicong Huang"
+        },
+        {
+          "authorId": "2110284537",
+          "name": "Jie Huang"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2073579409",
+          "name": "Kumar P Dahal"
+        },
+        {
+          "authorId": "3460472",
+          "name": "A. Cagan"
+        },
+        {
+          "authorId": "1409990484",
+          "name": "Zeling He"
+        },
+        {
+          "authorId": "150164377",
+          "name": "Jacklyn Stratton"
+        },
+        {
+          "authorId": "2126998864",
+          "name": "Isaac Gorelik"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "f6b1180d59a4abfc73bb7c43c93b241a10f845aa",
+      "publicationVenue": {
+        "id": "9d3390ca-c918-4529-9fa0-2343c8b8ca48",
+        "name": "Clinical research",
+        "type": "journal",
+        "alternate_names": [
+          "Clinical researcher",
+          "Clin res"
+        ],
+        "issn": "0009-9279",
+        "alternate_issns": [
+          "1471-8456"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f6b1180d59a4abfc73bb7c43c93b241a10f845aa",
+      "title": "Abstract 2118: Using electronic medical records to assemble a lung cancer cohort for prognosis study",
+      "venue": "Clinical research",
+      "year": 2020,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "40918096",
+          "name": "Qianyu Yuan"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2052854",
+          "name": "D. Christiani"
+        }
+      ]
+    },
+    {
+      "paperId": "0a9a2ec416f18450565f189b2989b6e44ba066ab",
+      "publicationVenue": {
+        "id": "027ffd21-ebb0-4af8-baf5-911124292fd0",
+        "name": "bioRxiv",
+        "type": "journal",
+        "url": "http://biorxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0a9a2ec416f18450565f189b2989b6e44ba066ab",
+      "title": "High-throughput Multimodal Automated Phenotyping (MAP) with Application to PheWAS",
+      "venue": "bioRxiv",
+      "year": 2019,
+      "citationCount": 85,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine",
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "1731008",
+          "name": "Jiehuan Sun"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "103352983",
+          "name": "N. Link"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "2110284537",
+          "name": "Jie Huang"
+        },
+        {
+          "authorId": "5045778",
+          "name": "J. Huffman"
+        },
+        {
+          "authorId": "14929566",
+          "name": "Jessica L. Gronsbell"
+        },
+        {
+          "authorId": "2108350305",
+          "name": "Yichi Zhang"
+        },
+        {
+          "authorId": "31779600",
+          "name": "Y. Ho"
+        },
+        {
+          "authorId": "145241630",
+          "name": "V. Castro"
+        },
+        {
+          "authorId": "2046904",
+          "name": "V. Gainer"
+        },
+        {
+          "authorId": "3511689",
+          "name": "S. Murphy"
+        },
+        {
+          "authorId": "2141332863",
+          "name": "C. O\u2019Donnell"
+        },
+        {
+          "authorId": "145385409",
+          "name": "J. Gaziano"
+        },
+        {
+          "authorId": "50428022",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        },
+        {
+          "authorId": "1740538",
+          "name": "I. Kohane"
+        },
+        {
+          "authorId": "48932874",
+          "name": "Sheng Yu"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "397e1ca43bc6912d2726c2063430a637ffa619ee",
+      "publicationVenue": {
+        "id": "705a5f2b-aaf1-41fb-bc28-be78040b4587",
+        "name": "Nature Protocols",
+        "type": "journal",
+        "alternate_names": [
+          "Nat Protoc"
+        ],
+        "issn": "1750-2799",
+        "url": "https://www.nature.com/nprot/",
+        "alternate_urls": [
+          "http://www.nature.com/nprot/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/397e1ca43bc6912d2726c2063430a637ffa619ee",
+      "title": "High-throughput phenotyping with electronic medical record data using a common semi-supervised approach (PheCAP)",
+      "venue": "Nature Protocols",
+      "year": 2019,
+      "citationCount": 106,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108350305",
+          "name": "Yichi Zhang"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "48932874",
+          "name": "Sheng Yu"
+        },
+        {
+          "authorId": "50428022",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "1731008",
+          "name": "Jiehuan Sun"
+        },
+        {
+          "authorId": "2110284537",
+          "name": "Jie Huang"
+        },
+        {
+          "authorId": "31779600",
+          "name": "Y. Ho"
+        },
+        {
+          "authorId": "2034658",
+          "name": "A. Ananthakrishnan"
+        },
+        {
+          "authorId": "33596542",
+          "name": "Zongqi Xia"
+        },
+        {
+          "authorId": "4926743",
+          "name": "S. Shaw"
+        },
+        {
+          "authorId": "2046904",
+          "name": "V. Gainer"
+        },
+        {
+          "authorId": "145241630",
+          "name": "V. Castro"
+        },
+        {
+          "authorId": "103352983",
+          "name": "N. Link"
+        },
+        {
+          "authorId": "40790782",
+          "name": "J. Honerlaw"
+        },
+        {
+          "authorId": "122131914",
+          "name": "Sicong Huang"
+        },
+        {
+          "authorId": "2292261",
+          "name": "D. Gagnon"
+        },
+        {
+          "authorId": "2542696",
+          "name": "E. Karlson"
+        },
+        {
+          "authorId": "145946475",
+          "name": "R. Plenge"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        },
+        {
+          "authorId": "1894531",
+          "name": "G. Savova"
+        },
+        {
+          "authorId": "1950104",
+          "name": "S. Churchill"
+        },
+        {
+          "authorId": "2141332863",
+          "name": "C. O\u2019Donnell"
+        },
+        {
+          "authorId": "3511689",
+          "name": "S. Murphy"
+        },
+        {
+          "authorId": "145385409",
+          "name": "J. Gaziano"
+        },
+        {
+          "authorId": "1740538",
+          "name": "I. Kohane"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "5567d529b99147c6f00e673731cce610b4c20494",
+      "publicationVenue": {
+        "id": "d8bbadb2-79a4-448c-a8f8-23514891f190",
+        "name": "Seminars in Arthritis & Rheumatism",
+        "type": "journal",
+        "alternate_names": [
+          "Seminars in Arthritis and Rheumatism",
+          "Semin Arthritis  Rheum",
+          "Semin Arthritis Rheum"
+        ],
+        "issn": "0049-0172",
+        "url": "https://www.journals.elsevier.com/seminars-in-arthritis-and-rheumatism/",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/00490172",
+          "http://www.harcourthealth.com/semarthrit"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5567d529b99147c6f00e673731cce610b4c20494",
+      "title": "Identifying lupus patients in electronic health records: Development and validation of machine learning algorithms and application of rule-based algorithms.",
+      "venue": "Seminars in Arthritis & Rheumatism",
+      "year": 2019,
+      "citationCount": 64,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "21259981",
+          "name": "A. Jorge"
+        },
+        {
+          "authorId": "145241630",
+          "name": "V. Castro"
+        },
+        {
+          "authorId": "6339688",
+          "name": "A. Barnado"
+        },
+        {
+          "authorId": "2046904",
+          "name": "V. Gainer"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "1884317",
+          "name": "R. Carroll"
+        },
+        {
+          "authorId": "26430919",
+          "name": "J. Denny"
+        },
+        {
+          "authorId": "47210044",
+          "name": "L. Crofford"
+        },
+        {
+          "authorId": "3510819",
+          "name": "K. Costenbader"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "2542696",
+          "name": "E. Karlson"
+        },
+        {
+          "authorId": "4807135",
+          "name": "C. Feldman"
+        }
+      ]
+    },
+    {
+      "paperId": "718c48795c2ef0fccf5ab37809678119cae51078",
+      "publicationVenue": {
+        "id": "76da9cc5-c5a7-42b4-a250-3e708c5f4980",
+        "name": "BMC Medical Informatics and Decision Making",
+        "type": "journal",
+        "alternate_names": [
+          "BMC Med Informatics Decis Mak"
+        ],
+        "issn": "1472-6947",
+        "url": "http://www.biomedcentral.com/bmcmedinformdecismak/",
+        "alternate_urls": [
+          "https://bmcmedinformdecismak.biomedcentral.com/",
+          "https://link.springer.com/journal/12911",
+          "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=42"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/718c48795c2ef0fccf5ab37809678119cae51078",
+      "title": "EXTraction of EMR numerical data: an efficient and generalizable tool to EXTEND clinical research",
+      "venue": "BMC Medical Informatics and Decision Making",
+      "year": 2019,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "3442332",
+          "name": "Luwan Zhang"
+        },
+        {
+          "authorId": "145217775",
+          "name": "Nicole Yang"
+        },
+        {
+          "authorId": "144063845",
+          "name": "K. Kumamaru"
+        },
+        {
+          "authorId": "1946106",
+          "name": "F. Rybicki"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "cec78edc3509848fb18dc033b11c7699faa0e8cd",
+      "publicationVenue": {
+        "id": "f9827422-a381-440c-a8a4-e5e50415934e",
+        "name": "Journal of Biomedical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Informatics"
+        ],
+        "issn": "1532-0464",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622857/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-biomedical-informatics/",
+          "http://www.sciencedirect.com/science/journal/15320464",
+          "http://www.journals.elsevier.com/journal-of-biomedical-informatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/cec78edc3509848fb18dc033b11c7699faa0e8cd",
+      "title": "Automated grouping of medical codes via multiview banded spectral clustering",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2019,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3442332",
+          "name": "Luwan Zhang"
+        },
+        {
+          "authorId": "2108350305",
+          "name": "Yichi Zhang"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "1399681585",
+          "name": "Y. Ahuja"
+        },
+        {
+          "authorId": "1409990484",
+          "name": "Zeling He"
+        },
+        {
+          "authorId": "31779600",
+          "name": "Y. Ho"
+        },
+        {
+          "authorId": "143649421",
+          "name": "Andrew Beam"
+        },
+        {
+          "authorId": "50428022",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "1884317",
+          "name": "R. Carroll"
+        },
+        {
+          "authorId": "1691316983",
+          "name": "J. Denny"
+        },
+        {
+          "authorId": "1740538",
+          "name": "I. Kohane"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "fffb05c450faa4a01a7f99bf210cbff188d6d462",
+      "publicationVenue": {
+        "id": "4f242814-09d1-4320-b225-b4c9b7872311",
+        "name": "Rheumatology",
+        "type": "journal",
+        "alternate_names": [
+          "Reumatologia"
+        ],
+        "issn": "1462-0324",
+        "alternate_issns": [
+          "0034-6233",
+          "1607-2669",
+          "2631-9233",
+          "0080-2727"
+        ],
+        "url": "https://mts.intechopen.com/series/rheumatology",
+        "alternate_urls": [
+          "https://www.termedia.pl/Czasopismo/Reumatologia-18",
+          "https://www.rheumatology.kiev.ua/",
+          "https://academic.oup.com/rheumatology"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/fffb05c450faa4a01a7f99bf210cbff188d6d462",
+      "title": "Incorporating natural language processing to improve classification of axial spondyloarthritis using electronic health records.",
+      "venue": "Rheumatology",
+      "year": 2019,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "7420390",
+          "name": "S. Zhao"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "48258751",
+          "name": "Chang Xu"
+        },
+        {
+          "authorId": "2110284537",
+          "name": "Jie Huang"
+        },
+        {
+          "authorId": "4268748",
+          "name": "J. Ermann"
+        },
+        {
+          "authorId": "3511286",
+          "name": "N. Goodson"
+        },
+        {
+          "authorId": "1832962",
+          "name": "D. Solomon"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "4db125b4343a4fe2b102259587df22723c43a337",
+      "publicationVenue": {
+        "id": "107809a9-96c9-4868-941f-08c8804a14a6",
+        "name": "European Journal of Epidemiology",
+        "type": "journal",
+        "alternate_names": [
+          "Eur J Epidemiology"
+        ],
+        "issn": "0393-2990",
+        "url": "http://www.springer.com/public+health/epidemiology/journal/10654",
+        "alternate_urls": [
+          "https://link.springer.com/journal/10654",
+          "https://www.jstor.org/journal/eurojepid"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4db125b4343a4fe2b102259587df22723c43a337",
+      "title": "Use of natural language processing in electronic medical records to identify pregnant women with suicidal behavior: towards a solution to the complex classification problem",
+      "venue": "European Journal of Epidemiology",
+      "year": 2018,
+      "citationCount": 42,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "5832190",
+          "name": "Qiu-Yue Zhong"
+        },
+        {
+          "authorId": "7304998",
+          "name": "Leena Mittal"
+        },
+        {
+          "authorId": "52221495",
+          "name": "M. Nathan"
+        },
+        {
+          "authorId": "47743968",
+          "name": "Kara M Brown"
+        },
+        {
+          "authorId": "120969449",
+          "name": "Deborah Knudson Gonz\u00e1lez"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2536917",
+          "name": "S. Finan"
+        },
+        {
+          "authorId": "4458107",
+          "name": "B. Gelaye"
+        },
+        {
+          "authorId": "2636446",
+          "name": "P. Avillach"
+        },
+        {
+          "authorId": "1880815",
+          "name": "J. Smoller"
+        },
+        {
+          "authorId": "2542696",
+          "name": "E. Karlson"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        },
+        {
+          "authorId": "2277159912",
+          "name": "Michelle A Williams"
+        }
+      ]
+    },
+    {
+      "paperId": "77fca61e02411b4c7b91e3b54bc9c522f16eb5f5",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/77fca61e02411b4c7b91e3b54bc9c522f16eb5f5",
+      "title": "Enabling phenotypic big data with PheNorm",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2018,
+      "citationCount": 89,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48932874",
+          "name": "Sheng Yu"
+        },
+        {
+          "authorId": "32369865",
+          "name": "Yumeng Ma"
+        },
+        {
+          "authorId": "14929566",
+          "name": "Jessica L. Gronsbell"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2034658",
+          "name": "A. Ananthakrishnan"
+        },
+        {
+          "authorId": "2046904",
+          "name": "V. Gainer"
+        },
+        {
+          "authorId": "1950104",
+          "name": "S. Churchill"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        },
+        {
+          "authorId": "3511689",
+          "name": "S. Murphy"
+        },
+        {
+          "authorId": "1740538",
+          "name": "I. Kohane"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "9c12616e442e6e279fba0a73ba46764470bcb5ac",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/9c12616e442e6e279fba0a73ba46764470bcb5ac",
+      "title": "Unsupervised Ensemble Learning via Ising Model Approximation with Application to Phenotyping Prediction",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3442332",
+          "name": "Luwan Zhang"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "c34371e4575f3b4cfb28c04f0de48731ce9c5368",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c34371e4575f3b4cfb28c04f0de48731ce9c5368",
+      "title": "Abstract 050: Phenome Wide Association Study of IL6R Variants Identifies a Drug Target for Cardiovascular Disease and Inflammation",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "48379988",
+          "name": "Yichi Zhang"
+        },
+        {
+          "authorId": "31779600",
+          "name": "Y. Ho"
+        },
+        {
+          "authorId": "103352983",
+          "name": "N. Link"
+        },
+        {
+          "authorId": "52489508",
+          "name": "Jie Huang"
+        },
+        {
+          "authorId": "1399681585",
+          "name": "Y. Ahuja"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "40790782",
+          "name": "J. Honerlaw"
+        },
+        {
+          "authorId": "21998321",
+          "name": "L. Costa"
+        },
+        {
+          "authorId": "1731008",
+          "name": "Jiehuan Sun"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "4914699",
+          "name": "S. Damrauer"
+        },
+        {
+          "authorId": "2224491502",
+          "name": "Yan V. Sun"
+        },
+        {
+          "authorId": "2292261",
+          "name": "D. Gagnon"
+        },
+        {
+          "authorId": "4625955",
+          "name": "M. Gaziano"
+        },
+        {
+          "authorId": "2247410989",
+          "name": "P. Wilson"
+        },
+        {
+          "authorId": "50428022",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "2486851",
+          "name": "P. Tsao"
+        },
+        {
+          "authorId": "77661657",
+          "name": "C. O\u2019Donnell"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "c444dfe0561f526a1183b0420b9864ab2529e736",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c444dfe0561f526a1183b0420b9864ab2529e736",
+      "title": "High-Throughput Multimodal Automated Phenotyping (MAP) Incorporating Natural Language Processing with Application to PheWAS",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "1731008",
+          "name": "Jiehuan Sun"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "103352983",
+          "name": "N. Link"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "2110284537",
+          "name": "Jie Huang"
+        },
+        {
+          "authorId": "5045778",
+          "name": "J. Huffman"
+        },
+        {
+          "authorId": "14929566",
+          "name": "Jessica L. Gronsbell"
+        },
+        {
+          "authorId": "21998321",
+          "name": "L. Costa"
+        },
+        {
+          "authorId": "145241630",
+          "name": "V. Castro"
+        },
+        {
+          "authorId": "2046904",
+          "name": "V. Gainer"
+        },
+        {
+          "authorId": "3511689",
+          "name": "S. Murphy"
+        },
+        {
+          "authorId": "145385409",
+          "name": "J. Gaziano"
+        },
+        {
+          "authorId": "50428022",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        },
+        {
+          "authorId": "1740538",
+          "name": "I. Kohane"
+        },
+        {
+          "authorId": "48932874",
+          "name": "Sheng Yu"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "c63c58989bd446da4de5eb9351888488e09a5b16",
+      "publicationVenue": {
+        "id": "6806a4fd-e465-4e63-aa7f-b8151ddee3a4",
+        "name": "Inflammatory Bowel Diseases",
+        "type": "journal",
+        "alternate_names": [
+          "Inflamm Bowel Dis"
+        ],
+        "issn": "1078-0998",
+        "url": "http://onlinelibrary.wiley.com/journal/10.1002/(issn)1536-4844"
+      },
+      "url": "https://www.semanticscholar.org/paper/c63c58989bd446da4de5eb9351888488e09a5b16",
+      "title": "The Association Between Arthralgia and Vedolizumab Using Natural Language Processing.",
+      "venue": "Inflammatory Bowel Diseases",
+      "year": 2018,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "30418655",
+          "name": "Tzu-Chieh Lin"
+        },
+        {
+          "authorId": "37336989",
+          "name": "A. Bond"
+        },
+        {
+          "authorId": "2110284537",
+          "name": "Jie Huang"
+        },
+        {
+          "authorId": "1435347900",
+          "name": "Gwendolyn Kane-Wanger"
+        },
+        {
+          "authorId": "3460472",
+          "name": "A. Cagan"
+        },
+        {
+          "authorId": "3511689",
+          "name": "S. Murphy"
+        },
+        {
+          "authorId": "2034658",
+          "name": "A. Ananthakrishnan"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "c82f7770bca671e50d0fb1c94e7481d0b6d9635e",
+      "publicationVenue": {
+        "id": "b6979ead-e857-4f0c-a910-44f0d6247ba9",
+        "name": "JAMA cardiology",
+        "type": "journal",
+        "alternate_names": [
+          "JAMA Cardiol",
+          "JAMA cardiol",
+          "JAMA Cardiology"
+        ],
+        "issn": "2380-6583",
+        "url": "http://cardiology.jamanetwork.com/journal.aspx"
+      },
+      "url": "https://www.semanticscholar.org/paper/c82f7770bca671e50d0fb1c94e7481d0b6d9635e",
+      "title": "Association of Interleukin 6 Receptor Variant With Cardiovascular Disease Effects of Interleukin 6 Receptor Blocking Therapy: A Phenome-Wide Association Study",
+      "venue": "JAMA cardiology",
+      "year": 2018,
+      "citationCount": 83,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2239196258",
+          "name": "Tianxi Cai"
+        },
+        {
+          "authorId": "48379988",
+          "name": "Yichi Zhang"
+        },
+        {
+          "authorId": "31779600",
+          "name": "Y. Ho"
+        },
+        {
+          "authorId": "103352983",
+          "name": "N. Link"
+        },
+        {
+          "authorId": "1731008",
+          "name": "Jiehuan Sun"
+        },
+        {
+          "authorId": "2110284537",
+          "name": "Jie Huang"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "4914699",
+          "name": "S. Damrauer"
+        },
+        {
+          "authorId": "1399681585",
+          "name": "Y. Ahuja"
+        },
+        {
+          "authorId": "40790782",
+          "name": "J. Honerlaw"
+        },
+        {
+          "authorId": "21998321",
+          "name": "L. Costa"
+        },
+        {
+          "authorId": "108394390",
+          "name": "P. Schubert"
+        },
+        {
+          "authorId": "145331471",
+          "name": "C. Hong"
+        },
+        {
+          "authorId": "2292261",
+          "name": "D. Gagnon"
+        },
+        {
+          "authorId": "2240435903",
+          "name": "Yan V. Sun"
+        },
+        {
+          "authorId": "2240435903",
+          "name": "Yan V. Sun"
+        },
+        {
+          "authorId": "145385409",
+          "name": "J. Gaziano"
+        },
+        {
+          "authorId": "2247410989",
+          "name": "P. Wilson"
+        },
+        {
+          "authorId": "50428022",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "2238877512",
+          "name": "Philip S. Tsao"
+        },
+        {
+          "authorId": "77661657",
+          "name": "C. O\u2019Donnell"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "4625955",
+          "name": "M. Gaziano"
+        },
+        {
+          "authorId": "1820831",
+          "name": "R. Ramoni"
+        },
+        {
+          "authorId": "1435596836",
+          "name": "Jim L. Breeling"
+        },
+        {
+          "authorId": "2242405626",
+          "name": "Kyong-Mi Chang"
+        },
+        {
+          "authorId": "2196079393",
+          "name": "Grant D Huang"
+        },
+        {
+          "authorId": "48412982",
+          "name": "S. Muralidhar"
+        },
+        {
+          "authorId": "2054083541",
+          "name": "P. Tsao"
+        },
+        {
+          "authorId": "2052895618",
+          "name": "J. Moser"
+        },
+        {
+          "authorId": "118567759",
+          "name": "S. Whitbourne"
+        },
+        {
+          "authorId": "22656688",
+          "name": "J. V. Brewer"
+        },
+        {
+          "authorId": "2241735655",
+          "name": "J. Concato"
+        },
+        {
+          "authorId": "2237158710",
+          "name": "Stuart R. Warren"
+        },
+        {
+          "authorId": "16124896",
+          "name": "Dean P. Argyres"
+        },
+        {
+          "authorId": "50788316",
+          "name": "B. Stephens"
+        },
+        {
+          "authorId": "32072854",
+          "name": "M. Brophy"
+        },
+        {
+          "authorId": "2072343897",
+          "name": "Donald E. Humphries"
+        },
+        {
+          "authorId": "2242807356",
+          "name": "Nhan V Do"
+        },
+        {
+          "authorId": "1435593341",
+          "name": "S. Shayan"
+        },
+        {
+          "authorId": "5990312",
+          "name": "Xuan-Mai T. Nguyen"
+        },
+        {
+          "authorId": "2327907",
+          "name": "S. Pyarajan"
+        },
+        {
+          "authorId": "2060781280",
+          "name": "Elizabeth R. Hauser"
+        },
+        {
+          "authorId": "2242096999",
+          "name": "Hongyu Zhao"
+        },
+        {
+          "authorId": "2179029892",
+          "name": "Rachel McArdle"
+        },
+        {
+          "authorId": "2073985542",
+          "name": "Louis J. Dellitalia"
+        },
+        {
+          "authorId": "2241728327",
+          "name": "John B. Harley"
+        },
+        {
+          "authorId": "37930663",
+          "name": "J. Whittle"
+        },
+        {
+          "authorId": "2179030043",
+          "name": "J. Beckham"
+        },
+        {
+          "authorId": "123708682",
+          "name": "J. Wells"
+        },
+        {
+          "authorId": "2061017825",
+          "name": "Salvador Gutierrez"
+        },
+        {
+          "authorId": "2241636284",
+          "name": "Gretchen Gibson"
+        },
+        {
+          "authorId": "1750933310",
+          "name": "Laurence S. Kaminsky"
+        },
+        {
+          "authorId": "1435591742",
+          "name": "G. Villareal"
+        },
+        {
+          "authorId": "2241780797",
+          "name": "Junzhe Xu"
+        },
+        {
+          "authorId": "1622925483",
+          "name": "M. Hamner"
+        },
+        {
+          "authorId": "4419876",
+          "name": "K. S. Haddock"
+        },
+        {
+          "authorId": "38977595",
+          "name": "Sujata Bhushan"
+        },
+        {
+          "authorId": "1423047328",
+          "name": "Pran R. Iruvanti"
+        },
+        {
+          "authorId": "5184578",
+          "name": "M. Godschalk"
+        },
+        {
+          "authorId": "2179026225",
+          "name": "Zuhair K. Ballas"
+        },
+        {
+          "authorId": "2099484828",
+          "name": "M. Buford"
+        },
+        {
+          "authorId": "2266930538",
+          "name": "Stephen M. Mastorides"
+        },
+        {
+          "authorId": "2241722950",
+          "name": "Jon Klein"
+        },
+        {
+          "authorId": "2057586941",
+          "name": "N. Ratcliffe"
+        },
+        {
+          "authorId": "2703928",
+          "name": "H. Florez"
+        },
+        {
+          "authorId": "2243023780",
+          "name": "Alan Swann"
+        },
+        {
+          "authorId": "2241730988",
+          "name": "Maureen Murdoch"
+        },
+        {
+          "authorId": "2241731216",
+          "name": "P. Sriram"
+        },
+        {
+          "authorId": "4450585",
+          "name": "S. Kinlay"
+        },
+        {
+          "authorId": "98378986",
+          "name": "S. Yeh"
+        },
+        {
+          "authorId": "102975293",
+          "name": "Ron Washburn"
+        },
+        {
+          "authorId": "6573964",
+          "name": "D. Jhala"
+        },
+        {
+          "authorId": "2179026432",
+          "name": "Samuel M. Aguayo"
+        },
+        {
+          "authorId": "2115017276",
+          "name": "David M. Cohen"
+        },
+        {
+          "authorId": "2109948407",
+          "name": "Satish C. Sharma"
+        },
+        {
+          "authorId": "2238812897",
+          "name": "John Callaghan"
+        },
+        {
+          "authorId": "3851081",
+          "name": "K. Oursler"
+        },
+        {
+          "authorId": "1717569",
+          "name": "M. Whooley"
+        },
+        {
+          "authorId": "2241736860",
+          "name": "Sunil K. Ahuja"
+        },
+        {
+          "authorId": "2243460069",
+          "name": "Amparo Gutierrez"
+        },
+        {
+          "authorId": "2243023411",
+          "name": "Ronald Schifman"
+        },
+        {
+          "authorId": "1750933277",
+          "name": "Jennifer A. Greco"
+        },
+        {
+          "authorId": "2068415810",
+          "name": "M. Rauchman"
+        },
+        {
+          "authorId": "2243023225",
+          "name": "Richard Servatius"
+        },
+        {
+          "authorId": "4396019",
+          "name": "M. Oehlert"
+        },
+        {
+          "authorId": "5206927",
+          "name": "A. Wallbom"
+        },
+        {
+          "authorId": "1750935750",
+          "name": "Ronald S. Fernando"
+        },
+        {
+          "authorId": "2156905",
+          "name": "Trefor Owen Morgan"
+        },
+        {
+          "authorId": "1435593721",
+          "name": "Todd Stapley"
+        },
+        {
+          "authorId": "2241705984",
+          "name": "Scott Sherman"
+        },
+        {
+          "authorId": "153783348",
+          "name": "Gwenevere Anderson"
+        },
+        {
+          "authorId": "14066328",
+          "name": "Elif Sonel"
+        },
+        {
+          "authorId": "2070841242",
+          "name": "Edward Boyko"
+        },
+        {
+          "authorId": "2241665546",
+          "name": "Laurence Meyer"
+        },
+        {
+          "authorId": "2118973545",
+          "name": "Samir K. Gupta"
+        },
+        {
+          "authorId": "52426526",
+          "name": "Joseph M. Fayad"
+        },
+        {
+          "authorId": "2241741946",
+          "name": "Adriana M. Hung"
+        },
+        {
+          "authorId": "2243025515",
+          "name": "Jack Lichy"
+        },
+        {
+          "authorId": "2241727971",
+          "name": "Robin A. Hurley"
+        },
+        {
+          "authorId": "49103817",
+          "name": "B. Robey"
+        },
+        {
+          "authorId": "2134474952",
+          "name": "R. Striker"
+        }
+      ]
+    },
+    {
+      "paperId": "11fed64e3b2a98db001b013adc7834efdf31645a",
+      "publicationVenue": {
+        "id": "bb036d47-4923-4bce-a638-b26b01a31bc1",
+        "name": "Jornal de Pediatria",
+        "type": "journal",
+        "alternate_names": [
+          "Journal of Pediatrics",
+          "J Pediatr",
+          "The Journal of Pediatrics",
+          "Jornal De Pediatria"
+        ],
+        "issn": "0021-7557",
+        "alternate_issns": [
+          "0022-3476"
+        ],
+        "url": "http://www.jped.com.br/",
+        "alternate_urls": [
+          "http://www.scielo.br/jped",
+          "http://www.harcourthealth.com/scripts/om.dll/serve?action=searchDB&id=pd&searchDBfor=home",
+          "https://www.jpeds.com/",
+          "https://www.journals.elsevier.com/jornal-de-pediatria/",
+          "http://www.sciencedirect.com/science/journal/00223476",
+          "http://www.mosby.com/jpeds",
+          "http://www.jpeds.com/",
+          "https://www.scielo.br/scielo.php?lng=en&pid=0021-7557&script=sci_serial"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/11fed64e3b2a98db001b013adc7834efdf31645a",
+      "title": "A Computable Phenotype Improves Cohort Ascertainment in a Pediatric Pulmonary Hypertension Registry",
+      "venue": "Jornal de Pediatria",
+      "year": 2017,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1996100",
+          "name": "A. Geva"
+        },
+        {
+          "authorId": "14929566",
+          "name": "Jessica L. Gronsbell"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "3511689",
+          "name": "S. Murphy"
+        },
+        {
+          "authorId": "32716059",
+          "name": "Jessica C. Lyons"
+        },
+        {
+          "authorId": "47221949",
+          "name": "Michelle M. Heinz"
+        },
+        {
+          "authorId": "2854629",
+          "name": "M. Natter"
+        },
+        {
+          "authorId": "4100692",
+          "name": "Nandan Patibandla"
+        },
+        {
+          "authorId": "40048361",
+          "name": "Jonathan P. Bickel"
+        },
+        {
+          "authorId": "145250194",
+          "name": "M. Mullen"
+        },
+        {
+          "authorId": "144896263",
+          "name": "K. Mandl"
+        },
+        {
+          "authorId": "4909881",
+          "name": "S. Abman"
+        },
+        {
+          "authorId": "6687564",
+          "name": "I. Adatia"
+        },
+        {
+          "authorId": "2115069",
+          "name": "E. Austin"
+        },
+        {
+          "authorId": "10003282",
+          "name": "J. Feinstein"
+        },
+        {
+          "authorId": "144947379",
+          "name": "J. Fineman"
+        },
+        {
+          "authorId": "31689675",
+          "name": "B. Hanna"
+        },
+        {
+          "authorId": "10372281",
+          "name": "R. Hopper"
+        },
+        {
+          "authorId": "145202299",
+          "name": "D. Ivy"
+        },
+        {
+          "authorId": "26675765",
+          "name": "R. Keller"
+        },
+        {
+          "authorId": "32689981",
+          "name": "U. Krishnan"
+        },
+        {
+          "authorId": "39613719",
+          "name": "T. Kulik"
+        },
+        {
+          "authorId": "145250194",
+          "name": "M. Mullen"
+        },
+        {
+          "authorId": "48270211",
+          "name": "U. Raj"
+        },
+        {
+          "authorId": "3762131",
+          "name": "E. Rosenzweig"
+        }
+      ]
+    },
+    {
+      "paperId": "227c5cffc9354c87bc72556a78e89a2de6754ec6",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/227c5cffc9354c87bc72556a78e89a2de6754ec6",
+      "title": "High-throughput Phenotyping via Denoised Normal Mixture Transformation",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48932874",
+          "name": "Sheng Yu"
+        },
+        {
+          "authorId": "32369865",
+          "name": "Yumeng Ma"
+        },
+        {
+          "authorId": "14929566",
+          "name": "Jessica L. Gronsbell"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2034658",
+          "name": "A. Ananthakrishnan"
+        },
+        {
+          "authorId": "2046904",
+          "name": "V. Gainer"
+        },
+        {
+          "authorId": "1950104",
+          "name": "S. Churchill"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        },
+        {
+          "authorId": "3511689",
+          "name": "S. Murphy"
+        },
+        {
+          "authorId": "1740538",
+          "name": "I. Kohane"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "e088bada3c4d2f05957e9d52716db10492fe274e",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e088bada3c4d2f05957e9d52716db10492fe274e",
+      "title": "Improving EHR Chart Review Efficiency via Semantic Similarity Assessment",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "1507094362",
+          "name": "A. Beam"
+        },
+        {
+          "authorId": "48818141",
+          "name": "Stephanie F Chan"
+        },
+        {
+          "authorId": "40790782",
+          "name": "J. Honerlaw"
+        },
+        {
+          "authorId": "2108350305",
+          "name": "Yichi Zhang"
+        },
+        {
+          "authorId": "2292261",
+          "name": "D. Gagnon"
+        },
+        {
+          "authorId": "50428022",
+          "name": "Kelly Cho"
+        },
+        {
+          "authorId": "145385409",
+          "name": "J. Gaziano"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "5d3de7f9508d1fdd0a4c4615a1061ce498ad18aa",
+      "publicationVenue": {
+        "id": "a5e34c25-a6ca-44d9-8489-e49c67854f37",
+        "name": "Journal of computer assisted tomography",
+        "type": "journal",
+        "alternate_names": [
+          "J Comput Assist Tomogr",
+          "Journal of Computer Assisted Tomography",
+          "J comput assist tomogr"
+        ],
+        "issn": "0363-8715",
+        "url": "http://journals.lww.com/jcat/",
+        "alternate_urls": [
+          "http://ovidsp.ovid.com/ovidweb.cgi?AN=00004728-000000000-00000&CSC=Y&D=yrovft&NEWS=n&PAGE=toc&T=JS",
+          "http://www.jcat.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5d3de7f9508d1fdd0a4c4615a1061ce498ad18aa",
+      "title": "Implementation and Performance of Automated Software for Computing Right-to-Left Ventricular Diameter Ratio From Computed Tomography Pulmonary Angiography Images",
+      "venue": "Journal of computer assisted tomography",
+      "year": 2016,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "144063845",
+          "name": "K. Kumamaru"
+        },
+        {
+          "authorId": "144097854",
+          "name": "E. George"
+        },
+        {
+          "authorId": "2523125",
+          "name": "A. Aghayev"
+        },
+        {
+          "authorId": "5392626",
+          "name": "S. Saboo"
+        },
+        {
+          "authorId": "1923317",
+          "name": "A. Khandelwal"
+        },
+        {
+          "authorId": "1402265386",
+          "name": "Sara Rodriguez-Lopez"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "1402265396",
+          "name": "Daniel Jimenez-Carretero"
+        },
+        {
+          "authorId": "1744009",
+          "name": "Ra\u00fal San Jos\u00e9 Est\u00e9par"
+        },
+        {
+          "authorId": "1401182441",
+          "name": "M. Ledesma-Carbayo"
+        },
+        {
+          "authorId": "134008106",
+          "name": "G. Gonz\u00e1lez"
+        },
+        {
+          "authorId": "1946106",
+          "name": "F. Rybicki"
+        }
+      ]
+    },
+    {
+      "paperId": "738c90acc2a080e3fd8304441be68339277ca341",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/738c90acc2a080e3fd8304441be68339277ca341",
+      "title": "Surrogate-assisted feature extraction for high-throughput phenotyping",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2016,
+      "citationCount": 69,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "48932874",
+          "name": "Sheng Yu"
+        },
+        {
+          "authorId": "5237988",
+          "name": "Abhishek Chakrabortty"
+        },
+        {
+          "authorId": "38625334",
+          "name": "K. Liao"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2034658",
+          "name": "A. Ananthakrishnan"
+        },
+        {
+          "authorId": "2046904",
+          "name": "V. Gainer"
+        },
+        {
+          "authorId": "1950104",
+          "name": "S. Churchill"
+        },
+        {
+          "authorId": "1679873",
+          "name": "Peter Szolovits"
+        },
+        {
+          "authorId": "3511689",
+          "name": "S. Murphy"
+        },
+        {
+          "authorId": "1740538",
+          "name": "I. Kohane"
+        },
+        {
+          "authorId": "2271618",
+          "name": "T. Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "7673be1624be11f1fe27a24a7132bb8bef0448b6",
+      "publicationVenue": {
+        "id": "ab9c8df7-2dd1-4a7d-8c35-ce862e0f2d63",
+        "name": "Journal of cardiovascular computed tomography",
+        "type": "journal",
+        "alternate_names": [
+          "J cardiovasc comput tomogr",
+          "J Cardiovasc Comput Tomogr",
+          "Journal of Cardiovascular Computed Tomography"
+        ],
+        "issn": "1876-861X",
+        "url": "https://www.journalofcardiovascularct.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7673be1624be11f1fe27a24a7132bb8bef0448b6",
+      "title": "CT pulmonary angiography-based scoring system to predict the prognosis of acute pulmonary embolism.",
+      "venue": "Journal of cardiovascular computed tomography",
+      "year": 2016,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "144063845",
+          "name": "K. Kumamaru"
+        },
+        {
+          "authorId": "5392626",
+          "name": "S. Saboo"
+        },
+        {
+          "authorId": "2523125",
+          "name": "A. Aghayev"
+        },
+        {
+          "authorId": "22144184",
+          "name": "Phoebe Cai"
+        },
+        {
+          "authorId": "11746925",
+          "name": "C. Quesada"
+        },
+        {
+          "authorId": "144097854",
+          "name": "E. George"
+        },
+        {
+          "authorId": "11133420",
+          "name": "Z. Hussain"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "1946106",
+          "name": "F. Rybicki"
+        }
+      ]
+    },
+    {
+      "paperId": "ca6a8f7304e7481ecae8fd369aa16b0d38a8f62d",
+      "publicationVenue": {
+        "id": "6a469aed-f8e3-456a-92e6-53237e43d3da",
+        "name": "Radiographics",
+        "type": "journal",
+        "issn": "0271-5333",
+        "url": "https://pubs.rsna.org/loi/radiographics",
+        "alternate_urls": [
+          "http://radiographics.rsnajnls.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ca6a8f7304e7481ecae8fd369aa16b0d38a8f62d",
+      "title": "Natural Language Processing Technologies in Radiology Research and Clinical Applications.",
+      "venue": "Radiographics",
+      "year": 2016,
+      "citationCount": 180,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "1879777",
+          "name": "A. Giannopoulos"
+        },
+        {
+          "authorId": "2286160395",
+          "name": "Sheng Yu"
+        },
+        {
+          "authorId": "5744845",
+          "name": "Tatiana Kelil"
+        },
+        {
+          "authorId": "1492210971",
+          "name": "Beth Ripley"
+        },
+        {
+          "authorId": "144063845",
+          "name": "K. Kumamaru"
+        },
+        {
+          "authorId": "1946106",
+          "name": "F. Rybicki"
+        },
+        {
+          "authorId": "2888121",
+          "name": "D. Mitsouras"
+        }
+      ]
+    },
+    {
+      "paperId": "379398008042762e5faec976b0619af4062a83df",
+      "publicationVenue": {
+        "id": "0d67273f-71c8-43f4-a642-9c384870ccb2",
+        "name": "Circulation",
+        "type": "journal",
+        "issn": "0009-7322",
+        "url": "http://gateway.ovid.com/ovidweb.cgi?AN=00002060-000000000-00000&D=ovft&MODE=ovid&NEWS=N&PAGE=toc&T=JS",
+        "alternate_urls": [
+          "http://circ.ahajournals.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/379398008042762e5faec976b0619af4062a83df",
+      "title": "Abstract 14658: Accuracy of 3D Printed Models of the Aortic Valve Complex for Transcatheter Aortic Valve Replacement (TAVR) Planning: Comparison to Computed Tomographic Angiography (CTA)",
+      "venue": "Circulation",
+      "year": 2015,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "4967258",
+          "name": "M. Cheezum"
+        },
+        {
+          "authorId": "1879777",
+          "name": "A. Giannopoulos"
+        },
+        {
+          "authorId": "4479175",
+          "name": "R. Blankstein"
+        },
+        {
+          "authorId": "1946106",
+          "name": "F. Rybicki"
+        },
+        {
+          "authorId": "4656020",
+          "name": "M. Steigner"
+        },
+        {
+          "authorId": "2888121",
+          "name": "D. Mitsouras"
+        }
+      ]
+    },
+    {
+      "paperId": "50399e2c78c8c240d9701af4f8ca6d7975c3b623",
+      "publicationVenue": {
+        "id": "122c0867-01c1-4ac7-b8a5-998cc5a278e2",
+        "name": "Academic Radiology",
+        "type": "journal",
+        "alternate_names": [
+          "Acad Radiol"
+        ],
+        "issn": "1076-6332",
+        "url": "http://www.academicradiology.com/",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/10766332",
+          "https://www.academicradiology.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/50399e2c78c8c240d9701af4f8ca6d7975c3b623",
+      "title": "Association Between Confidence Level of Acute Pulmonary Embolism Diagnosis on CTPA images and Clinical Outcomes.",
+      "venue": "Academic Radiology",
+      "year": 2015,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3082880",
+          "name": "Arash Bedayat"
+        },
+        {
+          "authorId": "15583874",
+          "name": "Rani Sewatkar"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "144097854",
+          "name": "E. George"
+        },
+        {
+          "authorId": "10122925",
+          "name": "A. Imanzadeh"
+        },
+        {
+          "authorId": "11133420",
+          "name": "Z. Hussain"
+        },
+        {
+          "authorId": "38557729",
+          "name": "R. Dunne"
+        },
+        {
+          "authorId": "2617240",
+          "name": "A. Hunsaker"
+        },
+        {
+          "authorId": "1946106",
+          "name": "F. Rybicki"
+        },
+        {
+          "authorId": "144063845",
+          "name": "K. Kumamaru"
+        }
+      ]
+    },
+    {
+      "paperId": "5e19a6cf27938f2f12e16b7a143617afdc68fe37",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/5e19a6cf27938f2f12e16b7a143617afdc68fe37",
+      "title": "Implementation and performance of automated software to compute the RV/LV diameter ratio from CT pulmonary angiography images",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "144063845",
+          "name": "K. Kumamaru"
+        },
+        {
+          "authorId": "144097854",
+          "name": "E. George"
+        },
+        {
+          "authorId": "2523125",
+          "name": "A. Aghayev"
+        },
+        {
+          "authorId": "5392626",
+          "name": "S. Saboo"
+        },
+        {
+          "authorId": "1923317",
+          "name": "A. Khandelwal"
+        },
+        {
+          "authorId": "101579772",
+          "name": "Sara Rodr\u00edguez L\u00f3pez"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "101523237",
+          "name": "D. Carretero"
+        },
+        {
+          "authorId": "1744009",
+          "name": "Ra\u00fal San Jos\u00e9 Est\u00e9par"
+        },
+        {
+          "authorId": "41211979",
+          "name": "M. Carbayo"
+        },
+        {
+          "authorId": "134008106",
+          "name": "G. Gonz\u00e1lez"
+        },
+        {
+          "authorId": "1946106",
+          "name": "F. Rybicki"
+        }
+      ]
+    },
+    {
+      "paperId": "66a779d348952f12a60372d225258149a7316266",
+      "publicationVenue": {
+        "id": "6a469aed-f8e3-456a-92e6-53237e43d3da",
+        "name": "Radiographics",
+        "type": "journal",
+        "issn": "0271-5333",
+        "url": "https://pubs.rsna.org/loi/radiographics",
+        "alternate_urls": [
+          "http://radiographics.rsnajnls.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/66a779d348952f12a60372d225258149a7316266",
+      "title": "Medical 3D Printing for the Radiologist.",
+      "venue": "Radiographics",
+      "year": 2015,
+      "citationCount": 507,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "21297586",
+          "name": "D. Mitsouras"
+        },
+        {
+          "authorId": "2266627",
+          "name": "P. Liacouras"
+        },
+        {
+          "authorId": "10122925",
+          "name": "A. Imanzadeh"
+        },
+        {
+          "authorId": "1879777",
+          "name": "A. Giannopoulos"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "144063845",
+          "name": "K. Kumamaru"
+        },
+        {
+          "authorId": "144097854",
+          "name": "E. George"
+        },
+        {
+          "authorId": "2914554",
+          "name": "N. Wake"
+        },
+        {
+          "authorId": "5203207",
+          "name": "E. Caterson"
+        },
+        {
+          "authorId": "3508354",
+          "name": "B. Pomahac"
+        },
+        {
+          "authorId": "2166683651",
+          "name": "Vincent B Ho"
+        },
+        {
+          "authorId": "2650952",
+          "name": "G. Grant"
+        },
+        {
+          "authorId": "1946106",
+          "name": "F. Rybicki"
+        }
+      ]
+    },
+    {
+      "paperId": "71bc3e301717ce0d79043f57af775632764df754",
+      "publicationVenue": {
+        "id": "937b66c0-f274-4b1a-b74d-4f1de4faa19d",
+        "name": "3D Printing in Medicine",
+        "alternate_names": [
+          "3D Print Med"
+        ],
+        "issn": "2365-6271",
+        "url": "https://threedmedprint.biomedcentral.com/",
+        "alternate_urls": [
+          "http://www.threedmedprint.springeropen.com/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/71bc3e301717ce0d79043f57af775632764df754",
+      "title": "The residual STL volume as a metric to evaluate accuracy and reproducibility of anatomic models for 3D printing: application in the validation of 3D-printable models of maxillofacial bone from reduced radiation dose CT images",
+      "venue": "3D Printing in Medicine",
+      "year": 2015,
+      "citationCount": 44,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Materials Science"
+      ],
+      "authors": [
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "1946106",
+          "name": "F. Rybicki"
+        },
+        {
+          "authorId": "1879777",
+          "name": "A. Giannopoulos"
+        },
+        {
+          "authorId": "36665709",
+          "name": "Kurt Schultz"
+        },
+        {
+          "authorId": "144063845",
+          "name": "K. Kumamaru"
+        },
+        {
+          "authorId": "2266627",
+          "name": "P. Liacouras"
+        },
+        {
+          "authorId": "7026409",
+          "name": "S. Demehri"
+        },
+        {
+          "authorId": "113425964",
+          "name": "K. M. Shu Small"
+        },
+        {
+          "authorId": "21297586",
+          "name": "D. Mitsouras"
+        }
+      ]
+    },
+    {
+      "paperId": "f0ef53cf6813de1032de03c020c5dab6eadd6e81",
+      "publicationVenue": {
+        "id": "bf05d02b-c9f2-49df-98f0-c08d27c50861",
+        "name": "The International Journal of Cardiovascular Imaging",
+        "type": "journal",
+        "alternate_names": [
+          "International Journal of Cardiovascular Imaging",
+          "Int J Cardiovasc Imaging"
+        ],
+        "issn": "1569-5794",
+        "alternate_issns": [
+          "1875-8312"
+        ],
+        "url": "https://www.springer.com/medicine/cardiology/journal/10554"
+      },
+      "url": "https://www.semanticscholar.org/paper/f0ef53cf6813de1032de03c020c5dab6eadd6e81",
+      "title": "Accuracy and reproducibility of automated, standardized coronary transluminal attenuation gradient measurements",
+      "venue": "The International Journal of Cardiovascular Imaging",
+      "year": 2014,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2629932",
+          "name": "Y. Chatzizisis"
+        },
+        {
+          "authorId": "144097854",
+          "name": "E. George"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "7327508",
+          "name": "U. Fulwadhva"
+        },
+        {
+          "authorId": "144063845",
+          "name": "K. Kumamaru"
+        },
+        {
+          "authorId": "36665709",
+          "name": "Kurt Schultz"
+        },
+        {
+          "authorId": "2848581",
+          "name": "Y. Fujisawa"
+        },
+        {
+          "authorId": "5869047",
+          "name": "C. Rassi"
+        },
+        {
+          "authorId": "4656020",
+          "name": "M. Steigner"
+        },
+        {
+          "authorId": "6072499",
+          "name": "R. Mather"
+        },
+        {
+          "authorId": "4479175",
+          "name": "R. Blankstein"
+        },
+        {
+          "authorId": "1946106",
+          "name": "F. Rybicki"
+        },
+        {
+          "authorId": "2888121",
+          "name": "D. Mitsouras"
+        }
+      ]
+    },
+    {
+      "paperId": "8476e4c2d9880ce2bad0935a875fcdcecc507251",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8476e4c2d9880ce2bad0935a875fcdcecc507251",
+      "title": "NILE: Fast Natural Language Processing for Electronic Health Records",
+      "venue": "",
+      "year": 2013,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48932874",
+          "name": "Sheng Yu"
+        },
+        {
+          "authorId": "34387463",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2114620790",
+          "name": "Tianxi Cai"
+        }
+      ]
+    }
+  ]
+}

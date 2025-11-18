@@ -1,0 +1,4053 @@
+{
+  "authorId": "1702066",
+  "name": "Kenneth Heafield",
+  "affiliations": [],
+  "paperCount": 96,
+  "citationCount": 7652,
+  "hIndex": 29,
+  "papers": [
+    {
+      "paperId": "1d67833fabcc68fc26dfbbf1ecd10cc6be8ba084",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1d67833fabcc68fc26dfbbf1ecd10cc6be8ba084",
+      "title": "Document-Level Machine Translation with Large-Scale Public Parallel Corpora",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2024,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "66380217",
+          "name": "Proyag Pal"
+        },
+        {
+          "authorId": "2282467879",
+          "name": "Alexandra Birch"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "b7080aa83772eadada092f8e635e6957868b5e55",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b7080aa83772eadada092f8e635e6957868b5e55",
+      "title": "Code-Switched Language Identification is Harder Than You Think",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1999182992",
+          "name": "Laurie Burchell"
+        },
+        {
+          "authorId": "2282467879",
+          "name": "Alexandra Birch"
+        },
+        {
+          "authorId": "2282472319",
+          "name": "Robert P. Thompson"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "1e238947f125e5ac880ab801641e533700998ae1",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1e238947f125e5ac880ab801641e533700998ae1",
+      "title": "An Open Dataset and Model for Language Identification",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1999182992",
+          "name": "Laurie Burchell"
+        },
+        {
+          "authorId": "2539211",
+          "name": "Alexandra Birch"
+        },
+        {
+          "authorId": "3444222",
+          "name": "Nikolay Bogoychev"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "8fa6bbd5e5ccac85e00387d05790a8a1300001e8",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8fa6bbd5e5ccac85e00387d05790a8a1300001e8",
+      "title": "Cheating to Identify Hard Problems for Neural Machine Translation",
+      "venue": "Findings",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "66380217",
+          "name": "Proyag Pal"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "bf4810017b54e50354cccffd8966121c7166cb17",
+      "publicationVenue": {
+        "id": "b626864f-4ee8-4c01-a388-2eb75da466d0",
+        "name": "European Association for Machine Translation Conferences/Workshops",
+        "type": "conference",
+        "alternate_names": [
+          "EAMT",
+          "Eur Assoc Mach Transl Conf"
+        ],
+        "url": "http://www.eamt.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/bf4810017b54e50354cccffd8966121c7166cb17",
+      "title": "Iterative Translation Refinement with Large Language Models",
+      "venue": "European Association for Machine Translation Conferences/Workshops",
+      "year": 2023,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143616669",
+          "name": "Pinzhen Chen"
+        },
+        {
+          "authorId": "2268575667",
+          "name": "Zhicheng Guo"
+        },
+        {
+          "authorId": "2259100",
+          "name": "B. Haddow"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "cd7c9fbb2acab241b0b4c7837877a19335c7284c",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cd7c9fbb2acab241b0b4c7837877a19335c7284c",
+      "title": "Monolingual or Multilingual Instruction Tuning: Which Makes a Better Alpaca",
+      "venue": "Findings",
+      "year": 2023,
+      "citationCount": 41,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143616669",
+          "name": "Pinzhen Chen"
+        },
+        {
+          "authorId": "51394448",
+          "name": "Shaoxiong Ji"
+        },
+        {
+          "authorId": "3444222",
+          "name": "Nikolay Bogoychev"
+        },
+        {
+          "authorId": "2259100",
+          "name": "B. Haddow"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "0c02989c9827ff47b2686aa354c23bef2d6dbdd9",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0c02989c9827ff47b2686aa354c23bef2d6dbdd9",
+      "title": "Constrained Regeneration for Cross-Lingual Query-Focused Extractive Summarization",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1402934614",
+          "name": "Elsbeth Turcan"
+        },
+        {
+          "authorId": "144371425",
+          "name": "David Wan"
+        },
+        {
+          "authorId": "8759332",
+          "name": "Faisal Ladhak"
+        },
+        {
+          "authorId": "1832372",
+          "name": "P. Galusc\u00e1kov\u00e1"
+        },
+        {
+          "authorId": "4146486",
+          "name": "Sukanta Sen"
+        },
+        {
+          "authorId": "1390054941",
+          "name": "Svetlana Tchistiakova"
+        },
+        {
+          "authorId": "47210642",
+          "name": "Weijia Xu"
+        },
+        {
+          "authorId": "2954727",
+          "name": "Marine Carpuat"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1737250",
+          "name": "Douglas W. Oard"
+        },
+        {
+          "authorId": "145590324",
+          "name": "K. McKeown"
+        }
+      ]
+    },
+    {
+      "paperId": "37fafebb22f18fca2bcd4c54961b9d31073b3709",
+      "publicationVenue": {
+        "id": "594ac62b-8ac1-4924-92ae-515b645e6fd1",
+        "name": "Workshop on Deep Learning Approaches for Low-Resource Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "DeepLo",
+          "Workshop Deep Learn Approach Low-resource Nat Lang Process"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/37fafebb22f18fca2bcd4c54961b9d31073b3709",
+      "title": "Exploring diversity in back translation for low-resource machine translation",
+      "venue": "Workshop on Deep Learning Approaches for Low-Resource Natural Language Processing",
+      "year": 2022,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1999182992",
+          "name": "Laurie Burchell"
+        },
+        {
+          "authorId": "2539211",
+          "name": "Alexandra Birch"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "411720c88aec1350bed956d542d496e465b68b94",
+      "publicationVenue": {
+        "id": "9aacb914-3edf-4e02-b8fe-5abf21c4d2ba",
+        "name": "Conference on Machine Translation",
+        "type": "conference",
+        "alternate_names": [
+          "WMT",
+          "Conf Mach Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/411720c88aec1350bed956d542d496e465b68b94",
+      "title": "Findings of the WMT 2022 Shared Task on Efficient Translation",
+      "venue": "Conference on Machine Translation",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "2117829435",
+          "name": "Biao Zhang"
+        },
+        {
+          "authorId": "145154957",
+          "name": "Graeme Nail"
+        },
+        {
+          "authorId": "2203788921",
+          "name": "J. van der Linde"
+        },
+        {
+          "authorId": "3444222",
+          "name": "Nikolay Bogoychev"
+        }
+      ]
+    },
+    {
+      "paperId": "52435f3f910ff8a129e317be8546b47f8c673955",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/52435f3f910ff8a129e317be8546b47f8c673955",
+      "title": "The EuroPat Corpus: A Parallel Corpus of European Patent Data",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2022,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "9882120",
+          "name": "Elaine Farrow"
+        },
+        {
+          "authorId": "35721567",
+          "name": "J. V. D. Linde"
+        },
+        {
+          "authorId": "1405306535",
+          "name": "Gema Ram\u00edrez-S\u00e1nchez"
+        },
+        {
+          "authorId": "27973140",
+          "name": "Dion Wiggins"
+        }
+      ]
+    },
+    {
+      "paperId": "d4bfb688a5a4644a1d187f345edaa27cc5710f6c",
+      "publicationVenue": {
+        "id": "9aacb914-3edf-4e02-b8fe-5abf21c4d2ba",
+        "name": "Conference on Machine Translation",
+        "type": "conference",
+        "alternate_names": [
+          "WMT",
+          "Conf Mach Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/d4bfb688a5a4644a1d187f345edaa27cc5710f6c",
+      "title": "Edinburgh\u2019s Submission to the WMT 2022 Efficiency Task",
+      "venue": "Conference on Machine Translation",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3444222",
+          "name": "Nikolay Bogoychev"
+        },
+        {
+          "authorId": "41129651",
+          "name": "Maximiliana Behnke"
+        },
+        {
+          "authorId": "2203788921",
+          "name": "J. van der Linde"
+        },
+        {
+          "authorId": "145154957",
+          "name": "Graeme Nail"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "2117829435",
+          "name": "Biao Zhang"
+        },
+        {
+          "authorId": "31922245",
+          "name": "Sidharth Kashyap"
+        }
+      ]
+    },
+    {
+      "paperId": "d69ba99d4957d4959c86ca1a126d7c04e939348b",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/d69ba99d4957d4959c86ca1a126d7c04e939348b",
+      "title": "Cheat Codes to Quantify Missing Source Information in Neural Machine Translation",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "66380217",
+          "name": "Proyag Pal"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "e19b54ad4c1c8af045069e9cac350ffc2ce60e1a",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/e19b54ad4c1c8af045069e9cac350ffc2ce60e1a",
+      "title": "No Language Left Behind: Scaling Human-Centered Machine Translation",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 1111,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2175650427",
+          "name": "Nllb team"
+        },
+        {
+          "authorId": "1398996347",
+          "name": "M. Costa-juss\u00e0"
+        },
+        {
+          "authorId": "2059363961",
+          "name": "James Cross"
+        },
+        {
+          "authorId": "2166310112",
+          "name": "Onur cCelebi"
+        },
+        {
+          "authorId": "46183659",
+          "name": "Maha Elbayad"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "47926975",
+          "name": "Kevin Heffernan"
+        },
+        {
+          "authorId": "2175649909",
+          "name": "Elahe Kalbassi"
+        },
+        {
+          "authorId": "82469889",
+          "name": "Janice Lam"
+        },
+        {
+          "authorId": "2082021589",
+          "name": "Daniel Licht"
+        },
+        {
+          "authorId": "40148380",
+          "name": "Jean Maillard"
+        },
+        {
+          "authorId": "2091912142",
+          "name": "Anna Sun"
+        },
+        {
+          "authorId": "2175975228",
+          "name": "Skyler Wang"
+        },
+        {
+          "authorId": "2293203",
+          "name": "Guillaume Wenzek"
+        },
+        {
+          "authorId": "118325632",
+          "name": "Alison Youngblood"
+        },
+        {
+          "authorId": "2175649907",
+          "name": "Bapi Akula"
+        },
+        {
+          "authorId": "2934336",
+          "name": "Lo\u00efc Barrault"
+        },
+        {
+          "authorId": "2175804876",
+          "name": "Gabriel Mejia Gonzalez"
+        },
+        {
+          "authorId": "2175651102",
+          "name": "Prangthip Hansanti"
+        },
+        {
+          "authorId": "2055094870",
+          "name": "John Hoffman"
+        },
+        {
+          "authorId": "2175650054",
+          "name": "Semarley Jarrett"
+        },
+        {
+          "authorId": "1914544232",
+          "name": "Kaushik Ram Sadagopan"
+        },
+        {
+          "authorId": "2175650209",
+          "name": "Dirk Rowe"
+        },
+        {
+          "authorId": "3416737",
+          "name": "Shannon L. Spruit"
+        },
+        {
+          "authorId": "33806547",
+          "name": "C. Tran"
+        },
+        {
+          "authorId": "5657660",
+          "name": "Pierre Yves Andrews"
+        },
+        {
+          "authorId": "1769060",
+          "name": "Necip Fazil Ayan"
+        },
+        {
+          "authorId": "2116473",
+          "name": "Shruti Bhosale"
+        },
+        {
+          "authorId": "2068070",
+          "name": "Sergey Edunov"
+        },
+        {
+          "authorId": "144270981",
+          "name": "Angela Fan"
+        },
+        {
+          "authorId": "2107063269",
+          "name": "Cynthia Gao"
+        },
+        {
+          "authorId": "28554843",
+          "name": "Vedanuj Goswami"
+        },
+        {
+          "authorId": "2061585840",
+          "name": "Francisco Guzm'an"
+        },
+        {
+          "authorId": "1755162",
+          "name": "Philipp Koehn"
+        },
+        {
+          "authorId": "2175651049",
+          "name": "Alexandre Mourachko"
+        },
+        {
+          "authorId": "146424711",
+          "name": "C. Ropers"
+        },
+        {
+          "authorId": "2475227",
+          "name": "Safiyyah Saleem"
+        },
+        {
+          "authorId": "144518416",
+          "name": "Holger Schwenk"
+        },
+        {
+          "authorId": "2155451431",
+          "name": "Jeff Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "fd7e88a2313e176315d99fc299277e752d7703b7",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/fd7e88a2313e176315d99fc299277e752d7703b7",
+      "title": "Efficient Methods for Natural Language Processing: A Survey",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 101,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145188499",
+          "name": "Marcos Vin\u00edcius Treviso"
+        },
+        {
+          "authorId": "51129266",
+          "name": "Tianchu Ji"
+        },
+        {
+          "authorId": "2108605329",
+          "name": "Ji-Ung Lee"
+        },
+        {
+          "authorId": "51436004",
+          "name": "Betty van Aken"
+        },
+        {
+          "authorId": "31961604",
+          "name": "Qingqing Cao"
+        },
+        {
+          "authorId": "3451493",
+          "name": "Manuel R. Ciosici"
+        },
+        {
+          "authorId": "2141516697",
+          "name": "Michael Hassid"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "50237813",
+          "name": "Sara Hooker"
+        },
+        {
+          "authorId": "144869806",
+          "name": "Pedro Henrique Martins"
+        },
+        {
+          "authorId": "1400227478",
+          "name": "Andr\u00e9 F. T. Martins"
+        },
+        {
+          "authorId": "2719024",
+          "name": "Peter Milder"
+        },
+        {
+          "authorId": "2402716",
+          "name": "Colin Raffel"
+        },
+        {
+          "authorId": "145795026",
+          "name": "Edwin Simpson"
+        },
+        {
+          "authorId": "1766595",
+          "name": "N. Slonim"
+        },
+        {
+          "authorId": "35217367",
+          "name": "Niranjan Balasubramanian"
+        },
+        {
+          "authorId": "113320522",
+          "name": "Leon Derczynski"
+        },
+        {
+          "authorId": "4671928",
+          "name": "Roy Schwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "4108ddb057f7e1b1afb24b7b7e240a001ef8d42e",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/4108ddb057f7e1b1afb24b7b7e240a001ef8d42e",
+      "title": "TranslateLocally: Blazing-fast translation running on the local CPU",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3444222",
+          "name": "Nikolay Bogoychev"
+        },
+        {
+          "authorId": "35721567",
+          "name": "J. V. D. Linde"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "586b329bce5700199a7136977a030e8aab173bef",
+      "publicationVenue": {
+        "id": "9aacb914-3edf-4e02-b8fe-5abf21c4d2ba",
+        "name": "Conference on Machine Translation",
+        "type": "conference",
+        "alternate_names": [
+          "WMT",
+          "Conf Mach Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/586b329bce5700199a7136977a030e8aab173bef",
+      "title": "Efficient Machine Translation with Model Pruning and Quantization",
+      "venue": "Conference on Machine Translation",
+      "year": 2021,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "41129651",
+          "name": "Maximiliana Behnke"
+        },
+        {
+          "authorId": "3444222",
+          "name": "Nikolay Bogoychev"
+        },
+        {
+          "authorId": "8129718",
+          "name": "Alham Fikri Aji"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "145154957",
+          "name": "Graeme Nail"
+        },
+        {
+          "authorId": "2041710734",
+          "name": "Qianqian Zhu"
+        },
+        {
+          "authorId": "1390054941",
+          "name": "Svetlana Tchistiakova"
+        },
+        {
+          "authorId": "35721567",
+          "name": "J. V. D. Linde"
+        },
+        {
+          "authorId": "143616669",
+          "name": "Pinzhen Chen"
+        },
+        {
+          "authorId": "31922245",
+          "name": "Sidharth Kashyap"
+        },
+        {
+          "authorId": "3272639",
+          "name": "Roman Grundkiewicz"
+        }
+      ]
+    },
+    {
+      "paperId": "63052e581f1b272eefdbf109a230c7ec87e1f79a",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/63052e581f1b272eefdbf109a230c7ec87e1f79a",
+      "title": "Gender bias amplification during Speed-Quality optimization in Neural Machine Translation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 40,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2106411510",
+          "name": "Adithya Renduchintala"
+        },
+        {
+          "authorId": "2036504384",
+          "name": "Denise D\u00edaz"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "2116235416",
+          "name": "Xian Li"
+        },
+        {
+          "authorId": "1700007",
+          "name": "Mona T. Diab"
+        }
+      ]
+    },
+    {
+      "paperId": "6df325b6229ccabf656f31cc8bf268e33d0478b2",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6df325b6229ccabf656f31cc8bf268e33d0478b2",
+      "title": "Direct simultaneous speech to speech translation",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "40765198",
+          "name": "Xutai Ma"
+        },
+        {
+          "authorId": "2142518358",
+          "name": "Hongyu Gong"
+        },
+        {
+          "authorId": "2146031776",
+          "name": "Danni Liu"
+        },
+        {
+          "authorId": "145732777",
+          "name": "Ann Lee"
+        },
+        {
+          "authorId": "2119309046",
+          "name": "Yun Tang"
+        },
+        {
+          "authorId": "2158170998",
+          "name": "Peng-Jen Chen"
+        },
+        {
+          "authorId": "2957796",
+          "name": "Wei-Ning Hsu"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "152124726",
+          "name": "P. Koehn"
+        },
+        {
+          "authorId": "145503806",
+          "name": "J. Pino"
+        }
+      ]
+    },
+    {
+      "paperId": "8a5975c1d2ed3018fe847bdff12766255eb9bd2d",
+      "publicationVenue": {
+        "id": "9aacb914-3edf-4e02-b8fe-5abf21c4d2ba",
+        "name": "Conference on Machine Translation",
+        "type": "conference",
+        "alternate_names": [
+          "WMT",
+          "Conf Mach Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/8a5975c1d2ed3018fe847bdff12766255eb9bd2d",
+      "title": "Pruning Neural Machine Translation for Speed Using Group Lasso",
+      "venue": "Conference on Machine Translation",
+      "year": 2021,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "41129651",
+          "name": "Maximiliana Behnke"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "a7cd1b1867a40b1f3e8b2a6882017da4e7c0fe95",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a7cd1b1867a40b1f3e8b2a6882017da4e7c0fe95",
+      "title": "Machine translation in healthcare",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2259100",
+          "name": "B. Haddow"
+        },
+        {
+          "authorId": "2539211",
+          "name": "Alexandra Birch"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "e561fc202803ea687d3b9fac110ce4c57525ccb4",
+      "publicationVenue": {
+        "id": "9aacb914-3edf-4e02-b8fe-5abf21c4d2ba",
+        "name": "Conference on Machine Translation",
+        "type": "conference",
+        "alternate_names": [
+          "WMT",
+          "Conf Mach Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e561fc202803ea687d3b9fac110ce4c57525ccb4",
+      "title": "Findings of the WMT 2021 Shared Task on Efficient Translation",
+      "venue": "Conference on Machine Translation",
+      "year": 2021,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "2041710734",
+          "name": "Qianqian Zhu"
+        },
+        {
+          "authorId": "3272639",
+          "name": "Roman Grundkiewicz"
+        }
+      ]
+    },
+    {
+      "paperId": "ec4490055de38e9fba38f6ac9ef50d9205df5067",
+      "publicationVenue": {
+        "id": "9aacb914-3edf-4e02-b8fe-5abf21c4d2ba",
+        "name": "Conference on Machine Translation",
+        "type": "conference",
+        "alternate_names": [
+          "WMT",
+          "Conf Mach Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ec4490055de38e9fba38f6ac9ef50d9205df5067",
+      "title": "Findings of the 2021 Conference on Machine Translation (WMT21)",
+      "venue": "Conference on Machine Translation",
+      "year": 2021,
+      "citationCount": 201,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2813801",
+          "name": "Farhad Akhbardeh"
+        },
+        {
+          "authorId": "7572177",
+          "name": "Arkady Arkhangorodsky"
+        },
+        {
+          "authorId": "1417317763",
+          "name": "Magdalena Biesialska"
+        },
+        {
+          "authorId": "143832874",
+          "name": "Ondrej Bojar"
+        },
+        {
+          "authorId": "3292652",
+          "name": "Rajen Chatterjee"
+        },
+        {
+          "authorId": "113810201",
+          "name": "Vishrav Chaudhary"
+        },
+        {
+          "authorId": "1398996347",
+          "name": "M. Costa-juss\u00e0"
+        },
+        {
+          "authorId": "1402921001",
+          "name": "C. Espa\u00f1a-Bonet"
+        },
+        {
+          "authorId": "144270981",
+          "name": "Angela Fan"
+        },
+        {
+          "authorId": "3359291",
+          "name": "C. Federmann"
+        },
+        {
+          "authorId": "35307070",
+          "name": "Markus Freitag"
+        },
+        {
+          "authorId": "2000709",
+          "name": "Yvette Graham"
+        },
+        {
+          "authorId": "3272639",
+          "name": "Roman Grundkiewicz"
+        },
+        {
+          "authorId": "2259100",
+          "name": "B. Haddow"
+        },
+        {
+          "authorId": "2121374167",
+          "name": "Leonie Harter"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "2300795",
+          "name": "Christopher Homan"
+        },
+        {
+          "authorId": "1839533",
+          "name": "Matthias Huck"
+        },
+        {
+          "authorId": "1443832286",
+          "name": "Kwabena Amponsah-Kaakyire"
+        },
+        {
+          "authorId": "11348687",
+          "name": "Jungo Kasai"
+        },
+        {
+          "authorId": "1783281",
+          "name": "Daniel Khashabi"
+        },
+        {
+          "authorId": "152971314",
+          "name": "Kevin Knight"
+        },
+        {
+          "authorId": "3452584",
+          "name": "Tom Kocmi"
+        },
+        {
+          "authorId": "1755162",
+          "name": "Philipp Koehn"
+        },
+        {
+          "authorId": "35219984",
+          "name": "Nicholas Lourie"
+        },
+        {
+          "authorId": "1696402",
+          "name": "Christof Monz"
+        },
+        {
+          "authorId": "2731589",
+          "name": "Makoto Morishita"
+        },
+        {
+          "authorId": "2364073",
+          "name": "M. Nagata"
+        },
+        {
+          "authorId": "145773546",
+          "name": "Ajay Nagesh"
+        },
+        {
+          "authorId": "40948140",
+          "name": "Toshiaki Nakazawa"
+        },
+        {
+          "authorId": "2138026",
+          "name": "Matteo Negri"
+        },
+        {
+          "authorId": "145244784",
+          "name": "Santanu Pal"
+        },
+        {
+          "authorId": "1602867250",
+          "name": "A. Tapo"
+        },
+        {
+          "authorId": "145862931",
+          "name": "Marco Turchi"
+        },
+        {
+          "authorId": "3367476",
+          "name": "V. Vydrin"
+        },
+        {
+          "authorId": "145130358",
+          "name": "Marcos Zampieri"
+        }
+      ]
+    },
+    {
+      "paperId": "f3aaec8d24e07d6370b78aefc757e5d5fe642f60",
+      "publicationVenue": {
+        "id": "9aacb914-3edf-4e02-b8fe-5abf21c4d2ba",
+        "name": "Conference on Machine Translation",
+        "type": "conference",
+        "alternate_names": [
+          "WMT",
+          "Conf Mach Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f3aaec8d24e07d6370b78aefc757e5d5fe642f60",
+      "title": "The University of Edinburgh\u2019s English-German and English-Hausa Submissions to the WMT21 News Translation Task",
+      "venue": "Conference on Machine Translation",
+      "year": 2021,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143616669",
+          "name": "Pinzhen Chen"
+        },
+        {
+          "authorId": "2123124779",
+          "name": "Jindrich Helcl"
+        },
+        {
+          "authorId": "50655248",
+          "name": "Ulrich Germann"
+        },
+        {
+          "authorId": "1999182992",
+          "name": "Laurie Burchell"
+        },
+        {
+          "authorId": "2140563545",
+          "name": "Nicolay Bogoychev"
+        },
+        {
+          "authorId": "3282877",
+          "name": "Antonio Valerio Miceli Barone"
+        },
+        {
+          "authorId": "2123124763",
+          "name": "Jonas Waldendorf"
+        },
+        {
+          "authorId": "2539211",
+          "name": "Alexandra Birch"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "0a4c6127c6cd2423c6d1776d16207635cbcbd9a3",
+      "publicationVenue": {
+        "id": "9aacb914-3edf-4e02-b8fe-5abf21c4d2ba",
+        "name": "Conference on Machine Translation",
+        "type": "conference",
+        "alternate_names": [
+          "WMT",
+          "Conf Mach Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0a4c6127c6cd2423c6d1776d16207635cbcbd9a3",
+      "title": "Speed-optimized, Compact Student Models that Distill Knowledge from a Larger Teacher Model: the UEDIN-CUNI Submission to the WMT 2020 News Translation Task",
+      "venue": "Conference on Machine Translation",
+      "year": 2020,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50655248",
+          "name": "Ulrich Germann"
+        },
+        {
+          "authorId": "3272639",
+          "name": "Roman Grundkiewicz"
+        },
+        {
+          "authorId": "3209310",
+          "name": "M. Popel"
+        },
+        {
+          "authorId": "1468923025",
+          "name": "Radina Dobreva"
+        },
+        {
+          "authorId": "3444222",
+          "name": "Nikolay Bogoychev"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "0c744c55d85654a4181f92e93dd63ec1066a52d6",
+      "publicationVenue": {
+        "id": "ec854e61-2eee-49b1-a2f2-b51ea8231eb0",
+        "name": "Workshop on Neural Generation and Translation",
+        "type": "conference",
+        "alternate_names": [
+          "NGT",
+          "Workshop Neural Gener Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0c744c55d85654a4181f92e93dd63ec1066a52d6",
+      "title": "Findings of the Fourth Workshop on Neural Generation and Translation",
+      "venue": "Workshop on Neural Generation and Translation",
+      "year": 2020,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "2285150478",
+          "name": "Hiroaki Hayashi"
+        },
+        {
+          "authorId": "143800179",
+          "name": "Yusuke Oda"
+        },
+        {
+          "authorId": "2285208368",
+          "name": "Ioannis Konstas"
+        },
+        {
+          "authorId": "2285211991",
+          "name": "Andrew M. Finch"
+        },
+        {
+          "authorId": "2285194103",
+          "name": "Graham Neubig"
+        },
+        {
+          "authorId": "2285293277",
+          "name": "Xian Li"
+        },
+        {
+          "authorId": "2282467879",
+          "name": "Alexandra Birch"
+        }
+      ]
+    },
+    {
+      "paperId": "0e05137e234e64bb6525b3372791e03be845c4c4",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/0e05137e234e64bb6525b3372791e03be845c4c4",
+      "title": "Fully Synthetic Data Improves Neural Machine Translation with Knowledge Distillation",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8129718",
+          "name": "Alham Fikri Aji"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "14fc61fdc8f2205ff96ff6dc9c4c881e4063db8c",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/14fc61fdc8f2205ff96ff6dc9c4c881e4063db8c",
+      "title": "ParaCrawl: Web-Scale Acquisition of Parallel Corpora",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 244,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1410107692",
+          "name": "Marta Ba\u00f1\u00f3n"
+        },
+        {
+          "authorId": "143616669",
+          "name": "Pinzhen Chen"
+        },
+        {
+          "authorId": "2259100",
+          "name": "B. Haddow"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "143620134",
+          "name": "Hieu D. Hoang"
+        },
+        {
+          "authorId": "1755370253",
+          "name": "Miquel Espl\u00e0-GomisF"
+        },
+        {
+          "authorId": "1754834785",
+          "name": "Mikel ForcadaF"
+        },
+        {
+          "authorId": "35132887",
+          "name": "Amir Kamran"
+        },
+        {
+          "authorId": "1388337832",
+          "name": "Faheem Kirefu"
+        },
+        {
+          "authorId": "49604675",
+          "name": "Philipp Koehn"
+        },
+        {
+          "authorId": "1403862873",
+          "name": "Sergio Ortiz-Rojas"
+        },
+        {
+          "authorId": "1754834841",
+          "name": "Leopoldo PlaF"
+        },
+        {
+          "authorId": "1405306535",
+          "name": "Gema Ram\u00edrez-S\u00e1nchez"
+        },
+        {
+          "authorId": "1755380287",
+          "name": "Elsa Sarr\u0131\u0301asF"
+        },
+        {
+          "authorId": "1411425788",
+          "name": "Marek St\u0159elec"
+        },
+        {
+          "authorId": "137174569",
+          "name": "Brian Thompson"
+        },
+        {
+          "authorId": "145770915",
+          "name": "W. Waites"
+        },
+        {
+          "authorId": "1755307026",
+          "name": "Dion WigginsN"
+        },
+        {
+          "authorId": "1754834963",
+          "name": "Jaume Zaragoza"
+        }
+      ]
+    },
+    {
+      "paperId": "26cf02e5e8b0a6d5feea952efddcbb9040bf9939",
+      "publicationVenue": {
+        "id": "cd648e4a-f86b-4c14-8c82-0fc488d998ff",
+        "name": "Conference of the Association for Machine Translation in the Americas",
+        "type": "conference",
+        "alternate_names": [
+          "AMTA",
+          "Conf Assoc Mach Transl Am"
+        ],
+        "url": "http://www.amtaweb.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/26cf02e5e8b0a6d5feea952efddcbb9040bf9939",
+      "title": "The Sockeye 2 Neural Machine Translation Toolkit at AMTA 2020",
+      "venue": "Conference of the Association for Machine Translation in the Americas",
+      "year": 2020,
+      "citationCount": 52,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2120874",
+          "name": "Tobias Domhan"
+        },
+        {
+          "authorId": "2157958",
+          "name": "Michael J. Denkowski"
+        },
+        {
+          "authorId": "145088328",
+          "name": "David Vilar"
+        },
+        {
+          "authorId": "145523874",
+          "name": "Xing Niu"
+        },
+        {
+          "authorId": "2521764",
+          "name": "F. Hieber"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "5c67bbbf8d5980827205a89946c88dd2cd0aed2a",
+      "publicationVenue": {
+        "id": "63eb9f8a-e9a8-43fb-a0f1-bdf78525349d",
+        "name": "Pacific Asia Conference on Language, Information and Computation",
+        "type": "conference",
+        "alternate_names": [
+          "Pacific Asia Conference on Language, Information, and Computation",
+          "Pac Asia Conf Lang Inf Comput",
+          "PACLIC"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5c67bbbf8d5980827205a89946c88dd2cd0aed2a",
+      "title": "Approaching Neural Chinese Word Segmentation as a Low-Resource Machine Translation Task",
+      "venue": "Pacific Asia Conference on Language, Information and Computation",
+      "year": 2020,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143616669",
+          "name": "Pinzhen Chen"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "6346222f4d308dad8e716e0fd33be470f6e94cbb",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/6346222f4d308dad8e716e0fd33be470f6e94cbb",
+      "title": "Losing Heads in the Lottery: Pruning Transformer Attention in Neural Machine Translation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 68,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "41129651",
+          "name": "Maximiliana Behnke"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "a1f47c220f68feac3aa041ded35f53776b2885e3",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a1f47c220f68feac3aa041ded35f53776b2885e3",
+      "title": "In Neural Machine Translation, What Does Transfer Learning Transfer?",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 68,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8129718",
+          "name": "Alham Fikri Aji"
+        },
+        {
+          "authorId": "3444222",
+          "name": "Nikolay Bogoychev"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "2082372",
+          "name": "Rico Sennrich"
+        }
+      ]
+    },
+    {
+      "paperId": "bcfbc82291a81ac88516b2aa042d71e9de3cfd49",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/bcfbc82291a81ac88516b2aa042d71e9de3cfd49",
+      "title": "Parallel Sentence Mining by Constrained Decoding",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143616669",
+          "name": "Pinzhen Chen"
+        },
+        {
+          "authorId": "3444222",
+          "name": "Nikolay Bogoychev"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1388337832",
+          "name": "Faheem Kirefu"
+        }
+      ]
+    },
+    {
+      "paperId": "e1cc978141fda6151b2f74b8fb85a59ec0f889c3",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/e1cc978141fda6151b2f74b8fb85a59ec0f889c3",
+      "title": "Exploring Monolingual Data for Neural Machine Translation with Knowledge Distillation",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8129718",
+          "name": "Alham Fikri Aji"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "e80e3904acad72dceeafa46f105466dbd67a00c7",
+      "publicationVenue": {
+        "id": "ec854e61-2eee-49b1-a2f2-b51ea8231eb0",
+        "name": "Workshop on Neural Generation and Translation",
+        "type": "conference",
+        "alternate_names": [
+          "NGT",
+          "Workshop Neural Gener Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e80e3904acad72dceeafa46f105466dbd67a00c7",
+      "title": "Edinburgh\u2019s Submissions to the 2020 Machine Translation Efficiency Task",
+      "venue": "Workshop on Neural Generation and Translation",
+      "year": 2020,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3444222",
+          "name": "Nikolay Bogoychev"
+        },
+        {
+          "authorId": "3272639",
+          "name": "Roman Grundkiewicz"
+        },
+        {
+          "authorId": "8129718",
+          "name": "Alham Fikri Aji"
+        },
+        {
+          "authorId": "41129651",
+          "name": "Maximiliana Behnke"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "31922245",
+          "name": "Sidharth Kashyap"
+        },
+        {
+          "authorId": "3398942",
+          "name": "Emmanouil Farsarakis"
+        },
+        {
+          "authorId": "103104646",
+          "name": "M. Chudyk"
+        }
+      ]
+    },
+    {
+      "paperId": "f062ebc9fedffab30ced0993f34078264e8e93d9",
+      "publicationVenue": {
+        "id": "ec854e61-2eee-49b1-a2f2-b51ea8231eb0",
+        "name": "Workshop on Neural Generation and Translation",
+        "type": "conference",
+        "alternate_names": [
+          "NGT",
+          "Workshop Neural Gener Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f062ebc9fedffab30ced0993f34078264e8e93d9",
+      "title": "Compressing Neural Machine Translation Models with 4-bit Precision",
+      "venue": "Workshop on Neural Generation and Translation",
+      "year": 2020,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8129718",
+          "name": "Alham Fikri Aji"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "0f7093a8018d7d1be9356b54e7e5421483bd24ff",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/0f7093a8018d7d1be9356b54e7e5421483bd24ff",
+      "title": "Combining Global Sparse Gradients with Local Gradients in Distributed Neural Network Training",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8129718",
+          "name": "Alham Fikri Aji"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "3444222",
+          "name": "Nikolay Bogoychev"
+        }
+      ]
+    },
+    {
+      "paperId": "36ea757ad92b5aa94916a40c7b526af28fcccf02",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/36ea757ad92b5aa94916a40c7b526af28fcccf02",
+      "title": "Making Asynchronous Stochastic Gradient Descent Work for Transformers",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8129718",
+          "name": "Alham Fikri Aji"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "6ffa12af625ab511bfe3a900001e6cb348147a79",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6ffa12af625ab511bfe3a900001e6cb348147a79",
+      "title": "Neural Machine Translation with 4-Bit Precision and Beyond",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8129718",
+          "name": "Alham Fikri Aji"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "75bb20298a52a70018c6cd80fe79e5ce236c7013",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/75bb20298a52a70018c6cd80fe79e5ce236c7013",
+      "title": "Surprise Languages: Rapid-Response Cross-Language IR",
+      "venue": "EVIA@NTCIR",
+      "year": 2019,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1737250",
+          "name": "Douglas W. Oard"
+        },
+        {
+          "authorId": "2954727",
+          "name": "Marine Carpuat"
+        },
+        {
+          "authorId": "1832372",
+          "name": "P. Galusc\u00e1kov\u00e1"
+        },
+        {
+          "authorId": "40080808",
+          "name": "Joe Barrow"
+        },
+        {
+          "authorId": "143913642",
+          "name": "Suraj Nair"
+        },
+        {
+          "authorId": "145523874",
+          "name": "Xing Niu"
+        },
+        {
+          "authorId": "46183205",
+          "name": "Han-Chin Shing"
+        },
+        {
+          "authorId": "47210642",
+          "name": "Weijia Xu"
+        },
+        {
+          "authorId": "2928570",
+          "name": "Elena Zotkina"
+        },
+        {
+          "authorId": "145590324",
+          "name": "K. McKeown"
+        },
+        {
+          "authorId": "2295928",
+          "name": "S. Muresan"
+        },
+        {
+          "authorId": "2793610",
+          "name": "Efsun Sarioglu Kayi"
+        },
+        {
+          "authorId": "37558091",
+          "name": "R. Eskander"
+        },
+        {
+          "authorId": "2905377",
+          "name": "Chris Kedzie"
+        },
+        {
+          "authorId": "1395899773",
+          "name": "Y. Virin"
+        },
+        {
+          "authorId": "9215251",
+          "name": "Dragomir R. Radev"
+        },
+        {
+          "authorId": "144142360",
+          "name": "Rui Zhang"
+        },
+        {
+          "authorId": "1740397",
+          "name": "M. Gales"
+        },
+        {
+          "authorId": "1804969",
+          "name": "A. Ragni"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "7cc6f009feb5ad5ad0e1ff00c551fb318fc95016",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/7cc6f009feb5ad5ad0e1ff00c551fb318fc95016",
+      "title": "Neural Grammatical Error Correction Systems with Unsupervised Pre-training on Synthetic Data",
+      "venue": "BEA@ACL",
+      "year": 2019,
+      "citationCount": 176,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3272639",
+          "name": "Roman Grundkiewicz"
+        },
+        {
+          "authorId": "1733933",
+          "name": "Marcin Junczys-Dowmunt"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "ba08784bb30de51f72f88d5d64a64310d030db10",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/ba08784bb30de51f72f88d5d64a64310d030db10",
+      "title": "From Research to Production and Back: Ludicrously Fast Neural Machine Translation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 72,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152658577",
+          "name": "Young Jin Kim"
+        },
+        {
+          "authorId": "1733933",
+          "name": "Marcin Junczys-Dowmunt"
+        },
+        {
+          "authorId": "143925074",
+          "name": "Hany Hassan"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "3272639",
+          "name": "Roman Grundkiewicz"
+        },
+        {
+          "authorId": "3444222",
+          "name": "Nikolay Bogoychev"
+        }
+      ]
+    },
+    {
+      "paperId": "c78717b8814d0f8f7acc1de65309b27b266a2ef7",
+      "publicationVenue": {
+        "id": "9aacb914-3edf-4e02-b8fe-5abf21c4d2ba",
+        "name": "Conference on Machine Translation",
+        "type": "conference",
+        "alternate_names": [
+          "WMT",
+          "Conf Mach Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c78717b8814d0f8f7acc1de65309b27b266a2ef7",
+      "title": "Incorporating Source Syntax into Transformer-Based Neural Machine Translation",
+      "venue": "Conference on Machine Translation",
+      "year": 2019,
+      "citationCount": 49,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3456678",
+          "name": "Anna Currey"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "d9d6cd71944aeac4e537421d465e1cfb4b9d0d00",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/d9d6cd71944aeac4e537421d465e1cfb4b9d0d00",
+      "title": "Zero-Resource Neural Machine Translation with Monolingual Pivot Data",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3456678",
+          "name": "Anna Currey"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "03f8754ab20732ebda02ce6e65ec9bfcce17528a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/03f8754ab20732ebda02ce6e65ec9bfcce17528a",
+      "title": "Marian: Cost-effective High-Quality Neural Machine Translation in C++",
+      "venue": "NMT@ACL",
+      "year": 2018,
+      "citationCount": 65,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1733933",
+          "name": "Marcin Junczys-Dowmunt"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "152378023",
+          "name": "Hieu T. Hoang"
+        },
+        {
+          "authorId": "3272639",
+          "name": "Roman Grundkiewicz"
+        },
+        {
+          "authorId": "2266204",
+          "name": "Anthony Aue"
+        }
+      ]
+    },
+    {
+      "paperId": "078b086b7375ba7b6e70786127be8b413a014e60",
+      "publicationVenue": {
+        "id": "9aacb914-3edf-4e02-b8fe-5abf21c4d2ba",
+        "name": "Conference on Machine Translation",
+        "type": "conference",
+        "alternate_names": [
+          "WMT",
+          "Conf Mach Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/078b086b7375ba7b6e70786127be8b413a014e60",
+      "title": "The University of Edinburgh\u2019s Submissions to the WMT18 News Translation Task",
+      "venue": "Conference on Machine Translation",
+      "year": 2018,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2259100",
+          "name": "B. Haddow"
+        },
+        {
+          "authorId": "3444222",
+          "name": "Nikolay Bogoychev"
+        },
+        {
+          "authorId": "51889641",
+          "name": "Denis Emelin"
+        },
+        {
+          "authorId": "50655248",
+          "name": "Ulrich Germann"
+        },
+        {
+          "authorId": "3272639",
+          "name": "Roman Grundkiewicz"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "3282877",
+          "name": "Antonio Valerio Miceli Barone"
+        },
+        {
+          "authorId": "2082372",
+          "name": "Rico Sennrich"
+        }
+      ]
+    },
+    {
+      "paperId": "0e39c7907fd470fe3cc59200b31d420b68d023fe",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/0e39c7907fd470fe3cc59200b31d420b68d023fe",
+      "title": "Multi-Source Syntactic Neural Machine Translation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3456678",
+          "name": "Anna Currey"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "138e1709177bbadea8ce012c9eb9fd0879e1b686",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/138e1709177bbadea8ce012c9eb9fd0879e1b686",
+      "title": "Accelerating Asynchronous Stochastic Gradient Descent for Neural Machine Translation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3444222",
+          "name": "Nikolay Bogoychev"
+        },
+        {
+          "authorId": "1388705030",
+          "name": "Marcin Junczys-Dowmunt"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "8129718",
+          "name": "Alham Fikri Aji"
+        }
+      ]
+    },
+    {
+      "paperId": "1dec6731debf44c184127ae9aa4f8ba3a0916758",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/1dec6731debf44c184127ae9aa4f8ba3a0916758",
+      "title": "Exploring Hyper-Parameter Optimization for Neural Machine Translation on GPU Architectures",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48755730",
+          "name": "Robert V. Lim"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "143620134",
+          "name": "Hieu D. Hoang"
+        },
+        {
+          "authorId": "2616631",
+          "name": "M. Briers"
+        },
+        {
+          "authorId": "1687994",
+          "name": "A. Malony"
+        }
+      ]
+    },
+    {
+      "paperId": "21f17525542f45384bb73bba49e46c5c112aee99",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/21f17525542f45384bb73bba49e46c5c112aee99",
+      "title": "Fast Neural Machine Translation Implementation",
+      "venue": "NMT@ACL",
+      "year": 2018,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143620134",
+          "name": "Hieu D. Hoang"
+        },
+        {
+          "authorId": "3407177",
+          "name": "Tomasz Dwojak"
+        },
+        {
+          "authorId": "2817982",
+          "name": "Rihards Krislauks"
+        },
+        {
+          "authorId": "144686723",
+          "name": "Daniel Torregrosa"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "302c56e718d449b25cd3d6873f2e58078c584617",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/302c56e718d449b25cd3d6873f2e58078c584617",
+      "title": "Marian: Fast Neural Machine Translation in C++",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 700,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1733933",
+          "name": "Marcin Junczys-Dowmunt"
+        },
+        {
+          "authorId": "3272639",
+          "name": "Roman Grundkiewicz"
+        },
+        {
+          "authorId": "3407177",
+          "name": "Tomasz Dwojak"
+        },
+        {
+          "authorId": "152378023",
+          "name": "Hieu T. Hoang"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1410712818",
+          "name": "Tom Neckermann"
+        },
+        {
+          "authorId": "1745715",
+          "name": "F. Seide"
+        },
+        {
+          "authorId": "50655248",
+          "name": "Ulrich Germann"
+        },
+        {
+          "authorId": "8129718",
+          "name": "Alham Fikri Aji"
+        },
+        {
+          "authorId": "3444222",
+          "name": "Nikolay Bogoychev"
+        },
+        {
+          "authorId": "145644643",
+          "name": "Andr\u00e9 F. T. Martins"
+        },
+        {
+          "authorId": "2539211",
+          "name": "Alexandra Birch"
+        }
+      ]
+    },
+    {
+      "paperId": "31ecae5098f51d8e3f80cbe602bd089c8a5b5f80",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/31ecae5098f51d8e3f80cbe602bd089c8a5b5f80",
+      "title": "Unsupervised Source Hierarchies for Low-Resource Neural Machine Translation",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3456678",
+          "name": "Anna Currey"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "4425451658b713ea1ca84e414e984cf137cd3391",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4425451658b713ea1ca84e414e984cf137cd3391",
+      "title": "ParaCrawl Corpus version 1.0",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49604675",
+          "name": "Philipp Koehn"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "2586725",
+          "name": "M. Forcada"
+        },
+        {
+          "authorId": "1399506397",
+          "name": "M. Espl\u00e0-Gomis"
+        },
+        {
+          "authorId": "66333746",
+          "name": "Sergio Ortiz Rojas"
+        },
+        {
+          "authorId": "90086060",
+          "name": "Gema Ram\u00edrez S\u00e1nchez"
+        },
+        {
+          "authorId": "1411381787",
+          "name": "V\u00edctor M. S\u00e1nchez Cartagena"
+        },
+        {
+          "authorId": "2259100",
+          "name": "B. Haddow"
+        },
+        {
+          "authorId": "1410107692",
+          "name": "Marta Ba\u00f1\u00f3n"
+        },
+        {
+          "authorId": "1411425788",
+          "name": "Marek St\u0159elec"
+        },
+        {
+          "authorId": "3092136",
+          "name": "A. Samiotou"
+        },
+        {
+          "authorId": "35132887",
+          "name": "Amir Kamran"
+        }
+      ]
+    },
+    {
+      "paperId": "4655cc29ed50691996bb99076b762148fb51d2ee",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4655cc29ed50691996bb99076b762148fb51d2ee",
+      "title": "Explorer Accelerating Asynchronous Stochastic Gradient Descent for Neural Machine Translation",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1733933",
+          "name": "Marcin Junczys-Dowmunt"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "6a31c23761b3d0f9031ac391dd4a4c896c39819f",
+      "publicationVenue": {
+        "id": "9aacb914-3edf-4e02-b8fe-5abf21c4d2ba",
+        "name": "Conference on Machine Translation",
+        "type": "conference",
+        "alternate_names": [
+          "WMT",
+          "Conf Mach Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6a31c23761b3d0f9031ac391dd4a4c896c39819f",
+      "title": "Findings of the WMT 2018 Shared Task on Parallel Corpus Filtering",
+      "venue": "Conference on Machine Translation",
+      "year": 2018,
+      "citationCount": 115,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2269459146",
+          "name": "Philipp Koehn"
+        },
+        {
+          "authorId": "3115181",
+          "name": "Huda Khayrallah"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "2586725",
+          "name": "M. Forcada"
+        }
+      ]
+    },
+    {
+      "paperId": "8054daf190ed8189aa42b0ebf4ae494a452b247a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8054daf190ed8189aa42b0ebf4ae494a452b247a",
+      "title": "Neural Machine Translation Techniques for Named Entity Transliteration",
+      "venue": "NEWS@ACL",
+      "year": 2018,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3272639",
+          "name": "Roman Grundkiewicz"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "d6fdef52d1803aa378ba13b522b73e679afc86c7",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d6fdef52d1803aa378ba13b522b73e679afc86c7",
+      "title": "Combining Global Sparse Gradients with Local Gradients",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 3,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "8129718",
+          "name": "Alham Fikri Aji"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "d8146d7f37516caa9446ebca302ed55ba4be57ff",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/d8146d7f37516caa9446ebca302ed55ba4be57ff",
+      "title": "Approaching Neural Grammatical Error Correction as a Low-Resource Machine Translation Task",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 188,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1733933",
+          "name": "Marcin Junczys-Dowmunt"
+        },
+        {
+          "authorId": "3272639",
+          "name": "Roman Grundkiewicz"
+        },
+        {
+          "authorId": "3375291",
+          "name": "Shubha Guha"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "4bba2d86f91612589b33bb13aaa927d430ed1dac",
+      "publicationVenue": {
+        "id": "9aacb914-3edf-4e02-b8fe-5abf21c4d2ba",
+        "name": "Conference on Machine Translation",
+        "type": "conference",
+        "alternate_names": [
+          "WMT",
+          "Conf Mach Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4bba2d86f91612589b33bb13aaa927d430ed1dac",
+      "title": "Copied Monolingual Data Improves Low-Resource Neural Machine Translation",
+      "venue": "Conference on Machine Translation",
+      "year": 2017,
+      "citationCount": 192,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3282877",
+          "name": "Antonio Valerio Miceli Barone"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "c1cf237548026ba3ffd1e2a5a7dcdbc48afd9f58",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c1cf237548026ba3ffd1e2a5a7dcdbc48afd9f58",
+      "title": "Explorer Sparse Communication for Distributed Gradient Descent",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "e509d20978bc003722f975d235c530b1d3c6cee8",
+      "publicationVenue": {
+        "id": "9aacb914-3edf-4e02-b8fe-5abf21c4d2ba",
+        "name": "Conference on Machine Translation",
+        "type": "conference",
+        "alternate_names": [
+          "WMT",
+          "Conf Mach Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e509d20978bc003722f975d235c530b1d3c6cee8",
+      "title": "The University of Edinburgh\u2019s Neural MT Systems for WMT17",
+      "venue": "Conference on Machine Translation",
+      "year": 2017,
+      "citationCount": 182,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2082372",
+          "name": "Rico Sennrich"
+        },
+        {
+          "authorId": "2539211",
+          "name": "Alexandra Birch"
+        },
+        {
+          "authorId": "3456678",
+          "name": "Anna Currey"
+        },
+        {
+          "authorId": "2263641419",
+          "name": "Ulrich Germann"
+        },
+        {
+          "authorId": "2259100",
+          "name": "B. Haddow"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "2263871282",
+          "name": "Antonio Valerio Miceli Barone"
+        },
+        {
+          "authorId": "2263657966",
+          "name": "Philip Williams"
+        }
+      ]
+    },
+    {
+      "paperId": "e8437e3b32f091f62f3796556435e139db130f90",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/e8437e3b32f091f62f3796556435e139db130f90",
+      "title": "Sparse Communication for Distributed Gradient Descent",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2017,
+      "citationCount": 713,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8129718",
+          "name": "Alham Fikri Aji"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "05ebfb48f601dbb451d257d2ec1818a6b5ca1668",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/05ebfb48f601dbb451d257d2ec1818a6b5ca1668",
+      "title": "Normalized Log-Linear Interpolation of Backoff Language Models is Efficient",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "3125584",
+          "name": "Chase Geigle"
+        },
+        {
+          "authorId": "3346041",
+          "name": "Sean Massung"
+        },
+        {
+          "authorId": "38879761",
+          "name": "Lane Schwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "f08b3c2ed9d11ba29482507bcfe1b80236ce3efc",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f08b3c2ed9d11ba29482507bcfe1b80236ce3efc",
+      "title": "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics, ACL 2016, August 7-12, 2016, Berlin, Germany, Volume 1: Long Papers",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 36,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "3aa6b8d818eaf895b91079e905ecdadee4bea777",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3aa6b8d818eaf895b91079e905ecdadee4bea777",
+      "title": "Proceedings of the The 53rd Annual Meeting of the Association for Computational Linguistics and The 7th International Joint Conference of the Asian Federation of Natural Language Processing",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1745678",
+          "name": "Rohan Kshirsagar"
+        },
+        {
+          "authorId": "49550805",
+          "name": "Santiago Barona"
+        }
+      ]
+    },
+    {
+      "paperId": "70221d07010f0db7b82e826ba2a12442eb5e4fc4",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/70221d07010f0db7b82e826ba2a12442eb5e4fc4",
+      "title": "Language Identification and Modeling in Specialized Hardware",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2015,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1745678",
+          "name": "Rohan Kshirsagar"
+        },
+        {
+          "authorId": "49550805",
+          "name": "Santiago Barona"
+        }
+      ]
+    },
+    {
+      "paperId": "8e4fb17fff38a7834af5b4eaafcbbde02bf00975",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8e4fb17fff38a7834af5b4eaafcbbde02bf00975",
+      "title": "N-gram Counts and Language Models from the Common Crawl",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2014,
+      "citationCount": 186,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2064348170",
+          "name": "C. Buck"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "31965747",
+          "name": "B. V. Ooyen"
+        }
+      ]
+    },
+    {
+      "paperId": "97cedf99252026f58e8154bc61d49cf885d42030",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/97cedf99252026f58e8154bc61d49cf885d42030",
+      "title": "Edinburgh\u2019s Phrase-based Machine Translation Systems for WMT-14",
+      "venue": "WMT@ACL",
+      "year": 2014,
+      "citationCount": 55,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145938140",
+          "name": "Nadir Durrani"
+        },
+        {
+          "authorId": "2259100",
+          "name": "B. Haddow"
+        },
+        {
+          "authorId": "1755162",
+          "name": "Philipp Koehn"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "af25e556302014d92499c98d993ee38113d870d6",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/af25e556302014d92499c98d993ee38113d870d6",
+      "title": "Proceedings of the Ninth Workshop on Statistical Machine Translation",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "3457156",
+          "name": "J. Neidert"
+        },
+        {
+          "authorId": "145157639",
+          "name": "Sebastian Schuster"
+        },
+        {
+          "authorId": "48329856",
+          "name": "Spence Green"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        }
+      ]
+    },
+    {
+      "paperId": "c2e78a62503bd05f017f2b54de203e64a2998ebe",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c2e78a62503bd05f017f2b54de203e64a2998ebe",
+      "title": "Proceedings of the Association for Computational Linguistics 2014",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "152781945",
+          "name": "Michael Kayser"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        }
+      ]
+    },
+    {
+      "paperId": "d8f2de038dbcbdd09c9fe2e6bcb00dbed651d00d",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d8f2de038dbcbdd09c9fe2e6bcb00dbed651d00d",
+      "title": "Faster Phrase-Based Decoding by Refining Feature State",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2014,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "152781945",
+          "name": "Michael Kayser"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        }
+      ]
+    },
+    {
+      "paperId": "eef36af58ba2a563c3bcc3e357da07a58228fe50",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/eef36af58ba2a563c3bcc3e357da07a58228fe50",
+      "title": "Edinburgh Research Explorer Stanford University's Submissions to the WMT 2014 Translation Task",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 7,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3457156",
+          "name": "J. Neidert"
+        },
+        {
+          "authorId": "145157639",
+          "name": "Sebastian Schuster"
+        },
+        {
+          "authorId": "48329856",
+          "name": "Spence Green"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        }
+      ]
+    },
+    {
+      "paperId": "22ec0fb11ab16d0ad1c41be81648a82348364162",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/22ec0fb11ab16d0ad1c41be81648a82348364162",
+      "title": "Edinburgh\u2019s Machine Translation Systems for European Language Pairs",
+      "venue": "WMT@ACL",
+      "year": 2013,
+      "citationCount": 43,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145938140",
+          "name": "Nadir Durrani"
+        },
+        {
+          "authorId": "2259100",
+          "name": "B. Haddow"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1755162",
+          "name": "Philipp Koehn"
+        }
+      ]
+    },
+    {
+      "paperId": "774e560a2cadcb84f4b1def7b152e5398b062efb",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/774e560a2cadcb84f4b1def7b152e5398b062efb",
+      "title": "Scalable Modified Kneser-Ney Language Model Estimation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2013,
+      "citationCount": 614,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1837145",
+          "name": "Ivan Pouzyrevsky"
+        },
+        {
+          "authorId": "144797264",
+          "name": "J. Clark"
+        },
+        {
+          "authorId": "1755162",
+          "name": "Philipp Koehn"
+        }
+      ]
+    },
+    {
+      "paperId": "90bc8821ac57a25fa554f58a93e430f745446022",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/90bc8821ac57a25fa554f58a93e430f745446022",
+      "title": "Grouping Language Model Boundary Words to Speed K\u2013Best Extraction from Hypergraphs",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2013,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1755162",
+          "name": "Philipp Koehn"
+        },
+        {
+          "authorId": "1784914",
+          "name": "A. Lavie"
+        }
+      ]
+    },
+    {
+      "paperId": "c0b0734d85e49dd0f6f877e0c150f666a7e24d29",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c0b0734d85e49dd0f6f877e0c150f666a7e24d29",
+      "title": "Efficient Language Modeling Algorithms with Applications to Statistical Machine Translation",
+      "venue": "",
+      "year": 2013,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "d2e7346f4c58839d7e536387efeedc8a9d9c5af1",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d2e7346f4c58839d7e536387efeedc8a9d9c5af1",
+      "title": "Human Language Technologies: Conference of the North American Chapter of the Association of Computational Linguistics, Proceedings, June 9-14, 2013, Westin Peachtree Plaza Hotel, Atlanta, Georgia, USA",
+      "venue": "HLT-NAACL",
+      "year": 2013,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science",
+        "History"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1755162",
+          "name": "Philipp Koehn"
+        },
+        {
+          "authorId": "1784914",
+          "name": "A. Lavie"
+        }
+      ]
+    },
+    {
+      "paperId": "37bd286d18965c943ca1937b7a13d4f8ad34d9b4",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/37bd286d18965c943ca1937b7a13d4f8ad34d9b4",
+      "title": "Language Model Rest Costs and Space-Efficient Storage",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2012,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1755162",
+          "name": "Philipp Koehn"
+        },
+        {
+          "authorId": "1784914",
+          "name": "A. Lavie"
+        }
+      ]
+    },
+    {
+      "paperId": "94cc861eea387e2467210011fe465ac42d4aba18",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/94cc861eea387e2467210011fe465ac42d4aba18",
+      "title": "Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, EMNLP-CoNLL 2012, July 12-14, 2012, Jeju Island, Korea",
+      "venue": "",
+      "year": 2012,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1755162",
+          "name": "Philipp Koehn"
+        },
+        {
+          "authorId": "1784914",
+          "name": "A. Lavie"
+        }
+      ]
+    },
+    {
+      "paperId": "090c4f702a2c037bd753a321ba432f76690ffd2b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/090c4f702a2c037bd753a321ba432f76690ffd2b",
+      "title": "Proceedings of the Sixth Workshop on Statistical Machine Translation",
+      "venue": "",
+      "year": 2011,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1784914",
+          "name": "A. Lavie"
+        }
+      ]
+    },
+    {
+      "paperId": "46f80666f05d7bffda4a85496d4f9a8d336fd441",
+      "publicationVenue": {
+        "id": "5020dc0a-7e2f-43e6-9543-389c0c6d864d",
+        "name": "International Workshop on Spoken Language Translation",
+        "type": "conference",
+        "alternate_names": [
+          "IWSLT",
+          "Int Workshop Spok Lang Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/46f80666f05d7bffda4a85496d4f9a8d336fd441",
+      "title": "Left language model state for syntactic machine translation",
+      "venue": "International Workshop on Spoken Language Translation",
+      "year": 2011,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "143620134",
+          "name": "Hieu D. Hoang"
+        },
+        {
+          "authorId": "1755162",
+          "name": "Philipp Koehn"
+        },
+        {
+          "authorId": "2102093891",
+          "name": "Tetsuo Kiso"
+        },
+        {
+          "authorId": "102811815",
+          "name": "Marcello Federico"
+        }
+      ]
+    },
+    {
+      "paperId": "663e2715b88d1eae43099d787a43d1834a71bfc3",
+      "publicationVenue": {
+        "id": "5020dc0a-7e2f-43e6-9543-389c0c6d864d",
+        "name": "International Workshop on Spoken Language Translation",
+        "type": "conference",
+        "alternate_names": [
+          "IWSLT",
+          "Int Workshop Spok Lang Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/663e2715b88d1eae43099d787a43d1834a71bfc3",
+      "title": "2011 International Workshop on Spoken Language Translation, IWSLT 2011, San Francisco, CA, USA, December 8-9, 2011",
+      "venue": "International Workshop on Spoken Language Translation",
+      "year": 2011,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "143620134",
+          "name": "Hieu D. Hoang"
+        },
+        {
+          "authorId": "1755162",
+          "name": "Philipp Koehn"
+        },
+        {
+          "authorId": "2102093891",
+          "name": "Tetsuo Kiso"
+        },
+        {
+          "authorId": "102811815",
+          "name": "Marcello Federico"
+        }
+      ]
+    },
+    {
+      "paperId": "883d1d06d857a85a0e64bb19f0b17d56f2cc9d7b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/883d1d06d857a85a0e64bb19f0b17d56f2cc9d7b",
+      "title": "KenLM: Faster and Smaller Language Model Queries",
+      "venue": "WMT@EMNLP",
+      "year": 2011,
+      "citationCount": 1473,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "ac40669a4dc2cc4ab96ea8e1832afd70bd261a24",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ac40669a4dc2cc4ab96ea8e1832afd70bd261a24",
+      "title": "CMU System Combination in WMT 2011",
+      "venue": "WMT@EMNLP",
+      "year": 2011,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1784914",
+          "name": "A. Lavie"
+        }
+      ]
+    },
+    {
+      "paperId": "30c1550821588bbd1e5c9b8469f5625db4d9495e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/30c1550821588bbd1e5c9b8469f5625db4d9495e",
+      "title": "Filter Corpus { syntax-st , syntax-ch , moses } Word Alignment Stanford Parser Build Syntactic Translation Model Minimum Error Rate Training Decode Sentences Build Language Model Parallel Corpus Target Language Corpus Moses Phrase Table Training syntax moses",
+      "venue": "",
+      "year": 2010,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2286879672",
+          "name": "Jonathan H. Clark"
+        },
+        {
+          "authorId": "2285098259",
+          "name": "Jonathan Weese"
+        },
+        {
+          "authorId": "2285099066",
+          "name": "Byung Gyu Ahn"
+        },
+        {
+          "authorId": "2828338",
+          "name": "Andreas Zollmann"
+        },
+        {
+          "authorId": "2288100564",
+          "name": "Qin Gao"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1784914",
+          "name": "A. Lavie"
+        }
+      ]
+    },
+    {
+      "paperId": "46de08548351dee7d4434ef018b92b549a54f203",
+      "publicationVenue": {
+        "id": "40983fd6-6306-48fc-9433-88d263951b9b",
+        "name": "Prague Bulletin of Mathematical Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "The Prague Bulletin of Mathematical Linguistics",
+          "Prague Bull Math Linguistics"
+        ],
+        "issn": "0032-6585",
+        "url": "http://www.degruyter.com/view/j/pralin",
+        "alternate_urls": [
+          "http://ufal.mff.cuni.cz/pbml",
+          "http://ufal.mff.cuni.cz/pbml.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/46de08548351dee7d4434ef018b92b549a54f203",
+      "title": "The Machine Translation Toolpack for LoonyBin: Automated Management of Experimental Machine Translation HyperWorkflows",
+      "venue": "Prague Bulletin of Mathematical Linguistics",
+      "year": 2010,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144797264",
+          "name": "J. Clark"
+        },
+        {
+          "authorId": "143788080",
+          "name": "Jonathan Weese"
+        },
+        {
+          "authorId": "2056776223",
+          "name": "Byung-Gyu Ahn"
+        },
+        {
+          "authorId": "2828338",
+          "name": "Andreas Zollmann"
+        },
+        {
+          "authorId": "145312180",
+          "name": "Qin Gao"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1784914",
+          "name": "A. Lavie"
+        }
+      ]
+    },
+    {
+      "paperId": "6dd64984cd882ce0432d515b303c666fe0116c07",
+      "publicationVenue": {
+        "id": "cd648e4a-f86b-4c14-8c82-0fc488d998ff",
+        "name": "Conference of the Association for Machine Translation in the Americas",
+        "type": "conference",
+        "alternate_names": [
+          "AMTA",
+          "Conf Assoc Mach Transl Am"
+        ],
+        "url": "http://www.amtaweb.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6dd64984cd882ce0432d515b303c666fe0116c07",
+      "title": "Voting on N-grams for Machine Translation System Combination",
+      "venue": "Conference of the Association for Machine Translation in the Americas",
+      "year": 2010,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1784914",
+          "name": "A. Lavie"
+        }
+      ]
+    },
+    {
+      "paperId": "c05fb8ec31cb814c2b97a8720606dc8f080c413c",
+      "publicationVenue": {
+        "id": "40983fd6-6306-48fc-9433-88d263951b9b",
+        "name": "Prague Bulletin of Mathematical Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "The Prague Bulletin of Mathematical Linguistics",
+          "Prague Bull Math Linguistics"
+        ],
+        "issn": "0032-6585",
+        "url": "http://www.degruyter.com/view/j/pralin",
+        "alternate_urls": [
+          "http://ufal.mff.cuni.cz/pbml",
+          "http://ufal.mff.cuni.cz/pbml.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c05fb8ec31cb814c2b97a8720606dc8f080c413c",
+      "title": "Combining Machine Translation Output with Open Source: The Carnegie Mellon Multi-Engine Machine Translation Scheme",
+      "venue": "Prague Bulletin of Mathematical Linguistics",
+      "year": 2010,
+      "citationCount": 61,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1784914",
+          "name": "A. Lavie"
+        }
+      ]
+    },
+    {
+      "paperId": "e53648568164b5176c14c9e360397b6f877ac388",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e53648568164b5176c14c9e360397b6f877ac388",
+      "title": "CMU Multi-Engine Machine Translation for WMT 2010",
+      "venue": "WMT@ACL",
+      "year": 2010,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1784914",
+          "name": "A. Lavie"
+        }
+      ]
+    },
+    {
+      "paperId": "daccd3fba17a14dc85c9aab7757e0ea63d430aa9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/daccd3fba17a14dc85c9aab7757e0ea63d430aa9",
+      "title": "Filter Corpus { syntax-st , syntax-ch , moses } Word Alignment Stanford Parser Build Syntactic Translation Model Minimum Error Rate Training Decode Sentences Build Language Model Parallel Corpus Target Language Corpus Moses Phrase Table Training syntax moses",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2286879672",
+          "name": "Jonathan H. Clark"
+        },
+        {
+          "authorId": "2285098259",
+          "name": "Jonathan Weese"
+        },
+        {
+          "authorId": "2285099066",
+          "name": "Byung Gyu Ahn"
+        },
+        {
+          "authorId": "2828338",
+          "name": "Andreas Zollmann"
+        },
+        {
+          "authorId": "2288100564",
+          "name": "Qin Gao"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "1784914",
+          "name": "A. Lavie"
+        }
+      ]
+    },
+    {
+      "paperId": "fe32c5af2df4e9a07ea1d64c7282fdb99816d909",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/fe32c5af2df4e9a07ea1d64c7282fdb99816d909",
+      "title": "Machine Translation System Combination with Flexible Word Ordering",
+      "venue": "WMT@EACL",
+      "year": 2009,
+      "citationCount": 34,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "2556777",
+          "name": "Greg Hanneman"
+        },
+        {
+          "authorId": "1784914",
+          "name": "A. Lavie"
+        }
+      ]
+    },
+    {
+      "paperId": "c747fb079f73a0727765a714d5ee14537ca1692a",
+      "publicationVenue": {
+        "id": "edd533a3-a4f3-4c10-9961-ea8fddc5b696",
+        "name": "International Symposium on Electronic Commerce",
+        "type": "conference",
+        "alternate_names": [
+          "India Software Engineering Conference",
+          "ISEC",
+          "Integrated STEM Education Conference",
+          "Annu India Softw Eng Conf",
+          "India Softw Eng Conf",
+          "Annual India Software Engineering Conference",
+          "Int Symp Electron Commer",
+          "Integr STEM Educ Conf"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1702"
+      },
+      "url": "https://www.semanticscholar.org/paper/c747fb079f73a0727765a714d5ee14537ca1692a",
+      "title": "Mining business topics in source code using latent dirichlet allocation",
+      "venue": "International Symposium on Electronic Commerce",
+      "year": 2008,
+      "citationCount": 197,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1820434",
+          "name": "Girish Maskeri Rama"
+        },
+        {
+          "authorId": "40490806",
+          "name": "S. Sarkar"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "114e0bb11570939f2cbe5298ddd2176a506d1b0e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/114e0bb11570939f2cbe5298ddd2176a506d1b0e",
+      "title": "The GALEX Ultraviolet Variability Catalog",
+      "venue": "",
+      "year": 2005,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "3039835",
+          "name": "B. Welsh"
+        },
+        {
+          "authorId": "2679244",
+          "name": "J. Wheatley"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "39898254",
+          "name": "M. Seibert"
+        },
+        {
+          "authorId": "153740631",
+          "name": "S. Browne"
+        },
+        {
+          "authorId": "38063109",
+          "name": "S. Salim"
+        },
+        {
+          "authorId": "2915941",
+          "name": "R. Rich"
+        },
+        {
+          "authorId": "119933945",
+          "name": "T. Barlow"
+        },
+        {
+          "authorId": "1387720791",
+          "name": "L. Bianchi"
+        },
+        {
+          "authorId": "50858368",
+          "name": "Y. Byun"
+        },
+        {
+          "authorId": "98013882",
+          "name": "J. Donas"
+        },
+        {
+          "authorId": "145493372",
+          "name": "K. Forster"
+        },
+        {
+          "authorId": "5119362",
+          "name": "P. Friedman"
+        },
+        {
+          "authorId": "4334133",
+          "name": "T. Heckman"
+        },
+        {
+          "authorId": "13266646",
+          "name": "P. Jelinsky"
+        },
+        {
+          "authorId": "2109242054",
+          "name": "Young-Wook Lee"
+        },
+        {
+          "authorId": "47801778",
+          "name": "B. Madore"
+        },
+        {
+          "authorId": "12562655",
+          "name": "R. Malina"
+        },
+        {
+          "authorId": "2107787783",
+          "name": "D. C. Martin"
+        },
+        {
+          "authorId": "2172704",
+          "name": "B. Milliard"
+        },
+        {
+          "authorId": "5275674",
+          "name": "P. Morrissey"
+        },
+        {
+          "authorId": "6629921",
+          "name": "S. Neff"
+        },
+        {
+          "authorId": "3788918",
+          "name": "D. Schiminovich"
+        },
+        {
+          "authorId": "2182977",
+          "name": "O. Siegmund"
+        },
+        {
+          "authorId": "3719842",
+          "name": "T. Small"
+        },
+        {
+          "authorId": "7934073",
+          "name": "A. Szalay"
+        },
+        {
+          "authorId": "2974479",
+          "name": "T. Wyder"
+        }
+      ]
+    },
+    {
+      "paperId": "7c4e7a220e36ee88b41d289db6b2f4c6e021e9c0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/7c4e7a220e36ee88b41d289db6b2f4c6e021e9c0",
+      "title": "RR Lyrae Stars in the Far Ultraviolet: GALEX Observations Compared with Theoretical Predictions",
+      "venue": "",
+      "year": 2005,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "153740631",
+          "name": "S. Browne"
+        },
+        {
+          "authorId": "2679244",
+          "name": "J. Wheatley"
+        },
+        {
+          "authorId": "3039835",
+          "name": "B. Welsh"
+        },
+        {
+          "authorId": "39898254",
+          "name": "M. Seibert"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "2915941",
+          "name": "R. Rich"
+        }
+      ]
+    },
+    {
+      "paperId": "3877a91973ae6e4e1c67ba91d27dfa68d14df241",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3877a91973ae6e4e1c67ba91d27dfa68d14df241",
+      "title": "The Flaring UV Sky",
+      "venue": "",
+      "year": 2004,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Environmental Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2065272624",
+          "name": "B. Welsh"
+        },
+        {
+          "authorId": "2679244",
+          "name": "J. Wheatley"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        },
+        {
+          "authorId": "39898254",
+          "name": "M. Seibert"
+        },
+        {
+          "authorId": "71540260",
+          "name": "S. Browne"
+        }
+      ]
+    },
+    {
+      "paperId": "fd8793a015ffd5576a2a3ece76d3b75ca2164c9a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/fd8793a015ffd5576a2a3ece76d3b75ca2164c9a",
+      "title": "Principles and practices for the legal secretary",
+      "venue": "",
+      "year": 1965,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Political Science"
+      ],
+      "authors": [
+        {
+          "authorId": "118720179",
+          "name": "M. Cornell"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    },
+    {
+      "paperId": "373098a2a3c0e12698f8bdddf9ab85562bc9fcd3",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/373098a2a3c0e12698f8bdddf9ab85562bc9fcd3",
+      "title": "Edinburgh Research Explorer Document-level machine translation with large-scale public parallel corpora",
+      "venue": "",
+      "year": null,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "66380217",
+          "name": "Proyag Pal"
+        },
+        {
+          "authorId": "2282467879",
+          "name": "Alexandra Birch"
+        },
+        {
+          "authorId": "1702066",
+          "name": "Kenneth Heafield"
+        }
+      ]
+    }
+  ]
+}

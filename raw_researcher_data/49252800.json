@@ -1,0 +1,4573 @@
+{
+  "authorId": "49252800",
+  "name": "Jie Fu",
+  "affiliations": [
+    "Quebec AI Institute (Mila)",
+    "Polytechnique Montreal"
+  ],
+  "paperCount": 91,
+  "citationCount": 1813,
+  "hIndex": 20,
+  "papers": [
+    {
+      "paperId": "8e42aa2917500d5c9ce300246b39abb4dbf953f8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8e42aa2917500d5c9ce300246b39abb4dbf953f8",
+      "title": "Learning Proposal-Aware Re-Ranking for Weakly-Supervised Temporal Action Localization",
+      "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+      "year": 2024,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152991771",
+          "name": "Yufan Hu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2222874256",
+          "name": "Mengyuan Chen"
+        },
+        {
+          "authorId": "46930271",
+          "name": "Junyu Gao"
+        },
+        {
+          "authorId": "40240283",
+          "name": "Jianfeng Dong"
+        },
+        {
+          "authorId": "2052130982",
+          "name": "Bin Fan"
+        },
+        {
+          "authorId": "31793703",
+          "name": "Hongmin Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "1041bdde891d58247c0adbbaa5778e0b64dbf059",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/1041bdde891d58247c0adbbaa5778e0b64dbf059",
+      "title": "Think Before You Act: Decision Transformers with Internal Working Memory",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152287163",
+          "name": "Jikun Kang"
+        },
+        {
+          "authorId": "144100820",
+          "name": "R. Laroche"
+        },
+        {
+          "authorId": "2854297",
+          "name": "Xingdi Yuan"
+        },
+        {
+          "authorId": "3382568",
+          "name": "Adam Trischler"
+        },
+        {
+          "authorId": "2161533150",
+          "name": "Xuefei Liu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "119a3ed0898499fce0ce6af6958d566d82390ba5",
+      "publicationVenue": {
+        "id": "027ffd21-ebb0-4af8-baf5-911124292fd0",
+        "name": "bioRxiv",
+        "type": "journal",
+        "url": "http://biorxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/119a3ed0898499fce0ce6af6958d566d82390ba5",
+      "title": "GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning",
+      "venue": "bioRxiv",
+      "year": 2023,
+      "citationCount": 58,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "2146233407",
+          "name": "Haiteng Zhao"
+        },
+        {
+          "authorId": "1563693999",
+          "name": "Shengchao Liu"
+        },
+        {
+          "authorId": "2149147043",
+          "name": "Chang Ma"
+        },
+        {
+          "authorId": "2143535070",
+          "name": "Hannan Xu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "123580511",
+          "name": "Zhihong Deng"
+        },
+        {
+          "authorId": "47648549",
+          "name": "Lingpeng Kong"
+        },
+        {
+          "authorId": "11149237",
+          "name": "Qi Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "1810203ab08e98042ef875f24fa9660170336ce9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1810203ab08e98042ef875f24fa9660170336ce9",
+      "title": "Multimodal Imbalance-Aware Gradient Modulation for Weakly-Supervised Audio-Visual Video Parsing",
+      "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+      "year": 2023,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "46930271",
+          "name": "Junyu Gao"
+        },
+        {
+          "authorId": "2155590336",
+          "name": "Changsheng Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "19363e9fa47f02744d49f24b8e94c8cdf19bc4af",
+      "publicationVenue": {
+        "id": "cfc287e4-4c04-4848-ab16-633b33a61a09",
+        "name": "International Society for Music Information Retrieval Conference",
+        "type": "conference",
+        "alternate_names": [
+          "International Symposium/Conference on Music Information Retrieval",
+          "ISMIR",
+          "Int Soc Music Inf Retr Conf",
+          "Int Symp Music Inf Retr"
+        ],
+        "url": "http://www.ismir.net/"
+      },
+      "url": "https://www.semanticscholar.org/paper/19363e9fa47f02744d49f24b8e94c8cdf19bc4af",
+      "title": "LyricWhiz: Robust Multilingual Zero-shot Lyrics Transcription by Whispering to ChatGPT",
+      "venue": "International Society for Music Information Retrieval Conference",
+      "year": 2023,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2191619409",
+          "name": "Le Zhuo"
+        },
+        {
+          "authorId": "2032236274",
+          "name": "Ruibin Yuan"
+        },
+        {
+          "authorId": "1944785400",
+          "name": "Jiahao Pan"
+        },
+        {
+          "authorId": "2146277129",
+          "name": "Yi Ma"
+        },
+        {
+          "authorId": "2129449392",
+          "name": "Yizhi Li"
+        },
+        {
+          "authorId": "2143853895",
+          "name": "Ge Zhang"
+        },
+        {
+          "authorId": "2220617810",
+          "name": "Si Liu"
+        },
+        {
+          "authorId": "1697732",
+          "name": "R. Dannenberg"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2268783",
+          "name": "Chenghua Lin"
+        },
+        {
+          "authorId": "2109397",
+          "name": "Emmanouil Benetos"
+        },
+        {
+          "authorId": "2928777",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "2195745651",
+          "name": "Wei Xue"
+        },
+        {
+          "authorId": "2118270918",
+          "name": "Yi-Ting Guo"
+        }
+      ]
+    },
+    {
+      "paperId": "2249ba3843c409e606d892752d8fff7c9ec3c578",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2249ba3843c409e606d892752d8fff7c9ec3c578",
+      "title": "Revisiting the stable structures of gold clusters: Au n (n = 16\u201325) by artificial neural network potential",
+      "venue": "Journal of Physics D: Applied Physics",
+      "year": 2023,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "49814073",
+          "name": "Yibo Guo"
+        },
+        {
+          "authorId": "153028446",
+          "name": "Xue Wu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "3ec625fabd8c43a05381d601b4e15dead0ae2317",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3ec625fabd8c43a05381d601b4e15dead0ae2317",
+      "title": "Interactive Natural Language Processing",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 33,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Zekun Wang"
+        },
+        {
+          "authorId": "2143853895",
+          "name": "Ge Zhang"
+        },
+        {
+          "authorId": "2004672900",
+          "name": "Kexin Yang"
+        },
+        {
+          "authorId": "49402878",
+          "name": "Ning Shi"
+        },
+        {
+          "authorId": "150341221",
+          "name": "Wangchunshu Zhou"
+        },
+        {
+          "authorId": "2218114137",
+          "name": "Shaochun Hao"
+        },
+        {
+          "authorId": "2218054707",
+          "name": "Guangzheng Xiong"
+        },
+        {
+          "authorId": "2129449392",
+          "name": "Yizhi Li"
+        },
+        {
+          "authorId": "2191710039",
+          "name": "Mong Yuan Sim"
+        },
+        {
+          "authorId": "46772896",
+          "name": "Xiuying Chen"
+        },
+        {
+          "authorId": "2152206274",
+          "name": "Qingqing Zhu"
+        },
+        {
+          "authorId": "2218306363",
+          "name": "Zhenzhu Yang"
+        },
+        {
+          "authorId": "2189375026",
+          "name": "A. Nik"
+        },
+        {
+          "authorId": "11149237",
+          "name": "Qi Liu"
+        },
+        {
+          "authorId": "2268783",
+          "name": "Chenghua Lin"
+        },
+        {
+          "authorId": "2144215438",
+          "name": "Shi Wang"
+        },
+        {
+          "authorId": "7247867",
+          "name": "Ruibo Liu"
+        },
+        {
+          "authorId": "2109664620",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "2249845515",
+          "name": "Ke Xu"
+        },
+        {
+          "authorId": "7415571",
+          "name": "Dayiheng Liu"
+        },
+        {
+          "authorId": "2118270918",
+          "name": "Yi-Ting Guo"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "50e9ddfe5b0298762b87ac33b6de0e1a5f17aaa2",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/50e9ddfe5b0298762b87ac33b6de0e1a5f17aaa2",
+      "title": "Controllable Colloidal Synthesis of MAPbI3 Perovskite Nanocrystals for Dual-Mode Optoelectronic Applications.",
+      "venue": "Nano letters (Print)",
+      "year": 2023,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2146258731",
+          "name": "Hehe Huang"
+        },
+        {
+          "authorId": "2109529446",
+          "name": "Chenyu Zhao"
+        },
+        {
+          "authorId": "2108162101",
+          "name": "Xuliang Zhang"
+        },
+        {
+          "authorId": "2249070989",
+          "name": "Kang Wang"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2140051964",
+          "name": "Junjun Guo"
+        },
+        {
+          "authorId": "40440632",
+          "name": "Shuo Wang"
+        },
+        {
+          "authorId": "2238533260",
+          "name": "Qian Zhao"
+        },
+        {
+          "authorId": "48632876",
+          "name": "Wanli Ma"
+        },
+        {
+          "authorId": "3734570",
+          "name": "Jianyu Yuan"
+        }
+      ]
+    },
+    {
+      "paperId": "52c8b67f91a6d544bc27b26475286cc87890712b",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/52c8b67f91a6d544bc27b26475286cc87890712b",
+      "title": "Optimal Sensor Deception to Deviate from an Allowed Itinerary",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51310095",
+          "name": "Hazhar Rahmani"
+        },
+        {
+          "authorId": "2191274",
+          "name": "A. Ahadi"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "60613c08cdb609b4e598e669625924ab2c197521",
+      "publicationVenue": {
+        "id": "67f7f831-711a-43c8-8785-1e09005359b5",
+        "name": "International Joint Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Jt Conf Artif Intell",
+          "IJCAI"
+        ],
+        "url": "http://www.ijcai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/60613c08cdb609b4e598e669625924ab2c197521",
+      "title": "Probabilistic Planning with Prioritized Preferences over Temporal Logic Objectives",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2023,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8447450",
+          "name": "Lening Li"
+        },
+        {
+          "authorId": "51310095",
+          "name": "Hazhar Rahmani"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "639f86a5957e0dcf121dfc77d04549f694655dfc",
+      "publicationVenue": {
+        "id": "25248f80-fe99-48e5-9b8e-9baef3b8e23b",
+        "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Pattern Anal Mach Intell"
+        ],
+        "issn": "0162-8828",
+        "url": "http://www.computer.org/tpami/",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tpami",
+          "http://ieeexplore.ieee.org/servlet/opac?punumber=34"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/639f86a5957e0dcf121dfc77d04549f694655dfc",
+      "title": "Semantic and Temporal Contextual Correlation Learning for Weakly-Supervised Temporal Action Localization",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2023,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "46930271",
+          "name": "Junyu Gao"
+        },
+        {
+          "authorId": "2155590336",
+          "name": "Changsheng Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "641b906b4069661122af7a26ff27921982211b31",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/641b906b4069661122af7a26ff27921982211b31",
+      "title": "CORGI-PM: A Chinese Corpus For Gender Bias Probing and Mitigation",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2143853895",
+          "name": "Ge Zhang"
+        },
+        {
+          "authorId": "2129449392",
+          "name": "Yizhi Li"
+        },
+        {
+          "authorId": "150352861",
+          "name": "Yaoyao Wu"
+        },
+        {
+          "authorId": "2199169608",
+          "name": "Linyuan Zhang"
+        },
+        {
+          "authorId": "2268783",
+          "name": "Chenghua Lin"
+        },
+        {
+          "authorId": "2326988525",
+          "name": "Jiayi Geng"
+        },
+        {
+          "authorId": "2144215438",
+          "name": "Shi Wang"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "6814d5b6de960154a0b6ea10f64ef20988c3b6e6",
+      "publicationVenue": {
+        "id": "ab066af1-bfee-42da-84bb-42f7e199d0d0",
+        "name": "IEEE Conference on Decision and Control",
+        "type": "conference",
+        "alternate_names": [
+          "Conference on Decision and Control",
+          "IEEE Conf Decis Control",
+          "Conf Decis Control",
+          "CDC"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=403"
+      },
+      "url": "https://www.semanticscholar.org/paper/6814d5b6de960154a0b6ea10f64ef20988c3b6e6",
+      "title": "Synthesis of Opacity-Enforcing Winning Strategies Against Colluded Opponent",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2169146",
+          "name": "Chongyang Shi"
+        },
+        {
+          "authorId": "31542431",
+          "name": "A. Kulkarni"
+        },
+        {
+          "authorId": "51310095",
+          "name": "Hazhar Rahmani"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "6de34febd1108deea3b12d3f57db0698a13baf15",
+      "publicationVenue": {
+        "id": "027ffd21-ebb0-4af8-baf5-911124292fd0",
+        "name": "bioRxiv",
+        "type": "journal",
+        "url": "http://biorxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6de34febd1108deea3b12d3f57db0698a13baf15",
+      "title": "Running ahead of evolution\u2014AI-based simulation for predicting future high-risk SARS-CoV-2 variants",
+      "venue": "bioRxiv",
+      "year": 2023,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "118453726",
+          "name": "Jie Chen"
+        },
+        {
+          "authorId": "2087745889",
+          "name": "Zhiwei Nie"
+        },
+        {
+          "authorId": "2153605972",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "2191788582",
+          "name": "Kai Wang"
+        },
+        {
+          "authorId": "2175548870",
+          "name": "Fan Xu"
+        },
+        {
+          "authorId": "2189431650",
+          "name": "Zhiheng Hu"
+        },
+        {
+          "authorId": "2191729315",
+          "name": "Bin Zheng"
+        },
+        {
+          "authorId": "1390877160",
+          "name": "Zhennan Wang"
+        },
+        {
+          "authorId": "2847159",
+          "name": "Guoli Song"
+        },
+        {
+          "authorId": "2191743332",
+          "name": "Jingyi Zhang"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "1490692586",
+          "name": "Xiansong Huang"
+        },
+        {
+          "authorId": "2191879062",
+          "name": "Zhongqi Wang"
+        },
+        {
+          "authorId": "3006788",
+          "name": "Zhixiang Ren"
+        },
+        {
+          "authorId": "6648393",
+          "name": "Qiankun Wang"
+        },
+        {
+          "authorId": "3112067",
+          "name": "Daixi Li"
+        },
+        {
+          "authorId": "152737644",
+          "name": "Dongqing Wei"
+        },
+        {
+          "authorId": "2191767998",
+          "name": "Bin Zhou"
+        },
+        {
+          "authorId": "2192026264",
+          "name": "Chao Yang"
+        },
+        {
+          "authorId": "2115729952",
+          "name": "Yonghong Tian"
+        }
+      ]
+    },
+    {
+      "paperId": "83872683e1fed3ae2f33a5517c933e460cfa8fb1",
+      "publicationVenue": {
+        "id": "6c3a9833-5fac-49d3-b7e7-64910bd40b4e",
+        "name": "Adaptive Agents and Multi-Agent Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Adapt Agent Multi-agent Syst",
+          "International Joint Conference on Autonomous Agents & Multiagent Systems",
+          "Adapt Agent Multi-agents Syst",
+          "AAMAS",
+          "Adaptive Agents and Multi-Agents Systems",
+          "Int Jt Conf Auton Agent  Multiagent Syst"
+        ],
+        "url": "http://www.ifaamas.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/83872683e1fed3ae2f33a5517c933e460cfa8fb1",
+      "title": "Quantitative Planning with Action Deception in Concurrent Stochastic Games",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2169146",
+          "name": "Chongyang Shi"
+        },
+        {
+          "authorId": "144525193",
+          "name": "Shuo Han"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "8ddebb0f126c38167bb00cd6e984bf6c7c1d0ca1",
+      "publicationVenue": {
+        "id": "cfc287e4-4c04-4848-ab16-633b33a61a09",
+        "name": "International Society for Music Information Retrieval Conference",
+        "type": "conference",
+        "alternate_names": [
+          "International Symposium/Conference on Music Information Retrieval",
+          "ISMIR",
+          "Int Soc Music Inf Retr Conf",
+          "Int Symp Music Inf Retr"
+        ],
+        "url": "http://www.ismir.net/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8ddebb0f126c38167bb00cd6e984bf6c7c1d0ca1",
+      "title": "On the Effectiveness of Speech Self-supervised Learning for Music",
+      "venue": "International Society for Music Information Retrieval Conference",
+      "year": 2023,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2146277129",
+          "name": "Yi Ma"
+        },
+        {
+          "authorId": "2032236274",
+          "name": "Ruibin Yuan"
+        },
+        {
+          "authorId": "2129449392",
+          "name": "Yizhi Li"
+        },
+        {
+          "authorId": "2143853895",
+          "name": "Ge Zhang"
+        },
+        {
+          "authorId": "2143791452",
+          "name": "Xingran Chen"
+        },
+        {
+          "authorId": "89925712",
+          "name": "Hanzhi Yin"
+        },
+        {
+          "authorId": "2029434085",
+          "name": "Chen-Li Lin"
+        },
+        {
+          "authorId": "2109397",
+          "name": "Emmanouil Benetos"
+        },
+        {
+          "authorId": "1804969",
+          "name": "A. Ragni"
+        },
+        {
+          "authorId": "90917892",
+          "name": "N. Gyenge"
+        },
+        {
+          "authorId": "7247867",
+          "name": "Ruibo Liu"
+        },
+        {
+          "authorId": "38746431",
+          "name": "Gus G. Xia"
+        },
+        {
+          "authorId": "1697732",
+          "name": "R. Dannenberg"
+        },
+        {
+          "authorId": "2118270918",
+          "name": "Yi-Ting Guo"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "9932b7a3d11b847423ffe250c35b66de27e8b88b",
+      "publicationVenue": {
+        "id": "b84ebb03-add3-4e2c-b380-26ecc87c7011",
+        "name": "IEEE Control Systems Letters",
+        "alternate_names": [
+          "IEEE Control Syst Lett"
+        ],
+        "issn": "2475-1456",
+        "url": "https://ieeexplore.ieee.org/servlet/opac?punumber=7782633",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782633"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9932b7a3d11b847423ffe250c35b66de27e8b88b",
+      "title": "Optimizing Sensor Allocation Against Attackers With Uncertain Intentions: A Worst-Case Regret Minimization Approach",
+      "venue": "IEEE Control Systems Letters",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110815726",
+          "name": "Haoxiang Ma"
+        },
+        {
+          "authorId": "144525193",
+          "name": "Shuo Han"
+        },
+        {
+          "authorId": "145231705",
+          "name": "Charles A. Kamhoua"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "ad97f5fb9d261252b3ffd132d5c69f9f204aec5b",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/ad97f5fb9d261252b3ffd132d5c69f9f204aec5b",
+      "title": "Mixup-Augmented Meta-Learning for Sample-Efficient Fine-Tuning of Protein Simulators",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "2128670229",
+          "name": "Jingbang Chen"
+        },
+        {
+          "authorId": "2107958102",
+          "name": "Yian Wang"
+        },
+        {
+          "authorId": "2052433185",
+          "name": "Xingwei Qu"
+        },
+        {
+          "authorId": "2111071074",
+          "name": "Shuangjia Zheng"
+        },
+        {
+          "authorId": "2116764844",
+          "name": "Yao-Chun Yang"
+        },
+        {
+          "authorId": "47866340",
+          "name": "Hao Dong"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "bd9feccae7533a043b7889f26053e9ffd32de128",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/bd9feccae7533a043b7889f26053e9ffd32de128",
+      "title": "MARBLE: Music Audio Representation Benchmark for Universal Evaluation",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2032236274",
+          "name": "Ruibin Yuan"
+        },
+        {
+          "authorId": "2146277129",
+          "name": "Yi Ma"
+        },
+        {
+          "authorId": "2129449392",
+          "name": "Yizhi Li"
+        },
+        {
+          "authorId": "2143853895",
+          "name": "Ge Zhang"
+        },
+        {
+          "authorId": "2143791452",
+          "name": "Xingran Chen"
+        },
+        {
+          "authorId": "89925712",
+          "name": "Hanzhi Yin"
+        },
+        {
+          "authorId": "2300371391",
+          "name": "Le Zhuo"
+        },
+        {
+          "authorId": "2220326819",
+          "name": "Yiqi Liu"
+        },
+        {
+          "authorId": "2276814017",
+          "name": "Jiawen Huang"
+        },
+        {
+          "authorId": "2157198469",
+          "name": "Zeyue Tian"
+        },
+        {
+          "authorId": "2186557712",
+          "name": "Binyue Deng"
+        },
+        {
+          "authorId": "2220665286",
+          "name": "Ningzhi Wang"
+        },
+        {
+          "authorId": "2928777",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "38746431",
+          "name": "Gus G. Xia"
+        },
+        {
+          "authorId": "2195745651",
+          "name": "Wei Xue"
+        },
+        {
+          "authorId": "2220617810",
+          "name": "Si Liu"
+        },
+        {
+          "authorId": "2144215438",
+          "name": "Shi Wang"
+        },
+        {
+          "authorId": "7247867",
+          "name": "Ruibo Liu"
+        },
+        {
+          "authorId": "2118270918",
+          "name": "Yi-Ting Guo"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "c08504c4775473a090f62cc5607bb2d7080d8b0f",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/c08504c4775473a090f62cc5607bb2d7080d8b0f",
+      "title": "TPDM: Selectively Removing Positional Information for Zero-shot Translation via Token-Level Position Disentangle Module",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2143791452",
+          "name": "Xingran Chen"
+        },
+        {
+          "authorId": "2143853895",
+          "name": "Ge Zhang"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "f465d96679f127da35be75dd52352a6f07d3baa4",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/f465d96679f127da35be75dd52352a6f07d3baa4",
+      "title": "Autonomous Search of Semantic Objects in Unknown Environments",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2072822620",
+          "name": "Zhentian Qian"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2144576087",
+          "name": "Jing Xiao"
+        }
+      ]
+    },
+    {
+      "paperId": "fb08b08916caab4b22c60fa96753f6b9a5886d75",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/fb08b08916caab4b22c60fa96753f6b9a5886d75",
+      "title": "MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised Training",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "citationCount": 102,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2129449392",
+          "name": "Yizhi Li"
+        },
+        {
+          "authorId": "2032236274",
+          "name": "Ruibin Yuan"
+        },
+        {
+          "authorId": "2143853895",
+          "name": "Ge Zhang"
+        },
+        {
+          "authorId": "2146277129",
+          "name": "Yi Ma"
+        },
+        {
+          "authorId": "2143791452",
+          "name": "Xingran Chen"
+        },
+        {
+          "authorId": "89925712",
+          "name": "Hanzhi Yin"
+        },
+        {
+          "authorId": "2029434085",
+          "name": "Chen-Li Lin"
+        },
+        {
+          "authorId": "1804969",
+          "name": "A. Ragni"
+        },
+        {
+          "authorId": "2109397",
+          "name": "Emmanouil Benetos"
+        },
+        {
+          "authorId": "90917892",
+          "name": "N. Gyenge"
+        },
+        {
+          "authorId": "1697732",
+          "name": "R. Dannenberg"
+        },
+        {
+          "authorId": "7247867",
+          "name": "Ruibo Liu"
+        },
+        {
+          "authorId": "2928777",
+          "name": "Wenhu Chen"
+        },
+        {
+          "authorId": "38746431",
+          "name": "Gus G. Xia"
+        },
+        {
+          "authorId": "38179026",
+          "name": "Yemin Shi"
+        },
+        {
+          "authorId": "1825796760",
+          "name": "Wen-Fen Huang"
+        },
+        {
+          "authorId": "2118270918",
+          "name": "Yi-Ting Guo"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "ff6750a385ee71e0dbc474dae1652ea8c309791a",
+      "publicationVenue": {
+        "id": "6c3a9833-5fac-49d3-b7e7-64910bd40b4e",
+        "name": "Adaptive Agents and Multi-Agent Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Adapt Agent Multi-agent Syst",
+          "International Joint Conference on Autonomous Agents & Multiagent Systems",
+          "Adapt Agent Multi-agents Syst",
+          "AAMAS",
+          "Adaptive Agents and Multi-Agents Systems",
+          "Int Jt Conf Auton Agent  Multiagent Syst"
+        ],
+        "url": "http://www.ifaamas.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ff6750a385ee71e0dbc474dae1652ea8c309791a",
+      "title": "Optimal Decoy Resource Allocation for Proactive Defense in Probabilistic Attack Graphs",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110815726",
+          "name": "Haoxiang Ma"
+        },
+        {
+          "authorId": "144525193",
+          "name": "Shuo Han"
+        },
+        {
+          "authorId": "145007529",
+          "name": "Nandi O. Leslie"
+        },
+        {
+          "authorId": "145231705",
+          "name": "Charles A. Kamhoua"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "1ee30dfeaf13d718601acfaddd53d6d7f7a4e117",
+      "publicationVenue": {
+        "id": "fe4d09f8-d278-4bfb-b73a-1a6a0e22f6a3",
+        "name": "American Control Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Adv Comput Control",
+          "ACC",
+          "Advances in Computing and Communications",
+          "Adv Comput Commun",
+          "Am Control Conf",
+          "Advances in Computer and Communication",
+          "International Conference on Advanced Computer Control"
+        ],
+        "issn": "2767-2875",
+        "url": "http://a2c2.org/conferences/american-control-conferences",
+        "alternate_urls": [
+          "http://www.acc-rajagiri.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/1ee30dfeaf13d718601acfaddd53d6d7f7a4e117",
+      "title": "Opportunistic Qualitative Planning in Stochastic Systems with Incomplete Preferences over Reachability Objectives",
+      "venue": "American Control Conference",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "31542431",
+          "name": "A. Kulkarni"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "211545f1b6cf1d8d9f9c96853f3291e18331a584",
+      "publicationVenue": {
+        "id": "607fb06f-dfb3-4bbf-9815-ffde1115a105",
+        "name": "Journal of Thoracic Oncology",
+        "type": "journal",
+        "alternate_names": [
+          "J Thorac Oncol"
+        ],
+        "issn": "1556-0864",
+        "url": "http://journals.lww.com/jto/pages/default.aspx",
+        "alternate_urls": [
+          "https://www.jto.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/211545f1b6cf1d8d9f9c96853f3291e18331a584",
+      "title": "OA14.04 Chest Wall Toxicity after Individualized Stereotactic Ablative Radiotherapy for Lung Tumors",
+      "venue": "Journal of Thoracic Oncology",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "50616445",
+          "name": "B. Lau"
+        },
+        {
+          "authorId": "2184551132",
+          "name": "Y.F. Wu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2052345296",
+          "name": "S. Cui"
+        },
+        {
+          "authorId": "4237973",
+          "name": "D. Pham"
+        },
+        {
+          "authorId": "17786332",
+          "name": "H. Gee"
+        },
+        {
+          "authorId": "2080151344",
+          "name": "L. Skinner"
+        },
+        {
+          "authorId": "2728701",
+          "name": "H. Shirato"
+        },
+        {
+          "authorId": "2061854736",
+          "name": "H. Taguchi"
+        },
+        {
+          "authorId": "39062530",
+          "name": "A. Chin"
+        },
+        {
+          "authorId": "92057257",
+          "name": "M. Gensheimer"
+        },
+        {
+          "authorId": "2065621239",
+          "name": "M. Diehn"
+        },
+        {
+          "authorId": "1778000",
+          "name": "B. Loo"
+        },
+        {
+          "authorId": "2153948315",
+          "name": "L. Vitzthum"
+        }
+      ]
+    },
+    {
+      "paperId": "2c1db2d4dc878625b3c1056bcd8517cb04e7a8bc",
+      "publicationVenue": {
+        "id": "cd98e18e-3ce9-431d-8031-9692dc50d6de",
+        "name": "CASE",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Conference on Automation Science and Engineering",
+          "Conf Autom Sci Eng",
+          "IEEE Conf Autom Sci Eng",
+          "Conference on Automation Science and Engineering"
+        ],
+        "issn": "2468-6441",
+        "url": "https://www.cvcasejournal.com/",
+        "alternate_urls": [
+          "http://www.wikicfp.com/cfp/program?id=366",
+          "https://www.journals.elsevier.com/case"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2c1db2d4dc878625b3c1056bcd8517cb04e7a8bc",
+      "title": "1Cademy @ Causal News Corpus 2022: Leveraging Self-Training in Causality Classification of Socio-Political Event Data",
+      "venue": "CASE",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2189375026",
+          "name": "A. Nik"
+        },
+        {
+          "authorId": "2143853895",
+          "name": "Ge Zhang"
+        },
+        {
+          "authorId": "2143791452",
+          "name": "Xingran Chen"
+        },
+        {
+          "authorId": "2189420117",
+          "name": "Mingyu Li"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "2d2bca1fbe8847f662d48539f395cb9e13c29737",
+      "publicationVenue": {
+        "id": "e117fa7f-05b7-4dd6-b64b-0a0a7c0393d8",
+        "name": "IEEE Transactions on Image Processing",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Image Process"
+        ],
+        "issn": "1057-7149",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=83",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2d2bca1fbe8847f662d48539f395cb9e13c29737",
+      "title": "Compact Representation and Reliable Classification Learning for Point-Level Weakly-Supervised Action Localization",
+      "venue": "IEEE Transactions on Image Processing",
+      "year": 2022,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "46930271",
+          "name": "Junyu Gao"
+        },
+        {
+          "authorId": "2155590336",
+          "name": "Changsheng Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "34756067e9a3ef57ddfd2c473760daf7580e6e47",
+      "publicationVenue": {
+        "id": "fe4d09f8-d278-4bfb-b73a-1a6a0e22f6a3",
+        "name": "American Control Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Adv Comput Control",
+          "ACC",
+          "Advances in Computing and Communications",
+          "Adv Comput Commun",
+          "Am Control Conf",
+          "Advances in Computer and Communication",
+          "International Conference on Advanced Computer Control"
+        ],
+        "issn": "2767-2875",
+        "url": "http://a2c2.org/conferences/american-control-conferences",
+        "alternate_urls": [
+          "http://www.acc-rajagiri.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/34756067e9a3ef57ddfd2c473760daf7580e6e47",
+      "title": "Synthesis of Proactive Sensor Placement In Probabilistic Attack Graphs",
+      "venue": "American Control Conference",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8447450",
+          "name": "Lening Li"
+        },
+        {
+          "authorId": "2110815726",
+          "name": "Haoxiang Ma"
+        },
+        {
+          "authorId": "144525193",
+          "name": "Shuo Han"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "3d79a264212fc07fee6c9e3496638aaf3e6ae7e4",
+      "publicationVenue": {
+        "id": "db50471b-6255-422d-9b0e-4289b07fd158",
+        "name": "Anticancer Research",
+        "type": "journal",
+        "alternate_names": [
+          "Anticancer Res"
+        ],
+        "issn": "0250-7005",
+        "url": "http://www.iiar-anticancer.org/main.php?id=2",
+        "alternate_urls": [
+          "http://ar.iiarjournals.org/",
+          "http://ar.iiarjournals.org/content/35/1/31.long"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3d79a264212fc07fee6c9e3496638aaf3e6ae7e4",
+      "title": "Recombinant Thrombomodulin Has Anti-tumor Effects and Enhances the Effects of Gemcitabine for Pancreatic Cancer Through G-protein Coupled Receptor 15",
+      "venue": "Anticancer Research",
+      "year": 2022,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "4857598",
+          "name": "K. Furukawa"
+        },
+        {
+          "authorId": "40325235",
+          "name": "J. Ling"
+        },
+        {
+          "authorId": "15086757",
+          "name": "Yichen Sun"
+        },
+        {
+          "authorId": "2140044880",
+          "name": "Yu Lu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "88082902",
+          "name": "R. Marukuchi"
+        },
+        {
+          "authorId": "4138847",
+          "name": "P. Chiao"
+        }
+      ]
+    },
+    {
+      "paperId": "4c0faaa716c32a89fb5bea7deb67c647087c61a9",
+      "publicationVenue": {
+        "id": "3f2626a8-9d78-42ca-9e0d-4b853b59cdcc",
+        "name": "IEEE International Conference on Robotics and Automation",
+        "type": "conference",
+        "alternate_names": [
+          "International Conference on Robotics and Automation",
+          "Int Conf Robot Autom",
+          "ICRA",
+          "IEEE Int Conf Robot Autom"
+        ],
+        "issn": "2152-4092",
+        "alternate_issns": [
+          "2379-9544"
+        ],
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000639",
+        "alternate_urls": [
+          "http://www.ncsu.edu/IEEE-RAS/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4c0faaa716c32a89fb5bea7deb67c647087c61a9",
+      "title": "Probabilistic Planning with Partially Ordered Preferences over Temporal Goals",
+      "venue": "IEEE International Conference on Robotics and Automation",
+      "year": 2022,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51310095",
+          "name": "Hazhar Rahmani"
+        },
+        {
+          "authorId": "31542431",
+          "name": "A. Kulkarni"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "524e8239e5ed4393f3db037c55cc8582048ce783",
+      "publicationVenue": {
+        "id": "b4cce001-57d5-4678-aa55-f89b8813c9e8",
+        "name": "Decision and Game Theory for Security",
+        "type": "conference",
+        "alternate_names": [
+          "GameSec",
+          "Decis Game Theory Secur"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1108"
+      },
+      "url": "https://www.semanticscholar.org/paper/524e8239e5ed4393f3db037c55cc8582048ce783",
+      "title": "On Almost-Sure Intention Deception Planning that Exploits Imperfect Observers",
+      "venue": "Decision and Game Theory for Security",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "59480f49ebd67b9df5c7480a19d0867fc379a3f1",
+      "publicationVenue": {
+        "id": "76d88559-e586-415c-aa9c-4b8946ce8ed6",
+        "name": "EClinicalMedicine",
+        "type": "journal",
+        "issn": "2589-5370",
+        "url": "https://www.journals.elsevier.com/eclinicalmedicine",
+        "alternate_urls": [
+          "https://www.thelancet.com/journals/eclinm/issue/current?code=lancet-site",
+          "https://www.thelancet.com/journals/eclinm/home"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/59480f49ebd67b9df5c7480a19d0867fc379a3f1",
+      "title": "Toxicity spectrum of immunotherapy in advanced lung cancer: A safety analysis from clinical trials and a pharmacovigilance system",
+      "venue": "EClinicalMedicine",
+      "year": 2022,
+      "citationCount": 39,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "120103326",
+          "name": "Yi-Dan Yan"
+        },
+        {
+          "authorId": "2118976739",
+          "name": "Ying Zhao"
+        },
+        {
+          "authorId": "1646684236",
+          "name": "Chi Zhang"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "47064733",
+          "name": "Ying-Jie Su"
+        },
+        {
+          "authorId": "144339997",
+          "name": "Xiangyi Cui"
+        },
+        {
+          "authorId": "37959331",
+          "name": "Er-li Ma"
+        },
+        {
+          "authorId": "47655384",
+          "name": "Bingqing Liu"
+        },
+        {
+          "authorId": "6803348",
+          "name": "Zhi-Chun Gu"
+        },
+        {
+          "authorId": "2146353181",
+          "name": "Houwen Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "5c4070cb73a3c2045d99773bc36ba6520c501662",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/5c4070cb73a3c2045d99773bc36ba6520c501662",
+      "title": "Reconciliation of Pre-trained Models and Prototypical Neural Networks in Few-shot Named Entity Recognition",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2156083891",
+          "name": "Youcheng Huang"
+        },
+        {
+          "authorId": "39165620",
+          "name": "Wenqiang Lei"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2075420316",
+          "name": "Jiancheng Lv"
+        }
+      ]
+    },
+    {
+      "paperId": "7ed1094d2a7220eddcd957b1b629b505aba78455",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/7ed1094d2a7220eddcd957b1b629b505aba78455",
+      "title": "Learning Semantic-Aware Spatial-Temporal Attention for Interpretable Action Recognition",
+      "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+      "year": 2022,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "46930271",
+          "name": "Junyu Gao"
+        },
+        {
+          "authorId": "145194969",
+          "name": "Changsheng Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "9693e573e48211c294dbc8e52cc52ade70fbb60c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/9693e573e48211c294dbc8e52cc52ade70fbb60c",
+      "title": "Opportunistic Qualitative Planning in Stochastic Systems with Preferences over Temporal Logic Objectives",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "31542431",
+          "name": "A. Kulkarni"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "b6b9747c939e9f3e2750bddc2a96afc61ed62edf",
+      "publicationVenue": {
+        "id": "52113867-f77b-4f26-a1cf-8e577dd325ea",
+        "name": "Physical review B",
+        "type": "journal",
+        "alternate_names": [
+          "Phys rev B",
+          "Phys Rev B",
+          "Physical Review B"
+        ],
+        "issn": "2469-9950",
+        "alternate_issns": [
+          "1098-0121",
+          "0556-2805"
+        ],
+        "url": "https://journals.aps.org/prb",
+        "alternate_urls": [
+          "https://journals.aps.org/prb/",
+          "http://journals.aps.org/prb/",
+          "http://prola.aps.org/",
+          "https://www.tib.eu/de/openurl/search?amp;DlicenseModel=nl&issn=1098-0121,0163-1829",
+          "http://prb.aps.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/b6b9747c939e9f3e2750bddc2a96afc61ed62edf",
+      "title": "Erratum: Free energies of iron phases at high pressure and temperature: Molecular dynamics study [Phys. Rev. B \n104\n, 104103 (2021)]",
+      "venue": "Physical review B",
+      "year": 2022,
+      "citationCount": 3,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2647137",
+          "name": "A. Belonoshko"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2184498",
+          "name": "G. Smirnov"
+        }
+      ]
+    },
+    {
+      "paperId": "b7759cefa9bda40e58e308b1dceec417589492ad",
+      "publicationVenue": {
+        "id": "027ffd21-ebb0-4af8-baf5-911124292fd0",
+        "name": "bioRxiv",
+        "type": "journal",
+        "url": "http://biorxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b7759cefa9bda40e58e308b1dceec417589492ad",
+      "title": "Nardilysin-regulated scission mechanism activates polo-like kinase 3 to suppress the development of pancreatic cancer",
+      "venue": "bioRxiv",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "40325235",
+          "name": "J. Ling"
+        },
+        {
+          "authorId": "1937255859",
+          "name": "Ching-Fei Li"
+        },
+        {
+          "authorId": "49970827",
+          "name": "Chi-Lin Tsai"
+        },
+        {
+          "authorId": "2179939119",
+          "name": "Wenjuan Yin"
+        },
+        {
+          "authorId": "2100712641",
+          "name": "Junwei Hou"
+        },
+        {
+          "authorId": "13125311",
+          "name": "Pi-Hsin Chen"
+        },
+        {
+          "authorId": "144149886",
+          "name": "Yu Cao"
+        },
+        {
+          "authorId": "78102197",
+          "name": "Ya'an Kang"
+        },
+        {
+          "authorId": "15086757",
+          "name": "Yichen Sun"
+        },
+        {
+          "authorId": "6270815",
+          "name": "Xianghou Xia"
+        },
+        {
+          "authorId": "4857598",
+          "name": "K. Furukawa"
+        },
+        {
+          "authorId": "2140044880",
+          "name": "Yu Lu"
+        },
+        {
+          "authorId": "2144151878",
+          "name": "Min Wu"
+        },
+        {
+          "authorId": "1792793",
+          "name": "Qian Huang"
+        },
+        {
+          "authorId": "2109803185",
+          "name": "Jun Yao"
+        },
+        {
+          "authorId": "6616751",
+          "name": "D. Hawke"
+        },
+        {
+          "authorId": "10119600",
+          "name": "B. Pan"
+        },
+        {
+          "authorId": "144931254",
+          "name": "Jun Zhao"
+        },
+        {
+          "authorId": "2131574395",
+          "name": "Jiaxing Huang"
+        },
+        {
+          "authorId": "2109007858",
+          "name": "Huamin Wang"
+        },
+        {
+          "authorId": "48816007",
+          "name": "E. M. Bahassi"
+        },
+        {
+          "authorId": "4207734",
+          "name": "P. Stambrook"
+        },
+        {
+          "authorId": "144000796",
+          "name": "Peng Huang"
+        },
+        {
+          "authorId": "144926646",
+          "name": "J. Fleming"
+        },
+        {
+          "authorId": "145734783",
+          "name": "A. Maitra"
+        },
+        {
+          "authorId": "2178688",
+          "name": "J. Tainer"
+        },
+        {
+          "authorId": "144666813",
+          "name": "M. Hung"
+        },
+        {
+          "authorId": "4138847",
+          "name": "P. Chiao"
+        }
+      ]
+    },
+    {
+      "paperId": "c1666fa6b0f565e4359cdad11bf204d9e9bc156e",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c1666fa6b0f565e4359cdad11bf204d9e9bc156e",
+      "title": "Biological Sequence Design with GFlowNets",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "citationCount": 151,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "1383135665",
+          "name": "Moksh Jain"
+        },
+        {
+          "authorId": "2416433",
+          "name": "Emmanuel Bengio"
+        },
+        {
+          "authorId": "83015253",
+          "name": "Alex Hernandez-Garcia"
+        },
+        {
+          "authorId": "1416982829",
+          "name": "Jarrid Rector-Brooks"
+        },
+        {
+          "authorId": "1591111757",
+          "name": "Bonaventure F. P. Dossou"
+        },
+        {
+          "authorId": "1491548557",
+          "name": "C. Ekbote"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": null,
+          "name": "Tianyu Zhang"
+        },
+        {
+          "authorId": "2139886663",
+          "name": "Micheal Kilgour"
+        },
+        {
+          "authorId": "113087412",
+          "name": "Dinghuai Zhang"
+        },
+        {
+          "authorId": "5069922",
+          "name": "Lena Simine"
+        },
+        {
+          "authorId": "1730372",
+          "name": "Payel Das"
+        },
+        {
+          "authorId": "1865800402",
+          "name": "Y. Bengio"
+        }
+      ]
+    },
+    {
+      "paperId": "c6629429d064b2ed3117e40d5558e21376aef337",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c6629429d064b2ed3117e40d5558e21376aef337",
+      "title": "HERB: Measuring Hierarchical Regional Bias in Pre-trained Language Models",
+      "venue": "AACL/IJCNLP",
+      "year": 2022,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2129449392",
+          "name": "Yizhi Li"
+        },
+        {
+          "authorId": "2143853895",
+          "name": "Ge Zhang"
+        },
+        {
+          "authorId": "84537195",
+          "name": "Bohao Yang"
+        },
+        {
+          "authorId": "2268783",
+          "name": "Chenghua Lin"
+        },
+        {
+          "authorId": "2144215438",
+          "name": "Shi Wang"
+        },
+        {
+          "authorId": "1804969",
+          "name": "A. Ragni"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "c775d6dc1282df9828643ba8003c074dfa7ae3da",
+      "publicationVenue": {
+        "id": "2aa2a52c-3e35-4bed-8edf-5dc99550883a",
+        "name": "IEEE Transactions on robotics",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans robot",
+          "IEEE Trans Robot",
+          "IEEE Transactions on Robotics"
+        ],
+        "issn": "1552-3098",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=8860",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c775d6dc1282df9828643ba8003c074dfa7ae3da",
+      "title": "Reinforcement Learning of CPG-Regulated Locomotion Controller for a Soft Snake Robot",
+      "venue": "IEEE Transactions on robotics",
+      "year": 2022,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "26966619",
+          "name": "Xuan Liu"
+        },
+        {
+          "authorId": "35008041",
+          "name": "C. Onal"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "c9fa8647571ca485988577e202b2c8b460c44d4a",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c9fa8647571ca485988577e202b2c8b460c44d4a",
+      "title": "Bidirectional Learning for Offline Infinite-width Model-based Optimization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "citationCount": 37,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2109063238",
+          "name": "Can Chen"
+        },
+        {
+          "authorId": "2108467161",
+          "name": "Yingxue Zhang"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2151060489",
+          "name": "Xue Liu"
+        },
+        {
+          "authorId": "2150349871",
+          "name": "Mark Coates"
+        }
+      ]
+    },
+    {
+      "paperId": "ca7c77bf5fb7dba64a9f537ae57b9aff41d1a7a4",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ca7c77bf5fb7dba64a9f537ae57b9aff41d1a7a4",
+      "title": "Targeting tumor glycolysis metabolism in oral squamous cell carcinoma cells by brusatol",
+      "venue": "Pharmacological Research - Modern Chinese Medicine",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2116299860",
+          "name": "Guilian Zhang"
+        },
+        {
+          "authorId": "2134117011",
+          "name": "Yanlin Wu"
+        },
+        {
+          "authorId": "2144319997",
+          "name": "Suhong Chen"
+        },
+        {
+          "authorId": "2118007308",
+          "name": "Ying Su"
+        },
+        {
+          "authorId": "147857525",
+          "name": "Panpan Yin"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2108262922",
+          "name": "Xinyan Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "cb9e8f7e96b81002d4fb1538c3e34a2aacb60f50",
+      "publicationVenue": {
+        "id": "b84ebb03-add3-4e2c-b380-26ecc87c7011",
+        "name": "IEEE Control Systems Letters",
+        "alternate_names": [
+          "IEEE Control Syst Lett"
+        ],
+        "issn": "2475-1456",
+        "url": "https://ieeexplore.ieee.org/servlet/opac?punumber=7782633",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782633"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/cb9e8f7e96b81002d4fb1538c3e34a2aacb60f50",
+      "title": "Synthesizing Attack-Aware Control and Active Sensing Strategies Under Reactive Sensor Attacks",
+      "venue": "IEEE Control Systems Letters",
+      "year": 2022,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2090010793",
+          "name": "S. Udupa"
+        },
+        {
+          "authorId": "31542431",
+          "name": "A. Kulkarni"
+        },
+        {
+          "authorId": "144525193",
+          "name": "Shuo Han"
+        },
+        {
+          "authorId": "145007529",
+          "name": "Nandi O. Leslie"
+        },
+        {
+          "authorId": "145231705",
+          "name": "Charles A. Kamhoua"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "fb11d451538d74aa89b30ab10c869b45191b4cf5",
+      "publicationVenue": {
+        "id": "b0bd78b2-6591-460e-af71-196409b62e2c",
+        "name": "Cancer Research",
+        "type": "journal",
+        "alternate_names": [
+          "Cancer Res"
+        ],
+        "issn": "0008-5472",
+        "url": "https://cancerres.aacrjournals.org/",
+        "alternate_urls": [
+          "http://cancerres.aacrjournals.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/fb11d451538d74aa89b30ab10c869b45191b4cf5",
+      "title": "Abstract C070: Investigation of the roles of BDKRB1 in pancreatic cancer progression and tumor microenvironment modulation",
+      "venue": "Cancer Research",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1937255859",
+          "name": "Ching-Fei Li"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "121406101",
+          "name": "Heng-Huan Lee"
+        },
+        {
+          "authorId": "2108732261",
+          "name": "Ying-Nai Wang"
+        },
+        {
+          "authorId": "47237485",
+          "name": "Yu\u2010Yi Chu"
+        },
+        {
+          "authorId": "4138847",
+          "name": "P. Chiao"
+        },
+        {
+          "authorId": "144666813",
+          "name": "M. Hung"
+        }
+      ]
+    },
+    {
+      "paperId": "fcb082d5041272b582f8fcbe7078a041bea202ab",
+      "publicationVenue": {
+        "id": "93c335b7-edf4-45f5-8ddc-7c5835154945",
+        "name": "IEEE Robotics and Automation Letters",
+        "alternate_names": [
+          "IEEE Robot Autom Lett"
+        ],
+        "issn": "2377-3766",
+        "url": "https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=PER481-ELE",
+        "alternate_urls": [
+          "http://ieeexplore.ieee.org/servlet/opac?punumber=7083369"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/fcb082d5041272b582f8fcbe7078a041bea202ab",
+      "title": "Towards Accurate Loop Closure Detection in Semantic SLAM With 3D Semantic Covisibility Graphs",
+      "venue": "IEEE Robotics and Automation Letters",
+      "year": 2022,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2072822620",
+          "name": "Zhentian Qian"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2144576087",
+          "name": "Jing Xiao"
+        }
+      ]
+    },
+    {
+      "paperId": "1446d8584488a206085345b4efc0a5c623e7bc5b",
+      "publicationVenue": {
+        "id": "7654260e-79f9-45c5-9663-d72027cf88f3",
+        "name": "IEEE International Conference on Computer Vision",
+        "type": "conference",
+        "alternate_names": [
+          "ICCV",
+          "IEEE Int Conf Comput Vis",
+          "ICCV Workshops",
+          "ICCV Work"
+        ],
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/1446d8584488a206085345b4efc0a5c623e7bc5b",
+      "title": "FloW: A Dataset and Benchmark for Floating Waste Detection in Inland Waters",
+      "venue": "IEEE International Conference on Computer Vision",
+      "year": 2021,
+      "citationCount": 65,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2153510999",
+          "name": "Yuwei Cheng"
+        },
+        {
+          "authorId": "2141511539",
+          "name": "Jiannan Zhu"
+        },
+        {
+          "authorId": "2052538244",
+          "name": "Mengxin Jiang"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2142196682",
+          "name": "Changsong Pang"
+        },
+        {
+          "authorId": "2155651143",
+          "name": "Peidong Wang"
+        },
+        {
+          "authorId": "46769963",
+          "name": "K. Sankaran"
+        },
+        {
+          "authorId": "2066348521",
+          "name": "Olawale Onabola"
+        },
+        {
+          "authorId": "2108053135",
+          "name": "Yimin Liu"
+        },
+        {
+          "authorId": "2146082081",
+          "name": "Dianbo Liu"
+        },
+        {
+          "authorId": "1751762",
+          "name": "Yoshua Bengio"
+        }
+      ]
+    },
+    {
+      "paperId": "375e3c06366be62c96e0339ab6cf889eb0bec068",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/375e3c06366be62c96e0339ab6cf889eb0bec068",
+      "title": "Unifying Likelihood-free Inference with Black-box Optimization and Beyond",
+      "venue": "International Conference on Learning Representations",
+      "year": 2021,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Biology",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "113087412",
+          "name": "Dinghuai Zhang"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "1865800402",
+          "name": "Y. Bengio"
+        },
+        {
+          "authorId": "1760871",
+          "name": "Aaron C. Courville"
+        }
+      ]
+    },
+    {
+      "paperId": "3b8355a0e0433353041cabc114af0b8f823b7062",
+      "publicationVenue": {
+        "id": "34e959c8-272f-4460-aa67-7cfc351960ad",
+        "name": "Gastroenterology & hepatology",
+        "type": "journal",
+        "alternate_names": [
+          "Gastroenterology and hepatology",
+          "Gastroenterol Hepatol",
+          "Gastroenterol hepatol",
+          "Gastroenterologie a hepatologie",
+          "Gastroenterol  hepatol",
+          "Gastroenterolog\u00eda y Hepatolog\u00eda"
+        ],
+        "issn": "1554-7914",
+        "alternate_issns": [
+          "1804-7874",
+          "1925-962X",
+          "1925-9611",
+          "0210-5705"
+        ],
+        "url": "https://www.gastroenterologyandhepatology.net/",
+        "alternate_urls": [
+          "http://www.csgh.info/en/intro",
+          "https://www.journals.elsevier.com/gastroenterologia-y-hepatologia"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3b8355a0e0433353041cabc114af0b8f823b7062",
+      "title": "A model incorporating serum C3 complement levels may be useful for diagnosing biliary atresia in infants",
+      "venue": "Gastroenterology & hepatology",
+      "year": 2021,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "6514460",
+          "name": "Jiankun Liang"
+        },
+        {
+          "authorId": "47892310",
+          "name": "Huixian Li"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "46456633",
+          "name": "Q. Liang"
+        },
+        {
+          "authorId": "2149917661",
+          "name": "Tao Liu"
+        },
+        {
+          "authorId": "2156128286",
+          "name": "Fengxia Yang"
+        },
+        {
+          "authorId": "2117925871",
+          "name": "Bingbing Zhang"
+        },
+        {
+          "authorId": "3290805",
+          "name": "Xiaolin Bai"
+        },
+        {
+          "authorId": "2067930427",
+          "name": "Z. Wen"
+        }
+      ]
+    },
+    {
+      "paperId": "517f89c61bf6b6a21bdf3c80f0bea07e47ff4c42",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/517f89c61bf6b6a21bdf3c80f0bea07e47ff4c42",
+      "title": "CS1001-304: A phase III study of fluorouracil and cisplatin (FP) with CS1001, an anti-PD-L1 antibody, or placebo in unresectable locally advanced, recurrent or metastatic esophageal squamous cell carcinoma (ESCC).",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2118398236",
+          "name": "Jin Li"
+        },
+        {
+          "authorId": "3724325",
+          "name": "Y. Bai"
+        },
+        {
+          "authorId": "122927229",
+          "name": "Qingshan Li"
+        },
+        {
+          "authorId": "2108138636",
+          "name": "Youen Lin"
+        },
+        {
+          "authorId": "143891657",
+          "name": "Hao Jiang"
+        },
+        {
+          "authorId": "2281757",
+          "name": "Zhendong Chen"
+        },
+        {
+          "authorId": "97914865",
+          "name": "Rong Huang"
+        },
+        {
+          "authorId": "2155791734",
+          "name": "Na Li"
+        },
+        {
+          "authorId": "1491340318",
+          "name": "Yanxia Ji"
+        },
+        {
+          "authorId": "2056029",
+          "name": "Shujun Yang"
+        },
+        {
+          "authorId": "2041864393",
+          "name": "W-W. Qiu"
+        },
+        {
+          "authorId": "2156641191",
+          "name": "Bo Liu"
+        },
+        {
+          "authorId": "2109484219",
+          "name": "Jufeng Wang"
+        },
+        {
+          "authorId": "36950878",
+          "name": "K. Gu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2153212127",
+          "name": "Bo Wang"
+        },
+        {
+          "authorId": "123925065",
+          "name": "Jin Hu"
+        },
+        {
+          "authorId": "2118039894",
+          "name": "Yan Xu"
+        },
+        {
+          "authorId": "2106859978",
+          "name": "Q. Shi"
+        },
+        {
+          "authorId": "2127976752",
+          "name": "Jianxin Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "5eddbfa1aa76b3a9210e754df050887f78f167f8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/5eddbfa1aa76b3a9210e754df050887f78f167f8",
+      "title": "Evolving Decomposed Plasticity Rules for Information-Bottlenecked Meta-Learning",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2021,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2145903238",
+          "name": "Fan Wang"
+        },
+        {
+          "authorId": "2069988265",
+          "name": "Hao Tian"
+        },
+        {
+          "authorId": "2093122747",
+          "name": "Haoyi Xiong"
+        },
+        {
+          "authorId": "40354707",
+          "name": "Hua Wu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "145871531",
+          "name": "Yang Cao"
+        },
+        {
+          "authorId": "2116398144",
+          "name": "Yu Kang"
+        },
+        {
+          "authorId": "2155569278",
+          "name": "Haifeng Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "62ff77226038489686e4faa9d95b53df873ec25f",
+      "publicationVenue": {
+        "id": "ab066af1-bfee-42da-84bb-42f7e199d0d0",
+        "name": "IEEE Conference on Decision and Control",
+        "type": "conference",
+        "alternate_names": [
+          "Conference on Decision and Control",
+          "IEEE Conf Decis Control",
+          "Conf Decis Control",
+          "CDC"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=403"
+      },
+      "url": "https://www.semanticscholar.org/paper/62ff77226038489686e4faa9d95b53df873ec25f",
+      "title": "Qualitative Planning in Imperfect Information Games with Active Sensing and Reactive Sensor Attacks: Cost of Unawareness",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2021,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "31542431",
+          "name": "A. Kulkarni"
+        },
+        {
+          "authorId": "144525193",
+          "name": "Shuo Han"
+        },
+        {
+          "authorId": "145007529",
+          "name": "Nandi O. Leslie"
+        },
+        {
+          "authorId": "145231705",
+          "name": "Charles A. Kamhoua"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "6ae3d68b54d1bb84fefdbf420fffb390df1b863b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6ae3d68b54d1bb84fefdbf420fffb390df1b863b",
+      "title": "Pruning Ternary Quantization",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2822590",
+          "name": "Danyang Liu"
+        },
+        {
+          "authorId": "95487088",
+          "name": "Xiangshan Chen"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "74142381",
+          "name": "Chen Ma"
+        },
+        {
+          "authorId": "2151058626",
+          "name": "Xue Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "82da68d54cd3ff37020c90a13afaa3e9807a275b",
+      "publicationVenue": {
+        "id": "fe4d09f8-d278-4bfb-b73a-1a6a0e22f6a3",
+        "name": "American Control Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Adv Comput Control",
+          "ACC",
+          "Advances in Computing and Communications",
+          "Adv Comput Commun",
+          "Am Control Conf",
+          "Advances in Computer and Communication",
+          "International Conference on Advanced Computer Control"
+        ],
+        "issn": "2767-2875",
+        "url": "http://a2c2.org/conferences/american-control-conferences",
+        "alternate_urls": [
+          "http://www.acc-rajagiri.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/82da68d54cd3ff37020c90a13afaa3e9807a275b",
+      "title": "Probabilistic Planning with Preferences over Temporal Goals",
+      "venue": "American Control Conference",
+      "year": 2021,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "8e07069059506c76b644c2e857f9fe08d4508c76",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/8e07069059506c76b644c2e857f9fe08d4508c76",
+      "title": "Policy Synthesis for Metric Interval Temporal Logic with Probabilistic Distributions",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8447450",
+          "name": "Lening Li"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "9442019231e11d3e6eb3d4729dcaad7d7871c62c",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9442019231e11d3e6eb3d4729dcaad7d7871c62c",
+      "title": "MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2021,
+      "citationCount": 211,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51394448",
+          "name": "Shaoxiong Ji"
+        },
+        {
+          "authorId": "9416328",
+          "name": "Tianlin Zhang"
+        },
+        {
+          "authorId": "2135946025",
+          "name": "Luna Ansari"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2086549",
+          "name": "P. Tiwari"
+        },
+        {
+          "authorId": "49943757",
+          "name": "E. Cambria"
+        }
+      ]
+    },
+    {
+      "paperId": "a81064cb626c0b938bdd30d491cbacb0619ba57c",
+      "publicationVenue": {
+        "id": "52113867-f77b-4f26-a1cf-8e577dd325ea",
+        "name": "Physical review B",
+        "type": "journal",
+        "alternate_names": [
+          "Phys rev B",
+          "Phys Rev B",
+          "Physical Review B"
+        ],
+        "issn": "2469-9950",
+        "alternate_issns": [
+          "1098-0121",
+          "0556-2805"
+        ],
+        "url": "https://journals.aps.org/prb",
+        "alternate_urls": [
+          "https://journals.aps.org/prb/",
+          "http://journals.aps.org/prb/",
+          "http://prola.aps.org/",
+          "https://www.tib.eu/de/openurl/search?amp;DlicenseModel=nl&issn=1098-0121,0163-1829",
+          "http://prb.aps.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a81064cb626c0b938bdd30d491cbacb0619ba57c",
+      "title": "Free energies of iron phases at high pressure and temperature: Molecular dynamics study",
+      "venue": "Physical review B",
+      "year": 2021,
+      "citationCount": 13,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2647137",
+          "name": "A. Belonoshko"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2184498",
+          "name": "G. Smirnov"
+        }
+      ]
+    },
+    {
+      "paperId": "b243dcb1fec244354f04f0390fccd5bc9cd75357",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/b243dcb1fec244354f04f0390fccd5bc9cd75357",
+      "title": "Learning Multi-Objective Curricula for Deep Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152287163",
+          "name": "Jikun Kang"
+        },
+        {
+          "authorId": "46331912",
+          "name": "Miao Liu"
+        },
+        {
+          "authorId": "48668899",
+          "name": "Abhinav Gupta"
+        },
+        {
+          "authorId": "1972076",
+          "name": "C. Pal"
+        },
+        {
+          "authorId": "2151060489",
+          "name": "Xue Liu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "b9299db050cbf2686c9917120c591917cbcc5d8e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/b9299db050cbf2686c9917120c591917cbcc5d8e",
+      "title": "Unifying Likelihood-free Inference with Black-box Sequence Design and Beyond",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "113087412",
+          "name": "Dinghuai Zhang"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "1751762",
+          "name": "Yoshua Bengio"
+        },
+        {
+          "authorId": "1760871",
+          "name": "Aaron C. Courville"
+        }
+      ]
+    },
+    {
+      "paperId": "bfa68fe0a713201fffeff728a43e168c687e6020",
+      "publicationVenue": {
+        "id": "f8480fcc-dd9e-4c09-9baf-78df5a6881cd",
+        "name": "Cancer Cell International",
+        "type": "journal",
+        "alternate_names": [
+          "Cancer Cell Int"
+        ],
+        "issn": "1475-2867",
+        "url": "http://www.biomedcentral.com/1475-2867",
+        "alternate_urls": [
+          "http://www.cancerci.com/info/about/",
+          "http://www.cancerci.com/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/bfa68fe0a713201fffeff728a43e168c687e6020",
+      "title": "Circular RNAs regulate cancer-related signaling pathways and serve as potential diagnostic biomarkers for human cancers",
+      "venue": "Cancer Cell International",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2087586497",
+          "name": "Pranavi Garlapati"
+        },
+        {
+          "authorId": "123396230",
+          "name": "Jinjie Ling"
+        },
+        {
+          "authorId": "4138847",
+          "name": "P. Chiao"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "e382a73c4f87020e5ee8af8feacc6053347a129f",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e382a73c4f87020e5ee8af8feacc6053347a129f",
+      "title": "On Orthogonality Constraints for Transformers",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2114014617",
+          "name": "Alvin Chan"
+        },
+        {
+          "authorId": "97947517",
+          "name": "Yi Tay"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2992833",
+          "name": "Shuohang Wang"
+        },
+        {
+          "authorId": "1583098764",
+          "name": "Shuai Zhang"
+        },
+        {
+          "authorId": "3395273",
+          "name": "Huajie Shao"
+        },
+        {
+          "authorId": "2325031",
+          "name": "Shuochao Yao"
+        },
+        {
+          "authorId": "38656724",
+          "name": "R. Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "f7dbc89b857167caa1e2ff716b7cfbac48da20fe",
+      "publicationVenue": {
+        "id": "fbfbf10a-faa4-4d2a-85be-3ac660454ce3",
+        "name": "Conference on Robot Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoRL",
+          "Conf Robot Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f7dbc89b857167caa1e2ff716b7cfbac48da20fe",
+      "title": "Learning Multi-Objective Curricula for Robotic Policy Learning",
+      "venue": "Conference on Robot Learning",
+      "year": 2021,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2152287163",
+          "name": "Jikun Kang"
+        },
+        {
+          "authorId": "46331912",
+          "name": "Miao Liu"
+        },
+        {
+          "authorId": "48668899",
+          "name": "Abhinav Gupta"
+        },
+        {
+          "authorId": "1972076",
+          "name": "C. Pal"
+        },
+        {
+          "authorId": "2151060489",
+          "name": "Xue Liu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "0e12c8efc970af18de765d1cca926fbfa443a4fa",
+      "publicationVenue": {
+        "id": "3f2626a8-9d78-42ca-9e0d-4b853b59cdcc",
+        "name": "IEEE International Conference on Robotics and Automation",
+        "type": "conference",
+        "alternate_names": [
+          "International Conference on Robotics and Automation",
+          "Int Conf Robot Autom",
+          "ICRA",
+          "IEEE Int Conf Robot Autom"
+        ],
+        "issn": "2152-4092",
+        "alternate_issns": [
+          "2379-9544"
+        ],
+        "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000639",
+        "alternate_urls": [
+          "http://www.ncsu.edu/IEEE-RAS/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0e12c8efc970af18de765d1cca926fbfa443a4fa",
+      "title": "Attention-Based Probabilistic Planning with Active Perception",
+      "venue": "IEEE International Conference on Robotics and Automation",
+      "year": 2020,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110815726",
+          "name": "Haoxiang Ma"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "21887417aac8c01f7b118ba7b9d89b445087b64d",
+      "publicationVenue": {
+        "id": "a82c6245-8223-4542-a61a-122eadde10fb",
+        "name": "Cell Proliferation",
+        "type": "journal",
+        "alternate_names": [
+          "Cell Prolif"
+        ],
+        "issn": "0960-7722",
+        "url": "http://www.interscience.wiley.com/jpages/0960-7722/",
+        "alternate_urls": [
+          "https://onlinelibrary.wiley.com/journal/13652184"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/21887417aac8c01f7b118ba7b9d89b445087b64d",
+      "title": "The overexpression of long intergenic ncRNA00162 induced by RelA/p65 promotes growth of pancreatic ductal adenocarcinoma",
+      "venue": "Cell Proliferation",
+      "year": 2020,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "2140044880",
+          "name": "Yu Lu"
+        },
+        {
+          "authorId": "2144151878",
+          "name": "Min Wu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "15086757",
+          "name": "Yichen Sun"
+        },
+        {
+          "authorId": "4857598",
+          "name": "K. Furukawa"
+        },
+        {
+          "authorId": "40325235",
+          "name": "J. Ling"
+        },
+        {
+          "authorId": "145476693",
+          "name": "X. Qin"
+        },
+        {
+          "authorId": "4138847",
+          "name": "P. Chiao"
+        }
+      ]
+    },
+    {
+      "paperId": "251e928c6b6fe5a6e1fac01ba491ce9ad44dd2e3",
+      "publicationVenue": {
+        "id": "f5508b8f-47ff-42d2-9d7e-6296f3bb46a2",
+        "name": "Journal of Molecular Cell Biology",
+        "type": "journal",
+        "alternate_names": [
+          "J Mol Cell Biology"
+        ],
+        "issn": "1759-4685",
+        "alternate_issns": [
+          "1673-520X"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/251e928c6b6fe5a6e1fac01ba491ce9ad44dd2e3",
+      "title": "Abl1 deletion in gut stem cells suppresses p53 induction and promotes colitis-associated tumor formation",
+      "venue": "Journal of Molecular Cell Biology",
+      "year": 2020,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "2116615526",
+          "name": "Guo Yu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2053798734",
+          "name": "A. Romo"
+        },
+        {
+          "authorId": "46708159",
+          "name": "Baojie Li"
+        },
+        {
+          "authorId": "46936084",
+          "name": "Huijuan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "32c12300e4a80dd1492ddb240c18a3b3e361b61d",
+      "publicationVenue": {
+        "id": "ba0ce8d6-227a-4c21-a770-ded9fc8872c0",
+        "name": "Microbial Pathogenesis",
+        "type": "journal",
+        "alternate_names": [
+          "Microb Pathog"
+        ],
+        "issn": "0882-4010",
+        "url": "https://www.journals.elsevier.com/microbial-pathogenesis",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/08824010"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/32c12300e4a80dd1492ddb240c18a3b3e361b61d",
+      "title": "Study on the virulome and resistome of a vancomycin intermediate-resistance Staphylococcus aureus.",
+      "venue": "Microbial Pathogenesis",
+      "year": 2020,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "1768495",
+          "name": "Kan Wang"
+        },
+        {
+          "authorId": "15174552",
+          "name": "Congxiu Ye"
+        },
+        {
+          "authorId": "2119323064",
+          "name": "Ling Chen"
+        },
+        {
+          "authorId": "2004504502",
+          "name": "Yi Liang"
+        },
+        {
+          "authorId": "148400114",
+          "name": "Yuzhu Mao"
+        },
+        {
+          "authorId": "2108292777",
+          "name": "Jinxuan Chen"
+        },
+        {
+          "authorId": "95372019",
+          "name": "Ruixin Peng"
+        },
+        {
+          "authorId": "2109302981",
+          "name": "Yanni Chen"
+        },
+        {
+          "authorId": "2053741601",
+          "name": "Fan Shi"
+        },
+        {
+          "authorId": "14387755",
+          "name": "Tengyi Huang"
+        },
+        {
+          "authorId": "1926607",
+          "name": "Junyan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "a57501f433ff0a5d30f5c31a329c97e36cc6c6a0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a57501f433ff0a5d30f5c31a329c97e36cc6c6a0",
+      "title": "A Multi-Agent Reinforcement Learning Approach for Safe and Efficient Behavior Planning of Connected Autonomous Vehicles",
+      "venue": "IEEE transactions on intelligent transportation systems (Print)",
+      "year": 2020,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "authors": [
+        {
+          "authorId": "2115659675",
+          "name": "Songyang Han"
+        },
+        {
+          "authorId": "3147635",
+          "name": "Shangli Zhou"
+        },
+        {
+          "authorId": "2184291210",
+          "name": "Jiangwei Wang"
+        },
+        {
+          "authorId": "1491246017",
+          "name": "Lynn Pepin"
+        },
+        {
+          "authorId": "2881873",
+          "name": "Caiwen Ding"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2064423453",
+          "name": "Fei Miao"
+        }
+      ]
+    },
+    {
+      "paperId": "b99452eccd682fc1cd5b02784300a39dcec34b93",
+      "publicationVenue": {
+        "id": "25a655e4-17da-4bfc-a246-5cd20202068d",
+        "name": "Frontiers in Microbiology",
+        "type": "journal",
+        "alternate_names": [
+          "Front Microbiol"
+        ],
+        "issn": "1664-302X",
+        "url": "http://www.frontiersin.org/cellular_and_infection_microbiology/about",
+        "alternate_urls": [
+          "https://www.frontiersin.org/journals/microbiology",
+          "http://www.frontiersin.org/microbiology",
+          "http://journal.frontiersin.org/journal/microbiology"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/b99452eccd682fc1cd5b02784300a39dcec34b93",
+      "title": "Reduction, Prevention, and Control of Salmonella enterica Viable but Non-culturable Cells in Flour Food",
+      "venue": "Frontiers in Microbiology",
+      "year": 2020,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Chemistry"
+      ],
+      "authors": [
+        {
+          "authorId": "1784585526",
+          "name": "Yanmei Li"
+        },
+        {
+          "authorId": "14387755",
+          "name": "Tengyi Huang"
+        },
+        {
+          "authorId": "32458344",
+          "name": "Caiying Bai"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2119323064",
+          "name": "Ling Chen"
+        },
+        {
+          "authorId": "2004504502",
+          "name": "Yi Liang"
+        },
+        {
+          "authorId": "1768495",
+          "name": "Kan Wang"
+        },
+        {
+          "authorId": "2155648987",
+          "name": "Jun Liu"
+        },
+        {
+          "authorId": "13517738",
+          "name": "Xiangjun Gong"
+        },
+        {
+          "authorId": "1926607",
+          "name": "Junyan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "34c40b15d667eca10af6ed80ce564b0d0ca741c6",
+      "publicationVenue": {
+        "id": "e3e363b2-60f3-46d7-9067-5deaddc3f3f2",
+        "name": "Allerton Conference on Communication, Control, and Computing",
+        "type": "conference",
+        "alternate_names": [
+          "Allerton",
+          "T Conf Commun Control Comput"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/34c40b15d667eca10af6ed80ce564b0d0ca741c6",
+      "title": "Opportunistic Synthesis in Reactive Games under Information Asymmetry",
+      "venue": "Allerton Conference on Communication, Control, and Computing",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "352ac73b7d92afa915c06026a4336927d550cec3",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/352ac73b7d92afa915c06026a4336927d550cec3",
+      "title": "Graph Neural Networks with Generated Parameters for Relation Extraction",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 121,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144459859",
+          "name": "Hao Zhu"
+        },
+        {
+          "authorId": "2427350",
+          "name": "Yankai Lin"
+        },
+        {
+          "authorId": "49293587",
+          "name": "Zhiyuan Liu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "144078686",
+          "name": "Tat-Seng Chua"
+        },
+        {
+          "authorId": "1753344",
+          "name": "Maosong Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "5240bad304d5e9dd6a7ab1e089e024119ae55567",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5240bad304d5e9dd6a7ab1e089e024119ae55567",
+      "title": "Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 54,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144447820",
+          "name": "Yi Tay"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "26336902",
+          "name": "Anh Tuan Luu"
+        },
+        {
+          "authorId": "30586030",
+          "name": "J. Rao"
+        },
+        {
+          "authorId": "1583098764",
+          "name": "Shuai Zhang"
+        },
+        {
+          "authorId": "2992833",
+          "name": "Shuohang Wang"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "144194328",
+          "name": "S. Hui"
+        }
+      ]
+    },
+    {
+      "paperId": "8e31937c82a83d2eb6edb6ee048a681e62c15d13",
+      "publicationVenue": {
+        "id": "13c37e5e-90af-4e1b-8eaf-77e1bc192014",
+        "name": "Data Compression Conference",
+        "type": "conference",
+        "alternate_names": [
+          "International Conference on Design Computing and Cognition",
+          "DCC",
+          "Data Compress Conf",
+          "Int Conf Des Comput Cogn"
+        ],
+        "url": "http://www.cs.brandeis.edu/~dcc/index.html"
+      },
+      "url": "https://www.semanticscholar.org/paper/8e31937c82a83d2eb6edb6ee048a681e62c15d13",
+      "title": "Dataflow-Based Joint Quantization for Deep Neural Networks",
+      "venue": "Data Compression Conference",
+      "year": 2019,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "117174641",
+          "name": "Xue Geng"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2112632479",
+          "name": "Bin Zhao"
+        },
+        {
+          "authorId": "144462791",
+          "name": "Jie Lin"
+        },
+        {
+          "authorId": "38514640",
+          "name": "M. Aly"
+        },
+        {
+          "authorId": "1972076",
+          "name": "C. Pal"
+        },
+        {
+          "authorId": "1802086",
+          "name": "V. Chandrasekhar"
+        }
+      ]
+    },
+    {
+      "paperId": "9f4ceac35abe4b92b43128925d55e42c7f7ab702",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/9f4ceac35abe4b92b43128925d55e42c7f7ab702",
+      "title": "Interactive Language Learning by Question Answering",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 46,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2854297",
+          "name": "Xingdi Yuan"
+        },
+        {
+          "authorId": "40638665",
+          "name": "Marc-Alexandre C\u00f4t\u00e9"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "3146592",
+          "name": "Zhouhan Lin"
+        },
+        {
+          "authorId": "1972076",
+          "name": "C. Pal"
+        },
+        {
+          "authorId": "1751762",
+          "name": "Yoshua Bengio"
+        },
+        {
+          "authorId": "3382568",
+          "name": "Adam Trischler"
+        }
+      ]
+    },
+    {
+      "paperId": "be4ab8d7cb98956b5d89c54a0340043a8b6ca5e8",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/be4ab8d7cb98956b5d89c54a0340043a8b6ca5e8",
+      "title": "Revision in Continuous Space: Fine-Grained Control of Text Style Transfer",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "7415571",
+          "name": "Dayiheng Liu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2129521633",
+          "name": "Yidan Zhang"
+        },
+        {
+          "authorId": "1972076",
+          "name": "C. Pal"
+        },
+        {
+          "authorId": "2053666",
+          "name": "Jiancheng Lv"
+        }
+      ]
+    },
+    {
+      "paperId": "c0dd6f4ad8210f959a5fc50049a2da960165f741",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c0dd6f4ad8210f959a5fc50049a2da960165f741",
+      "title": "Interactive Machine Comprehension with Information Seeking Agents",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2854297",
+          "name": "Xingdi Yuan"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "40638665",
+          "name": "Marc-Alexandre C\u00f4t\u00e9"
+        },
+        {
+          "authorId": "144447820",
+          "name": "Yi Tay"
+        },
+        {
+          "authorId": "1972076",
+          "name": "C. Pal"
+        },
+        {
+          "authorId": "3382568",
+          "name": "Adam Trischler"
+        }
+      ]
+    },
+    {
+      "paperId": "ce72204d48b5769155604a1378855805d9a8d367",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ce72204d48b5769155604a1378855805d9a8d367",
+      "title": "Detecting Waterborne Debris with Sim2Real and Randomization",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "122812876",
+          "name": "Ritchie Ng"
+        },
+        {
+          "authorId": "1645230070",
+          "name": "Mirgahney Mohamed"
+        },
+        {
+          "authorId": "144447820",
+          "name": "Yi Tay"
+        },
+        {
+          "authorId": "46769963",
+          "name": "K. Sankaran"
+        },
+        {
+          "authorId": "51126615",
+          "name": "Shangbang Long"
+        },
+        {
+          "authorId": "2067767",
+          "name": "A. Canziani"
+        },
+        {
+          "authorId": "1972076",
+          "name": "C. Pal"
+        },
+        {
+          "authorId": "2057320969",
+          "name": "Moustapha Ciss\u00e9"
+        }
+      ]
+    },
+    {
+      "paperId": "e1f037f47d96d10af5c1ab390a246238dd8e1057",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e1f037f47d96d10af5c1ab390a246238dd8e1057",
+      "title": "Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 103,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144447820",
+          "name": "Yi Tay"
+        },
+        {
+          "authorId": "2992833",
+          "name": "Shuohang Wang"
+        },
+        {
+          "authorId": "26336902",
+          "name": "Anh Tuan Luu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "22209930",
+          "name": "Minh C. Phan"
+        },
+        {
+          "authorId": "2854297",
+          "name": "Xingdi Yuan"
+        },
+        {
+          "authorId": "30586030",
+          "name": "J. Rao"
+        },
+        {
+          "authorId": "144194328",
+          "name": "S. Hui"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "f4dbc630994cb71e16a5959431593583b3bd1574",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f4dbc630994cb71e16a5959431593583b3bd1574",
+      "title": "TIGS: An Inference Algorithm for Text Infilling with Gradient Search",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "7415571",
+          "name": "Dayiheng Liu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "144118452",
+          "name": "Pengfei Liu"
+        },
+        {
+          "authorId": "2053666",
+          "name": "Jiancheng Lv"
+        }
+      ]
+    },
+    {
+      "paperId": "420785f12320c9fada5c55990987099f58133b83",
+      "publicationVenue": {
+        "id": "8676b4ba-2b8c-49b2-9313-f8561ab0722a",
+        "name": "International Conference on Internet Multimedia Computing and Service",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Internet Multimedia Comput Serv",
+          "ICIMCS"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1388"
+      },
+      "url": "https://www.semanticscholar.org/paper/420785f12320c9fada5c55990987099f58133b83",
+      "title": "Learning semantic topics for domain-adapted textual knowledge transfer",
+      "venue": "International Conference on Internet Multimedia Computing and Service",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "50178505",
+          "name": "Shucheng Huang"
+        },
+        {
+          "authorId": "1907582",
+          "name": "Tianzhu Zhang"
+        },
+        {
+          "authorId": "145194969",
+          "name": "Changsheng Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "8e9f5ca2da48417b7cd57b1babb8bf8616791e85",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8e9f5ca2da48417b7cd57b1babb8bf8616791e85",
+      "title": "Hiding Objects from Detectors: Exploring Transferrable Adversarial Patterns",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51126615",
+          "name": "Shangbang Long"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "1972076",
+          "name": "C. Pal"
+        }
+      ]
+    },
+    {
+      "paperId": "ba14fb3d369cd7e30233bba24b0757f6ee62f5bc",
+      "publicationVenue": {
+        "id": "309e00f7-4bbd-461f-ab37-a90cd14ef21d",
+        "name": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+        "alternate_names": [
+          "IEEE/ACM Trans Audio Speech Lang Process"
+        ],
+        "issn": "2329-9290",
+        "url": "https://ieeexplore.ieee.org/servlet/opac?punumber=6570655",
+        "alternate_urls": [
+          "https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing/ieeeacm"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ba14fb3d369cd7e30233bba24b0757f6ee62f5bc",
+      "title": "BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation",
+      "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+      "year": 2018,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "7415571",
+          "name": "Dayiheng Liu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2005097267",
+          "name": "Qian Qu"
+        },
+        {
+          "authorId": "2053666",
+          "name": "Jiancheng Lv"
+        }
+      ]
+    },
+    {
+      "paperId": "c15fce1648d06037ef38969c18feff2b66ab96c6",
+      "publicationVenue": {
+        "id": "fe4d09f8-d278-4bfb-b73a-1a6a0e22f6a3",
+        "name": "American Control Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Adv Comput Control",
+          "ACC",
+          "Advances in Computing and Communications",
+          "Adv Comput Commun",
+          "Am Control Conf",
+          "Advances in Computer and Communication",
+          "International Conference on Advanced Computer Control"
+        ],
+        "issn": "2767-2875",
+        "url": "http://a2c2.org/conferences/american-control-conferences",
+        "alternate_urls": [
+          "http://www.acc-rajagiri.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c15fce1648d06037ef38969c18feff2b66ab96c6",
+      "title": "Approximate Dynamic Programming with Probabilistic Temporal Logic Constraints",
+      "venue": "American Control Conference",
+      "year": 2018,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "8447450",
+          "name": "Lening Li"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "f76f952408c55970418a6cbc44ea9f938e1c574f",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/f76f952408c55970418a6cbc44ea9f938e1c574f",
+      "title": "Multi-task Learning over Graph Structures",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144118452",
+          "name": "Pengfei Liu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "49265991",
+          "name": "Yue Dong"
+        },
+        {
+          "authorId": "1767521",
+          "name": "Xipeng Qiu"
+        },
+        {
+          "authorId": "3159752",
+          "name": "J. Cheung"
+        }
+      ]
+    },
+    {
+      "paperId": "3e4ac315511c00c6ef6be0b62a711b2493d2b676",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3e4ac315511c00c6ef6be0b62a711b2493d2b676",
+      "title": "Neural Optimizers with Hypergradients for Tuning Parameter-Wise Learning Rates",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 3,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "122812876",
+          "name": "Ritchie Ng"
+        },
+        {
+          "authorId": "7167137",
+          "name": "Danlu Chen"
+        },
+        {
+          "authorId": "3393294",
+          "name": "Ilija Ilievski"
+        },
+        {
+          "authorId": "143779329",
+          "name": "Tat-seng Chua"
+        },
+        {
+          "authorId": "2118176291",
+          "name": "F. Chen"
+        },
+        {
+          "authorId": "2085604106",
+          "name": "Ilievski Pal Chua"
+        }
+      ]
+    },
+    {
+      "paperId": "c112084e0b3e18de82cd1e188b97c8a5997c3e65",
+      "publicationVenue": {
+        "id": "67f7f831-711a-43c8-8785-1e09005359b5",
+        "name": "International Joint Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Jt Conf Artif Intell",
+          "IJCAI"
+        ],
+        "url": "http://www.ijcai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c112084e0b3e18de82cd1e188b97c8a5997c3e65",
+      "title": "DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2016,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "1944274",
+          "name": "Hongyin Luo"
+        },
+        {
+          "authorId": "33221685",
+          "name": "Jiashi Feng"
+        },
+        {
+          "authorId": "145454065",
+          "name": "K. H. Low"
+        },
+        {
+          "authorId": "144078686",
+          "name": "Tat-Seng Chua"
+        }
+      ]
+    },
+    {
+      "paperId": "6b43903f3429c6aa482ad30793f697957996d500",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6b43903f3429c6aa482ad30793f697957996d500",
+      "title": "AffectiveSpace 2: Enabling Affective Intuition for Concept-Level Sentiment Analysis",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2015,
+      "citationCount": 185,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49943757",
+          "name": "E. Cambria"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "144156101",
+          "name": "F. Bisio"
+        },
+        {
+          "authorId": "1746416",
+          "name": "Soujanya Poria"
+        }
+      ]
+    },
+    {
+      "paperId": "3aba00c4c895c1e06d836adf5abdfcdee64f50d3",
+      "publicationVenue": {
+        "id": "bb95bf2e-8383-4748-bf9d-d6906d091085",
+        "name": "Proceedings of the National Academy of Sciences of the United States of America",
+        "type": "journal",
+        "alternate_names": [
+          "PNAS",
+          "PNAS online",
+          "Proceedings of the National Academy of Sciences of the United States of America.",
+          "Proc National Acad Sci",
+          "Proceedings of the National Academy of Sciences",
+          "Proc National Acad Sci u s Am"
+        ],
+        "issn": "0027-8424",
+        "alternate_issns": [
+          "1091-6490"
+        ],
+        "url": "https://www.jstor.org/journal/procnatiacadscie",
+        "alternate_urls": [
+          "http://www.pnas.org/",
+          "https://www.pnas.org/",
+          "http://www.jstor.org/journals/00278424.html",
+          "www.pnas.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3aba00c4c895c1e06d836adf5abdfcdee64f50d3",
+      "title": "Structural characterization of mRNA-tRNA translocation intermediates",
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "year": 2012,
+      "citationCount": 98,
+      "fieldsOfStudy": [
+        "Biology",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "6898025",
+          "name": "X. Agirrezabala"
+        },
+        {
+          "authorId": "2160012",
+          "name": "H. Liao"
+        },
+        {
+          "authorId": "30440896",
+          "name": "E. Schreiner"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "1402408494",
+          "name": "Rodrigo F. Ortiz-Meoz"
+        },
+        {
+          "authorId": "144340430",
+          "name": "K. Schulten"
+        },
+        {
+          "authorId": "31785968",
+          "name": "R. Green"
+        },
+        {
+          "authorId": "145837383",
+          "name": "J. Frank"
+        }
+      ]
+    },
+    {
+      "paperId": "43425fdacadda953993231b00437ed502b3fad5b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/43425fdacadda953993231b00437ed502b3fad5b",
+      "title": "Cryo-em Study Of Trna Hybrid States Stabilized By Viomycin",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2140427232",
+          "name": "Drew Kennedy"
+        },
+        {
+          "authorId": "2816824",
+          "name": "James B. Munro"
+        },
+        {
+          "authorId": "13349263",
+          "name": "Jianlin Lei"
+        },
+        {
+          "authorId": "2251460",
+          "name": "S. Blanchard"
+        },
+        {
+          "authorId": "145837383",
+          "name": "J. Frank"
+        },
+        {
+          "authorId": "145837383",
+          "name": "J. Frank"
+        }
+      ]
+    },
+    {
+      "paperId": "e1aace8ac8044330652c1abe61cf284a511918f4",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e1aace8ac8044330652c1abe61cf284a511918f4",
+      "title": "Visualizing tmRNA after its accommodation in the Ribosome",
+      "venue": "",
+      "year": 2009,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Biology"
+      ],
+      "authors": [
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "13349263",
+          "name": "Jianlin Lei"
+        },
+        {
+          "authorId": "2028702541",
+          "name": "Iowna Wower"
+        },
+        {
+          "authorId": "2242551",
+          "name": "J. Wower"
+        },
+        {
+          "authorId": "145837383",
+          "name": "J. Frank"
+        },
+        {
+          "authorId": "145837383",
+          "name": "J. Frank"
+        }
+      ]
+    },
+    {
+      "paperId": "2f209499ac16125c73ff208cfb3a71f3f42f7fd0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2f209499ac16125c73ff208cfb3a71f3f42f7fd0",
+      "title": "Agonist-Driven Conformational Changes in the Inner (cid:1) -Sheet of (cid:2) 7 Nicotinic Receptors",
+      "venue": "",
+      "year": 2007,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "37441751",
+          "name": "J. T. McLaughlin"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "1900633",
+          "name": "R. Rosenberg"
+        }
+      ]
+    },
+    {
+      "paperId": "439e6bd161f1a8bc5764ce6872b15835440773cf",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/439e6bd161f1a8bc5764ce6872b15835440773cf",
+      "title": "Cryo\u2010EM Studies of the Translocation Process",
+      "venue": "",
+      "year": 2006,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2054079186",
+          "name": "J. Frank"
+        },
+        {
+          "authorId": "7181103",
+          "name": "Haixiao Gao"
+        },
+        {
+          "authorId": "2052835175",
+          "name": "Jianlin Lei"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2110402251",
+          "name": "Derek Taylor"
+        },
+        {
+          "authorId": "46598750",
+          "name": "J. Sengupta"
+        }
+      ]
+    },
+    {
+      "paperId": "e2d236473c34d52a2d687ff152ab63792a1712ee",
+      "publicationVenue": {
+        "id": "099a2ecc-54f9-42d3-9ea0-0189027aa04f",
+        "name": "Journal of Biological Chemistry",
+        "type": "journal",
+        "alternate_names": [
+          "J Biological Chem"
+        ],
+        "issn": "0021-9258",
+        "url": "http://ejournals.ebsco.com/direct.asp?JournalID=101729",
+        "alternate_urls": [
+          "https://www.jbc.org/",
+          "http://www.jbc.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e2d236473c34d52a2d687ff152ab63792a1712ee",
+      "title": "DAD1 Is Required for the Function and the Structural Integrity of the Oligosaccharyltransferase Complex*",
+      "venue": "Journal of Biological Chemistry",
+      "year": 1998,
+      "citationCount": 61,
+      "fieldsOfStudy": [
+        "Biology",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "83336979",
+          "name": "A. Sanjay"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "4357060",
+          "name": "G. Kreibich"
+        }
+      ]
+    }
+  ]
+}

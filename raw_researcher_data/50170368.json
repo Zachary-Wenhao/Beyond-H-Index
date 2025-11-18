@@ -1,0 +1,2620 @@
+{
+  "authorId": "50170368",
+  "name": "Meliha Yetisgen",
+  "affiliations": [],
+  "paperCount": 44,
+  "citationCount": 619,
+  "hIndex": 11,
+  "papers": [
+    {
+      "paperId": "378090b36acc15a4704b795770621a3689698330",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/378090b36acc15a4704b795770621a3689698330",
+      "title": "Adapting Biomedical Abstracts into Plain language using Large Language Models",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2215475070",
+          "name": "Haritha Gangavarapu"
+        },
+        {
+          "authorId": "2056114834",
+          "name": "Giridhar Kaushik Ramachandran"
+        },
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "1404417826",
+          "name": "Ozlem Uzuner"
+        }
+      ]
+    },
+    {
+      "paperId": "bae8c8200d64daca908fd93215f8a189eb972192",
+      "publicationVenue": {
+        "id": "c94958b4-02d3-45a5-8a7c-56c3706f30f1",
+        "name": "Surgical Infections",
+        "type": "journal",
+        "alternate_names": [
+          "Surg Infect"
+        ],
+        "issn": "1096-2964",
+        "url": "https://www.liebertpub.com/loi/sur",
+        "alternate_urls": [
+          "http://www.liebertpub.com/overview/surgical-infections/53/",
+          "http://www.liebertpub.com/publication.aspx?pub_id=53"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/bae8c8200d64daca908fd93215f8a189eb972192",
+      "title": "Development and Evaluation of Machine Learning Models for the Identification of Surgical Site Infection in Electronic Health Records.",
+      "venue": "Surgical Infections",
+      "year": 2025,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2353028518",
+          "name": "Arjun Chakraborty"
+        },
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "2353032977",
+          "name": "Jorge A Olivas Estebane"
+        },
+        {
+          "authorId": "2353195980",
+          "name": "Judy Y Chen"
+        },
+        {
+          "authorId": "2353906865",
+          "name": "Mahul Patel"
+        },
+        {
+          "authorId": "2243042228",
+          "name": "Vikas O'Reilly-Shah"
+        },
+        {
+          "authorId": "2313000493",
+          "name": "Peter Tarczy-Hornoch"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "2353037147",
+          "name": "Dustin R Long"
+        }
+      ]
+    },
+    {
+      "paperId": "1291ceac9be7addef76aff5eadd0a6abb51d4e21",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/1291ceac9be7addef76aff5eadd0a6abb51d4e21",
+      "title": "BioMistral-NLU: Towards More Generalizable Medical Language Understanding through Instruction Tuning",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2294828739",
+          "name": "Yujuan Fu"
+        },
+        {
+          "authorId": "2056114834",
+          "name": "Giridhar Kaushik Ramachandran"
+        },
+        {
+          "authorId": "2293724934",
+          "name": "Namu Park"
+        },
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "2294363357",
+          "name": "Fei Xia"
+        },
+        {
+          "authorId": "1404417826",
+          "name": "Ozlem Uzuner"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        }
+      ]
+    },
+    {
+      "paperId": "19ac2750cd1e02362f25fc2bdd88110fa127db34",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/19ac2750cd1e02362f25fc2bdd88110fa127db34",
+      "title": "MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2127117221",
+          "name": "Asma Ben Abacha"
+        },
+        {
+          "authorId": "38845771",
+          "name": "Wen-wai Yim"
+        },
+        {
+          "authorId": "2294828739",
+          "name": "Yujuan Fu"
+        },
+        {
+          "authorId": "2308628212",
+          "name": "Zhaoyi Sun"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "2294363357",
+          "name": "Fei Xia"
+        },
+        {
+          "authorId": "2268318167",
+          "name": "Thomas Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "40080c0ea205ec5f294fe207ffba10b206a43b80",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/40080c0ea205ec5f294fe207ffba10b206a43b80",
+      "title": "To Err Is Human, How about Medical Large Language Models? Comparing Pre-trained Language Models for Medical Assessment Errors and Reliability",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2024,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "38845771",
+          "name": "Wen-wai Yim"
+        },
+        {
+          "authorId": "2294828739",
+          "name": "Yujuan Fu"
+        },
+        {
+          "authorId": "1380176734",
+          "name": "Asma Ben Abacha"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        }
+      ]
+    },
+    {
+      "paperId": "53a4489c1454781d0d694dcd4170df3f5d98bacd",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/53a4489c1454781d0d694dcd4170df3f5d98bacd",
+      "title": "CACER: Clinical Concept Annotations for Cancer Events and Relations",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2294828739",
+          "name": "Yujuan Fu"
+        },
+        {
+          "authorId": "2056114834",
+          "name": "Giridhar Kaushik Ramachandran"
+        },
+        {
+          "authorId": "2269103118",
+          "name": "Ahmad Halwani"
+        },
+        {
+          "authorId": "2280058814",
+          "name": "Bridget T McInnes"
+        },
+        {
+          "authorId": "2294363357",
+          "name": "Fei Xia"
+        },
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "2298238369",
+          "name": "\u00d6zlem Uzuner"
+        }
+      ]
+    },
+    {
+      "paperId": "5a948efca7f18e6476b6e74f1655673326830212",
+      "publicationVenue": {
+        "id": "ab453bce-d4ec-48ec-ad78-ef19dc9333ab",
+        "name": "Conference and Labs of the Evaluation Forum",
+        "type": "conference",
+        "alternate_names": [
+          "CLEF",
+          "Conf Lab Evaluation Forum",
+          "Cross-language Evaluation Forum",
+          "Cross-Language Evaluation Forum"
+        ],
+        "url": "http://www.clef-initiative.eu/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5a948efca7f18e6476b6e74f1655673326830212",
+      "title": "Overview of the MEDIQA-MAGIC Task at ImageCLEF 2024: Multimodal And Generative TelemedICine in Dermatology",
+      "venue": "Conference and Labs of the Evaluation Forum",
+      "year": 2024,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "38845771",
+          "name": "Wen-wai Yim"
+        },
+        {
+          "authorId": "2127117221",
+          "name": "Asma Ben Abacha"
+        },
+        {
+          "authorId": "2294828739",
+          "name": "Yujuan Fu"
+        },
+        {
+          "authorId": "2308628212",
+          "name": "Zhaoyi Sun"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "2294363357",
+          "name": "Fei Xia"
+        }
+      ]
+    },
+    {
+      "paperId": "6969f96cca4bc77936c4bf1540921168c04d995e",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6969f96cca4bc77936c4bf1540921168c04d995e",
+      "title": "Extracting Social Determinants of Health from Pediatric Patient Notes Using Large Language Models: Novel Corpus and Methods",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2024,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2294828739",
+          "name": "Yujuan Fu"
+        },
+        {
+          "authorId": "2056114834",
+          "name": "Giridhar Kaushik Ramachandran"
+        },
+        {
+          "authorId": "121180974",
+          "name": "Nicholas J. Dobbins"
+        },
+        {
+          "authorId": "2293724934",
+          "name": "Namu Park"
+        },
+        {
+          "authorId": "2294360510",
+          "name": "Michael Leu"
+        },
+        {
+          "authorId": "2294362272",
+          "name": "Abby R. Rosenberg"
+        },
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "2294363357",
+          "name": "Fei Xia"
+        },
+        {
+          "authorId": "1404417826",
+          "name": "Ozlem Uzuner"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        }
+      ]
+    },
+    {
+      "paperId": "6f2edb00f2d38f256efa95216ac55c1a04e27243",
+      "publicationVenue": {
+        "id": "de16002a-77c3-4d03-9348-5a1813238e0b",
+        "name": "Cancer Discovery",
+        "type": "journal",
+        "alternate_names": [
+          "Cancer Discov"
+        ],
+        "issn": "2159-8274",
+        "url": "https://cancerdiscovery.aacrjournals.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6f2edb00f2d38f256efa95216ac55c1a04e27243",
+      "title": "A New Era of Data-Driven Cancer Research and Care: Opportunities and Challenges",
+      "venue": "Cancer Discovery",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2324089640",
+          "name": "Felicia Gomez"
+        },
+        {
+          "authorId": "2730260",
+          "name": "Arpad M. Danos"
+        },
+        {
+          "authorId": "115263828",
+          "name": "G. Del Fiol"
+        },
+        {
+          "authorId": "1705442",
+          "name": "A. Madabhushi"
+        },
+        {
+          "authorId": "2344884",
+          "name": "P. Tiwari"
+        },
+        {
+          "authorId": "2282650",
+          "name": "Joshua F. McMichael"
+        },
+        {
+          "authorId": "3199900",
+          "name": "S. Bakas"
+        },
+        {
+          "authorId": "2276430763",
+          "name": "Jiang Bian"
+        },
+        {
+          "authorId": "2241744185",
+          "name": "Christos Davatzikos"
+        },
+        {
+          "authorId": "1863379",
+          "name": "E. Fertig"
+        },
+        {
+          "authorId": "2044997635",
+          "name": "Jaysheree Kalpathy-Cramer"
+        },
+        {
+          "authorId": "2324088347",
+          "name": "Johanna Kenney"
+        },
+        {
+          "authorId": "1894531",
+          "name": "G. Savova"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "3459785",
+          "name": "E. V. Van Allen"
+        },
+        {
+          "authorId": "2267895649",
+          "name": "Jeremy L. Warner"
+        },
+        {
+          "authorId": "2251504791",
+          "name": "Fred Prior"
+        },
+        {
+          "authorId": "2398754",
+          "name": "M. Griffith"
+        },
+        {
+          "authorId": "2529397",
+          "name": "O. Griffith"
+        }
+      ]
+    },
+    {
+      "paperId": "aa04f53a53b804eaba1cbe761a73bbf1a13f945c",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/aa04f53a53b804eaba1cbe761a73bbf1a13f945c",
+      "title": "A Novel Corpus of Annotated Medical Imaging Reports and Information Extraction Results Using BERT-based Language Models",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2024,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2293724934",
+          "name": "Namu Park"
+        },
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "2056114834",
+          "name": "Giridhar Kaushik Ramachandran"
+        },
+        {
+          "authorId": "2293725555",
+          "name": "Spencer Lewis"
+        },
+        {
+          "authorId": "2047420804",
+          "name": "Aashka Damani"
+        },
+        {
+          "authorId": "1404417826",
+          "name": "Ozlem Uzuner"
+        },
+        {
+          "authorId": "2293723987",
+          "name": "Martin Gunn"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        }
+      ]
+    },
+    {
+      "paperId": "c97f828a7e3bfdd443aaee491a24c2467a9b3d01",
+      "publicationVenue": {
+        "id": "a631cd93-9863-44c8-8dff-9eb3fbf4f83e",
+        "name": "Clinical Natural Language Processing Workshop",
+        "type": "conference",
+        "alternate_names": [
+          "ClinicalNLP",
+          "Clin Nat Lang Process Workshop"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c97f828a7e3bfdd443aaee491a24c2467a9b3d01",
+      "title": "Overview of the MEDIQA-CORR 2024 Shared Task on Medical Error Detection and Correction",
+      "venue": "Clinical Natural Language Processing Workshop",
+      "year": 2024,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1380176734",
+          "name": "Asma Ben Abacha"
+        },
+        {
+          "authorId": "38845771",
+          "name": "Wen-wai Yim"
+        },
+        {
+          "authorId": "2294828739",
+          "name": "Yujuan Fu"
+        },
+        {
+          "authorId": "2308628212",
+          "name": "Zhaoyi Sun"
+        },
+        {
+          "authorId": "2294363357",
+          "name": "Fei Xia"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        }
+      ]
+    },
+    {
+      "paperId": "fc5945c9cfb79b5e40a3d9a206c2711c96519feb",
+      "publicationVenue": {
+        "id": "a631cd93-9863-44c8-8dff-9eb3fbf4f83e",
+        "name": "Clinical Natural Language Processing Workshop",
+        "type": "conference",
+        "alternate_names": [
+          "ClinicalNLP",
+          "Clin Nat Lang Process Workshop"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/fc5945c9cfb79b5e40a3d9a206c2711c96519feb",
+      "title": "Overview of the MEDIQA-M3G 2024 Shared Task on Multilingual Multimodal Medical Answer Generation",
+      "venue": "Clinical Natural Language Processing Workshop",
+      "year": 2024,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "38845771",
+          "name": "Wen-wai Yim"
+        },
+        {
+          "authorId": "1380176734",
+          "name": "Asma Ben Abacha"
+        },
+        {
+          "authorId": "2294828739",
+          "name": "Yujuan Fu"
+        },
+        {
+          "authorId": "2308628212",
+          "name": "Zhaoyi Sun"
+        },
+        {
+          "authorId": "2294363357",
+          "name": "Fei Xia"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "2261405497",
+          "name": "Martin Krallinger"
+        }
+      ]
+    },
+    {
+      "paperId": "0533aaa83713185f7db62c2698a676c87db6abe8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/0533aaa83713185f7db62c2698a676c87db6abe8",
+      "title": "Advancements in extracting social determinants of health information from narrative text",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2023,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "2345171353",
+          "name": "Oliver J Bear Don't Walk"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "1390465945",
+          "name": "\u00d6zlem Uzuner"
+        }
+      ]
+    },
+    {
+      "paperId": "386bd4d25043516f076ea7b2296a1ebec84f43ce",
+      "publicationVenue": {
+        "id": "a631cd93-9863-44c8-8dff-9eb3fbf4f83e",
+        "name": "Clinical Natural Language Processing Workshop",
+        "type": "conference",
+        "alternate_names": [
+          "ClinicalNLP",
+          "Clin Nat Lang Process Workshop"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/386bd4d25043516f076ea7b2296a1ebec84f43ce",
+      "title": "Prompt-based Extraction of Social Determinants of Health Using Few-shot Learning",
+      "venue": "Clinical Natural Language Processing Workshop",
+      "year": 2023,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2056114834",
+          "name": "Giridhar Kaushik Ramachandran"
+        },
+        {
+          "authorId": "2118638878",
+          "name": "Yujuan Fu"
+        },
+        {
+          "authorId": "2089776510",
+          "name": "Bin Han"
+        },
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "121180974",
+          "name": "Nicholas J. Dobbins"
+        },
+        {
+          "authorId": "1404417826",
+          "name": "Ozlem Uzuner"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        }
+      ]
+    },
+    {
+      "paperId": "43a955337f05485926ec764dda74a560008339e8",
+      "publicationVenue": {
+        "id": "6ec15f55-3f39-4e6e-81c4-b0f2aa166058",
+        "name": "BMC Pulmonary Medicine",
+        "type": "journal",
+        "alternate_names": [
+          "BMC Pulm Med"
+        ],
+        "issn": "1471-2466",
+        "url": "http://www.biomedcentral.com/bmcpulmmed/",
+        "alternate_urls": [
+          "https://link.springer.com/journal/12890",
+          "https://bmcpulmmed.biomedcentral.com/",
+          "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=64"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/43a955337f05485926ec764dda74a560008339e8",
+      "title": "Evaluating construct validity of computable acute respiratory distress syndrome definitions in adults hospitalized with COVID-19: an electronic health records based approach",
+      "venue": "BMC Pulmonary Medicine",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2021505297",
+          "name": "N. Sathe"
+        },
+        {
+          "authorId": "2325483078",
+          "name": "Su Xian"
+        },
+        {
+          "authorId": "1395442890",
+          "name": "F. Mabrey"
+        },
+        {
+          "authorId": "2202661",
+          "name": "D. Crosslin"
+        },
+        {
+          "authorId": "2165122588",
+          "name": "Sean D. Mooney"
+        },
+        {
+          "authorId": "40534879",
+          "name": "E. Morrell"
+        },
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "2300438",
+          "name": "G. Jarvik"
+        },
+        {
+          "authorId": "7032356",
+          "name": "P. Bhatraju"
+        },
+        {
+          "authorId": "3182816",
+          "name": "M. Wurfel"
+        }
+      ]
+    },
+    {
+      "paperId": "49b54467bd367dca20ce6b038e177c6de9a96a4f",
+      "publicationVenue": {
+        "id": "a631cd93-9863-44c8-8dff-9eb3fbf4f83e",
+        "name": "Clinical Natural Language Processing Workshop",
+        "type": "conference",
+        "alternate_names": [
+          "ClinicalNLP",
+          "Clin Nat Lang Process Workshop"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/49b54467bd367dca20ce6b038e177c6de9a96a4f",
+      "title": "Building blocks for complex tasks: Robust generative event extraction for radiology reports under domain shifts",
+      "venue": "Clinical Natural Language Processing Workshop",
+      "year": 2023,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108885619",
+          "name": "Sitong Zhou"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "144339506",
+          "name": "Mari Ostendorf"
+        }
+      ]
+    },
+    {
+      "paperId": "678c6a01280071e92dbce05646968910d9157895",
+      "publicationVenue": {
+        "id": "e6216b43-2428-4aaf-8101-b40e1dfd2810",
+        "name": "BMJ Open",
+        "type": "journal",
+        "issn": "2044-6055",
+        "url": "https://bmjopen.bmj.com/",
+        "alternate_urls": [
+          "http://bmjopen.bmj.com/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/678c6a01280071e92dbce05646968910d9157895",
+      "title": "Symptoms and signs of lung cancer prior to diagnosis: case\u2013control study using electronic health records from ambulatory care within a large US-based tertiary care centre",
+      "venue": "BMJ Open",
+      "year": 2023,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "49596541",
+          "name": "M. G. Prado"
+        },
+        {
+          "authorId": "36887049",
+          "name": "L. Kessler"
+        },
+        {
+          "authorId": "6906764",
+          "name": "M. Au"
+        },
+        {
+          "authorId": "152426688",
+          "name": "Hannah A. Burkhardt"
+        },
+        {
+          "authorId": "51972916",
+          "name": "Monica L. Zigman Suchsland"
+        },
+        {
+          "authorId": "2088235373",
+          "name": "Lesleigh Kowalski"
+        },
+        {
+          "authorId": "3438468",
+          "name": "K. Stephens"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "2134032295",
+          "name": "F. Walter"
+        },
+        {
+          "authorId": "143962188",
+          "name": "R. Neal"
+        },
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "4011109",
+          "name": "C. Thompson"
+        },
+        {
+          "authorId": "8032182",
+          "name": "Morhaf Al Achkar"
+        },
+        {
+          "authorId": "8041972",
+          "name": "E. A. Sarma"
+        },
+        {
+          "authorId": "37567298",
+          "name": "G. Turner"
+        },
+        {
+          "authorId": "5724761",
+          "name": "F. Farjah"
+        },
+        {
+          "authorId": "152379201",
+          "name": "Matthew J. Thompson"
+        }
+      ]
+    },
+    {
+      "paperId": "acc43b041c21dee026f9ea8dc428168a8bca6c6f",
+      "publicationVenue": {
+        "id": "d850c91b-e0e8-4274-9af3-aceea14c9f2b",
+        "name": "BMC Anesthesiology",
+        "type": "journal",
+        "alternate_names": [
+          "BMC Anesthesiol"
+        ],
+        "issn": "1471-2253",
+        "url": "http://www.biomedcentral.com/bmcanesthesiol/",
+        "alternate_urls": [
+          "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=11",
+          "http://www.biomedcentral.com/bmcanesthesiol/archive/",
+          "https://bmcanesthesiol.biomedcentral.com/",
+          "https://link.springer.com/journal/12871"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/acc43b041c21dee026f9ea8dc428168a8bca6c6f",
+      "title": "Prediction of American Society of Anesthesiologists Physical Status Classification from preoperative clinical text narratives using natural language processing",
+      "venue": "BMC Anesthesiology",
+      "year": 2023,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2237431611",
+          "name": "Philip Chung"
+        },
+        {
+          "authorId": "2237431371",
+          "name": "Christine T. Fong"
+        },
+        {
+          "authorId": "2237431341",
+          "name": "Andrew M. Walters"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "1397050358",
+          "name": "V. O\u2019Reilly-Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "b4f0059c9a706f963e0ab6d82163a7762dafb176",
+      "publicationVenue": {
+        "id": "62924b2a-8fb8-4b93-92c6-735516b49af0",
+        "name": "Scientific Data",
+        "type": "journal",
+        "alternate_names": [
+          "Sci Data"
+        ],
+        "issn": "2052-4463",
+        "url": "http://www.nature.com/sdata/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b4f0059c9a706f963e0ab6d82163a7762dafb176",
+      "title": "Aci-bench: a Novel Ambient Clinical Intelligence Dataset for Benchmarking Automatic Visit Note Generation",
+      "venue": "Scientific Data",
+      "year": 2023,
+      "citationCount": 70,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "38845771",
+          "name": "Wen-wai Yim"
+        },
+        {
+          "authorId": "2118638878",
+          "name": "Yujuan Fu"
+        },
+        {
+          "authorId": "2127117221",
+          "name": "Asma Ben Abacha"
+        },
+        {
+          "authorId": "2219548780",
+          "name": "Neal Snider"
+        },
+        {
+          "authorId": "144739109",
+          "name": "Thomas Lin"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        }
+      ]
+    },
+    {
+      "paperId": "e2fdd998f9d46bf63ab4c722febe0ca3422d20e9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e2fdd998f9d46bf63ab4c722febe0ca3422d20e9",
+      "title": "Evaluation of crowdsourced mortality prediction models as a framework for assessing artificial intelligence in medicine",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2023,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "14203530",
+          "name": "Timothy Bergquist"
+        },
+        {
+          "authorId": "1866719",
+          "name": "T. Schaffter"
+        },
+        {
+          "authorId": "2117859331",
+          "name": "Yao Yan"
+        },
+        {
+          "authorId": "2256865391",
+          "name": "Thomas V Yu"
+        },
+        {
+          "authorId": "36665791",
+          "name": "Justin Prosser"
+        },
+        {
+          "authorId": "6634728",
+          "name": "Jifan Gao"
+        },
+        {
+          "authorId": "144223674",
+          "name": "Guanhua Chen"
+        },
+        {
+          "authorId": "8647699",
+          "name": "\u0141ukasz Charzewski"
+        },
+        {
+          "authorId": "2125114811",
+          "name": "Zofia Nawalany"
+        },
+        {
+          "authorId": "1707458",
+          "name": "Ivan Brugere"
+        },
+        {
+          "authorId": "4092317",
+          "name": "R. Retkute"
+        },
+        {
+          "authorId": "89236076",
+          "name": "Alidivinas Prusokas"
+        },
+        {
+          "authorId": "2089379588",
+          "name": "Augustinas Prusokas"
+        },
+        {
+          "authorId": "2176967",
+          "name": "Yonghwa Choi"
+        },
+        {
+          "authorId": "2144571946",
+          "name": "Sanghoon Lee"
+        },
+        {
+          "authorId": "2064709130",
+          "name": "Junseok Choe"
+        },
+        {
+          "authorId": "1811419765",
+          "name": "Inggeol Lee"
+        },
+        {
+          "authorId": "2144247125",
+          "name": "Sunkyu Kim"
+        },
+        {
+          "authorId": "144323862",
+          "name": "Jaewoo Kang"
+        },
+        {
+          "authorId": "2165122588",
+          "name": "Sean D. Mooney"
+        },
+        {
+          "authorId": "1684985",
+          "name": "J. Guinney"
+        },
+        {
+          "authorId": "2233019680",
+          "name": "Aaron Lee"
+        },
+        {
+          "authorId": "1398283716",
+          "name": "Ali Salehzadeh-Yazdi"
+        },
+        {
+          "authorId": "89236076",
+          "name": "Alidivinas Prusokas"
+        },
+        {
+          "authorId": "2297235797",
+          "name": "A. Basu"
+        },
+        {
+          "authorId": "3397045",
+          "name": "A. Belouali"
+        },
+        {
+          "authorId": "90695581",
+          "name": "Ann\u2010Kristin Becker"
+        },
+        {
+          "authorId": "2057099573",
+          "name": "Ariel Israel"
+        },
+        {
+          "authorId": "2089379588",
+          "name": "Augustinas Prusokas"
+        },
+        {
+          "authorId": "2054795444",
+          "name": "B. Winter"
+        },
+        {
+          "authorId": "2092762782",
+          "name": "C. Moreno"
+        },
+        {
+          "authorId": "46536995",
+          "name": "C. Kurz"
+        },
+        {
+          "authorId": "2460428",
+          "name": "Dagmar Waltemath"
+        },
+        {
+          "authorId": "90336769",
+          "name": "D. Schweinoch"
+        },
+        {
+          "authorId": "1806197",
+          "name": "E. Glaab"
+        },
+        {
+          "authorId": "144050855",
+          "name": "G. Luo"
+        },
+        {
+          "authorId": "144223674",
+          "name": "Guanhua Chen"
+        },
+        {
+          "authorId": "6400296",
+          "name": "H. Zacharias"
+        },
+        {
+          "authorId": "2065400224",
+          "name": "H. Qiao"
+        },
+        {
+          "authorId": "1811419765",
+          "name": "Inggeol Lee"
+        },
+        {
+          "authorId": "1707458",
+          "name": "Ivan Brugere"
+        },
+        {
+          "authorId": "144323862",
+          "name": "Jaewoo Kang"
+        },
+        {
+          "authorId": "6634728",
+          "name": "Jifan Gao"
+        },
+        {
+          "authorId": "5500175",
+          "name": "Julia Truthmann"
+        },
+        {
+          "authorId": "2064709130",
+          "name": "Junseok Choe"
+        },
+        {
+          "authorId": "3438468",
+          "name": "K. Stephens"
+        },
+        {
+          "authorId": "2333259",
+          "name": "L. Kaderali"
+        },
+        {
+          "authorId": "1697944",
+          "name": "L. Varshney"
+        },
+        {
+          "authorId": "145425345",
+          "name": "M. Vollmer"
+        },
+        {
+          "authorId": "1387833483",
+          "name": "Maria-Theodora Pandi"
+        },
+        {
+          "authorId": "1806010",
+          "name": "M. Gunn"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "37576360",
+          "name": "N. Nath"
+        },
+        {
+          "authorId": "40964144",
+          "name": "N. Hammarlund"
+        },
+        {
+          "authorId": "2103088332",
+          "name": "Oliver M\u00fcller-Stricker"
+        },
+        {
+          "authorId": "2174276624",
+          "name": "Panagiotis Togias"
+        },
+        {
+          "authorId": "2229074",
+          "name": "P. Heagerty"
+        },
+        {
+          "authorId": "143612304",
+          "name": "P. Muir"
+        },
+        {
+          "authorId": "51321276",
+          "name": "Peter Banda"
+        },
+        {
+          "authorId": "4092317",
+          "name": "R. Retkute"
+        },
+        {
+          "authorId": "2028869",
+          "name": "Ron Henkel"
+        },
+        {
+          "authorId": "2232945657",
+          "name": "Sagar Madgi"
+        },
+        {
+          "authorId": "2197353647",
+          "name": "Samir Gupta"
+        },
+        {
+          "authorId": "2144571946",
+          "name": "Sanghoon Lee"
+        },
+        {
+          "authorId": "2066057238",
+          "name": "Sean Mooney"
+        },
+        {
+          "authorId": "2129669016",
+          "name": "Shabeeb Kannattikuni"
+        },
+        {
+          "authorId": "26376644",
+          "name": "Shamim Sarhadi"
+        },
+        {
+          "authorId": "2232947988",
+          "name": "Shikhar Omar"
+        },
+        {
+          "authorId": "2233048208",
+          "name": "Shuo Wang"
+        },
+        {
+          "authorId": "1748141",
+          "name": "Soumyabrata Ghosh"
+        },
+        {
+          "authorId": "48815534",
+          "name": "S. Neumann"
+        },
+        {
+          "authorId": "46797263",
+          "name": "Stefan Simm"
+        },
+        {
+          "authorId": "2804275",
+          "name": "Subha Madhavan"
+        },
+        {
+          "authorId": "2144247125",
+          "name": "Sunkyu Kim"
+        },
+        {
+          "authorId": "2232947616",
+          "name": "Thomas Von Yu"
+        },
+        {
+          "authorId": "2285455",
+          "name": "Venkata P. Satagopam"
+        },
+        {
+          "authorId": "2866128",
+          "name": "V. Pejaver"
+        },
+        {
+          "authorId": "117965059",
+          "name": "Yachee Gupta"
+        },
+        {
+          "authorId": "2176967",
+          "name": "Yonghwa Choi"
+        },
+        {
+          "authorId": "2125114811",
+          "name": "Zofia Nawalany"
+        },
+        {
+          "authorId": "8647699",
+          "name": "\u0141ukasz Charzewski"
+        }
+      ]
+    },
+    {
+      "paperId": "4374a11aad9d51138990735aea0764a710a29f92",
+      "publicationVenue": {
+        "id": "62924b2a-8fb8-4b93-92c6-735516b49af0",
+        "name": "Scientific Data",
+        "type": "journal",
+        "alternate_names": [
+          "Sci Data"
+        ],
+        "issn": "2052-4463",
+        "url": "http://www.nature.com/sdata/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4374a11aad9d51138990735aea0764a710a29f92",
+      "title": "The Leaf Clinical Trials Corpus: a new resource for query generation from clinical trial eligibility criteria",
+      "venue": "Scientific Data",
+      "year": 2022,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "121180974",
+          "name": "Nicholas J. Dobbins"
+        },
+        {
+          "authorId": "2020283",
+          "name": "Tony Mullen"
+        },
+        {
+          "authorId": "1723337",
+          "name": "\u00d6zlem Uzuner"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        }
+      ]
+    },
+    {
+      "paperId": "6b47c7df495fade93300413ab1e9b70e3b082f7f",
+      "publicationVenue": {
+        "id": "d30776c0-e524-4f14-a524-871d0586862c",
+        "name": "Cancers",
+        "type": "journal",
+        "issn": "2072-6694",
+        "url": "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-154879",
+        "alternate_urls": [
+          "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:ch:bel-154879",
+          "https://www.mdpi.com/journal/cancers"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6b47c7df495fade93300413ab1e9b70e3b082f7f",
+      "title": "How Timely Is Diagnosis of Lung Cancer? Cohort Study of Individuals with Lung Cancer Presenting in Ambulatory Care in the United States",
+      "venue": "Cancers",
+      "year": 2022,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "51972916",
+          "name": "Monica L. Zigman Suchsland"
+        },
+        {
+          "authorId": "2088235373",
+          "name": "Lesleigh Kowalski"
+        },
+        {
+          "authorId": "152426688",
+          "name": "Hannah A. Burkhardt"
+        },
+        {
+          "authorId": "49596541",
+          "name": "M. G. Prado"
+        },
+        {
+          "authorId": "39425456",
+          "name": "L. Kessler"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "6906764",
+          "name": "M. Au"
+        },
+        {
+          "authorId": "3438468",
+          "name": "K. Stephens"
+        },
+        {
+          "authorId": "5724761",
+          "name": "F. Farjah"
+        },
+        {
+          "authorId": "9790895",
+          "name": "A. Schleyer"
+        },
+        {
+          "authorId": "2140438640",
+          "name": "Fiona M Walter"
+        },
+        {
+          "authorId": "143962188",
+          "name": "R. Neal"
+        },
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "4011109",
+          "name": "C. Thompson"
+        },
+        {
+          "authorId": "4141455",
+          "name": "M. Achkar"
+        },
+        {
+          "authorId": "8041972",
+          "name": "E. A. Sarma"
+        },
+        {
+          "authorId": "37567298",
+          "name": "G. Turner"
+        },
+        {
+          "authorId": "1922834670",
+          "name": "M. Thompson"
+        }
+      ]
+    },
+    {
+      "paperId": "7881c9233a8ef0f124566a598f850c51d471a446",
+      "publicationVenue": {
+        "id": "d5e5b5e7-54b1-4f53-82fc-4853f3e71c58",
+        "name": "medRxiv",
+        "type": "journal",
+        "url": "https://www.medrxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7881c9233a8ef0f124566a598f850c51d471a446",
+      "title": "Symptoms and signs of lung cancer prior to diagnosis: Comparative study using electronic health records",
+      "venue": "medRxiv",
+      "year": 2022,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "49596541",
+          "name": "M. G. Prado"
+        },
+        {
+          "authorId": "2253149820",
+          "name": "Larry G. Kessler"
+        },
+        {
+          "authorId": "6906764",
+          "name": "M. Au"
+        },
+        {
+          "authorId": "2253079014",
+          "name": "Hannah A. Burkhardt"
+        },
+        {
+          "authorId": "40895661",
+          "name": "M. Z. Suchsland"
+        },
+        {
+          "authorId": "2088235373",
+          "name": "Lesleigh Kowalski"
+        },
+        {
+          "authorId": "2239076515",
+          "name": "Kari A Stephens"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "2253380900",
+          "name": "Fiona M Walter"
+        },
+        {
+          "authorId": "2241637212",
+          "name": "Richard D Neal"
+        },
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "2253112920",
+          "name": "Caroline A. Thompson"
+        },
+        {
+          "authorId": "4141455",
+          "name": "M. Achkar"
+        },
+        {
+          "authorId": "2253380240",
+          "name": "Elizabeth A. Sarma"
+        },
+        {
+          "authorId": "2253262566",
+          "name": "Grace Turner"
+        },
+        {
+          "authorId": "5724761",
+          "name": "F. Farjah"
+        },
+        {
+          "authorId": "1922834670",
+          "name": "M. Thompson"
+        }
+      ]
+    },
+    {
+      "paperId": "96a7920df4abb2102698ebbff8e44b58a6665131",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/96a7920df4abb2102698ebbff8e44b58a6665131",
+      "title": "Multi-task Citation Content Analysis for Clinical Research Publications",
+      "venue": "",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2261961752",
+          "name": "J. Devlin"
+        },
+        {
+          "authorId": "2262085555",
+          "name": "Ming-Wei Chang"
+        },
+        {
+          "authorId": "2262196473",
+          "name": "Kenton Lee"
+        },
+        {
+          "authorId": "2288860530",
+          "name": "Eugene Gar\ufb01eld. 1972"
+        },
+        {
+          "authorId": "2289827855",
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "2288038456",
+          "name": "Hao Cheng"
+        },
+        {
+          "authorId": "2288857413",
+          "name": "Michael Lucas"
+        },
+        {
+          "authorId": "2052499384",
+          "name": "George Hripscak"
+        },
+        {
+          "authorId": "39565002",
+          "name": "A. Rothschild"
+        },
+        {
+          "authorId": "2798221",
+          "name": "Kokil Jaidka"
+        },
+        {
+          "authorId": "19168196",
+          "name": "Michihiro Yasunaga"
+        },
+        {
+          "authorId": "2288720556",
+          "name": "Muthu Kumar"
+        },
+        {
+          "authorId": "2288865321",
+          "name": "Dragomir Chandrasekaran"
+        },
+        {
+          "authorId": "2288865128",
+          "name": "Radev Min-Yen"
+        },
+        {
+          "authorId": "2288860583",
+          "name": "David Jurgens"
+        },
+        {
+          "authorId": "2288862673",
+          "name": "Srijan Kumar"
+        },
+        {
+          "authorId": "26155126",
+          "name": "Raine Hoover"
+        },
+        {
+          "authorId": "2288852263",
+          "name": "Dan Mc-637"
+        },
+        {
+          "authorId": "2288852968",
+          "name": "Graciela Tran"
+        },
+        {
+          "authorId": "2288864251",
+          "name": "Rosemblat Jodi"
+        },
+        {
+          "authorId": "2288623491",
+          "name": "Schneider"
+        },
+        {
+          "authorId": "29891652",
+          "name": "Anne Lauscher"
+        },
+        {
+          "authorId": "2288859956",
+          "name": "Brandon Ko"
+        },
+        {
+          "authorId": "2003338023",
+          "name": "Bailey Kuehl"
+        },
+        {
+          "authorId": "2527954",
+          "name": "Arman Cohan"
+        },
+        {
+          "authorId": "2258929982",
+          "name": "Aleksander M\u0105dry"
+        },
+        {
+          "authorId": null,
+          "name": "Aleksandar Makelov"
+        },
+        {
+          "authorId": "2287125595",
+          "name": "Ludwig"
+        },
+        {
+          "authorId": "2286919149",
+          "name": "Dimitris Schmidt"
+        },
+        {
+          "authorId": "2286813643",
+          "name": "Tsipras Adrian"
+        },
+        {
+          "authorId": "2045520390",
+          "name": "Vladu"
+        },
+        {
+          "authorId": "2288852836",
+          "name": "Ramon Maldonado"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "2288849970",
+          "name": "Sanda M 670"
+        },
+        {
+          "authorId": "3213400",
+          "name": "Takeru Miyato"
+        },
+        {
+          "authorId": "2286428254",
+          "name": "Andrew M. Dai"
+        },
+        {
+          "authorId": "2288864240",
+          "name": "Ian Goodfel-675"
+        },
+        {
+          "authorId": "2253519805",
+          "name": "Saif Mohammad"
+        },
+        {
+          "authorId": "2285145458",
+          "name": "Bonnie Dorr"
+        },
+        {
+          "authorId": "144243233",
+          "name": "Melissa Egan"
+        },
+        {
+          "authorId": "69025910",
+          "name": "P. Muthukrishan"
+        },
+        {
+          "authorId": "1705983",
+          "name": "Vahed Qazvinian"
+        }
+      ]
+    },
+    {
+      "paperId": "a5964de47c14008b9684c78480a1b3c47e1175c1",
+      "publicationVenue": {
+        "id": "b0bd78b2-6591-460e-af71-196409b62e2c",
+        "name": "Cancer Research",
+        "type": "journal",
+        "alternate_names": [
+          "Cancer Res"
+        ],
+        "issn": "0008-5472",
+        "url": "https://cancerres.aacrjournals.org/",
+        "alternate_urls": [
+          "http://cancerres.aacrjournals.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a5964de47c14008b9684c78480a1b3c47e1175c1",
+      "title": "Abstract 4090: Creating research quality cancer genomic data from electronic health records",
+      "venue": "Cancer Research",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "40507083",
+          "name": "R. Yung"
+        },
+        {
+          "authorId": "3438468",
+          "name": "K. Stephens"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "1390118934",
+          "name": "A. Burnett-Hartman"
+        },
+        {
+          "authorId": "2028896122",
+          "name": "Ashwani Tanwar"
+        },
+        {
+          "authorId": "2125714848",
+          "name": "Guilherme Freire"
+        },
+        {
+          "authorId": "2170668744",
+          "name": "Atri Sharma"
+        },
+        {
+          "authorId": "47540100",
+          "name": "Jingqing Zhang"
+        },
+        {
+          "authorId": "2110652718",
+          "name": "Vibhor Gupta"
+        },
+        {
+          "authorId": "2118269437",
+          "name": "Yike Guo"
+        },
+        {
+          "authorId": "52245176",
+          "name": "V. Gadi"
+        },
+        {
+          "authorId": "36887049",
+          "name": "L. Kessler"
+        }
+      ]
+    },
+    {
+      "paperId": "24c32d673400a1ae65d430a2baf69d649a95f788",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/24c32d673400a1ae65d430a2baf69d649a95f788",
+      "title": "Natural Language Processing in Mental Health Research and Practice",
+      "venue": "Health Informatics",
+      "year": 2021,
+      "citationCount": 3,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "145913493",
+          "name": "Sam Henry"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "1404417826",
+          "name": "Ozlem Uzuner"
+        }
+      ]
+    },
+    {
+      "paperId": "781be521705dcd753a4092edc8de40aeaee9a37f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/781be521705dcd753a4092edc8de40aeaee9a37f",
+      "title": "Towards Automating Medical Scribing : Clinic Visit Dialogue2Note Sentence Alignment and Snippet Summarization",
+      "venue": "NLPMC",
+      "year": 2021,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "38845771",
+          "name": "Wen-wai Yim"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        }
+      ]
+    },
+    {
+      "paperId": "9eb20531aa9cd2db0ac5ff8633786d29f817a3ce",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/9eb20531aa9cd2db0ac5ff8633786d29f817a3ce",
+      "title": "Transferability of Neural Network-based De-identification Systems",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49564416",
+          "name": "Kahyun Lee"
+        },
+        {
+          "authorId": "121180974",
+          "name": "Nicholas J. Dobbins"
+        },
+        {
+          "authorId": "1967721",
+          "name": "Bridget T. McInnes"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "1404417826",
+          "name": "Ozlem Uzuner"
+        }
+      ]
+    },
+    {
+      "paperId": "d3783fa82814f6cc5a2211fa4ab9aad77ecef55d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d3783fa82814f6cc5a2211fa4ab9aad77ecef55d",
+      "title": "Transferability of neural network clinical deidentification systems",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2021,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "49564416",
+          "name": "Kahyun Lee"
+        },
+        {
+          "authorId": "121180974",
+          "name": "Nicholas J. Dobbins"
+        },
+        {
+          "authorId": "49460508",
+          "name": "Bridget Mcinnes"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "1390465945",
+          "name": "\u00d6zlem Uzuner"
+        }
+      ]
+    },
+    {
+      "paperId": "f12cf11514f7eef2be0f34e0be4ec1fdb5925c8c",
+      "publicationVenue": {
+        "id": "d97d3d34-0bc5-4a81-9542-b39361ecf3aa",
+        "name": "Journal of digital imaging",
+        "type": "journal",
+        "alternate_names": [
+          "Journal of Digital Imaging",
+          "J digit imaging",
+          "J Digit Imaging"
+        ],
+        "issn": "0897-1889",
+        "url": "https://link.springer.com/journal/10278"
+      },
+      "url": "https://www.semanticscholar.org/paper/f12cf11514f7eef2be0f34e0be4ec1fdb5925c8c",
+      "title": "Event-Based Clinical Finding Extraction from Radiology Reports with Pre-trained Language Model",
+      "venue": "Journal of digital imaging",
+      "year": 2021,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2054257593",
+          "name": "Wilson Lau"
+        },
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "1806010",
+          "name": "M. Gunn"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        }
+      ]
+    },
+    {
+      "paperId": "faa7f2db0ab100e270cce89917f908c2170a44a6",
+      "publicationVenue": {
+        "id": "c9e16b3c-2fdf-4b4c-82bf-5cdf3d3435b7",
+        "name": "American Medical Informatics Association Annual Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Conference of American Medical Informatics Association",
+          "Am Med Informatics Assoc Annu Symp",
+          "Conf Am Med Informatics Assoc",
+          "AMIA"
+        ],
+        "url": "https://knowledge.amia.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/faa7f2db0ab100e270cce89917f908c2170a44a6",
+      "title": "Jointly Learning Clinical Entities and Relations with Contextual Language Models and Explicit Context",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143634774",
+          "name": "P. Barry"
+        },
+        {
+          "authorId": "145913493",
+          "name": "Sam Henry"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "1967721",
+          "name": "Bridget T. McInnes"
+        },
+        {
+          "authorId": "1404417826",
+          "name": "Ozlem Uzuner"
+        }
+      ]
+    },
+    {
+      "paperId": "161e7d54b6c62ed2f710eaf739bc0f7e6e3c0497",
+      "publicationVenue": {
+        "id": "027ffd21-ebb0-4af8-baf5-911124292fd0",
+        "name": "bioRxiv",
+        "type": "journal",
+        "url": "http://biorxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/161e7d54b6c62ed2f710eaf739bc0f7e6e3c0497",
+      "title": "Leveraging UMLS-driven NLP to enhance identification of influenza predictors derived from electronic medical record data",
+      "venue": "bioRxiv",
+      "year": 2020,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Biology",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3438468",
+          "name": "K. Stephens"
+        },
+        {
+          "authorId": "6906764",
+          "name": "M. Au"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "48731331",
+          "name": "B. Lutz"
+        },
+        {
+          "authorId": "40895661",
+          "name": "M. Z. Suchsland"
+        },
+        {
+          "authorId": "3115265",
+          "name": "M. Ebell"
+        },
+        {
+          "authorId": "152379201",
+          "name": "Matthew J. Thompson"
+        }
+      ]
+    },
+    {
+      "paperId": "19783c5f2406406335d81036cb8ff543022ba7c3",
+      "publicationVenue": {
+        "id": "f9827422-a381-440c-a8a4-e5e50415934e",
+        "name": "Journal of Biomedical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Informatics"
+        ],
+        "issn": "1532-0464",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622857/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-biomedical-informatics/",
+          "http://www.sciencedirect.com/science/journal/15320464",
+          "http://www.journals.elsevier.com/journal-of-biomedical-informatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/19783c5f2406406335d81036cb8ff543022ba7c3",
+      "title": "Annotating Social Determinants of Health Using Active Learning, and Characterizing Determinants Using Neural Event Extraction",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2020,
+      "citationCount": 65,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "144339506",
+          "name": "Mari Ostendorf"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        }
+      ]
+    },
+    {
+      "paperId": "31fdb6a6b869c28a83079b685e32233062ab8f13",
+      "publicationVenue": {
+        "id": "f9827422-a381-440c-a8a4-e5e50415934e",
+        "name": "Journal of Biomedical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "J Biomed Informatics"
+        ],
+        "issn": "1532-0464",
+        "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622857/description#description",
+        "alternate_urls": [
+          "https://www.journals.elsevier.com/journal-of-biomedical-informatics/",
+          "http://www.sciencedirect.com/science/journal/15320464",
+          "http://www.journals.elsevier.com/journal-of-biomedical-informatics/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/31fdb6a6b869c28a83079b685e32233062ab8f13",
+      "title": "Extracting COVID-19 diagnoses and symptoms from clinical text: A new annotated corpus and neural event extraction framework",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2020,
+      "citationCount": 45,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "144339506",
+          "name": "Mari Ostendorf"
+        },
+        {
+          "authorId": "1922834670",
+          "name": "M. Thompson"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        }
+      ]
+    },
+    {
+      "paperId": "86cfb9c29110876cddb08fbd8b1f5e37d7e0b494",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/86cfb9c29110876cddb08fbd8b1f5e37d7e0b494",
+      "title": "Adversarial Learning of Knowledge Embeddings for the Unified Medical Language System.",
+      "venue": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+      "year": 2019,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144120316",
+          "name": "Ram\u00f3n Maldonado"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "1713428",
+          "name": "S. Harabagiu"
+        }
+      ]
+    },
+    {
+      "paperId": "e80b29362882817dad8d04a5f0ae6e041e194801",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e80b29362882817dad8d04a5f0ae6e041e194801",
+      "title": "Predictive Approaches for Acute Adverse Events in Electronic Health Records",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3201563",
+          "name": "D. H. Lee"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "145479841",
+          "name": "E. Horvitz"
+        }
+      ]
+    },
+    {
+      "paperId": "9ac1b097e5e1792bd36437e72a6bb7401e8696b4",
+      "publicationVenue": {
+        "id": "bb452b4b-64df-4f54-b48d-b763de1db74d",
+        "name": "Applied Clinical Informatics",
+        "type": "journal",
+        "alternate_names": [
+          "Appl Clin Informatics"
+        ],
+        "issn": "1869-0327",
+        "url": "https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00035026"
+      },
+      "url": "https://www.semanticscholar.org/paper/9ac1b097e5e1792bd36437e72a6bb7401e8696b4",
+      "title": "Asynchronous Speech Recognition Affects Physician Editing of Notes",
+      "venue": "Applied Clinical Informatics",
+      "year": 2018,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "144339506",
+          "name": "Mari Ostendorf"
+        },
+        {
+          "authorId": "1788775",
+          "name": "E. Riskin"
+        },
+        {
+          "authorId": "1779828",
+          "name": "T. Payne"
+        },
+        {
+          "authorId": "35143755",
+          "name": "Andrew A. White"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        }
+      ]
+    },
+    {
+      "paperId": "9c13c817e92e02af04fa289ba9e6545982c844b0",
+      "publicationVenue": {
+        "id": "125a5b45-3e15-466b-ab58-9ae53ed28f0d",
+        "name": "eGEMs",
+        "issn": "2327-9214",
+        "url": "https://egems.academyhealth.org/",
+        "alternate_urls": [
+          "http://repository.academyhealth.org/egems/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9c13c817e92e02af04fa289ba9e6545982c844b0",
+      "title": "Automating Electronic Clinical Data Capture for Quality Improvement and Research: The CERTAIN Validation Project of Real World Evidence",
+      "venue": "eGEMs",
+      "year": 2018,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2683654",
+          "name": "E. Devine"
+        },
+        {
+          "authorId": "7469359",
+          "name": "Erik G Van Eaton"
+        },
+        {
+          "authorId": "40147129",
+          "name": "M. Zadworny"
+        },
+        {
+          "authorId": "32234130",
+          "name": "R. Symons"
+        },
+        {
+          "authorId": "3600768",
+          "name": "Allison Devlin"
+        },
+        {
+          "authorId": "2163980",
+          "name": "D. Yanez"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "46980766",
+          "name": "K. Keyloun"
+        },
+        {
+          "authorId": "2144023751",
+          "name": "Daniel Capurro"
+        },
+        {
+          "authorId": "1401083576",
+          "name": "R. Alfonso-Cristancho"
+        },
+        {
+          "authorId": "6554101",
+          "name": "D. Flum"
+        },
+        {
+          "authorId": "1399013570",
+          "name": "P. Tarczy-Hornoch"
+        }
+      ]
+    },
+    {
+      "paperId": "a58a41bb977c94688a252f7885d092d8c0cd1ea0",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a58a41bb977c94688a252f7885d092d8c0cd1ea0",
+      "title": "1199: TOWARD AN EARLY WARNING SYSTEM ON NEED FOR LIFESAVING INTERVENTIONS IN INTENSIVE CARE PATIENTS",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3201563",
+          "name": "D. H. Lee"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "145479841",
+          "name": "E. Horvitz"
+        }
+      ]
+    },
+    {
+      "paperId": "dbf764898e857dae204c556b57374c914ff375e3",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/dbf764898e857dae204c556b57374c914ff375e3",
+      "title": "AHRQ GRANT FINAL PROGRESS REPORT* Title of project: Improving Accuracy of Electronic Notes Using A Faster, Simpler Approach Principal investigator:",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1779828",
+          "name": "T. Payne"
+        },
+        {
+          "authorId": "2059985273",
+          "name": "Thomas Gallagher"
+        },
+        {
+          "authorId": "47237757",
+          "name": "A. White"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "47951077",
+          "name": "Amelia M Chappelle"
+        },
+        {
+          "authorId": "144975789",
+          "name": "Jennifer M. Zech"
+        },
+        {
+          "authorId": "2064132417",
+          "name": "David Alonso"
+        }
+      ]
+    },
+    {
+      "paperId": "e7f51615adfa0a1f1d4de4868ec9b87757d3f672",
+      "publicationVenue": {
+        "id": "811a7a2a-70ce-4bde-9f59-dd8bb126e30f",
+        "name": "JAMIA Open",
+        "issn": "2574-2531"
+      },
+      "url": "https://www.semanticscholar.org/paper/e7f51615adfa0a1f1d4de4868ec9b87757d3f672",
+      "title": "Using voice to create inpatient progress notes: effects on note timeliness, quality, and physician satisfaction",
+      "venue": "JAMIA Open",
+      "year": 2018,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Psychology"
+      ],
+      "authors": [
+        {
+          "authorId": "2255616506",
+          "name": "Thomas H Payne"
+        },
+        {
+          "authorId": "2072729466",
+          "name": "W. D. Alonso"
+        },
+        {
+          "authorId": "40790323",
+          "name": "J. A. Markiel"
+        },
+        {
+          "authorId": "31033341",
+          "name": "K. Lybarger"
+        },
+        {
+          "authorId": "3462246",
+          "name": "Ross J. Lordon"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "2255649833",
+          "name": "Jennifer M Zech"
+        },
+        {
+          "authorId": "2255342971",
+          "name": "Andrew A White"
+        }
+      ]
+    },
+    {
+      "paperId": "655d8c5ea0287f1cf703b1582a0c7dd81e33f367",
+      "publicationVenue": {
+        "id": "4927fc60-c4fd-4482-a987-8ce831e407cc",
+        "name": "JAMA Oncology",
+        "type": "journal",
+        "alternate_names": [
+          "JAMA Oncol"
+        ],
+        "issn": "2374-2437",
+        "url": "http://oncology.jamanetwork.com/journal.aspx",
+        "alternate_urls": [
+          "http://www.jamaoncology.com/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/655d8c5ea0287f1cf703b1582a0c7dd81e33f367",
+      "title": "Natural Language Processing in Oncology: A Review.",
+      "venue": "JAMA Oncology",
+      "year": 2016,
+      "citationCount": 237,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "38845771",
+          "name": "Wen-wai Yim"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "19302205",
+          "name": "W. Harris"
+        },
+        {
+          "authorId": "30763251",
+          "name": "S. Kwan"
+        }
+      ]
+    },
+    {
+      "paperId": "fc1e1937ff588a4818491b8725d81c775c7c3c07",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/fc1e1937ff588a4818491b8725d81c775c7c3c07",
+      "title": "Structuring Free-text Microbiology Culture Reports For Secondary Use",
+      "venue": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+      "year": 2015,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "38845771",
+          "name": "Wen-wai Yim"
+        },
+        {
+          "authorId": "143900586",
+          "name": "H. Evans"
+        },
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        }
+      ]
+    },
+    {
+      "paperId": "18d8685f6762e43a1e4a6b60004417c39c6a8a97",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/18d8685f6762e43a1e4a6b60004417c39c6a8a97",
+      "title": "A New Corpus for Clinical Events with Change of State",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "History"
+      ],
+      "authors": [
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "35043219",
+          "name": "Prescott Klassen"
+        },
+        {
+          "authorId": "1909300",
+          "name": "Lucy Vanderwende"
+        },
+        {
+          "authorId": "152476773",
+          "name": "Fei Xia"
+        }
+      ]
+    },
+    {
+      "paperId": "d0f57e05825074c01cd55e8dcccee8df91c3d980",
+      "publicationVenue": {
+        "id": "125a5b45-3e15-466b-ab58-9ae53ed28f0d",
+        "name": "eGEMs",
+        "issn": "2327-9214",
+        "url": "https://egems.academyhealth.org/",
+        "alternate_urls": [
+          "http://repository.academyhealth.org/egems/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/d0f57e05825074c01cd55e8dcccee8df91c3d980",
+      "title": "Automating Data Abstraction in a Quality Improvement Platform for Surgical and Interventional Procedures",
+      "venue": "eGEMs",
+      "year": 2014,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "50170368",
+          "name": "Meliha Yetisgen"
+        },
+        {
+          "authorId": "35043219",
+          "name": "Prescott Klassen"
+        },
+        {
+          "authorId": "1399013570",
+          "name": "P. Tarczy-Hornoch"
+        }
+      ]
+    }
+  ]
+}

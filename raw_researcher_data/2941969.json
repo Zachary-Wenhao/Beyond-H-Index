@@ -1,0 +1,5111 @@
+{
+  "authorId": "2941969",
+  "name": "O. Oktay",
+  "affiliations": [],
+  "paperCount": 79,
+  "citationCount": 10442,
+  "hIndex": 34,
+  "papers": [
+    {
+      "paperId": "2cd8c14938aed3f1de4ccbe722dc5241bf62079a",
+      "publicationVenue": {
+        "id": "6457124b-39bf-4d02-bff4-73752ff21562",
+        "name": "Nature Machine Intelligence",
+        "type": "journal",
+        "alternate_names": [
+          "Nat Mach Intell"
+        ],
+        "issn": "2522-5839",
+        "url": "https://www.nature.com/natmachintell/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2cd8c14938aed3f1de4ccbe722dc5241bf62079a",
+      "title": "RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision",
+      "venue": "Nature Machine Intelligence",
+      "year": 2024,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2280063054",
+          "name": "Fernando P'erez-Garc'ia"
+        },
+        {
+          "authorId": "2261278350",
+          "name": "Harshita Sharma"
+        },
+        {
+          "authorId": "2275352199",
+          "name": "Sam Bond-Taylor"
+        },
+        {
+          "authorId": "2199938946",
+          "name": "Kenza Bouzid"
+        },
+        {
+          "authorId": "2275352224",
+          "name": "Valentina Salvatelli"
+        },
+        {
+          "authorId": "2275353034",
+          "name": "Maximilian Ilse"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "2261277520",
+          "name": "Daniel C. Castro"
+        },
+        {
+          "authorId": "2261277527",
+          "name": "Anton Schwaighofer"
+        },
+        {
+          "authorId": "2188270295",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2223845249",
+          "name": "M. Wetscherek"
+        },
+        {
+          "authorId": "2268318452",
+          "name": "Noel Codella"
+        },
+        {
+          "authorId": "34918424",
+          "name": "Stephanie L. Hyland"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "4fd6be011c1c809aa40b7006064a42d89649aff3",
+      "publicationVenue": {
+        "id": "b55b50b1-aae7-47a7-b042-8aecc930073d",
+        "name": "International Conference on Human Factors in Computing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "CHI",
+          "Int Conf Hum Factor Comput Syst",
+          "Human Factors in Computing Systems",
+          "Conference on Human Interface",
+          "Conf Hum Interface",
+          "Hum Factor Comput Syst"
+        ],
+        "url": "http://www.acm.org/sigchi/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4fd6be011c1c809aa40b7006064a42d89649aff3",
+      "title": "Multimodal Healthcare AI: Identifying and Designing Clinically Relevant Vision-Language Applications for Radiology",
+      "venue": "International Conference on Human Factors in Computing Systems",
+      "year": 2024,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2284985979",
+          "name": "Nur Yildirim"
+        },
+        {
+          "authorId": "2268457752",
+          "name": "Hannah Richardson"
+        },
+        {
+          "authorId": "2223845249",
+          "name": "M. Wetscherek"
+        },
+        {
+          "authorId": "2119588844",
+          "name": "Junaid Bajwa"
+        },
+        {
+          "authorId": "2284990647",
+          "name": "Joseph Jacob"
+        },
+        {
+          "authorId": "1802177782",
+          "name": "Mark A. Pinnock"
+        },
+        {
+          "authorId": "2284986163",
+          "name": "Stephen Harris"
+        },
+        {
+          "authorId": "2305844891",
+          "name": "Daniel Coelho De Castro"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "2261608797",
+          "name": "Stephanie L. Hyland"
+        },
+        {
+          "authorId": "2146521043",
+          "name": "Pratik Ghosh"
+        },
+        {
+          "authorId": "1381199788",
+          "name": "M. Ranjit"
+        },
+        {
+          "authorId": "2199938946",
+          "name": "Kenza Bouzid"
+        },
+        {
+          "authorId": "2261277527",
+          "name": "Anton Schwaighofer"
+        },
+        {
+          "authorId": "2280063054",
+          "name": "Fernando P'erez-Garc'ia"
+        },
+        {
+          "authorId": "2261278350",
+          "name": "Harshita Sharma"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2188270295",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "2261277533",
+          "name": "Anja Thieme"
+        }
+      ]
+    },
+    {
+      "paperId": "6008cd7983504ca1729288d62678f6a85517f4a3",
+      "publicationVenue": {
+        "id": "6457124b-39bf-4d02-bff4-73752ff21562",
+        "name": "Nature Machine Intelligence",
+        "type": "journal",
+        "alternate_names": [
+          "Nat Mach Intell"
+        ],
+        "issn": "2522-5839",
+        "url": "https://www.nature.com/natmachintell/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6008cd7983504ca1729288d62678f6a85517f4a3",
+      "title": "A causal perspective on dataset bias in machine learning for medical imaging",
+      "venue": "Nature Machine Intelligence",
+      "year": 2024,
+      "citationCount": 21,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2152376592",
+          "name": "Charles Jones"
+        },
+        {
+          "authorId": "2261277520",
+          "name": "Daniel C. Castro"
+        },
+        {
+          "authorId": "2284426585",
+          "name": "Fabio De Sousa Ribeiro"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2161548803",
+          "name": "Melissa McCradden"
+        },
+        {
+          "authorId": "2260627290",
+          "name": "Ben Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "adbb507fc56e52fe63155bdefa9e059ff8cfbd09",
+      "publicationVenue": {
+        "id": "891ae80d-6a62-482e-acfd-5ab97c72a90b",
+        "name": "ACM Transactions on Computer-Human Interaction",
+        "type": "journal",
+        "alternate_names": [
+          "ACM Trans Comput Interact"
+        ],
+        "issn": "1073-0516",
+        "url": "http://www.acm.org/pubs/tochi/",
+        "alternate_urls": [
+          "http://portal.acm.org/tochi",
+          "http://tochi.acm.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/adbb507fc56e52fe63155bdefa9e059ff8cfbd09",
+      "title": "Challenges for Responsible AI Design and Workflow Integration in Healthcare: A Case Study of Automatic Feeding Tube Qualification in Radiology",
+      "venue": "ACM Transactions on Computer-Human Interaction",
+      "year": 2024,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2261277533",
+          "name": "Anja Thieme"
+        },
+        {
+          "authorId": "2300368560",
+          "name": "Abhijith Rajamohan"
+        },
+        {
+          "authorId": "2300369105",
+          "name": "Benjamin Cooper"
+        },
+        {
+          "authorId": "2300368600",
+          "name": "Heather Groombridge"
+        },
+        {
+          "authorId": "3845886",
+          "name": "R. Simister"
+        },
+        {
+          "authorId": "2300368874",
+          "name": "Barney Wong"
+        },
+        {
+          "authorId": "2285557433",
+          "name": "N. Woznitza"
+        },
+        {
+          "authorId": "1802177782",
+          "name": "Mark A. Pinnock"
+        },
+        {
+          "authorId": "2223845249",
+          "name": "M. Wetscherek"
+        },
+        {
+          "authorId": "2300369130",
+          "name": "Cecily Morrison"
+        },
+        {
+          "authorId": "2268457752",
+          "name": "Hannah Richardson"
+        },
+        {
+          "authorId": "2280063054",
+          "name": "Fernando P'erez-Garc'ia"
+        },
+        {
+          "authorId": "2261608797",
+          "name": "Stephanie L. Hyland"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "2261277520",
+          "name": "Daniel C. Castro"
+        },
+        {
+          "authorId": "2199938946",
+          "name": "Kenza Bouzid"
+        },
+        {
+          "authorId": "2261277527",
+          "name": "Anton Schwaighofer"
+        },
+        {
+          "authorId": "1381199788",
+          "name": "M. Ranjit"
+        },
+        {
+          "authorId": "2261278350",
+          "name": "Harshita Sharma"
+        },
+        {
+          "authorId": "2188270295",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "2284986163",
+          "name": "Stephen Harris"
+        },
+        {
+          "authorId": "2284990647",
+          "name": "Joseph Jacob"
+        }
+      ]
+    },
+    {
+      "paperId": "f466ebe2889eef31ec25cf84687a45bfac25e41a",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/f466ebe2889eef31ec25cf84687a45bfac25e41a",
+      "title": "MAIRA-2: Grounded Radiology Report Generation",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "2199938946",
+          "name": "Kenza Bouzid"
+        },
+        {
+          "authorId": "2261277520",
+          "name": "Daniel C. Castro"
+        },
+        {
+          "authorId": "2261277527",
+          "name": "Anton Schwaighofer"
+        },
+        {
+          "authorId": "2275352199",
+          "name": "Sam Bond-Taylor"
+        },
+        {
+          "authorId": "2275353034",
+          "name": "Maximilian Ilse"
+        },
+        {
+          "authorId": "2305484918",
+          "name": "Fernando P'erez-Garc'ia"
+        },
+        {
+          "authorId": "2275352224",
+          "name": "Valentina Salvatelli"
+        },
+        {
+          "authorId": "2261278350",
+          "name": "Harshita Sharma"
+        },
+        {
+          "authorId": "2305486264",
+          "name": "Felix Meissen"
+        },
+        {
+          "authorId": "1381199788",
+          "name": "M. Ranjit"
+        },
+        {
+          "authorId": "2187453822",
+          "name": "Shaury Srivastav"
+        },
+        {
+          "authorId": "2268383237",
+          "name": "Julia Gong"
+        },
+        {
+          "authorId": "79665376",
+          "name": "Fabian Falck"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2261277533",
+          "name": "Anja Thieme"
+        },
+        {
+          "authorId": "2188270295",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2223845249",
+          "name": "M. Wetscherek"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "2261608797",
+          "name": "Stephanie L. Hyland"
+        }
+      ]
+    },
+    {
+      "paperId": "12e3c20a9703ccb07ff96dc2fd433a3ee71ce882",
+      "publicationVenue": {
+        "id": "167fa0ca-e88a-4ef7-a16f-bc66c457c806",
+        "name": "European Conference on Computer Vision",
+        "type": "conference",
+        "alternate_names": [
+          "ECCV",
+          "Eur Conf Comput Vis"
+        ],
+        "url": "https://link.springer.com/conference/eccv"
+      },
+      "url": "https://www.semanticscholar.org/paper/12e3c20a9703ccb07ff96dc2fd433a3ee71ce882",
+      "title": "RadEdit: stress-testing biomedical vision models via diffusion image editing",
+      "venue": "European Conference on Computer Vision",
+      "year": 2023,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1398728014",
+          "name": "Fernando P\u00e9rez-Garc\u00eda"
+        },
+        {
+          "authorId": "2275352199",
+          "name": "Sam Bond-Taylor"
+        },
+        {
+          "authorId": "2275367028",
+          "name": "Pedro P. Sanchez"
+        },
+        {
+          "authorId": "2047304902",
+          "name": "B. V. Breugel"
+        },
+        {
+          "authorId": "2261277520",
+          "name": "Daniel C. Castro"
+        },
+        {
+          "authorId": "2261278350",
+          "name": "Harshita Sharma"
+        },
+        {
+          "authorId": "2275352224",
+          "name": "Valentina Salvatelli"
+        },
+        {
+          "authorId": "2223845249",
+          "name": "M. Wetscherek"
+        },
+        {
+          "authorId": "2268457752",
+          "name": "Hannah Richardson"
+        },
+        {
+          "authorId": "2188270295",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2275353034",
+          "name": "Maximilian Ilse"
+        }
+      ]
+    },
+    {
+      "paperId": "44caf26949b4799e21f7b0754fe61315e8b71542",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/44caf26949b4799e21f7b0754fe61315e8b71542",
+      "title": "Compositional Zero-Shot Domain Transfer with Text-to-Text Models",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144097210",
+          "name": "Fangyu Liu"
+        },
+        {
+          "authorId": "50383712",
+          "name": "Qianchu Liu"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "1398728014",
+          "name": "Fernando P\u00e9rez-Garc\u00eda"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "72655349",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "34918424",
+          "name": "Stephanie L. Hyland"
+        }
+      ]
+    },
+    {
+      "paperId": "60a87d195a68317a1fcfc56705b7952a3daccf4b",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/60a87d195a68317a1fcfc56705b7952a3daccf4b",
+      "title": "No Fair Lunch: A Causal Perspective on Dataset Bias in Machine Learning for Medical Imaging",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152376592",
+          "name": "Charles Jones"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "47841458",
+          "name": "Fabio De Sousa Ribeiro"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2161548803",
+          "name": "Melissa McCradden"
+        },
+        {
+          "authorId": "1381873274",
+          "name": "B. Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "644a0aa82f58b7f387fb1b731f0932c84c2f200f",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/644a0aa82f58b7f387fb1b731f0932c84c2f200f",
+      "title": "Exploring the Boundaries of GPT-4 in Radiology",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 36,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2261457384",
+          "name": "Qianchu Liu"
+        },
+        {
+          "authorId": "34918424",
+          "name": "Stephanie L. Hyland"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "2199938946",
+          "name": "Kenza Bouzid"
+        },
+        {
+          "authorId": "2261277520",
+          "name": "Daniel C. Castro"
+        },
+        {
+          "authorId": "2223845249",
+          "name": "M. Wetscherek"
+        },
+        {
+          "authorId": "1846722967",
+          "name": "Robert Tinn"
+        },
+        {
+          "authorId": "2261278350",
+          "name": "Harshita Sharma"
+        },
+        {
+          "authorId": "1398728014",
+          "name": "Fernando P\u00e9rez-Garc\u00eda"
+        },
+        {
+          "authorId": "2261277527",
+          "name": "Anton Schwaighofer"
+        },
+        {
+          "authorId": "2706258",
+          "name": "Pranav Rajpurkar"
+        },
+        {
+          "authorId": "2261278211",
+          "name": "Sameer Tajdin Khanna"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "2261277533",
+          "name": "Anja Thieme"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "2188270295",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        }
+      ]
+    },
+    {
+      "paperId": "84729ec815f0607a4a2370c0969e8c3ba82a9411",
+      "publicationVenue": {
+        "id": "768b87bb-8a18-4d9c-a161-4d483c776bcf",
+        "name": "Computer Vision and Pattern Recognition",
+        "type": "conference",
+        "alternate_names": [
+          "CVPR",
+          "Comput Vis Pattern Recognit"
+        ],
+        "issn": "1063-6919",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147",
+        "alternate_urls": [
+          "https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/84729ec815f0607a4a2370c0969e8c3ba82a9411",
+      "title": "Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2023,
+      "citationCount": 102,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "34918424",
+          "name": "Stephanie L. Hyland"
+        },
+        {
+          "authorId": "50383712",
+          "name": "Qianchu Liu"
+        },
+        {
+          "authorId": "1398728014",
+          "name": "Fernando P\u00e9rez-Garc\u00eda"
+        },
+        {
+          "authorId": "35186565",
+          "name": "Maximilian Ilse"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2854169",
+          "name": "Benedikt Boecking"
+        },
+        {
+          "authorId": "49068196",
+          "name": "H. Sharma"
+        },
+        {
+          "authorId": "2199938946",
+          "name": "Kenza Bouzid"
+        },
+        {
+          "authorId": "1944467",
+          "name": "Anja Thieme"
+        },
+        {
+          "authorId": "2071649",
+          "name": "A. Schwaighofer"
+        },
+        {
+          "authorId": "2223845249",
+          "name": "M. Wetscherek"
+        },
+        {
+          "authorId": "4204731",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "889b44748b27ed8f91dca2926084382bf84068ab",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/889b44748b27ed8f91dca2926084382bf84068ab",
+      "title": "MAIRA-1: A specialised large multimodal model for radiology report generation",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 39,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "34918424",
+          "name": "Stephanie L. Hyland"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "2199938946",
+          "name": "Kenza Bouzid"
+        },
+        {
+          "authorId": "2261277520",
+          "name": "Daniel C. Castro"
+        },
+        {
+          "authorId": "1381199788",
+          "name": "M. Ranjit"
+        },
+        {
+          "authorId": "2261277527",
+          "name": "Anton Schwaighofer"
+        },
+        {
+          "authorId": "1398728014",
+          "name": "Fernando P\u00e9rez-Garc\u00eda"
+        },
+        {
+          "authorId": "4594575",
+          "name": "V. Salvatelli"
+        },
+        {
+          "authorId": "2187453822",
+          "name": "Shaury Srivastav"
+        },
+        {
+          "authorId": "2261277533",
+          "name": "Anja Thieme"
+        },
+        {
+          "authorId": "2268318452",
+          "name": "Noel Codella"
+        },
+        {
+          "authorId": "2188270295",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2223845249",
+          "name": "M. Wetscherek"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        }
+      ]
+    },
+    {
+      "paperId": "b95a75ef4c04e8279f5ceea79de3e63a6263636f",
+      "publicationVenue": {
+        "id": "d5e5b5e7-54b1-4f53-82fc-4853f3e71c58",
+        "name": "medRxiv",
+        "type": "journal",
+        "url": "https://www.medrxiv.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b95a75ef4c04e8279f5ceea79de3e63a6263636f",
+      "title": "Enabling large-scale screening of Barrett\u2019s esophagus using weakly supervised deep learning in histopathology",
+      "venue": "medRxiv",
+      "year": 2023,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "77436233",
+          "name": "K. Bouzid"
+        },
+        {
+          "authorId": "37050393",
+          "name": "H. Sharma"
+        },
+        {
+          "authorId": "2879552",
+          "name": "S. Killcoyne"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2071649",
+          "name": "A. Schwaighofer"
+        },
+        {
+          "authorId": "91070664",
+          "name": "M. Ilse"
+        },
+        {
+          "authorId": "4594575",
+          "name": "V. Salvatelli"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2056960880",
+          "name": "S. Murthy"
+        },
+        {
+          "authorId": "74922337",
+          "name": "L. Bordeaux"
+        },
+        {
+          "authorId": "152158056",
+          "name": "L. Moore"
+        },
+        {
+          "authorId": "1381566150",
+          "name": "M. O'Donovan"
+        },
+        {
+          "authorId": "12802680",
+          "name": "A. Thieme"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "143792977",
+          "name": "M. Gehrung"
+        },
+        {
+          "authorId": "2284985729",
+          "name": "J. Alvarez-Valle"
+        }
+      ]
+    },
+    {
+      "paperId": "db5c80062a5564ad05a53cabe6013466cdab7d5a",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/db5c80062a5564ad05a53cabe6013466cdab7d5a",
+      "title": "Region-based Contrastive Pretraining for Medical Image Retrieval with Anatomic Query",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2110756308",
+          "name": "Ho Hin Lee"
+        },
+        {
+          "authorId": "1403146729",
+          "name": "A. Santamar\u00eda-Pang"
+        },
+        {
+          "authorId": "2288894",
+          "name": "J. Merkow"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "1398728014",
+          "name": "Fernando P\u00e9rez-Garc\u00eda"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "145368876",
+          "name": "I. Tarapov"
+        }
+      ]
+    },
+    {
+      "paperId": "4589f3008a6f3c6a71031bd443d695da458393a0",
+      "publicationVenue": {
+        "id": "d21f9da1-571f-4956-9c2d-1e59f08a6863",
+        "name": "Clinics in oncology",
+        "type": "journal",
+        "alternate_names": [
+          "Clin Oncol",
+          "Clinics of oncology",
+          "Clin oncol",
+          "Clinical Oncology",
+          "Clinical oncology"
+        ],
+        "issn": "0261-9873",
+        "alternate_issns": [
+          "0305-7399",
+          "2640-1037",
+          "2410-2792",
+          "0936-6555"
+        ],
+        "url": "http://www.sciencedirect.com/science/journal/09366555",
+        "alternate_urls": [
+          "https://clinicsofoncology.com/index.php",
+          "https://www.clinicaloncology.com.ua/archive"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4589f3008a6f3c6a71031bd443d695da458393a0",
+      "title": "Machine Learning for Auto-segmentation in Radiotherapy Planning.",
+      "venue": "Clinics in oncology",
+      "year": 2022,
+      "citationCount": 63,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "37074481",
+          "name": "K. Harrison"
+        },
+        {
+          "authorId": "101616220",
+          "name": "H. Pullen"
+        },
+        {
+          "authorId": "117977641",
+          "name": "C. Welsh"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2284985729",
+          "name": "J. Alvarez-Valle"
+        },
+        {
+          "authorId": "1804582",
+          "name": "R. Jena"
+        }
+      ]
+    },
+    {
+      "paperId": "a1aeb5442e31276b197696f49b3243112a4049ce",
+      "publicationVenue": {
+        "id": "167fa0ca-e88a-4ef7-a16f-bc66c457c806",
+        "name": "European Conference on Computer Vision",
+        "type": "conference",
+        "alternate_names": [
+          "ECCV",
+          "Eur Conf Comput Vis"
+        ],
+        "url": "https://link.springer.com/conference/eccv"
+      },
+      "url": "https://www.semanticscholar.org/paper/a1aeb5442e31276b197696f49b3243112a4049ce",
+      "title": "Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing",
+      "venue": "European Conference on Computer Vision",
+      "year": 2022,
+      "citationCount": 218,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2854169",
+          "name": "Benedikt Boecking"
+        },
+        {
+          "authorId": "2637252",
+          "name": "N. Usuyama"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2071649",
+          "name": "A. Schwaighofer"
+        },
+        {
+          "authorId": "34918424",
+          "name": "Stephanie L. Hyland"
+        },
+        {
+          "authorId": "2223845249",
+          "name": "M. Wetscherek"
+        },
+        {
+          "authorId": "40466858",
+          "name": "Tristan Naumann"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "3df531adb5485772ba1dd7e0a5528fb830a8ece7",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3df531adb5485772ba1dd7e0a5528fb830a8ece7",
+      "title": "Hierarchical Analysis of Visual COVID-19 Features from Chest Radiographs",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2599665",
+          "name": "M. Bernhardt"
+        },
+        {
+          "authorId": "2071649",
+          "name": "A. Schwaighofer"
+        },
+        {
+          "authorId": "1804582",
+          "name": "R. Jena"
+        },
+        {
+          "authorId": "2571049",
+          "name": "Besmira Nushi"
+        },
+        {
+          "authorId": "6276706",
+          "name": "S. Wadhwani"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "32477917",
+          "name": "K. Natarajan"
+        },
+        {
+          "authorId": "2119280691",
+          "name": "S. Ashraf"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        }
+      ]
+    },
+    {
+      "paperId": "71013b519b006ded65e9b67c2adc777348014554",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/71013b519b006ded65e9b67c2adc777348014554",
+      "title": "Active label cleaning: Improving dataset quality under resource constraints",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2068727983",
+          "name": "M\u00e9lanie Bernhardt"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "3480712",
+          "name": "Ryutaro Tanno"
+        },
+        {
+          "authorId": "2071649",
+          "name": "A. Schwaighofer"
+        },
+        {
+          "authorId": "4567913",
+          "name": "K. Tezcan"
+        },
+        {
+          "authorId": "2137891189",
+          "name": "Miguel Monteiro"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "4204731",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "768647acf0df36b10fe64322165e73bcb19939b6",
+      "publicationVenue": {
+        "id": "43b3f0f9-489a-4566-8164-02fafde3cd98",
+        "name": "Nature Communications",
+        "type": "journal",
+        "alternate_names": [
+          "Nat Commun"
+        ],
+        "issn": "2041-1723",
+        "url": "https://www.nature.com/ncomms/",
+        "alternate_urls": [
+          "http://www.nature.com/ncomms/about/index.html",
+          "http://www.nature.com/ncomms/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/768647acf0df36b10fe64322165e73bcb19939b6",
+      "title": "Active label cleaning for improved dataset quality under resource constraints",
+      "venue": "Nature Communications",
+      "year": 2021,
+      "citationCount": 72,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2068727983",
+          "name": "M\u00e9lanie Bernhardt"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "3480712",
+          "name": "Ryutaro Tanno"
+        },
+        {
+          "authorId": "2071649",
+          "name": "A. Schwaighofer"
+        },
+        {
+          "authorId": "4567913",
+          "name": "K. Tezcan"
+        },
+        {
+          "authorId": "1483573919",
+          "name": "M. Monteiro"
+        },
+        {
+          "authorId": "82303325",
+          "name": "Shruthi Bannur"
+        },
+        {
+          "authorId": "4204731",
+          "name": "M. Lungren"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "9635d94f87bda895d853c7041ad3277175d6f965",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9635d94f87bda895d853c7041ad3277175d6f965",
+      "title": "Addressing the Exorbitant Cost of Labeling Medical Images with Active Learning W",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 14,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2045687939",
+          "name": "Saba Rahimi"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2029689505",
+          "name": "Javier Alvarez-Valle"
+        },
+        {
+          "authorId": "31001026",
+          "name": "Sujeeth Bharadwaj"
+        }
+      ]
+    },
+    {
+      "paperId": "316cb285b29f52964e37e8d9d42583c99e83a626",
+      "publicationVenue": {
+        "id": "f99f77b7-b1b6-44d3-984a-f288e9884b9b",
+        "name": "Scientific Reports",
+        "type": "journal",
+        "alternate_names": [
+          "Sci Rep"
+        ],
+        "issn": "2045-2322",
+        "url": "http://www.nature.com/srep/",
+        "alternate_urls": [
+          "http://www.nature.com/srep/index.html"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/316cb285b29f52964e37e8d9d42583c99e83a626",
+      "title": "Large-scale Quality Control of Cardiac Imaging in Population Studies: Application to UK Biobank",
+      "venue": "Scientific Reports",
+      "year": 2020,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "32389902",
+          "name": "G. Tarroni"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "145547154",
+          "name": "A. Schuh"
+        },
+        {
+          "authorId": "143971817",
+          "name": "Hideaki Suzuki"
+        },
+        {
+          "authorId": "1381873274",
+          "name": "B. Glocker"
+        },
+        {
+          "authorId": "1851342",
+          "name": "P. Matthews"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "1d13133e3c8639f24e9a3d22de3d5fca40cca99c",
+      "publicationVenue": {
+        "id": "326c4d7d-b76b-42d6-8fdb-2ac4eca3d288",
+        "name": "Journal of Cardiovascular Magnetic Resonance",
+        "type": "journal",
+        "alternate_names": [
+          "J Cardiovasc Magn Reson"
+        ],
+        "issn": "1097-6647",
+        "url": "https://jcmr-online.biomedcentral.com/",
+        "alternate_urls": [
+          "http://www.dekker.com/servlet/product/productid/JCMR",
+          "http://www.jcmr-online.com/",
+          "http://www.informaworld.com/1532-429X",
+          "http://www.tandfonline.com/loi/icma20"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/1d13133e3c8639f24e9a3d22de3d5fca40cca99c",
+      "title": "Automated quality control in image segmentation: application to the UK Biobank cardiovascular magnetic resonance imaging study",
+      "venue": "Journal of Cardiovascular Magnetic Resonance",
+      "year": 2019,
+      "citationCount": 92,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2067854834",
+          "name": "Robert Robinson"
+        },
+        {
+          "authorId": "2418404",
+          "name": "V. Valindria"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "143971817",
+          "name": "Hideaki Suzuki"
+        },
+        {
+          "authorId": "3471020",
+          "name": "M. Sanghvi"
+        },
+        {
+          "authorId": "144298593",
+          "name": "N. Aung"
+        },
+        {
+          "authorId": "9616181",
+          "name": "J. Paiva"
+        },
+        {
+          "authorId": "5671579",
+          "name": "F. Zemrak"
+        },
+        {
+          "authorId": "32174390",
+          "name": "K. Fung"
+        },
+        {
+          "authorId": "3471175",
+          "name": "E. Lukaschuk"
+        },
+        {
+          "authorId": "2116042974",
+          "name": "A. Lee"
+        },
+        {
+          "authorId": "2649654",
+          "name": "V. Carapella"
+        },
+        {
+          "authorId": "2152651468",
+          "name": "Young Jin Kim"
+        },
+        {
+          "authorId": "143754963",
+          "name": "S. Piechnik"
+        },
+        {
+          "authorId": "2113905253",
+          "name": "S. Neubauer"
+        },
+        {
+          "authorId": "144236487",
+          "name": "Steffen Erhard Petersen"
+        },
+        {
+          "authorId": "36380638",
+          "name": "Chris Page"
+        },
+        {
+          "authorId": "1851342",
+          "name": "P. Matthews"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "2e8d4b921d2253d89fa9fc2c6bb0e53e22f5f874",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2e8d4b921d2253d89fa9fc2c6bb0e53e22f5f874",
+      "title": "Evaluating reinforcement learning agents for anatomical landmark detection",
+      "venue": "Medical Image Anal.",
+      "year": 2019,
+      "citationCount": 154,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3157735",
+          "name": "A. Alansary"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2342770364",
+          "name": "Yuanwei Li"
+        },
+        {
+          "authorId": "2411551",
+          "name": "L. L. Folgoc"
+        },
+        {
+          "authorId": "9543707",
+          "name": "Benjamin Hou"
+        },
+        {
+          "authorId": "47585058",
+          "name": "G. Vaillant"
+        },
+        {
+          "authorId": "3371321",
+          "name": "K. Kamnitsas"
+        },
+        {
+          "authorId": "3468426",
+          "name": "Athanasios Vlontzos"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "6e05faa074ea963087d575ae31ced94b0ce359ad",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/6e05faa074ea963087d575ae31ced94b0ce359ad",
+      "title": "Explainable Shape Analysis through Deep Hierarchical Generative Models: Application to Cardiac Remodeling",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "30646129",
+          "name": "C. Biffi"
+        },
+        {
+          "authorId": "2595143",
+          "name": "Juan J. Cerrolaza"
+        },
+        {
+          "authorId": "32389902",
+          "name": "G. Tarroni"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2411551",
+          "name": "L. L. Folgoc"
+        },
+        {
+          "authorId": "3371321",
+          "name": "K. Kamnitsas"
+        },
+        {
+          "authorId": "7706346",
+          "name": "A. Marvao"
+        },
+        {
+          "authorId": "13638919",
+          "name": "Georgia Doumou"
+        },
+        {
+          "authorId": "145111198",
+          "name": "J. Duan"
+        },
+        {
+          "authorId": "2335630520",
+          "name": "S. Prasad"
+        },
+        {
+          "authorId": "145502615",
+          "name": "S. Cook"
+        },
+        {
+          "authorId": "145515557",
+          "name": "D. O\u2019Regan"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "7244d1b863f0d00f15d9668914437271cf218d14",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7244d1b863f0d00f15d9668914437271cf218d14",
+      "title": "Image-and-Spatial Transformer Networks for Structure-Guided Image Registration",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2019,
+      "citationCount": 74,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2115792384",
+          "name": "Matthew C. H. Lee"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "145547154",
+          "name": "A. Schuh"
+        },
+        {
+          "authorId": "144932484",
+          "name": "M. Schaap"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "850d3adbbcb425edcc13d18dc6f6ee3a403e630d",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/850d3adbbcb425edcc13d18dc6f6ee3a403e630d",
+      "title": "OBELISK\u2010Net: Fewer layers to solve 3D multi\u2010organ segmentation with sparse deformable convolutions",
+      "venue": "Medical Image Anal.",
+      "year": 2019,
+      "citationCount": 74,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1825371",
+          "name": "M. Heinrich"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2491080",
+          "name": "Nassim Bouteldja"
+        }
+      ]
+    },
+    {
+      "paperId": "a0682ab841adbcba199d312bac9e11b1d4f3fb30",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/a0682ab841adbcba199d312bac9e11b1d4f3fb30",
+      "title": "Automated Quality Control in Image Segmentation: Application to the UK Biobank Cardiac MR Imaging Study",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2067854834",
+          "name": "Robert Robinson"
+        },
+        {
+          "authorId": "2418404",
+          "name": "V. Valindria"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "143971817",
+          "name": "Hideaki Suzuki"
+        },
+        {
+          "authorId": "3471020",
+          "name": "M. Sanghvi"
+        },
+        {
+          "authorId": "144298593",
+          "name": "N. Aung"
+        },
+        {
+          "authorId": "9616181",
+          "name": "J. Paiva"
+        },
+        {
+          "authorId": "5671579",
+          "name": "F. Zemrak"
+        },
+        {
+          "authorId": "32174390",
+          "name": "K. Fung"
+        },
+        {
+          "authorId": "3471175",
+          "name": "E. Lukaschuk"
+        },
+        {
+          "authorId": "2116042974",
+          "name": "A. Lee"
+        },
+        {
+          "authorId": "2649654",
+          "name": "V. Carapella"
+        },
+        {
+          "authorId": "2152651468",
+          "name": "Young Jin Kim"
+        },
+        {
+          "authorId": "143754963",
+          "name": "S. Piechnik"
+        },
+        {
+          "authorId": "2113905253",
+          "name": "S. Neubauer"
+        },
+        {
+          "authorId": "144236487",
+          "name": "Steffen Erhard Petersen"
+        },
+        {
+          "authorId": "36380638",
+          "name": "Chris Page"
+        },
+        {
+          "authorId": "1851342",
+          "name": "P. Matthews"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "ca2f6c973a299afeba1302c318746553c97211d4",
+      "publicationVenue": {
+        "id": "e0cda45d-3074-4ac0-80b8-e5250df00b89",
+        "name": "IEEE Transactions on Medical Imaging",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Med Imaging"
+        ],
+        "issn": "0278-0062",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=42",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ca2f6c973a299afeba1302c318746553c97211d4",
+      "title": "Weakly Supervised Estimation of Shadow Confidence Maps in Fetal Ultrasound Imaging",
+      "venue": "IEEE Transactions on Medical Imaging",
+      "year": 2019,
+      "citationCount": 44,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "50603150",
+          "name": "Qingjie Meng"
+        },
+        {
+          "authorId": "50089657",
+          "name": "J. Housden"
+        },
+        {
+          "authorId": "33938383",
+          "name": "J. Matthew"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        },
+        {
+          "authorId": "1831203",
+          "name": "J. Schnabel"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "143871575",
+          "name": "Matthew Sinclair"
+        },
+        {
+          "authorId": "2205167",
+          "name": "V. Zimmer"
+        },
+        {
+          "authorId": "9543707",
+          "name": "Benjamin Hou"
+        },
+        {
+          "authorId": "2526670",
+          "name": "Martin Rajchl"
+        },
+        {
+          "authorId": "36877035",
+          "name": "N. Toussaint"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "9952952",
+          "name": "Jo Schlemper"
+        },
+        {
+          "authorId": "145183907",
+          "name": "Alberto G\u00f3mez"
+        }
+      ]
+    },
+    {
+      "paperId": "dc335d23bf2eb2a7622d1d236ff8884f07139212",
+      "publicationVenue": {
+        "id": "e0cda45d-3074-4ac0-80b8-e5250df00b89",
+        "name": "IEEE Transactions on Medical Imaging",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Med Imaging"
+        ],
+        "issn": "0278-0062",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=42",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/dc335d23bf2eb2a7622d1d236ff8884f07139212",
+      "title": "Explainable Anatomical Shape Analysis Through Deep Hierarchical Generative Models",
+      "venue": "IEEE Transactions on Medical Imaging",
+      "year": 2019,
+      "citationCount": 46,
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "30646129",
+          "name": "C. Biffi"
+        },
+        {
+          "authorId": "2595143",
+          "name": "Juan J. Cerrolaza"
+        },
+        {
+          "authorId": "32389902",
+          "name": "G. Tarroni"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "2922425",
+          "name": "A. de Marvao"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "1779917",
+          "name": "C. Ledig"
+        },
+        {
+          "authorId": "1486502949",
+          "name": "Loic Le Folgoc"
+        },
+        {
+          "authorId": "3371321",
+          "name": "K. Kamnitsas"
+        },
+        {
+          "authorId": "13638919",
+          "name": "Georgia Doumou"
+        },
+        {
+          "authorId": "145111198",
+          "name": "J. Duan"
+        },
+        {
+          "authorId": "2335630520",
+          "name": "S. Prasad"
+        },
+        {
+          "authorId": "145502615",
+          "name": "S. Cook"
+        },
+        {
+          "authorId": "145515557",
+          "name": "D. O\u2019Regan"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "0e4b2569b4ab8281b14f9a80d1570883d05ba059",
+      "publicationVenue": {
+        "id": "3e3fb1ae-7d3b-430c-9f51-5d7b4f6906e0",
+        "name": "European Heart Journal",
+        "type": "journal",
+        "alternate_names": [
+          "Eur Heart J",
+          "Eur heart j",
+          "European heart journal"
+        ],
+        "issn": "0195-668X",
+        "alternate_issns": [
+          "1695-9841"
+        ],
+        "url": "http://www.arsxxi.com/",
+        "alternate_urls": [
+          "http://eurheartj.oxfordjournals.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0e4b2569b4ab8281b14f9a80d1570883d05ba059",
+      "title": "P5470Septal hypertrophy in aortic stenosis and its regression after valve replacement is more plastic in males than females: insights from 3D machine learning approach",
+      "venue": "European Heart Journal",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "6210054",
+          "name": "A. Bhuva"
+        },
+        {
+          "authorId": "3800825",
+          "name": "T. Treibel"
+        },
+        {
+          "authorId": "7706346",
+          "name": "A. Marvao"
+        },
+        {
+          "authorId": "30646129",
+          "name": "C. Biffi"
+        },
+        {
+          "authorId": "2883039",
+          "name": "T. Dawes"
+        },
+        {
+          "authorId": "13638919",
+          "name": "Georgia Doumou"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "3276691",
+          "name": "Siana Jones"
+        },
+        {
+          "authorId": "2006000957",
+          "name": "R. Davies"
+        },
+        {
+          "authorId": "144658566",
+          "name": "N. Chaturvedi"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        },
+        {
+          "authorId": "2254232185",
+          "name": "A. Hughes"
+        },
+        {
+          "authorId": "2795929",
+          "name": "J. Moon"
+        },
+        {
+          "authorId": "4095061",
+          "name": "C. Manisty"
+        }
+      ]
+    },
+    {
+      "paperId": "2023355a4592ca98ec9958ea44c30112224563c4",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2023355a4592ca98ec9958ea44c30112224563c4",
+      "title": "Cardiac MR Segmentation from Undersampled k-space Using Deep Latent Representation Learning",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2018,
+      "citationCount": 43,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "9952952",
+          "name": "Jo Schlemper"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "145111198",
+          "name": "J. Duan"
+        },
+        {
+          "authorId": "143771778",
+          "name": "C. Qin"
+        },
+        {
+          "authorId": "1717846",
+          "name": "J. Hajnal"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "2a2bdf5cf0d73bc333423a8fd246593f4bf65322",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2a2bdf5cf0d73bc333423a8fd246593f4bf65322",
+      "title": "Attention Gated Networks: Learning to Leverage Salient Regions in Medical Images",
+      "venue": "Medical Image Anal.",
+      "year": 2018,
+      "citationCount": 1410,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "9952952",
+          "name": "Jo Schlemper"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "144932484",
+          "name": "M. Schaap"
+        },
+        {
+          "authorId": "1825371",
+          "name": "M. Heinrich"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "2f55cc2602a70d178ae8499c19d5bee80fa40133",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2f55cc2602a70d178ae8499c19d5bee80fa40133",
+      "title": "Attention-Gated Networks for Improving Ultrasound Scan Plane Detection",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2018,
+      "citationCount": 90,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "9952952",
+          "name": "Jo Schlemper"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "46308087",
+          "name": "Liang Chen"
+        },
+        {
+          "authorId": "33938383",
+          "name": "J. Matthew"
+        },
+        {
+          "authorId": "50693459",
+          "name": "C. Knight"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "363f3a4e578806f1b8fd87d9b46bdb55934d1e4b",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/363f3a4e578806f1b8fd87d9b46bdb55934d1e4b",
+      "title": "Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2018,
+      "citationCount": 51,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3157735",
+          "name": "A. Alansary"
+        },
+        {
+          "authorId": "2411551",
+          "name": "L. L. Folgoc"
+        },
+        {
+          "authorId": "47585058",
+          "name": "G. Vaillant"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2342770364",
+          "name": "Yuanwei Li"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "1389979241",
+          "name": "Jonathan Passerat-Palmbach"
+        },
+        {
+          "authorId": "144753120",
+          "name": "Ricardo Guerrero"
+        },
+        {
+          "authorId": "3371321",
+          "name": "K. Kamnitsas"
+        },
+        {
+          "authorId": "9543707",
+          "name": "Benjamin Hou"
+        },
+        {
+          "authorId": "40513205",
+          "name": "Steven G. McDonagh"
+        },
+        {
+          "authorId": "1381873274",
+          "name": "B. Glocker"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "3e106d759061cfaf07f0c41cc4e5cbcbf37aedfc",
+      "publicationVenue": {
+        "id": "eb4f826e-70fb-420c-980d-d63532cff232",
+        "name": "International Journal of Computer Assisted Radiology and Surgery",
+        "type": "journal",
+        "alternate_names": [
+          "Int J Comput Assist Radiol Surg"
+        ],
+        "issn": "1861-6410",
+        "url": "https://www.springer.com/medicine/radiology/journal/11548",
+        "alternate_urls": [
+          "https://link.springer.com/journal/11548",
+          "http://www.springer.com/medicine/radiology/journal/11548"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3e106d759061cfaf07f0c41cc4e5cbcbf37aedfc",
+      "title": "TernaryNet: faster deep model inference without GPUs for medical 3D segmentation using sparse and binary convolutions",
+      "venue": "International Journal of Computer Assisted Radiology and Surgery",
+      "year": 2018,
+      "citationCount": 39,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1825371",
+          "name": "M. Heinrich"
+        },
+        {
+          "authorId": "2641358",
+          "name": "Maximilian Blendowski"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "59bc21fb621829d4bd21f8576075ff7d5447667e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/59bc21fb621829d4bd21f8576075ff7d5447667e",
+      "title": "On the Adaptability of Unsupervised CNN-Based Deformable Image Registration to Unseen Image Domains",
+      "venue": "MLMI@MICCAI",
+      "year": 2018,
+      "citationCount": 41,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "35335260",
+          "name": "Enzo Ferrante"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "7417872",
+          "name": "Diego H. Milone"
+        }
+      ]
+    },
+    {
+      "paperId": "7e370752d320a56e68135bc684d59401c020a5a5",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7e370752d320a56e68135bc684d59401c020a5a5",
+      "title": "AutoDVT: Joint Real-Time Classification for Vein Compressibility Analysis in Deep Vein Thrombosis Ultrasound Diagnostics",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2018,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3480712",
+          "name": "Ryutaro Tanno"
+        },
+        {
+          "authorId": "1852862",
+          "name": "A. Makropoulos"
+        },
+        {
+          "authorId": "39434970",
+          "name": "Salim Arslan"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "7218140",
+          "name": "Sven Mischkewitz"
+        },
+        {
+          "authorId": "1410752624",
+          "name": "Fouad Al-Noor"
+        },
+        {
+          "authorId": "1503629661",
+          "name": "J. Oppenheimer"
+        },
+        {
+          "authorId": "14861556",
+          "name": "R. Mandegaran"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "1825371",
+          "name": "M. Heinrich"
+        }
+      ]
+    },
+    {
+      "paperId": "9c63252679b86f48ba1a398d0f046bb7442cd2f7",
+      "publicationVenue": {
+        "id": "27e2d477-840c-47c4-af0c-e7de9ee2e8a5",
+        "name": "Bildverarbeitung f\u00fcr die Medizin",
+        "type": "conference",
+        "alternate_names": [
+          "Bildverarb die Med"
+        ],
+        "url": "http://www.bvm-workshop.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9c63252679b86f48ba1a398d0f046bb7442cd2f7",
+      "title": "Abstract: Exploring Sparsity in CNNs for Medical Image Segmentation BRIEFnet",
+      "venue": "Bildverarbeitung f\u00fcr die Medizin",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1825371",
+          "name": "M. Heinrich"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "a7a98916ebc752df875a389c454f775583875ce9",
+      "publicationVenue": {
+        "id": "e0cda45d-3074-4ac0-80b8-e5250df00b89",
+        "name": "IEEE Transactions on Medical Imaging",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Med Imaging"
+        ],
+        "issn": "0278-0062",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=42",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a7a98916ebc752df875a389c454f775583875ce9",
+      "title": "Learning-Based Quality Control for Cardiac MR Images",
+      "venue": "IEEE Transactions on Medical Imaging",
+      "year": 2018,
+      "citationCount": 54,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "32389902",
+          "name": "G. Tarroni"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "145547154",
+          "name": "A. Schuh"
+        },
+        {
+          "authorId": "143971817",
+          "name": "Hideaki Suzuki"
+        },
+        {
+          "authorId": "1389979241",
+          "name": "Jonathan Passerat-Palmbach"
+        },
+        {
+          "authorId": "2922425",
+          "name": "A. de Marvao"
+        },
+        {
+          "authorId": "145515557",
+          "name": "D. O\u2019Regan"
+        },
+        {
+          "authorId": "145502615",
+          "name": "S. Cook"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "1851342",
+          "name": "P. Matthews"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "ae1c89817a3a239e5344293138bdd80293983460",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/ae1c89817a3a239e5344293138bdd80293983460",
+      "title": "Attention U-Net: Learning Where to Look for the Pancreas",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 4662,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "9952952",
+          "name": "Jo Schlemper"
+        },
+        {
+          "authorId": "2411551",
+          "name": "L. L. Folgoc"
+        },
+        {
+          "authorId": "47804190",
+          "name": "M. J. Lee"
+        },
+        {
+          "authorId": "1825371",
+          "name": "M. Heinrich"
+        },
+        {
+          "authorId": "38989230",
+          "name": "K. Misawa"
+        },
+        {
+          "authorId": "144070506",
+          "name": "K. Mori"
+        },
+        {
+          "authorId": "40513205",
+          "name": "Steven G. McDonagh"
+        },
+        {
+          "authorId": "3128867",
+          "name": "Nils Y. Hammerla"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "b9086301639dcb7a7a0419293919e73221357e58",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b9086301639dcb7a7a0419293919e73221357e58",
+      "title": "Subject-level Prediction of Segmentation Failure using Real-Time Convolutional Neural Nets",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2067854834",
+          "name": "Robert Robinson"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "2418404",
+          "name": "V. Valindria"
+        },
+        {
+          "authorId": "3471020",
+          "name": "M. Sanghvi"
+        },
+        {
+          "authorId": "144298593",
+          "name": "N. Aung"
+        },
+        {
+          "authorId": "9616181",
+          "name": "J. Paiva"
+        },
+        {
+          "authorId": "5671579",
+          "name": "F. Zemrak"
+        },
+        {
+          "authorId": "32174390",
+          "name": "K. Fung"
+        },
+        {
+          "authorId": "3471175",
+          "name": "E. Lukaschuk"
+        },
+        {
+          "authorId": "2116042974",
+          "name": "A. Lee"
+        },
+        {
+          "authorId": "2649654",
+          "name": "V. Carapella"
+        },
+        {
+          "authorId": "117301539",
+          "name": "Young Jin Kimm"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "143754963",
+          "name": "S. Piechnik"
+        },
+        {
+          "authorId": "2113905253",
+          "name": "S. Neubauer"
+        },
+        {
+          "authorId": "144236487",
+          "name": "Steffen Erhard Petersen"
+        },
+        {
+          "authorId": "36380638",
+          "name": "Chris Page"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "c1ef07b63b66febed5f4d149d9fe528f322d0f04",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c1ef07b63b66febed5f4d149d9fe528f322d0f04",
+      "title": "OBELISK - One Kernel to Solve Nearly Everything: Unified 3D Binary Convolutions for Image Analysis",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1825371",
+          "name": "M. Heinrich"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2491080",
+          "name": "Nassim Bouteldja"
+        }
+      ]
+    },
+    {
+      "paperId": "cba6bacdac97b467f149ab71998f6e91c25a0374",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cba6bacdac97b467f149ab71998f6e91c25a0374",
+      "title": "Adversarial and Perceptual Refinement for Compressed Sensing MRI Reconstruction",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2018,
+      "citationCount": 102,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2348556",
+          "name": "Maximilian Seitzer"
+        },
+        {
+          "authorId": "38872334",
+          "name": "Guang Yang"
+        },
+        {
+          "authorId": "9952952",
+          "name": "Jo Schlemper"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "3478353",
+          "name": "Tobias W\u00fcrfl"
+        },
+        {
+          "authorId": "2663226",
+          "name": "Vincent Christlein"
+        },
+        {
+          "authorId": "143702789",
+          "name": "T. Wong"
+        },
+        {
+          "authorId": "2163903",
+          "name": "R. Mohiaddin"
+        },
+        {
+          "authorId": "144498402",
+          "name": "D. Firmin"
+        },
+        {
+          "authorId": "145800523",
+          "name": "J. Keegan"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        },
+        {
+          "authorId": "145051740",
+          "name": "A. Maier"
+        }
+      ]
+    },
+    {
+      "paperId": "cec80995235d38e0bc2af8bdf614f2998d78d2df",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cec80995235d38e0bc2af8bdf614f2998d78d2df",
+      "title": "Learning Interpretable Anatomical Features Through Deep Generative Models: Application to Cardiac Remodeling",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2018,
+      "citationCount": 66,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "30646129",
+          "name": "C. Biffi"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "32389902",
+          "name": "G. Tarroni"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "7706346",
+          "name": "A. Marvao"
+        },
+        {
+          "authorId": "13638919",
+          "name": "Georgia Doumou"
+        },
+        {
+          "authorId": "2526670",
+          "name": "Martin Rajchl"
+        },
+        {
+          "authorId": "40304641",
+          "name": "R. Bedair"
+        },
+        {
+          "authorId": "2335630520",
+          "name": "S. Prasad"
+        },
+        {
+          "authorId": "145502615",
+          "name": "S. Cook"
+        },
+        {
+          "authorId": "145515557",
+          "name": "D. O\u2019Regan"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "d863167e875a2857c94ef98b9b978fa0aaad2dab",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d863167e875a2857c94ef98b9b978fa0aaad2dab",
+      "title": "Bayesian Deep Learning for Accelerated MR Image Reconstruction",
+      "venue": "MLMIR@MICCAI",
+      "year": 2018,
+      "citationCount": 36,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "9952952",
+          "name": "Jo Schlemper"
+        },
+        {
+          "authorId": "39135119",
+          "name": "Daniel Coelho de Castro"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "143771778",
+          "name": "C. Qin"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "145111198",
+          "name": "J. Duan"
+        },
+        {
+          "authorId": "34622519",
+          "name": "A. Price"
+        },
+        {
+          "authorId": "1717846",
+          "name": "J. Hajnal"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "e480c388232e2bd70a2765a98cb0ba8bd687cbbb",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e480c388232e2bd70a2765a98cb0ba8bd687cbbb",
+      "title": "Recurrent neural networks for aortic image sequence segmentation with sparse annotations",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2018,
+      "citationCount": 111,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "143971817",
+          "name": "Hideaki Suzuki"
+        },
+        {
+          "authorId": "143771778",
+          "name": "C. Qin"
+        },
+        {
+          "authorId": "32389902",
+          "name": "G. Tarroni"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "1851342",
+          "name": "P. Matthews"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "f7967fb86c8241d51674e8a1ec7db79e6c172035",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f7967fb86c8241d51674e8a1ec7db79e6c172035",
+      "title": "Real-time Prediction of Segmentation Quality",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2018,
+      "citationCount": 54,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2067854834",
+          "name": "Robert Robinson"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "2418404",
+          "name": "V. Valindria"
+        },
+        {
+          "authorId": "3471020",
+          "name": "M. Sanghvi"
+        },
+        {
+          "authorId": "144298593",
+          "name": "N. Aung"
+        },
+        {
+          "authorId": "9616181",
+          "name": "J. Paiva"
+        },
+        {
+          "authorId": "5671579",
+          "name": "F. Zemrak"
+        },
+        {
+          "authorId": "32174390",
+          "name": "K. Fung"
+        },
+        {
+          "authorId": "3471175",
+          "name": "E. Lukaschuk"
+        },
+        {
+          "authorId": "2116042974",
+          "name": "A. Lee"
+        },
+        {
+          "authorId": "2649654",
+          "name": "V. Carapella"
+        },
+        {
+          "authorId": "2152651468",
+          "name": "Young Jin Kim"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "143754963",
+          "name": "S. Piechnik"
+        },
+        {
+          "authorId": "2113905253",
+          "name": "S. Neubauer"
+        },
+        {
+          "authorId": "144236487",
+          "name": "Steffen Erhard Petersen"
+        },
+        {
+          "authorId": "36380638",
+          "name": "Chris Page"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "f98cfcdd4117bf999cf0b98e4ffbde17d104a6ab",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f98cfcdd4117bf999cf0b98e4ffbde17d104a6ab",
+      "title": "A Comprehensive Approach for Learning-Based Fully-Automated Inter-slice Motion Correction for Short-Axis Cine Cardiac MR Image Stacks",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2018,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "32389902",
+          "name": "G. Tarroni"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "143871575",
+          "name": "Matthew Sinclair"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "145547154",
+          "name": "A. Schuh"
+        },
+        {
+          "authorId": "143971817",
+          "name": "Hideaki Suzuki"
+        },
+        {
+          "authorId": "7706346",
+          "name": "A. Marvao"
+        },
+        {
+          "authorId": "145515557",
+          "name": "D. O\u2019Regan"
+        },
+        {
+          "authorId": "145502615",
+          "name": "S. Cook"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "0ec395e3e7d04607f277d9a41c9bce43aeb9445b",
+      "publicationVenue": {
+        "id": "682636a4-9051-4efd-a77c-1a6cf6791f84",
+        "name": "Functional Imaging and Modeling of the Heart",
+        "type": "conference",
+        "alternate_names": [
+          "FIMH",
+          "International Conference on Functional Imaging and Modeling of Heart",
+          "Int Conf Funct Imaging Model Heart",
+          "Funct Imaging Model Heart"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0ec395e3e7d04607f277d9a41c9bce43aeb9445b",
+      "title": "Learning-Based Heart Coverage Estimation for Short-Axis Cine Cardiac MR Images",
+      "venue": "Functional Imaging and Modeling of the Heart",
+      "year": 2017,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "32389902",
+          "name": "G. Tarroni"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "145547154",
+          "name": "A. Schuh"
+        },
+        {
+          "authorId": "143971817",
+          "name": "Hideaki Suzuki"
+        },
+        {
+          "authorId": "1389979241",
+          "name": "Jonathan Passerat-Palmbach"
+        },
+        {
+          "authorId": "1381873274",
+          "name": "B. Glocker"
+        },
+        {
+          "authorId": "7706346",
+          "name": "A. Marvao"
+        },
+        {
+          "authorId": "145515557",
+          "name": "D. O\u2019Regan"
+        },
+        {
+          "authorId": "145502615",
+          "name": "S. Cook"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "1c8fd5102798a26270d98501703e38464ba4b805",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1c8fd5102798a26270d98501703e38464ba4b805",
+      "title": "Semi-supervised Learning for Network-Based Cardiac MR Image Segmentation",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2017,
+      "citationCount": 346,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "143871575",
+          "name": "Matthew Sinclair"
+        },
+        {
+          "authorId": "143971817",
+          "name": "Hideaki Suzuki"
+        },
+        {
+          "authorId": "2526670",
+          "name": "Martin Rajchl"
+        },
+        {
+          "authorId": "32389902",
+          "name": "G. Tarroni"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "144424809",
+          "name": "A. King"
+        },
+        {
+          "authorId": "1851342",
+          "name": "P. Matthews"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "1d07b46783b9006ecdc65511c5a07b151519db6d",
+      "publicationVenue": {
+        "id": "e0cda45d-3074-4ac0-80b8-e5250df00b89",
+        "name": "IEEE Transactions on Medical Imaging",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Med Imaging"
+        ],
+        "issn": "0278-0062",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=42",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/1d07b46783b9006ecdc65511c5a07b151519db6d",
+      "title": "Stratified Decision Forests for Accurate Anatomical Landmark Localization in Cardiac Images",
+      "venue": "IEEE Transactions on Medical Imaging",
+      "year": 2017,
+      "citationCount": 68,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "144753120",
+          "name": "Ricardo Guerrero"
+        },
+        {
+          "authorId": "2526670",
+          "name": "Martin Rajchl"
+        },
+        {
+          "authorId": "2922425",
+          "name": "A. de Marvao"
+        },
+        {
+          "authorId": "145515557",
+          "name": "D. O\u2019Regan"
+        },
+        {
+          "authorId": "145502615",
+          "name": "S. Cook"
+        },
+        {
+          "authorId": "1825371",
+          "name": "M. Heinrich"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "211b7e876bf242de37576250cc2c1edc1d9ade93",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/211b7e876bf242de37576250cc2c1edc1d9ade93",
+      "title": "Learning anatomical image representations for cardiac imaging",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "2ea28aba3fe20304e4045fae599b91a26fa40414",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2ea28aba3fe20304e4045fae599b91a26fa40414",
+      "title": "Fully Automated Segmentation-Based Respiratory Motion Correction of Multiplanar Cardiac Magnetic Resonance Images for Large-Scale Datasets",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2017,
+      "citationCount": 21,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143871575",
+          "name": "Matthew Sinclair"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "1398910685",
+          "name": "E. Puyol-Ant\u00f3n"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        },
+        {
+          "authorId": "144424809",
+          "name": "A. King"
+        }
+      ]
+    },
+    {
+      "paperId": "31bc1bd771cfee347f81d7df60a0585a83decc9b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/31bc1bd771cfee347f81d7df60a0585a83decc9b",
+      "title": "Fully Convolutional Networks in Medical Imaging: Applications to Image Enhancement and Recognition",
+      "venue": "Deep Learning and Convolutional Neural Networks for Medical Image Computing",
+      "year": 2017,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "19212631",
+          "name": "Christian F. Baumgartner"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "33f7b95903eeefdde37fabf9655b4de089d53bd2",
+      "publicationVenue": {
+        "id": "e0cda45d-3074-4ac0-80b8-e5250df00b89",
+        "name": "IEEE Transactions on Medical Imaging",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Med Imaging"
+        ],
+        "issn": "0278-0062",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=42",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/33f7b95903eeefdde37fabf9655b4de089d53bd2",
+      "title": "Anatomically Constrained Neural Networks (ACNNs): Application to Cardiac Image Enhancement and Segmentation",
+      "venue": "IEEE Transactions on Medical Imaging",
+      "year": 2017,
+      "citationCount": 641,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "35335260",
+          "name": "Enzo Ferrante"
+        },
+        {
+          "authorId": "3371321",
+          "name": "K. Kamnitsas"
+        },
+        {
+          "authorId": "1825371",
+          "name": "M. Heinrich"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "145372820",
+          "name": "Jose Caballero"
+        },
+        {
+          "authorId": "145502615",
+          "name": "S. Cook"
+        },
+        {
+          "authorId": "2922425",
+          "name": "A. de Marvao"
+        },
+        {
+          "authorId": "2883039",
+          "name": "T. Dawes"
+        },
+        {
+          "authorId": "145515557",
+          "name": "D. O\u2019Regan"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "65ad021018d1695d328dc08c8b7de032f30278c3",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/65ad021018d1695d328dc08c8b7de032f30278c3",
+      "title": "Human-level CMR image analysis with deep fully convolutional networks",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "citationCount": 34,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "143871575",
+          "name": "Matthew Sinclair"
+        },
+        {
+          "authorId": "32389902",
+          "name": "G. Tarroni"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2526670",
+          "name": "Martin Rajchl"
+        },
+        {
+          "authorId": "47585058",
+          "name": "G. Vaillant"
+        },
+        {
+          "authorId": "2116042974",
+          "name": "A. Lee"
+        },
+        {
+          "authorId": "144298593",
+          "name": "N. Aung"
+        },
+        {
+          "authorId": "3471175",
+          "name": "E. Lukaschuk"
+        },
+        {
+          "authorId": "3471020",
+          "name": "M. Sanghvi"
+        },
+        {
+          "authorId": "5671579",
+          "name": "F. Zemrak"
+        },
+        {
+          "authorId": "32174390",
+          "name": "K. Fung"
+        },
+        {
+          "authorId": "9616181",
+          "name": "J. Paiva"
+        },
+        {
+          "authorId": "2649654",
+          "name": "V. Carapella"
+        },
+        {
+          "authorId": "2152651468",
+          "name": "Young Jin Kim"
+        },
+        {
+          "authorId": "143971817",
+          "name": "Hideaki Suzuki"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "1851342",
+          "name": "P. Matthews"
+        },
+        {
+          "authorId": "144236487",
+          "name": "Steffen Erhard Petersen"
+        },
+        {
+          "authorId": "143754963",
+          "name": "S. Piechnik"
+        },
+        {
+          "authorId": "2113905253",
+          "name": "S. Neubauer"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "9948295e164921cf1c24b8b040c417afba248584",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9948295e164921cf1c24b8b040c417afba248584",
+      "title": "Context-Sensitive Super-Resolution for Fast Fetal Magnetic Resonance Imaging",
+      "venue": "CMMI/RAMBO/SWITCH@MICCAI",
+      "year": 2017,
+      "citationCount": 46,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40513205",
+          "name": "Steven G. McDonagh"
+        },
+        {
+          "authorId": "9543707",
+          "name": "Benjamin Hou"
+        },
+        {
+          "authorId": "3157735",
+          "name": "A. Alansary"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "3371321",
+          "name": "K. Kamnitsas"
+        },
+        {
+          "authorId": "145704431",
+          "name": "M. Rutherford"
+        },
+        {
+          "authorId": "1717846",
+          "name": "J. Hajnal"
+        },
+        {
+          "authorId": "46410938",
+          "name": "Bernhard Kainz"
+        }
+      ]
+    },
+    {
+      "paperId": "9a01c676607fa09bc48536753bc08f5096b95c04",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9a01c676607fa09bc48536753bc08f5096b95c04",
+      "title": "Fetal Skull Segmentation in 3D Ultrasound via Structured Geodesic Random Forest",
+      "venue": "FIFI/OMIA@MICCAI",
+      "year": 2017,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2595143",
+          "name": "Juan J. Cerrolaza"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "145183907",
+          "name": "Alberto G\u00f3mez"
+        },
+        {
+          "authorId": "33938383",
+          "name": "J. Matthew"
+        },
+        {
+          "authorId": "50693459",
+          "name": "C. Knight"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "aac368016f2540683ad2f611eb0cd889d350ff72",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/aac368016f2540683ad2f611eb0cd889d350ff72",
+      "title": "BRIEFnet: Deep Pancreas Segmentation Using Binary Sparse Convolutions",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2017,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1825371",
+          "name": "M. Heinrich"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "f7385d20ea330e9181c745fefb156aa9e0789f5b",
+      "publicationVenue": {
+        "id": "326c4d7d-b76b-42d6-8fdb-2ac4eca3d288",
+        "name": "Journal of Cardiovascular Magnetic Resonance",
+        "type": "journal",
+        "alternate_names": [
+          "J Cardiovasc Magn Reson"
+        ],
+        "issn": "1097-6647",
+        "url": "https://jcmr-online.biomedcentral.com/",
+        "alternate_urls": [
+          "http://www.dekker.com/servlet/product/productid/JCMR",
+          "http://www.jcmr-online.com/",
+          "http://www.informaworld.com/1532-429X",
+          "http://www.tandfonline.com/loi/icma20"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f7385d20ea330e9181c745fefb156aa9e0789f5b",
+      "title": "Automated cardiovascular magnetic resonance image analysis with fully convolutional networks",
+      "venue": "Journal of Cardiovascular Magnetic Resonance",
+      "year": 2017,
+      "citationCount": 576,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "143871575",
+          "name": "Matthew Sinclair"
+        },
+        {
+          "authorId": "32389902",
+          "name": "G. Tarroni"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2526670",
+          "name": "Martin Rajchl"
+        },
+        {
+          "authorId": "47585058",
+          "name": "G. Vaillant"
+        },
+        {
+          "authorId": "2116042974",
+          "name": "A. Lee"
+        },
+        {
+          "authorId": "144298593",
+          "name": "N. Aung"
+        },
+        {
+          "authorId": "3471175",
+          "name": "E. Lukaschuk"
+        },
+        {
+          "authorId": "3471020",
+          "name": "M. Sanghvi"
+        },
+        {
+          "authorId": "5671579",
+          "name": "F. Zemrak"
+        },
+        {
+          "authorId": "32174390",
+          "name": "K. Fung"
+        },
+        {
+          "authorId": "9616181",
+          "name": "J. Paiva"
+        },
+        {
+          "authorId": "2649654",
+          "name": "V. Carapella"
+        },
+        {
+          "authorId": "2152651468",
+          "name": "Young Jin Kim"
+        },
+        {
+          "authorId": "143971817",
+          "name": "Hideaki Suzuki"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "1851342",
+          "name": "P. Matthews"
+        },
+        {
+          "authorId": "144236487",
+          "name": "Steffen Erhard Petersen"
+        },
+        {
+          "authorId": "143754963",
+          "name": "S. Piechnik"
+        },
+        {
+          "authorId": "2113905253",
+          "name": "S. Neubauer"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "173aa0958871327780f2025f77b5fa037ac79d4c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/173aa0958871327780f2025f77b5fa037ac79d4c",
+      "title": "Learning under Distributed Weak Supervision",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2526670",
+          "name": "Martin Rajchl"
+        },
+        {
+          "authorId": "47804190",
+          "name": "M. J. Lee"
+        },
+        {
+          "authorId": "3422083",
+          "name": "Franklin Schrans"
+        },
+        {
+          "authorId": "2004698239",
+          "name": "A. Davidson"
+        },
+        {
+          "authorId": "1389979241",
+          "name": "Jonathan Passerat-Palmbach"
+        },
+        {
+          "authorId": "32389902",
+          "name": "G. Tarroni"
+        },
+        {
+          "authorId": "3157735",
+          "name": "A. Alansary"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "3f20da671ce0d6cb6d372ff28cc2257d60e9fc69",
+      "publicationVenue": {
+        "id": "e0cda45d-3074-4ac0-80b8-e5250df00b89",
+        "name": "IEEE Transactions on Medical Imaging",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Med Imaging"
+        ],
+        "issn": "0278-0062",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=42",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3f20da671ce0d6cb6d372ff28cc2257d60e9fc69",
+      "title": "Standardized Evaluation System for Left Ventricular Segmentation Algorithms in 3D Echocardiography",
+      "venue": "IEEE Transactions on Medical Imaging",
+      "year": 2016,
+      "citationCount": 95,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145288087",
+          "name": "O. Bernard"
+        },
+        {
+          "authorId": "144249400",
+          "name": "J. Bosch"
+        },
+        {
+          "authorId": "2848011",
+          "name": "B. Heyde"
+        },
+        {
+          "authorId": "1738432",
+          "name": "M. Alessandrini"
+        },
+        {
+          "authorId": "143893801",
+          "name": "D. Barbosa"
+        },
+        {
+          "authorId": "1398507572",
+          "name": "S. Camarasu-Pop"
+        },
+        {
+          "authorId": "29957379",
+          "name": "F. Cervenansky"
+        },
+        {
+          "authorId": "2426296",
+          "name": "S. Valette"
+        },
+        {
+          "authorId": "3382374",
+          "name": "O. Mirea"
+        },
+        {
+          "authorId": "37311800",
+          "name": "M. Bernier"
+        },
+        {
+          "authorId": "1687510",
+          "name": "Pierre-Marc Jodoin"
+        },
+        {
+          "authorId": "29548079",
+          "name": "Jaime Santo Domingos"
+        },
+        {
+          "authorId": "3292959",
+          "name": "Richard V. Stebbing"
+        },
+        {
+          "authorId": "2192675",
+          "name": "K. Keraudren"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "145372820",
+          "name": "Jose Caballero"
+        },
+        {
+          "authorId": "2154041027",
+          "name": "Wei Shi"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        },
+        {
+          "authorId": "1877512",
+          "name": "F. Milletar\u00ec"
+        },
+        {
+          "authorId": "145774206",
+          "name": "Seyed-Ahmad Ahmadi"
+        },
+        {
+          "authorId": "1789250",
+          "name": "E. Smistad"
+        },
+        {
+          "authorId": "1709580",
+          "name": "F. Lindseth"
+        },
+        {
+          "authorId": "82562275",
+          "name": "M. V. Stralen"
+        },
+        {
+          "authorId": "2118470333",
+          "name": "Chen Wang"
+        },
+        {
+          "authorId": "2534510",
+          "name": "\u00d6. Smedby"
+        },
+        {
+          "authorId": "2132444",
+          "name": "E. Donal"
+        },
+        {
+          "authorId": "3373133",
+          "name": "M. Monaghan"
+        },
+        {
+          "authorId": "2660493",
+          "name": "A. Papachristidis"
+        },
+        {
+          "authorId": "3005728",
+          "name": "M. Geleijnse"
+        },
+        {
+          "authorId": "143817305",
+          "name": "E. Galli"
+        },
+        {
+          "authorId": "10244964",
+          "name": "J. D\u2019hooge"
+        }
+      ]
+    },
+    {
+      "paperId": "64f819f12d8e4da7347a2caf155953f406e76e75",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/64f819f12d8e4da7347a2caf155953f406e76e75",
+      "title": "TABLE I : A short summary of related work , decision forest based classification and regression approaches in the literature Related Method",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "144753120",
+          "name": "Ricardo Guerrero"
+        },
+        {
+          "authorId": "2526670",
+          "name": "Martin Rajchl"
+        },
+        {
+          "authorId": "7706346",
+          "name": "A. Marvao"
+        },
+        {
+          "authorId": "145515557",
+          "name": "D. O\u2019Regan"
+        },
+        {
+          "authorId": "145502615",
+          "name": "S. Cook"
+        },
+        {
+          "authorId": "1825371",
+          "name": "M. Heinrich"
+        },
+        {
+          "authorId": "1709824",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "6e84d83faca994438e5628525123f3466ee9c55d",
+      "publicationVenue": {
+        "id": "e0cda45d-3074-4ac0-80b8-e5250df00b89",
+        "name": "IEEE Transactions on Medical Imaging",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Med Imaging"
+        ],
+        "issn": "0278-0062",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=42",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6e84d83faca994438e5628525123f3466ee9c55d",
+      "title": "DeepCut: Object Segmentation From Bounding Box Annotations Using Convolutional Neural Networks",
+      "venue": "IEEE Transactions on Medical Imaging",
+      "year": 2016,
+      "citationCount": 370,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2526670",
+          "name": "Martin Rajchl"
+        },
+        {
+          "authorId": "47804190",
+          "name": "M. J. Lee"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "3371321",
+          "name": "K. Kamnitsas"
+        },
+        {
+          "authorId": "1389979241",
+          "name": "Jonathan Passerat-Palmbach"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "8076233a658e1f49dc0b27eadce7a107418bc5cc",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8076233a658e1f49dc0b27eadce7a107418bc5cc",
+      "title": "Accurate Intervertebral Disc Localisation and Segmentation in MRI Using Vantage Point Hough Forests and Multi-atlas Fusion",
+      "venue": "CSI@MICCAI",
+      "year": 2016,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1825371",
+          "name": "M. Heinrich"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        }
+      ]
+    },
+    {
+      "paperId": "a51cbb30ee830344ea442cc762ac857493d4e9de",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a51cbb30ee830344ea442cc762ac857493d4e9de",
+      "title": "Multi-input Cardiac Image Super-Resolution Using Convolutional Neural Networks",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2016,
+      "citationCount": 212,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "47804190",
+          "name": "M. J. Lee"
+        },
+        {
+          "authorId": "144753120",
+          "name": "Ricardo Guerrero"
+        },
+        {
+          "authorId": "3371321",
+          "name": "K. Kamnitsas"
+        },
+        {
+          "authorId": "145372820",
+          "name": "Jose Caballero"
+        },
+        {
+          "authorId": "7706346",
+          "name": "A. Marvao"
+        },
+        {
+          "authorId": "145502615",
+          "name": "S. Cook"
+        },
+        {
+          "authorId": "145515557",
+          "name": "D. O\u2019Regan"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "bcc5d5ecc82a9ac839d9b4a3c645ba0f16e01a84",
+      "publicationVenue": {
+        "id": "b52b22c3-d04b-42cb-8465-af8aa781dd3d",
+        "name": "International Conference on Computing in Cardiology",
+        "type": "conference",
+        "alternate_names": [
+          "Computing in Cardiology Conference",
+          "Int Conf Comput Cardiol",
+          "Comput Cardiol Conf",
+          "CinC",
+          "Computers in Cardiology Conference"
+        ],
+        "url": "http://www.cinc.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/bcc5d5ecc82a9ac839d9b4a3c645ba0f16e01a84",
+      "title": "Respiratory motion correction for 2D cine cardiac MR images using probabilistic edge maps",
+      "venue": "International Conference on Computing in Cardiology",
+      "year": 2016,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "32389902",
+          "name": "G. Tarroni"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "7706346",
+          "name": "A. Marvao"
+        },
+        {
+          "authorId": "145515557",
+          "name": "D. O\u2019Regan"
+        },
+        {
+          "authorId": "145502615",
+          "name": "S. Cook"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "eb1ab6be1a62505f8d272b3b76477b24729884d4",
+      "publicationVenue": {
+        "id": "c2ae00e7-6d19-4234-aace-a3bf6fd21bd5",
+        "name": "Frontiers in Pediatrics",
+        "type": "journal",
+        "alternate_names": [
+          "Front Pediatr"
+        ],
+        "issn": "2296-2360",
+        "url": "https://www.frontiersin.org/journals/pediatrics",
+        "alternate_urls": [
+          "http://www.frontiersin.org/Pediatrics/archive",
+          "http://journal.frontiersin.org/journal/pediatrics"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/eb1ab6be1a62505f8d272b3b76477b24729884d4",
+      "title": "Regional Differences in End-Diastolic Volumes between 3D Echo and CMR in HLHS Patients",
+      "venue": "Frontiers in Pediatrics",
+      "year": 2016,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "145183907",
+          "name": "Alberto G\u00f3mez"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        },
+        {
+          "authorId": "1701575",
+          "name": "G. Penney"
+        },
+        {
+          "authorId": "1831203",
+          "name": "J. Schnabel"
+        },
+        {
+          "authorId": "145715181",
+          "name": "J. Simpson"
+        },
+        {
+          "authorId": "2511583",
+          "name": "K. Pushparajah"
+        }
+      ]
+    },
+    {
+      "paperId": "55b5864b3a439b4b87eb3131837413a10cfb9984",
+      "publicationVenue": {
+        "id": "682636a4-9051-4efd-a77c-1a6cf6791f84",
+        "name": "Functional Imaging and Modeling of the Heart",
+        "type": "conference",
+        "alternate_names": [
+          "FIMH",
+          "International Conference on Functional Imaging and Modeling of Heart",
+          "Int Conf Funct Imaging Model Heart",
+          "Funct Imaging Model Heart"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/55b5864b3a439b4b87eb3131837413a10cfb9984",
+      "title": "Learning a Global Descriptor of Cardiac Motion from a Large Cohort of 1000+ Normal Subjects",
+      "venue": "Functional Imaging and Modeling of the Heart",
+      "year": 2015,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "3106573",
+          "name": "D. Peressutti"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2700496",
+          "name": "W. Shi"
+        },
+        {
+          "authorId": "145515557",
+          "name": "D. O\u2019Regan"
+        },
+        {
+          "authorId": "144424809",
+          "name": "A. King"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "8e5af009fecb6313d06fdb5a0f3de1c9f7da5e28",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8e5af009fecb6313d06fdb5a0f3de1c9f7da5e28",
+      "title": "Structured Decision Forests for Multi-modal Ultrasound Image Registration",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2015,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "145547154",
+          "name": "A. Schuh"
+        },
+        {
+          "authorId": "2526670",
+          "name": "Martin Rajchl"
+        },
+        {
+          "authorId": "2192675",
+          "name": "K. Keraudren"
+        },
+        {
+          "authorId": "145183907",
+          "name": "Alberto G\u00f3mez"
+        },
+        {
+          "authorId": "1825371",
+          "name": "M. Heinrich"
+        },
+        {
+          "authorId": "1701575",
+          "name": "G. Penney"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "9311c2ee76d646d96ecd0ff4c575ea972013a1fb",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9311c2ee76d646d96ecd0ff4c575ea972013a1fb",
+      "title": "Classification of Myocardial Infarcted Patients by Combining Shape and Motion Features",
+      "venue": "STACOM@MICCAI",
+      "year": 2015,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "ade0e6fab5edf01c470b8d18fcf7fad84692c8c7",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ade0e6fab5edf01c470b8d18fcf7fad84692c8c7",
+      "title": "Beyond the AHA 17-Segment Model: Motion-Driven Parcellation of the Left Ventricle",
+      "venue": "STACOM@MICCAI",
+      "year": 2015,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Geography",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "3106573",
+          "name": "D. Peressutti"
+        },
+        {
+          "authorId": "3349497",
+          "name": "Sarah Parisot"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2526670",
+          "name": "Martin Rajchl"
+        },
+        {
+          "authorId": "145515557",
+          "name": "D. O\u2019Regan"
+        },
+        {
+          "authorId": "145502615",
+          "name": "S. Cook"
+        },
+        {
+          "authorId": "144424809",
+          "name": "A. King"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "e14b9930e7071d0050c72ebe02a4e2fd34eb1d6e",
+      "publicationVenue": {
+        "id": "682636a4-9051-4efd-a77c-1a6cf6791f84",
+        "name": "Functional Imaging and Modeling of the Heart",
+        "type": "conference",
+        "alternate_names": [
+          "FIMH",
+          "International Conference on Functional Imaging and Modeling of Heart",
+          "Int Conf Funct Imaging Model Heart",
+          "Funct Imaging Model Heart"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e14b9930e7071d0050c72ebe02a4e2fd34eb1d6e",
+      "title": "Probabilistic Edge Map (PEM) for 3D Ultrasound Image Registration and Multi-atlas Left Ventricle Segmentation",
+      "venue": "Functional Imaging and Modeling of the Heart",
+      "year": 2015,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "145183907",
+          "name": "Alberto G\u00f3mez"
+        },
+        {
+          "authorId": "2192675",
+          "name": "K. Keraudren"
+        },
+        {
+          "authorId": "145547154",
+          "name": "A. Schuh"
+        },
+        {
+          "authorId": "2064774",
+          "name": "Wenjia Bai"
+        },
+        {
+          "authorId": "2700496",
+          "name": "W. Shi"
+        },
+        {
+          "authorId": "1701575",
+          "name": "G. Penney"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "f4366e13c82f0eaae4b9a530dfd2ad806b3eeea2",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f4366e13c82f0eaae4b9a530dfd2ad806b3eeea2",
+      "title": "Automated Localization of Fetal Organs in MRI Using Random Forests with Steerable Features",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2015,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2192675",
+          "name": "K. Keraudren"
+        },
+        {
+          "authorId": "2015193",
+          "name": "Bernhard Kainz"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2174117",
+          "name": "V. Kyriakopoulou"
+        },
+        {
+          "authorId": "145704431",
+          "name": "M. Rutherford"
+        },
+        {
+          "authorId": "1717846",
+          "name": "J. Hajnal"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "1c729d5cf77bec228812173caf33f22921919254",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1c729d5cf77bec228812173caf33f22921919254",
+      "title": "Sparsity Based Spectral Embedding: Application to Multi-Atlas Echocardiography Segmentation!",
+      "venue": "",
+      "year": 2014,
+      "citationCount": 2,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "145372820",
+          "name": "Jose Caballero"
+        },
+        {
+          "authorId": "2192675",
+          "name": "K. Keraudren"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "b08926965bda6d162167fa0cc6b7c09428923064",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b08926965bda6d162167fa0cc6b7c09428923064",
+      "title": "Endocardial 3D Ultrasound Segmentation using Autocontext Random Forests",
+      "venue": "The MIDAS Journal",
+      "year": 2014,
+      "citationCount": 10,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2192675",
+          "name": "K. Keraudren"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2700496",
+          "name": "W. Shi"
+        },
+        {
+          "authorId": "1717846",
+          "name": "J. Hajnal"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "d04ca4ff9fe867b543879566e5f6589348b13223",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d04ca4ff9fe867b543879566e5f6589348b13223",
+      "title": "Learning Shape Representations for Multi-Atlas Endocardium Segmentation in 3D Echo Images",
+      "venue": "The MIDAS Journal",
+      "year": 2014,
+      "citationCount": 15,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2700496",
+          "name": "W. Shi"
+        },
+        {
+          "authorId": "2192675",
+          "name": "K. Keraudren"
+        },
+        {
+          "authorId": "145372820",
+          "name": "Jose Caballero"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        }
+      ]
+    },
+    {
+      "paperId": "a14d2c1d544bd94c54d8dd27bebc2dadab17f198",
+      "publicationVenue": {
+        "id": "61a709e3-2060-423c-8de5-ffd3885aa31c",
+        "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "type": "conference",
+        "alternate_names": [
+          "Medical Image Computing and Computer-Assisted Intervention",
+          "MICCAI",
+          "Med Image Comput Comput Interv",
+          "Int Conf Med Image Comput Comput Interv"
+        ],
+        "url": "http://www.miccai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a14d2c1d544bd94c54d8dd27bebc2dadab17f198",
+      "title": "Biomechanically Driven Registration of Pre- to Intra-Operative 3D Images for Laparoscopic Surgery",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2013,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "70401459",
+          "name": "Li Zhang"
+        },
+        {
+          "authorId": "2219355",
+          "name": "Tommaso Mansi"
+        },
+        {
+          "authorId": "1690641",
+          "name": "P. Mountney"
+        },
+        {
+          "authorId": "2311332",
+          "name": "P. Mewes"
+        },
+        {
+          "authorId": "144472579",
+          "name": "S. Nicolau"
+        },
+        {
+          "authorId": "145272842",
+          "name": "L. Soler"
+        },
+        {
+          "authorId": "152574341",
+          "name": "C. Chefd'Hotel"
+        }
+      ]
+    },
+    {
+      "paperId": "e6206485739a6282d3723bc28b82630315c8e239",
+      "publicationVenue": {
+        "id": "2f5d0e8a-faad-4f10-b323-2b2e3c439a78",
+        "name": "Lecture Notes in Computer Science",
+        "type": "journal",
+        "alternate_names": [
+          "LNCS",
+          "Transactions on Computational Systems Biology",
+          "Trans Comput Syst Biology",
+          "Lect Note Comput Sci"
+        ],
+        "issn": "0302-9743",
+        "alternate_issns": [
+          "1861-2059",
+          "1861-2075",
+          "1866-4733"
+        ],
+        "url": "http://www.springer.com/lncs",
+        "alternate_urls": [
+          "http://www.springer.com/sgw/cda/frontpage/0,11855,1-164-2-73659-0,00.html",
+          "https://link.springer.com/bookseries/558",
+          "http://link.springer.com/search?query=\"Transactions+on+Computational+Systems+Biology\""
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e6206485739a6282d3723bc28b82630315c8e239",
+      "title": "Medical Image Computing and Computer-Assisted Intervention \u2013 MICCAI 2013",
+      "venue": "Lecture Notes in Computer Science",
+      "year": 2013,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "2271986015",
+          "name": "Li Zhang"
+        },
+        {
+          "authorId": "2270737558",
+          "name": "Tommaso Mansi"
+        },
+        {
+          "authorId": "1690641",
+          "name": "P. Mountney"
+        },
+        {
+          "authorId": "2272583537",
+          "name": "Philip Mewes"
+        },
+        {
+          "authorId": "144472579",
+          "name": "S. Nicolau"
+        },
+        {
+          "authorId": "2271872275",
+          "name": "Luc Soler"
+        }
+      ]
+    },
+    {
+      "paperId": "79e7b25c26e20405535fa45b6c3ab1ca4781d755",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/79e7b25c26e20405535fa45b6c3ab1ca4781d755",
+      "title": "Content based video copy detection with local descriptors",
+      "venue": "2010 IEEE 18th Signal Processing and Communications Applications Conference",
+      "year": 2010,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1766579",
+          "name": "Tugrul K. Ates"
+        },
+        {
+          "authorId": "1787658",
+          "name": "E. Esen"
+        },
+        {
+          "authorId": "2299922",
+          "name": "A. Saracoglu"
+        },
+        {
+          "authorId": "1768821",
+          "name": "M. Soysal"
+        },
+        {
+          "authorId": "9256332",
+          "name": "Y. Turgut"
+        },
+        {
+          "authorId": "2941969",
+          "name": "O. Oktay"
+        },
+        {
+          "authorId": "1751998",
+          "name": "Aydin Alatan"
+        }
+      ]
+    }
+  ]
+}

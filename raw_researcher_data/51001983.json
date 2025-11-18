@@ -1,0 +1,192 @@
+{
+  "authorId": "51001983",
+  "name": "Sangchul Hahn",
+  "affiliations": [],
+  "paperCount": 6,
+  "citationCount": 148,
+  "hIndex": 3,
+  "papers": [
+    {
+      "paperId": "8271311ceeabe333d4555deedcd3926b2145314a",
+      "publicationVenue": {
+        "id": "3413b6f7-e718-4940-a26a-e208f732ada0",
+        "name": "Recent Advances in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "RANLP",
+          "Recent Adv Nat Lang Process"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/8271311ceeabe333d4555deedcd3926b2145314a",
+      "title": "Self-Knowledge Distillation in Natural Language Processing",
+      "venue": "Recent Advances in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 108,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "51001983",
+          "name": "Sangchul Hahn"
+        },
+        {
+          "authorId": "40663606",
+          "name": "Heeyoul Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "31996925c87d8306401a970fe10e4c0f9123d2a5",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/31996925c87d8306401a970fe10e4c0f9123d2a5",
+      "title": "Disentangling Latent Factors with Whitening",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "51001983",
+          "name": "Sangchul Hahn"
+        },
+        {
+          "authorId": "40663606",
+          "name": "Heeyoul Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "759dbb9234a9066705c6042b07726fd1fa9a77a5",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/759dbb9234a9066705c6042b07726fd1fa9a77a5",
+      "title": "Gradient Acceleration in Activation Functions",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51001983",
+          "name": "Sangchul Hahn"
+        },
+        {
+          "authorId": "40663606",
+          "name": "Heeyoul Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "804bcb6aa65ad8339f800385c2bae4b7079ae461",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/804bcb6aa65ad8339f800385c2bae4b7079ae461",
+      "title": "Application of Improved Variational Recurrent Auto-Encoder for Korean Sentence Generation",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51001983",
+          "name": "Sangchul Hahn"
+        },
+        {
+          "authorId": "2111502874",
+          "name": "Seokjin Hong"
+        },
+        {
+          "authorId": "2116442904",
+          "name": "Heeyoul Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "804f5149ed3b3c2de7291d72740a1c8f601ca1ea",
+      "publicationVenue": {
+        "id": "3e64b1c1-745f-4edf-bd92-b8ef122bb49c",
+        "name": "International Conference on Artificial Neural Networks",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Artif Neural Netw",
+          "ICANN"
+        ],
+        "url": "http://www.e-nns.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/804f5149ed3b3c2de7291d72740a1c8f601ca1ea",
+      "title": "Disentangling Latent Factors of Variational Auto-encoder with Whitening",
+      "venue": "International Conference on Artificial Neural Networks",
+      "year": 2018,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51001983",
+          "name": "Sangchul Hahn"
+        },
+        {
+          "authorId": "40663606",
+          "name": "Heeyoul Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "eed30fb03a4251cf4d67a63e7d24f625632a73b4",
+      "publicationVenue": {
+        "id": "df12d289-f447-47d3-8846-75e39de3ab57",
+        "name": "Neurocomputing",
+        "type": "journal",
+        "issn": "0925-2312",
+        "url": "http://www.elsevier.com/locate/neucom",
+        "alternate_urls": [
+          "http://www.sciencedirect.com/science/journal/09252312"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/eed30fb03a4251cf4d67a63e7d24f625632a73b4",
+      "title": "Understanding dropout as an optimization trick",
+      "venue": "Neurocomputing",
+      "year": 2018,
+      "citationCount": 34,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "51001983",
+          "name": "Sangchul Hahn"
+        },
+        {
+          "authorId": "40663606",
+          "name": "Heeyoul Choi"
+        }
+      ]
+    }
+  ]
+}

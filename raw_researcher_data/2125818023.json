@@ -1,0 +1,739 @@
+{
+  "authorId": "2125818023",
+  "name": "Thibault Goehringer",
+  "affiliations": [],
+  "paperCount": 2,
+  "citationCount": 559,
+  "hIndex": 1,
+  "papers": [
+    {
+      "paperId": "8c26bb5bf958202707b2ae1823fd2b4136dfd224",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8c26bb5bf958202707b2ae1823fd2b4136dfd224",
+      "title": "P ERFECT : Prompt-free and Efficient Language Model Fine-Tuning",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 1,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3399905",
+          "name": "Hiba Asri"
+        },
+        {
+          "authorId": "2431019",
+          "name": "H. Mousannif"
+        },
+        {
+          "authorId": "3266710",
+          "name": "H. A. Moatassime"
+        },
+        {
+          "authorId": "2486762",
+          "name": "L. Bentivogli"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        },
+        {
+          "authorId": "2122755",
+          "name": "H. Dang"
+        },
+        {
+          "authorId": "2285914408",
+          "name": "Giampiccolo Bernardo"
+        },
+        {
+          "authorId": "2285927458",
+          "name": "Magnini. 2009"
+        },
+        {
+          "authorId": "2257135738",
+          "name": "Tom B. Brown"
+        },
+        {
+          "authorId": "2285072384",
+          "name": "Benjamin Mann"
+        },
+        {
+          "authorId": "2260406867",
+          "name": "Nick Ryder"
+        },
+        {
+          "authorId": "2261960223",
+          "name": "Jared D Subbiah"
+        },
+        {
+          "authorId": "2261942588",
+          "name": "Prafulla Kaplan"
+        },
+        {
+          "authorId": "2260445935",
+          "name": "A. Dhariwal"
+        },
+        {
+          "authorId": "2285153028",
+          "name": "P. Neelakantan"
+        },
+        {
+          "authorId": "2285148664",
+          "name": "Girish Shyam"
+        },
+        {
+          "authorId": "2285152996",
+          "name": "Amanda Sastry"
+        },
+        {
+          "authorId": "2285153039",
+          "name": "Sandhini Askell"
+        },
+        {
+          "authorId": "2285152528",
+          "name": "Ariel Agarwal"
+        },
+        {
+          "authorId": "2286814302",
+          "name": "Gretchen Herbert-Voss"
+        },
+        {
+          "authorId": "2286748594",
+          "name": "Tom Krueger"
+        },
+        {
+          "authorId": "2286818398",
+          "name": "Rewon Henighan"
+        },
+        {
+          "authorId": "2286801499",
+          "name": "Aditya Child"
+        },
+        {
+          "authorId": "2176294809",
+          "name": "Ramesh"
+        },
+        {
+          "authorId": "2052152920",
+          "name": "Daniel M. Ziegler"
+        },
+        {
+          "authorId": "2242326456",
+          "name": "Jeffrey Wu"
+        },
+        {
+          "authorId": "2059411355",
+          "name": "Clemens Winter"
+        },
+        {
+          "authorId": "2286801959",
+          "name": "Mark Hesse"
+        },
+        {
+          "authorId": "2286618170",
+          "name": "Eric Chen"
+        },
+        {
+          "authorId": "2286801673",
+          "name": "Mateusz Sigler"
+        },
+        {
+          "authorId": "2286801694",
+          "name": "Scott Litwin"
+        },
+        {
+          "authorId": "52238703",
+          "name": "Sam McCandlish"
+        },
+        {
+          "authorId": "38909097",
+          "name": "Alec Radford"
+        },
+        {
+          "authorId": "1701686",
+          "name": "I. Sutskever"
+        },
+        {
+          "authorId": "2284604215",
+          "name": "Dario Amodei. 2020"
+        },
+        {
+          "authorId": "2807469",
+          "name": "Oren Glickman"
+        },
+        {
+          "authorId": "2238231938",
+          "name": "Bernardo Magnini"
+        },
+        {
+          "authorId": "2241127",
+          "name": "M. Marneffe"
+        },
+        {
+          "authorId": "2285454774",
+          "name": "Mandy Simons"
+        },
+        {
+          "authorId": "2286841920",
+          "name": "Judith Tonhauser. 2019"
+        },
+        {
+          "authorId": "2261961752",
+          "name": "J. Devlin"
+        },
+        {
+          "authorId": "2262085555",
+          "name": "Ming-Wei Chang"
+        },
+        {
+          "authorId": "2262196473",
+          "name": "Kenton Lee"
+        },
+        {
+          "authorId": "2286477038",
+          "name": "Jesse Dodge"
+        },
+        {
+          "authorId": "2273910379",
+          "name": "Gabriel Ilharco"
+        },
+        {
+          "authorId": "2285460685",
+          "name": "Roy Schwartz"
+        },
+        {
+          "authorId": "2286814333",
+          "name": "Hannaneh Farhadi"
+        },
+        {
+          "authorId": "2286811749",
+          "name": "Hajishirzi Noah"
+        },
+        {
+          "authorId": "2286819365",
+          "name": "Smith"
+        },
+        {
+          "authorId": "2380885",
+          "name": "Danilo Giampiccolo"
+        },
+        {
+          "authorId": "2286698233",
+          "name": "David Ha"
+        },
+        {
+          "authorId": "2275185995",
+          "name": "Andrew M. Dai"
+        },
+        {
+          "authorId": "2275187939",
+          "name": "Quoc V. Le"
+        },
+        {
+          "authorId": "2286811726",
+          "name": "Hypernet-644"
+        },
+        {
+          "authorId": "2286824230",
+          "name": "Dan Hendrycks"
+        },
+        {
+          "authorId": "2286823284",
+          "name": "Kevin Gimpel. 2016"
+        },
+        {
+          "authorId": "2250153422",
+          "name": "Gaussian"
+        },
+        {
+          "authorId": "2815290",
+          "name": "N. Houlsby"
+        },
+        {
+          "authorId": "1911881",
+          "name": "A. Giurgiu"
+        },
+        {
+          "authorId": "38060141",
+          "name": "Stanislaw K. Jastrzebski"
+        },
+        {
+          "authorId": "68973833",
+          "name": "Bruna Morrone"
+        },
+        {
+          "authorId": "51985388",
+          "name": "Quentin de Laroussilhe"
+        },
+        {
+          "authorId": "2813347",
+          "name": "Andrea Gesmundo"
+        },
+        {
+          "authorId": "2809991",
+          "name": "Mona Attariyan"
+        },
+        {
+          "authorId": "2286824197",
+          "name": "Sylvain Gelly. 2019"
+        },
+        {
+          "authorId": "2285581068",
+          "name": "Brian Lester"
+        },
+        {
+          "authorId": "1388360943",
+          "name": "Rami Al-Rfou"
+        },
+        {
+          "authorId": "2285565151",
+          "name": "Noah Constant. 2021"
+        },
+        {
+          "authorId": "2113836945",
+          "name": "Quentin Lhoest"
+        },
+        {
+          "authorId": "2186979454",
+          "name": "Albert Villanova"
+        },
+        {
+          "authorId": "2260131678",
+          "name": "del Moral"
+        },
+        {
+          "authorId": "138609838",
+          "name": "Patrick von Platen"
+        },
+        {
+          "authorId": "2257007291",
+          "name": "Thomas Wolf"
+        },
+        {
+          "authorId": "2260103769",
+          "name": "Mario \u0160a\u0161ko"
+        },
+        {
+          "authorId": "2268491803",
+          "name": "Yacine Jernite"
+        },
+        {
+          "authorId": "2286688489",
+          "name": "Abhishek Thakur"
+        },
+        {
+          "authorId": "2072250824",
+          "name": "Lewis Tunstall"
+        },
+        {
+          "authorId": "2147312210",
+          "name": "Suraj Patil"
+        },
+        {
+          "authorId": "2125818054",
+          "name": "Mariama Drame"
+        },
+        {
+          "authorId": "40811585",
+          "name": "Julien Chaumond"
+        },
+        {
+          "authorId": "3008389",
+          "name": "J. Plu"
+        },
+        {
+          "authorId": "48776237",
+          "name": "Joe Davison"
+        },
+        {
+          "authorId": "1929563111",
+          "name": "Simon Brandeis"
+        },
+        {
+          "authorId": "51918868",
+          "name": "Victor Sanh"
+        },
+        {
+          "authorId": "1379806208",
+          "name": "Teven Le Scao"
+        },
+        {
+          "authorId": "2153003685",
+          "name": "K. Xu"
+        },
+        {
+          "authorId": "31614549",
+          "name": "N. Patry"
+        },
+        {
+          "authorId": "2285239295",
+          "name": "Steven Liu"
+        },
+        {
+          "authorId": "1584940075",
+          "name": "Angelina McMillan-Major"
+        },
+        {
+          "authorId": "2068467803",
+          "name": "Philippe Schmid"
+        },
+        {
+          "authorId": "103682620",
+          "name": "Sylvain Gugger"
+        },
+        {
+          "authorId": "2214616708",
+          "name": "Nathan Raw"
+        },
+        {
+          "authorId": "2286803457",
+          "name": "Sylvain Lesage"
+        },
+        {
+          "authorId": "2159547851",
+          "name": "Anton Lozhkov"
+        },
+        {
+          "authorId": "2286841544",
+          "name": "M. Carrigan"
+        },
+        {
+          "authorId": "2125822087",
+          "name": "Th'eo Matussiere"
+        },
+        {
+          "authorId": "2286811476",
+          "name": "Leandro von"
+        },
+        {
+          "authorId": "1509809381",
+          "name": "Gunjan Chhablani"
+        },
+        {
+          "authorId": "2081608023",
+          "name": "Bhavitvya Malik"
+        },
+        {
+          "authorId": "2257127518",
+          "name": "Canwen Xu"
+        },
+        {
+          "authorId": "32136590",
+          "name": "Stas Bekman"
+        },
+        {
+          "authorId": "1382164165",
+          "name": "Pierric Cistac"
+        },
+        {
+          "authorId": "2125818023",
+          "name": "Thibault Goehringer"
+        },
+        {
+          "authorId": "2286615397",
+          "name": "Robert L Logan"
+        },
+        {
+          "authorId": "2286747539",
+          "name": "Ivana Bala\u017eevi\u00b4c"
+        },
+        {
+          "authorId": "145217343",
+          "name": "Eric Wallace"
+        },
+        {
+          "authorId": "40052301",
+          "name": "F. Petroni"
+        },
+        {
+          "authorId": "2285902374",
+          "name": "Sameer Singh"
+        },
+        {
+          "authorId": "2286811721",
+          "name": "Sebastian Riedel. 2021"
+        },
+        {
+          "authorId": "8478422",
+          "name": "Sylvestre-Alvise Rebuffi"
+        },
+        {
+          "authorId": "2286802238",
+          "name": "Hakan Bilen"
+        },
+        {
+          "authorId": "32246932",
+          "name": "Timo Schick"
+        },
+        {
+          "authorId": "2256998691",
+          "name": "Helmut Schmid"
+        },
+        {
+          "authorId": "2256583017",
+          "name": "Hinrich Sch\u00fctze"
+        },
+        {
+          "authorId": "35681348",
+          "name": "Taylor Shin"
+        },
+        {
+          "authorId": "2067184969",
+          "name": "Yasaman Razeghi"
+        },
+        {
+          "authorId": "39770136",
+          "name": "Jake Snell"
+        },
+        {
+          "authorId": "1754860",
+          "name": "Kevin Swersky"
+        },
+        {
+          "authorId": "2286811450",
+          "name": "Richard Zemel. 2017"
+        },
+        {
+          "authorId": "2286813911",
+          "name": "Pro-771"
+        },
+        {
+          "authorId": "2166511",
+          "name": "R. Socher"
+        },
+        {
+          "authorId": "24590005",
+          "name": "Alex Perelygin"
+        },
+        {
+          "authorId": "2286277232",
+          "name": "Jean Wu"
+        },
+        {
+          "authorId": "2257173288",
+          "name": "Jason Chuang"
+        },
+        {
+          "authorId": "2261746026",
+          "name": "Christopher D. Manning"
+        },
+        {
+          "authorId": "2286228976",
+          "name": "Andrew Y Ng"
+        },
+        {
+          "authorId": "1390031652",
+          "name": "Derek Tam"
+        },
+        {
+          "authorId": "2272647461",
+          "name": "Rakesh R Menon"
+        },
+        {
+          "authorId": "2253762115",
+          "name": "Mohit Bansal"
+        },
+        {
+          "authorId": "2064196594",
+          "name": "A. \u00dcst\u00fcn"
+        },
+        {
+          "authorId": "3242253",
+          "name": "Arianna Bisazza"
+        },
+        {
+          "authorId": "2286352944",
+          "name": "Gosse Bouma"
+        },
+        {
+          "authorId": "2282590360",
+          "name": "Alex Wang"
+        },
+        {
+          "authorId": "100984698",
+          "name": "Yada Pruksachatkun"
+        },
+        {
+          "authorId": "10666396",
+          "name": "Nikita Nangia"
+        },
+        {
+          "authorId": "2282545790",
+          "name": "Amanpreet Singh"
+        },
+        {
+          "authorId": "2282543048",
+          "name": "Julian Michael"
+        },
+        {
+          "authorId": "2282542691",
+          "name": "Felix Hill"
+        },
+        {
+          "authorId": "1991019030",
+          "name": "Albert Webson"
+        },
+        {
+          "authorId": "2286802197",
+          "name": "Ellie Pavlick. 2021"
+        },
+        {
+          "authorId": "2286004599",
+          "name": "Do"
+        }
+      ]
+    },
+    {
+      "paperId": "cddf40e579a596d0110b260313adf43470617c4c",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/cddf40e579a596d0110b260313adf43470617c4c",
+      "title": "Datasets: A Community Library for Natural Language Processing",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "citationCount": 564,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2113836945",
+          "name": "Quentin Lhoest"
+        },
+        {
+          "authorId": "46219923",
+          "name": "Albert Villanova del Moral"
+        },
+        {
+          "authorId": "2262249",
+          "name": "Yacine Jernite"
+        },
+        {
+          "authorId": "1563206882",
+          "name": "A. Thakur"
+        },
+        {
+          "authorId": "138609838",
+          "name": "Patrick von Platen"
+        },
+        {
+          "authorId": "2113317708",
+          "name": "Suraj Patil"
+        },
+        {
+          "authorId": "40811585",
+          "name": "Julien Chaumond"
+        },
+        {
+          "authorId": "2125818054",
+          "name": "Mariama Drame"
+        },
+        {
+          "authorId": "3008389",
+          "name": "J. Plu"
+        },
+        {
+          "authorId": "2072250824",
+          "name": "Lewis Tunstall"
+        },
+        {
+          "authorId": "48776237",
+          "name": "Joe Davison"
+        },
+        {
+          "authorId": "2125821515",
+          "name": "Mario vSavsko"
+        },
+        {
+          "authorId": "1509809381",
+          "name": "Gunjan Chhablani"
+        },
+        {
+          "authorId": "2081608023",
+          "name": "Bhavitvya Malik"
+        },
+        {
+          "authorId": "1929563111",
+          "name": "Simon Brandeis"
+        },
+        {
+          "authorId": "1379806208",
+          "name": "Teven Le Scao"
+        },
+        {
+          "authorId": "2285868436",
+          "name": "Victor Sanh"
+        },
+        {
+          "authorId": "66247317",
+          "name": "Canwen Xu"
+        },
+        {
+          "authorId": "31614549",
+          "name": "N. Patry"
+        },
+        {
+          "authorId": "1584940075",
+          "name": "Angelina McMillan-Major"
+        },
+        {
+          "authorId": "47261946",
+          "name": "Philipp Schmid"
+        },
+        {
+          "authorId": "103682620",
+          "name": "Sylvain Gugger"
+        },
+        {
+          "authorId": "40899333",
+          "name": "Clement Delangue"
+        },
+        {
+          "authorId": "2125822087",
+          "name": "Th'eo Matussiere"
+        },
+        {
+          "authorId": "1380459402",
+          "name": "Lysandre Debut"
+        },
+        {
+          "authorId": "32136590",
+          "name": "Stas Bekman"
+        },
+        {
+          "authorId": "1382164165",
+          "name": "Pierric Cistac"
+        },
+        {
+          "authorId": "2125818023",
+          "name": "Thibault Goehringer"
+        },
+        {
+          "authorId": "2125811887",
+          "name": "Victor Mustar"
+        },
+        {
+          "authorId": "2083688752",
+          "name": "Fran\u00e7ois Lagunas"
+        },
+        {
+          "authorId": "2531268",
+          "name": "Alexander M. Rush"
+        },
+        {
+          "authorId": "50335211",
+          "name": "Thomas Wolf"
+        }
+      ]
+    }
+  ]
+}

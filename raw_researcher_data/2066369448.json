@@ -1,0 +1,2396 @@
+{
+  "authorId": "2066369448",
+  "name": "Mikhail Galkin",
+  "affiliations": [
+    "Google Research"
+  ],
+  "paperCount": 55,
+  "citationCount": 1831,
+  "hIndex": 21,
+  "papers": [
+    {
+      "paperId": "aa257e4d60a4617343bc1a61b96718138a97fe88",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/aa257e4d60a4617343bc1a61b96718138a97fe88",
+      "title": "SymmCD: Symmetry-Preserving Crystal Generation with Diffusion Models",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "2329684376",
+          "name": "\u2217. DanielLevy"
+        },
+        {
+          "authorId": "2253461677",
+          "name": "Siba Smarak Panigrahi"
+        },
+        {
+          "authorId": "2329683576",
+          "name": "\u2217. S\u00e9kou-OumarKaba"
+        },
+        {
+          "authorId": "2331796199",
+          "name": "Qiang Zhu"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2237988122",
+          "name": "Santiago Miret"
+        },
+        {
+          "authorId": "2111187",
+          "name": "Siamak Ravanbakhsh"
+        }
+      ]
+    },
+    {
+      "paperId": "008283c83ba7061538062f9e56890f98e405f978",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/008283c83ba7061538062f9e56890f98e405f978",
+      "title": "TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "108564082",
+          "name": "J. Gastinger"
+        },
+        {
+          "authorId": "51012317",
+          "name": "Shenyang Huang"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2142552848",
+          "name": "Erfan Loghmani"
+        },
+        {
+          "authorId": "84094194",
+          "name": "Alipanah Parviz"
+        },
+        {
+          "authorId": "2282960184",
+          "name": "Farimah Poursafaei"
+        },
+        {
+          "authorId": "1388354764",
+          "name": "Jacob Danovitch"
+        },
+        {
+          "authorId": "2306785905",
+          "name": "Emanuele Rossi"
+        },
+        {
+          "authorId": "2247606474",
+          "name": "Ioannis Koutis"
+        },
+        {
+          "authorId": "2247472451",
+          "name": "Heiner Stuckenschmidt"
+        },
+        {
+          "authorId": "2306673886",
+          "name": "Reihaneh Rabbany"
+        },
+        {
+          "authorId": "2123387257",
+          "name": "Guillaume Rabusseau"
+        }
+      ]
+    },
+    {
+      "paperId": "13f81979372850d9ab9d386c35bb00b4cc0e35f1",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/13f81979372850d9ab9d386c35bb00b4cc0e35f1",
+      "title": "Position: Graph Foundation Models Are Already Here",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2125202063",
+          "name": "Haitao Mao"
+        },
+        {
+          "authorId": "2257089588",
+          "name": "Zhikai Chen"
+        },
+        {
+          "authorId": "2188792890",
+          "name": "Wenzhuo Tang"
+        },
+        {
+          "authorId": "2282988161",
+          "name": "Jianan Zhao"
+        },
+        {
+          "authorId": "2254813628",
+          "name": "Yao Ma"
+        },
+        {
+          "authorId": "2256340293",
+          "name": "Tong Zhao"
+        },
+        {
+          "authorId": "2253409421",
+          "name": "Neil Shah"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2283301882",
+          "name": "Jiliang Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "397b17d8a4fb70b331f9445237be6103e9881212",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/397b17d8a4fb70b331f9445237be6103e9881212",
+      "title": "A Foundation Model for Zero-shot Logical Query Reasoning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2296002088",
+          "name": "Jincheng Zhou"
+        },
+        {
+          "authorId": "2295885832",
+          "name": "Bruno Ribeiro"
+        },
+        {
+          "authorId": "2255480226",
+          "name": "Jian Tang"
+        },
+        {
+          "authorId": "9031926",
+          "name": "Zhaocheng Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "6c257ce8f0cf803b6cea1a43364cae5f74ec1e8b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6c257ce8f0cf803b6cea1a43364cae5f74ec1e8b",
+      "title": "Fully-inductive Node Classification on Arbitrary Graphs",
+      "venue": "",
+      "year": 2024,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2282988161",
+          "name": "Jianan Zhao"
+        },
+        {
+          "authorId": "2256992354",
+          "name": "Hesham Mostafa"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2253393509",
+          "name": "Michael M. Bronstein"
+        },
+        {
+          "authorId": "9031926",
+          "name": "Zhaocheng Zhu"
+        },
+        {
+          "authorId": "2255480226",
+          "name": "Jian Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "ab34e4a804c144c44803c5e2ab00f8d37f052a20",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/ab34e4a804c144c44803c5e2ab00f8d37f052a20",
+      "title": "Deconstructing equivariant representations in molecular systems",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "2189418880",
+          "name": "Kin Long Kelvin Lee"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2237988122",
+          "name": "Santiago Miret"
+        }
+      ]
+    },
+    {
+      "paperId": "b778e3b32050539074579b4bc27a5273b305242c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/b778e3b32050539074579b4bc27a5273b305242c",
+      "title": "PARSAC: Fast, Human-quality Floorplanning for Modern SoCs with Complex Design Constraints",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2256992354",
+          "name": "Hesham Mostafa"
+        },
+        {
+          "authorId": "2321454836",
+          "name": "Uday Mallappa"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2300370994",
+          "name": "Mariano Phielipp"
+        },
+        {
+          "authorId": "2413238",
+          "name": "Somdeb Majumdar"
+        }
+      ]
+    },
+    {
+      "paperId": "bc6965075f90764840b8399afe2647e1c0866ec9",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/bc6965075f90764840b8399afe2647e1c0866ec9",
+      "title": "One Model, Any Conjunctive Query: Graph Neural Networks for Answering Complex Queries over Knowledge Graphs",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2322441318",
+          "name": "Krzysztof Olejniczak"
+        },
+        {
+          "authorId": "2152662727",
+          "name": "Xingyue Huang"
+        },
+        {
+          "authorId": "1810852785",
+          "name": ".Ismail .Ilkan Ceylan"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        }
+      ]
+    },
+    {
+      "paperId": "be2d8ecf662f77256151d587c5fddc15969290f4",
+      "publicationVenue": {
+        "id": "50f05842-47b7-4c4e-8b23-85545a41a930",
+        "name": "International Conference on Computer Aided Design",
+        "type": "conference",
+        "alternate_names": [
+          "ICCAD",
+          "Int Conf Comput Aided Des"
+        ],
+        "url": "http://www.iccad.com/"
+      },
+      "url": "https://www.semanticscholar.org/paper/be2d8ecf662f77256151d587c5fddc15969290f4",
+      "title": "FloorSet - a VLSI Floorplanning Dataset with Design Constraints of Real-World SoCs",
+      "venue": "International Conference on Computer Aided Design",
+      "year": 2024,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2321454836",
+          "name": "Uday Mallappa"
+        },
+        {
+          "authorId": "2256992354",
+          "name": "Hesham Mostafa"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2300370994",
+          "name": "Mariano Phielipp"
+        },
+        {
+          "authorId": "2413238",
+          "name": "Somdeb Majumdar"
+        }
+      ]
+    },
+    {
+      "paperId": "033275ccc2c7c5c38592ae893da0b5923cf90717",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/033275ccc2c7c5c38592ae893da0b5923cf90717",
+      "title": "Neural Graph Reasoning: Complex Logical Query Answering Meets Graph Databases",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40046694",
+          "name": "Hongyu Ren"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "1708906",
+          "name": "Michael Cochez"
+        },
+        {
+          "authorId": "9031926",
+          "name": "Zhaocheng Zhu"
+        },
+        {
+          "authorId": "1702139",
+          "name": "J. Leskovec"
+        }
+      ]
+    },
+    {
+      "paperId": "0615c8ad1350e8e0dc526ddf8f9b8a6f45bab044",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/0615c8ad1350e8e0dc526ddf8f9b8a6f45bab044",
+      "title": "MatSciML: A Broad, Multi-Task Benchmark for Solid-State Materials Modeling",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Physics"
+      ],
+      "authors": [
+        {
+          "authorId": "2189418880",
+          "name": "Kin Long Kelvin Lee"
+        },
+        {
+          "authorId": "2189374130",
+          "name": "Carmelo Gonzales"
+        },
+        {
+          "authorId": "2239098568",
+          "name": "Marcel Nassar"
+        },
+        {
+          "authorId": "143601761",
+          "name": "Matthew Spellings"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2237988122",
+          "name": "Santiago Miret"
+        }
+      ]
+    },
+    {
+      "paperId": "20c6a1f647dd0e0ebdf81064f6bf69b7ff2153c0",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/20c6a1f647dd0e0ebdf81064f6bf69b7ff2153c0",
+      "title": "Improving Compositional Generalization Using Iterated Learning and Simplicial Embeddings",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2115242507",
+          "name": "Yi Ren"
+        },
+        {
+          "authorId": "2122697679",
+          "name": "Samuel Lavoie"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2262445067",
+          "name": "Danica J. Sutherland"
+        },
+        {
+          "authorId": "2262443562",
+          "name": "Aaron Courville"
+        }
+      ]
+    },
+    {
+      "paperId": "30258c205060af5ce958dc6c9e184c9498ee48ed",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/30258c205060af5ce958dc6c9e184c9498ee48ed",
+      "title": "Attending to Graph Transformers",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2023,
+      "citationCount": 83,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2257004420",
+          "name": "Luis Muller"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "143622465",
+          "name": "Christopher Morris"
+        },
+        {
+          "authorId": "2125913",
+          "name": "Ladislav Ramp\u00e1\u0161ek"
+        }
+      ]
+    },
+    {
+      "paperId": "8c769ef4f7dc800c16a29f249f8c4edac11284b1",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8c769ef4f7dc800c16a29f249f8c4edac11284b1",
+      "title": "Approximate Answering of Graph Queries",
+      "venue": "Compendium of Neurosymbolic Artificial Intelligence",
+      "year": 2023,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1708906",
+          "name": "Michael Cochez"
+        },
+        {
+          "authorId": "133811740",
+          "name": "Dimitrios Alivanistos"
+        },
+        {
+          "authorId": "2159004",
+          "name": "Erik Arakelyan"
+        },
+        {
+          "authorId": "65881464",
+          "name": "M. Berrendorf"
+        },
+        {
+          "authorId": "2064551388",
+          "name": "Daniel Daza"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "3051815",
+          "name": "Pasquale Minervini"
+        },
+        {
+          "authorId": "2780262",
+          "name": "Mathias Niepert"
+        },
+        {
+          "authorId": "40046694",
+          "name": "Hongyu Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "e925553b7f43a09f1a7fafdfbe2c0dd83bf22002",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e925553b7f43a09f1a7fafdfbe2c0dd83bf22002",
+      "title": "Towards Foundation Models for Materials Science: The Open MatSci ML Toolkit",
+      "venue": "SC Workshops",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Physics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2189418880",
+          "name": "Kin Long Kelvin Lee"
+        },
+        {
+          "authorId": "2189374130",
+          "name": "Carmelo Gonzales"
+        },
+        {
+          "authorId": "143601761",
+          "name": "Matthew Spellings"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2237988122",
+          "name": "Santiago Miret"
+        },
+        {
+          "authorId": "2258557898",
+          "name": "Nalini Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "eb1fa5c23dd04690cbfb38e091c2b9dcbe269f18",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/eb1fa5c23dd04690cbfb38e091c2b9dcbe269f18",
+      "title": "Towards Foundation Models for Knowledge Graph Reasoning",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2258299935",
+          "name": "Xinyu Yuan"
+        },
+        {
+          "authorId": "2256992354",
+          "name": "Hesham Mostafa"
+        },
+        {
+          "authorId": "2255480226",
+          "name": "Jian Tang"
+        },
+        {
+          "authorId": "9031926",
+          "name": "Zhaocheng Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "2341353cae858ce06225e46356c472b71dc63372",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2341353cae858ce06225e46356c472b71dc63372",
+      "title": "A Decade of Knowledge Graphs in Natural Language Processing: A Survey",
+      "venue": "AACL",
+      "year": 2022,
+      "citationCount": 52,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2186852856",
+          "name": "Phillip Schneider"
+        },
+        {
+          "authorId": "2120192839",
+          "name": "Tim Schopf"
+        },
+        {
+          "authorId": "2066962303",
+          "name": "Juraj Vladika"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2927032",
+          "name": "E. Simperl"
+        },
+        {
+          "authorId": "2522197",
+          "name": "F. Matthes"
+        }
+      ]
+    },
+    {
+      "paperId": "277dd73bfeb5c46513ce305136b0e71fcd2a311c",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/277dd73bfeb5c46513ce305136b0e71fcd2a311c",
+      "title": "Recipe for a General, Powerful, Scalable Graph Transformer",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "citationCount": 480,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2125913",
+          "name": "Ladislav Ramp\u00e1\u0161ek"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "51235219",
+          "name": "Vijay Prakash Dwivedi"
+        },
+        {
+          "authorId": "1755919",
+          "name": "A. Luu"
+        },
+        {
+          "authorId": "2683398",
+          "name": "Guy Wolf"
+        },
+        {
+          "authorId": "51034451",
+          "name": "D. Beaini"
+        }
+      ]
+    },
+    {
+      "paperId": "53eecd3d126a11911b53c639a7a808cac4fbf127",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/53eecd3d126a11911b53c639a7a808cac4fbf127",
+      "title": "Neural-Symbolic Models for Logical Queries on Knowledge Graphs",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "citationCount": 73,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "9031926",
+          "name": "Zhaocheng Zhu"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "1490733324",
+          "name": "Zuobai Zhang"
+        },
+        {
+          "authorId": "2115855484",
+          "name": "Jian Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "54eeb37775f3529b9f4f97f2383e9f34b8a2f6ab",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/54eeb37775f3529b9f4f97f2383e9f34b8a2f6ab",
+      "title": "A*Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "citationCount": 33,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "9031926",
+          "name": "Zhaocheng Zhu"
+        },
+        {
+          "authorId": "50242858",
+          "name": "Xinyu Yuan"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2307923991",
+          "name": "Sophie Xhonneux"
+        },
+        {
+          "authorId": "2118541421",
+          "name": "Ming Zhang"
+        },
+        {
+          "authorId": "46698424",
+          "name": "M. Gazeau"
+        },
+        {
+          "authorId": "145357803",
+          "name": "Jian Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "afbb1e7a2583c2d009845cbc112f4028f7ec92a3",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/afbb1e7a2583c2d009845cbc112f4028f7ec92a3",
+      "title": "An Open Challenge for Inductive Link Prediction on Knowledge Graphs",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "65881464",
+          "name": "M. Berrendorf"
+        },
+        {
+          "authorId": "35477117",
+          "name": "Charles Tapley Hoyt"
+        }
+      ]
+    },
+    {
+      "paperId": "c663d4b4d413ba306229cd42f9339e939052b11f",
+      "publicationVenue": {
+        "id": "50534c12-f4ba-4c64-806b-01647d1baacf",
+        "name": "LOG IN",
+        "type": "journal",
+        "alternate_names": [
+          "Log in",
+          "Log",
+          "LOG"
+        ],
+        "issn": "0720-8642",
+        "alternate_issns": [
+          "1547-4690",
+          "0024-5798"
+        ],
+        "url": "https://www.log-in-verlag.de/informatische_bildung/",
+        "alternate_urls": [
+          "https://www.anycorp.com/log/about",
+          "https://www.jstor.org/journal/log",
+          "https://www.anycorp.com/",
+          "http://www.jstor.org/action/showPublication?journalCode=log",
+          "http://www.anycorp.com/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c663d4b4d413ba306229cd42f9339e939052b11f",
+      "title": "Weisfeiler and Leman Go Relational",
+      "venue": "LOG IN",
+      "year": 2022,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "35106192",
+          "name": "P. Barcel\u00f3"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "143622465",
+          "name": "Christopher Morris"
+        },
+        {
+          "authorId": "72211278",
+          "name": "Miguel Romero Orth"
+        }
+      ]
+    },
+    {
+      "paperId": "d10428bd18aa86c7f5007a27158dd07c0c55afa4",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/d10428bd18aa86c7f5007a27158dd07c0c55afa4",
+      "title": "A Unified Framework for Rank-based Evaluation Metrics for Link Prediction in Knowledge Graphs",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "35477117",
+          "name": "Charles Tapley Hoyt"
+        },
+        {
+          "authorId": "65881464",
+          "name": "M. Berrendorf"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "1742501819",
+          "name": "Volker Tresp"
+        },
+        {
+          "authorId": "46221592",
+          "name": "Benjamin M. Gyori"
+        }
+      ]
+    },
+    {
+      "paperId": "d2c177f6386e7b88b406e2f741ed5387e4ced3b0",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d2c177f6386e7b88b406e2f741ed5387e4ced3b0",
+      "title": "Inductive Logical Query Answering in Knowledge Graphs",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "9031926",
+          "name": "Zhaocheng Zhu"
+        },
+        {
+          "authorId": "40046694",
+          "name": "Hongyu Ren"
+        },
+        {
+          "authorId": "152226504",
+          "name": "Jian Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "f7a3d9bcf052f2b4ef7d59dcca4013ea11081d0f",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f7a3d9bcf052f2b4ef7d59dcca4013ea11081d0f",
+      "title": "Long Range Graph Benchmark",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "citationCount": 183,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51235219",
+          "name": "Vijay Prakash Dwivedi"
+        },
+        {
+          "authorId": "2125913",
+          "name": "Ladislav Ramp\u00e1\u0161ek"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "84094194",
+          "name": "Alipanah Parviz"
+        },
+        {
+          "authorId": "2683398",
+          "name": "Guy Wolf"
+        },
+        {
+          "authorId": "1755919",
+          "name": "A. Luu"
+        },
+        {
+          "authorId": "51034451",
+          "name": "D. Beaini"
+        }
+      ]
+    },
+    {
+      "paperId": "fbd8695a67e8e9d91383cbe241109f39ee279b33",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/fbd8695a67e8e9d91383cbe241109f39ee279b33",
+      "title": "Using Graph Algorithms to Pretrain Graph Completion Transformers",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "104354626",
+          "name": "Jonathan Pilault"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "3422551",
+          "name": "Bahare Fatemi"
+        },
+        {
+          "authorId": "1784150",
+          "name": "Perouz Taslakian"
+        },
+        {
+          "authorId": "2062851241",
+          "name": "David Vasquez"
+        },
+        {
+          "authorId": "1972076",
+          "name": "C. Pal"
+        }
+      ]
+    },
+    {
+      "paperId": "1c652779d9b6a0700386295a428f21293d7b6d5b",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1c652779d9b6a0700386295a428f21293d7b6d5b",
+      "title": "Query Embedding on Hyper-relational Knowledge Graphs",
+      "venue": "International Conference on Learning Representations",
+      "year": 2021,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "133811740",
+          "name": "Dimitrios Alivanistos"
+        },
+        {
+          "authorId": "65881464",
+          "name": "M. Berrendorf"
+        },
+        {
+          "authorId": "1708906",
+          "name": "Michael Cochez"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        }
+      ]
+    },
+    {
+      "paperId": "306ef381c49bf527927115938e26664729222422",
+      "publicationVenue": {
+        "id": "efa3ff7a-4d96-44a1-a022-a683408919b6",
+        "name": "International Workshop on the Semantic Web",
+        "type": "conference",
+        "alternate_names": [
+          "SemWeb",
+          "Int Workshop Semantic Web"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/306ef381c49bf527927115938e26664729222422",
+      "title": "Improving Inductive Link Prediction Using Hyper-Relational Facts",
+      "venue": "International Workshop on the Semantic Web",
+      "year": 2021,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1409907345",
+          "name": "Mehdi Ali"
+        },
+        {
+          "authorId": "65881464",
+          "name": "M. Berrendorf"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "1861119",
+          "name": "Veronika Thost"
+        },
+        {
+          "authorId": "72832003",
+          "name": "Tengfei Ma"
+        },
+        {
+          "authorId": "1742501819",
+          "name": "Volker Tresp"
+        },
+        {
+          "authorId": "71564931",
+          "name": "Jens Lehmann"
+        }
+      ]
+    },
+    {
+      "paperId": "f6c4d57c710b461ece658a0b8e7427e862fef116",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f6c4d57c710b461ece658a0b8e7427e862fef116",
+      "title": "NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs",
+      "venue": "International Conference on Learning Representations",
+      "year": 2021,
+      "citationCount": 81,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2109173156",
+          "name": "Jiapeng Wu"
+        },
+        {
+          "authorId": "114240083",
+          "name": "E. Denis"
+        },
+        {
+          "authorId": "2057555930",
+          "name": "William L. Hamilton"
+        }
+      ]
+    },
+    {
+      "paperId": "4de9faba50ef8c45e0d5f4c2cb352a32333be0e0",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/4de9faba50ef8c45e0d5f4c2cb352a32333be0e0",
+      "title": "El Departamento de Nosotros: How Machine Translated Corpora Affects Language Models in MRC Tasks",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "9572817",
+          "name": "Maria Khvalchik"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        }
+      ]
+    },
+    {
+      "paperId": "acc855d74431537b98de5185e065e4eacbab7b26",
+      "publicationVenue": {
+        "id": "25248f80-fe99-48e5-9b8e-9baef3b8e23b",
+        "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Pattern Anal Mach Intell"
+        ],
+        "issn": "0162-8828",
+        "url": "http://www.computer.org/tpami/",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tpami",
+          "http://ieeexplore.ieee.org/servlet/opac?punumber=34"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/acc855d74431537b98de5185e065e4eacbab7b26",
+      "title": "Bringing Light Into the Dark: A Large-Scale Evaluation of Knowledge Graph Embedding Models Under a Unified Framework",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2020,
+      "citationCount": 122,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1409907345",
+          "name": "Mehdi Ali"
+        },
+        {
+          "authorId": "65881464",
+          "name": "M. Berrendorf"
+        },
+        {
+          "authorId": "35477117",
+          "name": "Charles Tapley Hoyt"
+        },
+        {
+          "authorId": "91008408",
+          "name": "Laurent Vermue"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "7782886",
+          "name": "Sahand Sharifzadeh"
+        },
+        {
+          "authorId": "35988982",
+          "name": "Asja Fischer"
+        },
+        {
+          "authorId": "1742501819",
+          "name": "Volker Tresp"
+        },
+        {
+          "authorId": "71564931",
+          "name": "Jens Lehmann"
+        }
+      ]
+    },
+    {
+      "paperId": "fb02c6644008552c9bd0300329cd4221a029da6f",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/fb02c6644008552c9bd0300329cd4221a029da6f",
+      "title": "Message Passing for Hyper-Relational Knowledge Graphs",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 108,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "39033114",
+          "name": "Priyansh Trivedi"
+        },
+        {
+          "authorId": "143738727",
+          "name": "Gaurav Maheshwari"
+        },
+        {
+          "authorId": "2370666",
+          "name": "Ricardo Usbeck"
+        },
+        {
+          "authorId": "71564931",
+          "name": "Jens Lehmann"
+        }
+      ]
+    },
+    {
+      "paperId": "4a0ba36777c563ec0b67acb931de5c760aac9491",
+      "publicationVenue": {
+        "id": "29deb9df-6626-419d-9aaf-1d46440013e1",
+        "name": "International Conference on Database and Expert Systems Applications",
+        "type": "conference",
+        "alternate_names": [
+          "DEXA",
+          "Int Conf Database Expert Syst Appl"
+        ],
+        "url": "http://www.dexa.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4a0ba36777c563ec0b67acb931de5c760aac9491",
+      "title": "COMET: A Contextualized Molecule-Based Matching Technique",
+      "venue": "International Conference on Database and Expert Systems Applications",
+      "year": 2019,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "81314400",
+          "name": "Mayesha Tasnim"
+        },
+        {
+          "authorId": "2553511",
+          "name": "D. Collarana"
+        },
+        {
+          "authorId": "2235966",
+          "name": "D. Graux"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "143858195",
+          "name": "Maria-Esther Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "a50cf55d97f5966d51ee196b36e1097f9fc1073d",
+      "publicationVenue": {
+        "id": "efa3ff7a-4d96-44a1-a022-a683408919b6",
+        "name": "International Workshop on the Semantic Web",
+        "type": "conference",
+        "alternate_names": [
+          "SemWeb",
+          "Int Workshop Semantic Web"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a50cf55d97f5966d51ee196b36e1097f9fc1073d",
+      "title": "Demonstration of a Customizable Representation Model for Graph-Based Visualizations of Ontologies - GizMO",
+      "venue": "International Workshop on the Semantic Web",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2025317",
+          "name": "Vitalis Wiens"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "1703432",
+          "name": "S. Lohmann"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        }
+      ]
+    },
+    {
+      "paperId": "b52692a2cd1a6e21837d6744056aa9f98fbbfd7e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b52692a2cd1a6e21837d6744056aa9f98fbbfd7e",
+      "title": "Strategies for Managing Linked Enterprise Data",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Business",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        }
+      ]
+    },
+    {
+      "paperId": "0151e1c0cc7ece8018b67f027760b81d9c1e8c98",
+      "publicationVenue": {
+        "id": "efa3ff7a-4d96-44a1-a022-a683408919b6",
+        "name": "International Workshop on the Semantic Web",
+        "type": "conference",
+        "alternate_names": [
+          "SemWeb",
+          "Int Workshop Semantic Web"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/0151e1c0cc7ece8018b67f027760b81d9c1e8c98",
+      "title": "Synthesizing a Knowledge Graph of Data Scientist Job Offers with MINTE+",
+      "venue": "International Workshop on the Semantic Web",
+      "year": 2018,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2553511",
+          "name": "D. Collarana"
+        },
+        {
+          "authorId": "143858195",
+          "name": "Maria-Esther Vidal"
+        },
+        {
+          "authorId": "81314400",
+          "name": "Mayesha Tasnim"
+        }
+      ]
+    },
+    {
+      "paperId": "57abfb102f78e635f3834e7ce840ddfb4dc0d9b2",
+      "publicationVenue": {
+        "id": "efa3ff7a-4d96-44a1-a022-a683408919b6",
+        "name": "International Workshop on the Semantic Web",
+        "type": "conference",
+        "alternate_names": [
+          "SemWeb",
+          "Int Workshop Semantic Web"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/57abfb102f78e635f3834e7ce840ddfb4dc0d9b2",
+      "title": "Synthesizing Knowledge Graphs from Web Sources with the MINTE ^+ + Framework",
+      "venue": "International Workshop on the Semantic Web",
+      "year": 2018,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2553511",
+          "name": "D. Collarana"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "40466850",
+          "name": "C. Lange"
+        },
+        {
+          "authorId": "1705658",
+          "name": "S. Scerri"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        },
+        {
+          "authorId": "143858195",
+          "name": "Maria-Esther Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "780c7ead33428d282044519fee5e773ad56d5a2c",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/780c7ead33428d282044519fee5e773ad56d5a2c",
+      "title": "Querying Interlinked Data by Bridging RDF Molecule Templates",
+      "venue": "Trans. Large Scale Data Knowl. Centered Syst.",
+      "year": 2018,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3319633",
+          "name": "Kemele M. Endris"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2115114",
+          "name": "Ioanna Lytra"
+        },
+        {
+          "authorId": "3059455",
+          "name": "Mohamed Nadjib Mami"
+        },
+        {
+          "authorId": "143858195",
+          "name": "Maria-Esther Vidal"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        }
+      ]
+    },
+    {
+      "paperId": "de95d1e352d81c630866e76e671d24a959cbaefc",
+      "publicationVenue": {
+        "id": "6bf48d72-eba2-4918-b9a0-153280062513",
+        "name": "International Computer Science Conference",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE International Conference on Semantic Computing",
+          "IEEE International conference semantic computing",
+          "International Conference Spatial Cognition",
+          "Resource Track - ICSC",
+          "Int Conf Semantic Comput",
+          "ICSC",
+          "Int Comput Sci Conf",
+          "IEEE Int Conf Semantic Comput",
+          "Int Conf Spat Cogn",
+          "IEEE Int conf semantic comput",
+          "International Conference on Semantic Computing"
+        ],
+        "url": "http://icsc.eecs.uci.edu/"
+      },
+      "url": "https://www.semanticscholar.org/paper/de95d1e352d81c630866e76e671d24a959cbaefc",
+      "title": "Shipping Knowledge Graph Management Capabilities to Data Providers and Consumers",
+      "venue": "International Computer Science Conference",
+      "year": 2018,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1453364081",
+          "name": "Omar Al-Safi"
+        },
+        {
+          "authorId": "6920421",
+          "name": "Christian Mader"
+        },
+        {
+          "authorId": "2115114",
+          "name": "Ioanna Lytra"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "3319633",
+          "name": "Kemele M. Endris"
+        },
+        {
+          "authorId": "143858195",
+          "name": "Maria-Esther Vidal"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        }
+      ]
+    },
+    {
+      "paperId": "16b12912e3c1cbc9e1b2e531b078dcdb3037402c",
+      "publicationVenue": {
+        "id": "29deb9df-6626-419d-9aaf-1d46440013e1",
+        "name": "International Conference on Database and Expert Systems Applications",
+        "type": "conference",
+        "alternate_names": [
+          "DEXA",
+          "Int Conf Database Expert Syst Appl"
+        ],
+        "url": "http://www.dexa.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/16b12912e3c1cbc9e1b2e531b078dcdb3037402c",
+      "title": "SJoin: A Semantic Join Operator to Integrate Heterogeneous RDF Graphs",
+      "venue": "International Conference on Database and Expert Systems Applications",
+      "year": 2017,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2553511",
+          "name": "D. Collarana"
+        },
+        {
+          "authorId": "2265832",
+          "name": "I. Rib\u00f3n"
+        },
+        {
+          "authorId": "143858195",
+          "name": "Maria-Esther Vidal"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        }
+      ]
+    },
+    {
+      "paperId": "1a8e864093212caf1ec98c207c55cc21d4dc5775",
+      "publicationVenue": {
+        "id": "6bf48d72-eba2-4918-b9a0-153280062513",
+        "name": "International Computer Science Conference",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE International Conference on Semantic Computing",
+          "IEEE International conference semantic computing",
+          "International Conference Spatial Cognition",
+          "Resource Track - ICSC",
+          "Int Conf Semantic Comput",
+          "ICSC",
+          "Int Comput Sci Conf",
+          "IEEE Int Conf Semantic Comput",
+          "Int Conf Spat Cogn",
+          "IEEE Int conf semantic comput",
+          "International Conference on Semantic Computing"
+        ],
+        "url": "http://icsc.eecs.uci.edu/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1a8e864093212caf1ec98c207c55cc21d4dc5775",
+      "title": "Semantic Data Integration for Knowledge Graph Construction at Query Time",
+      "venue": "International Computer Science Conference",
+      "year": 2017,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2553511",
+          "name": "D. Collarana"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2265832",
+          "name": "I. Rib\u00f3n"
+        },
+        {
+          "authorId": "40466850",
+          "name": "C. Lange"
+        },
+        {
+          "authorId": "143858195",
+          "name": "Maria-Esther Vidal"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        }
+      ]
+    },
+    {
+      "paperId": "48de489771bf468cadfc01233700ed308ed16610",
+      "publicationVenue": {
+        "id": "44894487-6c43-46cf-80d2-9af1fcdd2fbf",
+        "name": "Web Intelligence, Mining and Semantics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Web Intell Min Semant",
+          "International Conference on Web Intelligence, Mining and Semantics",
+          "WIMS",
+          "Web Intell Min Semant"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=3078"
+      },
+      "url": "https://www.semanticscholar.org/paper/48de489771bf468cadfc01233700ed308ed16610",
+      "title": "MINTE: semantically integrating RDF graphs",
+      "venue": "Web Intelligence, Mining and Semantics",
+      "year": 2017,
+      "citationCount": 34,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2553511",
+          "name": "D. Collarana"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2265832",
+          "name": "I. Rib\u00f3n"
+        },
+        {
+          "authorId": "143858195",
+          "name": "Maria-Esther Vidal"
+        },
+        {
+          "authorId": "40466850",
+          "name": "C. Lange"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        }
+      ]
+    },
+    {
+      "paperId": "77e3303163b80127068eaa92d0504eba90c116f1",
+      "publicationVenue": {
+        "id": "4360f990-6268-434d-ad80-56727c789ee0",
+        "name": "International Conference on Semantic Systems",
+        "type": "conference",
+        "alternate_names": [
+          "SEMANTICS",
+          "I-SEMANTICS",
+          "Int Conf Semantic Syst"
+        ],
+        "url": "http://i-semantics.tugraz.at/"
+      },
+      "url": "https://www.semanticscholar.org/paper/77e3303163b80127068eaa92d0504eba90c116f1",
+      "title": "SMJoin: A Multi-way Join Operator for SPARQL Queries",
+      "venue": "International Conference on Semantic Systems",
+      "year": 2017,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "3319633",
+          "name": "Kemele M. Endris"
+        },
+        {
+          "authorId": "144841747",
+          "name": "Maribel Acosta"
+        },
+        {
+          "authorId": "2553511",
+          "name": "D. Collarana"
+        },
+        {
+          "authorId": "143858195",
+          "name": "Maria-Esther Vidal"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        }
+      ]
+    },
+    {
+      "paperId": "93d8736722bc321389b06f84260d5cf0f358bdde",
+      "publicationVenue": {
+        "id": "23b8d7ac-6e6f-4fe1-9f7e-dc7042815a44",
+        "name": "Symposium on Advances in Databases and Information Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Symp Adv Database Inf Syst",
+          "Advances in Databases and Information Systems",
+          "ADBIS",
+          "Adv Database Inf Syst"
+        ],
+        "url": "http://www.ipi.ac.ru/sigmod/"
+      },
+      "url": "https://www.semanticscholar.org/paper/93d8736722bc321389b06f84260d5cf0f358bdde",
+      "title": "Towards a Multi-way Similarity Join Operator",
+      "venue": "Symposium on Advances in Databases and Information Systems",
+      "year": 2017,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "143858195",
+          "name": "Maria-Esther Vidal"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        }
+      ]
+    },
+    {
+      "paperId": "94cb5503b191815ce77b19147d96c6fbd68f06bf",
+      "publicationVenue": {
+        "id": "29deb9df-6626-419d-9aaf-1d46440013e1",
+        "name": "International Conference on Database and Expert Systems Applications",
+        "type": "conference",
+        "alternate_names": [
+          "DEXA",
+          "Int Conf Database Expert Syst Appl"
+        ],
+        "url": "http://www.dexa.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/94cb5503b191815ce77b19147d96c6fbd68f06bf",
+      "title": "MULDER: Querying the Linked Data Web by Bridging RDF Molecule Templates",
+      "venue": "International Conference on Database and Expert Systems Applications",
+      "year": 2017,
+      "citationCount": 32,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3319633",
+          "name": "Kemele M. Endris"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2115114",
+          "name": "Ioanna Lytra"
+        },
+        {
+          "authorId": "3059455",
+          "name": "Mohamed Nadjib Mami"
+        },
+        {
+          "authorId": "143858195",
+          "name": "Maria-Esther Vidal"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        }
+      ]
+    },
+    {
+      "paperId": "ab92297e4d12a84d1b3ecb688e43f8cabbb8015d",
+      "publicationVenue": {
+        "id": "4a8bbf74-8b02-49b1-ad58-836790bbc79f",
+        "name": "International Conference on Enterprise Information Systems",
+        "type": "conference",
+        "alternate_names": [
+          "ICEIS",
+          "Int Conf Enterp Inf Syst"
+        ],
+        "url": "http://www.iceis.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ab92297e4d12a84d1b3ecb688e43f8cabbb8015d",
+      "title": "Enterprise Knowledge Graphs: A Semantic Approach for Knowledge Management in the Next Generation of Enterprise Information Systems",
+      "venue": "International Conference on Enterprise Information Systems",
+      "year": 2017,
+      "citationCount": 50,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        },
+        {
+          "authorId": "143858195",
+          "name": "Maria-Esther Vidal"
+        },
+        {
+          "authorId": "1705658",
+          "name": "S. Scerri"
+        }
+      ]
+    },
+    {
+      "paperId": "ad854bf4101d2033967ea7fce3f6bc228fa6f706",
+      "publicationVenue": {
+        "id": "efa3ff7a-4d96-44a1-a022-a683408919b6",
+        "name": "International Workshop on the Semantic Web",
+        "type": "conference",
+        "alternate_names": [
+          "SemWeb",
+          "Int Workshop Semantic Web"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/ad854bf4101d2033967ea7fce3f6bc228fa6f706",
+      "title": "BatWAn: A Binary and Multi-Way Query Plan Analyzer",
+      "venue": "International Workshop on the Semantic Web",
+      "year": 2017,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "143858195",
+          "name": "Maria-Esther Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "01d93d8c8543fdfebfbb7562b5194a49260d3763",
+      "publicationVenue": {
+        "id": "19621c92-0f1d-4efd-b63f-ce2cc94eff1a",
+        "name": "Joint International Conference of Semantic Technology",
+        "type": "conference",
+        "alternate_names": [
+          "JIST",
+          "Jt Int Conf Semantic Technol"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/01d93d8c8543fdfebfbb7562b5194a49260d3763",
+      "title": "Monitoring and Automating Factories Using Semantic Models",
+      "venue": "Joint International Conference of Semantic Technology",
+      "year": 2016,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39762088",
+          "name": "Niklas Petersen"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "40466850",
+          "name": "C. Lange"
+        },
+        {
+          "authorId": "1703432",
+          "name": "S. Lohmann"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        }
+      ]
+    },
+    {
+      "paperId": "54fbf52e9f93dfedc8886b5df17efd4212c29915",
+      "publicationVenue": {
+        "id": "801703f5-a310-442a-a58a-41bb05ae1f68",
+        "name": "International Conference on Wirtschaftsinformatik",
+        "type": "conference",
+        "alternate_names": [
+          "WI",
+          "Int Conf Wirtsch",
+          "Web Intell",
+          "IEEE/WIC/ACM Int Conf Web Intell",
+          "IEEE/WIC/ACM International Conference on Web Intelligence",
+          "Web Intelligence"
+        ],
+        "url": "https://aisel.aisnet.org/wi/",
+        "alternate_urls": [
+          "http://www.wikicfp.com/cfp/program?id=3061"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/54fbf52e9f93dfedc8886b5df17efd4212c29915",
+      "title": "Enterprise Knowledge Graphs: A Backbone of Linked Enterprise Data",
+      "venue": "International Conference on Wirtschaftsinformatik",
+      "year": 2016,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        },
+        {
+          "authorId": "1705658",
+          "name": "S. Scerri"
+        }
+      ]
+    },
+    {
+      "paperId": "ae4772a0b61283fda027378ca8fb0532400592a4",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ae4772a0b61283fda027378ca8fb0532400592a4",
+      "title": "FuhSen: A Federated Hybrid Search Engine for Building a Knowledge Graph On-Demand (Short Paper)",
+      "venue": "OTM Conferences",
+      "year": 2016,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Engineering",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2553511",
+          "name": "D. Collarana"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "40466850",
+          "name": "C. Lange"
+        },
+        {
+          "authorId": "1403922102",
+          "name": "Irl\u00e1n Grangel-Gonz\u00e1lez"
+        },
+        {
+          "authorId": "143858195",
+          "name": "Maria-Esther Vidal"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        }
+      ]
+    },
+    {
+      "paperId": "d704919e4dd2ae3d62ea2d0ab5b6ba3267bda588",
+      "publicationVenue": {
+        "id": "6bf48d72-eba2-4918-b9a0-153280062513",
+        "name": "International Computer Science Conference",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE International Conference on Semantic Computing",
+          "IEEE International conference semantic computing",
+          "International Conference Spatial Cognition",
+          "Resource Track - ICSC",
+          "Int Conf Semantic Comput",
+          "ICSC",
+          "Int Comput Sci Conf",
+          "IEEE Int Conf Semantic Comput",
+          "Int Conf Spat Cogn",
+          "IEEE Int conf semantic comput",
+          "International Conference on Semantic Computing"
+        ],
+        "url": "http://icsc.eecs.uci.edu/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d704919e4dd2ae3d62ea2d0ab5b6ba3267bda588",
+      "title": "Integration Strategies for Enterprise Knowledge Graphs",
+      "venue": "International Computer Science Conference",
+      "year": 2016,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        },
+        {
+          "authorId": "1804394",
+          "name": "H. Kim"
+        },
+        {
+          "authorId": "1705658",
+          "name": "S. Scerri"
+        }
+      ]
+    },
+    {
+      "paperId": "71f06615b023c9516f4228c721a625e04c8d4b2f",
+      "publicationVenue": {
+        "id": "efa3ff7a-4d96-44a1-a022-a683408919b6",
+        "name": "International Workshop on the Semantic Web",
+        "type": "conference",
+        "alternate_names": [
+          "SemWeb",
+          "Int Workshop Semantic Web"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/71f06615b023c9516f4228c721a625e04c8d4b2f",
+      "title": "LinkDaViz - Automatic Binding of Linked Data to Visualizations",
+      "venue": "International Workshop on the Semantic Web",
+      "year": 2015,
+      "citationCount": 46,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2269539",
+          "name": "Klaudia Thellmann"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "47767276",
+          "name": "F. Orlandi"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        }
+      ]
+    },
+    {
+      "paperId": "9abb72da91618180762b5cc6c203f87b3667ab63",
+      "publicationVenue": {
+        "id": "efa3ff7a-4d96-44a1-a022-a683408919b6",
+        "name": "International Workshop on the Semantic Web",
+        "type": "conference",
+        "alternate_names": [
+          "SemWeb",
+          "Int Workshop Semantic Web"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/9abb72da91618180762b5cc6c203f87b3667ab63",
+      "title": "The Simple Web-based Tool for Visualization and Sharing of Semantic Data and Ontologies",
+      "venue": "International Workshop on the Semantic Web",
+      "year": 2015,
+      "citationCount": 40,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3023925",
+          "name": "D. Mouromtsev"
+        },
+        {
+          "authorId": "2064835194",
+          "name": "Dmitry S. Pavlov"
+        },
+        {
+          "authorId": "152393829",
+          "name": "Y. Emelyanov"
+        },
+        {
+          "authorId": "152624795",
+          "name": "Alexey Morozov"
+        },
+        {
+          "authorId": "3256775",
+          "name": "Daniil Razdyakonov"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        }
+      ]
+    },
+    {
+      "paperId": "ff55af472a04e3f0a4951ce5b68175fe28113c0c",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/ff55af472a04e3f0a4951ce5b68175fe28113c0c",
+      "title": "Identifying Web Tables - Supporting a Neglected Type of Content on the Web",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "3023925",
+          "name": "D. Mouromtsev"
+        },
+        {
+          "authorId": "145044578",
+          "name": "S. Auer"
+        }
+      ]
+    },
+    {
+      "paperId": "a7a676e0d7c65f6094f758b7ba5e6280521d4dca",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a7a676e0d7c65f6094f758b7ba5e6280521d4dca",
+      "title": "Development of the St. Petersburg's linked open data site using Information Workbench",
+      "venue": "14th Conference of Open Innovation Association FRUCT",
+      "year": 2013,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3023925",
+          "name": "D. Mouromtsev"
+        },
+        {
+          "authorId": "39284976",
+          "name": "Vitaly Vlasov"
+        },
+        {
+          "authorId": "2211831",
+          "name": "Olga Parkhimovich"
+        },
+        {
+          "authorId": "2066369448",
+          "name": "Mikhail Galkin"
+        },
+        {
+          "authorId": "2073396347",
+          "name": "Vitaly Knyazev"
+        }
+      ]
+    }
+  ]
+}

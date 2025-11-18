@@ -1,0 +1,2652 @@
+{
+  "authorId": "2108620507",
+  "name": "Shijin Wang",
+  "affiliations": [],
+  "paperCount": 56,
+  "citationCount": 3265,
+  "hIndex": 21,
+  "papers": [
+    {
+      "paperId": "39c710aac73aa12260213817fc86910c2d79875a",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/39c710aac73aa12260213817fc86910c2d79875a",
+      "title": "A Facial Expression-Aware Multimodal Multi-task Learning Framework for Emotion Recognition in Multi-party Conversations",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2152934480",
+          "name": "Wenjie Zheng"
+        },
+        {
+          "authorId": "143621743",
+          "name": "Jianfei Yu"
+        },
+        {
+          "authorId": "1491639587",
+          "name": "Rui Xia"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "516368a0ff0d31d31d3628bd2a5cd7ca9dd01cd6",
+      "publicationVenue": {
+        "id": "136edf8d-0f88-4c2c-830f-461c6a9b842e",
+        "name": "Applied Sciences",
+        "type": "journal",
+        "alternate_names": [
+          "Appl Sci"
+        ],
+        "issn": "2076-3417",
+        "url": "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-217814",
+        "alternate_urls": [
+          "http://www.mathem.pub.ro/apps/",
+          "https://www.mdpi.com/journal/applsci",
+          "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:ch:bel-217814"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/516368a0ff0d31d31d3628bd2a5cd7ca9dd01cd6",
+      "title": "Improving Many-to-Many Neural Machine Translation via Selective and Aligned Online Data Augmentation",
+      "venue": "Applied Sciences",
+      "year": 2023,
+      "citationCount": 2,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2108190402",
+          "name": "Weitai Zhang"
+        },
+        {
+          "authorId": "2147422894",
+          "name": "Lirong Dai"
+        },
+        {
+          "authorId": "2108374265",
+          "name": "Junhua Liu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "587f22e4e04d77ba0750deea69192fbfb73d7435",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/587f22e4e04d77ba0750deea69192fbfb73d7435",
+      "title": "Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2107926615",
+          "name": "Beichen Zhang"
+        },
+        {
+          "authorId": "1423651904",
+          "name": "Kun Zhou"
+        },
+        {
+          "authorId": "2422218",
+          "name": "Xilin Wei"
+        },
+        {
+          "authorId": "2542603",
+          "name": "Wayne Xin Zhao"
+        },
+        {
+          "authorId": "2165225571",
+          "name": "Jing Sha"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "153693432",
+          "name": "Ji-rong Wen"
+        }
+      ]
+    },
+    {
+      "paperId": "8c3c12680f08c827b37270aeab4d132eddbe16cd",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8c3c12680f08c827b37270aeab4d132eddbe16cd",
+      "title": "Sentence Ordering with a Coherence Verifier",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2223129745",
+          "name": "Sainan Jia"
+        },
+        {
+          "authorId": "145273601",
+          "name": "Wei Song"
+        },
+        {
+          "authorId": "112863312",
+          "name": "Jiefu Gong"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "2140034750",
+          "name": "Ting Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "df5cbef1f48822eeeef67bde6791d94bdc6d9eb4",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/df5cbef1f48822eeeef67bde6791d94bdc6d9eb4",
+      "title": "MiniRBT: A Two-stage Distilled Small Chinese Pre-trained Model",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2087141501",
+          "name": "Xin Yao"
+        },
+        {
+          "authorId": "48599077",
+          "name": "Ziqing Yang"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "f9ffb7fe2c9d3d6c0edc00a9e1bd18bd3b9a579a",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/f9ffb7fe2c9d3d6c0edc00a9e1bd18bd3b9a579a",
+      "title": "CSED: A Chinese Semantic Error Diagnosis Corpus",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2148383859",
+          "name": "Bo Sun"
+        },
+        {
+          "authorId": "2118640235",
+          "name": "Baoxin Wang"
+        },
+        {
+          "authorId": "2108734952",
+          "name": "Yixuan Wang"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "2118208508",
+          "name": "Dayong Wu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "2140034149",
+          "name": "Ting Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "fae57797d357bfa3b39b220336d1a2e8deba5318",
+      "publicationVenue": {
+        "id": "a0edb93b-1e95-4128-a295-6b1659149cef",
+        "name": "Knowledge Discovery and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "KDD",
+          "Knowl Discov Data Min"
+        ],
+        "url": "http://www.acm.org/sigkdd/"
+      },
+      "url": "https://www.semanticscholar.org/paper/fae57797d357bfa3b39b220336d1a2e8deba5318",
+      "title": "JiuZhang 2.0: A Unified Chinese Pre-trained Language Model for Multi-task Mathematical Problem Solving",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2023,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2542603",
+          "name": "Wayne Xin Zhao"
+        },
+        {
+          "authorId": "1423651904",
+          "name": "Kun Zhou"
+        },
+        {
+          "authorId": "2107926615",
+          "name": "Beichen Zhang"
+        },
+        {
+          "authorId": "2164092564",
+          "name": "Zheng Gong"
+        },
+        {
+          "authorId": "2111335050",
+          "name": "Zhipeng Chen"
+        },
+        {
+          "authorId": "2116568362",
+          "name": "Yuanhang Zhou"
+        },
+        {
+          "authorId": "153693432",
+          "name": "Ji-rong Wen"
+        },
+        {
+          "authorId": "2165225571",
+          "name": "Jing Sha"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "2155398718",
+          "name": "Cong Liu"
+        },
+        {
+          "authorId": "2090465180",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "fcd876c8cf67bab257c4bdf9c164b073711c3983",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/fcd876c8cf67bab257c4bdf9c164b073711c3983",
+      "title": "IDOL: Indicator-oriented Logic Pre-training for Logical Reasoning",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2156719922",
+          "name": "Zihang Xu"
+        },
+        {
+          "authorId": "48599077",
+          "name": "Ziqing Yang"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "00552729b09cf9430c0289c9c43965b63918cdae",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/00552729b09cf9430c0289c9c43965b63918cdae",
+      "title": "LERT: A Linguistically-motivated Pre-trained Language Model",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "2140034149",
+          "name": "Ting Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "15789db234a9338e57aff9709868dcbd290727d3",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/15789db234a9338e57aff9709868dcbd290727d3",
+      "title": "Continual Pre-training of Language Models for Math Problem Understanding with Syntax-Aware Memory Network",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2164092564",
+          "name": "Zheng Gong"
+        },
+        {
+          "authorId": "1423651904",
+          "name": "Kun Zhou"
+        },
+        {
+          "authorId": "2145734178",
+          "name": "Xin Zhao"
+        },
+        {
+          "authorId": "2165225571",
+          "name": "Jing Sha"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "46298194",
+          "name": "J. Wen"
+        }
+      ]
+    },
+    {
+      "paperId": "39acaf86de56a9054ccab9af1594395e2991c9ac",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/39acaf86de56a9054ccab9af1594395e2991c9ac",
+      "title": "InterHT: Knowledge Graph Embeddings by Interaction between Head and Tail Entities",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2118640235",
+          "name": "Baoxin Wang"
+        },
+        {
+          "authorId": "2100566806",
+          "name": "Qingye Meng"
+        },
+        {
+          "authorId": "51063775",
+          "name": "Ziyue Wang"
+        },
+        {
+          "authorId": "2118208508",
+          "name": "Dayong Wu"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "1390759484",
+          "name": "Zhigang Chen"
+        },
+        {
+          "authorId": "2155398718",
+          "name": "Cong Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "41b044f8cf8ade197b182586a8cc1cb53733e31d",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/41b044f8cf8ade197b182586a8cc1cb53733e31d",
+      "title": "Gradient-based Intra-attention Pruning on Pre-trained Language Models",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48599077",
+          "name": "Ziqing Yang"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2087141501",
+          "name": "Xin Yao"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "4832eb72b07a1fd473df299057a98b0b0d84ed97",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/4832eb72b07a1fd473df299057a98b0b0d84ed97",
+      "title": "Overview of CTC 2021: Chinese Text Correction for Native Speakers",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2146229494",
+          "name": "Honghong Zhao"
+        },
+        {
+          "authorId": "2118640235",
+          "name": "Baoxin Wang"
+        },
+        {
+          "authorId": "2118208508",
+          "name": "Dayong Wu"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "2156610145",
+          "name": "Zhigang Chen"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "7460e5ffeda84abd6bfcdf7f8f5896c6cf003a6e",
+      "publicationVenue": {
+        "id": "309e00f7-4bbd-461f-ab37-a90cd14ef21d",
+        "name": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+        "alternate_names": [
+          "IEEE/ACM Trans Audio Speech Lang Process"
+        ],
+        "issn": "2329-9290",
+        "url": "https://ieeexplore.ieee.org/servlet/opac?punumber=6570655",
+        "alternate_urls": [
+          "https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing/ieeeacm"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7460e5ffeda84abd6bfcdf7f8f5896c6cf003a6e",
+      "title": "Teaching Machines to Read, Answer and Explain",
+      "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+      "year": 2022,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2140034149",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "2156610145",
+          "name": "Zhigang Chen"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "80d189e5fb45a8b66956758bf75ec2f2cd9f6317",
+      "publicationVenue": {
+        "id": "6c35576a-a87d-4dc1-a576-780572d8d0e6",
+        "name": "AI Open",
+        "type": "journal",
+        "issn": "2666-6510",
+        "url": "https://www.keaipublishing.com/en/journals/ai-open/"
+      },
+      "url": "https://www.semanticscholar.org/paper/80d189e5fb45a8b66956758bf75ec2f2cd9f6317",
+      "title": "Augmented and challenging datasets with multi-step reasoning and multi-span questions for Chinese judicial reading comprehension",
+      "venue": "AI Open",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2100566806",
+          "name": "Qingye Meng"
+        },
+        {
+          "authorId": "51063775",
+          "name": "Ziyue Wang"
+        },
+        {
+          "authorId": "2193659654",
+          "name": "Hang Chen"
+        },
+        {
+          "authorId": "2193900661",
+          "name": "Xianzhen Luo"
+        },
+        {
+          "authorId": "2118640235",
+          "name": "Baoxin Wang"
+        },
+        {
+          "authorId": "2111335050",
+          "name": "Zhipeng Chen"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2118208508",
+          "name": "Dayong Wu"
+        },
+        {
+          "authorId": "2156610145",
+          "name": "Zhigang Chen"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "81b084e7cd5071b40104ee76463264cec47c983f",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/81b084e7cd5071b40104ee76463264cec47c983f",
+      "title": "Interactive Gated Decoder for Machine Reading Comprehension",
+      "venue": "ACM Trans. Asian Low Resour. Lang. Inf. Process.",
+      "year": 2022,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "48599077",
+          "name": "Ziqing Yang"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "152277111",
+          "name": "Bing Qin"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "c1e1d172d6652ebf463dfe58fbeb7094677d7ac6",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/c1e1d172d6652ebf463dfe58fbeb7094677d7ac6",
+      "title": "Cross-Lingual Text Classification with Multilingual Distillation and Zero-Shot-Aware Training",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48599077",
+          "name": "Ziqing Yang"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2156610145",
+          "name": "Zhigang Chen"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "cd31ce657fba5dcdd74c557170bbd9ef0636cb13",
+      "publicationVenue": {
+        "id": "a0edb93b-1e95-4128-a295-6b1659149cef",
+        "name": "Knowledge Discovery and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "KDD",
+          "Knowl Discov Data Min"
+        ],
+        "url": "http://www.acm.org/sigkdd/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cd31ce657fba5dcdd74c557170bbd9ef0636cb13",
+      "title": "JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2022,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2542603",
+          "name": "Wayne Xin Zhao"
+        },
+        {
+          "authorId": "1423651904",
+          "name": "Kun Zhou"
+        },
+        {
+          "authorId": "2164092564",
+          "name": "Zheng Gong"
+        },
+        {
+          "authorId": "2107926615",
+          "name": "Beichen Zhang"
+        },
+        {
+          "authorId": "2116568362",
+          "name": "Yuanhang Zhou"
+        },
+        {
+          "authorId": "2165225571",
+          "name": "Jing Sha"
+        },
+        {
+          "authorId": "2156610145",
+          "name": "Zhigang Chen"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "2155398718",
+          "name": "Cong Liu"
+        },
+        {
+          "authorId": "153693432",
+          "name": "Ji-rong Wen"
+        }
+      ]
+    },
+    {
+      "paperId": "1bd035b551175ac8bbaf6c443de5aa668d5d91a0",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1bd035b551175ac8bbaf6c443de5aa668d5d91a0",
+      "title": "IFlyEA: A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "112863312",
+          "name": "Jiefu Gong"
+        },
+        {
+          "authorId": "2109788314",
+          "name": "Xiao Hu"
+        },
+        {
+          "authorId": "145273601",
+          "name": "Wei Song"
+        },
+        {
+          "authorId": "2884436",
+          "name": "Ruiji Fu"
+        },
+        {
+          "authorId": "2125340023",
+          "name": "Zhichao Sheng"
+        },
+        {
+          "authorId": "2087090943",
+          "name": "Bolin Zhu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "20683b20db2c2f894f1e163085e5fa1ad8994101",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/20683b20db2c2f894f1e163085e5fa1ad8994101",
+      "title": "Memory Augmented Sequential Paragraph Retrieval for Multi-hop Question Answering",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145175617",
+          "name": "Nan Shao"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "2f6b54afd3ae6500f596e2688e432e133ced66a0",
+      "publicationVenue": {
+        "id": "7fb8eddb-8838-4519-b764-4136eafd8225",
+        "name": "Heliyon",
+        "type": "journal",
+        "issn": "2405-8440",
+        "url": "https://www.journals.elsevier.com/heliyon",
+        "alternate_urls": [
+          "https://www.heliyon.com/",
+          "http://www.sciencedirect.com/science/journal/24058440",
+          "http://www.heliyon.com/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2f6b54afd3ae6500f596e2688e432e133ced66a0",
+      "title": "ExpMRC: explainability evaluation for machine reading comprehension",
+      "venue": "Heliyon",
+      "year": 2021,
+      "citationCount": 10,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "1390759484",
+          "name": "Zhigang Chen"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "3c86ca1e2eeace2247d7a34754e2cbba3b346075",
+      "publicationVenue": {
+        "id": "60a698a8-aea0-41b9-86bd-e979ded8bc8d",
+        "name": "iScience",
+        "type": "journal",
+        "issn": "2589-0042",
+        "url": "https://www.cell.com/iscience/home",
+        "alternate_urls": [
+          "http://www.cell.com/iscience/home",
+          "https://www.sciencedirect.com/journal/iscience"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3c86ca1e2eeace2247d7a34754e2cbba3b346075",
+      "title": "Multilingual multi-aspect explainability analyses on machine reading comprehension models",
+      "venue": "iScience",
+      "year": 2021,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "1806419",
+          "name": "Weinan Zhang"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "2140034831",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2156610145",
+          "name": "Zhigang Chen"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "9a1495afbba953a0685ee20ace659bfeefc59349",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9a1495afbba953a0685ee20ace659bfeefc59349",
+      "title": "Adversarial Training for Machine Reading Comprehension with Virtual Embeddings",
+      "venue": "STARSEM",
+      "year": 2021,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Ziqing Yang"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "152358188",
+          "name": "Chenglei Si"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "aec8c31d3b8cf37b106fb52d07b74fe8bb23c863",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/aec8c31d3b8cf37b106fb52d07b74fe8bb23c863",
+      "title": "Dynamic Connected Networks for Chinese Spelling Check",
+      "venue": "Findings",
+      "year": 2021,
+      "citationCount": 53,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2118640235",
+          "name": "Baoxin Wang"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "2118208508",
+          "name": "Dayong Wu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "be2744722f63af5464d254d18f29ebc1d6faa8f2",
+      "publicationVenue": {
+        "id": "92e0412e-73f0-49fb-a6ec-e3b9002cbe67",
+        "name": "Workshop on Machine Reading for Question Answering",
+        "type": "conference",
+        "alternate_names": [
+          "MRQA",
+          "Workshop Mach Read Quest Answering"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/be2744722f63af5464d254d18f29ebc1d6faa8f2",
+      "title": "Bilingual Alignment Pre-Training for Zero-Shot Cross-Lingual Transfer",
+      "venue": "Workshop on Machine Reading for Question Answering",
+      "year": 2021,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Ziqing Yang"
+        },
+        {
+          "authorId": "2111665156",
+          "name": "Wentao Ma"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "94722754",
+          "name": "Jiani Ye"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "c7eea7ab2a5b07ebd8e23e2bb1e994d643e050a7",
+      "publicationVenue": {
+        "id": "7a89a312-7bd7-40cd-971e-a6f2558cdd66",
+        "name": "China Conference on Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "CCIR",
+          "China Conf Inf Retr"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c7eea7ab2a5b07ebd8e23e2bb1e994d643e050a7",
+      "title": "Various Legal Factors Extraction Based on Machine Reading Comprehension",
+      "venue": "China Conference on Information Retrieval",
+      "year": 2021,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2115280387",
+          "name": "Beichen Wang"
+        },
+        {
+          "authorId": "51063775",
+          "name": "Ziyue Wang"
+        },
+        {
+          "authorId": "2118640235",
+          "name": "Baoxin Wang"
+        },
+        {
+          "authorId": "2118208508",
+          "name": "Dayong Wu"
+        },
+        {
+          "authorId": "2121283294",
+          "name": "Zhigang Chen"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "0388cec56cd60a74725496617a06749d0bb4c303",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/0388cec56cd60a74725496617a06749d0bb4c303",
+      "title": "Unsupervised Explanation Generation for Machine Reading Comprehension",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "13bf2b054a5bc76d902abfdd71ee0ee69ce1d5ff",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/13bf2b054a5bc76d902abfdd71ee0ee69ce1d5ff",
+      "title": "Is Graph Structure Necessary for Multi-hop Question Answering?",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 34,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145175617",
+          "name": "Nan Shao"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "17aa716dae728e994a2539bf4952c05ad513bd7a",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/17aa716dae728e994a2539bf4952c05ad513bd7a",
+      "title": "CharBERT: Character-aware Pre-trained Language Model",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2020,
+      "citationCount": 101,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145910725",
+          "name": "Wentao Ma"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "152358188",
+          "name": "Chenglei Si"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "2081ac22151c1075fcc6533f0935c29d486bfa6f",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/2081ac22151c1075fcc6533f0935c29d486bfa6f",
+      "title": "A Sentence Cloze Dataset for Chinese Machine Reading Comprehension",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2020,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "48599077",
+          "name": "Ziqing Yang"
+        },
+        {
+          "authorId": "2111335050",
+          "name": "Zhipeng Chen"
+        },
+        {
+          "authorId": "2111665156",
+          "name": "Wentao Ma"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "2f1c87cae5aa0c2fd832cd164f99606068a18cf1",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2f1c87cae5aa0c2fd832cd164f99606068a18cf1",
+      "title": "Syntactic Approaches to Tertiary Total Beginner Students of Chinese",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "123523089",
+          "name": "Lp Du"
+        }
+      ]
+    },
+    {
+      "paperId": "501a8b86428563539667e8117cd8409674ef97c3",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/501a8b86428563539667e8117cd8409674ef97c3",
+      "title": "TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 46,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48599077",
+          "name": "Ziqing Yang"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2111335050",
+          "name": "Zhipeng Chen"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "8f0e74dfc845318b84fe8a8166db0957c6e2c24e",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/8f0e74dfc845318b84fe8a8166db0957c6e2c24e",
+      "title": "Is Graph Structure Necessary for Multi-hop Reasoning?",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145175617",
+          "name": "Nan Shao"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "941481fbf02654d90751d8fa1eff1d1b4ca079e8",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/941481fbf02654d90751d8fa1eff1d1b4ca079e8",
+      "title": "Conversational Word Embedding for Retrieval-Based Dialog System",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2020,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145910725",
+          "name": "Wentao Ma"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2152689328",
+          "name": "Dong Wang"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "9da6e38f5124b3bb55839e0ad42e1ddcc50f840b",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9da6e38f5124b3bb55839e0ad42e1ddcc50f840b",
+      "title": "Benchmarking Robustness of Machine Reading Comprehension Models",
+      "venue": "Findings",
+      "year": 2020,
+      "citationCount": 42,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "152358188",
+          "name": "Chenglei Si"
+        },
+        {
+          "authorId": "48599077",
+          "name": "Ziqing Yang"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "145910725",
+          "name": "Wentao Ma"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "d16ab5c19ed33a263b6412ac41a4ea1f068d254a",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d16ab5c19ed33a263b6412ac41a4ea1f068d254a",
+      "title": "Revisiting Pre-Trained Models for Chinese Natural Language Processing",
+      "venue": "Findings",
+      "year": 2020,
+      "citationCount": 663,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "152277111",
+          "name": "Bing Qin"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "e8fe671e2e04c1b45a5dddc51c1e60768a66b628",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e8fe671e2e04c1b45a5dddc51c1e60768a66b628",
+      "title": "Combining ResNet and Transformer for Chinese Grammatical Error Diagnosis",
+      "venue": "NLPTEA",
+      "year": 2020,
+      "citationCount": 12,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "38258535",
+          "name": "Shaolei Wang"
+        },
+        {
+          "authorId": "2118640235",
+          "name": "Baoxin Wang"
+        },
+        {
+          "authorId": "112863312",
+          "name": "Jiefu Gong"
+        },
+        {
+          "authorId": "2135394423",
+          "name": "Zhongyuan Wang"
+        },
+        {
+          "authorId": "2109788314",
+          "name": "Xiao Hu"
+        },
+        {
+          "authorId": "41032372",
+          "name": "Xingyi Duan"
+        },
+        {
+          "authorId": "1384523040",
+          "name": "Zizhuo Shen"
+        },
+        {
+          "authorId": "2211429932",
+          "name": "Gang Yue"
+        },
+        {
+          "authorId": "2884436",
+          "name": "Ruiji Fu"
+        },
+        {
+          "authorId": "2118208508",
+          "name": "Dayong Wu"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "2dc405c9c9985a363bc2b6a8a4a4f0e3711a0bf5",
+      "publicationVenue": {
+        "id": "0242a0a8-eac8-4d42-a284-4789a579aa9b",
+        "name": "China National Conference on Chinese Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "CCL",
+          "Constraint Comput Log",
+          "China National Conf Chin Comput Linguistics",
+          "Constraints in Computational Logics"
+        ],
+        "issn": "0319-0080",
+        "url": "http://ccl.uwinnipeg.ca/",
+        "alternate_urls": [
+          "http://ps-www.dfki.uni-sb.de/ccl/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2dc405c9c9985a363bc2b6a8a4a4f0e3711a0bf5",
+      "title": "CJRC: A Reliable Human-Annotated Benchmark DataSet for Chinese Judicial Reading Comprehension",
+      "venue": "China National Conference on Chinese Computational Linguistics",
+      "year": 2019,
+      "citationCount": 61,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "41032372",
+          "name": "Xingyi Duan"
+        },
+        {
+          "authorId": "2118640235",
+          "name": "Baoxin Wang"
+        },
+        {
+          "authorId": "51063775",
+          "name": "Ziyue Wang"
+        },
+        {
+          "authorId": "2111665156",
+          "name": "Wentao Ma"
+        },
+        {
+          "authorId": "2115350020",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2118208508",
+          "name": "Dayong Wu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "31084796",
+          "name": "Tianxiang Huo"
+        },
+        {
+          "authorId": "2111375426",
+          "name": "Zhen Hu"
+        },
+        {
+          "authorId": "2149696982",
+          "name": "Heng Wang"
+        },
+        {
+          "authorId": "49293587",
+          "name": "Zhiyuan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "2ff41a463a374b138bb5a012e5a32bc4beefec20",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/2ff41a463a374b138bb5a012e5a32bc4beefec20",
+      "title": "Pre-Training with Whole Word Masking for Chinese BERT",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 1023,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "152277111",
+          "name": "Bing Qin"
+        },
+        {
+          "authorId": "48599077",
+          "name": "Ziqing Yang"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "34ce3a5ee0ce9d8a292f09211423bb9b5df4f3ef",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/34ce3a5ee0ce9d8a292f09211423bb9b5df4f3ef",
+      "title": "Contextual Recurrent Units for Cloze-style Reading Comprehension",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "1806419",
+          "name": "Weinan Zhang"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2111335050",
+          "name": "Zhipeng Chen"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "41dab87125b123e4eda1f4f981d914f17d67529b",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/41dab87125b123e4eda1f4f981d914f17d67529b",
+      "title": "Discriminative Sentence Modeling for Story Ending Prediction",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2019,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "1806419",
+          "name": "Weinan Zhang"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "4a153589a0300a02c5bfcf6bdd3aea0cac384e95",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/4a153589a0300a02c5bfcf6bdd3aea0cac384e95",
+      "title": "IFlyLegal: A Chinese Legal System for Consultation, Law Searching, and Document Analysis",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51063775",
+          "name": "Ziyue Wang"
+        },
+        {
+          "authorId": "2118640235",
+          "name": "Baoxin Wang"
+        },
+        {
+          "authorId": "41032372",
+          "name": "Xingyi Duan"
+        },
+        {
+          "authorId": "2118208508",
+          "name": "Dayong Wu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "4ae2960d3c6ac489b3b072666fb0b91d0480a170",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4ae2960d3c6ac489b3b072666fb0b91d0480a170",
+      "title": "A Span-Extraction Dataset for Chinese Machine Reading Comprehension",
+      "venue": "EMNLP-IJCNLP",
+      "year": 2019,
+      "citationCount": 178,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2149552482",
+          "name": "Li Xiao"
+        },
+        {
+          "authorId": "2111335050",
+          "name": "Zhipeng Chen"
+        },
+        {
+          "authorId": "145910725",
+          "name": "Wentao Ma"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "5087869b407f7bf96327e8145bf05c275207bd36",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/5087869b407f7bf96327e8145bf05c275207bd36",
+      "title": "Improving Machine Reading Comprehension via Adversarial Training",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48599077",
+          "name": "Ziqing Yang"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "8d257e975b390b0507008bc2efc846be2e4c64f9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8d257e975b390b0507008bc2efc846be2e4c64f9",
+      "title": "A Neural Semantic Parser for Math Problems Incorporating Multi-Sentence Information",
+      "venue": "ACM Trans. Asian Low Resour. Lang. Inf. Process.",
+      "year": 2019,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2068172552",
+          "name": "Ruiyong Sun"
+        },
+        {
+          "authorId": "2024798103",
+          "name": "Yijia Zhao"
+        },
+        {
+          "authorId": "49346854",
+          "name": "Qi Zhang"
+        },
+        {
+          "authorId": "40831417",
+          "name": "Keyu Ding"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "2111316872",
+          "name": "Cui Wei"
+        }
+      ]
+    },
+    {
+      "paperId": "eabc6c3114dee97696e9e1a4c7ac497ed3e8e1dc",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/eabc6c3114dee97696e9e1a4c7ac497ed3e8e1dc",
+      "title": "Cross-Lingual Machine Reading Comprehension",
+      "venue": "EMNLP-IJCNLP",
+      "year": 2019,
+      "citationCount": 47,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "152277111",
+          "name": "Bing Qin"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "fa1cad2237c2a4414d7d01a270c3768a057370d0",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/fa1cad2237c2a4414d7d01a270c3768a057370d0",
+      "title": "TripleNet: Triple Attention Network for Multi-Turn Response Selection in Retrieval-Based Chatbots",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2019,
+      "citationCount": 20,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145910725",
+          "name": "Wentao Ma"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "145175617",
+          "name": "Nan Shao"
+        },
+        {
+          "authorId": "2112345574",
+          "name": "Su He"
+        },
+        {
+          "authorId": "1806419",
+          "name": "Weinan Zhang"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "5d469c463c6f8aae46dcaf71b6254079566757b7",
+      "publicationVenue": {
+        "id": "bdc2e585-4e48-4e36-8af1-6d859763d405",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "National Conference on Artificial Intelligence",
+          "National Conf Artif Intell",
+          "AAAI Conf Artif Intell",
+          "AAAI"
+        ],
+        "url": "http://www.aaai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5d469c463c6f8aae46dcaf71b6254079566757b7",
+      "title": "Convolutional Spatial Attention Model for Reading Comprehension with Multiple-Choice Questions",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2018,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46842323",
+          "name": "Z. Chen"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "145910725",
+          "name": "Wentao Ma"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "8ce1512e77fa6a646513a60d78e0081afe870c07",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/8ce1512e77fa6a646513a60d78e0081afe870c07",
+      "title": "Dataset for the First Evaluation on Chinese Machine Reading Comprehension",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2018,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "46842323",
+          "name": "Z. Chen"
+        },
+        {
+          "authorId": "145910725",
+          "name": "Wentao Ma"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "a867dfe5997e7134b7c619bcb9a0e359cc80a3f5",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/a867dfe5997e7134b7c619bcb9a0e359cc80a3f5",
+      "title": "HFL-RC System at SemEval-2018 Task 11: Hybrid Multi-Aspects Model for Commonsense Reading Comprehension",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46842323",
+          "name": "Z. Chen"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "145910725",
+          "name": "Wentao Ma"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "d2212d091d17494d26147e13850db3e5164af103",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d2212d091d17494d26147e13850db3e5164af103",
+      "title": "Chinese Grammatical Error Diagnosis using Statistical and Prior Knowledge driven Features with Probabilistic Ensemble Enhancement",
+      "venue": "NLP-TEA@ACL",
+      "year": 2018,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2884436",
+          "name": "Ruiji Fu"
+        },
+        {
+          "authorId": "116406922",
+          "name": "Zhengqi Pei"
+        },
+        {
+          "authorId": "112863312",
+          "name": "Jiefu Gong"
+        },
+        {
+          "authorId": "145273601",
+          "name": "Wei Song"
+        },
+        {
+          "authorId": "22382513",
+          "name": "Dechuan Teng"
+        },
+        {
+          "authorId": "2256319",
+          "name": "Wanxiang Che"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "c6e5df6322659276da6133f9b734a389d7a255e8",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c6e5df6322659276da6133f9b734a389d7a255e8",
+      "title": "Attention-over-Attention Neural Networks for Reading Comprehension",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 436,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "46842323",
+          "name": "Z. Chen"
+        },
+        {
+          "authorId": "144572674",
+          "name": "Si Wei"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "d6865d056a5a0882c4fcfa36b3da728da6ad0fc0",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d6865d056a5a0882c4fcfa36b3da728da6ad0fc0",
+      "title": "Generating and Exploiting Large-scale Pseudo Training Data for Zero Pronoun Resolution",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 48,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "3393799",
+          "name": "Qingyu Yin"
+        },
+        {
+          "authorId": "1806419",
+          "name": "Weinan Zhang"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "f92272e33b11a0d2f47b5b65446c0f1a913cfd17",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f92272e33b11a0d2f47b5b65446c0f1a913cfd17",
+      "title": "Consensus Attention-based Neural Networks for Chinese Reading Comprehension",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2016,
+      "citationCount": 87,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "40282288",
+          "name": "Ting Liu"
+        },
+        {
+          "authorId": "46842323",
+          "name": "Z. Chen"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "40936264",
+          "name": "Guoping Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "7f0232b9ffbc637cdddaed2520098cddc066e5d6",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/7f0232b9ffbc637cdddaed2520098cddc066e5d6",
+      "title": "LSTM Neural Reordering Feature for Statistical Machine Translation",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2015,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "2146361314",
+          "name": "Jianfeng Li"
+        }
+      ]
+    },
+    {
+      "paperId": "3441e77f1a8e427590a18952246a15d958520ae1",
+      "publicationVenue": {
+        "id": "5020dc0a-7e2f-43e6-9543-389c0c6d864d",
+        "name": "International Workshop on Spoken Language Translation",
+        "type": "conference",
+        "alternate_names": [
+          "IWSLT",
+          "Int Workshop Spok Lang Transl"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3441e77f1a8e427590a18952246a15d958520ae1",
+      "title": "The USTC machine translation system for IWSLT 2014",
+      "venue": "International Workshop on Spoken Language Translation",
+      "year": 2014,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108620507",
+          "name": "Shijin Wang"
+        },
+        {
+          "authorId": "2115752906",
+          "name": "Yuguang Wang"
+        },
+        {
+          "authorId": "2146361314",
+          "name": "Jianfeng Li"
+        },
+        {
+          "authorId": "3043830",
+          "name": "Yiming Cui"
+        },
+        {
+          "authorId": "1860774",
+          "name": "Lirong Dai"
+        }
+      ]
+    }
+  ]
+}

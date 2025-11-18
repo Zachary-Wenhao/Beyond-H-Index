@@ -1,0 +1,898 @@
+{
+  "authorId": "145104486",
+  "name": "Daniel King",
+  "affiliations": [
+    "Databricks",
+    "MosaicML",
+    "Allen Institute for AI"
+  ],
+  "paperCount": 13,
+  "citationCount": 1050,
+  "hIndex": 9,
+  "papers": [
+    {
+      "paperId": "be12e6806e9190c3954cb34af7a6923b65cfedba",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/be12e6806e9190c3954cb34af7a6923b65cfedba",
+      "title": "LoRA Learns Less and Forgets Less",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "citationCount": 100,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50733319",
+          "name": "D. Biderman"
+        },
+        {
+          "authorId": "2301456782",
+          "name": "Jose Gonzalez Ortiz"
+        },
+        {
+          "authorId": "2267728082",
+          "name": "Jacob Portes"
+        },
+        {
+          "authorId": "1690452",
+          "name": "Mansheej Paul"
+        },
+        {
+          "authorId": "2301455107",
+          "name": "Philip Greengard"
+        },
+        {
+          "authorId": "2301455604",
+          "name": "Connor Jennings"
+        },
+        {
+          "authorId": "145104486",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "2267726736",
+          "name": "Sam Havens"
+        },
+        {
+          "authorId": "120486138",
+          "name": "Vitaliy Chiley"
+        },
+        {
+          "authorId": "2277215716",
+          "name": "Jonathan Frankle"
+        },
+        {
+          "authorId": "73066558",
+          "name": "Cody Blakeney"
+        },
+        {
+          "authorId": "2301457521",
+          "name": "John P. Cunningham"
+        }
+      ]
+    },
+    {
+      "paperId": "a4715887bd5a4c328ebf1d6ebb18ab94e71ee8d8",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a4715887bd5a4c328ebf1d6ebb18ab94e71ee8d8",
+      "title": "MosaicBERT: A Bidirectional Encoder Optimized for Fast Pretraining",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2267728082",
+          "name": "Jacob Portes"
+        },
+        {
+          "authorId": "2267726546",
+          "name": "Alex Trott"
+        },
+        {
+          "authorId": "2267726736",
+          "name": "Sam Havens"
+        },
+        {
+          "authorId": "145104486",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "1594028118",
+          "name": "Abhinav Venigalla"
+        },
+        {
+          "authorId": "50411022",
+          "name": "Moin Nadeem"
+        },
+        {
+          "authorId": "2277217297",
+          "name": "Nikhil Sardana"
+        },
+        {
+          "authorId": "1724652",
+          "name": "D. Khudia"
+        },
+        {
+          "authorId": "2277215716",
+          "name": "Jonathan Frankle"
+        }
+      ]
+    },
+    {
+      "paperId": "cb92a7f9d9dbcf9145e32fdfa0e70e2a6b828eb1",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/cb92a7f9d9dbcf9145e32fdfa0e70e2a6b828eb1",
+      "title": "The Semantic Scholar Open Data Platform",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "citationCount": 87,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143967880",
+          "name": "Rodney Michael Kinney"
+        },
+        {
+          "authorId": "1667818755",
+          "name": "Chloe Anastasiades"
+        },
+        {
+          "authorId": "2202417686",
+          "name": "Russell Authur"
+        },
+        {
+          "authorId": "46181066",
+          "name": "Iz Beltagy"
+        },
+        {
+          "authorId": "2699105",
+          "name": "Jonathan Bragg"
+        },
+        {
+          "authorId": "2202412440",
+          "name": "Alexandra Buraczynski"
+        },
+        {
+          "authorId": "51199773",
+          "name": "Isabel Cachola"
+        },
+        {
+          "authorId": "2202412446",
+          "name": "Stefan Candra"
+        },
+        {
+          "authorId": "1648642525",
+          "name": "Yoganand Chandrasekhar"
+        },
+        {
+          "authorId": "2527954",
+          "name": "Arman Cohan"
+        },
+        {
+          "authorId": "46230609",
+          "name": "Miles Crawford"
+        },
+        {
+          "authorId": "145612610",
+          "name": "Doug Downey"
+        },
+        {
+          "authorId": "38092776",
+          "name": "Jason Dunkelberger"
+        },
+        {
+          "authorId": "1741101",
+          "name": "Oren Etzioni"
+        },
+        {
+          "authorId": "79519990",
+          "name": "Rob Evans"
+        },
+        {
+          "authorId": "46411828",
+          "name": "Sergey Feldman"
+        },
+        {
+          "authorId": "2202417961",
+          "name": "Joseph Gorney"
+        },
+        {
+          "authorId": "2052859168",
+          "name": "D. Graham"
+        },
+        {
+          "authorId": "2200023814",
+          "name": "F.Q. Hu"
+        },
+        {
+          "authorId": "153179615",
+          "name": "Regan Huff"
+        },
+        {
+          "authorId": "145104486",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "41018147",
+          "name": "Sebastian Kohlmeier"
+        },
+        {
+          "authorId": "2003338023",
+          "name": "Bailey Kuehl"
+        },
+        {
+          "authorId": "48758753",
+          "name": "Michael Langan"
+        },
+        {
+          "authorId": "2116442078",
+          "name": "Daniel Lin"
+        },
+        {
+          "authorId": "2143857321",
+          "name": "Haokun Liu"
+        },
+        {
+          "authorId": "46258841",
+          "name": "Kyle Lo"
+        },
+        {
+          "authorId": "3047023",
+          "name": "Jaron Lochner"
+        },
+        {
+          "authorId": "2071601396",
+          "name": "Kelsey MacMillan"
+        },
+        {
+          "authorId": "144240185",
+          "name": "Tyler C. Murray"
+        },
+        {
+          "authorId": "145541350",
+          "name": "Christopher Newell"
+        },
+        {
+          "authorId": "2115660042",
+          "name": "Smita R Rao"
+        },
+        {
+          "authorId": "40408676",
+          "name": "Shaurya Rohatgi"
+        },
+        {
+          "authorId": "114609552",
+          "name": "Paul Sayre"
+        },
+        {
+          "authorId": "101568984",
+          "name": "Zejiang Shen"
+        },
+        {
+          "authorId": "2116287642",
+          "name": "Amanpreet Singh"
+        },
+        {
+          "authorId": "3328733",
+          "name": "Luca Soldaini"
+        },
+        {
+          "authorId": "48813613",
+          "name": "Shivashankar Subramanian"
+        },
+        {
+          "authorId": "2125122431",
+          "name": "A. Tanaka"
+        },
+        {
+          "authorId": "1860983",
+          "name": "Alex D Wade"
+        },
+        {
+          "authorId": "82676859",
+          "name": "Linda M. Wagner"
+        },
+        {
+          "authorId": "31860505",
+          "name": "Lucy Lu Wang"
+        },
+        {
+          "authorId": "46212260",
+          "name": "Christopher Wilhelm"
+        },
+        {
+          "authorId": "2109360564",
+          "name": "Caroline Wu"
+        },
+        {
+          "authorId": "82148460",
+          "name": "Jiangjiang Yang"
+        },
+        {
+          "authorId": "98442688",
+          "name": "Angele Zamarron"
+        },
+        {
+          "authorId": "15292561",
+          "name": "Madeleine van Zuylen"
+        },
+        {
+          "authorId": "1780531",
+          "name": "Daniel S. Weld"
+        }
+      ]
+    },
+    {
+      "paperId": "449e58a29a3971d4d54d9bb28df3b31c60d20483",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/449e58a29a3971d4d54d9bb28df3b31c60d20483",
+      "title": "ACCoRD: A Multi-Document Approach to Generating Diverse Descriptions of Scientific Concepts",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2092829026",
+          "name": "Sonia K. Murthy"
+        },
+        {
+          "authorId": "46258841",
+          "name": "Kyle Lo"
+        },
+        {
+          "authorId": "145104486",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "1857797",
+          "name": "Chandra Bhagavatula"
+        },
+        {
+          "authorId": "2003338023",
+          "name": "Bailey Kuehl"
+        },
+        {
+          "authorId": "1406046265",
+          "name": "Sophie Johnson"
+        },
+        {
+          "authorId": "32196774",
+          "name": "Jon Borchardt"
+        },
+        {
+          "authorId": "1780531",
+          "name": "Daniel S. Weld"
+        },
+        {
+          "authorId": "2041698667",
+          "name": "Tom Hope"
+        },
+        {
+          "authorId": "145612610",
+          "name": "Doug Downey"
+        }
+      ]
+    },
+    {
+      "paperId": "6d8b9829512f66a1fb92326dc4f6e2b314363625",
+      "publicationVenue": {
+        "id": "1da7d7d7-0481-489f-b27d-98cce1ebdf43",
+        "name": "ACM/IEEE Joint Conference on Digital Libraries",
+        "type": "conference",
+        "alternate_names": [
+          "ACM/IEEE Jt Conf Digit Libr",
+          "JCDL"
+        ],
+        "url": "http://www.jcdl.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6d8b9829512f66a1fb92326dc4f6e2b314363625",
+      "title": "S2AMP: A High-Coverage Dataset of Scholarly Mentorship Inferred from Publications",
+      "venue": "ACM/IEEE Joint Conference on Digital Libraries",
+      "year": 2022,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40408676",
+          "name": "Shaurya Rohatgi"
+        },
+        {
+          "authorId": "145612610",
+          "name": "Doug Downey"
+        },
+        {
+          "authorId": "145104486",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "46411828",
+          "name": "Sergey Feldman"
+        }
+      ]
+    },
+    {
+      "paperId": "879080effb3846368de4ae22570f85329e77e96f",
+      "publicationVenue": {
+        "id": "b1dc244e-c5b3-447d-b200-a46d55e8d8ee",
+        "name": "IEEE Games Entertainment Media Conference",
+        "type": "conference",
+        "alternate_names": [
+          "IEEE Game Entertain Media Conf",
+          "GEM",
+          "Int Conf Genet Evol Method",
+          "International Conference on Genetic and Evolutionary Methods"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/879080effb3846368de4ae22570f85329e77e96f",
+      "title": "Don\u2019t Say What You Don\u2019t Know: Improving the Consistency of Abstractive Summarization by Constraining Beam Search",
+      "venue": "IEEE Games Entertainment Media Conference",
+      "year": 2022,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145104486",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "101568984",
+          "name": "Zejiang Shen"
+        },
+        {
+          "authorId": "34202134",
+          "name": "Nishant Subramani"
+        },
+        {
+          "authorId": "1780531",
+          "name": "Daniel S. Weld"
+        },
+        {
+          "authorId": "46181066",
+          "name": "Iz Beltagy"
+        },
+        {
+          "authorId": "145612610",
+          "name": "Doug Downey"
+        }
+      ]
+    },
+    {
+      "paperId": "d49cf805bcef60f206bca60d7315f6e52217b44f",
+      "publicationVenue": {
+        "id": "6fedff74-7525-4b7f-bbb4-4df4e23948e4",
+        "name": "The AI Magazine",
+        "type": "journal",
+        "alternate_names": [
+          "AI Mag",
+          "Ai Mag",
+          "Ai Magazine"
+        ],
+        "issn": "0738-4602",
+        "url": "https://www.aaai.org/Library/Magazine/magazine-library.php",
+        "alternate_urls": [
+          "https://www.aaai.org/ojs/index.php/aimagazine/",
+          "https://www.aaai.org/Magazine/magazine.php"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/d49cf805bcef60f206bca60d7315f6e52217b44f",
+      "title": "Infrastructure for Rapid Open Knowledge Network Development",
+      "venue": "The AI Magazine",
+      "year": 2022,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1725561",
+          "name": "Michael J. Cafarella"
+        },
+        {
+          "authorId": "47393354",
+          "name": "Michael R. Anderson"
+        },
+        {
+          "authorId": "46181066",
+          "name": "Iz Beltagy"
+        },
+        {
+          "authorId": "1962331387",
+          "name": "Arie Cattan"
+        },
+        {
+          "authorId": "2002359",
+          "name": "Sarah E. Chasins"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        },
+        {
+          "authorId": "145612610",
+          "name": "Doug Downey"
+        },
+        {
+          "authorId": "1741101",
+          "name": "Oren Etzioni"
+        },
+        {
+          "authorId": "46411828",
+          "name": "Sergey Feldman"
+        },
+        {
+          "authorId": "2162713295",
+          "name": "Tian Gao"
+        },
+        {
+          "authorId": "2041698667",
+          "name": "Tom Hope"
+        },
+        {
+          "authorId": "2112441120",
+          "name": "Kexin Huang"
+        },
+        {
+          "authorId": "1406046265",
+          "name": "Sophie Johnson"
+        },
+        {
+          "authorId": "145104486",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "46258841",
+          "name": "Kyle Lo"
+        },
+        {
+          "authorId": "143904011",
+          "name": "Yuze Lou"
+        },
+        {
+          "authorId": "2162710035",
+          "name": "Matthew Shapiro"
+        },
+        {
+          "authorId": "2162680951",
+          "name": "Dinghao Shen"
+        },
+        {
+          "authorId": "48813613",
+          "name": "Shivashankar Subramanian"
+        },
+        {
+          "authorId": "31860505",
+          "name": "Lucy Lu Wang"
+        },
+        {
+          "authorId": "2107925083",
+          "name": "Yuning Wang"
+        },
+        {
+          "authorId": "2165313960",
+          "name": "Yitong Wang"
+        },
+        {
+          "authorId": "1780531",
+          "name": "Daniel S. Weld"
+        },
+        {
+          "authorId": "1486207884",
+          "name": "Jenny M. Vo-Phamhi"
+        },
+        {
+          "authorId": "2162674366",
+          "name": "Anna Zeng"
+        },
+        {
+          "authorId": "47114531",
+          "name": "Jiayun Zou"
+        }
+      ]
+    },
+    {
+      "paperId": "4bb09aa0e00d104c6057d71f24ab876320286edb",
+      "publicationVenue": {
+        "id": "1da7d7d7-0481-489f-b27d-98cce1ebdf43",
+        "name": "ACM/IEEE Joint Conference on Digital Libraries",
+        "type": "conference",
+        "alternate_names": [
+          "ACM/IEEE Jt Conf Digit Libr",
+          "JCDL"
+        ],
+        "url": "http://www.jcdl.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4bb09aa0e00d104c6057d71f24ab876320286edb",
+      "title": "S2AND: A Benchmark and Evaluation System for Author Name Disambiguation",
+      "venue": "ACM/IEEE Joint Conference on Digital Libraries",
+      "year": 2021,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "48813613",
+          "name": "Shivashankar Subramanian"
+        },
+        {
+          "authorId": "145104486",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "145612610",
+          "name": "Doug Downey"
+        },
+        {
+          "authorId": "46411828",
+          "name": "Sergey Feldman"
+        }
+      ]
+    },
+    {
+      "paperId": "a2929c0a0a01c9adb20014135483bff26e19e921",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a2929c0a0a01c9adb20014135483bff26e19e921",
+      "title": "Towards Personalized Descriptions of Scienti\ufb01c Concepts",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 5,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2092829026",
+          "name": "Sonia K. Murthy"
+        },
+        {
+          "authorId": "145104486",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "2041698667",
+          "name": "Tom Hope"
+        },
+        {
+          "authorId": "1780531",
+          "name": "Daniel S. Weld"
+        },
+        {
+          "authorId": "145612610",
+          "name": "Doug Downey"
+        }
+      ]
+    },
+    {
+      "paperId": "3e6bd28ff0baddbfbe2ed8a0ff7b3ac8897fa668",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3e6bd28ff0baddbfbe2ed8a0ff7b3ac8897fa668",
+      "title": "Rich Search and Discovery for Research Datasets: Building the Next Generation of Scholarly Infrastructure",
+      "venue": "",
+      "year": 2020,
+      "citationCount": 5,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "70177326",
+          "name": "B. Edited"
+        },
+        {
+          "authorId": "50187348",
+          "name": "J. Lane"
+        },
+        {
+          "authorId": "2106117912",
+          "name": "\u2022. I. Mulvany"
+        },
+        {
+          "authorId": "2099921172",
+          "name": "\u2022. P. Nathan"
+        },
+        {
+          "authorId": "144199866",
+          "name": "Christine Betts"
+        },
+        {
+          "authorId": "40895369",
+          "name": "Suchin Gururangan"
+        },
+        {
+          "authorId": "145104486",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "2070901194",
+          "name": "Wolfgang Otto"
+        },
+        {
+          "authorId": "2062901750",
+          "name": "Andrea Zielinski"
+        },
+        {
+          "authorId": "3367351",
+          "name": "Behnam Ghavimi"
+        },
+        {
+          "authorId": "2057210542",
+          "name": "D. Dimitrov"
+        },
+        {
+          "authorId": "2181528",
+          "name": "Narges Tavakolpoursaleh"
+        },
+        {
+          "authorId": "2497572",
+          "name": "Karam Abdulahhad"
+        },
+        {
+          "authorId": "2143348",
+          "name": "K. Boland"
+        },
+        {
+          "authorId": "1860983",
+          "name": "Alex D Wade"
+        }
+      ]
+    },
+    {
+      "paperId": "82af9bb84594d4fce17a5fb88888f8bdade0cd58",
+      "publicationVenue": {
+        "id": "8dce23a9-44e0-4381-a39e-2acc1edff700",
+        "name": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+          "Int ACM SIGIR Conf Res Dev Inf Retr",
+          "SIGIR",
+          "Annu Int ACM SIGIR Conf Res Dev Inf Retr"
+        ],
+        "url": "http://www.acm.org/sigir/"
+      },
+      "url": "https://www.semanticscholar.org/paper/82af9bb84594d4fce17a5fb88888f8bdade0cd58",
+      "title": "High-Precision Extraction of Emerging Concepts from Scientific Literature",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2020,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145104486",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "145612610",
+          "name": "Doug Downey"
+        },
+        {
+          "authorId": "1780531",
+          "name": "Daniel S. Weld"
+        }
+      ]
+    },
+    {
+      "paperId": "a550ad9d7f47b65f7788287a23717a4f7c5b75c7",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/a550ad9d7f47b65f7788287a23717a4f7c5b75c7",
+      "title": "Pretrained Language Models for Sequential Sentence Classification",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 126,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2527954",
+          "name": "Arman Cohan"
+        },
+        {
+          "authorId": "46181066",
+          "name": "Iz Beltagy"
+        },
+        {
+          "authorId": "145104486",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "40135250",
+          "name": "Bhavana Dalvi"
+        },
+        {
+          "authorId": "1780531",
+          "name": "Daniel S. Weld"
+        }
+      ]
+    },
+    {
+      "paperId": "de28ec1d7bd38c8fc4e8ac59b6133800818b4e29",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/de28ec1d7bd38c8fc4e8ac59b6133800818b4e29",
+      "title": "ScispaCy: Fast and Robust Models for Biomedical Natural Language Processing",
+      "venue": "BioNLP@ACL",
+      "year": 2019,
+      "citationCount": 671,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50043859",
+          "name": "Mark Neumann"
+        },
+        {
+          "authorId": "145104486",
+          "name": "Daniel King"
+        },
+        {
+          "authorId": "46181066",
+          "name": "Iz Beltagy"
+        },
+        {
+          "authorId": "145585097",
+          "name": "Bridger Waleed Ammar"
+        }
+      ]
+    }
+  ]
+}

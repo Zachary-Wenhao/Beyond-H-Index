@@ -1,0 +1,3054 @@
+{
+  "authorId": "2085709",
+  "name": "Aston Zhang",
+  "affiliations": [],
+  "paperCount": 65,
+  "citationCount": 4897,
+  "hIndex": 29,
+  "papers": [
+    {
+      "paperId": "220ddeb4dc43bc922289fec8b1b60d7226068b20",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/220ddeb4dc43bc922289fec8b1b60d7226068b20",
+      "title": "Parameter-Efficient Fine-Tuning Design Spaces",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "citationCount": 58,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47739850",
+          "name": "Jiaao Chen"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2110332219",
+          "name": "Xingjian Shi"
+        },
+        {
+          "authorId": "1701799",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "78088877",
+          "name": "Alexander J. Smola"
+        },
+        {
+          "authorId": "2143919864",
+          "name": "Diyi Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "2f1555f7f601c3826165fa5f9db1dd5c717d1c60",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/2f1555f7f601c3826165fa5f9db1dd5c717d1c60",
+      "title": "Automated Few-shot Classification with Instruction-Finetuned Language Models",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "134617539",
+          "name": "Rami Aly"
+        },
+        {
+          "authorId": "2110332219",
+          "name": "Xingjian Shi"
+        },
+        {
+          "authorId": "3002019",
+          "name": "Kaixiang Lin"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "145771261",
+          "name": "A. Wilson"
+        }
+      ]
+    },
+    {
+      "paperId": "780a7f5e8ba9b4b451e3dfee1bcfb0f68aba5050",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/780a7f5e8ba9b4b451e3dfee1bcfb0f68aba5050",
+      "title": "Multimodal Chain-of-Thought Reasoning in Language Models",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2023,
+      "citationCount": 366,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3322871",
+          "name": "Zhuosheng Zhang"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "1701799",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "2146232510",
+          "name": "Hai Zhao"
+        },
+        {
+          "authorId": "50877490",
+          "name": "G. Karypis"
+        },
+        {
+          "authorId": "78088877",
+          "name": "Alexander J. Smola"
+        }
+      ]
+    },
+    {
+      "paperId": "873a581320d928249609d3c07229d5af182a379c",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/873a581320d928249609d3c07229d5af182a379c",
+      "title": "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 632,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2084609980",
+          "name": "Chengwei Qin"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "3322871",
+          "name": "Zhuosheng Zhang"
+        },
+        {
+          "authorId": "47739850",
+          "name": "Jiaao Chen"
+        },
+        {
+          "authorId": "19168196",
+          "name": "Michihiro Yasunaga"
+        },
+        {
+          "authorId": "2143919864",
+          "name": "Diyi Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "c326672bfa418dd70a49d2dfe6dbbadb15354f7b",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c326672bfa418dd70a49d2dfe6dbbadb15354f7b",
+      "title": "Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1906099",
+          "name": "Shuhuai Ren"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2128816752",
+          "name": "Yi Zhu"
+        },
+        {
+          "authorId": "1583098764",
+          "name": "Shuai Zhang"
+        },
+        {
+          "authorId": "2163381961",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "1701799",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "78088877",
+          "name": "Alexander J. Smola"
+        },
+        {
+          "authorId": "2151434156",
+          "name": "Xu Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "e3950d18cc81edbeafd83129a646a62850cad62a",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/e3950d18cc81edbeafd83129a646a62850cad62a",
+      "title": "A Cheaper and Better Diffusion Language Model with Soft-Masked Noise",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "47739850",
+          "name": "Jiaao Chen"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "1701799",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "78088877",
+          "name": "Alexander J. Smola"
+        },
+        {
+          "authorId": "2143919864",
+          "name": "Diyi Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "fac388b8c24044dea06cc8c7b03dd1d99c8439a0",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/fac388b8c24044dea06cc8c7b03dd1d99c8439a0",
+      "title": "AIM: Adapting Image Models for Efficient Video Action Recognition",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "citationCount": 140,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1390892946",
+          "name": "Taojiannan Yang"
+        },
+        {
+          "authorId": "2128816752",
+          "name": "Yi Zhu"
+        },
+        {
+          "authorId": "3052897",
+          "name": "Yusheng Xie"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2141809453",
+          "name": "Chen Chen"
+        },
+        {
+          "authorId": "1701799",
+          "name": "Mu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "ffdf78392747ad50c6bb39adab124726db05c3da",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ffdf78392747ad50c6bb39adab124726db05c3da",
+      "title": "Vcc: Scaling Transformers to 128K Tokens or More by Prioritizing Important Tokens",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "35292426",
+          "name": "Zhanpeng Zeng"
+        },
+        {
+          "authorId": "48156900",
+          "name": "Cole Hawkins"
+        },
+        {
+          "authorId": "66603575",
+          "name": "Min-Fong Hong"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "143958923",
+          "name": "Nikolaos Pappas"
+        },
+        {
+          "authorId": "2148298829",
+          "name": "Vikas Singh"
+        },
+        {
+          "authorId": "2163381961",
+          "name": "Shuai Zheng"
+        }
+      ]
+    },
+    {
+      "paperId": "6d815c019d7a45a954643a20103a3c887f0bd8b1",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6d815c019d7a45a954643a20103a3c887f0bd8b1",
+      "title": "Trap and Replace: Defending Backdoor Attacks by Trapping Them into an Easy-to-Replace Subnetwork",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "113727681",
+          "name": "Haotao Wang"
+        },
+        {
+          "authorId": "2110805917",
+          "name": "Junyuan Hong"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2143462929",
+          "name": "Jiayu Zhou"
+        },
+        {
+          "authorId": "2969311",
+          "name": "Zhangyang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "73a70eb1b3c914e87c2f7c0516a66d655841bdf7",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/73a70eb1b3c914e87c2f7c0516a66d655841bdf7",
+      "title": "Removing Batch Normalization Boosts Adversarial Training",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "citationCount": 41,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "113727681",
+          "name": "Haotao Wang"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2163381961",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "2110332219",
+          "name": "Xingjian Shi"
+        },
+        {
+          "authorId": "1701799",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "2969311",
+          "name": "Zhangyang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "7a5cd8a1bf99c9cc58bd7a818be446c29e9e1cbb",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/7a5cd8a1bf99c9cc58bd7a818be446c29e9e1cbb",
+      "title": "SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "31773000",
+          "name": "M Saiful Bari"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2163381961",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "2110332219",
+          "name": "Xingjian Shi"
+        },
+        {
+          "authorId": "2128816752",
+          "name": "Yi Zhu"
+        },
+        {
+          "authorId": "2708940",
+          "name": "Shafiq R. Joty"
+        },
+        {
+          "authorId": "1701799",
+          "name": "Mu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "7a63b216572f21a3d7e05007a1b27329d9e0ef46",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7a63b216572f21a3d7e05007a1b27329d9e0ef46",
+      "title": "Learning Multimodal Data Augmentation in Feature Space",
+      "venue": "International Conference on Learning Representations",
+      "year": 2022,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2117941145",
+          "name": "Zichang Liu"
+        },
+        {
+          "authorId": "2986505",
+          "name": "Zhiqiang Tang"
+        },
+        {
+          "authorId": "2110332219",
+          "name": "Xingjian Shi"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "1701799",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "4260659",
+          "name": "Anshumali Shrivastava"
+        },
+        {
+          "authorId": "145771261",
+          "name": "A. Wilson"
+        }
+      ]
+    },
+    {
+      "paperId": "85d361beea081193616cc4d26ffb32171c612a0b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/85d361beea081193616cc4d26ffb32171c612a0b",
+      "title": "MixGen: A New Multi-Modal Data Augmentation",
+      "venue": "2023 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW)",
+      "year": 2022,
+      "citationCount": 78,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145912650",
+          "name": "Xiaoshuai Hao"
+        },
+        {
+          "authorId": "2128816752",
+          "name": "Yi Zhu"
+        },
+        {
+          "authorId": "26316634",
+          "name": "Srikar Appalaraju"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "14340999",
+          "name": "Wanqian Zhang"
+        },
+        {
+          "authorId": "152358042",
+          "name": "Boyang Li"
+        },
+        {
+          "authorId": "2112144126",
+          "name": "Mu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "90350aa626bed47b02d0c162462e5b0ca82be6b2",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/90350aa626bed47b02d0c162462e5b0ca82be6b2",
+      "title": "Automatic Chain of Thought Prompting in Large Language Models",
+      "venue": "International Conference on Learning Representations",
+      "year": 2022,
+      "citationCount": 543,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3322871",
+          "name": "Zhuosheng Zhang"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "1701799",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "78088877",
+          "name": "Alexander J. Smola"
+        }
+      ]
+    },
+    {
+      "paperId": "926e61894dd17766e72f2881e4b57a07f05e18ad",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/926e61894dd17766e72f2881e4b57a07f05e18ad",
+      "title": "Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "citationCount": 47,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "113727681",
+          "name": "Haotao Wang"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2128816752",
+          "name": "Yi Zhu"
+        },
+        {
+          "authorId": "2163381961",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "1701799",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "78088877",
+          "name": "Alexander J. Smola"
+        },
+        {
+          "authorId": "2969311",
+          "name": "Zhangyang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "eeeceafad703db52a7219b0bcd56c71bfbfa8619",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/eeeceafad703db52a7219b0bcd56c71bfbfa8619",
+      "title": "SMILE: Scaling Mixture-of-Experts with Efficient Bi-level Routing",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "31927890",
+          "name": "Chaoyang He"
+        },
+        {
+          "authorId": "2163381961",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "50877490",
+          "name": "G. Karypis"
+        },
+        {
+          "authorId": "3191220",
+          "name": "Trishul M. Chilimbi"
+        },
+        {
+          "authorId": "2766123",
+          "name": "M. Soltanolkotabi"
+        },
+        {
+          "authorId": "121011351",
+          "name": "S. Avestimehr"
+        }
+      ]
+    },
+    {
+      "paperId": "01217fd88d07b05affa75213672d3d31dbcb6617",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/01217fd88d07b05affa75213672d3d31dbcb6617",
+      "title": "A Unified Lottery Ticket Hypothesis for Graph Neural Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2021,
+      "citationCount": 169,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2034263179",
+          "name": "Tianlong Chen"
+        },
+        {
+          "authorId": "2003767516",
+          "name": "Yongduo Sui"
+        },
+        {
+          "authorId": "1753619492",
+          "name": "Xuxi Chen"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2969311",
+          "name": "Zhangyang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "1d5f5df837139d4ae8af23e3634295594c5b85db",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1d5f5df837139d4ae8af23e3634295594c5b85db",
+      "title": "Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters",
+      "venue": "International Conference on Learning Representations",
+      "year": 2021,
+      "citationCount": 82,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "144447820",
+          "name": "Yi Tay"
+        },
+        {
+          "authorId": "1583098764",
+          "name": "Shuai Zhang"
+        },
+        {
+          "authorId": "2114014617",
+          "name": "Alvin Chan"
+        },
+        {
+          "authorId": "1755919",
+          "name": "A. Luu"
+        },
+        {
+          "authorId": "144194328",
+          "name": "S. Hui"
+        },
+        {
+          "authorId": "2089772402",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "266f59109013a84c78ea038aed6b824504ec0936",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/266f59109013a84c78ea038aed6b824504ec0936",
+      "title": "Lightweight Convolutional Neural Networks By Hypercomplex Parameterization",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1980555220",
+          "name": "Eleonora Grassucci"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "1735581",
+          "name": "D. Comminiello"
+        }
+      ]
+    },
+    {
+      "paperId": "63557bdc8247bb9fc6f3dad04117feef7ceb9fa7",
+      "publicationVenue": {
+        "id": "e07422f9-c065-40c3-a37b-75e98dce79fe",
+        "name": "The Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Conf",
+          "WWW"
+        ],
+        "url": "http://www.iw3c2.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/63557bdc8247bb9fc6f3dad04117feef7ceb9fa7",
+      "title": "Controllable and Diverse Text Generation in E-commerce",
+      "venue": "The Web Conference",
+      "year": 2021,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3395273",
+          "name": "Huajie Shao"
+        },
+        {
+          "authorId": "71563095",
+          "name": "J. Wang"
+        },
+        {
+          "authorId": "2258702",
+          "name": "Haohong Lin"
+        },
+        {
+          "authorId": "9117593",
+          "name": "Xuezhou Zhang"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2072976571",
+          "name": "Heng Ji"
+        },
+        {
+          "authorId": "1730531",
+          "name": "T. Abdelzaher"
+        }
+      ]
+    },
+    {
+      "paperId": "6f73cd1e246d21df7271cfc25a55ddea8cc69ff9",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/6f73cd1e246d21df7271cfc25a55ddea8cc69ff9",
+      "title": "Self-Instantiated Recurrent Units with Dynamic Soft Recursion",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "144447820",
+          "name": "Yi Tay"
+        },
+        {
+          "authorId": "2714199",
+          "name": "Yikang Shen"
+        },
+        {
+          "authorId": "2114014617",
+          "name": "Alvin Chan"
+        },
+        {
+          "authorId": "1583098764",
+          "name": "Shuai Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "7f14582e0fd0231f95775abd6761f5b9f945538c",
+      "publicationVenue": {
+        "id": "79c5a18d-0295-432c-aaa5-961d73de6d88",
+        "name": "IEEE Transactions on Neural Networks and Learning Systems",
+        "alternate_names": [
+          "IEEE Trans Neural Netw Learn Syst"
+        ],
+        "issn": "2162-237X",
+        "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=5962385",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/7f14582e0fd0231f95775abd6761f5b9f945538c",
+      "title": "PHNNs: Lightweight Neural Networks via Parameterized Hypercomplex Convolutions",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2021,
+      "citationCount": 34,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1980555220",
+          "name": "Eleonora Grassucci"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "1735581",
+          "name": "D. Comminiello"
+        }
+      ]
+    },
+    {
+      "paperId": "e382a73c4f87020e5ee8af8feacc6053347a129f",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e382a73c4f87020e5ee8af8feacc6053347a129f",
+      "title": "On Orthogonality Constraints for Transformers",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2114014617",
+          "name": "Alvin Chan"
+        },
+        {
+          "authorId": "97947517",
+          "name": "Yi Tay"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "2992833",
+          "name": "Shuohang Wang"
+        },
+        {
+          "authorId": "1583098764",
+          "name": "Shuai Zhang"
+        },
+        {
+          "authorId": "3395273",
+          "name": "Huajie Shao"
+        },
+        {
+          "authorId": "2325031",
+          "name": "Shuochao Yao"
+        },
+        {
+          "authorId": "38656724",
+          "name": "R. Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "1040ac4b6f23b390e463d7a6180edd15ee3177d6",
+      "publicationVenue": {
+        "id": "ea38228f-6ed3-4222-a3ce-d963d8cc9516",
+        "name": "Web Search and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "Web Search Data Min",
+          "WSDM"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=3158"
+      },
+      "url": "https://www.semanticscholar.org/paper/1040ac4b6f23b390e463d7a6180edd15ee3177d6",
+      "title": "Learning User Representations with Hypercuboids for Recommender Systems",
+      "venue": "Web Search and Data Mining",
+      "year": 2020,
+      "citationCount": 17,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1583098764",
+          "name": "Shuai Zhang"
+        },
+        {
+          "authorId": "2108984920",
+          "name": "Huoyu Liu"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2108954687",
+          "name": "Yue Hu"
+        },
+        {
+          "authorId": "1776014",
+          "name": "Ce Zhang"
+        },
+        {
+          "authorId": "2111175981",
+          "name": "Yumeng Li"
+        },
+        {
+          "authorId": "2072834393",
+          "name": "Tanchao Zhu"
+        },
+        {
+          "authorId": "2115302437",
+          "name": "Shaojian He"
+        },
+        {
+          "authorId": "10336865",
+          "name": "Wenwu Ou"
+        }
+      ]
+    },
+    {
+      "paperId": "3225bf0ff369cd7d0223e0b79c51467752bd4db6",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3225bf0ff369cd7d0223e0b79c51467752bd4db6",
+      "title": "Controllable Variational Autoencoder",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 2,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "3395273",
+          "name": "Huajie Shao"
+        },
+        {
+          "authorId": "2325031",
+          "name": "Shuochao Yao"
+        },
+        {
+          "authorId": "1630209136",
+          "name": "Dachun Sun"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "1390628682",
+          "name": "Shengzhong Liu"
+        },
+        {
+          "authorId": "153626198",
+          "name": "Dongxin Liu"
+        },
+        {
+          "authorId": "71563095",
+          "name": "J. Wang"
+        },
+        {
+          "authorId": "1730531",
+          "name": "T. Abdelzaher"
+        }
+      ]
+    },
+    {
+      "paperId": "4ee1754f89b250753242c3baf58773dda5d9bf39",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/4ee1754f89b250753242c3baf58773dda5d9bf39",
+      "title": "Transformer on a Diet",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2108755854",
+          "name": "Chenguang Wang"
+        },
+        {
+          "authorId": "2119196806",
+          "name": "Zihao Ye"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2148904903",
+          "name": "Zheng Zhang"
+        },
+        {
+          "authorId": "46234526",
+          "name": "Alex Smola"
+        }
+      ]
+    },
+    {
+      "paperId": "6da7e66fcb6e4971fcc5d44c8a840ec8a2ea7449",
+      "publicationVenue": {
+        "id": "25248f80-fe99-48e5-9b8e-9baef3b8e23b",
+        "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Trans Pattern Anal Mach Intell"
+        ],
+        "issn": "0162-8828",
+        "url": "http://www.computer.org/tpami/",
+        "alternate_urls": [
+          "http://www.computer.org/portal/web/tpami",
+          "http://ieeexplore.ieee.org/servlet/opac?punumber=34"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6da7e66fcb6e4971fcc5d44c8a840ec8a2ea7449",
+      "title": "ControlVAE: Tuning, Analytical Properties, and Performance Analysis",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2020,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "3395273",
+          "name": "Huajie Shao"
+        },
+        {
+          "authorId": "117362006",
+          "name": "Zhisheng Xiao"
+        },
+        {
+          "authorId": "2325031",
+          "name": "Shuochao Yao"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "1390628682",
+          "name": "Shengzhong Liu"
+        },
+        {
+          "authorId": "1730531",
+          "name": "T. Abdelzaher"
+        }
+      ]
+    },
+    {
+      "paperId": "79f13cd8b7fc3e154b5b6ce66a3f49d038715011",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/79f13cd8b7fc3e154b5b6ce66a3f49d038715011",
+      "title": "ControlVAE: Controllable Variational Autoencoder",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "citationCount": 87,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3395273",
+          "name": "Huajie Shao"
+        },
+        {
+          "authorId": "2325031",
+          "name": "Shuochao Yao"
+        },
+        {
+          "authorId": "1630209136",
+          "name": "Dachun Sun"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "1390628682",
+          "name": "Shengzhong Liu"
+        },
+        {
+          "authorId": "153626198",
+          "name": "Dongxin Liu"
+        },
+        {
+          "authorId": "71563095",
+          "name": "J. Wang"
+        },
+        {
+          "authorId": "1730531",
+          "name": "T. Abdelzaher"
+        }
+      ]
+    },
+    {
+      "paperId": "9b975cd0e9cb330300062916c72df3d63e1db207",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9b975cd0e9cb330300062916c72df3d63e1db207",
+      "title": "CoCon: A Self-Supervised Approach for Controlled Text Generation",
+      "venue": "International Conference on Learning Representations",
+      "year": 2020,
+      "citationCount": 81,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2114014617",
+          "name": "Alvin Chan"
+        },
+        {
+          "authorId": "144848119",
+          "name": "Y. Ong"
+        },
+        {
+          "authorId": "1741044417",
+          "name": "B. Pung"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2089772402",
+          "name": "Jie Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "bd17620c6cb5ca97ef773499223d1509d123745f",
+      "publicationVenue": {
+        "id": "f80195fb-14b8-48fd-a5e4-c1ff01b01410",
+        "name": "Journal of the American College of Radiology",
+        "type": "journal",
+        "alternate_names": [
+          "J Am Coll Radiol",
+          "Journal of The American College of Radiology"
+        ],
+        "issn": "1546-1440",
+        "url": "http://www.sciencedirect.com/science/journal/15461440",
+        "alternate_urls": [
+          "https://www.jacr.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/bd17620c6cb5ca97ef773499223d1509d123745f",
+      "title": "Dive into Deep Learning",
+      "venue": "Journal of the American College of Radiology",
+      "year": 2020,
+      "citationCount": 541,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "32219137",
+          "name": "Zachary Chase Lipton"
+        },
+        {
+          "authorId": "2124778071",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "78088877",
+          "name": "Alexander J. Smola"
+        }
+      ]
+    },
+    {
+      "paperId": "c98af6aacee722429a2d44f1a41adbdc0ba72897",
+      "publicationVenue": {
+        "id": "e07422f9-c065-40c3-a37b-75e98dce79fe",
+        "name": "The Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Conf",
+          "WWW"
+        ],
+        "url": "http://www.iw3c2.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c98af6aacee722429a2d44f1a41adbdc0ba72897",
+      "title": "paper2repo: GitHub Repository Recommendation for Academic Papers",
+      "venue": "The Web Conference",
+      "year": 2020,
+      "citationCount": 32,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3395273",
+          "name": "Huajie Shao"
+        },
+        {
+          "authorId": "1630209136",
+          "name": "Dachun Sun"
+        },
+        {
+          "authorId": null,
+          "name": "Jiahao Wu"
+        },
+        {
+          "authorId": "1637600997",
+          "name": "Zecheng Zhang"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2325031",
+          "name": "Shuochao Yao"
+        },
+        {
+          "authorId": "1390628682",
+          "name": "Shengzhong Liu"
+        },
+        {
+          "authorId": "49981269",
+          "name": "Tianshi Wang"
+        },
+        {
+          "authorId": "145657504",
+          "name": "Chao Zhang"
+        },
+        {
+          "authorId": "1730531",
+          "name": "T. Abdelzaher"
+        }
+      ]
+    },
+    {
+      "paperId": "cc3725e66aa600eb12b244e82880f8e0bd225065",
+      "publicationVenue": {
+        "id": "479d5605-51be-4346-b1d6-4334084504df",
+        "name": "Findings",
+        "type": "journal",
+        "issn": "2652-8800",
+        "url": "https://findingspress.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cc3725e66aa600eb12b244e82880f8e0bd225065",
+      "title": "Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder",
+      "venue": "Findings",
+      "year": 2020,
+      "citationCount": 53,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143962358",
+          "name": "Alvin Chan"
+        },
+        {
+          "authorId": "144447820",
+          "name": "Yi Tay"
+        },
+        {
+          "authorId": "144848119",
+          "name": "Y. Ong"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "07cea4e940d268a5fb6c4e3f33f4a193b677805e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/07cea4e940d268a5fb6c4e3f33f4a193b677805e",
+      "title": "R2D2: Reuse & Reduce via Dynamic Weight Diffusion for Training Efficient NLP Models",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144447820",
+          "name": "Yi Tay"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2155802815",
+          "name": "Shuai Zhang"
+        },
+        {
+          "authorId": "2114014617",
+          "name": "Alvin Chan"
+        },
+        {
+          "authorId": "26336902",
+          "name": "Anh Tuan Luu"
+        },
+        {
+          "authorId": "144194328",
+          "name": "S. Hui"
+        }
+      ]
+    },
+    {
+      "paperId": "198c4eaf73f41573fcc892b596848f548da5824f",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/198c4eaf73f41573fcc892b596848f548da5824f",
+      "title": "G-PATE: Scalable Differentially Private Data Generator via Private Aggregation of Teacher Discriminators",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "citationCount": 72,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "3147214",
+          "name": "Yunhui Long"
+        },
+        {
+          "authorId": "2153207717",
+          "name": "Boxin Wang"
+        },
+        {
+          "authorId": "2119399524",
+          "name": "Zhuolin Yang"
+        },
+        {
+          "authorId": "1749353",
+          "name": "B. Kailkhura"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "119755266",
+          "name": "C.A. Gunter"
+        },
+        {
+          "authorId": "2155883218",
+          "name": "Bo Li"
+        }
+      ]
+    },
+    {
+      "paperId": "2733574d40ce8e861d7d658bfc33ab36f529864d",
+      "publicationVenue": {
+        "id": "c22e7c36-3bfa-43e1-bb7b-edccdea2a780",
+        "name": "Journal of machine learning research",
+        "type": "journal",
+        "alternate_names": [
+          "Journal of Machine Learning Research",
+          "J mach learn res",
+          "J Mach Learn Res"
+        ],
+        "issn": "1532-4435",
+        "alternate_issns": [
+          "1533-7928"
+        ],
+        "url": "http://www.ai.mit.edu/projects/jmlr/",
+        "alternate_urls": [
+          "http://jmlr.csail.mit.edu/",
+          "http://www.jmlr.org/",
+          "http://portal.acm.org/affiliated/jmlr"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/2733574d40ce8e861d7d658bfc33ab36f529864d",
+      "title": "GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing",
+      "venue": "Journal of machine learning research",
+      "year": 2019,
+      "citationCount": 190,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2148900809",
+          "name": "Jian Guo"
+        },
+        {
+          "authorId": "2140062900",
+          "name": "He He"
+        },
+        {
+          "authorId": "2118328320",
+          "name": "Tong He"
+        },
+        {
+          "authorId": "8789103",
+          "name": "Leonard Lausen"
+        },
+        {
+          "authorId": "2112143809",
+          "name": "Mu Li"
+        },
+        {
+          "authorId": "49955730",
+          "name": "Haibin Lin"
+        },
+        {
+          "authorId": "3008587",
+          "name": "Xingjian Shi"
+        },
+        {
+          "authorId": "2108755854",
+          "name": "Chenguang Wang"
+        },
+        {
+          "authorId": "2369548",
+          "name": "Junyuan Xie"
+        },
+        {
+          "authorId": "40881843",
+          "name": "Sheng Zha"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2119077209",
+          "name": "Hang Zhang"
+        },
+        {
+          "authorId": "2117991985",
+          "name": "Zhi Zhang"
+        },
+        {
+          "authorId": "48806269",
+          "name": "Zhongyue Zhang"
+        },
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "46759150",
+          "name": "Yi Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "5240bad304d5e9dd6a7ab1e089e024119ae55567",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5240bad304d5e9dd6a7ab1e089e024119ae55567",
+      "title": "Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 54,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144447820",
+          "name": "Yi Tay"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "26336902",
+          "name": "Anh Tuan Luu"
+        },
+        {
+          "authorId": "30586030",
+          "name": "J. Rao"
+        },
+        {
+          "authorId": "1583098764",
+          "name": "Shuai Zhang"
+        },
+        {
+          "authorId": "2992833",
+          "name": "Shuohang Wang"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "144194328",
+          "name": "S. Hui"
+        }
+      ]
+    },
+    {
+      "paperId": "5755783f5614bd84a7dfd0785003edefa210e7b3",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/5755783f5614bd84a7dfd0785003edefa210e7b3",
+      "title": "Compositional De-Attention Networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144447820",
+          "name": "Yi Tay"
+        },
+        {
+          "authorId": "26336902",
+          "name": "Anh Tuan Luu"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2992833",
+          "name": "Shuohang Wang"
+        },
+        {
+          "authorId": "144194328",
+          "name": "S. Hui"
+        }
+      ]
+    },
+    {
+      "paperId": "6a15575f9117967303924922e8cf26fbbb649d80",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6a15575f9117967303924922e8cf26fbbb649d80",
+      "title": "Dive into Deep Learning for Natural Language Processing",
+      "venue": "EMNLP/IJCNLP",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49955730",
+          "name": "Haibin Lin"
+        },
+        {
+          "authorId": "3008587",
+          "name": "Xingjian Shi"
+        },
+        {
+          "authorId": "8789103",
+          "name": "Leonard Lausen"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "144533687",
+          "name": "He He"
+        },
+        {
+          "authorId": "40881843",
+          "name": "Sheng Zha"
+        },
+        {
+          "authorId": "46234526",
+          "name": "Alex Smola"
+        }
+      ]
+    },
+    {
+      "paperId": "758c1d9af9841526bc445fd747a68d661762d0eb",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/758c1d9af9841526bc445fd747a68d661762d0eb",
+      "title": "Generating Biased Datasets for Neural Natural Language Processing",
+      "venue": "",
+      "year": 2019,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2114014617",
+          "name": "Alvin Chan"
+        },
+        {
+          "authorId": "144447820",
+          "name": "Yi Tay"
+        },
+        {
+          "authorId": "144848119",
+          "name": "Y. Ong"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "9ad1bf541b1cd51c40636d25565d9ee2ff1d744e",
+      "publicationVenue": {
+        "id": "67f7f831-711a-43c8-8785-1e09005359b5",
+        "name": "International Joint Conference on Artificial Intelligence",
+        "type": "conference",
+        "alternate_names": [
+          "Int Jt Conf Artif Intell",
+          "IJCAI"
+        ],
+        "url": "http://www.ijcai.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9ad1bf541b1cd51c40636d25565d9ee2ff1d744e",
+      "title": "Quaternion Collaborative Filtering for Recommendation",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2019,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1583098764",
+          "name": "Shuai Zhang"
+        },
+        {
+          "authorId": "2082966",
+          "name": "Lina Yao"
+        },
+        {
+          "authorId": "134338607",
+          "name": "Lucas Vinh Tran"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "144447820",
+          "name": "Yi Tay"
+        }
+      ]
+    },
+    {
+      "paperId": "d389d8c2e15f9e9269c17fe6f960f70559eee840",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/d389d8c2e15f9e9269c17fe6f960f70559eee840",
+      "title": "Parsimonious Morpheme Segmentation with an Application to Enriching Word Embeddings",
+      "venue": "2019 IEEE International Conference on Big Data (Big Data)",
+      "year": 2019,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1398503968",
+          "name": "Ahmed El-Kishky"
+        },
+        {
+          "authorId": "40027632",
+          "name": "Frank F. Xu"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "153034701",
+          "name": "Jiawei Han"
+        }
+      ]
+    },
+    {
+      "paperId": "e1f037f47d96d10af5c1ab390a246238dd8e1057",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e1f037f47d96d10af5c1ab390a246238dd8e1057",
+      "title": "Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 103,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144447820",
+          "name": "Yi Tay"
+        },
+        {
+          "authorId": "2992833",
+          "name": "Shuohang Wang"
+        },
+        {
+          "authorId": "26336902",
+          "name": "Anh Tuan Luu"
+        },
+        {
+          "authorId": "49252800",
+          "name": "Jie Fu"
+        },
+        {
+          "authorId": "22209930",
+          "name": "Minh C. Phan"
+        },
+        {
+          "authorId": "2854297",
+          "name": "Xingdi Yuan"
+        },
+        {
+          "authorId": "30586030",
+          "name": "J. Rao"
+        },
+        {
+          "authorId": "144194328",
+          "name": "S. Hui"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "048b2618bae223dbad2e79911831115d745d1fc7",
+      "publicationVenue": {
+        "id": "2ce32331-f223-48d7-8ca8-1de664a4fd86",
+        "name": "Learning Health Systems",
+        "alternate_names": [
+          "Learn Health Syst"
+        ],
+        "issn": "2379-6146",
+        "url": "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2379-6146",
+        "alternate_urls": [
+          "https://onlinelibrary.wiley.com/journal/23796146"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/048b2618bae223dbad2e79911831115d745d1fc7",
+      "title": "De facto diagnosis specialties: Recognition and discovery",
+      "venue": "Learning Health Systems",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2116676576",
+          "name": "Xun Lu"
+        },
+        {
+          "authorId": "1785347",
+          "name": "Carl A. Gunter"
+        },
+        {
+          "authorId": "2325031",
+          "name": "Shuochao Yao"
+        },
+        {
+          "authorId": "3180064",
+          "name": "Fangbo Tao"
+        },
+        {
+          "authorId": "3039403",
+          "name": "Rongda Zhu"
+        },
+        {
+          "authorId": "2286096",
+          "name": "Huan Gui"
+        },
+        {
+          "authorId": "3025858",
+          "name": "D. Fabbri"
+        },
+        {
+          "authorId": "3041660",
+          "name": "David M. Liebovitz"
+        },
+        {
+          "authorId": "31717144",
+          "name": "B. Malin"
+        }
+      ]
+    },
+    {
+      "paperId": "0718237a30408609554a0e2b90d35e37d54b1959",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/0718237a30408609554a0e2b90d35e37d54b1959",
+      "title": "Entropy-Based Subword Mining with an Application to Word Embeddings",
+      "venue": "Proceedings of the Second Workshop on Subword/Character LEvel Models",
+      "year": 2018,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1398503968",
+          "name": "Ahmed El-Kishky"
+        },
+        {
+          "authorId": "40027632",
+          "name": "Frank F. Xu"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "1838778",
+          "name": "Stephen Macke"
+        },
+        {
+          "authorId": "153034701",
+          "name": "Jiawei Han"
+        }
+      ]
+    },
+    {
+      "paperId": "17cd8f24e81cf2400c130bec41fc9a40ab2cf4d8",
+      "publicationVenue": {
+        "id": "f6572f66-2623-4a5e-b0d9-4a5028dea98f",
+        "name": "Computer",
+        "type": "journal",
+        "alternate_names": [
+          "IEEE Computer",
+          "IEEE Comput"
+        ],
+        "issn": "0018-9162",
+        "url": "http://www.computer.org/computer",
+        "alternate_urls": [
+          "https://ieeexplore.ieee.org/servlet/opac?punumber=2",
+          "http://www.computer.org/portal/site/ieeecs/index.jsp",
+          "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/17cd8f24e81cf2400c130bec41fc9a40ab2cf4d8",
+      "title": "Deep Learning for the Internet of Things",
+      "venue": "Computer",
+      "year": 2018,
+      "citationCount": 115,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2325031",
+          "name": "Shuochao Yao"
+        },
+        {
+          "authorId": "2580112",
+          "name": "Yiran Zhao"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "3225210",
+          "name": "Shaohan Hu"
+        },
+        {
+          "authorId": "3395273",
+          "name": "Huajie Shao"
+        },
+        {
+          "authorId": "145657504",
+          "name": "Chao Zhang"
+        },
+        {
+          "authorId": "143843304",
+          "name": "Lu Su"
+        },
+        {
+          "authorId": "1730531",
+          "name": "T. Abdelzaher"
+        }
+      ]
+    },
+    {
+      "paperId": "1ddcc9671dd6486e34cefadfe71bbbc1bc55035a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1ddcc9671dd6486e34cefadfe71bbbc1bc55035a",
+      "title": "NAACL HLT 2018 Subword and Character LEvel Models in NLP Proceedings of the Second Workshop",
+      "venue": "",
+      "year": 2018,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2054478572",
+          "name": "June"
+        },
+        {
+          "authorId": "3261470",
+          "name": "Yadollah Yaghoobzadeh"
+        },
+        {
+          "authorId": "1398503968",
+          "name": "Ahmed El-Kishky"
+        },
+        {
+          "authorId": "40027632",
+          "name": "Frank F. Xu"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "1838778",
+          "name": "Stephen Macke"
+        }
+      ]
+    },
+    {
+      "paperId": "4aa818e10a54579be4f6acad309ee2e3ce15af39",
+      "publicationVenue": {
+        "id": "ffe5bb5c-04ed-488e-985d-d3a7b39542cf",
+        "name": "IEEE International Conference on Distributed Computing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "International Conference on Distributed Computing Systems",
+          "IEEE Int Conf Distrib Comput Syst",
+          "Int Conf Device Circuit Syst",
+          "ICDCS",
+          "Int Conf Distrib Comput Syst",
+          "International Conference on Devices, Circuits and Systems"
+        ],
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/1000213/all-proceedings"
+      },
+      "url": "https://www.semanticscholar.org/paper/4aa818e10a54579be4f6acad309ee2e3ce15af39",
+      "title": "ApDeepSense: Deep Learning Uncertainty Estimation without the Pain for IoT Applications",
+      "venue": "IEEE International Conference on Distributed Computing Systems",
+      "year": 2018,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2325031",
+          "name": "Shuochao Yao"
+        },
+        {
+          "authorId": "2580112",
+          "name": "Yiran Zhao"
+        },
+        {
+          "authorId": "3395273",
+          "name": "Huajie Shao"
+        },
+        {
+          "authorId": "145657504",
+          "name": "Chao Zhang"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "153626198",
+          "name": "Dongxin Liu"
+        },
+        {
+          "authorId": "1390628682",
+          "name": "Shengzhong Liu"
+        },
+        {
+          "authorId": "143843304",
+          "name": "Lu Su"
+        },
+        {
+          "authorId": "1730531",
+          "name": "T. Abdelzaher"
+        }
+      ]
+    },
+    {
+      "paperId": "584a0eab743508d600656d688f9940c8ee6e3bf8",
+      "publicationVenue": {
+        "id": "4c51a870-1809-485b-8c20-3c1326b3fe16",
+        "name": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+        "alternate_names": [
+          "Proc ACM Interact Mob Wearable Ubiquitous Technol"
+        ],
+        "issn": "2474-9567",
+        "url": "https://dl.acm.org/journal/imwut",
+        "alternate_urls": [
+          "http://imwut.acm.org/",
+          "https://dl.acm.org/pub.cfm?id=J1566"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/584a0eab743508d600656d688f9940c8ee6e3bf8",
+      "title": "SenseGAN",
+      "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+      "year": 2018,
+      "citationCount": 39,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2325031",
+          "name": "Shuochao Yao"
+        },
+        {
+          "authorId": "2580112",
+          "name": "Yiran Zhao"
+        },
+        {
+          "authorId": "3395273",
+          "name": "Huajie Shao"
+        },
+        {
+          "authorId": "145657504",
+          "name": "Chao Zhang"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "3225210",
+          "name": "Shaohan Hu"
+        },
+        {
+          "authorId": "153626198",
+          "name": "Dongxin Liu"
+        },
+        {
+          "authorId": "1390628682",
+          "name": "Shengzhong Liu"
+        },
+        {
+          "authorId": "143843304",
+          "name": "Lu Su"
+        },
+        {
+          "authorId": "1730531",
+          "name": "T. Abdelzaher"
+        }
+      ]
+    },
+    {
+      "paperId": "bb012bea9e71175299d6af2417b87c4047ae4984",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/bb012bea9e71175299d6af2417b87c4047ae4984",
+      "title": "Expert Finding in Heterogeneous Bibliographic Networks with Locally-trained Embeddings",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2286096",
+          "name": "Huan Gui"
+        },
+        {
+          "authorId": "2152206948",
+          "name": "Qi Zhu"
+        },
+        {
+          "authorId": "3355833",
+          "name": "Liyuan Liu"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "145325584",
+          "name": "Jiawei Han"
+        }
+      ]
+    },
+    {
+      "paperId": "03614774bdfaf647a90cedb8819ff8b559143e2c",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/03614774bdfaf647a90cedb8819ff8b559143e2c",
+      "title": "Analyzing intentions from big data traces of human activities",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "4689e63bc83e8a1926af50bc98519823f6cc6252",
+      "publicationVenue": {
+        "id": "4c51a870-1809-485b-8c20-3c1326b3fe16",
+        "name": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+        "alternate_names": [
+          "Proc ACM Interact Mob Wearable Ubiquitous Technol"
+        ],
+        "issn": "2474-9567",
+        "url": "https://dl.acm.org/journal/imwut",
+        "alternate_urls": [
+          "http://imwut.acm.org/",
+          "https://dl.acm.org/pub.cfm?id=J1566"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4689e63bc83e8a1926af50bc98519823f6cc6252",
+      "title": "RDeepSense",
+      "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+      "year": 2017,
+      "citationCount": 37,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2325031",
+          "name": "Shuochao Yao"
+        },
+        {
+          "authorId": "2580112",
+          "name": "Yiran Zhao"
+        },
+        {
+          "authorId": "3395273",
+          "name": "Huajie Shao"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "145657504",
+          "name": "Chao Zhang"
+        },
+        {
+          "authorId": null,
+          "name": "Shen Li"
+        },
+        {
+          "authorId": "1730531",
+          "name": "T. Abdelzaher"
+        }
+      ]
+    },
+    {
+      "paperId": "5fbdf15efdebba8684d0699c4e899ac6e95e12f9",
+      "publicationVenue": {
+        "id": "5a284490-40a3-4a14-a5c1-51a423dffad6",
+        "name": "ACM International Conference on Embedded Networked Sensor Systems",
+        "type": "conference",
+        "alternate_names": [
+          "ACM Int Conf Embed Networked Sens Syst",
+          "International Conference on Embedded Networked Sensor Systems",
+          "Int Conf Embed Networked Sens Syst",
+          "SenSys"
+        ],
+        "url": "https://dl.acm.org/conference/sensys"
+      },
+      "url": "https://www.semanticscholar.org/paper/5fbdf15efdebba8684d0699c4e899ac6e95e12f9",
+      "title": "DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework",
+      "venue": "ACM International Conference on Embedded Networked Sensor Systems",
+      "year": 2017,
+      "citationCount": 180,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2325031",
+          "name": "Shuochao Yao"
+        },
+        {
+          "authorId": "2580112",
+          "name": "Yiran Zhao"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "143843304",
+          "name": "Lu Su"
+        },
+        {
+          "authorId": "1730531",
+          "name": "T. Abdelzaher"
+        }
+      ]
+    },
+    {
+      "paperId": "85d8a11f93d183d831be82c46e3bc9502abb40c5",
+      "publicationVenue": {
+        "id": "e07422f9-c065-40c3-a37b-75e98dce79fe",
+        "name": "The Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Conf",
+          "WWW"
+        ],
+        "url": "http://www.iw3c2.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/85d8a11f93d183d831be82c46e3bc9502abb40c5",
+      "title": "Email Category Prediction",
+      "venue": "The Web Conference",
+      "year": 2017,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2048175",
+          "name": "Llu\u00eds Garcia Pueyo"
+        },
+        {
+          "authorId": "1796372",
+          "name": "James Bradley Wendt"
+        },
+        {
+          "authorId": "1763978",
+          "name": "Marc Najork"
+        },
+        {
+          "authorId": "1774745",
+          "name": "A. Broder"
+        }
+      ]
+    },
+    {
+      "paperId": "1b3675fc0f2b16743b1e1f0c2f84829cfdb3d34f",
+      "publicationVenue": {
+        "id": "e07422f9-c065-40c3-a37b-75e98dce79fe",
+        "name": "The Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Conf",
+          "WWW"
+        ],
+        "url": "http://www.iw3c2.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1b3675fc0f2b16743b1e1f0c2f84829cfdb3d34f",
+      "title": "DeepSense: A Unified Deep Learning Framework for Time-Series Mobile Sensing Data Processing",
+      "venue": "The Web Conference",
+      "year": 2016,
+      "citationCount": 606,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2325031",
+          "name": "Shuochao Yao"
+        },
+        {
+          "authorId": "3225210",
+          "name": "Shaohan Hu"
+        },
+        {
+          "authorId": "2580112",
+          "name": "Yiran Zhao"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "1730531",
+          "name": "T. Abdelzaher"
+        }
+      ]
+    },
+    {
+      "paperId": "3f8f9b918d56041e678d7470523698f9639d9411",
+      "publicationVenue": {
+        "id": "a0edb93b-1e95-4128-a295-6b1659149cef",
+        "name": "Knowledge Discovery and Data Mining",
+        "type": "conference",
+        "alternate_names": [
+          "KDD",
+          "Knowl Discov Data Min"
+        ],
+        "url": "http://www.acm.org/sigkdd/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3f8f9b918d56041e678d7470523698f9639d9411",
+      "title": "Accelerated Stochastic Block Coordinate Descent with Optimal Sampling",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2016,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "9937103",
+          "name": "Quanquan Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "9a5c5e7f30c1db4aa91b55829e8fe1669213f65e",
+      "publicationVenue": {
+        "id": "e6904c24-9546-4135-8344-e3999e375558",
+        "name": "Network and Distributed System Security Symposium",
+        "type": "conference",
+        "alternate_names": [
+          "Netw Distrib Syst Secur Symp",
+          "NDSS"
+        ],
+        "url": "http://www.isoc.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/9a5c5e7f30c1db4aa91b55829e8fe1669213f65e",
+      "title": "Free for All! Assessing User Data Exposure to Advertising Libraries on Android",
+      "venue": "Network and Distributed System Security Symposium",
+      "year": 2016,
+      "citationCount": 91,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1949294",
+          "name": "Soteris Demetriou"
+        },
+        {
+          "authorId": "49079037",
+          "name": "Whitney Merrill"
+        },
+        {
+          "authorId": "144205306",
+          "name": "Wei Yang"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "1785347",
+          "name": "Carl A. Gunter"
+        }
+      ]
+    },
+    {
+      "paperId": "d572ca1bb12302402c56b883f45f14f2fea7f6f7",
+      "publicationVenue": {
+        "id": "e07422f9-c065-40c3-a37b-75e98dce79fe",
+        "name": "The Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Conf",
+          "WWW"
+        ],
+        "url": "http://www.iw3c2.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d572ca1bb12302402c56b883f45f14f2fea7f6f7",
+      "title": "Towards Mobile Query Auto-Completion: An Efficient Mobile Application-Aware Approach",
+      "venue": "The Web Conference",
+      "year": 2016,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2075364782",
+          "name": "Amit Goyal"
+        },
+        {
+          "authorId": "1389957009",
+          "name": "R. Baeza-Yates"
+        },
+        {
+          "authorId": "145882798",
+          "name": "Yi Chang"
+        },
+        {
+          "authorId": "153034701",
+          "name": "Jiawei Han"
+        },
+        {
+          "authorId": "1785347",
+          "name": "Carl A. Gunter"
+        },
+        {
+          "authorId": "2642895",
+          "name": "Hongbo Deng"
+        }
+      ]
+    },
+    {
+      "paperId": "12c88e7079e60cf43acbf457c48f53c4ea9c91d8",
+      "publicationVenue": {
+        "id": "8dce23a9-44e0-4381-a39e-2acc1edff700",
+        "name": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+          "Int ACM SIGIR Conf Res Dev Inf Retr",
+          "SIGIR",
+          "Annu Int ACM SIGIR Conf Res Dev Inf Retr"
+        ],
+        "url": "http://www.acm.org/sigir/"
+      },
+      "url": "https://www.semanticscholar.org/paper/12c88e7079e60cf43acbf457c48f53c4ea9c91d8",
+      "title": "adaQAC: Adaptive Query Auto-Completion via Implicit Negative Feedback",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2015,
+      "citationCount": 48,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2075364782",
+          "name": "Amit Goyal"
+        },
+        {
+          "authorId": "40414862",
+          "name": "Weize Kong"
+        },
+        {
+          "authorId": "2642895",
+          "name": "Hongbo Deng"
+        },
+        {
+          "authorId": "3300216",
+          "name": "Anlei Dong"
+        },
+        {
+          "authorId": "145882798",
+          "name": "Yi Chang"
+        },
+        {
+          "authorId": "1785347",
+          "name": "Carl A. Gunter"
+        },
+        {
+          "authorId": "145325584",
+          "name": "Jiawei Han"
+        }
+      ]
+    },
+    {
+      "paperId": "1fb80b573ab5d4d1396d82b754a46e62f86564d9",
+      "publicationVenue": {
+        "id": "6097e4b5-f3a8-4021-991b-031490b89f6f",
+        "name": "ACM International Conference on Bioinformatics, Computational Biology and Biomedicine",
+        "type": "conference",
+        "alternate_names": [
+          "BCB",
+          "ACM Int Conf Bioinform Comput Biology Biomed"
+        ],
+        "url": "http://acmbcb.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/1fb80b573ab5d4d1396d82b754a46e62f86564d9",
+      "title": "Discovering de facto diagnosis specialties",
+      "venue": "ACM International Conference on Bioinformatics, Computational Biology and Biomedicine",
+      "year": 2015,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2116676576",
+          "name": "Xun Lu"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "1785347",
+          "name": "Carl A. Gunter"
+        },
+        {
+          "authorId": "3025858",
+          "name": "D. Fabbri"
+        },
+        {
+          "authorId": "3041660",
+          "name": "David M. Liebovitz"
+        },
+        {
+          "authorId": "31717144",
+          "name": "B. Malin"
+        }
+      ]
+    },
+    {
+      "paperId": "8c0216997bd6308be4c1eb251a83641a4d1425a4",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8c0216997bd6308be4c1eb251a83641a4d1425a4",
+      "title": "Privacy risk and de-anonymization in heterogeneous information networks",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "b91a7fad84fb6cbb3b3a866a90bf421a972b6ace",
+      "publicationVenue": {
+        "id": "0d993d4a-09ba-4df8-90a4-7dfe25f0cb9e",
+        "name": "ACM Transactions on Intelligent Systems and Technology",
+        "type": "journal",
+        "alternate_names": [
+          "ACM Trans Intell Syst Technol"
+        ],
+        "issn": "2157-6904",
+        "url": "http://portal.acm.org/tist",
+        "alternate_urls": [
+          "https://tist.acm.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/b91a7fad84fb6cbb3b3a866a90bf421a972b6ace",
+      "title": "Effective Social Graph Deanonymization Based on Graph Structure and Descriptive Information",
+      "venue": "ACM Transactions on Intelligent Systems and Technology",
+      "year": 2015,
+      "citationCount": 43,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144371174",
+          "name": "Hao Fu"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "144076239",
+          "name": "Xing Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "ca48a20411f3b8f799ba39ca1774a517fe9afb78",
+      "publicationVenue": {
+        "id": "8dce23a9-44e0-4381-a39e-2acc1edff700",
+        "name": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "type": "conference",
+        "alternate_names": [
+          "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+          "Int ACM SIGIR Conf Res Dev Inf Retr",
+          "SIGIR",
+          "Annu Int ACM SIGIR Conf Res Dev Inf Retr"
+        ],
+        "url": "http://www.acm.org/sigir/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ca48a20411f3b8f799ba39ca1774a517fe9afb78",
+      "title": "Predicting Search Intent Based on Pre-Search Context",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2015,
+      "citationCount": 45,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "40414862",
+          "name": "Weize Kong"
+        },
+        {
+          "authorId": "2152153031",
+          "name": "Rui Li"
+        },
+        {
+          "authorId": "2118284720",
+          "name": "Jie Luo"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "145882798",
+          "name": "Yi Chang"
+        },
+        {
+          "authorId": "144890574",
+          "name": "James Allan"
+        }
+      ]
+    },
+    {
+      "paperId": "218315aa2be30d823ca9a83363a6d472c78e7258",
+      "publicationVenue": {
+        "id": "e07422f9-c065-40c3-a37b-75e98dce79fe",
+        "name": "The Web Conference",
+        "type": "conference",
+        "alternate_names": [
+          "Web Conf",
+          "WWW"
+        ],
+        "url": "http://www.iw3c2.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/218315aa2be30d823ca9a83363a6d472c78e7258",
+      "title": "De-anonymizing social graphs via node similarity",
+      "venue": "The Web Conference",
+      "year": 2014,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "144371174",
+          "name": "Hao Fu"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "144076239",
+          "name": "Xing Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "acd34cfa01cfe081de7dd3db50ccc3a980fe45ee",
+      "publicationVenue": {
+        "id": "74f47cf8-2839-4a56-959a-524dd0ed9e3e",
+        "name": "International Conference on Extending Database Technology",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Extending Database Technol",
+          "Extending Database Technology",
+          "Extending Database Technol",
+          "EDBT"
+        ],
+        "url": "http://www.edbt.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/acd34cfa01cfe081de7dd3db50ccc3a980fe45ee",
+      "title": "Privacy Risk in Anonymized Heterogeneous Information Networks",
+      "venue": "International Conference on Extending Database Technology",
+      "year": 2014,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "2110973226",
+          "name": "Xing Xie"
+        },
+        {
+          "authorId": "143922493",
+          "name": "K. Chang"
+        },
+        {
+          "authorId": "1785347",
+          "name": "Carl A. Gunter"
+        },
+        {
+          "authorId": "145325584",
+          "name": "Jiawei Han"
+        },
+        {
+          "authorId": "50141047",
+          "name": "Xiaofeng Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "48d355c65c45c09f6f3145cc50b9f0ae32564fc6",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/48d355c65c45c09f6f3145cc50b9f0ae32564fc6",
+      "title": "2016 Ieee International Conference on Big Data (big Data) Exploiting Temporal Divergence of Topic Distributions for Event Detection",
+      "venue": "",
+      "year": null,
+      "citationCount": 5,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3039403",
+          "name": "Rongda Zhu"
+        },
+        {
+          "authorId": "2085709",
+          "name": "Aston Zhang"
+        },
+        {
+          "authorId": "144439558",
+          "name": "Jian Peng"
+        },
+        {
+          "authorId": "1736467",
+          "name": "ChengXiang Zhai"
+        }
+      ]
+    }
+  ]
+}

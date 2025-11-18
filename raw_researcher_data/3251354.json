@@ -1,0 +1,695 @@
+{
+  "authorId": "3251354",
+  "name": "Alexandru Salcianu",
+  "affiliations": [],
+  "paperCount": 17,
+  "citationCount": 1275,
+  "hIndex": 12,
+  "papers": [
+    {
+      "paperId": "1ed66e048bb025e75aa5ea660545285212e5341f",
+      "publicationVenue": {
+        "id": "c22e7c36-3bfa-43e1-bb7b-edccdea2a780",
+        "name": "Journal of machine learning research",
+        "type": "journal",
+        "alternate_names": [
+          "Journal of Machine Learning Research",
+          "J mach learn res",
+          "J Mach Learn Res"
+        ],
+        "issn": "1532-4435",
+        "alternate_issns": [
+          "1533-7928"
+        ],
+        "url": "http://www.ai.mit.edu/projects/jmlr/",
+        "alternate_urls": [
+          "http://jmlr.csail.mit.edu/",
+          "http://www.jmlr.org/",
+          "http://portal.acm.org/affiliated/jmlr"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/1ed66e048bb025e75aa5ea660545285212e5341f",
+      "title": "Scaling Up Models and Data with t5x and seqio",
+      "venue": "Journal of machine learning research",
+      "year": 2022,
+      "citationCount": 191,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145625142",
+          "name": "Adam Roberts"
+        },
+        {
+          "authorId": "3351938",
+          "name": "Hyung Won Chung"
+        },
+        {
+          "authorId": "6639036",
+          "name": "Anselm Levskaya"
+        },
+        {
+          "authorId": "2159632445",
+          "name": "Gaurav Mishra"
+        },
+        {
+          "authorId": "2065251344",
+          "name": "James Bradbury"
+        },
+        {
+          "authorId": "3365603",
+          "name": "D. Andor"
+        },
+        {
+          "authorId": "46617804",
+          "name": "Sharan Narang"
+        },
+        {
+          "authorId": "144104130",
+          "name": "Brian Lester"
+        },
+        {
+          "authorId": "2160887964",
+          "name": "Colin Gaffney"
+        },
+        {
+          "authorId": "1579862074",
+          "name": "Afroz Mohiuddin"
+        },
+        {
+          "authorId": "41231781",
+          "name": "Curtis Hawthorne"
+        },
+        {
+          "authorId": "102549875",
+          "name": "Aitor Lewkowycz"
+        },
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        },
+        {
+          "authorId": "2807540",
+          "name": "Marc van Zee"
+        },
+        {
+          "authorId": "2058365883",
+          "name": "Jacob Austin"
+        },
+        {
+          "authorId": "7685850",
+          "name": "Sebastian Goodman"
+        },
+        {
+          "authorId": "7353832",
+          "name": "Livio Baldini Soares"
+        },
+        {
+          "authorId": "2118879033",
+          "name": "Haitang Hu"
+        },
+        {
+          "authorId": "2160888237",
+          "name": "Sasha Tsvyashchenko"
+        },
+        {
+          "authorId": "2841893",
+          "name": "Aakanksha Chowdhery"
+        },
+        {
+          "authorId": "1994065972",
+          "name": "Jasmijn Bastings"
+        },
+        {
+          "authorId": "2362210",
+          "name": "Jannis Bulian"
+        },
+        {
+          "authorId": "143936294",
+          "name": "Xavier Garc\u00eda"
+        },
+        {
+          "authorId": "2148023",
+          "name": "Jianmo Ni"
+        },
+        {
+          "authorId": "2107790634",
+          "name": "A. Chen"
+        },
+        {
+          "authorId": "1914502282",
+          "name": "Kathleen Kenealy"
+        },
+        {
+          "authorId": "144797264",
+          "name": "J. Clark"
+        },
+        {
+          "authorId": "2108320352",
+          "name": "Stephan Lee"
+        },
+        {
+          "authorId": "69045302",
+          "name": "Daniel H Garrette"
+        },
+        {
+          "authorId": "1405626394",
+          "name": "J. Lee-Thorp"
+        },
+        {
+          "authorId": "2402716",
+          "name": "Colin Raffel"
+        },
+        {
+          "authorId": "1846258",
+          "name": "Noam M. Shazeer"
+        },
+        {
+          "authorId": "39687627",
+          "name": "Marvin Ritter"
+        },
+        {
+          "authorId": "40377863",
+          "name": "Maarten Bosma"
+        },
+        {
+          "authorId": "144720379",
+          "name": "Alexandre Passos"
+        },
+        {
+          "authorId": "1406775898",
+          "name": "Jeremy B. Maitin-Shepard"
+        },
+        {
+          "authorId": "22640071",
+          "name": "Noah Fiedel"
+        },
+        {
+          "authorId": "3175815",
+          "name": "Mark Omernick"
+        },
+        {
+          "authorId": "4125424",
+          "name": "Brennan Saeta"
+        },
+        {
+          "authorId": "35474601",
+          "name": "Ryan Sepassi"
+        },
+        {
+          "authorId": "102291298",
+          "name": "A. Spiridonov"
+        },
+        {
+          "authorId": "2160888100",
+          "name": "Joshua Newlan"
+        },
+        {
+          "authorId": "2813347",
+          "name": "Andrea Gesmundo"
+        }
+      ]
+    },
+    {
+      "paperId": "c0da812786e43c0df8d228a0ae368b4b2a143732",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c0da812786e43c0df8d228a0ae368b4b2a143732",
+      "title": "L INEAR -T IME W ORD P IECE T OKENIZATION A P REPRINT",
+      "venue": "",
+      "year": 2021,
+      "citationCount": 4,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2831106",
+          "name": "Xinying Song"
+        },
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        },
+        {
+          "authorId": "2157993372",
+          "name": "Yang Song"
+        },
+        {
+          "authorId": "52355309",
+          "name": "Dave Dopson"
+        },
+        {
+          "authorId": "65855107",
+          "name": "Denny Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "72eed6570807c1d3c9a60289c7fc6813277e1e98",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/72eed6570807c1d3c9a60289c7fc6813277e1e98",
+      "title": "Fast WordPiece Tokenization",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2020,
+      "citationCount": 146,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2831106",
+          "name": "Xinying Song"
+        },
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        },
+        {
+          "authorId": "2157993372",
+          "name": "Yang Song"
+        },
+        {
+          "authorId": "52355309",
+          "name": "Dave Dopson"
+        },
+        {
+          "authorId": "65855107",
+          "name": "Denny Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "3e27529f55fa966201613b2d8b56b1934ce6af54",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/3e27529f55fa966201613b2d8b56b1934ce6af54",
+      "title": "Natural Language Processing with Small Feed-Forward Networks",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2017,
+      "citationCount": 38,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "35025872",
+          "name": "Jan A. Botha"
+        },
+        {
+          "authorId": "2585932",
+          "name": "Emily Pitler"
+        },
+        {
+          "authorId": "1698523",
+          "name": "Ji Ma"
+        },
+        {
+          "authorId": "3058597",
+          "name": "A. Bakalov"
+        },
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        },
+        {
+          "authorId": "145045509",
+          "name": "David Weiss"
+        },
+        {
+          "authorId": "143957226",
+          "name": "Ryan T. McDonald"
+        },
+        {
+          "authorId": "1754497",
+          "name": "Slav Petrov"
+        }
+      ]
+    },
+    {
+      "paperId": "2e38244fc44021a9b305ee162a6d6ff0f1b057df",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/2e38244fc44021a9b305ee162a6d6ff0f1b057df",
+      "title": "Pointer analysis for Java programs: novel techniques and applications",
+      "venue": "",
+      "year": 2006,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        }
+      ]
+    },
+    {
+      "paperId": "11c9ae3b42061cb164b3f410d6de21e5f7cecfb5",
+      "publicationVenue": {
+        "id": "c6cbcca3-5997-4133-abef-32aed91d40a5",
+        "name": "International Conference on Verification, Model Checking and Abstract Interpretation",
+        "type": "conference",
+        "alternate_names": [
+          "Verification, Model Checking and Abstract Interpretation",
+          "Verification Model Checking Abstr Interpr\u00e8t",
+          "VMCAI",
+          "Int Conf Verification Model Checking Abstr Interpr\u00e8t"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/11c9ae3b42061cb164b3f410d6de21e5f7cecfb5",
+      "title": "Purity and Side Effect Analysis for Java Programs",
+      "venue": "International Conference on Verification, Model Checking and Abstract Interpretation",
+      "year": 2005,
+      "citationCount": 231,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        },
+        {
+          "authorId": "1720971",
+          "name": "M. Rinard"
+        }
+      ]
+    },
+    {
+      "paperId": "3d054d91a3f57a12d000b72ee76b1e10497d55fe",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3d054d91a3f57a12d000b72ee76b1e10497d55fe",
+      "title": "Machine-Checkable Correctness Proofs for Intra-procedural Dataflow Analyses",
+      "venue": "COCV@ETAPS",
+      "year": 2005,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        },
+        {
+          "authorId": "1757320",
+          "name": "Konstantine Arkoudas"
+        }
+      ]
+    },
+    {
+      "paperId": "10fba381ec7bd7461521b99bf6488657d6140ff9",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/10fba381ec7bd7461521b99bf6488657d6140ff9",
+      "title": "A Combined Pointer and Purity Analysis for Java Programs",
+      "venue": "",
+      "year": 2004,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        },
+        {
+          "authorId": "1720971",
+          "name": "M. Rinard"
+        }
+      ]
+    },
+    {
+      "paperId": "4d163ef3c549384c557330074108c7ebe947230b",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4d163ef3c549384c557330074108c7ebe947230b",
+      "title": "Preliminary Version Machine-Checkable Correctness Proofs for Intra-procedural Dataflow Analyses ( Extended Version )",
+      "venue": "",
+      "year": 2004,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        },
+        {
+          "authorId": "1757320",
+          "name": "Konstantine Arkoudas"
+        }
+      ]
+    },
+    {
+      "paperId": "f447d218d61af52412ccf31673d518830a6648d8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f447d218d61af52412ccf31673d518830a6648d8",
+      "title": "A classification system and analysis for aspect-oriented programs",
+      "venue": "SIGSOFT '04/FSE-12",
+      "year": 2004,
+      "citationCount": 181,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1720971",
+          "name": "M. Rinard"
+        },
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        },
+        {
+          "authorId": "3019876",
+          "name": "Suhabe Bugrara"
+        }
+      ]
+    },
+    {
+      "paperId": "0ec72d29f73cba20643e944881f5880c7594f1c4",
+      "publicationVenue": {
+        "id": "8a1922a5-8e84-4ec6-9283-01f2ef1981fc",
+        "name": "ACM-SIGACT Symposium on Principles of Programming Languages",
+        "type": "conference",
+        "alternate_names": [
+          "Symp Princ Program Lang",
+          "Symposium on Principles of Programming Languages",
+          "POPL",
+          "ACM-SIGACT Symp Princ Program Lang"
+        ],
+        "url": "http://www.sigplan.org/Conferences/POPL/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0ec72d29f73cba20643e944881f5880c7594f1c4",
+      "title": "Interprocedural compatibility analysis for static object preallocation",
+      "venue": "ACM-SIGACT Symposium on Principles of Programming Languages",
+      "year": 2003,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3313239",
+          "name": "Ovidiu Gheorghioiu"
+        },
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        },
+        {
+          "authorId": "2263385926",
+          "name": "Martin C. Rinard"
+        }
+      ]
+    },
+    {
+      "paperId": "d266267898af08220bf08d7e79638d2623c3ab23",
+      "publicationVenue": {
+        "id": "a00a1a4f-16c6-4360-a8b3-a3f88d2fe78f",
+        "name": "ACM-SIGPLAN Symposium on Programming Language Design and Implementation",
+        "type": "conference",
+        "alternate_names": [
+          "ACM-SIGPLAN Symp Program Lang Des Implement",
+          "Program Lang Des Implement",
+          "Programming Language Design and Implementation",
+          "PLDI"
+        ],
+        "url": "http://portal.acm.org/proceedings/pldi/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d266267898af08220bf08d7e79638d2623c3ab23",
+      "title": "Ownership types for safe region-based memory management in real-time Java",
+      "venue": "ACM-SIGPLAN Symposium on Programming Language Design and Implementation",
+      "year": 2003,
+      "citationCount": 199,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1863850",
+          "name": "Chandrasekhar Boyapati"
+        },
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        },
+        {
+          "authorId": "2633419",
+          "name": "W. Beebee"
+        },
+        {
+          "authorId": "1720971",
+          "name": "M. Rinard"
+        }
+      ]
+    },
+    {
+      "paperId": "3a7c901ad723bdeff53d9430e7282f82a9b7d1c1",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/3a7c901ad723bdeff53d9430e7282f82a9b7d1c1",
+      "title": "A Type System for Safe Region-Based Memory Management in Real-Time Java",
+      "venue": "",
+      "year": 2002,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        },
+        {
+          "authorId": "1863850",
+          "name": "Chandrasekhar Boyapati"
+        },
+        {
+          "authorId": "2633419",
+          "name": "W. Beebee"
+        },
+        {
+          "authorId": "1720971",
+          "name": "M. Rinard"
+        }
+      ]
+    },
+    {
+      "paperId": "eb0bbf6e3baccfb71a4426647bf4462b9fde37ff",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/eb0bbf6e3baccfb71a4426647bf4462b9fde37ff",
+      "title": "Statically Determining Memory Consumption of Real-Time Java Threads by Ovidiu Gheorghioiu",
+      "venue": "",
+      "year": 2002,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "3313239",
+          "name": "Ovidiu Gheorghioiu"
+        },
+        {
+          "authorId": "1720971",
+          "name": "M. Rinard"
+        },
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        }
+      ]
+    },
+    {
+      "paperId": "4e2975ca6ba926b320d8b05c8d3d72fff8ebf51a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/4e2975ca6ba926b320d8b05c8d3d72fff8ebf51a",
+      "title": "Pointer and escape analysis for multithreaded programs",
+      "venue": "",
+      "year": 2001,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        },
+        {
+          "authorId": "2263385926",
+          "name": "Martin C. Rinard"
+        }
+      ]
+    },
+    {
+      "paperId": "8d5e1d3b483aa8892913a9847c83335ab34ba1b0",
+      "publicationVenue": {
+        "id": "11e94c04-6b12-41c9-963d-1a08cdbc306d",
+        "name": "ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming",
+        "type": "conference",
+        "alternate_names": [
+          "PPoPP",
+          "ACM SIGPLAN Symp Princ Pract Parallel Program",
+          "ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming",
+          "ACM SIGPLAN Symp Princ  Pract Parallel Program"
+        ],
+        "url": "http://www.acm.org/sigplan/ppopp.htm"
+      },
+      "url": "https://www.semanticscholar.org/paper/8d5e1d3b483aa8892913a9847c83335ab34ba1b0",
+      "title": "Pointer and escape analysis for multithreaded programs",
+      "venue": "ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming",
+      "year": 2001,
+      "citationCount": 169,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        },
+        {
+          "authorId": "1720971",
+          "name": "M. Rinard"
+        }
+      ]
+    },
+    {
+      "paperId": "e8406333abd3d4269d2a3c17b85611ee7bc2ff27",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/e8406333abd3d4269d2a3c17b85611ee7bc2ff27",
+      "title": "Pointer analysis and its applications for Java programs",
+      "venue": "",
+      "year": 2001,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3251354",
+          "name": "Alexandru Salcianu"
+        }
+      ]
+    }
+  ]
+}

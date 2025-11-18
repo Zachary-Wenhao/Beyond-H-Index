@@ -1,0 +1,6971 @@
+{
+  "authorId": "2089067",
+  "name": "Yoav Goldberg",
+  "affiliations": [
+    "Bar-Ilan University",
+    "Allen Institute for AI"
+  ],
+  "paperCount": 120,
+  "citationCount": 20377,
+  "hIndex": 51,
+  "papers": [
+    {
+      "paperId": "21322bfea2eaf3d439833768af5896c82c503515",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/21322bfea2eaf3d439833768af5896c82c503515",
+      "title": "Unsupervised Mapping of Arguments of Deverbal Nouns to Their Corresponding Verbal Labels",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "49430943",
+          "name": "A. Weinstein"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "3b4b31f3541b3f334edf3685c17acee564f703d1",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/3b4b31f3541b3f334edf3685c17acee564f703d1",
+      "title": "Conjunct Resolution in the Face of Verbal Omissions",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2188241744",
+          "name": "Royi Rassin"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2799181",
+          "name": "Reut Tsarfaty"
+        }
+      ]
+    },
+    {
+      "paperId": "d4fe24f56e3fceaee02b01d9c9c61d160ffaa730",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d4fe24f56e3fceaee02b01d9c9c61d160ffaa730",
+      "title": "Hierarchy Builder: Organizing Textual Spans into a Hierarchy to Facilitate Navigation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2221286398",
+          "name": "Itay Yair"
+        },
+        {
+          "authorId": "2221287875",
+          "name": "Hillel Taub-Tabib"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "fbbd76d71388f55ee6ac37a0b90b14d2f47f16a1",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/fbbd76d71388f55ee6ac37a0b90b14d2f47f16a1",
+      "title": "An Open-Source Gloss-Based Baseline for Spoken to Signed Language Translation",
+      "venue": "AT4SSL",
+      "year": 2023,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "73769459",
+          "name": "Amit Moryossef"
+        },
+        {
+          "authorId": "2055956928",
+          "name": "Mathias Muller"
+        },
+        {
+          "authorId": "2219034756",
+          "name": "Anne Gohring"
+        },
+        {
+          "authorId": "2112347487",
+          "name": "Zifan Jiang"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2756081",
+          "name": "Sarah Ebling"
+        }
+      ]
+    },
+    {
+      "paperId": "01a22ae0acf2387adb15e03cb3d91323681c0e40",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/01a22ae0acf2387adb15e03cb3d91323681c0e40",
+      "title": "McPhraSy: Multi-Context Phrase Similarity and Clustering",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2022,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112930221",
+          "name": "Amir D. N. Cohen"
+        },
+        {
+          "authorId": "1821892",
+          "name": "Hila Gonen"
+        },
+        {
+          "authorId": "15392843",
+          "name": "Ori Shapira"
+        },
+        {
+          "authorId": "48496836",
+          "name": "Ran Levy"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "873c3846e26853d300ecf73a6e910ecf6a84e63c",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/873c3846e26853d300ecf73a6e910ecf6a84e63c",
+      "title": "LingMess: Linguistically Informed Multi Expert Scorers for Coreference Resolution",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2022,
+      "citationCount": 35,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2166309570",
+          "name": "Shon Otmazgin"
+        },
+        {
+          "authorId": "1962331387",
+          "name": "Arie Cattan"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "f138edacb98895a6fd1fbdeb9c744bb336e9537e",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f138edacb98895a6fd1fbdeb9c744bb336e9537e",
+      "title": "F-coref: Fast, Accurate and Easy to Use Coreference Resolution",
+      "venue": "AACL",
+      "year": 2022,
+      "citationCount": 32,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2166309570",
+          "name": "Shon Otmazgin"
+        },
+        {
+          "authorId": "1962331387",
+          "name": "Arie Cattan"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "1781517a91be8248dd0febad65211a1b6614e199",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/1781517a91be8248dd0febad65211a1b6614e199",
+      "title": "On the Power of Saturated Transformers: A View from Circuit Complexity",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "citationCount": 5,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143696607",
+          "name": "William Merrill"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": null,
+          "name": "Roy Schwartz"
+        },
+        {
+          "authorId": "144365875",
+          "name": "Noah A. Smith"
+        }
+      ]
+    },
+    {
+      "paperId": "049f4c438ce9eefa622ae5ba5fb7e34443b86133",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/049f4c438ce9eefa622ae5ba5fb7e34443b86133",
+      "title": "Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 558,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Art"
+      ],
+      "authors": [
+        {
+          "authorId": "1821892",
+          "name": "Hila Gonen"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "0abcbdf40f872e6baf1c082811d4ae93df787698",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/0abcbdf40f872e6baf1c082811d4ae93df787698",
+      "title": "Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 316,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "22245981",
+          "name": "Mor Geva"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1750652",
+          "name": "Jonathan Berant"
+        }
+      ]
+    },
+    {
+      "paperId": "32948ae25dbd35f2d94a59c27f6bee935bd602b8",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/32948ae25dbd35f2d94a59c27f6bee935bd602b8",
+      "title": "Studying the Inductive Biases of RNNs with Synthetic Variations of Natural Languages",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 70,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51432464",
+          "name": "Shauli Ravfogel"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2467508",
+          "name": "Tal Linzen"
+        }
+      ]
+    },
+    {
+      "paperId": "361904ad7588e9fbe133e1b5cf6f490bddcbd551",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/361904ad7588e9fbe133e1b5cf6f490bddcbd551",
+      "title": "Aligning Vector-spaces with Noisy Supervised Lexicon",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "88729017",
+          "name": "N. Y. Lubin"
+        },
+        {
+          "authorId": "34508613",
+          "name": "J. Goldberger"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "3a33b55a9a8d495205682da767e74f3f23020dbc",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3a33b55a9a8d495205682da767e74f3f23020dbc",
+      "title": "Towards Neural Decompilation",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 41,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2773938",
+          "name": "O. Katz"
+        },
+        {
+          "authorId": "120029064",
+          "name": "Yuval Olshaker"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1743232",
+          "name": "Eran Yahav"
+        }
+      ]
+    },
+    {
+      "paperId": "7c593f8b5525851c2b453253835ddac6b1104a3b",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/7c593f8b5525851c2b453253835ddac6b1104a3b",
+      "title": "Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 180,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "73769459",
+          "name": "Amit Moryossef"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        }
+      ]
+    },
+    {
+      "paperId": "a439b10042185646d50e7ab532a6482b71d59339",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/a439b10042185646d50e7ab532a6482b71d59339",
+      "title": "Towards better substitution-based word sense induction",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 39,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51230905",
+          "name": "Asaf Amrami"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "b373f8249e5a45c89c38e0b45f499f38697b68a6",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/b373f8249e5a45c89c38e0b45f499f38697b68a6",
+      "title": "Filling Gender & Number Gaps in Neural Machine Translation with Black-box Context Injection",
+      "venue": "Proceedings of the First Workshop on Gender Bias in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 50,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "73769459",
+          "name": "Amit Moryossef"
+        },
+        {
+          "authorId": "2335771",
+          "name": "Roee Aharoni"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "c508f8ce3c84de19e41325be10ae6f9118534084",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/c508f8ce3c84de19e41325be10ae6f9118534084",
+      "title": "A Little Is Enough: Circumventing Defenses For Distributed Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "citationCount": 465,
+      "fieldsOfStudy": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "36022865",
+          "name": "Moran Baruch"
+        },
+        {
+          "authorId": "50521500",
+          "name": "Gilad Baruch"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "ca5814084dc4333e472fbaecef7ea7cf3be56ab8",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/ca5814084dc4333e472fbaecef7ea7cf3be56ab8",
+      "title": "Ab Antiquo: Proto-language Reconstruction with RNNs",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 7,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2064113379",
+          "name": "C. Meloni"
+        },
+        {
+          "authorId": "51432464",
+          "name": "Shauli Ravfogel"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "d5ff69bdd782101bc4ad11633d02af5ec8f9387c",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/d5ff69bdd782101bc4ad11633d02af5ec8f9387c",
+      "title": "How does Grammatical Gender Affect Noun Representations in Gender-Marking Languages?",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2019,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1821892",
+          "name": "Hila Gonen"
+        },
+        {
+          "authorId": "51208524",
+          "name": "Yova Kementchedjhieva"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "efeab0dcdb4c1cce5e537e57745d84774be99b9a",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/efeab0dcdb4c1cce5e537e57745d84774be99b9a",
+      "title": "Assessing BERT's Syntactic Abilities",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "citationCount": 489,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "f3b73161822f52e8917f7490e23e5f1f7767aa14",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/f3b73161822f52e8917f7490e23e5f1f7767aa14",
+      "title": "Transfer Learning Between Related Tasks Using Expected Label Proportions",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1387975397",
+          "name": "Matan Ben Noach"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "f5309ce8a1ba8e47bb9d01e83094d88ac8d3f3e1",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f5309ce8a1ba8e47bb9d01e83094d88ac8d3f3e1",
+      "title": "Where\u2019s My Head? Definition, Data Set, and Models for Numeric Fused-Head Identification and Resolution",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2019,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51131518",
+          "name": "Yanai Elazar"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "06354570d5f6be803d4a79bf59ecbb097bca8755",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/06354570d5f6be803d4a79bf59ecbb097bca8755",
+      "title": "On the Practical Computational Power of Finite Precision RNNs for Language Recognition",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 258,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "145909798",
+          "name": "Gail Weiss"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1743232",
+          "name": "Eran Yahav"
+        }
+      ]
+    },
+    {
+      "paperId": "084c5f64e91fe190ea02201cffebe4419f3c3889",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/084c5f64e91fe190ea02201cffebe4419f3c3889",
+      "title": "Word Sense Induction with Neural biLM and Symmetric Patterns",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 55,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "51230905",
+          "name": "Asaf Amrami"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "0d38284025bd0eabf92399b35df189ae1e034236",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0d38284025bd0eabf92399b35df189ae1e034236",
+      "title": "Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "citationCount": 101,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "50986630",
+          "name": "Shani Gamrian"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "22a10776774da81d7e20599329c6e7a05cd2c6b7",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/22a10776774da81d7e20599329c6e7a05cd2c6b7",
+      "title": "Language Modeling for Code-Switching: Evaluation, Integration of Monolingual Data, and Discriminative Training",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 31,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1821892",
+          "name": "Hila Gonen"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "37cc20381657bac28e68445d08432bb7da3cd087",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/37cc20381657bac28e68445d08432bb7da3cd087",
+      "title": "SetExpander: End-to-end Term Set Expansion Based on Multi-Context Term Embeddings",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2018,
+      "citationCount": 9,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2189159",
+          "name": "Jonathan Mamou"
+        },
+        {
+          "authorId": "2018909",
+          "name": "Oren Pereg"
+        },
+        {
+          "authorId": "2134755",
+          "name": "Moshe Wasserblat"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "51150806",
+          "name": "Alon Eirew"
+        },
+        {
+          "authorId": "51149726",
+          "name": "Yael Green"
+        },
+        {
+          "authorId": "51151204",
+          "name": "Shira Guskin"
+        },
+        {
+          "authorId": "2477428",
+          "name": "Peter Izsak"
+        },
+        {
+          "authorId": "51151949",
+          "name": "Daniel Korat"
+        }
+      ]
+    },
+    {
+      "paperId": "413a03a146e6f7b16c11e73243d83e6f1a6627a3",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/413a03a146e6f7b16c11e73243d83e6f1a6627a3",
+      "title": "Breaking NLI Systems with Sentences that Require Simple Lexical Inferences",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 363,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "46179620",
+          "name": "Max Glockner"
+        },
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "8444ebd873ee6274567403a2b47f1cde936be394",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/8444ebd873ee6274567403a2b47f1cde936be394",
+      "title": "Understanding Convolutional Neural Networks for Text Classification",
+      "venue": "BlackboxNLP@EMNLP",
+      "year": 2018,
+      "citationCount": 213,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "41016275",
+          "name": "Alon Jacovi"
+        },
+        {
+          "authorId": "3200435",
+          "name": "Oren Sar Shalom"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "d5629135ec1f29c6dc1ffd5cc5a65fe67445eee0",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/d5629135ec1f29c6dc1ffd5cc5a65fe67445eee0",
+      "title": "Adversarial Removal of Demographic Attributes from Text Data",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "citationCount": 304,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "51131518",
+          "name": "Yanai Elazar"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "dd2a14ca5a678695c2ab2ee23069321db86c9846",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/dd2a14ca5a678695c2ab2ee23069321db86c9846",
+      "title": "Split and Rephrase: Better Evaluation and Stronger Baselines",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2018,
+      "citationCount": 44,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2335771",
+          "name": "Roee Aharoni"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "ff9318366692bdf16b31b0b74ff71c0deeb4b227",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ff9318366692bdf16b31b0b74ff71c0deeb4b227",
+      "title": "LaVAN: Localized and Visible Adversarial Noise",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "citationCount": 237,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "94623284",
+          "name": "D. Karmon"
+        },
+        {
+          "authorId": "2944502",
+          "name": "Daniel Zoran"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "08d2663374bfbe467acbc576595bad76f95513af",
+      "publicationVenue": {
+        "id": "286e0e72-9cc4-4ec0-b77c-dcf863726a8f",
+        "name": "Familial Cancer",
+        "type": "journal",
+        "alternate_names": [
+          "Fam Cancer"
+        ],
+        "issn": "1389-9600",
+        "url": "https://link.springer.com/journal/10689"
+      },
+      "url": "https://www.semanticscholar.org/paper/08d2663374bfbe467acbc576595bad76f95513af",
+      "title": "International society for gastrointestinal hereditary tumours\u2014InSiGHT",
+      "venue": "Familial Cancer",
+      "year": 2017,
+      "citationCount": 4,
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2103639136",
+          "name": "P. V. Heteren"
+        },
+        {
+          "authorId": "2069471828",
+          "name": "S. Andrew"
+        },
+        {
+          "authorId": "2151456771",
+          "name": "G. Evans"
+        },
+        {
+          "authorId": "2098364009",
+          "name": "M. Farrell"
+        },
+        {
+          "authorId": "7416514",
+          "name": "M. Genuardi"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2111343279",
+          "name": "E. G. Garc\u00eda"
+        },
+        {
+          "authorId": "2067807464",
+          "name": "K. Guthrie"
+        },
+        {
+          "authorId": "5784658",
+          "name": "K. Heinimann"
+        },
+        {
+          "authorId": "5637508",
+          "name": "K. Jasperson"
+        },
+        {
+          "authorId": "2034022699",
+          "name": "M. Jongmans"
+        },
+        {
+          "authorId": "7764363",
+          "name": "N. Lavoine"
+        },
+        {
+          "authorId": "4166147",
+          "name": "T. Ripperger"
+        },
+        {
+          "authorId": "90088919",
+          "name": "L. Senter"
+        },
+        {
+          "authorId": "5392314",
+          "name": "W. Sjursen"
+        },
+        {
+          "authorId": "7022517",
+          "name": "L. Sunde"
+        },
+        {
+          "authorId": "4650699",
+          "name": "C. Therkildsen"
+        },
+        {
+          "authorId": "143693551",
+          "name": "M. Tibiletti"
+        },
+        {
+          "authorId": "2094797362",
+          "name": "Y. Vos"
+        },
+        {
+          "authorId": "2237164359",
+          "name": "A. Wagner"
+        },
+        {
+          "authorId": "2000927891",
+          "name": "I. Winship"
+        },
+        {
+          "authorId": "2057909783",
+          "name": "S. Zimmermann"
+        }
+      ]
+    },
+    {
+      "paperId": "3615c89fee83759f465ff09e6ca68258bd81886d",
+      "publicationVenue": {
+        "id": "555db9fd-8025-4984-8082-971e1e6bdb24",
+        "name": "IBM Journal of Research and Development",
+        "type": "journal",
+        "alternate_names": [
+          "IBM J Res Dev",
+          "Ibm J Res Dev",
+          "Ibm Journal of Research and Development"
+        ],
+        "issn": "0018-8646",
+        "alternate_issns": [
+          "2151-8556"
+        ],
+        "url": "http://www.research.ibm.com/journal/index.html",
+        "alternate_urls": [
+          "http://ieeexplore.ieee.org/servlet/opac?punumber=5288520"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/3615c89fee83759f465ff09e6ca68258bd81886d",
+      "title": "Analysis of sentence embedding models using prediction tasks in natural language processing",
+      "venue": "IBM Journal of Research and Development",
+      "year": 2017,
+      "citationCount": 19,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2342123860",
+          "name": "Yossi Adi"
+        },
+        {
+          "authorId": "2098460",
+          "name": "Einat Kermany"
+        },
+        {
+          "authorId": "2083259",
+          "name": "Yonatan Belinkov"
+        },
+        {
+          "authorId": "3120346",
+          "name": "Ofer Lavi"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "480d545ac4a4ffff5b1bc291c2de613192e35d91",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/480d545ac4a4ffff5b1bc291c2de613192e35d91",
+      "title": "DyNet: The Dynamic Neural Network Toolkit",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "citationCount": 386,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        },
+        {
+          "authorId": "1745899",
+          "name": "Chris Dyer"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "144633696",
+          "name": "Austin Matthews"
+        },
+        {
+          "authorId": "145585097",
+          "name": "Bridger Waleed Ammar"
+        },
+        {
+          "authorId": "49513989",
+          "name": "Antonios Anastasopoulos"
+        },
+        {
+          "authorId": "143668305",
+          "name": "Miguel Ballesteros"
+        },
+        {
+          "authorId": "145287425",
+          "name": "David Chiang"
+        },
+        {
+          "authorId": "7197436",
+          "name": "Daniel Clothiaux"
+        },
+        {
+          "authorId": "143620680",
+          "name": "Trevor Cohn"
+        },
+        {
+          "authorId": "1800354",
+          "name": "Kevin Duh"
+        },
+        {
+          "authorId": "1779225",
+          "name": "Manaal Faruqui"
+        },
+        {
+          "authorId": "2056157475",
+          "name": "Cynthia Gan"
+        },
+        {
+          "authorId": "2758616",
+          "name": "Dan Garrette"
+        },
+        {
+          "authorId": "40608686",
+          "name": "Yangfeng Ji"
+        },
+        {
+          "authorId": "47648549",
+          "name": "Lingpeng Kong"
+        },
+        {
+          "authorId": "3376845",
+          "name": "A. Kuncoro"
+        },
+        {
+          "authorId": "48387892",
+          "name": "Manish Kumar"
+        },
+        {
+          "authorId": "8805254",
+          "name": "Chaitanya Malaviya"
+        },
+        {
+          "authorId": "144397625",
+          "name": "Paul Michel"
+        },
+        {
+          "authorId": "143800179",
+          "name": "Yusuke Oda"
+        },
+        {
+          "authorId": "144422314",
+          "name": "Matthew Richardson"
+        },
+        {
+          "authorId": "2362960",
+          "name": "Naomi Saphra"
+        },
+        {
+          "authorId": "2705113",
+          "name": "Swabha Swayamdipta"
+        },
+        {
+          "authorId": "38253388",
+          "name": "Pengcheng Yin"
+        }
+      ]
+    },
+    {
+      "paperId": "4e4cae6d93a1c2bdc2ac0fa2810a270052378fe2",
+      "publicationVenue": {
+        "id": "fc0a208c-acb7-47dc-a0d4-af8190e21d29",
+        "name": "International Conference on Machine Learning",
+        "type": "conference",
+        "alternate_names": [
+          "ICML",
+          "Int Conf Mach Learn"
+        ],
+        "url": "https://icml.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4e4cae6d93a1c2bdc2ac0fa2810a270052378fe2",
+      "title": "Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "citationCount": 181,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "145909798",
+          "name": "Gail Weiss"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1743232",
+          "name": "Eran Yahav"
+        }
+      ]
+    },
+    {
+      "paperId": "57133ef4c4de4d54a57686b8a914b06e4ff4aab5",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/57133ef4c4de4d54a57686b8a914b06e4ff4aab5",
+      "title": "Universal Dependencies 2.1",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 406,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Political Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1720988",
+          "name": "Joakim Nivre"
+        },
+        {
+          "authorId": "1806948",
+          "name": "Zeljko Agic"
+        },
+        {
+          "authorId": "1742056",
+          "name": "Lars Ahrenberg"
+        },
+        {
+          "authorId": "3186121",
+          "name": "Lene Antonsen"
+        },
+        {
+          "authorId": "2948997",
+          "name": "M. J. Aranzabe"
+        },
+        {
+          "authorId": "1749558",
+          "name": "Masayuki Asahara"
+        },
+        {
+          "authorId": "71093059",
+          "name": "Luma Ateyah"
+        },
+        {
+          "authorId": "144643789",
+          "name": "Mohammed Attia"
+        },
+        {
+          "authorId": "2136230",
+          "name": "Aitziber Atutxa"
+        },
+        {
+          "authorId": "2006387",
+          "name": "L. Augustinus"
+        },
+        {
+          "authorId": "8634820",
+          "name": "E. Badmaeva"
+        },
+        {
+          "authorId": "143668305",
+          "name": "Miguel Ballesteros"
+        },
+        {
+          "authorId": "49320126",
+          "name": "Esha Banerjee"
+        },
+        {
+          "authorId": "51499169",
+          "name": "S. Bank"
+        },
+        {
+          "authorId": "1745399",
+          "name": "V. Mititelu"
+        },
+        {
+          "authorId": "144661918",
+          "name": "John Bauer"
+        },
+        {
+          "authorId": "3312584",
+          "name": "K. Bengoetxea"
+        },
+        {
+          "authorId": "40578334",
+          "name": "Riyaz Ahmad Bhat"
+        },
+        {
+          "authorId": "144598129",
+          "name": "Eckhard Bick"
+        },
+        {
+          "authorId": "1772575",
+          "name": "Victoria Bobicev"
+        },
+        {
+          "authorId": "3460491",
+          "name": "Carl B\u00f6rstell"
+        },
+        {
+          "authorId": "34705135",
+          "name": "C. Bosco"
+        },
+        {
+          "authorId": "144254013",
+          "name": "G. Bouma"
+        },
+        {
+          "authorId": "1799822",
+          "name": "Sam Bowman"
+        },
+        {
+          "authorId": "2495532",
+          "name": "A. Burchardt"
+        },
+        {
+          "authorId": "2636107",
+          "name": "Marie Candito"
+        },
+        {
+          "authorId": "73242346",
+          "name": "G. Caron"
+        },
+        {
+          "authorId": "3348151",
+          "name": "G\u00fcl\u015fen Eryi\u011fit"
+        },
+        {
+          "authorId": "49426148",
+          "name": "G. Celano"
+        },
+        {
+          "authorId": "72540590",
+          "name": "S. Cetin"
+        },
+        {
+          "authorId": "35921069",
+          "name": "Fabricio Chalub"
+        },
+        {
+          "authorId": "2155313947",
+          "name": "Jinho Choi"
+        },
+        {
+          "authorId": "2902216",
+          "name": "Silvie Cinkov\u00e1"
+        },
+        {
+          "authorId": "103304646",
+          "name": "\u00c7a\u011fr\u0131 \u00c7\u00f6ltekin"
+        },
+        {
+          "authorId": "40003246",
+          "name": "Miriam Connor"
+        },
+        {
+          "authorId": "2052565770",
+          "name": "Elizabeth Davidson"
+        },
+        {
+          "authorId": "2241127",
+          "name": "M. Marneffe"
+        },
+        {
+          "authorId": "143893075",
+          "name": "Valeria C V de Paiva"
+        },
+        {
+          "authorId": "7874733",
+          "name": "A. D. Ilarraza"
+        },
+        {
+          "authorId": "35279571",
+          "name": "Peter Dirix"
+        },
+        {
+          "authorId": "3071581",
+          "name": "Kaja Dobrovoljc"
+        },
+        {
+          "authorId": "2277385",
+          "name": "Timothy Dozat"
+        },
+        {
+          "authorId": "22341186",
+          "name": "Kira Droganova"
+        },
+        {
+          "authorId": "50323047",
+          "name": "P. Dwivedi"
+        },
+        {
+          "authorId": "12786608",
+          "name": "Marhaba Eli"
+        },
+        {
+          "authorId": "35309245",
+          "name": "A. Elkahky"
+        },
+        {
+          "authorId": "1696434",
+          "name": "T. Erjavec"
+        },
+        {
+          "authorId": "144844761",
+          "name": "Rich\u00e1rd Farkas"
+        },
+        {
+          "authorId": "2084848348",
+          "name": "Hector Fernandez Alcalde"
+        },
+        {
+          "authorId": "144116340",
+          "name": "Jennifer Foster"
+        },
+        {
+          "authorId": "145504727",
+          "name": "Cl\u00e1udia Freitas"
+        },
+        {
+          "authorId": "93830751",
+          "name": "K. Gajdosova"
+        },
+        {
+          "authorId": "2070170028",
+          "name": "Daniel Galbraith"
+        },
+        {
+          "authorId": "2110636562",
+          "name": "Marcos Garc\u00eda"
+        },
+        {
+          "authorId": "32568585",
+          "name": "Moa G\u00e4rdenfors"
+        },
+        {
+          "authorId": "35228916",
+          "name": "Kim Gerdes"
+        },
+        {
+          "authorId": "1694491",
+          "name": "Filip Ginter"
+        },
+        {
+          "authorId": "2885476",
+          "name": "Iakes Goenaga"
+        },
+        {
+          "authorId": "1748238",
+          "name": "Koldo Gojenola"
+        },
+        {
+          "authorId": "1399432033",
+          "name": "Memduh G\u00f6kirmak"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "3312948",
+          "name": "Xavier G\u00f3mez Guinovart"
+        },
+        {
+          "authorId": "2074504490",
+          "name": "Berta Gonz\u00e1lez Saavedra"
+        },
+        {
+          "authorId": "49571058",
+          "name": "M. Grioni"
+        },
+        {
+          "authorId": "2496181",
+          "name": "Normunds Gruzitis"
+        },
+        {
+          "authorId": "145652228",
+          "name": "Bruno Guillaume"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "144002335",
+          "name": "Jan Hajic"
+        },
+        {
+          "authorId": "51422135",
+          "name": "L. My"
+        },
+        {
+          "authorId": "2055587557",
+          "name": "K. Harris"
+        },
+        {
+          "authorId": "2918261",
+          "name": "D. Haug"
+        },
+        {
+          "authorId": "1963585",
+          "name": "Barbora Hladk\u00e1"
+        },
+        {
+          "authorId": "2489033",
+          "name": "Jaroslava Hlav\u00e1cov\u00e1"
+        },
+        {
+          "authorId": "133958199",
+          "name": "Florinel Hociung"
+        },
+        {
+          "authorId": "47691315",
+          "name": "Petter Hohle"
+        },
+        {
+          "authorId": "1733665",
+          "name": "Radu Ion"
+        },
+        {
+          "authorId": "2531496",
+          "name": "Elena Irimia"
+        },
+        {
+          "authorId": "153924086",
+          "name": "Tom\u00e1\u0161 Jel\u00ednek"
+        },
+        {
+          "authorId": "37854230",
+          "name": "Anders Johannsen"
+        },
+        {
+          "authorId": "144393776",
+          "name": "Fredrik J\u00f8rgensen"
+        },
+        {
+          "authorId": "1415054524",
+          "name": "H\u00fcner Ka\u015f\u0131kara"
+        },
+        {
+          "authorId": "35562751",
+          "name": "H. Kanayama"
+        },
+        {
+          "authorId": "1776599",
+          "name": "Jenna Kanerva"
+        },
+        {
+          "authorId": "73345985",
+          "name": "Tolga Kayadelen"
+        },
+        {
+          "authorId": "2371631",
+          "name": "V\u00e1clava Kettnerov\u00e1"
+        },
+        {
+          "authorId": "49996036",
+          "name": "Jesse Kirchner"
+        },
+        {
+          "authorId": "2912909",
+          "name": "N. Kotsyba"
+        },
+        {
+          "authorId": "1755311",
+          "name": "Simon Krek"
+        },
+        {
+          "authorId": "1796619",
+          "name": "Veronika Laippala"
+        },
+        {
+          "authorId": "72899649",
+          "name": "Lorenzo Lambertino"
+        },
+        {
+          "authorId": "31682812",
+          "name": "Tatiana Lando"
+        },
+        {
+          "authorId": "2119260465",
+          "name": "John Lee"
+        },
+        {
+          "authorId": "51334859",
+          "name": "P. L. H\u1ed3ng"
+        },
+        {
+          "authorId": "2038285",
+          "name": "Alessandro Lenci"
+        },
+        {
+          "authorId": "73041331",
+          "name": "Saran Lertpradit"
+        },
+        {
+          "authorId": "34885426",
+          "name": "H. Leung"
+        },
+        {
+          "authorId": "2109445845",
+          "name": "Cheuk Ying Li"
+        },
+        {
+          "authorId": "150151373",
+          "name": "Josie Li"
+        },
+        {
+          "authorId": "2149140096",
+          "name": "Keying Li"
+        },
+        {
+          "authorId": "3358706",
+          "name": "Nikola Ljubesic"
+        },
+        {
+          "authorId": "48055935",
+          "name": "O. Loginova"
+        },
+        {
+          "authorId": "2864548",
+          "name": "O. Lyashevskaya"
+        },
+        {
+          "authorId": "143617906",
+          "name": "Teresa Lynn"
+        },
+        {
+          "authorId": "22330068",
+          "name": "Vivien Macketanz"
+        },
+        {
+          "authorId": "3197800",
+          "name": "Aibek Makazhanov"
+        },
+        {
+          "authorId": "3848524",
+          "name": "M. Mandl"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        },
+        {
+          "authorId": "2639625",
+          "name": "Catalina Maranduc"
+        },
+        {
+          "authorId": "2536245",
+          "name": "D. Mare\u010dek"
+        },
+        {
+          "authorId": "71792678",
+          "name": "Katrin Marheinecke"
+        },
+        {
+          "authorId": "3017695",
+          "name": "H\u00e9ctor Mart\u00ednez Alonso"
+        },
+        {
+          "authorId": "2069906156",
+          "name": "Andr\u00e9 Martins"
+        },
+        {
+          "authorId": "35207995",
+          "name": "J. Masek"
+        },
+        {
+          "authorId": "1681502",
+          "name": "Yuji Matsumoto"
+        },
+        {
+          "authorId": "143957226",
+          "name": "Ryan T. McDonald"
+        },
+        {
+          "authorId": "145454056",
+          "name": "Gustavo Mendon\u00e7a"
+        },
+        {
+          "authorId": "51419831",
+          "name": "N. Miekka"
+        },
+        {
+          "authorId": "2813341",
+          "name": "Anna Missil\u00e4"
+        },
+        {
+          "authorId": "117810085",
+          "name": "C\u0103t\u0103lina Mititelu"
+        },
+        {
+          "authorId": "1768065",
+          "name": "Yusuke Miyao"
+        },
+        {
+          "authorId": "1798464",
+          "name": "S. Montemagni"
+        },
+        {
+          "authorId": "31595908",
+          "name": "Amir More"
+        },
+        {
+          "authorId": "2058450216",
+          "name": "L. Romero"
+        },
+        {
+          "authorId": "144873535",
+          "name": "Shinsuke Mori"
+        },
+        {
+          "authorId": "71996621",
+          "name": "Bohdan Moskalevskyi"
+        },
+        {
+          "authorId": "2744709",
+          "name": "K. Muischnek"
+        },
+        {
+          "authorId": "2451602",
+          "name": "Kaili M\u00fc\u00fcrisep"
+        },
+        {
+          "authorId": "72677539",
+          "name": "Pinkey Nainwani"
+        },
+        {
+          "authorId": "3045946",
+          "name": "A. Nedoluzhko"
+        },
+        {
+          "authorId": "1414084450",
+          "name": "Gunta Nespore-Berzkalne"
+        },
+        {
+          "authorId": "51363775",
+          "name": "Luong Nguyen Thi"
+        },
+        {
+          "authorId": "51405065",
+          "name": "Huyen Thi Minh Nguyen"
+        },
+        {
+          "authorId": "48942032",
+          "name": "Vitaly Nikolaev"
+        },
+        {
+          "authorId": "4925686",
+          "name": "H. Nurmi"
+        },
+        {
+          "authorId": "2659566",
+          "name": "Stina Ojala"
+        },
+        {
+          "authorId": "1710801",
+          "name": "P. Osenova"
+        },
+        {
+          "authorId": "3141689",
+          "name": "Robert \u00d6stling"
+        },
+        {
+          "authorId": "2732223",
+          "name": "Lilja \u00d8vrelid"
+        },
+        {
+          "authorId": "2071919774",
+          "name": "E. Pascual"
+        },
+        {
+          "authorId": "3271120",
+          "name": "M. Passarotti"
+        },
+        {
+          "authorId": "2810504",
+          "name": "Cenel-Augusto Perez"
+        },
+        {
+          "authorId": "144849515",
+          "name": "Guy Perrier"
+        },
+        {
+          "authorId": "1754497",
+          "name": "Slav Petrov"
+        },
+        {
+          "authorId": "2219111",
+          "name": "Jussi Piitulainen"
+        },
+        {
+          "authorId": "2585932",
+          "name": "Emily Pitler"
+        },
+        {
+          "authorId": "2022124",
+          "name": "Barbara Plank"
+        },
+        {
+          "authorId": "3209310",
+          "name": "M. Popel"
+        },
+        {
+          "authorId": "2136505",
+          "name": "L. Pretkalnina"
+        },
+        {
+          "authorId": "3349910",
+          "name": "Prokopis Prokopidis"
+        },
+        {
+          "authorId": "2141985",
+          "name": "Tiina Puolakainen"
+        },
+        {
+          "authorId": "1708916",
+          "name": "S. Pyysalo"
+        },
+        {
+          "authorId": "13836343",
+          "name": "Alexandre Rademaker"
+        },
+        {
+          "authorId": "30725143",
+          "name": "L. Ramasamy"
+        },
+        {
+          "authorId": "1759583",
+          "name": "Taraka Rama"
+        },
+        {
+          "authorId": "24881798",
+          "name": "Vinit Ravishankar"
+        },
+        {
+          "authorId": "145515090",
+          "name": "Livy Real"
+        },
+        {
+          "authorId": "145732771",
+          "name": "Siva Reddy"
+        },
+        {
+          "authorId": "2156673",
+          "name": "Georg Rehm"
+        },
+        {
+          "authorId": "2063076526",
+          "name": "L. Rinaldi"
+        },
+        {
+          "authorId": "2426183",
+          "name": "Laura Rituma"
+        },
+        {
+          "authorId": "16802851",
+          "name": "M. Romanenko"
+        },
+        {
+          "authorId": "2436967",
+          "name": "Rudolf Rosa"
+        },
+        {
+          "authorId": "72556692",
+          "name": "D. Rovati"
+        },
+        {
+          "authorId": "2075036",
+          "name": "B. Sagot"
+        },
+        {
+          "authorId": "46448441",
+          "name": "Shadi Saleh"
+        },
+        {
+          "authorId": "2044631",
+          "name": "T. Samard\u017ei\u0107"
+        },
+        {
+          "authorId": "2040952",
+          "name": "M. Sanguinetti"
+        },
+        {
+          "authorId": "2241663",
+          "name": "Baiba Saulite"
+        },
+        {
+          "authorId": "145157639",
+          "name": "Sebastian Schuster"
+        },
+        {
+          "authorId": "1679170",
+          "name": "Djam\u00e9 Seddah"
+        },
+        {
+          "authorId": "1711993",
+          "name": "Wolfgang Seeker"
+        },
+        {
+          "authorId": "144229552",
+          "name": "M. Seraji"
+        },
+        {
+          "authorId": "39681720",
+          "name": "Mo Shen"
+        },
+        {
+          "authorId": "47788077",
+          "name": "A. Shimada"
+        },
+        {
+          "authorId": "145822824",
+          "name": "Dmitry V. Sichinava"
+        },
+        {
+          "authorId": "145851426",
+          "name": "Natalia Silveira"
+        },
+        {
+          "authorId": "35184435",
+          "name": "M. Simi"
+        },
+        {
+          "authorId": "14162978",
+          "name": "R. Simionescu"
+        },
+        {
+          "authorId": "2517098",
+          "name": "K. Simk\u00f3"
+        },
+        {
+          "authorId": "46430735",
+          "name": "M. \u0160imkov\u00e1"
+        },
+        {
+          "authorId": "143964258",
+          "name": "K. Simov"
+        },
+        {
+          "authorId": "2109295302",
+          "name": "Aaron Smith"
+        },
+        {
+          "authorId": "50372685",
+          "name": "Antonio Stella"
+        },
+        {
+          "authorId": "2757959",
+          "name": "Milan Straka"
+        },
+        {
+          "authorId": "72151653",
+          "name": "Jana Strnadov\u00e1"
+        },
+        {
+          "authorId": "2064207832",
+          "name": "A. Suhr"
+        },
+        {
+          "authorId": "3461272",
+          "name": "U. Sulubacak"
+        },
+        {
+          "authorId": "2719154",
+          "name": "Z. Sz\u00e1nt\u00f3"
+        },
+        {
+          "authorId": "3405525",
+          "name": "Dima Taji"
+        },
+        {
+          "authorId": "49125917",
+          "name": "Takaaki Tanaka"
+        },
+        {
+          "authorId": "2844398",
+          "name": "Trond Trosterud"
+        },
+        {
+          "authorId": "13991932",
+          "name": "A. Trukhina"
+        },
+        {
+          "authorId": "2799181",
+          "name": "Reut Tsarfaty"
+        },
+        {
+          "authorId": "3262036",
+          "name": "Francis M. Tyers"
+        },
+        {
+          "authorId": "2304550",
+          "name": "Sumire Uematsu"
+        },
+        {
+          "authorId": "3344673",
+          "name": "Zdenka Uresov\u00e1"
+        },
+        {
+          "authorId": "2962373",
+          "name": "Larraitz Uria"
+        },
+        {
+          "authorId": "1781790",
+          "name": "H. Uszkoreit"
+        },
+        {
+          "authorId": "2070714",
+          "name": "Sowmya Vajjala"
+        },
+        {
+          "authorId": "9329645",
+          "name": "D. V. Niekerk"
+        },
+        {
+          "authorId": "143715131",
+          "name": "Gertjan van Noord"
+        },
+        {
+          "authorId": "145514135",
+          "name": "Viktor Varga"
+        },
+        {
+          "authorId": "1400417301",
+          "name": "Eric Villemonte de la Clergerie"
+        },
+        {
+          "authorId": "2536091",
+          "name": "V. Vincze"
+        },
+        {
+          "authorId": "1581377389",
+          "name": "L. Wallin"
+        },
+        {
+          "authorId": "145357028",
+          "name": "J. Washington"
+        },
+        {
+          "authorId": "1982337",
+          "name": "Mats Wir\u00e9n"
+        },
+        {
+          "authorId": "2347283",
+          "name": "Tak-sum Wong"
+        },
+        {
+          "authorId": null,
+          "name": "Zhuoran Yu"
+        },
+        {
+          "authorId": "2468732",
+          "name": "Z. \u017dabokrtsk\u00fd"
+        },
+        {
+          "authorId": "2548420",
+          "name": "Amir Zeldes"
+        },
+        {
+          "authorId": "1771298",
+          "name": "Daniel Zeman"
+        },
+        {
+          "authorId": "35526837",
+          "name": "Hanzhi Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "6c27d9844fcb94dfcd6decab7df559134d6d4fd7",
+      "publicationVenue": {
+        "id": "400d73aa-0d51-4582-9144-2069958881cd",
+        "name": "Synthesis Lectures on Human Language Technologies",
+        "type": "journal",
+        "alternate_names": [
+          "Synth Lect Hum Lang Technol"
+        ],
+        "issn": "1947-4040",
+        "url": "https://www.morganclaypool.com/toc/hlt/1/1"
+      },
+      "url": "https://www.semanticscholar.org/paper/6c27d9844fcb94dfcd6decab7df559134d6d4fd7",
+      "title": "Neural Network Methods for Natural Language Processing",
+      "venue": "Synthesis Lectures on Human Language Technologies",
+      "year": 2017,
+      "citationCount": 277,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "709f0a4229e40339b595072ae9fbd3a1ae1fd93e",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/709f0a4229e40339b595072ae9fbd3a1ae1fd93e",
+      "title": "On-the-fly Operation Batching in Dynamic Computation Graphs",
+      "venue": "Neural Information Processing Systems",
+      "year": 2017,
+      "citationCount": 60,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "1700325",
+          "name": "Graham Neubig"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1745899",
+          "name": "Chris Dyer"
+        }
+      ]
+    },
+    {
+      "paperId": "a8cc07f4285864b899d8d9193d7378900a664834",
+      "publicationVenue": {
+        "id": "8eafd93c-9a65-466f-bb29-8a8a3d194cf8",
+        "name": "International Conference on Dependency Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "DepLing",
+          "Int Conf Depend Linguistics"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/a8cc07f4285864b899d8d9193d7378900a664834",
+      "title": "Capturing Dependency Syntax with \u201cDeep\u201d Sequential Models",
+      "venue": "International Conference on Dependency Linguistics",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "af9d67bad068a77d165e145368e98bf7bd7cce72",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/af9d67bad068a77d165e145368e98bf7bd7cce72",
+      "title": "Universal Dependencies 2.0 \u2013 CoNLL 2017 Shared Task Development and Test Data",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 67,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1720988",
+          "name": "Joakim Nivre"
+        },
+        {
+          "authorId": "1806948",
+          "name": "Zeljko Agic"
+        },
+        {
+          "authorId": "1742056",
+          "name": "Lars Ahrenberg"
+        },
+        {
+          "authorId": "3186121",
+          "name": "Lene Antonsen"
+        },
+        {
+          "authorId": "2948997",
+          "name": "M. J. Aranzabe"
+        },
+        {
+          "authorId": "1749558",
+          "name": "Masayuki Asahara"
+        },
+        {
+          "authorId": "71093059",
+          "name": "Luma Ateyah"
+        },
+        {
+          "authorId": "144643789",
+          "name": "Mohammed Attia"
+        },
+        {
+          "authorId": "2136230",
+          "name": "Aitziber Atutxa"
+        },
+        {
+          "authorId": "8634820",
+          "name": "E. Badmaeva"
+        },
+        {
+          "authorId": "143668305",
+          "name": "Miguel Ballesteros"
+        },
+        {
+          "authorId": "49320126",
+          "name": "Esha Banerjee"
+        },
+        {
+          "authorId": "51499169",
+          "name": "S. Bank"
+        },
+        {
+          "authorId": "144661918",
+          "name": "John Bauer"
+        },
+        {
+          "authorId": "3312584",
+          "name": "K. Bengoetxea"
+        },
+        {
+          "authorId": "40578334",
+          "name": "Riyaz Ahmad Bhat"
+        },
+        {
+          "authorId": "144598129",
+          "name": "Eckhard Bick"
+        },
+        {
+          "authorId": "34705135",
+          "name": "C. Bosco"
+        },
+        {
+          "authorId": "144254013",
+          "name": "G. Bouma"
+        },
+        {
+          "authorId": "3644767",
+          "name": "Samuel R. Bowman"
+        },
+        {
+          "authorId": "2495532",
+          "name": "A. Burchardt"
+        },
+        {
+          "authorId": "2636107",
+          "name": "Marie Candito"
+        },
+        {
+          "authorId": "73242346",
+          "name": "G. Caron"
+        },
+        {
+          "authorId": "3348151",
+          "name": "G\u00fcl\u015fen Eryi\u011fit"
+        },
+        {
+          "authorId": "49426148",
+          "name": "G. Celano"
+        },
+        {
+          "authorId": "72540590",
+          "name": "S. Cetin"
+        },
+        {
+          "authorId": "35921069",
+          "name": "Fabricio Chalub"
+        },
+        {
+          "authorId": "2155313947",
+          "name": "Jinho Choi"
+        },
+        {
+          "authorId": "5303499",
+          "name": "Yongseok Cho"
+        },
+        {
+          "authorId": "2902216",
+          "name": "Silvie Cinkov\u00e1"
+        },
+        {
+          "authorId": "2798815",
+          "name": "\u00c7agri \u00c7\u00f6ltekin"
+        },
+        {
+          "authorId": "40003246",
+          "name": "Miriam Connor"
+        },
+        {
+          "authorId": "2241127",
+          "name": "M. Marneffe"
+        },
+        {
+          "authorId": "143893075",
+          "name": "Valeria C V de Paiva"
+        },
+        {
+          "authorId": "7874733",
+          "name": "A. D. Ilarraza"
+        },
+        {
+          "authorId": "3071581",
+          "name": "Kaja Dobrovoljc"
+        },
+        {
+          "authorId": "2277385",
+          "name": "Timothy Dozat"
+        },
+        {
+          "authorId": "22341186",
+          "name": "Kira Droganova"
+        },
+        {
+          "authorId": "12786608",
+          "name": "Marhaba Eli"
+        },
+        {
+          "authorId": "35309245",
+          "name": "A. Elkahky"
+        },
+        {
+          "authorId": "1696434",
+          "name": "T. Erjavec"
+        },
+        {
+          "authorId": "144844761",
+          "name": "Rich\u00e1rd Farkas"
+        },
+        {
+          "authorId": "2084848348",
+          "name": "Hector Fernandez Alcalde"
+        },
+        {
+          "authorId": "144116340",
+          "name": "Jennifer Foster"
+        },
+        {
+          "authorId": "145504727",
+          "name": "Cl\u00e1udia Freitas"
+        },
+        {
+          "authorId": "93830751",
+          "name": "K. Gajdosova"
+        },
+        {
+          "authorId": "2070170028",
+          "name": "Daniel Galbraith"
+        },
+        {
+          "authorId": "144918133",
+          "name": "Marcos Garcia"
+        },
+        {
+          "authorId": "1694491",
+          "name": "Filip Ginter"
+        },
+        {
+          "authorId": "2885476",
+          "name": "Iakes Goenaga"
+        },
+        {
+          "authorId": "1748238",
+          "name": "Koldo Gojenola"
+        },
+        {
+          "authorId": "1399432033",
+          "name": "Memduh G\u00f6kirmak"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "3312948",
+          "name": "Xavier G\u00f3mez Guinovart"
+        },
+        {
+          "authorId": "72617725",
+          "name": "Berta Gonz\u00e1les Saavedra"
+        },
+        {
+          "authorId": "49571058",
+          "name": "M. Grioni"
+        },
+        {
+          "authorId": "2496181",
+          "name": "Normunds Gruzitis"
+        },
+        {
+          "authorId": "145652228",
+          "name": "Bruno Guillaume"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "144002335",
+          "name": "Jan Hajic"
+        },
+        {
+          "authorId": "51422135",
+          "name": "L. My"
+        },
+        {
+          "authorId": "2055587557",
+          "name": "K. Harris"
+        },
+        {
+          "authorId": "2918261",
+          "name": "D. Haug"
+        },
+        {
+          "authorId": "1963585",
+          "name": "Barbora Hladk\u00e1"
+        },
+        {
+          "authorId": "2489033",
+          "name": "Jaroslava Hlav\u00e1cov\u00e1"
+        },
+        {
+          "authorId": "47691315",
+          "name": "Petter Hohle"
+        },
+        {
+          "authorId": "1733665",
+          "name": "Radu Ion"
+        },
+        {
+          "authorId": "2531496",
+          "name": "Elena Irimia"
+        },
+        {
+          "authorId": "37854230",
+          "name": "Anders Johannsen"
+        },
+        {
+          "authorId": "144393776",
+          "name": "Fredrik J\u00f8rgensen"
+        },
+        {
+          "authorId": "1415054524",
+          "name": "H\u00fcner Ka\u015f\u0131kara"
+        },
+        {
+          "authorId": "35562751",
+          "name": "H. Kanayama"
+        },
+        {
+          "authorId": "1776599",
+          "name": "Jenna Kanerva"
+        },
+        {
+          "authorId": "73345985",
+          "name": "Tolga Kayadelen"
+        },
+        {
+          "authorId": "2371631",
+          "name": "V\u00e1clava Kettnerov\u00e1"
+        },
+        {
+          "authorId": "49996036",
+          "name": "Jesse Kirchner"
+        },
+        {
+          "authorId": "2912909",
+          "name": "N. Kotsyba"
+        },
+        {
+          "authorId": "1755311",
+          "name": "Simon Krek"
+        },
+        {
+          "authorId": "144816713",
+          "name": "Sookyoung Kwak"
+        },
+        {
+          "authorId": "1796619",
+          "name": "Veronika Laippala"
+        },
+        {
+          "authorId": "72899649",
+          "name": "Lorenzo Lambertino"
+        },
+        {
+          "authorId": "31682812",
+          "name": "Tatiana Lando"
+        },
+        {
+          "authorId": "51334859",
+          "name": "P. L. H\u1ed3ng"
+        },
+        {
+          "authorId": "2038285",
+          "name": "Alessandro Lenci"
+        },
+        {
+          "authorId": "73041331",
+          "name": "Saran Lertpradit"
+        },
+        {
+          "authorId": "34885426",
+          "name": "H. Leung"
+        },
+        {
+          "authorId": "2109445845",
+          "name": "Cheuk Ying Li"
+        },
+        {
+          "authorId": "150151373",
+          "name": "Josie Li"
+        },
+        {
+          "authorId": "48857519",
+          "name": "N. Ljube\u0161i\u0107"
+        },
+        {
+          "authorId": "48055935",
+          "name": "O. Loginova"
+        },
+        {
+          "authorId": "2864548",
+          "name": "O. Lyashevskaya"
+        },
+        {
+          "authorId": "143617906",
+          "name": "Teresa Lynn"
+        },
+        {
+          "authorId": "22330068",
+          "name": "Vivien Macketanz"
+        },
+        {
+          "authorId": "3197800",
+          "name": "Aibek Makazhanov"
+        },
+        {
+          "authorId": "3848524",
+          "name": "M. Mandl"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        },
+        {
+          "authorId": "3217460",
+          "name": "Ruli Manurung"
+        },
+        {
+          "authorId": "2639625",
+          "name": "Catalina Maranduc"
+        },
+        {
+          "authorId": "2536245",
+          "name": "D. Mare\u010dek"
+        },
+        {
+          "authorId": "71792678",
+          "name": "Katrin Marheinecke"
+        },
+        {
+          "authorId": "3017695",
+          "name": "H\u00e9ctor Mart\u00ednez Alonso"
+        },
+        {
+          "authorId": "2069906156",
+          "name": "Andr\u00e9 Martins"
+        },
+        {
+          "authorId": "35207995",
+          "name": "J. Masek"
+        },
+        {
+          "authorId": "1681502",
+          "name": "Yuji Matsumoto"
+        },
+        {
+          "authorId": "143957226",
+          "name": "Ryan T. McDonald"
+        },
+        {
+          "authorId": "145454056",
+          "name": "Gustavo Mendon\u00e7a"
+        },
+        {
+          "authorId": "2813341",
+          "name": "Anna Missil\u00e4"
+        },
+        {
+          "authorId": "1745399",
+          "name": "V. Mititelu"
+        },
+        {
+          "authorId": "1768065",
+          "name": "Yusuke Miyao"
+        },
+        {
+          "authorId": "1798464",
+          "name": "S. Montemagni"
+        },
+        {
+          "authorId": "31595908",
+          "name": "Amir More"
+        },
+        {
+          "authorId": "2058450216",
+          "name": "L. Romero"
+        },
+        {
+          "authorId": "2072425310",
+          "name": "Shunsuke Mori"
+        },
+        {
+          "authorId": "71996621",
+          "name": "Bohdan Moskalevskyi"
+        },
+        {
+          "authorId": "2744709",
+          "name": "K. Muischnek"
+        },
+        {
+          "authorId": "11682217",
+          "name": "N. Mustafina"
+        },
+        {
+          "authorId": "2451602",
+          "name": "Kaili M\u00fc\u00fcrisep"
+        },
+        {
+          "authorId": "72677539",
+          "name": "Pinkey Nainwani"
+        },
+        {
+          "authorId": "3045946",
+          "name": "A. Nedoluzhko"
+        },
+        {
+          "authorId": "51363775",
+          "name": "Luong Nguyen Thi"
+        },
+        {
+          "authorId": "51405065",
+          "name": "Huyen Thi Minh Nguyen"
+        },
+        {
+          "authorId": "48942032",
+          "name": "Vitaly Nikolaev"
+        },
+        {
+          "authorId": "2116910",
+          "name": "Rattima Nitisaroj"
+        },
+        {
+          "authorId": "4925686",
+          "name": "H. Nurmi"
+        },
+        {
+          "authorId": "2659566",
+          "name": "Stina Ojala"
+        },
+        {
+          "authorId": "1710801",
+          "name": "P. Osenova"
+        },
+        {
+          "authorId": "2732223",
+          "name": "Lilja \u00d8vrelid"
+        },
+        {
+          "authorId": "2071919774",
+          "name": "E. Pascual"
+        },
+        {
+          "authorId": "3271120",
+          "name": "M. Passarotti"
+        },
+        {
+          "authorId": "2810504",
+          "name": "Cenel-Augusto Perez"
+        },
+        {
+          "authorId": "144849515",
+          "name": "Guy Perrier"
+        },
+        {
+          "authorId": "1754497",
+          "name": "Slav Petrov"
+        },
+        {
+          "authorId": "2219111",
+          "name": "Jussi Piitulainen"
+        },
+        {
+          "authorId": "2585932",
+          "name": "Emily Pitler"
+        },
+        {
+          "authorId": "2022124",
+          "name": "Barbara Plank"
+        },
+        {
+          "authorId": "3209310",
+          "name": "M. Popel"
+        },
+        {
+          "authorId": "2136505",
+          "name": "L. Pretkalnina"
+        },
+        {
+          "authorId": "3349910",
+          "name": "Prokopis Prokopidis"
+        },
+        {
+          "authorId": "2141985",
+          "name": "Tiina Puolakainen"
+        },
+        {
+          "authorId": "1708916",
+          "name": "S. Pyysalo"
+        },
+        {
+          "authorId": "13836343",
+          "name": "Alexandre Rademaker"
+        },
+        {
+          "authorId": "145515090",
+          "name": "Livy Real"
+        },
+        {
+          "authorId": "145732771",
+          "name": "Siva Reddy"
+        },
+        {
+          "authorId": "2156673",
+          "name": "Georg Rehm"
+        },
+        {
+          "authorId": "2063076526",
+          "name": "L. Rinaldi"
+        },
+        {
+          "authorId": "2426183",
+          "name": "Laura Rituma"
+        },
+        {
+          "authorId": "2436967",
+          "name": "Rudolf Rosa"
+        },
+        {
+          "authorId": "72556692",
+          "name": "D. Rovati"
+        },
+        {
+          "authorId": "46448441",
+          "name": "Shadi Saleh"
+        },
+        {
+          "authorId": "2040952",
+          "name": "M. Sanguinetti"
+        },
+        {
+          "authorId": "2241663",
+          "name": "Baiba Saulite"
+        },
+        {
+          "authorId": "73163507",
+          "name": "Yanin Sawanakunanon"
+        },
+        {
+          "authorId": "145157639",
+          "name": "Sebastian Schuster"
+        },
+        {
+          "authorId": "1679170",
+          "name": "Djam\u00e9 Seddah"
+        },
+        {
+          "authorId": "1711993",
+          "name": "Wolfgang Seeker"
+        },
+        {
+          "authorId": "144229552",
+          "name": "M. Seraji"
+        },
+        {
+          "authorId": "72332337",
+          "name": "L. Shakurova"
+        },
+        {
+          "authorId": "39681720",
+          "name": "Mo Shen"
+        },
+        {
+          "authorId": "47788077",
+          "name": "A. Shimada"
+        },
+        {
+          "authorId": "72608720",
+          "name": "Muh Shohibussirri"
+        },
+        {
+          "authorId": "145851426",
+          "name": "Natalia Silveira"
+        },
+        {
+          "authorId": "35184435",
+          "name": "M. Simi"
+        },
+        {
+          "authorId": "14162978",
+          "name": "R. Simionescu"
+        },
+        {
+          "authorId": "2517098",
+          "name": "K. Simk\u00f3"
+        },
+        {
+          "authorId": "46430735",
+          "name": "M. \u0160imkov\u00e1"
+        },
+        {
+          "authorId": "143964258",
+          "name": "K. Simov"
+        },
+        {
+          "authorId": "2109295302",
+          "name": "Aaron Smith"
+        },
+        {
+          "authorId": "50372685",
+          "name": "Antonio Stella"
+        },
+        {
+          "authorId": "72151653",
+          "name": "Jana Strnadov\u00e1"
+        },
+        {
+          "authorId": "2064207832",
+          "name": "A. Suhr"
+        },
+        {
+          "authorId": "3461272",
+          "name": "U. Sulubacak"
+        },
+        {
+          "authorId": "2719154",
+          "name": "Z. Sz\u00e1nt\u00f3"
+        },
+        {
+          "authorId": "3405525",
+          "name": "Dima Taji"
+        },
+        {
+          "authorId": "49125917",
+          "name": "Takaaki Tanaka"
+        },
+        {
+          "authorId": "2844398",
+          "name": "Trond Trosterud"
+        },
+        {
+          "authorId": "13991932",
+          "name": "A. Trukhina"
+        },
+        {
+          "authorId": "2799181",
+          "name": "Reut Tsarfaty"
+        },
+        {
+          "authorId": "3262036",
+          "name": "Francis M. Tyers"
+        },
+        {
+          "authorId": "2304550",
+          "name": "Sumire Uematsu"
+        },
+        {
+          "authorId": "3344673",
+          "name": "Zdenka Uresov\u00e1"
+        },
+        {
+          "authorId": "2962373",
+          "name": "Larraitz Uria"
+        },
+        {
+          "authorId": "1781790",
+          "name": "H. Uszkoreit"
+        },
+        {
+          "authorId": "143715131",
+          "name": "Gertjan van Noord"
+        },
+        {
+          "authorId": "145514135",
+          "name": "Viktor Varga"
+        },
+        {
+          "authorId": "2536091",
+          "name": "V. Vincze"
+        },
+        {
+          "authorId": "153524633",
+          "name": "Jonathan North Washington"
+        },
+        {
+          "authorId": null,
+          "name": "Zhuoran Yu"
+        },
+        {
+          "authorId": "2468732",
+          "name": "Z. \u017dabokrtsk\u00fd"
+        },
+        {
+          "authorId": "1771298",
+          "name": "Daniel Zeman"
+        },
+        {
+          "authorId": "35526837",
+          "name": "Hanzhi Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "b64a0511b5e802b4dafef63b81800cf64f359eb1",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/b64a0511b5e802b4dafef63b81800cf64f359eb1",
+      "title": "Exploring the Syntactic Abilities of RNNs with Multi-task Learning",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2017,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "22227005",
+          "name": "\u00c9mile Enguehard"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2467508",
+          "name": "Tal Linzen"
+        }
+      ]
+    },
+    {
+      "paperId": "c41092e1eed1ec554d0de37d6379cd5ac6fca4fe",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/c41092e1eed1ec554d0de37d6379cd5ac6fca4fe",
+      "title": "Linkping University Electronic Press Conference Proceedings",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Political Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "cf9a2017fead3239fef2223e0a24e37f59d6745f",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cf9a2017fead3239fef2223e0a24e37f59d6745f",
+      "title": "Towards String-To-Tree Neural Machine Translation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2017,
+      "citationCount": 154,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2335771",
+          "name": "Roee Aharoni"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "df80d1d53e8c8e17eb65174addeec668b8a59b71",
+      "publicationVenue": {
+        "id": "30a8645d-22d4-42e2-b3f6-304bf4ce3a02",
+        "name": "International Conference on Computational Logic",
+        "type": "conference",
+        "alternate_names": [
+          "CL",
+          "Int Conf Comput Log"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/df80d1d53e8c8e17eb65174addeec668b8a59b71",
+      "title": "Greedy Transition-Based Dependency Parsing with Stack LSTMs",
+      "venue": "International Conference on Computational Logic",
+      "year": 2017,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143668305",
+          "name": "Miguel Ballesteros"
+        },
+        {
+          "authorId": "1745899",
+          "name": "Chris Dyer"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "144365875",
+          "name": "Noah A. Smith"
+        }
+      ]
+    },
+    {
+      "paperId": "e75b3c12da067552fda910a5bbed8b4d0e82dbcb",
+      "publicationVenue": {
+        "id": "ee37a78c-f3d8-407a-bd24-bb97fe6dbab9",
+        "name": "Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Comput Linguistics"
+        ],
+        "issn": "0891-2017",
+        "alternate_issns": [
+          "1530-9312",
+          "0362-613x",
+          "0362-613X"
+        ],
+        "url": "http://aclanthology.info/venues/cl",
+        "alternate_urls": [
+          "http://mitpress.mit.edu/catalog/item/default.asp?ttype=4&tid=10",
+          "https://www.mitpressjournals.org/loi/coli"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e75b3c12da067552fda910a5bbed8b4d0e82dbcb",
+      "title": " Neural Network Methods for Natural Language Processing",
+      "venue": "Computational Linguistics",
+      "year": 2017,
+      "citationCount": 749,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "f0f16c6f377408e9176351413cf296abf2c30fd7",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f0f16c6f377408e9176351413cf296abf2c30fd7",
+      "title": "Universal Dependencies 2.0 alpha (obsolete)",
+      "venue": "",
+      "year": 2017,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1720988",
+          "name": "Joakim Nivre"
+        },
+        {
+          "authorId": "1806948",
+          "name": "Zeljko Agic"
+        },
+        {
+          "authorId": "1742056",
+          "name": "Lars Ahrenberg"
+        },
+        {
+          "authorId": "2948997",
+          "name": "M. J. Aranzabe"
+        },
+        {
+          "authorId": "1749558",
+          "name": "Masayuki Asahara"
+        },
+        {
+          "authorId": "2136230",
+          "name": "Aitziber Atutxa"
+        },
+        {
+          "authorId": "143668305",
+          "name": "Miguel Ballesteros"
+        },
+        {
+          "authorId": "144661918",
+          "name": "John Bauer"
+        },
+        {
+          "authorId": "3312584",
+          "name": "K. Bengoetxea"
+        },
+        {
+          "authorId": "40578334",
+          "name": "Riyaz Ahmad Bhat"
+        },
+        {
+          "authorId": "144598129",
+          "name": "Eckhard Bick"
+        },
+        {
+          "authorId": "34705135",
+          "name": "C. Bosco"
+        },
+        {
+          "authorId": "144254013",
+          "name": "G. Bouma"
+        },
+        {
+          "authorId": "3644767",
+          "name": "Samuel R. Bowman"
+        },
+        {
+          "authorId": "2636107",
+          "name": "Marie Candito"
+        },
+        {
+          "authorId": "3348151",
+          "name": "G\u00fcl\u015fen Eryi\u011fit"
+        },
+        {
+          "authorId": "49426148",
+          "name": "G. Celano"
+        },
+        {
+          "authorId": "35921069",
+          "name": "Fabricio Chalub"
+        },
+        {
+          "authorId": "2155313947",
+          "name": "Jinho Choi"
+        },
+        {
+          "authorId": "2798815",
+          "name": "\u00c7agri \u00c7\u00f6ltekin"
+        },
+        {
+          "authorId": "40003246",
+          "name": "Miriam Connor"
+        },
+        {
+          "authorId": "2052565770",
+          "name": "Elizabeth Davidson"
+        },
+        {
+          "authorId": "2241127",
+          "name": "M. Marneffe"
+        },
+        {
+          "authorId": "143893075",
+          "name": "Valeria C V de Paiva"
+        },
+        {
+          "authorId": "7874733",
+          "name": "A. D. Ilarraza"
+        },
+        {
+          "authorId": "3071581",
+          "name": "Kaja Dobrovoljc"
+        },
+        {
+          "authorId": "2277385",
+          "name": "Timothy Dozat"
+        },
+        {
+          "authorId": "22341186",
+          "name": "Kira Droganova"
+        },
+        {
+          "authorId": "50323047",
+          "name": "P. Dwivedi"
+        },
+        {
+          "authorId": "12786608",
+          "name": "Marhaba Eli"
+        },
+        {
+          "authorId": "1696434",
+          "name": "T. Erjavec"
+        },
+        {
+          "authorId": "144844761",
+          "name": "Rich\u00e1rd Farkas"
+        },
+        {
+          "authorId": "144116340",
+          "name": "Jennifer Foster"
+        },
+        {
+          "authorId": "145504727",
+          "name": "Cl\u00e1udia Freitas"
+        },
+        {
+          "authorId": "93830751",
+          "name": "K. Gajdosova"
+        },
+        {
+          "authorId": "2070170028",
+          "name": "Daniel Galbraith"
+        },
+        {
+          "authorId": "144918133",
+          "name": "Marcos Garcia"
+        },
+        {
+          "authorId": "1694491",
+          "name": "Filip Ginter"
+        },
+        {
+          "authorId": "2885476",
+          "name": "Iakes Goenaga"
+        },
+        {
+          "authorId": "1748238",
+          "name": "Koldo Gojenola"
+        },
+        {
+          "authorId": "1399432033",
+          "name": "Memduh G\u00f6kirmak"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "3312948",
+          "name": "Xavier G\u00f3mez Guinovart"
+        },
+        {
+          "authorId": "72617725",
+          "name": "Berta Gonz\u00e1les Saavedra"
+        },
+        {
+          "authorId": "49571058",
+          "name": "M. Grioni"
+        },
+        {
+          "authorId": "2496181",
+          "name": "Normunds Gruzitis"
+        },
+        {
+          "authorId": "145652228",
+          "name": "Bruno Guillaume"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "144002335",
+          "name": "Jan Hajic"
+        },
+        {
+          "authorId": "51422135",
+          "name": "L. My"
+        },
+        {
+          "authorId": "2918261",
+          "name": "D. Haug"
+        },
+        {
+          "authorId": "1963585",
+          "name": "Barbora Hladk\u00e1"
+        },
+        {
+          "authorId": "47691315",
+          "name": "Petter Hohle"
+        },
+        {
+          "authorId": "1733665",
+          "name": "Radu Ion"
+        },
+        {
+          "authorId": "2531496",
+          "name": "Elena Irimia"
+        },
+        {
+          "authorId": "37854230",
+          "name": "Anders Johannsen"
+        },
+        {
+          "authorId": "144393776",
+          "name": "Fredrik J\u00f8rgensen"
+        },
+        {
+          "authorId": "1415054524",
+          "name": "H\u00fcner Ka\u015f\u0131kara"
+        },
+        {
+          "authorId": "35562751",
+          "name": "H. Kanayama"
+        },
+        {
+          "authorId": "1776599",
+          "name": "Jenna Kanerva"
+        },
+        {
+          "authorId": "2912909",
+          "name": "N. Kotsyba"
+        },
+        {
+          "authorId": "1755311",
+          "name": "Simon Krek"
+        },
+        {
+          "authorId": "1796619",
+          "name": "Veronika Laippala"
+        },
+        {
+          "authorId": "51334859",
+          "name": "P. L. H\u1ed3ng"
+        },
+        {
+          "authorId": "2038285",
+          "name": "Alessandro Lenci"
+        },
+        {
+          "authorId": "48857519",
+          "name": "N. Ljube\u0161i\u0107"
+        },
+        {
+          "authorId": "2864548",
+          "name": "O. Lyashevskaya"
+        },
+        {
+          "authorId": "143617906",
+          "name": "Teresa Lynn"
+        },
+        {
+          "authorId": "3197800",
+          "name": "Aibek Makazhanov"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        },
+        {
+          "authorId": "2639625",
+          "name": "Catalina Maranduc"
+        },
+        {
+          "authorId": "2536245",
+          "name": "D. Mare\u010dek"
+        },
+        {
+          "authorId": "3017695",
+          "name": "H\u00e9ctor Mart\u00ednez Alonso"
+        },
+        {
+          "authorId": "2069906156",
+          "name": "Andr\u00e9 Martins"
+        },
+        {
+          "authorId": "35207995",
+          "name": "J. Masek"
+        },
+        {
+          "authorId": "1681502",
+          "name": "Yuji Matsumoto"
+        },
+        {
+          "authorId": "143957226",
+          "name": "Ryan T. McDonald"
+        },
+        {
+          "authorId": "2813341",
+          "name": "Anna Missil\u00e4"
+        },
+        {
+          "authorId": "1745399",
+          "name": "V. Mititelu"
+        },
+        {
+          "authorId": "1768065",
+          "name": "Yusuke Miyao"
+        },
+        {
+          "authorId": "1798464",
+          "name": "S. Montemagni"
+        },
+        {
+          "authorId": "31595908",
+          "name": "Amir More"
+        },
+        {
+          "authorId": "2072425310",
+          "name": "Shunsuke Mori"
+        },
+        {
+          "authorId": "71996621",
+          "name": "Bohdan Moskalevskyi"
+        },
+        {
+          "authorId": "2744709",
+          "name": "K. Muischnek"
+        },
+        {
+          "authorId": "11682217",
+          "name": "N. Mustafina"
+        },
+        {
+          "authorId": "2451602",
+          "name": "Kaili M\u00fc\u00fcrisep"
+        },
+        {
+          "authorId": "51363775",
+          "name": "Luong Nguyen Thi"
+        },
+        {
+          "authorId": "51405065",
+          "name": "Huyen Thi Minh Nguyen"
+        },
+        {
+          "authorId": "48942032",
+          "name": "Vitaly Nikolaev"
+        },
+        {
+          "authorId": "4925686",
+          "name": "H. Nurmi"
+        },
+        {
+          "authorId": "2659566",
+          "name": "Stina Ojala"
+        },
+        {
+          "authorId": "1710801",
+          "name": "P. Osenova"
+        },
+        {
+          "authorId": "2732223",
+          "name": "Lilja \u00d8vrelid"
+        },
+        {
+          "authorId": "2071919774",
+          "name": "E. Pascual"
+        },
+        {
+          "authorId": "3271120",
+          "name": "M. Passarotti"
+        },
+        {
+          "authorId": "2810504",
+          "name": "Cenel-Augusto Perez"
+        },
+        {
+          "authorId": "144849515",
+          "name": "Guy Perrier"
+        },
+        {
+          "authorId": "1754497",
+          "name": "Slav Petrov"
+        },
+        {
+          "authorId": "2219111",
+          "name": "Jussi Piitulainen"
+        },
+        {
+          "authorId": "2022124",
+          "name": "Barbara Plank"
+        },
+        {
+          "authorId": "3209310",
+          "name": "M. Popel"
+        },
+        {
+          "authorId": "2136505",
+          "name": "L. Pretkalnina"
+        },
+        {
+          "authorId": "3349910",
+          "name": "Prokopis Prokopidis"
+        },
+        {
+          "authorId": "2141985",
+          "name": "Tiina Puolakainen"
+        },
+        {
+          "authorId": "1708916",
+          "name": "S. Pyysalo"
+        },
+        {
+          "authorId": "13836343",
+          "name": "Alexandre Rademaker"
+        },
+        {
+          "authorId": "30725143",
+          "name": "L. Ramasamy"
+        },
+        {
+          "authorId": "145515090",
+          "name": "Livy Real"
+        },
+        {
+          "authorId": "2426183",
+          "name": "Laura Rituma"
+        },
+        {
+          "authorId": "2436967",
+          "name": "Rudolf Rosa"
+        },
+        {
+          "authorId": "46448441",
+          "name": "Shadi Saleh"
+        },
+        {
+          "authorId": "2040952",
+          "name": "M. Sanguinetti"
+        },
+        {
+          "authorId": "2241663",
+          "name": "Baiba Saulite"
+        },
+        {
+          "authorId": "145157639",
+          "name": "Sebastian Schuster"
+        },
+        {
+          "authorId": "1679170",
+          "name": "Djam\u00e9 Seddah"
+        },
+        {
+          "authorId": "1711993",
+          "name": "Wolfgang Seeker"
+        },
+        {
+          "authorId": "144229552",
+          "name": "M. Seraji"
+        },
+        {
+          "authorId": "72332337",
+          "name": "L. Shakurova"
+        },
+        {
+          "authorId": "39681720",
+          "name": "Mo Shen"
+        },
+        {
+          "authorId": "145822824",
+          "name": "Dmitry V. Sichinava"
+        },
+        {
+          "authorId": "145851426",
+          "name": "Natalia Silveira"
+        },
+        {
+          "authorId": "35184435",
+          "name": "M. Simi"
+        },
+        {
+          "authorId": "14162978",
+          "name": "R. Simionescu"
+        },
+        {
+          "authorId": "2517098",
+          "name": "K. Simk\u00f3"
+        },
+        {
+          "authorId": "46430735",
+          "name": "M. \u0160imkov\u00e1"
+        },
+        {
+          "authorId": "143964258",
+          "name": "K. Simov"
+        },
+        {
+          "authorId": "2109295302",
+          "name": "Aaron Smith"
+        },
+        {
+          "authorId": "2064207832",
+          "name": "A. Suhr"
+        },
+        {
+          "authorId": "3461272",
+          "name": "U. Sulubacak"
+        },
+        {
+          "authorId": "2719154",
+          "name": "Z. Sz\u00e1nt\u00f3"
+        },
+        {
+          "authorId": "3405525",
+          "name": "Dima Taji"
+        },
+        {
+          "authorId": "49125917",
+          "name": "Takaaki Tanaka"
+        },
+        {
+          "authorId": "2799181",
+          "name": "Reut Tsarfaty"
+        },
+        {
+          "authorId": "3262036",
+          "name": "Francis M. Tyers"
+        },
+        {
+          "authorId": "2304550",
+          "name": "Sumire Uematsu"
+        },
+        {
+          "authorId": "2962373",
+          "name": "Larraitz Uria"
+        },
+        {
+          "authorId": "143715131",
+          "name": "Gertjan van Noord"
+        },
+        {
+          "authorId": "145514135",
+          "name": "Viktor Varga"
+        },
+        {
+          "authorId": "2536091",
+          "name": "V. Vincze"
+        },
+        {
+          "authorId": "153524633",
+          "name": "Jonathan North Washington"
+        },
+        {
+          "authorId": "2468732",
+          "name": "Z. \u017dabokrtsk\u00fd"
+        },
+        {
+          "authorId": "2548420",
+          "name": "Amir Zeldes"
+        },
+        {
+          "authorId": "1771298",
+          "name": "Daniel Zeman"
+        },
+        {
+          "authorId": "35526837",
+          "name": "Hanzhi Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "fb39923f6a4cdb486da5b579c5f8e2c500f36a35",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/fb39923f6a4cdb486da5b579c5f8e2c500f36a35",
+      "title": "Controlling Linguistic Style Aspects in Neural Language Generation",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "citationCount": 322,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1899924",
+          "name": "Jessica Ficler"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "027ced58a1fb3600f438c856b9cc4e1ac24cb0a6",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/027ced58a1fb3600f438c856b9cc4e1ac24cb0a6",
+      "title": "Getting More Out Of Syntax with PropS",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "citationCount": 60,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2157025",
+          "name": "Gabriel Stanovsky"
+        },
+        {
+          "authorId": "1899924",
+          "name": "Jessica Ficler"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "19a88698a3f0c16af480f4f1a0f4045b4f2a2857",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/19a88698a3f0c16af480f4f1a0f4045b4f2a2857",
+      "title": "Coordination Annotation Extension in the Penn Tree Bank",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 24,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1899924",
+          "name": "Jessica Ficler"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "1c7174bd2b01831920217088e2b48cb151691110",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1c7174bd2b01831920217088e2b48cb151691110",
+      "title": "Improving Reliability of Word Similarity Evaluation by Redesigning Annotation Task and Performance Measure",
+      "venue": "RepEval@ACL",
+      "year": 2016,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "7425040",
+          "name": "Oded Avraham"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "6789e0dbd294cccb3b7dd4e001c9e8ba4813f334",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/6789e0dbd294cccb3b7dd4e001c9e8ba4813f334",
+      "title": "Training with Exploration Improves a Greedy Stack LSTM Parser",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2016,
+      "citationCount": 77,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "143668305",
+          "name": "Miguel Ballesteros"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1745899",
+          "name": "Chris Dyer"
+        },
+        {
+          "authorId": "144365875",
+          "name": "Noah A. Smith"
+        }
+      ]
+    },
+    {
+      "paperId": "71cd024b29488c2ea1f83db1c20990a0adde05ab",
+      "publicationVenue": {
+        "id": "56b19d19-ddf9-4e56-ba1e-37ef38ef5943",
+        "name": "Special Interest Group on Computational Morphology and Phonology Workshop",
+        "type": "conference",
+        "alternate_names": [
+          "SIGMORPHON",
+          "Sp\u00e9c Interest Group Comput Morphol Phonol Workshop"
+        ],
+        "url": "http://sigmorphon.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/71cd024b29488c2ea1f83db1c20990a0adde05ab",
+      "title": "Improving Sequence to Sequence Learning for Morphological Inflection Generation: The BIU-MIT Systems for the SIGMORPHON 2016 Shared Task for Morphological Reinflection",
+      "venue": "Special Interest Group on Computational Morphology and Phonology Workshop",
+      "year": 2016,
+      "citationCount": 33,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2335771",
+          "name": "Roee Aharoni"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2083259",
+          "name": "Yonatan Belinkov"
+        }
+      ]
+    },
+    {
+      "paperId": "779ea6e2ae1ebcca69db2739dab487f1608c00e6",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/779ea6e2ae1ebcca69db2739dab487f1608c00e6",
+      "title": "Semi Supervised Preposition-Sense Disambiguation using Multilingual Data",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2016,
+      "citationCount": 16,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1821892",
+          "name": "Hila Gonen"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "94960fcdf0ea3b346fca77ae8c63ae7943eb0d28",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/94960fcdf0ea3b346fca77ae8c63ae7943eb0d28",
+      "title": "Easy-First Dependency Parsing with Hierarchical Tree LSTMs",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 65,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2022679",
+          "name": "E. Kiperwasser"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "9a5765f10f8cab7b3ebdac29ab38922a3be7e102",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/9a5765f10f8cab7b3ebdac29ab38922a3be7e102",
+      "title": "Proceedings of ACL 2016",
+      "venue": "",
+      "year": 2016,
+      "citationCount": 7,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2022124",
+          "name": "Barbara Plank"
+        },
+        {
+          "authorId": "1700187",
+          "name": "Anders S\u00f8gaard"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "a032bbeb523215a9462afafc17a047fa37b7d735",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a032bbeb523215a9462afafc17a047fa37b7d735",
+      "title": "Improved Parsing for Argument-Clusters Coordination",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1899924",
+          "name": "Jessica Ficler"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "a32763adef1ef22cc27d4d67ef7ac1490d23ce0b",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a32763adef1ef22cc27d4d67ef7ac1490d23ce0b",
+      "title": "Morphological Inflection Generation with Hard Monotonic Attention",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 128,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2335771",
+          "name": "Roee Aharoni"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "a782d0fc34c0ed5cd94a1e4237cb40900a248836",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a782d0fc34c0ed5cd94a1e4237cb40900a248836",
+      "title": "Improving Hypernymy Detection with an Integrated Path-based and Distributional Method",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 235,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3103343",
+          "name": "Vered Shwartz"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        }
+      ]
+    },
+    {
+      "paperId": "d115eceab7153d2a1dc6fbf6b99c3bdf1b0cdd46",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d115eceab7153d2a1dc6fbf6b99c3bdf1b0cdd46",
+      "title": "Universal Dependencies v1: A Multilingual Treebank Collection",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2016,
+      "citationCount": 1370,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1720988",
+          "name": "Joakim Nivre"
+        },
+        {
+          "authorId": "2241127",
+          "name": "M. Marneffe"
+        },
+        {
+          "authorId": "1694491",
+          "name": "Filip Ginter"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "144002335",
+          "name": "Jan Hajic"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        },
+        {
+          "authorId": "143957226",
+          "name": "Ryan T. McDonald"
+        },
+        {
+          "authorId": "1754497",
+          "name": "Slav Petrov"
+        },
+        {
+          "authorId": "1708916",
+          "name": "S. Pyysalo"
+        },
+        {
+          "authorId": "145851426",
+          "name": "Natalia Silveira"
+        },
+        {
+          "authorId": "2799181",
+          "name": "Reut Tsarfaty"
+        },
+        {
+          "authorId": "1771298",
+          "name": "Daniel Zeman"
+        }
+      ]
+    },
+    {
+      "paperId": "da797d293203ebe7c95edb98184955a9b92990a4",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/da797d293203ebe7c95edb98184955a9b92990a4",
+      "title": "Sequence to Sequence Transduction with Hard Monotonic Attention",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2335771",
+          "name": "Roee Aharoni"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "e44da7d8c71edcc6e575fa7faadd5e75785a7901",
+      "publicationVenue": {
+        "id": "939c6e1d-0d17-4d6e-8a82-66d960df0e40",
+        "name": "International Conference on Learning Representations",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Learn Represent",
+          "ICLR"
+        ],
+        "url": "https://iclr.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/e44da7d8c71edcc6e575fa7faadd5e75785a7901",
+      "title": "Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks",
+      "venue": "International Conference on Learning Representations",
+      "year": 2016,
+      "citationCount": 537,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2342123860",
+          "name": "Yossi Adi"
+        },
+        {
+          "authorId": "2098460",
+          "name": "Einat Kermany"
+        },
+        {
+          "authorId": "2083259",
+          "name": "Yonatan Belinkov"
+        },
+        {
+          "authorId": "3120346",
+          "name": "Ofer Lavi"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "eec3a236ecd185712ce65fb336141f8656eea13d",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/eec3a236ecd185712ce65fb336141f8656eea13d",
+      "title": "Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2016,
+      "citationCount": 663,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2022679",
+          "name": "E. Kiperwasser"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "f7e37cd317e037e05e30198b4259032d5f5e4e9e",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/f7e37cd317e037e05e30198b4259032d5f5e4e9e",
+      "title": "A Neural Network for Coordination Boundary Prediction",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2016,
+      "citationCount": 22,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1899924",
+          "name": "Jessica Ficler"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "1972e54dae2484475af2f0f9cbcdf9b350950db3",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1972e54dae2484475af2f0f9cbcdf9b350950db3",
+      "title": "Universal Dependencies 1.4",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 106,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1720988",
+          "name": "Joakim Nivre"
+        },
+        {
+          "authorId": "1806948",
+          "name": "Zeljko Agic"
+        },
+        {
+          "authorId": "2948997",
+          "name": "M. J. Aranzabe"
+        },
+        {
+          "authorId": "1749558",
+          "name": "Masayuki Asahara"
+        },
+        {
+          "authorId": "2136230",
+          "name": "Aitziber Atutxa"
+        },
+        {
+          "authorId": "143668305",
+          "name": "Miguel Ballesteros"
+        },
+        {
+          "authorId": "144661918",
+          "name": "John Bauer"
+        },
+        {
+          "authorId": "3312584",
+          "name": "K. Bengoetxea"
+        },
+        {
+          "authorId": "40578334",
+          "name": "Riyaz Ahmad Bhat"
+        },
+        {
+          "authorId": "34705135",
+          "name": "C. Bosco"
+        },
+        {
+          "authorId": "3644767",
+          "name": "Samuel R. Bowman"
+        },
+        {
+          "authorId": "49426148",
+          "name": "G. Celano"
+        },
+        {
+          "authorId": "40003246",
+          "name": "Miriam Connor"
+        },
+        {
+          "authorId": "2241127",
+          "name": "M. Marneffe"
+        },
+        {
+          "authorId": "7874733",
+          "name": "A. D. Ilarraza"
+        },
+        {
+          "authorId": "3071581",
+          "name": "Kaja Dobrovoljc"
+        },
+        {
+          "authorId": "2277385",
+          "name": "Timothy Dozat"
+        },
+        {
+          "authorId": "1696434",
+          "name": "T. Erjavec"
+        },
+        {
+          "authorId": "144844761",
+          "name": "Rich\u00e1rd Farkas"
+        },
+        {
+          "authorId": "2075405766",
+          "name": "Jennifer Foster"
+        },
+        {
+          "authorId": "2070170028",
+          "name": "Daniel Galbraith"
+        },
+        {
+          "authorId": "1694491",
+          "name": "Filip Ginter"
+        },
+        {
+          "authorId": "2885476",
+          "name": "Iakes Goenaga"
+        },
+        {
+          "authorId": "1748238",
+          "name": "Koldo Gojenola"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2075662956",
+          "name": "Berta Gonzales"
+        },
+        {
+          "authorId": "145652228",
+          "name": "Bruno Guillaume"
+        },
+        {
+          "authorId": "144002335",
+          "name": "Jan Hajic"
+        },
+        {
+          "authorId": "2918261",
+          "name": "D. Haug"
+        },
+        {
+          "authorId": "1733665",
+          "name": "Radu Ion"
+        },
+        {
+          "authorId": "2531496",
+          "name": "Elena Irimia"
+        },
+        {
+          "authorId": "37854230",
+          "name": "Anders Johannsen"
+        },
+        {
+          "authorId": "35562751",
+          "name": "H. Kanayama"
+        },
+        {
+          "authorId": "1776599",
+          "name": "Jenna Kanerva"
+        },
+        {
+          "authorId": "1755311",
+          "name": "Simon Krek"
+        },
+        {
+          "authorId": "1796619",
+          "name": "Veronika Laippala"
+        },
+        {
+          "authorId": "2038285",
+          "name": "Alessandro Lenci"
+        },
+        {
+          "authorId": "48857519",
+          "name": "N. Ljube\u0161i\u0107"
+        },
+        {
+          "authorId": "143617906",
+          "name": "Teresa Lynn"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        },
+        {
+          "authorId": "2639625",
+          "name": "Catalina Maranduc"
+        },
+        {
+          "authorId": "2536245",
+          "name": "D. Mare\u010dek"
+        },
+        {
+          "authorId": "3017695",
+          "name": "H\u00e9ctor Mart\u00ednez Alonso"
+        },
+        {
+          "authorId": "35207995",
+          "name": "J. Masek"
+        },
+        {
+          "authorId": "1681502",
+          "name": "Yuji Matsumoto"
+        },
+        {
+          "authorId": "143957226",
+          "name": "Ryan T. McDonald"
+        },
+        {
+          "authorId": "2813341",
+          "name": "Anna Missil\u00e4"
+        },
+        {
+          "authorId": "1745399",
+          "name": "V. Mititelu"
+        },
+        {
+          "authorId": "1768065",
+          "name": "Yusuke Miyao"
+        },
+        {
+          "authorId": "1798464",
+          "name": "S. Montemagni"
+        },
+        {
+          "authorId": "2072425310",
+          "name": "Shunsuke Mori"
+        },
+        {
+          "authorId": "4925686",
+          "name": "H. Nurmi"
+        },
+        {
+          "authorId": "1710801",
+          "name": "P. Osenova"
+        },
+        {
+          "authorId": "2732223",
+          "name": "Lilja \u00d8vrelid"
+        },
+        {
+          "authorId": "2071919774",
+          "name": "E. Pascual"
+        },
+        {
+          "authorId": "3271120",
+          "name": "M. Passarotti"
+        },
+        {
+          "authorId": "2810504",
+          "name": "Cenel-Augusto Perez"
+        },
+        {
+          "authorId": "1754497",
+          "name": "Slav Petrov"
+        },
+        {
+          "authorId": "2219111",
+          "name": "Jussi Piitulainen"
+        },
+        {
+          "authorId": "2022124",
+          "name": "Barbara Plank"
+        },
+        {
+          "authorId": "3209310",
+          "name": "M. Popel"
+        },
+        {
+          "authorId": "3349910",
+          "name": "Prokopis Prokopidis"
+        },
+        {
+          "authorId": "1708916",
+          "name": "S. Pyysalo"
+        },
+        {
+          "authorId": "30725143",
+          "name": "L. Ramasamy"
+        },
+        {
+          "authorId": "2436967",
+          "name": "Rudolf Rosa"
+        },
+        {
+          "authorId": "46448441",
+          "name": "Shadi Saleh"
+        },
+        {
+          "authorId": "145157639",
+          "name": "Sebastian Schuster"
+        },
+        {
+          "authorId": "1711993",
+          "name": "Wolfgang Seeker"
+        },
+        {
+          "authorId": "144229552",
+          "name": "M. Seraji"
+        },
+        {
+          "authorId": "145851426",
+          "name": "Natalia Silveira"
+        },
+        {
+          "authorId": "35184435",
+          "name": "M. Simi"
+        },
+        {
+          "authorId": "14162978",
+          "name": "R. Simionescu"
+        },
+        {
+          "authorId": "2517098",
+          "name": "K. Simk\u00f3"
+        },
+        {
+          "authorId": "143964258",
+          "name": "K. Simov"
+        },
+        {
+          "authorId": "2109295302",
+          "name": "Aaron Smith"
+        },
+        {
+          "authorId": "153593239",
+          "name": "J. Step\u00e1nek"
+        },
+        {
+          "authorId": "2064207832",
+          "name": "A. Suhr"
+        },
+        {
+          "authorId": "2719154",
+          "name": "Z. Sz\u00e1nt\u00f3"
+        },
+        {
+          "authorId": "49125917",
+          "name": "Takaaki Tanaka"
+        },
+        {
+          "authorId": "2799181",
+          "name": "Reut Tsarfaty"
+        },
+        {
+          "authorId": "2304550",
+          "name": "Sumire Uematsu"
+        },
+        {
+          "authorId": "2962373",
+          "name": "Larraitz Uria"
+        },
+        {
+          "authorId": "145514135",
+          "name": "Viktor Varga"
+        },
+        {
+          "authorId": "2536091",
+          "name": "V. Vincze"
+        },
+        {
+          "authorId": "2468732",
+          "name": "Z. \u017dabokrtsk\u00fd"
+        },
+        {
+          "authorId": "1771298",
+          "name": "Daniel Zeman"
+        },
+        {
+          "authorId": "35526837",
+          "name": "Hanzhi Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "55d675398668de706f97314fba9e64611a1ce90a",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/55d675398668de706f97314fba9e64611a1ce90a",
+      "title": "theanets: v0.6.1",
+      "venue": "",
+      "year": 2015,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "50514564",
+          "name": "Leif M. Johnson"
+        },
+        {
+          "authorId": "134816903",
+          "name": "talbaumel"
+        },
+        {
+          "authorId": "2066481562",
+          "name": "Kyle Kastner"
+        },
+        {
+          "authorId": "2116467095",
+          "name": "Yu Yang"
+        },
+        {
+          "authorId": "2073074075",
+          "name": "S. Romanov"
+        },
+        {
+          "authorId": "133960251",
+          "name": "Filip Ju\u0159\u00ed\u010dek"
+        },
+        {
+          "authorId": "145045980",
+          "name": "Eben M. Olson"
+        },
+        {
+          "authorId": "2068320954",
+          "name": "M. alDosari"
+        },
+        {
+          "authorId": "1402569213",
+          "name": "John"
+        },
+        {
+          "authorId": "134499180",
+          "name": "mhr"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "56edaa1368ff4dfa45388e4be24fdfbded7d88a7",
+      "publicationVenue": {
+        "id": "aef12dca-60a0-4ca3-819b-cad26d309d4e",
+        "name": "Journal of Artificial Intelligence Research",
+        "type": "journal",
+        "alternate_names": [
+          "JAIR",
+          "J Artif Intell Res",
+          "The Journal of Artificial Intelligence Research"
+        ],
+        "issn": "1076-9757",
+        "url": "http://www.jair.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/56edaa1368ff4dfa45388e4be24fdfbded7d88a7",
+      "title": "A Primer on Neural Network Models for Natural Language Processing",
+      "venue": "Journal of Artificial Intelligence Research",
+      "year": 2015,
+      "citationCount": 1116,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "6aa3d8bcca2ebdc52ef7cd786204c338f9d609f2",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/6aa3d8bcca2ebdc52ef7cd786204c338f9d609f2",
+      "title": "Improving Distributional Similarity with Lessons Learned from Word Embeddings",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2015,
+      "citationCount": 1360,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39455775",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        }
+      ]
+    },
+    {
+      "paperId": "897eed0892f40d546e84465ed13a6bdc1ad0159b",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/897eed0892f40d546e84465ed13a6bdc1ad0159b",
+      "title": "Semi-supervised Dependency Parsing using Bilexical Contextual Features from Auto-Parsed Data",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2015,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2022679",
+          "name": "E. Kiperwasser"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "0183b3e9d84c15c7048e6c2149ed86257ccdc6cb",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0183b3e9d84c15c7048e6c2149ed86257ccdc6cb",
+      "title": "Dependency-Based Word Embeddings",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2014,
+      "citationCount": 1144,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39455775",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "09d5446fd2cb488e9cf0663dcd9f41ca4869e292",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/09d5446fd2cb488e9cf0663dcd9f41ca4869e292",
+      "title": "A Tabular Method for Dynamic Oracles in Transition-Based Parsing",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2014,
+      "citationCount": 36,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2083856746",
+          "name": "Francesco Sartorio"
+        },
+        {
+          "authorId": "152299194",
+          "name": "G. Satta"
+        }
+      ]
+    },
+    {
+      "paperId": "0cf827a622083d9c46faf45a5778aa11050dd886",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0cf827a622083d9c46faf45a5778aa11050dd886",
+      "title": "Automatic Detection of Machine Translated Text and Translation Quality Estimation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2014,
+      "citationCount": 36,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2335771",
+          "name": "Roee Aharoni"
+        },
+        {
+          "authorId": "145200175",
+          "name": "Moshe Koppel"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "2012f32199adc88747d5a1b47c7b4ba1cb3cb995",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/2012f32199adc88747d5a1b47c7b4ba1cb3cb995",
+      "title": "word2vec Explained: deriving Mikolov et al.'s negative-sampling word-embedding method",
+      "venue": "arXiv.org",
+      "year": 2014,
+      "citationCount": 1595,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "39455775",
+          "name": "Omer Levy"
+        }
+      ]
+    },
+    {
+      "paperId": "500d570ce02abf42bc1bc535620741d4c5665e6a",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/500d570ce02abf42bc1bc535620741d4c5665e6a",
+      "title": "Linguistic Regularities in Sparse and Explicit Word Representations",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2014,
+      "citationCount": 703,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "39455775",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "5ed3e63c10974e84a9cba51d5630a6ce5996714f",
+      "publicationVenue": {
+        "id": "30a8645d-22d4-42e2-b3f6-304bf4ce3a02",
+        "name": "International Conference on Computational Logic",
+        "type": "conference",
+        "alternate_names": [
+          "CL",
+          "Int Conf Comput Log"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5ed3e63c10974e84a9cba51d5630a6ce5996714f",
+      "title": "Squibs: Constrained Arc-Eager Dependency Parsing",
+      "venue": "International Conference on Computational Logic",
+      "year": 2014,
+      "citationCount": 8,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1720988",
+          "name": "Joakim Nivre"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "143957226",
+          "name": "Ryan T. McDonald"
+        }
+      ]
+    },
+    {
+      "paperId": "ac4537cbd61ce0c0d24c17ca7a6a7943463a267f",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ac4537cbd61ce0c0d24c17ca7a6a7943463a267f",
+      "title": "Intermediary Semantic Representation through Proposition Structures",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2014,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2157025",
+          "name": "Gabriel Stanovsky"
+        },
+        {
+          "authorId": "1899924",
+          "name": "Jessica Ficler"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "f4c018bcc8ea707b83247866bdc8ccb87cd9f5da",
+      "publicationVenue": {
+        "id": "d9720b90-d60b-48bc-9df8-87a30b9a60dd",
+        "name": "Neural Information Processing Systems",
+        "type": "conference",
+        "alternate_names": [
+          "Neural Inf Process Syst",
+          "NeurIPS",
+          "NIPS"
+        ],
+        "url": "http://neurips.cc/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f4c018bcc8ea707b83247866bdc8ccb87cd9f5da",
+      "title": "Neural Word Embedding as Implicit Matrix Factorization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2014,
+      "citationCount": 1910,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "authors": [
+        {
+          "authorId": "39455775",
+          "name": "Omer Levy"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "b80caf0492cbbe00310c1f4867aa8512b6f73320",
+      "publicationVenue": {
+        "id": "da061299-efba-4911-bbd8-90372f62ffed",
+        "name": "International Workshop/Conference on Parsing Technologies",
+        "type": "conference",
+        "alternate_names": [
+          "Int Work Parsing Technol",
+          "IWPT"
+        ],
+        "url": "http://parlevink.cs.utwente.nl/sigparse/"
+      },
+      "url": "https://www.semanticscholar.org/paper/b80caf0492cbbe00310c1f4867aa8512b6f73320",
+      "title": "Dynamic-oracle Transition-based Parsing with Calibrated Probabilistic Output",
+      "venue": "International Workshop/Conference on Parsing Technologies",
+      "year": 2013,
+      "citationCount": 6,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "d32c62d9709a10fc75096246971edc36a5855b53",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/d32c62d9709a10fc75096246971edc36a5855b53",
+      "title": "A Non-Monotonic Arc-Eager Transition System for Dependency Parsing",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2013,
+      "citationCount": 42,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3182726",
+          "name": "Matthew Honnibal"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "145177145",
+          "name": "Mark Johnson"
+        }
+      ]
+    },
+    {
+      "paperId": "df791ad4ae9c8ca2c26c93c12b4525ff255fefe2",
+      "publicationVenue": {
+        "id": "70713d09-6e4b-4554-9d3f-94d08aba320c",
+        "name": "International Workshop on Semantic Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "SemEval ",
+          "Int Workshop Semantic Evaluation"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/df791ad4ae9c8ca2c26c93c12b4525ff255fefe2",
+      "title": "A Dataset of Syntactic-Ngrams over Time from a Very Large Corpus of English Books",
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2013,
+      "citationCount": 153,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "3131504",
+          "name": "Jon Orwant"
+        }
+      ]
+    },
+    {
+      "paperId": "e775b768c6566c6deb3be07a9346d7439abbd0cc",
+      "publicationVenue": {
+        "id": "30a8645d-22d4-42e2-b3f6-304bf4ce3a02",
+        "name": "International Conference on Computational Logic",
+        "type": "conference",
+        "alternate_names": [
+          "CL",
+          "Int Conf Comput Log"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e775b768c6566c6deb3be07a9346d7439abbd0cc",
+      "title": "Word Segmentation, Unknown-word Resolution, and Morphological Agreement in a Hebrew Parsing System",
+      "venue": "International Conference on Computational Logic",
+      "year": 2013,
+      "citationCount": 27,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "ed8d90fe462f27dde0bfe30c0584c780b73aae79",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ed8d90fe462f27dde0bfe30c0584c780b73aae79",
+      "title": "Overview of the SPMRL 2013 Shared Task: A Cross-Framework Evaluation of Parsing Morphologically Rich Languages",
+      "venue": "SPMRL@EMNLP",
+      "year": 2013,
+      "citationCount": 206,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "1679170",
+          "name": "Djam\u00e9 Seddah"
+        },
+        {
+          "authorId": "2799181",
+          "name": "Reut Tsarfaty"
+        },
+        {
+          "authorId": "1804668",
+          "name": "Sandra K\u00fcbler"
+        },
+        {
+          "authorId": "2636107",
+          "name": "Marie Candito"
+        },
+        {
+          "authorId": "4724587",
+          "name": "Jinho D. Choi"
+        },
+        {
+          "authorId": "144844761",
+          "name": "Rich\u00e1rd Farkas"
+        },
+        {
+          "authorId": "144116340",
+          "name": "Jennifer Foster"
+        },
+        {
+          "authorId": "2885476",
+          "name": "Iakes Goenaga"
+        },
+        {
+          "authorId": "1748238",
+          "name": "Koldo Gojenola"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "48329856",
+          "name": "Spence Green"
+        },
+        {
+          "authorId": "1696645",
+          "name": "Nizar Habash"
+        },
+        {
+          "authorId": "40462390",
+          "name": "Marco Kuhlmann"
+        },
+        {
+          "authorId": "144795479",
+          "name": "Wolfgang Maier"
+        },
+        {
+          "authorId": "1720988",
+          "name": "Joakim Nivre"
+        },
+        {
+          "authorId": "2222278",
+          "name": "A. Przepi\u00f3rkowski"
+        },
+        {
+          "authorId": "2066239830",
+          "name": "Ryan Roth"
+        },
+        {
+          "authorId": "1711993",
+          "name": "Wolfgang Seeker"
+        },
+        {
+          "authorId": "2232237",
+          "name": "Yannick Versley"
+        },
+        {
+          "authorId": "2536091",
+          "name": "V. Vincze"
+        },
+        {
+          "authorId": "1840369",
+          "name": "Marcin Woli\u0144ski"
+        },
+        {
+          "authorId": "34594510",
+          "name": "Alina Wr\u00f3blewska"
+        },
+        {
+          "authorId": "1400417301",
+          "name": "Eric Villemonte de la Clergerie"
+        }
+      ]
+    },
+    {
+      "paperId": "f90fc459c305f13b3fab0abf42b8dd1801c59511",
+      "publicationVenue": {
+        "id": "e0dbf116-86aa-418d-859f-a49952d7e44a",
+        "name": "Transactions of the Association for Computational Linguistics",
+        "type": "journal",
+        "alternate_names": [
+          "Trans Assoc Comput Linguistics",
+          "TACL"
+        ],
+        "issn": "2307-387X",
+        "url": "https://www.mitpressjournals.org/loi/tacl",
+        "alternate_urls": [
+          "http://www.transacl.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/f90fc459c305f13b3fab0abf42b8dd1801c59511",
+      "title": "Training Deterministic Parsers with Non-Deterministic Oracles",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2013,
+      "citationCount": 131,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1720988",
+          "name": "Joakim Nivre"
+        }
+      ]
+    },
+    {
+      "paperId": "fe6e30c0da4837c97f0092b79a3ed375c618e5ed",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/fe6e30c0da4837c97f0092b79a3ed375c618e5ed",
+      "title": "Efficient Implementation of Beam-Search Incremental Parsers",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2013,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "145341916",
+          "name": "Kai Zhao"
+        },
+        {
+          "authorId": "144768480",
+          "name": "Liang Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "3b6a160361e9180256477780983a5f2c8ad334b0",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/3b6a160361e9180256477780983a5f2c8ad334b0",
+      "title": "Precision-biased Parsing and High-Quality Parse Selection",
+      "venue": "arXiv.org",
+      "year": 2012,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "86a0c081b11275806cd675759d6876ac7972f489",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/86a0c081b11275806cd675759d6876ac7972f489",
+      "title": "Domain Adaptation of a Dependency Parser with a Class-Class Selectional Preference Model",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2012,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "145591705",
+          "name": "Raphael Cohen"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "d4bd0035fe14832626279e6c3c72b73c21c7f5d8",
+      "publicationVenue": {
+        "id": "f51ff783-cdff-4e22-94fb-28e6336d17b3",
+        "name": "International Conference on Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Int Conf Comput Linguistics",
+          "COLING"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/coling/"
+      },
+      "url": "https://www.semanticscholar.org/paper/d4bd0035fe14832626279e6c3c72b73c21c7f5d8",
+      "title": "A Dynamic Oracle for Arc-Eager Dependency Parsing",
+      "venue": "International Conference on Computational Linguistics",
+      "year": 2012,
+      "citationCount": 197,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1720988",
+          "name": "Joakim Nivre"
+        }
+      ]
+    },
+    {
+      "paperId": "fbb4ad663c233a8fb33d34598f6e8343de564dcc",
+      "publicationVenue": {
+        "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+        "name": "arXiv.org",
+        "alternate_names": [
+          "ArXiv"
+        ],
+        "issn": "2331-8422",
+        "url": "https://arxiv.org"
+      },
+      "url": "https://www.semanticscholar.org/paper/fbb4ad663c233a8fb33d34598f6e8343de564dcc",
+      "title": "Task-specific Word-Clustering for Part-of-Speech Tagging",
+      "venue": "arXiv.org",
+      "year": 2012,
+      "citationCount": 3,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "53bab7c386fe995ba1120b01f84a5ce1789dbba6",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/53bab7c386fe995ba1120b01f84a5ce1789dbba6",
+      "title": "Interfractional Changes of the Prostatic Fossa--Review of 1009 CT Scan Images: Reduced Posterior Margin in Treatment of Patients with Recurrent Prostate Cancer after Radical Prostatectomy using Image Guided Radiation Therapy",
+      "venue": "",
+      "year": 2011,
+      "citationCount": 0,
+      "fieldsOfStudy": [
+        "Medicine",
+        "Chemistry"
+      ],
+      "authors": [
+        {
+          "authorId": "11456314",
+          "name": "Zhao-bin Gao"
+        },
+        {
+          "authorId": "145915917",
+          "name": "J. Wong"
+        },
+        {
+          "authorId": "48827478",
+          "name": "S. Merrick"
+        },
+        {
+          "authorId": "50706947",
+          "name": "M. Karim"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "80620870",
+          "name": "M. Uemastu"
+        },
+        {
+          "authorId": "2107438373",
+          "name": "M. Li"
+        }
+      ]
+    },
+    {
+      "paperId": "6a4b296ed7102cde2da400fac7ce6f5f78d6d2de",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/6a4b296ed7102cde2da400fac7ce6f5f78d6d2de",
+      "title": "Learning Sparser Perceptron Models",
+      "venue": "",
+      "year": 2011,
+      "citationCount": 7,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "92de46eae233b296d242379785514943e75dcced",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/92de46eae233b296d242379785514943e75dcced",
+      "title": "Joint Hebrew Segmentation and Parsing using a PCFGLA Lattice Parser",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2011,
+      "citationCount": 26,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "bd87a452b4a2530b6c22eadec1d7bede990ad36f",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/bd87a452b4a2530b6c22eadec1d7bede990ad36f",
+      "title": "Language-Independent Parsing with Empty Elements",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2011,
+      "citationCount": 52,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2112618394",
+          "name": "Shu Cai"
+        },
+        {
+          "authorId": "145287425",
+          "name": "David Chiang"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "cb67b5b234f90acf37a8208a1e2baa3f7734e512",
+      "publicationVenue": {
+        "id": "56d8ba70-c424-4214-b898-1de4109a6534",
+        "name": "Annual International Conference on Research in Computational Molecular Biology",
+        "type": "conference",
+        "alternate_names": [
+          "Res Comput Mol Biology",
+          "Annu Int Conf Res Comput Mol Biology",
+          "RECOMB",
+          "Research in Computational Molecular Biology"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/cb67b5b234f90acf37a8208a1e2baa3f7734e512",
+      "title": "Rich Parameterization Improves RNA Structure Prediction",
+      "venue": "Annual International Conference on Research in Computational Molecular Biology",
+      "year": 2011,
+      "citationCount": 111,
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "1797959",
+          "name": "Shay Zakov"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        },
+        {
+          "authorId": "1398639727",
+          "name": "Michal Ziv-Ukelson"
+        }
+      ]
+    },
+    {
+      "paperId": "3ce0f00d6c949192107f1bd6a167c03e1fb7393a",
+      "publicationVenue": {
+        "id": "01103732-3808-4930-b8e4-7e9e68d5c68d",
+        "name": "North American Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "North Am Chapter Assoc Comput Linguistics",
+          "NAACL"
+        ],
+        "url": "https://www.aclweb.org/portal/naacl"
+      },
+      "url": "https://www.semanticscholar.org/paper/3ce0f00d6c949192107f1bd6a167c03e1fb7393a",
+      "title": "An Efficient Algorithm for Easy-First Non-Directional Dependency Parsing",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2010,
+      "citationCount": 218,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "5f3d297e0974955b81f2dadda27bc6c8ad494cd8",
+      "publicationVenue": {
+        "id": "3779a5a7-9119-4f69-84fe-f7eef193eb49",
+        "name": "Conference on Computational Natural Language Learning",
+        "type": "conference",
+        "alternate_names": [
+          "CoNLL",
+          "Conf Comput Nat Lang Learn"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/5f3d297e0974955b81f2dadda27bc6c8ad494cd8",
+      "title": "Inspecting the Structural Biases of Dependency Parsing Algorithms",
+      "venue": "Conference on Computational Natural Language Learning",
+      "year": 2010,
+      "citationCount": 13,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "a4005f3cecb4ec2e55cea90ecff5709ebce29923",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/a4005f3cecb4ec2e55cea90ecff5709ebce29923",
+      "title": "Agreement Matters : Challenges of Translating into a Morphologically Rich Language , and the Advantages of a Syntax-Based System",
+      "venue": "",
+      "year": 2010,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "afba150b66d486ba86f8bf3aba0e96599135defc",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/afba150b66d486ba86f8bf3aba0e96599135defc",
+      "title": "Statistical Parsing of Morphologically Rich Languages (SPMRL) What, How and Whither",
+      "venue": "SPMRL@NAACL-HLT",
+      "year": 2010,
+      "citationCount": 147,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2799181",
+          "name": "Reut Tsarfaty"
+        },
+        {
+          "authorId": "1679170",
+          "name": "Djam\u00e9 Seddah"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1804668",
+          "name": "Sandra K\u00fcbler"
+        },
+        {
+          "authorId": "2232237",
+          "name": "Yannick Versley"
+        },
+        {
+          "authorId": "2636107",
+          "name": "Marie Candito"
+        },
+        {
+          "authorId": "144116340",
+          "name": "Jennifer Foster"
+        },
+        {
+          "authorId": "3019312",
+          "name": "Ines Rehbein"
+        },
+        {
+          "authorId": "1863231",
+          "name": "L. Tounsi"
+        }
+      ]
+    },
+    {
+      "paperId": "dd2fe6c8594916965375240009ab865bae504f71",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/dd2fe6c8594916965375240009ab865bae504f71",
+      "title": "Abstracts of the Israeli Seminar on Computational Linguistics",
+      "venue": "",
+      "year": 2010,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1759551",
+          "name": "N. Dershowitz"
+        },
+        {
+          "authorId": "2732560",
+          "name": "Shalom Lappin"
+        },
+        {
+          "authorId": "2524073",
+          "name": "S. Wintner"
+        },
+        {
+          "authorId": "1707796",
+          "name": "A. Yehudai"
+        },
+        {
+          "authorId": null,
+          "name": "Jonathan Berant"
+        },
+        {
+          "authorId": "7465342",
+          "name": "Ido Dagan"
+        },
+        {
+          "authorId": "34508613",
+          "name": "J. Goldberger"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        },
+        {
+          "authorId": "145864794",
+          "name": "Ronen Feldman"
+        },
+        {
+          "authorId": "3261451",
+          "name": "Benjamin Rozenfeld"
+        },
+        {
+          "authorId": "51262777",
+          "name": "Micha Breakstone"
+        },
+        {
+          "authorId": "33406957",
+          "name": "D. Davidov"
+        },
+        {
+          "authorId": "1842598",
+          "name": "Oren Tsur"
+        },
+        {
+          "authorId": "145009917",
+          "name": "A. Rappoport"
+        },
+        {
+          "authorId": "2142348146",
+          "name": "Ming-Wei Chang"
+        },
+        {
+          "authorId": "50649676",
+          "name": "J. Clarke"
+        },
+        {
+          "authorId": "2877164",
+          "name": "Dan Goldwasser"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        },
+        {
+          "authorId": "3332806",
+          "name": "Navot Akiva"
+        },
+        {
+          "authorId": "1923479",
+          "name": "Idan Dershowitz"
+        },
+        {
+          "authorId": "145200175",
+          "name": "Moshe Koppel"
+        }
+      ]
+    },
+    {
+      "paperId": "f6d8c5f676622bd17df686bcc39357e68972b2e8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/f6d8c5f676622bd17df686bcc39357e68972b2e8",
+      "title": "Transliterated Pairs Acquisition in Medical Hebrew",
+      "venue": "",
+      "year": 2010,
+      "citationCount": 3,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "145591705",
+          "name": "Raphael Cohen"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "fd7269689a79f788add950f54342cab9350e26e8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/fd7269689a79f788add950f54342cab9350e26e8",
+      "title": "Easy-First Dependency Parsing of Modern Hebrew",
+      "venue": "SPMRL@NAACL-HLT",
+      "year": 2010,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "ff4006c112812cef905889c00a55830843452896",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/ff4006c112812cef905889c00a55830843452896",
+      "title": "Supporting Material for the Paper : Rich Parameterization Improves RNA Structure Prediction",
+      "venue": "",
+      "year": 2010,
+      "citationCount": 0,
+      "fieldsOfStudy": null,
+      "authors": [
+        {
+          "authorId": "1797959",
+          "name": "Shay Zakov"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        },
+        {
+          "authorId": "1398639727",
+          "name": "Michal Ziv-Ukelson"
+        }
+      ]
+    },
+    {
+      "paperId": "1e45c5529d900fd5a38cd03731df8bcbfa615ef8",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/1e45c5529d900fd5a38cd03731df8bcbfa615ef8",
+      "title": "Ontology Evaluation through Text Classification",
+      "venue": "APWeb/WAIM Workshops",
+      "year": 2009,
+      "citationCount": 23,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2069962",
+          "name": "Y. Netzer"
+        },
+        {
+          "authorId": "2677875",
+          "name": "David Gabay"
+        },
+        {
+          "authorId": "2819757",
+          "name": "M. Adler"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "1e941acf5e3d3339f51b52bcbf940dff1287fc28",
+      "publicationVenue": {
+        "id": "41bf9ed3-85b3-4c90-b015-150e31690253",
+        "name": "Conference on Empirical Methods in Natural Language Processing",
+        "type": "conference",
+        "alternate_names": [
+          "Empir Method Nat Lang Process",
+          "Empirical Methods in Natural Language Processing",
+          "Conf Empir Method Nat Lang Process",
+          "EMNLP"
+        ],
+        "url": "https://www.aclweb.org/portal/emnlp"
+      },
+      "url": "https://www.semanticscholar.org/paper/1e941acf5e3d3339f51b52bcbf940dff1287fc28",
+      "title": "On the Role of Lexical Features in Sequence Labeling",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2009,
+      "citationCount": 15,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "a64920f3b8788274d80aaec7e84bb91102e02f1a",
+      "publicationVenue": {
+        "id": "da061299-efba-4911-bbd8-90372f62ffed",
+        "name": "International Workshop/Conference on Parsing Technologies",
+        "type": "conference",
+        "alternate_names": [
+          "Int Work Parsing Technol",
+          "IWPT"
+        ],
+        "url": "http://parlevink.cs.utwente.nl/sigparse/"
+      },
+      "url": "https://www.semanticscholar.org/paper/a64920f3b8788274d80aaec7e84bb91102e02f1a",
+      "title": "Hebrew Dependency Parsing: Initial Results",
+      "venue": "International Workshop/Conference on Parsing Technologies",
+      "year": 2009,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "e0ce36d3757761f8bb50d23082c3f366e3f6c84d",
+      "publicationVenue": {
+        "id": "0bdef641-00ec-4e4c-9689-cb278d671c7d",
+        "name": "Cryptography and Lattices",
+        "type": "conference",
+        "alternate_names": [
+          "CaLC",
+          "Cryptogr Lattice"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/e0ce36d3757761f8bb50d23082c3f366e3f6c84d",
+      "title": "Gaiku : Generating Haiku with Word Associations Norms",
+      "venue": "Cryptography and Lattices",
+      "year": 2009,
+      "citationCount": 82,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2069962",
+          "name": "Y. Netzer"
+        },
+        {
+          "authorId": "2677875",
+          "name": "David Gabay"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "f120ea4eca8a7d96ddb4e5073198e67f4a50d854",
+      "publicationVenue": {
+        "id": "8de18c35-6785-4e54-99f2-21ee961302c6",
+        "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Eur Chapter Assoc Comput Linguistics",
+          "EACL"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/eacl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/f120ea4eca8a7d96ddb4e5073198e67f4a50d854",
+      "title": "Enhancing Unlexicalized Parsing Performance Using a Wide Coverage Lexicon, Fuzzy Tag-Set Mapping, and EM-HMM-Based Lexical Probabilities",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2009,
+      "citationCount": 30,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2799181",
+          "name": "Reut Tsarfaty"
+        },
+        {
+          "authorId": "2819757",
+          "name": "M. Adler"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "023214084fb8b56b4027e9bcfaa3b8f3cd0db829",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/023214084fb8b56b4027e9bcfaa3b8f3cd0db829",
+      "title": "EM Can Find Pretty Good HMM POS-Taggers (When Given a Good Start)",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2008,
+      "citationCount": 104,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2819757",
+          "name": "M. Adler"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "40563e47df962014215dd768cf8974b4527cd7c2",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/40563e47df962014215dd768cf8974b4527cd7c2",
+      "title": "Unsupervised Lexicon-Based Resolution of Unknown Words for Full Morphological Analysis",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2008,
+      "citationCount": 28,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2819757",
+          "name": "M. Adler"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2677875",
+          "name": "David Gabay"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "49f531f0463739b5b1cf65e9b4d4ea1978656333",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/49f531f0463739b5b1cf65e9b4d4ea1978656333",
+      "title": "Word-Based or Morpheme-Based? Annotation Strategies for Modern Hebrew Clitics",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2008,
+      "citationCount": 18,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2799181",
+          "name": "Reut Tsarfaty"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "4bc0c0785dd1af1706fa4fdeb25f0bf0526c5dd0",
+      "publicationVenue": {
+        "id": "7474c4a0-75d9-4105-9809-8e7d5201c5e1",
+        "name": "International Conference on Language Resources and Evaluation",
+        "type": "conference",
+        "alternate_names": [
+          "LREC",
+          "Int Conf Lang Resour Evaluation"
+        ],
+        "url": "http://www.lrec-conf.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/4bc0c0785dd1af1706fa4fdeb25f0bf0526c5dd0",
+      "title": "Tagging a Hebrew Corpus: the Case of Participles",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2008,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2819757",
+          "name": "M. Adler"
+        },
+        {
+          "authorId": "2069962",
+          "name": "Y. Netzer"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2677875",
+          "name": "David Gabay"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "7d53d45bb95c8f2e7f00341f6739c7792667035e",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/7d53d45bb95c8f2e7f00341f6739c7792667035e",
+      "title": "A Single Generative Model for Joint Morphological Segmentation and Syntactic Parsing",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2008,
+      "citationCount": 66,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2799181",
+          "name": "Reut Tsarfaty"
+        }
+      ]
+    },
+    {
+      "paperId": "815fdf98dbbf01a62b0f7373a82e38e904bcd264",
+      "publicationVenue": {
+        "id": "a1c1b2d2-5629-4b8f-b764-20ea10fa588c",
+        "name": "Conference on Intelligent Text Processing and Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Conf Intell Text Process Comput Linguistics",
+          "CICLing"
+        ],
+        "url": "http://www.cicling.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/815fdf98dbbf01a62b0f7373a82e38e904bcd264",
+      "title": "Identification of Transliterated Foreign Words in Hebrew Script",
+      "venue": "Conference on Intelligent Text Processing and Computational Linguistics",
+      "year": 2008,
+      "citationCount": 25,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "cc6fef7e0c439b5c3098c77d80d3b4af93a7784a",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/cc6fef7e0c439b5c3098c77d80d3b4af93a7784a",
+      "title": "splitSVM: Fast, Space-Efficient, non-Heuristic, Polynomial Kernel Computation for NLP Applications",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2008,
+      "citationCount": 91,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "ecc4db6a9051ac7209fcf9713e25788f109bd5f7",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/ecc4db6a9051ac7209fcf9713e25788f109bd5f7",
+      "title": "SVM Model Tampering and Anchored Learning: A Case Study in Hebrew NP Chunking",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2007,
+      "citationCount": 12,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "09253b10530edccc9079f0fa1a298d319186bc0a",
+      "publicationVenue": {
+        "id": "1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44",
+        "name": "Annual Meeting of the Association for Computational Linguistics",
+        "type": "conference",
+        "alternate_names": [
+          "Annu Meet Assoc Comput Linguistics",
+          "Meeting of the Association for Computational Linguistics",
+          "ACL",
+          "Meet Assoc Comput Linguistics"
+        ],
+        "url": "https://www.aclweb.org/anthology/venues/acl/"
+      },
+      "url": "https://www.semanticscholar.org/paper/09253b10530edccc9079f0fa1a298d319186bc0a",
+      "title": "Noun Phrase Chunking in Hebrew: Influence of Lexical and Morphological Features",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2006,
+      "citationCount": 11,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2819757",
+          "name": "M. Adler"
+        },
+        {
+          "authorId": "1754680",
+          "name": "Michael Elhadad"
+        }
+      ]
+    },
+    {
+      "paperId": "4a2a2390242d7f94f7af35176b999f61d6d9bac6",
+      "publicationVenue": {
+        "id": "0ec3edd3-c0c2-44ca-ad90-c6b9d1b7e409",
+        "name": "Intelligence and Security Informatics",
+        "type": "conference",
+        "alternate_names": [
+          "International Symposium on Intelligent Informatics",
+          "Intell Secur Informatics",
+          "Int Symp Intell Informatics",
+          "International Symposium of Information Science",
+          "Int Symp Inf Sci",
+          "ISI"
+        ],
+        "url": "http://www.wikicfp.com/cfp/program?id=1711",
+        "alternate_urls": [
+          "http://www.informationswissenschaft.org/publikationen/internationales-symposium-fur-informationswissenschaft-isi/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/4a2a2390242d7f94f7af35176b999f61d6d9bac6",
+      "title": "Strategic Intelligence Analysis: From Information Processing to Meaning-Making",
+      "venue": "Intelligence and Security Informatics",
+      "year": 2006,
+      "citationCount": 1,
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "authors": [
+        {
+          "authorId": "3195270",
+          "name": "Yair Neuman"
+        },
+        {
+          "authorId": "2548600",
+          "name": "Liran Elihay"
+        },
+        {
+          "authorId": "2819757",
+          "name": "M. Adler"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "3045130",
+          "name": "Amir Viner"
+        }
+      ]
+    },
+    {
+      "paperId": "af0607ebbb98ae2e293d93f4f3b4759fdbb961d7",
+      "publicationVenue": null,
+      "url": "https://www.semanticscholar.org/paper/af0607ebbb98ae2e293d93f4f3b4759fdbb961d7",
+      "title": "Testimonially based knowledge from false testimony",
+      "venue": "",
+      "year": 2001,
+      "citationCount": 14,
+      "fieldsOfStudy": [
+        "Philosophy"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "c634f020971b4f7174a8eea746d56ac196cb1bff",
+      "publicationVenue": {
+        "id": "099a2ecc-54f9-42d3-9ea0-0189027aa04f",
+        "name": "Journal of Biological Chemistry",
+        "type": "journal",
+        "alternate_names": [
+          "J Biological Chem"
+        ],
+        "issn": "0021-9258",
+        "url": "http://ejournals.ebsco.com/direct.asp?JournalID=101729",
+        "alternate_urls": [
+          "https://www.jbc.org/",
+          "http://www.jbc.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/c634f020971b4f7174a8eea746d56ac196cb1bff",
+      "title": "Huntingtin Is Ubiquitinated and Interacts with a Specific Ubiquitin-conjugating Enzyme*",
+      "venue": "Journal of Biological Chemistry",
+      "year": 1996,
+      "citationCount": 381,
+      "fieldsOfStudy": [
+        "Biology",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "5904033",
+          "name": "M. Kalchman"
+        },
+        {
+          "authorId": "37771522",
+          "name": "R. Graham"
+        },
+        {
+          "authorId": "49954926",
+          "name": "G. Xia"
+        },
+        {
+          "authorId": "2072463669",
+          "name": "H. Koide"
+        },
+        {
+          "authorId": "3255581",
+          "name": "J. Hodgson"
+        },
+        {
+          "authorId": "121225603",
+          "name": "K. Graham"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "35234798",
+          "name": "R. Gietz"
+        },
+        {
+          "authorId": "6505412",
+          "name": "C. Pickart"
+        },
+        {
+          "authorId": "2353897",
+          "name": "M. Hayden"
+        }
+      ]
+    },
+    {
+      "paperId": "09a93c8fd7430a62f5c8242502c8f986a9ecbc61",
+      "publicationVenue": {
+        "id": "099a2ecc-54f9-42d3-9ea0-0189027aa04f",
+        "name": "Journal of Biological Chemistry",
+        "type": "journal",
+        "alternate_names": [
+          "J Biological Chem"
+        ],
+        "issn": "0021-9258",
+        "url": "http://ejournals.ebsco.com/direct.asp?JournalID=101729",
+        "alternate_urls": [
+          "https://www.jbc.org/",
+          "http://www.jbc.org/"
+        ]
+      },
+      "url": "https://www.semanticscholar.org/paper/09a93c8fd7430a62f5c8242502c8f986a9ecbc61",
+      "title": "Repression of AP-1-stimulated transcription by c-Ets-1.",
+      "venue": "Journal of Biological Chemistry",
+      "year": 1994,
+      "citationCount": 29,
+      "fieldsOfStudy": [
+        "Biology",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "34968603",
+          "name": "M. Treier"
+        },
+        {
+          "authorId": "4601252",
+          "name": "J. Ghysdael"
+        },
+        {
+          "authorId": "6197577",
+          "name": "D. Bohmann"
+        }
+      ]
+    },
+    {
+      "paperId": "0c2896581edea2fb9eb77bdcae5fbd29de3c2147",
+      "publicationVenue": {
+        "id": "f44bdcd7-21f6-4f93-a415-d7b557d89479",
+        "name": "Human Molecular Genetics",
+        "type": "journal",
+        "alternate_names": [
+          "Hum Mol Genet"
+        ],
+        "issn": "0964-6906",
+        "url": "http://hmg.oxfordjournals.org/"
+      },
+      "url": "https://www.semanticscholar.org/paper/0c2896581edea2fb9eb77bdcae5fbd29de3c2147",
+      "title": "Differential 3' polyadenylation of the Huntington disease gene results in two mRNA species with variable tissue expression.",
+      "venue": "Human Molecular Genetics",
+      "year": 1993,
+      "citationCount": 102,
+      "fieldsOfStudy": [
+        "Biology",
+        "Medicine"
+      ],
+      "authors": [
+        {
+          "authorId": "2249543861",
+          "name": "Blaoyang Lin"
+        },
+        {
+          "authorId": "2238798749",
+          "name": "Johanna M. Rommens"
+        },
+        {
+          "authorId": "37771522",
+          "name": "R. Graham"
+        },
+        {
+          "authorId": "5904033",
+          "name": "M. Kalchman"
+        },
+        {
+          "authorId": "2056074617",
+          "name": "Helen MacDonald"
+        },
+        {
+          "authorId": "2246757560",
+          "name": "Jamal Nasir"
+        },
+        {
+          "authorId": "2249215336",
+          "name": "Allen Delaney"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        },
+        {
+          "authorId": "2246753957",
+          "name": "Michael R. Hayden"
+        }
+      ]
+    }
+  ]
+}
