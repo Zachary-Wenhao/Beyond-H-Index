@@ -2,9 +2,12 @@
 <html lang="en">
 <!--
     RANDOMIZATION SYSTEM:
+    - Participants are randomly assigned to Pattern A or Pattern B (50/50 split)
+    - Pattern A: Odd comparisons (1,3,5,7,9) = FULL INFO, Even (2,4,6,8,10) = MINIMAL INFO
+    - Pattern B: Odd comparisons (1,3,5,7,9) = MINIMAL INFO, Even (2,4,6,8,10) = FULL INFO
     - Badges are HIDDEN by default (participants don't see their condition)
     - To test/verify conditions, open browser console (Cmd+Option+J or F12)
-    - Console shows: Pattern number and which comparisons are minimal/full
+    - Console shows: Pattern type (A or B) and which comparisons are minimal/full
     
     TO ENABLE BADGES FOR TESTING:
     - Find line ~260: .display-mode-badge { display: none; }
@@ -268,7 +271,9 @@
         /* Display mode indicator badge - HIDDEN from participants */
         /* Only visible in browser console for admin verification */
         .display-mode-badge {
+            /* TESTING MODE: Uncomment the line below to see badges */
             display: none; /* Hidden - participants shouldn't see their condition */
+            /* display: inline-block; padding: 4px 8px; font-size: 0.7em; opacity: 0.3; */
         }
         
         /* If you want to make it visible for testing, change display: none to: */
@@ -697,7 +702,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Remains actively engaged with publication within the last year. Recent citation ratio of 0.02 indicates most citations come from established work.</p>
+                        <p>Active in major AI research as Chief AI Scientist at Meta and Silver Professor at New York University. Continues to publish and speak publicly on foundational AI issues. As of November 2025, planning to launch his own startup focusing on "world models" rather than large-language-model architectures, indicating a potential transition while maintaining his academic and industry roles.</p>
                     </div>
                 </div>
                 
@@ -729,7 +734,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Has not published new work in the last 2 years with recent citation ratio of 0.00, suggesting transition to emeritus status or advisory roles.</p>
+                        <p>Remains actively engaged in AI research and advocacy. In 2023, introduced the Forward-Forward (FF) algorithm, an alternative to backpropagation. In 2024, awarded the Nobel Prize in Physics alongside John Hopfield for foundational contributions to neural networks. Continues to serve as Chief Scientific Advisor at the Vector Institute in Toronto and joined the Scientific Advisory Board of Osmo in November 2024. Active in discussions on AI safety and ethics.</p>
                     </div>
                 </div>
             </div>
@@ -816,7 +821,7 @@
             
             <div class="researchers-container">
                 <div class="researcher">
-                    <h3>👤 Researcher A: R. Gur</h3>
+                    <h3>👤 Researcher A: Raquel Gur</h3>
                     
                     <div class="researcher-institution">
                         <strong>POSITION:</strong> Researcher in Neuroscience and Medical Imaging (University-affiliated medical research)
@@ -843,12 +848,12 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Has a one-year gap since last publication, potentially indicating shift in research focus or sabbatical. Previous momentum suggests quick return to active publishing.</p>
+                        <p>Active researcher as Karl & Linda Rickels Professor of Psychiatry at University of Pennsylvania Perelman School of Medicine. Director of the Lifespan Brain Institute and Vice Chair for Research Development. Continues to publish in 2025 on neurodevelopmental imaging and psychosis research, with recent work on mapping individual differences in intermodal coupling in neurodevelopment.</p>
                     </div>
                 </div>
                 
                 <div class="researcher">
-                    <h3>👤 Researcher B: G. Ceder</h3>
+                    <h3>👤 Researcher B: Gerbrand Ceder</h3>
                     
                     <div class="researcher-institution">
                         <strong>POSITION:</strong> Professor in Materials Science and Computational Chemistry
@@ -875,7 +880,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Currently active with publication in current year and recent citation ratio of 0.03. Maintains consistent research output without interruption.</p>
+                        <p>Active researcher as Professor of Materials Science & Engineering at UC Berkeley and Senior Faculty Scientist at Lawrence Berkeley National Lab, holding the Samsung Distinguished Chair in Nanoscience & Nanotechnology Research. Continues to publish in 2025 on high-throughput materials discovery and battery materials, with strong focus on ML/automation in materials discovery.</p>
                     </div>
                 </div>
             </div>
@@ -885,12 +890,12 @@
                     <h4>Q1: Who would you rank higher for overall research excellence?</h4>
                     <div class="radio-group">
                         <label class="radio-option">
-                            <input type="radio" name="comp2-q1" value="R. Gur">
-                            <span>R. Gur</span>
+                            <input type="radio" name="comp2-q1" value="Raquel Gur">
+                            <span>Raquel Gur</span>
                         </label>
                         <label class="radio-option">
-                            <input type="radio" name="comp2-q1" value="G. Ceder">
-                            <span>G. Ceder</span>
+                            <input type="radio" name="comp2-q1" value="Gerbrand Ceder">
+                            <span>Gerbrand Ceder</span>
                         </label>
                     </div>
                 </div>
@@ -988,11 +993,11 @@
                     <h3>👤 Researcher A</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor at Tsinghua University
+                        <strong>POSITION:</strong> Arthur S. Pearse Distinguished Professor at Duke University
                     </div>
                     
                     <div class="researcher-field">
-                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing, specializing in Chinese NLP, machine translation, and computational linguistics. Leading figure in Asian language processing.
+                        <strong>FIELD & EXPERTISE:</strong> Data Mining and Big Data, with applications in machine learning systems. Specializes in data mining, ML systems, and foundational model research. Shifting focus toward foundational model review and data mining/ML systems rather than pure NLP.
                     </div>
                     
                     <div class="metric-section">
@@ -1012,7 +1017,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>No publications in last two years but maintains recent citation ratio of 0.15, indicating continued relevance of recent work.</p>
+                        <p>Active researcher as Arthur S. Pearse Distinguished Professor at Duke University, specializing in Data Mining and Big Data. Continues to work in data mining and ML systems, with recent work including a 2024 comprehensive survey on pretrained foundation models. Shifting focus toward foundational model review and data mining/ML systems rather than pure NLP.</p>
                     </div>
                 </div>
                 
@@ -1044,7 +1049,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Inactive for 2 years with minimal recent citation ratio of 0.01. This pause may reflect broader trends in senior researcher transitions.</p>
+                        <p>Active researcher as Abel Bliss Professor of Computer Science at University of Illinois Urbana-Champaign. Continues to publish and edit major works, including the 4th edition of "Data Mining: Concepts & Techniques" (2024). Remains highly cited and a key figure in data mining and data management research.</p>
                     </div>
                 </div>
             </div>
@@ -1154,7 +1159,7 @@
             
             <div class="researchers-container">
                 <div class="researcher">
-                    <h3>👤 Researcher A: L. Deng</h3>
+                    <h3>👤 Researcher A: Li Deng</h3>
                     
                     <div class="researcher-institution">
                         <strong>POSITION:</strong> Former Chief Scientist at Microsoft Research | Executive at Citadel
@@ -1181,12 +1186,12 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>No publications in last four years with zero recent citations, indicating retirement from active research. Transition to industry leadership roles at Citadel.</p>
+                        <p>Active in industry leadership as Chief Artificial Intelligence Officer & Global Head of Machine Learning at Vatic Investments (formerly Citadel). Focus has shifted from academic publishing toward strategic AI/ML leadership in investment and finance. Recognized as a speaker at the "AI 150" for 2024-25 on his work in AI + quantitative finance.</p>
                     </div>
                 </div>
                 
                 <div class="researcher">
-                    <h3>👤 Researcher B: R. Socher</h3>
+                    <h3>👤 Researcher B: Richard Socher</h3>
                     
                     <div class="researcher-institution">
                         <strong>POSITION:</strong> CEO of You.com | Former Chief Scientist at Salesforce | Founder of MetaMind
@@ -1213,7 +1218,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>One year since last publication with minimal recent citation ratio of 0.01, reflecting transition to CEO role. Impact continues growing from foundational contributions.</p>
+                        <p>Active as CEO & co-founder of You.com, leading the company's AI/search strategy. Previously Chief Scientist at Salesforce. Focus has shifted from academic publishing toward startup and industry leadership, with media commentary on search/AI competition in 2025. Limited recent peer-review output, but remains engaged in the AI industry.</p>
                     </div>
                 </div>
             </div>
@@ -1223,12 +1228,12 @@
                     <h4>Q1: Who would you rank higher for overall research excellence?</h4>
                     <div class="radio-group">
                         <label class="radio-option">
-                            <input type="radio" name="comp4-q1" value="L. Deng">
-                            <span>L. Deng</span>
+                            <input type="radio" name="comp4-q1" value="Li Deng">
+                            <span>Li Deng</span>
                         </label>
                         <label class="radio-option">
-                            <input type="radio" name="comp4-q1" value="R. Socher">
-                            <span>R. Socher</span>
+                            <input type="radio" name="comp4-q1" value="Richard Socher">
+                            <span>Richard Socher</span>
                         </label>
                     </div>
                 </div>
@@ -1350,7 +1355,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>No publications in last 3 years with zero recent citations, suggesting transition to administrative or advisory roles.</p>
+                        <p>Active researcher as Professor at Tsinghua University, Department of Computer Science & Technology. Lab remains active in NLP and Chinese language modeling, with 2024-25 papers on prompt-tuning and long-context modeling in Chinese NLP published in venues like ACL Anthology. Strong presence in Chinese-NLP and multilingual contexts.</p>
                     </div>
                 </div>
                 
@@ -1382,7 +1387,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Two-year gap since last publication with minimal recent citation ratio of 0.01. May be focusing on advisory and mentorship roles.</p>
+                        <p>Active researcher as Percy K. & Vida L.W. Hudson Professor of Computer Science at Columbia University. Continues to publish in 2024-25 on prosody, code-switched speech, and emotion/voice cloning, with recent work including "Self-Supervised Approaches for Low-Resource Speech Emotion Recognition" (2025). Strong focus on speech processing, prosody, and multilingual/emotion in NLP.</p>
                     </div>
                 </div>
             </div>
@@ -1519,12 +1524,12 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>No recent publications with zero recent citation ratio, suggesting focus on other academic activities.</p>
+                        <p>Active researcher as Ralph E. Beeton Professor of Free Enterprise at McIntire School of Commerce, University of Virginia. Continues to publish in consumer behavior, marketing, and finance, with 2024-25 articles in marketing journals including work on financial education and behavior in Journal of Public Policy & Marketing (2024).</p>
                     </div>
                 </div>
                 
                 <div class="researcher">
-                    <h3>👤 Researcher B: P. Bourne</h3>
+                    <h3>👤 Researcher B: Philip Bourne</h3>
                     
                     <div class="researcher-institution">
                         <strong>POSITION:</strong> Senior Leader at NIH | Founding Editor of PLOS Computational Biology
@@ -1551,7 +1556,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>One year since last publication with minimal recent citation ratio of 0.01. Continued engagement typical for senior biological sciences researchers.</p>
+                        <p>Active researcher as Professor of Biomedical Engineering and Founding Dean of the School of Data Science at the University of Virginia. Continues to publish in structural bioinformatics, data science, and scholarly communication, with recent work on drug repurposing, reproducibility in computational biology, and structural systems pharmacology. Actively involved in developing open-access resources and tools to advance biomedical research.</p>
                     </div>
                 </div>
             </div>
@@ -1565,8 +1570,8 @@
                             <span>Richard G. Netemeyer</span>
                         </label>
                         <label class="radio-option">
-                            <input type="radio" name="comp6-q1" value="P. Bourne">
-                            <span>P. Bourne</span>
+                            <input type="radio" name="comp6-q1" value="Philip Bourne">
+                            <span>Philip Bourne</span>
                         </label>
                     </div>
                 </div>
@@ -1688,7 +1693,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Active through 2025 with new papers/releases tied to large language models, instruction tuning, and scalable training pipelines. Momentum is driven by fewer, higher-leverage outputs (models, datasets, recipes) that see rapid downstream adoption across labs and products.</p>
+                        <p>Active researcher as Professor at Paul G. Allen School of Computer Science & Engineering, University of Washington, and Senior Research Director at Meta AI (FAIR) in Seattle. Continues to publish in 2024-25 on self-supervision, large language models, and semantics. Recent work includes release of Dolma large-token-corpus (≈3 trillion tokens) for LLM pretraining. Leading both academic and industry research in LLMs and retrieval/semantics.</p>
                     </div>
                 </div>
                 
@@ -1696,7 +1701,7 @@
                     <h3>👤 Researcher B</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor at University of Washington | Senior Director at a major AI research institute
+                        <strong>POSITION:</strong> Dieter Schwarz Foundation Professor of Computer Science at Stanford University | Senior Fellow at Stanford Institute for Human-Centered AI (HAI) | Formerly at University of Washington
                     </div>
                     
                     <div class="researcher-field">
@@ -1720,7 +1725,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Publishing through 2025 with agenda-setting work in commonsense reasoning, value alignment, and social dynamics of AI. Ongoing AI2/UW releases (benchmarks, analyses, position pieces) keep visibility high and shape evaluation norms for reasoning and safety.</p>
+                        <p>Active researcher as Dieter Schwarz Foundation Professor of Computer Science and Senior Fellow at Stanford Institute for Human-Centered AI (HAI), at Stanford University (appointed January 2025, moved from University of Washington). Continues to publish in 2025, with papers such as "Why and How LLMs Hallucinate" at NeurIPS 2025. Briefed the UN Security Council (September 2025) on inclusive AI. Prominent in commonsense NLP, policy, and smaller-model research.</p>
                     </div>
                 </div>
             </div>
@@ -1857,7 +1862,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Actively publishing into 2025. Influence continues via selective papers, sustained tool/ecosystem development, and mentorship; recent outputs reinforce long-run effects on parsing/semantics-informed neural methods and educational infrastructure.</p>
+                        <p>Active researcher as Professor of Computer Science & Linguistics at Stanford University and Director of Stanford NLP Group. Continues to publish in representation learning and LLM methods, with recent work including ReFT (Representation Finetuning) paper (2024). Major figure in NLP and representation learning, maintaining strong presence in the field.</p>
                     </div>
                 </div>
                 
@@ -1889,7 +1894,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Active through 2025 with releases in conversational AI, retrieval-augmented learning, and open-scale training recipes. Impact channels include widely adopted libraries, datasets, and system blueprints that propagate quickly across industry and academia.</p>
+                        <p>Active researcher as Senior Research Scientist at Meta AI (FAIR). Continues to publish, with recent work including "Byte Latent Transformer" (December 2024) on byte-level patching/transformer work for NLP. Primarily industry research-oriented, contributing to Meta's AI research efforts.</p>
                     </div>
                 </div>
             </div>
@@ -2026,7 +2031,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Publishing into 2025. Current influence blends new work, synthesis, and pedagogy—continuing to shape curricula, best practices, and cross-disciplinary collaborations that keep citations and invitations strong.</p>
+                        <p>Active researcher as Professor of Linguistics & Computer Science at Stanford University. Continues to publish, with online manuscript of 3rd edition "Speech & Language Processing" released August 2025, and 2024-25 papers on anthropomorphism in language models. Scholar combining speech/NLP/linguistics, co-authoring textbook revisions and bridging NLP and linguistics research.</p>
                     </div>
                 </div>
                 
@@ -2058,7 +2063,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Active through 2025 with steady journal-driven output, editorial leadership, and SenticNet iterations. Regular resource updates and domain benchmarks sustain ongoing community uptake.</p>
+                        <p>Active researcher as Full Professor of AI at Nanyang Technological University (NTU), Singapore, and founder of SenticNet. Continues to publish, with recent work including "Natural language processing in finance: A survey" (2025) and SenticNet 8 (2024) on neurosymbolic sentiment analysis. Applied research in sentiment/affective computing and neurosymbolic AI.</p>
                     </div>
                 </div>
             </div>
@@ -2195,7 +2200,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Actively publishing in 2025. Momentum reflects interdisciplinary lab deliverables—systems, datasets, and decision-support tools—co-developed with translational partners in cybersecurity and health analytics.</p>
+                        <p>Active researcher as Regents' Professor & Thomas R. Brown Chair in Management & Technology, Department of MIS, University of Arizona, and Director of Artificial Intelligence Lab. Continues research in cybersecurity and intelligence analytics, though explicit 2025 publication details are less prominent. Strong in applied AI and information systems.</p>
                     </div>
                 </div>
                 
@@ -2227,7 +2232,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Continues high-throughput publications through 2025. Current work in AI for real-world evidence and surveillance translates rapidly into clinical guidelines and policy, sustaining exceptional citation velocity.</p>
+                        <p>Active researcher as Harold H. Hines, Jr. Professor of Medicine (Cardiology) at Yale School of Medicine and leader in health outcomes research. Remains prolific with ongoing 2024-25 research, including JACC article (October 2025). Recent work includes "The Obesity Revolution Comes to Cardiology" (2024) in JACC. Highly productive in applied medical research.</p>
                     </div>
                 </div>
             </div>
@@ -2486,25 +2491,64 @@
         let submissionReady = false;
         let displayConditions = {}; // Stores which comparisons are minimal vs full
         
-        // FIXED ALTERNATING PATTERN:
-        // Odd comparisons (1,3,5,7,9) = FULL INFO (with anonymization)
-        // Even comparisons (2,4,6,8,10) = MINIMAL INFO (with names)
+        // Actual researcher names for each comparison (for minimal info mode)
+        // These are used when switching from anonymized (Researcher A/B) to named display
+        // Using full names for consistency, clarity, and professionalism
+        const researcherNames = {
+            1: { A: 'Yann LeCun', B: 'Geoffrey E. Hinton' },
+            2: { A: 'Raquel Gur', B: 'Gerbrand Ceder' },
+            3: { A: 'Jian Pei', B: 'Jiawei Han' },
+            4: { A: 'Li Deng', B: 'Richard Socher' },
+            5: { A: 'Maosong Sun', B: 'Julia Hirschberg' },
+            6: { A: 'Richard G. Netemeyer', B: 'Philip Bourne' },
+            7: { A: 'Luke Zettlemoyer', B: 'Yejin Choi' },
+            8: { A: 'Christopher D. Manning', B: 'Jason Weston' },
+            9: { A: 'Dan Jurafsky', B: 'Erik Cambria' },
+            10: { A: 'Hsinchun Chen', B: 'Harlan Krumholz' }
+        };
+        
+        // RANDOMIZED ALTERNATING PATTERN:
+        // Pattern A: Odd comparisons (1,3,5,7,9) = FULL INFO, Even (2,4,6,8,10) = MINIMAL INFO
+        // Pattern B: Odd comparisons (1,3,5,7,9) = MINIMAL INFO, Even (2,4,6,8,10) = FULL INFO
+        // Each participant is randomly assigned to Pattern A or Pattern B (50/50 split)
         
         function initializeRandomization() {
-            // Fixed alternating pattern - same for all participants
+            // Check if pattern was already assigned (to maintain consistency if user returns)
+            let patternType = localStorage.getItem('randomizationPattern');
+            
+            if (!patternType) {
+                // Randomly assign to Pattern A or Pattern B (50/50 split)
+                const randomValue = Math.random();
+                patternType = randomValue < 0.5 ? 'A' : 'B';
+                localStorage.setItem('randomizationPattern', patternType);
+                console.log('🎲 Random value:', randomValue);
+                console.log('✅ Assigned to randomization pattern:', patternType);
+            } else {
+                console.log('♻️ Using existing randomization pattern:', patternType);
+            }
+            
+            // Apply pattern based on assignment
             for (let i = 1; i <= 10; i++) {
-                if (i % 2 === 1) {
-                    // Odd comparisons: FULL INFO (anonymized)
-                    displayConditions[i] = 'full';
+                if (patternType === 'A') {
+                    // Pattern A: Odd = FULL INFO, Even = MINIMAL INFO
+                    if (i % 2 === 1) {
+                        displayConditions[i] = 'full';
+                    } else {
+                        displayConditions[i] = 'minimal';
+                    }
                 } else {
-                    // Even comparisons: MINIMAL INFO (with names)
-                    displayConditions[i] = 'minimal';
+                    // Pattern B: Odd = MINIMAL INFO, Even = FULL INFO (reversed)
+                    if (i % 2 === 1) {
+                        displayConditions[i] = 'minimal';
+                    } else {
+                        displayConditions[i] = 'full';
+                    }
                 }
             }
             
             // Save to localStorage
             localStorage.setItem('displayConditions', JSON.stringify(displayConditions));
-            console.log('Applied fixed alternating pattern:', displayConditions);
+            console.log('Applied randomization pattern', patternType + ':', displayConditions);
             
             // Apply the conditions to the DOM
             applyDisplayConditions();
@@ -2522,13 +2566,125 @@
                     badge.textContent = 'Minimal Info';
                     badge.classList.add('badge-minimal');
                     
+                    // Update researcher names to show actual names
+                    updateResearcherNames(i, true);
+                    
+                    // Update Q1 to show actual names
+                    updateQ1WithNames(i);
+                    
                     // Update Q3 and Q4 to minimal-mode questions
                     updateQuestionsForMinimalMode(i);
                 } else {
-                    // Full info mode: show all metrics
+                    // Full info mode: show all metrics, use anonymized names
                     badge.textContent = 'Full Info';
                     badge.classList.add('badge-full');
+                    
+                    // Update researcher names to show anonymized (Researcher A/B)
+                    updateResearcherNames(i, false);
+                    
+                    // Update Q1 to show anonymized names
+                    updateQ1WithNames(i, false);
                 }
+            }
+        }
+        
+        function updateResearcherNames(compNum, showNames) {
+            const comparison = document.getElementById(`comparison-${compNum}`);
+            if (!comparison) return;
+            
+            const researcherHeadings = comparison.querySelectorAll('.researcher h3');
+            const names = researcherNames[compNum];
+            
+            if (!names) return;
+            
+            researcherHeadings.forEach((heading, index) => {
+                const currentText = heading.textContent.trim();
+                const researcherLetter = index === 0 ? 'A' : 'B';
+                const name = names[researcherLetter];
+                
+                if (showNames) {
+                    // Show actual name
+                    // Check if name is already embedded (like "Researcher A: R. Gur")
+                    if (currentText.includes(':')) {
+                        // Already has name embedded, extract and show just the name
+                        const existingName = currentText.split(':')[1]?.trim();
+                        if (existingName) {
+                            heading.textContent = '👤 ' + existingName;
+                        }
+                    } else if (currentText === '👤 Researcher ' + researcherLetter) {
+                        // Just says "Researcher A" or "Researcher B", replace with actual name
+                        heading.textContent = '👤 ' + name;
+                    } else if (!currentText.includes(name) && currentText.includes('Researcher')) {
+                        // Has "Researcher" but not the actual name, replace with name
+                        heading.textContent = '👤 ' + name;
+                    }
+                    // If it already shows just the name (no "Researcher"), leave it as is
+                } else {
+                    // Show anonymized (Researcher A/B)
+                    // If it shows an actual name or has name embedded, replace with anonymized
+                    if (currentText.includes(':')) {
+                        // Has name embedded like "Researcher A: R. Gur", replace with "Researcher A"
+                        heading.textContent = '👤 Researcher ' + researcherLetter;
+                    } else if (!currentText.includes('Researcher ' + researcherLetter)) {
+                        // Shows actual name without "Researcher", replace with "Researcher A/B"
+                        heading.textContent = '👤 Researcher ' + researcherLetter;
+                    }
+                    // If it already says "Researcher A" or "Researcher B", leave it as is
+                }
+            });
+        }
+        
+        function updateQ1WithNames(compNum, showNames = null) {
+            // If showNames is null, determine from displayConditions
+            if (showNames === null) {
+                showNames = displayConditions[compNum] === 'minimal';
+            }
+            
+            const comparison = document.getElementById(`comparison-${compNum}`);
+            if (!comparison) return;
+            
+            const q1Container = comparison.querySelector('.question');
+            if (!q1Container) return;
+            
+            const q1RadioGroup = q1Container.querySelector('.radio-group');
+            if (!q1RadioGroup) return;
+            
+            const names = researcherNames[compNum];
+            if (!names) return;
+            
+            if (showNames) {
+                // Update Q1 to show actual names
+                const radioOptions = q1RadioGroup.querySelectorAll('input[type="radio"]');
+                radioOptions.forEach((radio, index) => {
+                    const researcherLetter = index === 0 ? 'A' : 'B';
+                    const name = names[researcherLetter];
+                    
+                    // Update value and label
+                    radio.value = name;
+                    const label = radio.closest('label');
+                    if (label) {
+                        const span = label.querySelector('span');
+                        if (span) {
+                            span.textContent = name;
+                        }
+                    }
+                });
+            } else {
+                // Update Q1 to show Researcher A/B
+                const radioOptions = q1RadioGroup.querySelectorAll('input[type="radio"]');
+                radioOptions.forEach((radio, index) => {
+                    const researcherLetter = index === 0 ? 'A' : 'B';
+                    
+                    // Update value and label
+                    radio.value = 'Researcher ' + researcherLetter;
+                    const label = radio.closest('label');
+                    if (label) {
+                        const span = label.querySelector('span');
+                        if (span) {
+                            span.textContent = 'Researcher ' + researcherLetter;
+                        }
+                    }
+                });
             }
         }
         
@@ -2669,6 +2825,15 @@
                 console.log('Loaded saved responses:', responses);
             }
             
+            // Restore display conditions from localStorage
+            const savedConditions = localStorage.getItem('displayConditions');
+            if (savedConditions) {
+                displayConditions = JSON.parse(savedConditions);
+                console.log('Restored display conditions:', displayConditions);
+                // Apply the conditions to update names and display modes
+                applyDisplayConditions();
+            }
+            
             // Restore the last comparison they were on
             const lastComparison = localStorage.getItem('lastComparison');
             if (lastComparison) {
@@ -2727,10 +2892,14 @@
                 initializeRandomization();
                 
                 // Console-only verification for admins (hidden from participants)
+                const patternType = localStorage.getItem('randomizationPattern') || 'A';
                 console.log('%c=== SURVEY CONDITION (ADMIN ONLY) ===', 'color: blue; font-weight: bold;');
-                console.log('FIXED ALTERNATING PATTERN:');
-                console.log('  ODD comparisons (1,3,5,7,9) = FULL INFO (anonymized)');
-                console.log('  EVEN comparisons (2,4,6,8,10) = MINIMAL INFO (with names)');
+                console.log('RANDOMIZATION PATTERN:', patternType);
+                if (patternType === 'A') {
+                    console.log('  Pattern A: ODD = FULL INFO, EVEN = MINIMAL INFO');
+                } else {
+                    console.log('  Pattern B: ODD = MINIMAL INFO, EVEN = FULL INFO');
+                }
                 console.log('\nDisplay Conditions:', displayConditions);
                 console.log('Full Info (anonymized):', Object.keys(displayConditions).filter(k => displayConditions[k] === 'full').join(', '));
                 console.log('Minimal Info (with names):', Object.keys(displayConditions).filter(k => displayConditions[k] === 'minimal').join(', '));
@@ -2866,7 +3035,7 @@
             
             // Add randomization metadata for analysis
             responses.metadata = {
-                rotationPattern: localStorage.getItem('rotationPattern'),
+                randomizationPattern: localStorage.getItem('randomizationPattern') || 'A',
                 displayConditions: displayConditions
             };
             
@@ -2973,10 +3142,12 @@
                 alert('✅ Thank you! Your survey responses have been submitted successfully!\n\nYour contribution to this research is greatly appreciated.');
                 console.log('Data submitted to Apps Script');
                 
-                // Clear local storage after successful submission
+                // Clear local storage after successful submission (but keep randomization pattern for analysis)
                 localStorage.removeItem('surveyResponses');
                 localStorage.removeItem('lastUpdated');
                 localStorage.removeItem('lastComparison');
+                // Note: We keep 'randomizationPattern' and 'displayConditions' for potential analysis
+                // They can be cleared manually if needed
                 
                 // Disable the submit button to prevent double submission
                 event.target.disabled = true;
@@ -3021,6 +3192,38 @@
                 }
             }
         });
+        
+        // TESTING FUNCTIONS - Available in console for testing
+        // To use: Open console and type testPatternA() or testPatternB()
+        window.testPatternA = function() {
+            localStorage.removeItem('randomizationPattern');
+            localStorage.removeItem('displayConditions');
+            localStorage.setItem('randomizationPattern', 'A');
+            console.log('🧪 Testing Pattern A - Reloading page...');
+            location.reload();
+        };
+        
+        window.testPatternB = function() {
+            localStorage.removeItem('randomizationPattern');
+            localStorage.removeItem('displayConditions');
+            localStorage.setItem('randomizationPattern', 'B');
+            console.log('🧪 Testing Pattern B - Reloading page...');
+            location.reload();
+        };
+        
+        window.clearAllAndReload = function() {
+            localStorage.clear();
+            console.log('🧹 Cleared all localStorage - Reloading page...');
+            location.reload();
+        };
+        
+        window.showCurrentPattern = function() {
+            const pattern = localStorage.getItem('randomizationPattern');
+            const conditions = JSON.parse(localStorage.getItem('displayConditions') || '{}');
+            console.log('📊 Current Pattern:', pattern || 'Not assigned yet');
+            console.log('📊 Display Conditions:', conditions);
+            return { pattern, conditions };
+        };
     </script>
     </div> <!-- Close survey-content div -->
 </body>
