@@ -2216,7 +2216,8 @@
     
     <script>
         // Apps Script Configuration (Much simpler than API!)
-        const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwkkflMcmFgsMQnVEIU4j-kGHO9Kg3ZFGm8Lw1aGTaUb28qyuouHKYpj83BzGDWQNLv/exec';
+        // const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwkkflMcmFgsMQnVEIU4j-kGHO9Kg3ZFGm8Lw1aGTaUb28qyuouHKYpj83BzGDWQNLv/exec';
+        const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxaOAGGHi7I1DJrXNkvdI_asRMLPdG30nfYN1aT61bgOEebEtKhyyHeYNeuJl4TAXZh/exec';
         
         // Old Google Sheets API config (not needed with Apps Script)
         // const GOOGLE_SHEETS_CONFIG = {
@@ -2565,6 +2566,7 @@
             console.log('Final responses object:', responses.final);
             formattedResponses['final-q1'] = responses.final?.topFactors || [];
             formattedResponses['final-q2'] = responses.final?.additionalInfo || '';
+            formattedResponses['final-q3'] = responses.final?.overallConfidence || '';
             formattedResponses['career-stage'] = responses.final?.careerStage || '';
             
             const submissionData = {
@@ -2577,6 +2579,7 @@
             console.log('Final questions in submission:', {
                 'final-q1': formattedResponses['final-q1'],
                 'final-q2': formattedResponses['final-q2'],
+                'final-q3': formattedResponses['final-q3'],
                 'career-stage': formattedResponses['career-stage']
             });
             
