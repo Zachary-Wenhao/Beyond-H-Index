@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <!--
-    RANDOMIZATION SYSTEM:
+    RANDOMIZATION SYSTEM (4 CONDITIONS):
+    - Participants are randomly assigned to one of 4 counterbalanced patterns (A, B, C, or D)
+    - 4 Conditions: 
+      1. anonymous + full-info (Researcher A/B with all metrics)
+      2. names + minimal-info (Actual names with basic info only)
+      3. anonymous + minimal-info (Researcher A/B with basic info only)
+      4. names + full-info (Actual names with all metrics)
+    - With 12 comparisons, each condition appears exactly 3 times per pattern
     - Badges are HIDDEN by default (participants don't see their condition)
     - To test/verify conditions, open browser console (Cmd+Option+J or F12)
-    - Console shows: Pattern number and which comparisons are minimal/full
+    - Console shows: Pattern type (A, B, C, or D) and condition for each comparison
     
     TO ENABLE BADGES FOR TESTING:
     - Find line ~260: .display-mode-badge { display: none; }
@@ -14,6 +21,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' https:; script-src 'self' 'unsafe-inline' https://script.google.com; style-src 'self' 'unsafe-inline'; connect-src 'self' https://script.google.com; frame-ancestors 'self';">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
     <title>Research Impact Comparison Survey</title>
     
     <style>
@@ -268,7 +277,9 @@
         /* Display mode indicator badge - HIDDEN from participants */
         /* Only visible in browser console for admin verification */
         .display-mode-badge {
+            /* TESTING MODE: Uncomment the line below to see badges */
             display: none; /* Hidden - participants shouldn't see their condition */
+            /* display: inline-block; padding: 4px 8px; font-size: 0.7em; opacity: 0.3; */
         }
         
         /* If you want to make it visible for testing, change display: none to: */
@@ -381,9 +392,262 @@
             font-size: 0.9em;
             text-align: center;
         }
+        
+        /* Consent Form Styles */
+        .consent-section {
+            background: white;
+            border-radius: 10px;
+            padding: 40px;
+            margin: 20px auto;
+            max-width: 900px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            display: block;
+        }
+        
+        .consent-section.hidden {
+            display: none;
+        }
+        
+        .survey-content {
+            display: none;
+        }
+        
+        .survey-content.visible {
+            display: block;
+        }
+        
+        .consent-title {
+            color: #667eea;
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        
+        .consent-subtitle {
+            color: #666;
+            font-size: 1.1em;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        
+        .consent-text {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 25px;
+            margin-bottom: 25px;
+            max-height: 500px;
+            overflow-y: auto;
+            border: 1px solid #e9ecef;
+        }
+        
+        .consent-text h3 {
+            color: #667eea;
+            margin-top: 20px;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+        
+        .consent-text h3:first-child {
+            margin-top: 0;
+        }
+        
+        .consent-text p {
+            margin-bottom: 15px;
+            line-height: 1.8;
+        }
+        
+        .consent-text ul {
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+        
+        .consent-text li {
+            margin-bottom: 8px;
+        }
+        
+        .consent-checkboxes {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            border-radius: 8px;
+            padding: 25px;
+            margin: 30px 0;
+        }
+        
+        .consent-checkbox-group {
+            margin-bottom: 20px;
+        }
+        
+        .consent-checkbox-group label {
+            display: flex;
+            align-items: flex-start;
+            padding: 15px;
+            background: white;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.3s;
+            margin-bottom: 10px;
+        }
+        
+        .consent-checkbox-group label:hover {
+            background: #f8f9fa;
+            transform: translateX(5px);
+        }
+        
+        .consent-checkbox-group input[type="checkbox"] {
+            margin-right: 12px;
+            margin-top: 3px;
+            flex-shrink: 0;
+        }
+        
+        .consent-checkbox-group input[type="checkbox"]:disabled {
+            cursor: not-allowed;
+        }
+        
+        .consent-button-group {
+            text-align: center;
+            margin-top: 30px;
+        }
+        
+        .btn-consent {
+            padding: 15px 40px;
+            border-radius: 5px;
+            font-size: 1.2em;
+            cursor: pointer;
+            transition: all 0.3s;
+            border: none;
+            margin: 0 10px;
+        }
+        
+        .btn-consent-agree {
+            background: #667eea;
+            color: white;
+        }
+        
+        .btn-consent-agree:hover:not(:disabled) {
+            background: #5a67d8;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .btn-consent-agree:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            opacity: 0.6;
+        }
+        
+        .btn-consent-decline {
+            background: #6c757d;
+            color: white;
+        }
+        
+        .btn-consent-decline:hover {
+            background: #5a6268;
+        }
+        
+        .consent-warning {
+            color: #856404;
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            border-radius: 5px;
+            padding: 15px;
+            margin-top: 20px;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
+    <!-- Consent Form Section -->
+    <div class="consent-section" id="consent-section">
+        <div class="container">
+            <h1 class="consent-title">Research Study Consent Form</h1>
+            <p class="consent-subtitle">Carnegie Mellon University - STUDY2023_00001234</p>
+            
+            <div class="consent-text">
+                <p>We are inviting you to take part in a research study conducted by Professor Carolyn Rose, Divyan Goyal, Wenhao Xu, and Wang Xiang at Carnegie Mellon University (STUDY2023_00001234). Participation in this study is voluntary.</p>
+                
+                <p>If you choose to take part, you will complete an online survey that will help us understand how individuals perceive and evaluate the impact of scientific research and researchers. The survey will take about 15-20 minutes to complete. You may skip questions that you do not want to answer or stop at any time.</p>
+                
+                <p>We will not be obtaining any information that can identify you or record you in any way. Study data may be shared, made public, or used for future research or educational purposes.</p>
+                
+                <p><strong>Questions?</strong> Please contact us at <a href="mailto:wenhaoxu@andrew.cmu.edu">wenhaoxu@andrew.cmu.edu</a> or Professor Rose at <a href="mailto:cp3a@andrew.cmu.edu">cp3a@andrew.cmu.edu</a>. If you have questions or concerns about your rights as a research participant, you can contact the Carnegie Mellon IRB at (412) 268-4721, <a href="mailto:IRB-review@andrew.cmu.edu">IRB-review@andrew.cmu.edu</a>.</p>
+                
+                <p>If you want to participate in this study, click the [Agree] button to start the survey.</p>
+                
+                <h3>Consent with respect to EU and UK Personal Information</h3>
+                
+                <p><strong>Data Controller:</strong> Carnegie Mellon University</p>
+                
+                <p><strong>Contact Information.</strong> Carnegie Mellon University ATTN: Data Protection Officer, E-mail at <a href="mailto:GDPR-info@andrew.cmu.edu">GDPR-info@andrew.cmu.edu</a>.</p>
+                
+                <p>We wish to inform you about the manner in which we collect, use, disclose, retain and transfer Personal Information in connection with Beyond H-Index Survey: Evaluating Research Excellence through Pairwise Comparisons and obtain your consent as set forth below.</p>
+                
+                <p><strong>Personal Information.</strong> By "Personal Information," we mean information related to you, including your name, address, telephone number, e-mail address, none of which are collected in this study, and any other information related to you that we acquire in connection with the Beyond H-Index Survey. This study is designed so that no identifiable personal information is collected or stored; survey responses are completely anonymous.</p>
+                
+                <p><strong>Collection of Personal Information.</strong> We may obtain information directly from you, from your responses to assessments and questionnaires, and from the observations and conclusions of our researchers and personnel. This information will be processed by the Data Controller directly or through its affiliates or third-party service providers.</p>
+                
+                <p><strong>Use of Personal Information.</strong> We process personal information to enable us to carry out academic research in the public interest. This includes analysis of aggregated, anonymous responses to better understand perceptions of research impact and evaluation criteria across academic communities. Data are used solely for research, teaching, and publication purposes under CMU's ethical and data-protection standards. No data will be disclosed to third parties or used for commercial purposes. We will not use Personal Information for any purpose incompatible with this Consent, unless required or authorized by applicable law, authorized by you, or in your own vital interest (such as in the case of a medical emergency).</p>
+                
+                <p>You may have the right to access and delete Personal Information, and request that we correct inaccurate Personal Information by contacting us and demonstrating its inaccuracy or incompleteness to our satisfaction. If you would like to exercise any rights including your right to withdrawal consent for continued processing or have any other inquiries with respect to your Personal Information, please contact the Data Controller at the address set forth above.</p>
+                
+                <p>If you are not satisfied with our answer or how we manage your personal data, you may also have the right to make a complaint to a data protection regulator. If you reside within the EU, a list of National Data Protection Authorities can be found here: <a href="https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm" target="_blank" rel="noopener noreferrer">https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm</a></p>
+                
+                <p><strong>Storage and Transfer of Personal Information.</strong> We retain Personal Information electronically or in tangible form. We may transfer Personal Information to offices of our affiliates or other locations where our employees, researchers, consultants, or service providers are located. This may include countries outside your country of residence; the laws of such countries may provide differing levels of data protection than the country where you reside. In addition, your information may be stored outside of your country of residence and may be maintained in locations in the United States of America.</p>
+                
+                <p><strong>Protecting Personal Information.</strong> We will take commercially reasonable technical, organizational, and legal measures to secure Personal Information. We require all third-party service providers who process Personal Information for us to use appropriate measures to protect the confidentiality and security of that information in order to comply with the purposes described in this Consent.</p>
+                
+                <p><strong>Data Integrity.</strong> We will take commercially reasonable measures to ensure that Personal Information we process is reliable for its intended use, accurate and complete as necessary to carry out the purposes described in this Consent.</p>
+                
+                <p><strong>Privacy Practices.</strong> For more information on our Privacy Practices and your rights please review our Privacy Notice available at <a href="https://www.cmu.edu/legal/privacy-notice.html" target="_blank" rel="noopener noreferrer">https://www.cmu.edu/legal/privacy-notice.html</a>.</p>
+                
+                <p><strong>Consent.</strong> By signing below, you consent to the collection, use, disclosure, retention and transfer of Personal Information described in this Consent.</p>
+                
+                <h3>Voluntary Participation Section</h3>
+                
+                <p>Your participation in this study is completely voluntary. You may choose not to participate or to stop participating at any time by closing the survey window. There are no penalties or loss of benefits if you decide not to take part or withdraw before finishing.</p>
+                
+                <p>By selecting "I agree" below, you acknowledge that:</p>
+                <ul>
+                    <li>You are 18 years of age or older.</li>
+                    <li>You have read and understood the information provided above</li>
+                    <li>You voluntarily agree to participate in this research study conducted by Carnegie Mellon University</li>
+                </ul>
+                
+                <p>If you do not wish to participate, please close this window now.</p>
+            </div>
+            
+            <div class="consent-checkboxes">
+                <div class="consent-checkbox-group">
+                    <label>
+                        <input type="checkbox" id="consent-agree" onchange="updateConsentButton()">
+                        <span>I agree to participate in this study</span>
+                    </label>
+                </div>
+                
+                <div class="consent-checkbox-group">
+                    <label>
+                        <input type="checkbox" id="consent-decline" onchange="handleDecline()">
+                        <span>I do not agree to participate</span>
+                    </label>
+                </div>
+            </div>
+            
+            <div class="consent-button-group">
+                <button class="btn btn-consent btn-consent-agree" id="btn-start-survey" onclick="startSurvey()" disabled>
+                    I Agree - Start Survey
+                </button>
+                <button class="btn btn-consent btn-consent-decline" onclick="declineParticipation()">
+                    I Do Not Agree
+                </button>
+            </div>
+            
+            <div class="consent-warning" id="consent-warning" style="display: none;">
+                Please select your consent choice above before proceeding.
+            </div>
+        </div>
+    </div>
+    
+    <!-- Survey Content (hidden until consent is given) -->
+    <div class="survey-content" id="survey-content">
     <div class="container">
         <!-- Header -->
         <header>
@@ -392,8 +656,8 @@
             <p style="margin-top: 10px; color: #666; font-size: 0.95em;">
                 <strong>Research Study</strong> | Carnegie Mellon University
             </p>
-            <p style="margin-top: 15px;">Welcome! This survey explores how we evaluate research excellence in AI and Natural Language Processing. You'll compare 10 pairs of researchers with varying career stages, research styles, and impact patterns.</p>
-            <p style="margin-top: 10px;"><strong>Time Required:</strong> 15-20 minutes</p>
+            <p style="margin-top: 15px;">Welcome! This survey explores how we evaluate research excellence in AI and Natural Language Processing. You'll compare 12 pairs of researchers with varying career stages, research styles, and impact patterns.</p>
+            <p style="margin-top: 10px;"><strong>Time Required:</strong> 10-15 minutes</p>
             
         </header>
         
@@ -403,7 +667,7 @@
                 <div class="progress-fill" id="progress"></div>
             </div>
             <div class="progress-text">
-                <span id="current-comparison">1</span> of 10 comparisons
+                <span id="current-comparison">1</span> of 12 comparisons
             </div>
         </div>
         
@@ -419,7 +683,7 @@
                     <h3>👤 Researcher A</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor at New York University | Chief AI Scientist at a major tech company
+                        <strong>POSITION:</strong> Silver Professor of Computer Science, Data Science, Neural Science & ECE at New York University | Chief AI Scientist at Meta
                     </div>
                     
                     <div class="researcher-field">
@@ -443,7 +707,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Remains actively engaged with publication within the last year. Recent citation ratio of 0.02 indicates most citations come from established work.</p>
+                        <p>Continues to publish and speak publicly on foundational AI issues. As of November 2025, planning to launch his own startup focusing on "world models" rather than large-language-model architectures.</p>
                     </div>
                 </div>
                 
@@ -451,7 +715,7 @@
                     <h3>👤 Researcher B</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor Emeritus at University of Toronto | Former VP at a major tech company
+                        <strong>POSITION:</strong> Professor Emeritus at University of Toronto | Chief Scientific Advisor at Vector Institute | Former VP at Google
                     </div>
                     
                     <div class="researcher-field">
@@ -475,7 +739,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Has not published new work in the last 2 years with recent citation ratio of 0.00, suggesting transition to emeritus status or advisory roles.</p>
+                        <p>In 2023, introduced the Forward-Forward (FF) algorithm, an alternative to backpropagation. In 2024, awarded the Nobel Prize in Physics alongside John Hopfield for foundational contributions to neural networks. Joined the Scientific Advisory Board of Osmo in November 2024. Active in discussions on AI safety and ethics.</p>
                     </div>
                 </div>
             </div>
@@ -562,10 +826,10 @@
             
             <div class="researchers-container">
                 <div class="researcher">
-                    <h3>👤 Researcher A: R. Gur</h3>
+                    <h3>👤 Researcher A: Raquel Gur</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Researcher in Neuroscience and Medical Imaging (University-affiliated medical research)
+                        <strong>POSITION:</strong> Karl & Linda Rickels Professor of Psychiatry at University of Pennsylvania Perelman School of Medicine | Director, Lifespan Brain Institute
                     </div>
                     
                     <div class="researcher-field">
@@ -589,15 +853,15 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Has a one-year gap since last publication, potentially indicating shift in research focus or sabbatical. Previous momentum suggests quick return to active publishing.</p>
+                        <p>Continues to publish in 2025 on neurodevelopmental imaging and psychosis research, with recent work on mapping individual differences in intermodal coupling in neurodevelopment and pathways to psychosis spectrum disorders.</p>
                     </div>
                 </div>
                 
                 <div class="researcher">
-                    <h3>👤 Researcher B: G. Ceder</h3>
+                    <h3>👤 Researcher B: Gerbrand Ceder</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor in Materials Science and Computational Chemistry
+                        <strong>POSITION:</strong> Professor of Materials Science & Engineering at UC Berkeley | Senior Faculty Scientist at Lawrence Berkeley National Lab | Samsung Distinguished Chair in Nanoscience & Nanotechnology Research
                     </div>
                     
                     <div class="researcher-field">
@@ -621,7 +885,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Currently active with publication in current year and recent citation ratio of 0.03. Maintains consistent research output without interruption.</p>
+                        <p>Continues to publish in 2025 on high-throughput materials discovery and battery materials, with strong focus on ML/automation in materials discovery.</p>
                     </div>
                 </div>
             </div>
@@ -631,12 +895,12 @@
                     <h4>Q1: Who would you rank higher for overall research excellence?</h4>
                     <div class="radio-group">
                         <label class="radio-option">
-                            <input type="radio" name="comp2-q1" value="R. Gur">
-                            <span>R. Gur</span>
+                            <input type="radio" name="comp2-q1" value="Raquel Gur">
+                            <span>Raquel Gur</span>
                         </label>
                         <label class="radio-option">
-                            <input type="radio" name="comp2-q1" value="G. Ceder">
-                            <span>G. Ceder</span>
+                            <input type="radio" name="comp2-q1" value="Gerbrand Ceder">
+                            <span>Gerbrand Ceder</span>
                         </label>
                     </div>
                 </div>
@@ -734,11 +998,11 @@
                     <h3>👤 Researcher A</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor at Tsinghua University
+                        <strong>POSITION:</strong> Arthur S. Pearse Distinguished Professor at Duke University
                     </div>
                     
                     <div class="researcher-field">
-                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing, specializing in Chinese NLP, machine translation, and computational linguistics. Leading figure in Asian language processing.
+                        <strong>FIELD & EXPERTISE:</strong> Data Mining and Big Data, with applications in machine learning systems. Specializes in data mining, ML systems, and foundational model research. Shifting focus toward foundational model review and data mining/ML systems rather than pure NLP.
                     </div>
                     
                     <div class="metric-section">
@@ -758,7 +1022,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>No publications in last two years but maintains recent citation ratio of 0.15, indicating continued relevance of recent work.</p>
+                        <p>Continues to work in data mining and ML systems, with recent work including a 2024 comprehensive survey on pretrained foundation models. Shifting focus toward foundational model review and data mining/ML systems rather than pure NLP.</p>
                     </div>
                 </div>
                 
@@ -766,7 +1030,7 @@
                     <h3>👤 Researcher B</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor in Data Mining and Database Systems
+                        <strong>POSITION:</strong> Abel Bliss Professor of Computer Science at University of Illinois Urbana-Champaign
                     </div>
                     
                     <div class="researcher-field">
@@ -790,7 +1054,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Inactive for 2 years with minimal recent citation ratio of 0.01. This pause may reflect broader trends in senior researcher transitions.</p>
+                        <p>Continues to publish and edit major works, including the 4th edition of "Data Mining: Concepts & Techniques" (2024). Remains highly cited and a key figure in data mining and data management research.</p>
                     </div>
                 </div>
             </div>
@@ -900,10 +1164,10 @@
             
             <div class="researchers-container">
                 <div class="researcher">
-                    <h3>👤 Researcher A: L. Deng</h3>
+                    <h3>👤 Researcher A: Li Deng</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Former Chief Scientist at Microsoft Research | Executive at Citadel
+                        <strong>POSITION:</strong> Chief Artificial Intelligence Officer & Global Head of Machine Learning at Vatic Investments (formerly Citadel)
                     </div>
                     
                     <div class="researcher-field">
@@ -927,12 +1191,12 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>No publications in last four years with zero recent citations, indicating retirement from active research. Transition to industry leadership roles at Citadel.</p>
+                        <p>Focus has shifted from academic publishing toward strategic AI/ML leadership in investment and finance. Recognized as a speaker at the "AI 150" for 2024-25 on his work in AI + quantitative finance.</p>
                     </div>
                 </div>
                 
                 <div class="researcher">
-                    <h3>👤 Researcher B: R. Socher</h3>
+                    <h3>👤 Researcher B: Richard Socher</h3>
                     
                     <div class="researcher-institution">
                         <strong>POSITION:</strong> CEO of You.com | Former Chief Scientist at Salesforce | Founder of MetaMind
@@ -959,7 +1223,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>One year since last publication with minimal recent citation ratio of 0.01, reflecting transition to CEO role. Impact continues growing from foundational contributions.</p>
+                        <p>Focus has shifted from academic publishing toward startup and industry leadership, with media commentary on search/AI competition in 2025. Limited recent peer-review output, but remains engaged in the AI industry.</p>
                     </div>
                 </div>
             </div>
@@ -969,12 +1233,12 @@
                     <h4>Q1: Who would you rank higher for overall research excellence?</h4>
                     <div class="radio-group">
                         <label class="radio-option">
-                            <input type="radio" name="comp4-q1" value="L. Deng">
-                            <span>L. Deng</span>
+                            <input type="radio" name="comp4-q1" value="Li Deng">
+                            <span>Li Deng</span>
                         </label>
                         <label class="radio-option">
-                            <input type="radio" name="comp4-q1" value="R. Socher">
-                            <span>R. Socher</span>
+                            <input type="radio" name="comp4-q1" value="Richard Socher">
+                            <span>Richard Socher</span>
                         </label>
                     </div>
                 </div>
@@ -1072,7 +1336,7 @@
                     <h3>👤 Researcher A</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor at Harbin Institute of Technology
+                        <strong>POSITION:</strong> Professor at Tsinghua University, Department of Computer Science & Technology
                     </div>
                     
                     <div class="researcher-field">
@@ -1096,7 +1360,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>No publications in last 3 years with zero recent citations, suggesting transition to administrative or advisory roles.</p>
+                        <p>Lab remains active in NLP and Chinese language modeling, with 2024-25 papers on prompt-tuning and long-context modeling in Chinese NLP published in venues like ACL Anthology. Strong presence in Chinese-NLP and multilingual contexts.</p>
                     </div>
                 </div>
                 
@@ -1104,7 +1368,7 @@
                     <h3>👤 Researcher B</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor at Columbia University | Former Department Chair | Former Research Scientist at a major research lab
+                        <strong>POSITION:</strong> Percy K. & Vida L.W. Hudson Professor of Computer Science at Columbia University
                     </div>
                     
                     <div class="researcher-field">
@@ -1128,7 +1392,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Two-year gap since last publication with minimal recent citation ratio of 0.01. May be focusing on advisory and mentorship roles.</p>
+                        <p>Continues to publish in 2024-25 on prosody, code-switched speech, and emotion/voice cloning, with recent work including "Self-Supervised Approaches for Low-Resource Speech Emotion Recognition" (2025). Strong focus on speech processing, prosody, and multilingual/emotion in NLP.</p>
                     </div>
                 </div>
             </div>
@@ -1241,7 +1505,7 @@
                     <h3>👤 Researcher A: Richard G. Netemeyer</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Distinguished Professor (Marketing and Consumer Psychology)
+                        <strong>POSITION:</strong> Ralph E. Beeton Professor of Free Enterprise at McIntire School of Commerce, University of Virginia
                     </div>
                     
                     <div class="researcher-field">
@@ -1265,15 +1529,15 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>No recent publications with zero recent citation ratio, suggesting focus on other academic activities.</p>
+                        <p>Continues to publish in consumer behavior, marketing, and finance, with 2024-25 articles in marketing journals including work on financial education and behavior in Journal of Public Policy & Marketing (2024).</p>
                     </div>
                 </div>
                 
                 <div class="researcher">
-                    <h3>👤 Researcher B: P. Bourne</h3>
+                    <h3>👤 Researcher B: Philip Bourne</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Senior Leader at NIH | Founding Editor of PLOS Computational Biology
+                        <strong>POSITION:</strong> Professor of Biomedical Engineering and Founding Dean of the School of Data Science at University of Virginia
                     </div>
                     
                     <div class="researcher-field">
@@ -1297,7 +1561,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>One year since last publication with minimal recent citation ratio of 0.01. Continued engagement typical for senior biological sciences researchers.</p>
+                        <p>Continues to publish in structural bioinformatics, data science, and scholarly communication, with recent work on drug repurposing, reproducibility in computational biology, and structural systems pharmacology. Actively involved in developing open-access resources and tools to advance biomedical research.</p>
                     </div>
                 </div>
             </div>
@@ -1311,8 +1575,8 @@
                             <span>Richard G. Netemeyer</span>
                         </label>
                         <label class="radio-option">
-                            <input type="radio" name="comp6-q1" value="P. Bourne">
-                            <span>P. Bourne</span>
+                            <input type="radio" name="comp6-q1" value="Philip Bourne">
+                            <span>Philip Bourne</span>
                         </label>
                     </div>
                 </div>
@@ -1410,7 +1674,7 @@
                     <h3>👤 Researcher A</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor at University of Washington | Key Scientist at a major tech company
+                        <strong>POSITION:</strong> Professor at Paul G. Allen School of Computer Science & Engineering, University of Washington | Senior Research Director at Meta AI (FAIR) in Seattle
                     </div>
                     
                     <div class="researcher-field">
@@ -1434,7 +1698,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Active through 2025 with new papers/releases tied to large language models, instruction tuning, and scalable training pipelines. Momentum is driven by fewer, higher-leverage outputs (models, datasets, recipes) that see rapid downstream adoption across labs and products.</p>
+                        <p>Continues to publish in 2024-25 on self-supervision, large language models, and semantics. Recent work includes release of Dolma large-token-corpus (≈3 trillion tokens) for LLM pretraining. Leading both academic and industry research in LLMs and retrieval/semantics.</p>
                     </div>
                 </div>
                 
@@ -1442,7 +1706,7 @@
                     <h3>👤 Researcher B</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor at University of Washington | Senior Director at a major AI research institute
+                        <strong>POSITION:</strong> Dieter Schwarz Foundation Professor of Computer Science at Stanford University | Senior Fellow at Stanford Institute for Human-Centered AI (HAI) | Formerly at University of Washington
                     </div>
                     
                     <div class="researcher-field">
@@ -1466,7 +1730,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Publishing through 2025 with agenda-setting work in commonsense reasoning, value alignment, and social dynamics of AI. Ongoing AI2/UW releases (benchmarks, analyses, position pieces) keep visibility high and shape evaluation norms for reasoning and safety.</p>
+                        <p>Continues to publish in 2025, with papers such as "Why and How LLMs Hallucinate" at NeurIPS 2025. Briefed the UN Security Council (September 2025) on inclusive AI. Prominent in commonsense NLP, policy, and smaller-model research.</p>
                     </div>
                 </div>
             </div>
@@ -1579,7 +1843,7 @@
                     <h3>👤 Researcher A: Christopher D. Manning</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor at Stanford University | Co-director of Stanford NLP Group
+                        <strong>POSITION:</strong> Professor of Computer Science & Linguistics at Stanford University | Director of Stanford NLP Group
                     </div>
                     
                     <div class="researcher-field">
@@ -1603,7 +1867,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Actively publishing into 2025. Influence continues via selective papers, sustained tool/ecosystem development, and mentorship; recent outputs reinforce long-run effects on parsing/semantics-informed neural methods and educational infrastructure.</p>
+                        <p>Continues to publish in representation learning and LLM methods, with recent work including ReFT (Representation Finetuning) paper (2024). Major figure in NLP and representation learning, maintaining strong presence in the field.</p>
                     </div>
                 </div>
                 
@@ -1611,7 +1875,7 @@
                     <h3>👤 Researcher B: Jason Weston</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Senior Researcher at Meta AI (FAIR) | Former Google and Meta AI
+                        <strong>POSITION:</strong> Senior Research Scientist at Meta AI (FAIR)
                     </div>
                     
                     <div class="researcher-field">
@@ -1635,7 +1899,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Active through 2025 with releases in conversational AI, retrieval-augmented learning, and open-scale training recipes. Impact channels include widely adopted libraries, datasets, and system blueprints that propagate quickly across industry and academia.</p>
+                        <p>Continues to publish, with recent work including "Byte Latent Transformer" (December 2024) on byte-level patching/transformer work for NLP. Primarily industry research-oriented, contributing to Meta's AI research efforts.</p>
                     </div>
                 </div>
             </div>
@@ -1748,7 +2012,7 @@
                     <h3>👤 Researcher A</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor at Stanford University | Co-author of a major NLP textbook
+                        <strong>POSITION:</strong> Professor of Linguistics & Computer Science at Stanford University
                     </div>
                     
                     <div class="researcher-field">
@@ -1772,7 +2036,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Publishing into 2025. Current influence blends new work, synthesis, and pedagogy—continuing to shape curricula, best practices, and cross-disciplinary collaborations that keep citations and invitations strong.</p>
+                        <p>Continues to publish, with online manuscript of 3rd edition "Speech & Language Processing" released August 2025, and 2024-25 papers on anthropomorphism in language models. Co-authoring textbook revisions and bridging NLP and linguistics research.</p>
                     </div>
                 </div>
                 
@@ -1780,7 +2044,7 @@
                     <h3>👤 Researcher B</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Senior Researcher | Founder of a sentiment analysis platform | Editor-in-Chief of a cognitive computing journal
+                        <strong>POSITION:</strong> Full Professor of AI at Nanyang Technological University (NTU), Singapore | Founder of SenticNet
                     </div>
                     
                     <div class="researcher-field">
@@ -1804,7 +2068,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Active through 2025 with steady journal-driven output, editorial leadership, and SenticNet iterations. Regular resource updates and domain benchmarks sustain ongoing community uptake.</p>
+                        <p>Continues to publish, with recent work including "Natural language processing in finance: A survey" (2025) and SenticNet 8 (2024) on neurosymbolic sentiment analysis. Applied research in sentiment/affective computing and neurosymbolic AI.</p>
                     </div>
                 </div>
             </div>
@@ -1917,7 +2181,7 @@
                     <h3>👤 Researcher A: Hsinchun Chen</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Distinguished Professor at University of Arizona | Founder of Artificial Intelligence Lab
+                        <strong>POSITION:</strong> Regents' Professor & Thomas R. Brown Chair in Management & Technology, Department of MIS, University of Arizona | Director of Artificial Intelligence Lab
                     </div>
                     
                     <div class="researcher-field">
@@ -1941,7 +2205,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Actively publishing in 2025. Momentum reflects interdisciplinary lab deliverables—systems, datasets, and decision-support tools—co-developed with translational partners in cybersecurity and health analytics.</p>
+                        <p>Continues research in cybersecurity and intelligence analytics, though explicit 2025 publication details are less prominent. Strong in applied AI and information systems.</p>
                     </div>
                 </div>
                 
@@ -1949,7 +2213,7 @@
                     <h3>👤 Researcher B: Harlan Krumholz</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor of Medicine at Yale University | Founding Director of Yale Center for Outcomes Research and Evaluation (CORE)
+                        <strong>POSITION:</strong> Harold H. Hines, Jr. Professor of Medicine (Cardiology) at Yale School of Medicine | Leader in health outcomes research
                     </div>
                     
                     <div class="researcher-field">
@@ -1973,7 +2237,7 @@
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Continues high-throughput publications through 2025. Current work in AI for real-world evidence and surveillance translates rapidly into clinical guidelines and policy, sustaining exceptional citation velocity.</p>
+                        <p>Remains prolific with ongoing 2024-25 research, including JACC article (October 2025). Recent work includes "The Obesity Revolution Comes to Cardiology" (2024) in JACC. Highly productive in applied medical research.</p>
                     </div>
                 </div>
             </div>
@@ -2069,6 +2333,344 @@
                 
                 <div class="btn-group">
                     <button class="btn btn-prev" onclick="prevComparison(10)">← Previous</button>
+                    <button class="btn btn-next" onclick="nextComparison(10)">Next →</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Comparison 11: Information Retrieval vs. Neural Machine Translation -->
+        <div class="comparison" id="comparison-11">
+            <div class="comparison-header">
+                <h2 class="comparison-title">Comparison 11: Information Retrieval vs. Neural Machine Translation<span class="display-mode-badge" id="badge-11"></span></h2>
+                <p class="comparison-subtitle">Search systems vs. neural sequence modeling</p>
+            </div>
+            
+            <div class="researchers-container">
+                <div class="researcher">
+                    <h3>👤 Researcher A</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Distinguished Professor at University of Massachusetts Amherst | Pioneer in Information Retrieval
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Information Retrieval and Search Systems, specializing in language modeling, query processing, and search algorithms. Known for foundational contributions to probabilistic models for IR and development of large-scale search technologies.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Career spanning multiple decades as a pioneer in information retrieval. Recognized as one of the most influential researchers in search systems, with contributions that have shaped both academic research and commercial search engines.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored over 700 papers with sustained high-quality contributions to information retrieval. Work appears in top venues including SIGIR, CIKM, and related conferences. Publications span theoretical foundations and practical applications of search technology.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated over 61,000 citations with an h-index of 125, placing among the most cited researchers in information retrieval. Work on language models and probabilistic IR has been foundational to the field.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Continues active research in information retrieval, neural ranking models, and search systems. Remains a leading figure in advancing both classical and neural approaches to search.</p>
+                    </div>
+                </div>
+                
+                <div class="researcher">
+                    <h3>👤 Researcher B</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Professor | Leading researcher in Neural Machine Translation and Deep Learning for NLP
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing and Machine Learning, specializing in neural machine translation, sequence-to-sequence models, and deep learning architectures such as attention and recurrent networks. Known for foundational contributions to neural translation and sequence modeling.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Career spanning 30 years (1995–2024). Recognized for foundational contributions to neural machine translation and sequence modeling, with work that has shaped modern neural NLP architectures.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 328 papers averaging 10.9 publications per year. Work appears in top-tier venues including ACL, EMNLP, and ICLR, with a strong conference presence (132 conference papers vs. 36 journal papers), reflecting a balanced and empirically focused publication profile.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 124,637 total citations with an average of 380 citations per paper and an h-index of 93. High citation impact reflects major influence in neural machine translation and deep learning for NLP.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Remains active with ongoing research through 2024. Continues to contribute to neural machine translation, sequence modeling, and deep learning methods for language.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="evaluation-section">
+                <div class="question">
+                    <h4>Q1: Who would you rank higher for overall research excellence?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp11-q1" value="Researcher A">
+                            <span>Researcher A</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp11-q1" value="Researcher B">
+                            <span>Researcher B</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q2: Which factors influenced your decision? (Select all that apply)</h4>
+                    <div class="checkbox-group">
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp11-q2" value="total-citations">
+                            <span>Total career citations</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp11-q2" value="avg-citations">
+                            <span>Average citations per paper</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp11-q2" value="career-length">
+                            <span>Career longevity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp11-q2" value="recent-activity">
+                            <span>Recent research activity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp11-q2" value="influential">
+                            <span>Influential citation percentage</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp11-q2" value="field-contributions">
+                            <span>Field-defining contributions</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q3: How do you compare information retrieval and search systems versus neural machine translation and sequence modeling?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp11-q3" value="theoretical-more">
+                            <span>Theoretical foundations more valuable</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp11-q3" value="applied-more">
+                            <span>Applied systems more valuable</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp11-q3" value="both-equal">
+                            <span>Both equally important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp11-q3" value="depends-context">
+                            <span>Depends on evaluation context</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q4: How important is field influence versus practical impact in your evaluation?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp11-q4" value="field-influence">
+                            <span>Field influence more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp11-q4" value="practical-impact">
+                            <span>Practical impact more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp11-q4" value="both-equal">
+                            <span>Both equally important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp11-q4" value="other-factors">
+                            <span>Other factors more important</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="btn-group">
+                    <button class="btn btn-prev" onclick="prevComparison(11)">← Previous</button>
+                    <button class="btn btn-next" onclick="nextComparison(11)">Next →</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Comparison 12: Neural Machine Translation vs. Computational Linguistics -->
+        <div class="comparison" id="comparison-12">
+            <div class="comparison-header">
+                <h2 class="comparison-title">Comparison 12: Neural Machine Translation vs. Computational Linguistics<span class="display-mode-badge" id="badge-12"></span></h2>
+                <p class="comparison-subtitle">Sequence modeling vs. theoretical NLP foundations</p>
+            </div>
+            
+            <div class="researchers-container">
+                <div class="researcher">
+                    <h3>👤 Researcher A</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Professor | Leading researcher in Neural Machine Translation and Deep Learning for NLP
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing and Machine Learning, specializing in neural machine translation, sequence-to-sequence models, and deep learning architectures such as attention and recurrent networks. Known for foundational contributions to neural translation and sequence modeling.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Career spanning 30 years (1995–2024). Recognized for foundational contributions to neural machine translation and sequence modeling, with work that has shaped modern neural NLP architectures.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 328 papers averaging 10.9 publications per year. Work appears in top-tier venues including ACL, EMNLP, and ICLR, with a strong conference presence (132 conference papers vs. 36 journal papers), reflecting a balanced and empirically focused publication profile.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 124,637 total citations with an average of 380 citations per paper and an h-index of 93. High citation impact reflects major influence in neural machine translation and deep learning for NLP.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Remains active with ongoing research through 2024. Continues to contribute to neural machine translation, sequence modeling, and deep learning methods for language.</p>
+                    </div>
+                </div>
+                
+                <div class="researcher">
+                    <h3>👤 Researcher B</h3>
+                    
+                    <div class="researcher-institution">
+                        <strong>POSITION:</strong> Professor at University of Washington | Leading researcher in Computational Linguistics and NLP
+                    </div>
+                    
+                    <div class="researcher-field">
+                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing and Computational Linguistics, specializing in structured prediction, statistical methods, and machine learning for text. Known for theoretical contributions to NLP and advancing statistical approaches to language understanding.
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Career Overview</h4>
+                        <p>Career spanning 26 years (1999–2024). Recognized for advancing computational linguistics and statistical methods in NLP, with contributions to structured prediction, dependency parsing, and text understanding.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Publication Record</h4>
+                        <p>Authored 425 papers averaging 16.3 publications per year. Work appears primarily in top-tier NLP venues including ACL, EMNLP, and NAACL, with a strong focus on conference publications (254 conference papers vs. 35 journal papers), reflecting focus on empirical NLP research.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Citation Impact</h4>
+                        <p>Accumulated 57,617 total citations with an average of 135.6 citations per paper and an h-index of 113. Reflects strong influence in computational linguistics and NLP research community.</p>
+                    </div>
+                    
+                    <div class="metric-section">
+                        <h4>Current Activity</h4>
+                        <p>Continues active research in NLP, with recent work through 2024. Maintains high publication rate and influence in computational linguistics and statistical NLP.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="evaluation-section">
+                <div class="question">
+                    <h4>Q1: Who would you rank higher for overall research excellence?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp12-q1" value="Researcher A">
+                            <span>Researcher A</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp12-q1" value="Researcher B">
+                            <span>Researcher B</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q2: Which factors influenced your decision? (Select all that apply)</h4>
+                    <div class="checkbox-group">
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp12-q2" value="total-citations">
+                            <span>Total career citations</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp12-q2" value="avg-citations">
+                            <span>Average citations per paper</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp12-q2" value="career-length">
+                            <span>Career longevity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp12-q2" value="recent-activity">
+                            <span>Recent research activity</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp12-q2" value="influential">
+                            <span>Influential citation percentage</span>
+                        </label>
+                        <label class="checkbox-option">
+                            <input type="checkbox" name="comp12-q2" value="field-contributions">
+                            <span>Field-defining contributions</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q3: How do you compare neural machine translation and sequence modeling versus computational linguistics and theoretical NLP?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp12-q3" value="emerging-more">
+                            <span>Emerging applications more valuable</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp12-q3" value="core-tech-more">
+                            <span>Core technology more valuable</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp12-q3" value="both-equal">
+                            <span>Both equally important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp12-q3" value="depends-goals">
+                            <span>Depends on research goals</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="question">
+                    <h4>Q4: How do you weigh publication volume and breadth versus citation density and selective high-impact work?</h4>
+                    <div class="radio-group">
+                        <label class="radio-option">
+                            <input type="radio" name="comp12-q4" value="volume-more">
+                            <span>Publication volume and breadth more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp12-q4" value="density-more">
+                            <span>Citation density and high-impact work more important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp12-q4" value="both-equal">
+                            <span>Both equally important</span>
+                        </label>
+                        <label class="radio-option">
+                            <input type="radio" name="comp12-q4" value="other-criteria">
+                            <span>Other criteria more important</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="btn-group">
+                    <button class="btn btn-prev" onclick="prevComparison(12)">← Previous</button>
                     <button class="btn btn-next" onclick="showFinalSection()">Complete Survey →</button>
                 </div>
             </div>
@@ -2125,7 +2727,7 @@
             </div>
             
             <div class="question">
-                <h4>Overall, how confident are you in your ranking decisions across all 10 comparisons?</h4>
+                <h4>Overall, how confident are you in your ranking decisions across all 12 comparisons?</h4>
                 <div class="radio-group">
                     <label class="radio-option">
                         <input type="radio" name="overall-confidence" value="very-confident">
@@ -2218,7 +2820,7 @@
         // Apps Script Configuration (Much simpler than API!)
         // const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwkkflMcmFgsMQnVEIU4j-kGHO9Kg3ZFGm8Lw1aGTaUb28qyuouHKYpj83BzGDWQNLv/exec';
         const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxaOAGGHi7I1DJrXNkvdI_asRMLPdG30nfYN1aT61bgOEebEtKhyyHeYNeuJl4TAXZh/exec';
-
+        
         // Old Google Sheets API config (not needed with Apps Script)
         // const GOOGLE_SHEETS_CONFIG = {
         //     SPREADSHEET_ID: '1H305r2ddPJ2toepUSm-VjhnhLwzEV5XyCHiqagTHkjE',
@@ -2227,42 +2829,171 @@
         // };
         
         let currentComparison = 1;
-        const totalComparisons = 10;
+        const totalComparisons = 12;
         const responses = {};
         let submissionReady = false;
         let displayConditions = {}; // Stores which comparisons are minimal vs full
         
-        // FIXED ALTERNATING PATTERN:
-        // Odd comparisons (1,3,5,7,9) = FULL INFO (with anonymization)
-        // Even comparisons (2,4,6,8,10) = MINIMAL INFO (with names)
+        // Actual researcher names for each comparison (for minimal info mode)
+        // These are used when switching from anonymized (Researcher A/B) to named display
+        // Using full names for consistency, clarity, and professionalism
+        const researcherNames = {
+            1: { A: 'Yann LeCun', B: 'Geoffrey E. Hinton' },
+            2: { A: 'Raquel Gur', B: 'Gerbrand Ceder' },
+            3: { A: 'Jian Pei', B: 'Jiawei Han' },
+            4: { A: 'Li Deng', B: 'Richard Socher' },
+            5: { A: 'Maosong Sun', B: 'Julia Hirschberg' },
+            6: { A: 'Richard G. Netemeyer', B: 'Philip Bourne' },
+            7: { A: 'Luke Zettlemoyer', B: 'Yejin Choi' },
+            8: { A: 'Christopher D. Manning', B: 'Jason Weston' },
+            9: { A: 'Dan Jurafsky', B: 'Erik Cambria' },
+            10: { A: 'Hsinchun Chen', B: 'Harlan Krumholz' },
+            11: { A: 'W. Bruce Croft', B: 'Kyunghyun Cho' },
+            12: { A: 'Kyunghyun Cho', B: 'Noah A. Smith' }
+        };
+        
+        // RANDOMIZATION SYSTEM WITH 4 CONDITIONS:
+        // Condition 1: anonymous + full-info (Researcher A/B with all metrics)
+        // Condition 2: names + minimal-info (Actual names with basic info only)
+        // Condition 3: anonymous + minimal-info (Researcher A/B with basic info only) - NEW
+        // Condition 4: names + full-info (Actual names with all metrics) - NEW
+        //
+        // Counterbalancing: With 12 comparisons, each condition appears exactly 3 times
+        // Using a Latin square design to ensure balanced distribution across positions
         
         function initializeRandomization() {
-            // Fixed alternating pattern - same for all participants
-            for (let i = 1; i <= 10; i++) {
-                if (i % 2 === 1) {
-                    // Odd comparisons: FULL INFO (anonymized)
-                    displayConditions[i] = 'full';
+            // Check if pattern was already assigned (to maintain consistency if user returns)
+            let patternType = localStorage.getItem('randomizationPattern');
+            
+            if (!patternType) {
+                // Randomly assign to one of 4 counterbalanced patterns (25% each)
+                const randomValue = Math.random();
+                if (randomValue < 0.25) {
+                    patternType = 'A';
+                } else if (randomValue < 0.5) {
+                    patternType = 'B';
+                } else if (randomValue < 0.75) {
+                    patternType = 'C';
                 } else {
-                    // Even comparisons: MINIMAL INFO (with names)
-                    displayConditions[i] = 'minimal';
+                    patternType = 'D';
                 }
+                localStorage.setItem('randomizationPattern', patternType);
+                console.log('🎲 Random value:', randomValue);
+                console.log('✅ Assigned to randomization pattern:', patternType);
+            } else {
+                console.log('♻️ Using existing randomization pattern:', patternType);
+            }
+            
+            // Counterbalanced assignment patterns for 12 comparisons
+            // Each pattern ensures each condition (1-4) appears exactly 3 times
+            const patterns = {
+                'A': [
+                    // Comparison: 1  2  3  4  5  6  7  8  9 10 11 12
+                    // Condition: 1  2  3  4  1  2  3  4  1  2  3  4
+                    {anonymity: 'anonymous', info: 'full'},      // 1
+                    {anonymity: 'names', info: 'minimal'},        // 2
+                    {anonymity: 'anonymous', info: 'minimal'},   // 3
+                    {anonymity: 'names', info: 'full'},          // 4
+                    {anonymity: 'anonymous', info: 'full'},      // 5
+                    {anonymity: 'names', info: 'minimal'},        // 6
+                    {anonymity: 'anonymous', info: 'minimal'},   // 7
+                    {anonymity: 'names', info: 'full'},          // 8
+                    {anonymity: 'anonymous', info: 'full'},      // 9
+                    {anonymity: 'names', info: 'minimal'},        // 10
+                    {anonymity: 'anonymous', info: 'minimal'},   // 11
+                    {anonymity: 'names', info: 'full'}           // 12
+                ],
+                'B': [
+                    // Comparison: 1  2  3  4  5  6  7  8  9 10 11 12
+                    // Condition: 2  3  4  1  2  3  4  1  2  3  4  1
+                    {anonymity: 'names', info: 'minimal'},        // 1
+                    {anonymity: 'anonymous', info: 'minimal'},   // 2
+                    {anonymity: 'names', info: 'full'},          // 3
+                    {anonymity: 'anonymous', info: 'full'},      // 4
+                    {anonymity: 'names', info: 'minimal'},        // 5
+                    {anonymity: 'anonymous', info: 'minimal'},   // 6
+                    {anonymity: 'names', info: 'full'},          // 7
+                    {anonymity: 'anonymous', info: 'full'},      // 8
+                    {anonymity: 'names', info: 'minimal'},        // 9
+                    {anonymity: 'anonymous', info: 'minimal'},   // 10
+                    {anonymity: 'names', info: 'full'},          // 11
+                    {anonymity: 'anonymous', info: 'full'}       // 12
+                ],
+                'C': [
+                    // Comparison: 1  2  3  4  5  6  7  8  9 10 11 12
+                    // Condition: 3  4  1  2  3  4  1  2  3  4  1  2
+                    {anonymity: 'anonymous', info: 'minimal'},   // 1
+                    {anonymity: 'names', info: 'full'},          // 2
+                    {anonymity: 'anonymous', info: 'full'},      // 3
+                    {anonymity: 'names', info: 'minimal'},        // 4
+                    {anonymity: 'anonymous', info: 'minimal'},   // 5
+                    {anonymity: 'names', info: 'full'},          // 6
+                    {anonymity: 'anonymous', info: 'full'},      // 7
+                    {anonymity: 'names', info: 'minimal'},        // 8
+                    {anonymity: 'anonymous', info: 'minimal'},   // 9
+                    {anonymity: 'names', info: 'full'},          // 10
+                    {anonymity: 'anonymous', info: 'full'},      // 11
+                    {anonymity: 'names', info: 'minimal'}        // 12
+                ],
+                'D': [
+                    // Comparison: 1  2  3  4  5  6  7  8  9 10 11 12
+                    // Condition: 4  1  2  3  4  1  2  3  4  1  2  3
+                    {anonymity: 'names', info: 'full'},          // 1
+                    {anonymity: 'anonymous', info: 'full'},      // 2
+                    {anonymity: 'names', info: 'minimal'},        // 3
+                    {anonymity: 'anonymous', info: 'minimal'},   // 4
+                    {anonymity: 'names', info: 'full'},          // 5
+                    {anonymity: 'anonymous', info: 'full'},      // 6
+                    {anonymity: 'names', info: 'minimal'},        // 7
+                    {anonymity: 'anonymous', info: 'minimal'},   // 8
+                    {anonymity: 'names', info: 'full'},          // 9
+                    {anonymity: 'anonymous', info: 'full'},      // 10
+                    {anonymity: 'names', info: 'minimal'},        // 11
+                    {anonymity: 'anonymous', info: 'minimal'}    // 12
+                ]
+            };
+            
+            // Apply pattern based on assignment
+            const pattern = patterns[patternType];
+            for (let i = 1; i <= totalComparisons; i++) {
+                const condition = pattern[i - 1];
+                displayConditions[i] = {
+                    anonymity: condition.anonymity,
+                    info: condition.info
+                };
             }
             
             // Save to localStorage
             localStorage.setItem('displayConditions', JSON.stringify(displayConditions));
-            console.log('Applied fixed alternating pattern:', displayConditions);
+            console.log('Applied randomization pattern', patternType + ':', displayConditions);
             
             // Apply the conditions to the DOM
             applyDisplayConditions();
         }
         
         function applyDisplayConditions() {
-            // Apply the randomized conditions (minimal vs full info)
+            // Apply the randomized conditions (4 conditions: anonymity × info level)
             for (let i = 1; i <= totalComparisons; i++) {
                 const comparison = document.getElementById(`comparison-${i}`);
                 const badge = document.getElementById(`badge-${i}`);
                 
-                if (displayConditions[i] === 'minimal') {
+                // Handle legacy format (string) for backward compatibility
+                let condition = displayConditions[i];
+                if (typeof condition === 'string') {
+                    // Legacy format: convert to new format
+                    if (condition === 'minimal') {
+                        condition = {anonymity: 'names', info: 'minimal'};
+                    } else {
+                        condition = {anonymity: 'anonymous', info: 'full'};
+                    }
+                    displayConditions[i] = condition;
+                }
+                
+                const showNames = condition.anonymity === 'names';
+                const isMinimalInfo = condition.info === 'minimal';
+                
+                // Apply info level (minimal vs full)
+                if (isMinimalInfo) {
                     // Minimal info mode: hide metrics, show basic info only
                     comparison.classList.add('minimal-info');
                     badge.textContent = 'Minimal Info';
@@ -2272,9 +3003,126 @@
                     updateQuestionsForMinimalMode(i);
                 } else {
                     // Full info mode: show all metrics
+                    comparison.classList.remove('minimal-info');
                     badge.textContent = 'Full Info';
+                    badge.classList.remove('badge-minimal');
                     badge.classList.add('badge-full');
                 }
+                
+                // Apply anonymity level (names vs anonymous)
+                updateResearcherNames(i, showNames);
+                updateQ1WithNames(i, showNames);
+                
+                // Update badge to show condition type (for debugging/testing)
+                const conditionLabel = (showNames ? 'Names' : 'Anonymous') + ' + ' + (isMinimalInfo ? 'Minimal' : 'Full');
+                console.log(`Comparison ${i}: ${conditionLabel}`);
+            }
+        }
+        
+        function updateResearcherNames(compNum, showNames) {
+            const comparison = document.getElementById(`comparison-${compNum}`);
+            if (!comparison) return;
+            
+            const researcherHeadings = comparison.querySelectorAll('.researcher h3');
+            const names = researcherNames[compNum];
+            
+            if (!names) return;
+            
+            researcherHeadings.forEach((heading, index) => {
+                const currentText = heading.textContent.trim();
+                const researcherLetter = index === 0 ? 'A' : 'B';
+                const name = names[researcherLetter];
+                
+                if (showNames) {
+                    // Show actual name
+                    // Check if name is already embedded (like "Researcher A: R. Gur")
+                    if (currentText.includes(':')) {
+                        // Already has name embedded, extract and show just the name
+                        const existingName = currentText.split(':')[1]?.trim();
+                        if (existingName) {
+                            heading.textContent = '👤 ' + existingName;
+                        }
+                    } else if (currentText === '👤 Researcher ' + researcherLetter) {
+                        // Just says "Researcher A" or "Researcher B", replace with actual name
+                        heading.textContent = '👤 ' + name;
+                    } else if (!currentText.includes(name) && currentText.includes('Researcher')) {
+                        // Has "Researcher" but not the actual name, replace with name
+                        heading.textContent = '👤 ' + name;
+                    }
+                    // If it already shows just the name (no "Researcher"), leave it as is
+                } else {
+                    // Show anonymized (Researcher A/B)
+                    // If it shows an actual name or has name embedded, replace with anonymized
+                    if (currentText.includes(':')) {
+                        // Has name embedded like "Researcher A: R. Gur", replace with "Researcher A"
+                        heading.textContent = '👤 Researcher ' + researcherLetter;
+                    } else if (!currentText.includes('Researcher ' + researcherLetter)) {
+                        // Shows actual name without "Researcher", replace with "Researcher A/B"
+                        heading.textContent = '👤 Researcher ' + researcherLetter;
+                    }
+                    // If it already says "Researcher A" or "Researcher B", leave it as is
+                }
+            });
+        }
+        
+        function updateQ1WithNames(compNum, showNames = null) {
+            // If showNames is null, determine from displayConditions
+            if (showNames === null) {
+                const condition = displayConditions[compNum];
+                if (typeof condition === 'string') {
+                    // Legacy format
+                    showNames = condition === 'minimal';
+                } else {
+                    // New format
+                    showNames = condition.anonymity === 'names';
+                }
+            }
+            
+            const comparison = document.getElementById(`comparison-${compNum}`);
+            if (!comparison) return;
+            
+            const q1Container = comparison.querySelector('.question');
+            if (!q1Container) return;
+            
+            const q1RadioGroup = q1Container.querySelector('.radio-group');
+            if (!q1RadioGroup) return;
+            
+            const names = researcherNames[compNum];
+            if (!names) return;
+            
+            if (showNames) {
+                // Update Q1 to show actual names
+                const radioOptions = q1RadioGroup.querySelectorAll('input[type="radio"]');
+                radioOptions.forEach((radio, index) => {
+                    const researcherLetter = index === 0 ? 'A' : 'B';
+                    const name = names[researcherLetter];
+                    
+                    // Update value and label
+                    radio.value = name;
+                    const label = radio.closest('label');
+                    if (label) {
+                        const span = label.querySelector('span');
+                        if (span) {
+                            span.textContent = name;
+                        }
+                    }
+                });
+            } else {
+                // Update Q1 to show Researcher A/B
+                const radioOptions = q1RadioGroup.querySelectorAll('input[type="radio"]');
+                radioOptions.forEach((radio, index) => {
+                    const researcherLetter = index === 0 ? 'A' : 'B';
+                    
+                    // Update value and label
+                    radio.value = 'Researcher ' + researcherLetter;
+                    const label = radio.closest('label');
+                    if (label) {
+                        const span = label.querySelector('span');
+                        if (span) {
+                            span.textContent = 'Researcher ' + researcherLetter;
+                        }
+                    }
+                });
             }
         }
         
@@ -2312,7 +3160,7 @@
                 }
             }
             
-            // Q4 is the fourth question (index 3) - only exists for comparisons 2-10
+            // Q4 is the fourth question (index 3) - only exists for comparisons 2-12
             if (questions.length >= 4 && compNum > 1) {
                 const q4Container = questions[3];
                 const q4Title = q4Container.querySelector('h4');
@@ -2343,27 +3191,120 @@
             }
         }
         
-        // Load saved responses on page load
-        window.onload = function() {
-            // Initialize randomization first
+        // Consent handling functions
+        function updateConsentButton() {
+            const agreeCheckbox = document.getElementById('consent-agree');
+            const declineCheckbox = document.getElementById('consent-decline');
+            const startButton = document.getElementById('btn-start-survey');
+            const warning = document.getElementById('consent-warning');
+            
+            // If agree is checked, uncheck decline
+            if (agreeCheckbox.checked) {
+                declineCheckbox.checked = false;
+                startButton.disabled = false;
+                warning.style.display = 'none';
+            } else {
+                startButton.disabled = true;
+            }
+        }
+        
+        function handleDecline() {
+            const agreeCheckbox = document.getElementById('consent-agree');
+            const declineCheckbox = document.getElementById('consent-decline');
+            
+            // If decline is checked, uncheck agree
+            if (declineCheckbox.checked) {
+                agreeCheckbox.checked = false;
+                document.getElementById('btn-start-survey').disabled = true;
+            }
+        }
+        
+        function startSurvey() {
+            const agreeCheckbox = document.getElementById('consent-agree');
+            
+            if (!agreeCheckbox.checked) {
+                document.getElementById('consent-warning').style.display = 'block';
+                return;
+            }
+            
+            // Store consent in localStorage
+            localStorage.setItem('surveyConsent', JSON.stringify({
+                agreed: true,
+                timestamp: new Date().toISOString(),
+                studyId: 'STUDY2023_00001234'
+            }));
+            
+            // Hide consent form
+            document.getElementById('consent-section').classList.add('hidden');
+            
+            // Show survey content
+            document.getElementById('survey-content').classList.add('visible');
+            
+            // Initialize survey
             initializeRandomization();
+            loadSavedResponses();
+            checkSubmissionReady();
+        }
+        
+        function declineParticipation() {
+            const declineCheckbox = document.getElementById('consent-decline');
+            declineCheckbox.checked = true;
             
-            // Console-only verification for admins (hidden from participants)
-            console.log('%c=== SURVEY CONDITION (ADMIN ONLY) ===', 'color: blue; font-weight: bold;');
-            console.log('FIXED ALTERNATING PATTERN:');
-            console.log('  ODD comparisons (1,3,5,7,9) = FULL INFO (anonymized)');
-            console.log('  EVEN comparisons (2,4,6,8,10) = MINIMAL INFO (with names)');
-            console.log('\nDisplay Conditions:', displayConditions);
-            console.log('Full Info (anonymized):', Object.keys(displayConditions).filter(k => displayConditions[k] === 'full').join(', '));
-            console.log('Minimal Info (with names):', Object.keys(displayConditions).filter(k => displayConditions[k] === 'minimal').join(', '));
-            console.log('%c=====================================', 'color: blue;');
+            alert('Thank you for your time. If you change your mind, you can return to this page to participate.');
             
+            // Optionally redirect or close
+            // window.close(); // This might not work in all browsers
+        }
+        
+        function loadSavedResponses() {
             const saved = localStorage.getItem('surveyResponses');
             if (saved) {
                 Object.assign(responses, JSON.parse(saved));
                 console.log('Loaded saved responses:', responses);
             }
             
+            // Restore display conditions from localStorage
+            const savedConditions = localStorage.getItem('displayConditions');
+            if (savedConditions) {
+                displayConditions = JSON.parse(savedConditions);
+                console.log('Restored display conditions:', displayConditions);
+                // Apply the conditions to update names and display modes
+                applyDisplayConditions();
+            }
+            
+            // Restore the last comparison they were on
+            const lastComparison = localStorage.getItem('lastComparison');
+            if (lastComparison) {
+                const compNum = parseInt(lastComparison);
+                if (compNum >= 1 && compNum <= totalComparisons) {
+                    currentComparison = compNum;
+                    
+                    // Check if they completed the survey (have final responses)
+                    if (responses.final && responses.final.completedAt) {
+                        // They completed it, show final section
+                        document.querySelectorAll('.comparison').forEach(comp => {
+                            comp.classList.remove('active');
+                        });
+                        document.getElementById('final-section').classList.add('active');
+                        document.querySelector('.progress-bar').style.display = 'none';
+                        console.log('Survey was completed, showing final section');
+                    } else {
+                        // Hide all comparisons
+                        document.querySelectorAll('.comparison').forEach(comp => {
+                            comp.classList.remove('active');
+                        });
+                        
+                        // Show the last comparison they were on
+                        document.getElementById(`comparison-${compNum}`).classList.add('active');
+                        updateProgress();
+                        
+                        console.log('Restored to comparison', compNum);
+                    }
+                }
+            }
+        }
+        
+        function checkSubmissionReady() {
             // Check if Apps Script URL is configured
             if (APPS_SCRIPT_URL !== 'YOUR_APPS_SCRIPT_URL_HERE') {
                 submissionReady = true;
@@ -2373,11 +3314,48 @@
                 updateStorageStatus('⚠️ Local storage only - Configure Apps Script URL to enable submission');
                 console.log('Apps Script URL not configured');
             }
+        }
+        
+        // Load saved responses on page load
+        window.onload = function() {
+            // Check if consent was already given
+            const consent = localStorage.getItem('surveyConsent');
+            
+            if (consent) {
+                // Consent already given, show survey directly
+                document.getElementById('consent-section').classList.add('hidden');
+                document.getElementById('survey-content').classList.add('visible');
+                
+                // Initialize randomization first
+                initializeRandomization();
+                
+                // Console-only verification for admins (hidden from participants)
+                const patternType = localStorage.getItem('randomizationPattern') || 'A';
+                console.log('%c=== SURVEY CONDITION (ADMIN ONLY) ===', 'color: blue; font-weight: bold;');
+                console.log('RANDOMIZATION PATTERN:', patternType);
+                if (patternType === 'A') {
+                    console.log('  Pattern A: ODD = FULL INFO, EVEN = MINIMAL INFO');
+                } else {
+                    console.log('  Pattern B: ODD = MINIMAL INFO, EVEN = FULL INFO');
+                }
+                console.log('\nDisplay Conditions:', displayConditions);
+                console.log('Full Info (anonymized):', Object.keys(displayConditions).filter(k => displayConditions[k] === 'full').join(', '));
+                console.log('Minimal Info (with names):', Object.keys(displayConditions).filter(k => displayConditions[k] === 'minimal').join(', '));
+                console.log('%c=====================================', 'color: blue;');
+                
+                loadSavedResponses();
+                checkSubmissionReady();
+            } else {
+                // No consent yet, show consent form (it's already visible by default)
+                // Consent form is shown, survey content is hidden
+            }
         };
         
         function saveToLocalStorage() {
             localStorage.setItem('surveyResponses', JSON.stringify(responses));
             localStorage.setItem('lastUpdated', new Date().toISOString());
+            // Save current comparison position
+            localStorage.setItem('lastComparison', currentComparison.toString());
         }
         
         function saveCurrentResponses(compNum) {
@@ -2404,7 +3382,7 @@
                 questions.q3 = q3.value;
             }
             
-            // Q4 - Radio (only exists for comparisons 2-10)
+            // Q4 - Radio (only exists for comparisons 2-12)
             const q4 = document.querySelector(`input[name="comp${compNum}-q4"]:checked`);
             if (q4) {
                 questions.q4 = q4.value;
@@ -2495,7 +3473,7 @@
             
             // Add randomization metadata for analysis
             responses.metadata = {
-                rotationPattern: localStorage.getItem('rotationPattern'),
+                randomizationPattern: localStorage.getItem('randomizationPattern') || 'A',
                 displayConditions: displayConditions
             };
             
@@ -2544,7 +3522,7 @@
             const formattedResponses = {};
             
             // Convert all comparison responses to the correct format
-            for (let i = 1; i <= 10; i++) {
+            for (let i = 1; i <= 12; i++) {
                 const comp = responses[`comparison-${i}`] || {};
                 
                 // Q1 - Who ranks higher
@@ -2556,7 +3534,7 @@
                 // Q3 - Comparison-specific question
                 formattedResponses[`comp${i}-q3`] = comp.q3 || '';
                 
-                // Q4 - Additional comparison-specific question (comparisons 2-10 only)
+                // Q4 - Additional comparison-specific question (comparisons 2-12)
                 if (i >= 2) {
                     formattedResponses[`comp${i}-q4`] = comp.q4 || '';
                 }
@@ -2569,9 +3547,14 @@
             formattedResponses['final-q3'] = responses.final?.overallConfidence || '';
             formattedResponses['career-stage'] = responses.final?.careerStage || '';
             
+            // Get consent information
+            const consentInfo = JSON.parse(localStorage.getItem('surveyConsent') || '{}');
+            
             const submissionData = {
                 respondent_id: respondentId,
                 timestamp: new Date().toISOString(),
+                consent_timestamp: consentInfo.timestamp || '',
+                consent_study_id: consentInfo.studyId || 'STUDY2023_00001234',
                 responses: formattedResponses
             };
             
@@ -2597,9 +3580,12 @@
                 alert('✅ Thank you! Your survey responses have been submitted successfully!\n\nYour contribution to this research is greatly appreciated.');
                 console.log('Data submitted to Apps Script');
                 
-                // Clear local storage after successful submission
+                // Clear local storage after successful submission (but keep randomization pattern for analysis)
                 localStorage.removeItem('surveyResponses');
                 localStorage.removeItem('lastUpdated');
+                localStorage.removeItem('lastComparison');
+                // Note: We keep 'randomizationPattern' and 'displayConditions' for potential analysis
+                // They can be cleared manually if needed
                 
                 // Disable the submit button to prevent double submission
                 event.target.disabled = true;
@@ -2644,6 +3630,39 @@
                 }
             }
         });
+        
+        // TESTING FUNCTIONS - Available in console for testing
+        // To use: Open console and type testPatternA() or testPatternB()
+        window.testPatternA = function() {
+            localStorage.removeItem('randomizationPattern');
+            localStorage.removeItem('displayConditions');
+            localStorage.setItem('randomizationPattern', 'A');
+            console.log('🧪 Testing Pattern A - Reloading page...');
+            location.reload();
+        };
+        
+        window.testPatternB = function() {
+            localStorage.removeItem('randomizationPattern');
+            localStorage.removeItem('displayConditions');
+            localStorage.setItem('randomizationPattern', 'B');
+            console.log('🧪 Testing Pattern B - Reloading page...');
+            location.reload();
+        };
+        
+        window.clearAllAndReload = function() {
+            localStorage.clear();
+            console.log('🧹 Cleared all localStorage - Reloading page...');
+            location.reload();
+        };
+        
+        window.showCurrentPattern = function() {
+            const pattern = localStorage.getItem('randomizationPattern');
+            const conditions = JSON.parse(localStorage.getItem('displayConditions') || '{}');
+            console.log('📊 Current Pattern:', pattern || 'Not assigned yet');
+            console.log('📊 Display Conditions:', conditions);
+            return { pattern, conditions };
+        };
     </script>
+    </div> <!-- Close survey-content div -->
 </body>
 </html>
