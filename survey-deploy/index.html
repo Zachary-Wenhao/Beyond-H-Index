@@ -554,141 +554,12 @@
             text-align: center;
         }
         
-        /* Testing Panel Styles */
-        .testing-panel {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background: white;
-            border: 3px solid #667eea;
-            border-radius: 10px;
-            padding: 20px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-            z-index: 10000;
-            font-size: 14px;
-            max-width: 350px;
-            display: none;
-        }
-        
-        .testing-panel.visible {
-            display: block;
-        }
-        
-        .testing-panel h3 {
-            color: #667eea;
-            margin-bottom: 15px;
-            font-size: 16px;
-            text-align: center;
-        }
-        
-        .testing-panel button {
-            width: 100%;
-            margin: 5px 0;
-            padding: 10px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 14px;
-            font-weight: bold;
-            transition: all 0.2s;
-        }
-        
-        .testing-panel .pattern-btn {
-            background: #667eea;
-            color: white;
-        }
-        
-        .testing-panel .pattern-btn:hover {
-            background: #5568d3;
-            transform: translateY(-2px);
-        }
-        
-        .testing-panel .test-all-btn {
-            background: #28a745;
-            color: white;
-        }
-        
-        .testing-panel .test-all-btn:hover {
-            background: #218838;
-        }
-        
-        .testing-panel .clear-btn {
-            background: #dc3545;
-            color: white;
-        }
-        
-        .testing-panel .clear-btn:hover {
-            background: #c82333;
-        }
-        
-        .testing-panel .close-btn {
-            background: #6c757d;
-            color: white;
-        }
-        
-        .testing-panel .close-btn:hover {
-            background: #545b62;
-        }
-        
-        .testing-panel .current-pattern {
-            background: #f8f9fa;
-            border: 2px solid #667eea;
-            border-radius: 5px;
-            padding: 10px;
-            margin: 10px 0;
-            text-align: center;
-            font-weight: bold;
-            color: #667eea;
-        }
-        
-        .testing-toggle {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background: #667eea;
-            color: white;
-            border: none;
-            border-radius: 50%;
-            width: 60px;
-            height: 60px;
-            font-size: 24px;
-            cursor: pointer;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-            z-index: 9999;
-            transition: all 0.2s;
-        }
-        
-        .testing-toggle:hover {
-            background: #5568d3;
-            transform: scale(1.1);
-        }
-        
-        .testing-toggle.hidden {
-            display: none;
-        }
+        /* Testing Panel Styles - HIDDEN FOR PRODUCTION */
+        /* Visual testing panel completely removed to prevent participants from seeing their randomization pattern */
+        /* Researchers: Use console commands instead - type showCurrentPattern() in browser console */
     </style>
 </head>
 <body>
-    <!-- Testing Panel (Hidden by default, toggle with button) -->
-    <button class="testing-toggle" onclick="window.toggleTestingPanel()" title="Open Testing Panel">🧪</button>
-    
-    <div class="testing-panel" id="testing-panel">
-        <h3>🧪 Randomization Testing</h3>
-        
-        <div class="current-pattern" id="current-pattern-display">
-            Loading...
-        </div>
-        
-        <button class="pattern-btn" onclick="window.testPattern('A')">Test Pattern A</button>
-        <button class="pattern-btn" onclick="window.testPattern('B')">Test Pattern B</button>
-        <button class="pattern-btn" onclick="window.testPattern('C')">Test Pattern C</button>
-        <button class="pattern-btn" onclick="window.testPattern('D')">Test Pattern D</button>
-        
-        <button class="test-all-btn" onclick="window.testAllPatterns()">🚀 Open All 4 Patterns</button>
-        <button class="clear-btn" onclick="window.clearAllAndReload()">🧹 Clear & Reload</button>
-        <button class="close-btn" onclick="window.toggleTestingPanel()">Close Panel</button>
-    </div>
-    
     <!-- Consent Form Section -->
     <div class="consent-section" id="consent-section">
         <div class="container">
@@ -3885,34 +3756,9 @@
             }
         })();
         
-        // Toggle testing panel visibility
-        window.toggleTestingPanel = function() {
-            const panel = document.getElementById('testing-panel');
-            const toggle = document.querySelector('.testing-toggle');
-            
-            if (panel.classList.contains('visible')) {
-                panel.classList.remove('visible');
-                toggle.classList.remove('hidden');
-            } else {
-                panel.classList.add('visible');
-                toggle.classList.add('hidden');
-                updatePatternDisplay();
-            }
-        };
-        
-        // Update the current pattern display in the testing panel
-        window.updatePatternDisplay = function() {
-            const pattern = localStorage.getItem('randomizationPattern');
-            const display = document.getElementById('current-pattern-display');
-            
-            if (display) {
-                if (pattern) {
-                    display.innerHTML = `Current Pattern: <strong>${pattern}</strong>`;
-                } else {
-                    display.innerHTML = '<strong>Not Assigned Yet</strong><br>(Will be assigned on first load)';
-                }
-            }
-        };
+        // Visual testing panel functions REMOVED FOR PRODUCTION
+        // These functions are commented out to prevent participants from seeing their randomization
+        // Use console commands instead: showCurrentPattern(), testPattern("A"), etc.
         
         // Display instructions on page load
         console.log('');
@@ -3929,22 +3775,18 @@
         console.log('• displayPatternInfo()    - Show current pattern details');
         console.log('• showCurrentPattern()    - Show pattern object');
         console.log('• clearAllAndReload()     - Clear localStorage and reload');
-        console.log('• toggleTestingPanel()    - Show/hide visual testing panel');
         console.log('');
         console.log('URL parameter for testing:');
         console.log('• Add ?testPattern=A to URL to force a specific pattern');
         console.log('');
-        console.log('Visual Testing Panel:');
-        console.log('• Click the 🧪 button in bottom-right corner');
+        console.log('NOTE: Visual testing panel removed for production.');
+        console.log('      All testing must be done via console commands.');
         console.log('');
         console.log('═══════════════════════════════════════════════════════════');
         console.log('');
         
-        // Automatically display current pattern on load
+        // Automatically display current pattern on load (console only)
         displayPatternInfo();
-        
-        // Initialize pattern display in testing panel
-        setTimeout(updatePatternDisplay, 100);
     </script>
     </div> <!-- Close survey-content div -->
 </body>
