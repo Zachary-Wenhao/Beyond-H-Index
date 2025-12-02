@@ -554,141 +554,12 @@
             text-align: center;
         }
         
-        /* Testing Panel Styles */
-        .testing-panel {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background: white;
-            border: 3px solid #667eea;
-            border-radius: 10px;
-            padding: 20px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-            z-index: 10000;
-            font-size: 14px;
-            max-width: 350px;
-            display: none;
-        }
-        
-        .testing-panel.visible {
-            display: block;
-        }
-        
-        .testing-panel h3 {
-            color: #667eea;
-            margin-bottom: 15px;
-            font-size: 16px;
-            text-align: center;
-        }
-        
-        .testing-panel button {
-            width: 100%;
-            margin: 5px 0;
-            padding: 10px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 14px;
-            font-weight: bold;
-            transition: all 0.2s;
-        }
-        
-        .testing-panel .pattern-btn {
-            background: #667eea;
-            color: white;
-        }
-        
-        .testing-panel .pattern-btn:hover {
-            background: #5568d3;
-            transform: translateY(-2px);
-        }
-        
-        .testing-panel .test-all-btn {
-            background: #28a745;
-            color: white;
-        }
-        
-        .testing-panel .test-all-btn:hover {
-            background: #218838;
-        }
-        
-        .testing-panel .clear-btn {
-            background: #dc3545;
-            color: white;
-        }
-        
-        .testing-panel .clear-btn:hover {
-            background: #c82333;
-        }
-        
-        .testing-panel .close-btn {
-            background: #6c757d;
-            color: white;
-        }
-        
-        .testing-panel .close-btn:hover {
-            background: #545b62;
-        }
-        
-        .testing-panel .current-pattern {
-            background: #f8f9fa;
-            border: 2px solid #667eea;
-            border-radius: 5px;
-            padding: 10px;
-            margin: 10px 0;
-            text-align: center;
-            font-weight: bold;
-            color: #667eea;
-        }
-        
-        .testing-toggle {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background: #667eea;
-            color: white;
-            border: none;
-            border-radius: 50%;
-            width: 60px;
-            height: 60px;
-            font-size: 24px;
-            cursor: pointer;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-            z-index: 9999;
-            transition: all 0.2s;
-        }
-        
-        .testing-toggle:hover {
-            background: #5568d3;
-            transform: scale(1.1);
-        }
-        
-        .testing-toggle.hidden {
-            display: none;
-        }
+        /* Testing Panel Styles - HIDDEN FOR PRODUCTION */
+        /* Visual testing panel completely removed to prevent participants from seeing their randomization pattern */
+        /* Researchers: Use console commands instead - type showCurrentPattern() in browser console */
     </style>
 </head>
 <body>
-    <!-- Testing Panel (Hidden by default, toggle with button) -->
-    <button class="testing-toggle" onclick="window.toggleTestingPanel()" title="Open Testing Panel">🧪</button>
-    
-    <div class="testing-panel" id="testing-panel">
-        <h3>🧪 Randomization Testing</h3>
-        
-        <div class="current-pattern" id="current-pattern-display">
-            Loading...
-        </div>
-        
-        <button class="pattern-btn" onclick="window.testPattern('A')">Test Pattern A</button>
-        <button class="pattern-btn" onclick="window.testPattern('B')">Test Pattern B</button>
-        <button class="pattern-btn" onclick="window.testPattern('C')">Test Pattern C</button>
-        <button class="pattern-btn" onclick="window.testPattern('D')">Test Pattern D</button>
-        
-        <button class="test-all-btn" onclick="window.testAllPatterns()">🚀 Open All 4 Patterns</button>
-        <button class="clear-btn" onclick="window.clearAllAndReload()">🧹 Clear & Reload</button>
-        <button class="close-btn" onclick="window.toggleTestingPanel()">Close Panel</button>
-    </div>
-    
     <!-- Consent Form Section -->
     <div class="consent-section" id="consent-section">
         <div class="container">
@@ -1826,7 +1697,7 @@
                     
                     <div class="metric-section">
                         <h4>Citation Impact</h4>
-                        <p>Accumulated 161,176 citations with an average of 586.1 citations per paper. Contains a high H-index of 135, with impact concentrated in deep learning–based language models. This places him among the most influential senior NLP researchers globally.</p>
+                        <p>Accumulated 122,721 citations with an average of 446 citations per paper. Contains 18,750 highly influential citations (15.3%), representing exceptionally high concentrated impact among senior NLP researchers.</p>
                     </div>
                     
                     <div class="metric-section">
@@ -1858,7 +1729,7 @@
                     
                     <div class="metric-section">
                         <h4>Citation Impact</h4>
-                        <p>Accumulated 76,288 citations, averaging 275.4 citations per paper, with an H-index of 128. Represents high sustained impact across multiple NLP subfields, especially commonsense and multimodal reasoning.</p>
+                        <p>Accumulated 57,368 citations, averaging 207 citations per paper. Contains 6,859 highly influential citations (12.0%), representing high sustained impact across multiple NLP subfields, especially commonsense and multimodal reasoning.</p>
                     </div>
                     
                     <div class="metric-section">
@@ -1995,7 +1866,7 @@
                     
                     <div class="metric-section">
                         <h4>Citation Impact</h4>
-                        <p>Accumulated 298,330 citations with an average of 607.6 citations per paper. Holds an H-index of 172, placing him among the most cited NLP scholars worldwide. Citations span both foundational linguistics and modern deep learning work.</p>
+                        <p>Accumulated 186,593 citations with an average of 380 citations per paper. Contains 21,132 highly influential citations (11.3%), placing him among the most cited NLP scholars worldwide. Citations span both foundational linguistics and modern deep learning work.</p>
                     </div>
                     
                     <div class="metric-section">
@@ -2027,7 +1898,7 @@
                     
                     <div class="metric-section">
                         <h4>Citation Impact</h4>
-                        <p>Accumulated 141,370 citations with an average of 577 citations per paper and H-index of 124. High citation density reflects strong influence in scalable neural architectures and open research dissemination.</p>
+                        <p>Accumulated 97,974 citations with an average of 400 citations per paper. Contains 10,827 highly influential citations (11.1%). High citation density reflects strong influence in scalable neural architectures and open research dissemination.</p>
                     </div>
                     
                     <div class="metric-section">
@@ -2159,12 +2030,12 @@
                     
                     <div class="metric-section">
                         <h4>Publication Record</h4>
-                        <p>Authored 361 papers averaging 9.8 publications per year, across 107 venues, with ACL as the most frequent. Exhibits a wide-ranging and diversified portfolio spanning speech recognition, pragmatics, and societal NLP.</p>
+                        <p>Authored 360 papers averaging 9.7 publications per year, across 107 venues, with ACL as the most frequent. Exhibits a wide-ranging and diversified portfolio spanning speech recognition, pragmatics, and societal NLP.</p>
                     </div>
                     
                     <div class="metric-section">
                         <h4>Citation Impact</h4>
-                        <p>Accumulated 99,809 citations, averaging 276.5 citations per paper, with an H-index of 131. Citations reflect a mix of foundational contributions (parsing, pragmatics) and interdisciplinary influence in psychology, linguistics, and social sciences.</p>
+                        <p>Accumulated 62,952 citations, averaging 175 citations per paper. Contains 5,831 highly influential citations (9.3%). Citations reflect a mix of foundational contributions (parsing, pragmatics) and interdisciplinary influence in psychology, linguistics, and social sciences.</p>
                     </div>
                     
                     <div class="metric-section">
@@ -2196,7 +2067,7 @@
                     
                     <div class="metric-section">
                         <h4>Citation Impact</h4>
-                        <p>Accumulated 75,097 citations with 149.3 citations per paper and an H-index of 128. Reflects strong influence in affective computing and text-based emotion analysis, particularly through shared resources and benchmark datasets.</p>
+                        <p>Accumulated 52,948 citations with 105 citations per paper. Contains 2,999 highly influential citations (5.7%). Reflects strong influence in affective computing and text-based emotion analysis, particularly through shared resources and benchmark datasets.</p>
                     </div>
                     
                     <div class="metric-section">
@@ -2333,7 +2204,7 @@
                     
                     <div class="metric-section">
                         <h4>Citation Impact</h4>
-                        <p>Accumulated 63,787 citations, with an h-index of 117 and 77.7 citations per paper. Recognized as one of the most cited scholars in information systems and informatics. Impact spans cybersecurity, health analytics, and large-scale knowledge systems.</p>
+                        <p>Accumulated 41,420 citations with 50.5 citations per paper. Contains 2,197 highly influential citations (5.3%). Recognized as one of the most cited scholars in information systems and informatics. Impact spans cybersecurity, health analytics, and large-scale knowledge systems.</p>
                     </div>
                     
                     <div class="metric-section">
@@ -2360,12 +2231,12 @@
                     
                     <div class="metric-section">
                         <h4>Publication Record</h4>
-                        <p>Authored 2,145 papers, averaging 61 publications per year—a pace characteristic of medical and policy research. His work appears in New England Journal of Medicine, JAMA, and Circulation. Reflects a clinically grounded yet data-rich research style.</p>
+                        <p>Authored 2,144 papers, averaging 61 publications per year—a pace characteristic of medical and policy research. His work appears in New England Journal of Medicine, JAMA, and Circulation. Reflects a clinically grounded yet data-rich research style.</p>
                     </div>
                     
                     <div class="metric-section">
                         <h4>Citation Impact</h4>
-                        <p>Accumulated 359,641 citations with an h-index of 248, placing him among the most cited medical researchers globally. Average citation rate above 167.7 per paper, signifying massive clinical and policy influence.</p>
+                        <p>Accumulated 131,420 citations with an average of 61.3 citations per paper, placing him among the most cited medical researchers globally. Contains 3,746 highly influential citations (2.9%), signifying massive clinical and policy influence despite lower percentage due to medical field norms.</p>
                     </div>
                     
                     <div class="metric-section">
@@ -2471,11 +2342,11 @@
             </div>
         </div>
         
-        <!-- Comparison 11: Information Retrieval vs. Neural Machine Translation -->
+        <!-- Comparison 11: Information Retrieval vs. Probabilistic NLP -->
         <div class="comparison" id="comparison-11">
             <div class="comparison-header">
-                <h2 class="comparison-title">Comparison 11: Information Retrieval vs. Neural Machine Translation<span class="display-mode-badge" id="badge-11"></span></h2>
-                <p class="comparison-subtitle">Search systems vs. neural sequence modeling</p>
+                <h2 class="comparison-title">Comparison 11: Information Retrieval vs. Probabilistic NLP<span class="display-mode-badge" id="badge-11"></span></h2>
+                <p class="comparison-subtitle">Search systems vs. structured prediction and information extraction</p>
             </div>
             
             <div class="researchers-container">
@@ -2483,7 +2354,7 @@
                     <h3>👤 Researcher A</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Distinguished Professor at University of Massachusetts Amherst | Pioneer in Information Retrieval
+                        <strong>POSITION:</strong> Distinguished Professor Emeritus at University of Massachusetts Amherst | Pioneer in Information Retrieval
                     </div>
                     
                     <div class="researcher-field">
@@ -2497,12 +2368,12 @@
                     
                     <div class="metric-section">
                         <h4>Publication Record</h4>
-                        <p>Authored over 700 papers with sustained high-quality contributions to information retrieval. Work appears in top venues including SIGIR, CIKM, and related conferences. Publications span theoretical foundations and practical applications of search technology.</p>
+                        <p>Authored 724 papers with sustained high-quality contributions to information retrieval. Work appears in top venues including SIGIR, CIKM, and related conferences. Publications span theoretical foundations and practical applications of search technology.</p>
                     </div>
                     
                     <div class="metric-section">
                         <h4>Citation Impact</h4>
-                        <p>Accumulated over 61,000 citations with an h-index of 125, placing among the most cited researchers in information retrieval. Work on language models and probabilistic IR has been foundational to the field.</p>
+                        <p>Accumulated 62,593 citations with an average of 86.5 citations per paper. Contains 5,017 highly influential citations (8.0%), reflecting foundational contributions to the field and placing him among the most cited researchers in information retrieval.</p>
                     </div>
                     
                     <div class="metric-section">
@@ -2515,31 +2386,31 @@
                     <h3>👤 Researcher B</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor | Leading researcher in Neural Machine Translation and Deep Learning for NLP
+                        <strong>POSITION:</strong> Distinguished Professor of Computer Science at University of Massachusetts Amherst | Director of Center for Data Science
                     </div>
                     
                     <div class="researcher-field">
-                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing and Machine Learning, specializing in neural machine translation, sequence-to-sequence models, and deep learning architectures such as attention and recurrent networks. Known for foundational contributions to neural translation and sequence modeling.
+                        <strong>FIELD & EXPERTISE:</strong> Machine Learning and Natural Language Processing, specializing in information extraction, structured prediction, and conditional random fields. Pioneer in probabilistic graphical models for text analysis and social network mining. Founder of OpenReview.net for open scientific peer review.
                     </div>
                     
                     <div class="metric-section">
                         <h4>Career Overview</h4>
-                        <p>Career spanning 30 years (1995–2024). Recognized for foundational contributions to neural machine translation and sequence modeling, with work that has shaped modern neural NLP architectures.</p>
+                        <p>Career spanning 30 years (1995-2025). Completed PhD at University of Rochester in 1995, joined UMass Amherst in 2002. Co-developed Conditional Random Fields (CRF) with John Lafferty and Fernando Pereira, winning ICML Test of Time award in 2011. Built influential research group and leads major collaborations including Chan Zuckerberg Initiative's AI-driven scientific knowledge mapping project.</p>
                     </div>
                     
                     <div class="metric-section">
                         <h4>Publication Record</h4>
-                        <p>Authored 328 papers averaging 10.9 publications per year. Work appears in top-tier venues including ACL, EMNLP, and ICLR, with a strong conference presence (132 conference papers vs. 36 journal papers), reflecting a balanced and empirically focused publication profile.</p>
+                        <p>Authored 444 papers averaging approximately 15 publications per year. Strong presence in ICML, NeurIPS, ACL, EMNLP, and KDD venues. Portfolio spans theoretical machine learning, information extraction, entity resolution, and scientific document understanding. Created widely-used open-source toolkits including MALLET, Rainbow, and FACTORIE.</p>
                     </div>
                     
                     <div class="metric-section">
                         <h4>Citation Impact</h4>
-                        <p>Accumulated 124,637 total citations with an average of 380 citations per paper and an h-index of 93. High citation impact reflects major influence in neural machine translation and deep learning for NLP.</p>
+                        <p>Accumulated 79,200 citations with an average of 178 citations per paper. Contains 7,357 highly influential citations (9.3%). Most cited work includes seminal CRF paper (11,231+ citations). Recognized as one of the most-cited researchers in natural language processing internationally.</p>
                     </div>
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Remains active with ongoing research through 2024. Continues to contribute to neural machine translation, sequence modeling, and deep learning methods for language.</p>
+                        <p>Continues active research through 2024-25 on retrieval-enhanced language models, cross-encoder optimization, case-based reasoning for machine reading comprehension, and semantic parsing. Leads $25M+ in research funding from CZI, Google, IBM, NSF, and MassMutual. Director of OpenReview.net, transforming scientific peer review globally.</p>
                     </div>
                 </div>
             </div>
@@ -2652,31 +2523,31 @@
                     <h3>👤 Researcher A</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor | Leading researcher in Neural Machine Translation and Deep Learning for NLP
+                        <strong>POSITION:</strong> Glen de Vries Professor of Health Statistics at New York University | Professor at NYU and Executive Director at Genentech Research & Early Development
                     </div>
                     
                     <div class="researcher-field">
-                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing and Machine Learning, specializing in neural machine translation, sequence-to-sequence models, and deep learning architectures such as attention and recurrent networks. Known for foundational contributions to neural translation and sequence modeling.
+                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing and Machine Learning, specializing in neural machine translation, sequence-to-sequence models, and deep learning architectures such as attention and recurrent networks. Known for foundational contributions to neural translation and sequence modeling, particularly the GRU (Gated Recurrent Unit) and attention mechanisms.
                     </div>
                     
                     <div class="metric-section">
                         <h4>Career Overview</h4>
-                        <p>Career spanning 30 years (1995–2024). Recognized for foundational contributions to neural machine translation and sequence modeling, with work that has shaped modern neural NLP architectures.</p>
+                        <p>Career spanning approximately 11 years since PhD (2014–2025). Recognized for foundational contributions to neural machine translation and sequence modeling, with work that has shaped modern neural NLP architectures, particularly the GRU (Gated Recurrent Unit) and attention mechanisms.</p>
                     </div>
                     
                     <div class="metric-section">
                         <h4>Publication Record</h4>
-                        <p>Authored 328 papers averaging 10.9 publications per year. Work appears in top-tier venues including ACL, EMNLP, and ICLR, with a strong conference presence (132 conference papers vs. 36 journal papers), reflecting a balanced and empirically focused publication profile.</p>
+                        <p>Authored 328 papers averaging 29.8 publications per year. Work appears in top-tier venues including ACL, EMNLP, and ICLR, with a strong conference presence (132 conference papers vs. 36 journal papers), reflecting a balanced and empirically focused publication profile.</p>
                     </div>
                     
                     <div class="metric-section">
                         <h4>Citation Impact</h4>
-                        <p>Accumulated 124,637 total citations with an average of 380 citations per paper and an h-index of 93. High citation impact reflects major influence in neural machine translation and deep learning for NLP.</p>
+                        <p>Accumulated 127,559 citations with an average of 389 citations per paper. Contains 12,823 highly influential citations (10.1%). High citation impact reflects major influence in neural machine translation and deep learning for NLP, particularly the attention mechanism and GRU papers.</p>
                     </div>
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Remains active with ongoing research through 2024. Continues to contribute to neural machine translation, sequence modeling, and deep learning methods for language.</p>
+                        <p>Remains active with ongoing research through 2024-25. Continues to contribute to neural machine translation, sequence modeling, and deep learning methods for language. Recent focus on world models and alternatives to large language model architectures.</p>
                     </div>
                 </div>
                 
@@ -2684,31 +2555,31 @@
                     <h3>👤 Researcher B</h3>
                     
                     <div class="researcher-institution">
-                        <strong>POSITION:</strong> Professor at University of Washington | Leading researcher in Computational Linguistics and NLP
+                        <strong>POSITION:</strong> Amazon Professor of Machine Learning at University of Washington | Senior Director of NLP Research at Allen Institute for Artificial Intelligence | UW Vice Provost for Artificial Intelligence
                     </div>
                     
                     <div class="researcher-field">
-                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing and Computational Linguistics, specializing in structured prediction, statistical methods, and machine learning for text. Known for theoretical contributions to NLP and advancing statistical approaches to language understanding.
+                        <strong>FIELD & EXPERTISE:</strong> Natural Language Processing and Computational Linguistics, specializing in structured prediction, statistical methods, and machine learning for text. Known for theoretical contributions to NLP and advancing statistical approaches to language understanding, evaluation methodologies, and open language modeling.
                     </div>
                     
                     <div class="metric-section">
                         <h4>Career Overview</h4>
-                        <p>Career spanning 26 years (1999–2024). Recognized for advancing computational linguistics and statistical methods in NLP, with contributions to structured prediction, dependency parsing, and text understanding.</p>
+                        <p>Career spanning 19 years since PhD (2006–2024). Recognized for advancing computational linguistics and statistical methods in NLP, with contributions to structured prediction, dependency parsing, and text understanding. Fellow of ACL (2020). Co-directs the OLMo open language modeling effort.</p>
                     </div>
                     
                     <div class="metric-section">
                         <h4>Publication Record</h4>
-                        <p>Authored 425 papers averaging 16.3 publications per year. Work appears primarily in top-tier NLP venues including ACL, EMNLP, and NAACL, with a strong focus on conference publications (254 conference papers vs. 35 journal papers), reflecting focus on empirical NLP research.</p>
+                        <p>Authored 424 papers averaging 22.3 publications per year. Work appears primarily in top-tier NLP venues including ACL, EMNLP, and NAACL, with a strong focus on conference publications (254 conference papers vs. 35 journal papers), reflecting focus on empirical NLP research.</p>
                     </div>
                     
                     <div class="metric-section">
                         <h4>Citation Impact</h4>
-                        <p>Accumulated 57,617 total citations with an average of 135.6 citations per paper and an h-index of 113. Reflects strong influence in computational linguistics and NLP research community.</p>
+                        <p>Accumulated 58,946 citations with an average of 139 citations per paper. Contains 5,942 highly influential citations (10.1%), reflecting strong influence in computational linguistics and NLP research community, particularly in evaluation, structured prediction, and methodology.</p>
                     </div>
                     
                     <div class="metric-section">
                         <h4>Current Activity</h4>
-                        <p>Continues active research in NLP, with recent work through 2024. Maintains high publication rate and influence in computational linguistics and statistical NLP.</p>
+                        <p>Continues active research in NLP, with recent work through 2024-25 including OLMo open language models and research methodology improvements. Maintains high publication rate and influence in computational linguistics and statistical NLP. Leading efforts in open science and reproducibility in NLP.</p>
                     </div>
                 </div>
             </div>
@@ -3887,34 +3758,9 @@
             }
         })();
         
-        // Toggle testing panel visibility
-        window.toggleTestingPanel = function() {
-            const panel = document.getElementById('testing-panel');
-            const toggle = document.querySelector('.testing-toggle');
-            
-            if (panel.classList.contains('visible')) {
-                panel.classList.remove('visible');
-                toggle.classList.remove('hidden');
-            } else {
-                panel.classList.add('visible');
-                toggle.classList.add('hidden');
-                updatePatternDisplay();
-            }
-        };
-        
-        // Update the current pattern display in the testing panel
-        window.updatePatternDisplay = function() {
-            const pattern = localStorage.getItem('randomizationPattern');
-            const display = document.getElementById('current-pattern-display');
-            
-            if (display) {
-                if (pattern) {
-                    display.innerHTML = `Current Pattern: <strong>${pattern}</strong>`;
-                } else {
-                    display.innerHTML = '<strong>Not Assigned Yet</strong><br>(Will be assigned on first load)';
-                }
-            }
-        };
+        // Visual testing panel functions REMOVED FOR PRODUCTION
+        // These functions are commented out to prevent participants from seeing their randomization
+        // Use console commands instead: showCurrentPattern(), testPattern("A"), etc.
         
         // Display instructions on page load
         console.log('');
@@ -3931,22 +3777,18 @@
         console.log('• displayPatternInfo()    - Show current pattern details');
         console.log('• showCurrentPattern()    - Show pattern object');
         console.log('• clearAllAndReload()     - Clear localStorage and reload');
-        console.log('• toggleTestingPanel()    - Show/hide visual testing panel');
         console.log('');
         console.log('URL parameter for testing:');
         console.log('• Add ?testPattern=A to URL to force a specific pattern');
         console.log('');
-        console.log('Visual Testing Panel:');
-        console.log('• Click the 🧪 button in bottom-right corner');
+        console.log('NOTE: Visual testing panel removed for production.');
+        console.log('      All testing must be done via console commands.');
         console.log('');
         console.log('═══════════════════════════════════════════════════════════');
         console.log('');
         
-        // Automatically display current pattern on load
+        // Automatically display current pattern on load (console only)
         displayPatternInfo();
-        
-        // Initialize pattern display in testing panel
-        setTimeout(updatePatternDisplay, 100);
     </script>
     </div> <!-- Close survey-content div -->
 </body>
