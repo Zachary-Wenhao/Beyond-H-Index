@@ -22,7 +22,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Security-Policy" content="default-src 'self' https:; script-src 'self' 'unsafe-inline' https://script.google.com https://script.googleusercontent.com; style-src 'self' 'unsafe-inline'; connect-src 'self' https://script.google.com https://script.googleusercontent.com; frame-ancestors 'self';">
-    <!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self' https:; script-src 'self' 'unsafe-inline' https://script.google.com; style-src 'self' 'unsafe-inline'; connect-src 'self' https://script.google.com; frame-ancestors 'self';"> -->
     <meta name="referrer" content="strict-origin-when-cross-origin">
     <title>Research Impact Comparison Survey</title>
     
@@ -554,9 +553,142 @@
             margin-top: 20px;
             text-align: center;
         }
+        
+        /* Testing Panel Styles */
+        .testing-panel {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: white;
+            border: 3px solid #667eea;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            z-index: 10000;
+            font-size: 14px;
+            max-width: 350px;
+            display: none;
+        }
+        
+        .testing-panel.visible {
+            display: block;
+        }
+        
+        .testing-panel h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 16px;
+            text-align: center;
+        }
+        
+        .testing-panel button {
+            width: 100%;
+            margin: 5px 0;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: bold;
+            transition: all 0.2s;
+        }
+        
+        .testing-panel .pattern-btn {
+            background: #667eea;
+            color: white;
+        }
+        
+        .testing-panel .pattern-btn:hover {
+            background: #5568d3;
+            transform: translateY(-2px);
+        }
+        
+        .testing-panel .test-all-btn {
+            background: #28a745;
+            color: white;
+        }
+        
+        .testing-panel .test-all-btn:hover {
+            background: #218838;
+        }
+        
+        .testing-panel .clear-btn {
+            background: #dc3545;
+            color: white;
+        }
+        
+        .testing-panel .clear-btn:hover {
+            background: #c82333;
+        }
+        
+        .testing-panel .close-btn {
+            background: #6c757d;
+            color: white;
+        }
+        
+        .testing-panel .close-btn:hover {
+            background: #545b62;
+        }
+        
+        .testing-panel .current-pattern {
+            background: #f8f9fa;
+            border: 2px solid #667eea;
+            border-radius: 5px;
+            padding: 10px;
+            margin: 10px 0;
+            text-align: center;
+            font-weight: bold;
+            color: #667eea;
+        }
+        
+        .testing-toggle {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+            font-size: 24px;
+            cursor: pointer;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+            z-index: 9999;
+            transition: all 0.2s;
+        }
+        
+        .testing-toggle:hover {
+            background: #5568d3;
+            transform: scale(1.1);
+        }
+        
+        .testing-toggle.hidden {
+            display: none;
+        }
     </style>
 </head>
 <body>
+    <!-- Testing Panel (Hidden by default, toggle with button) -->
+    <button class="testing-toggle" onclick="window.toggleTestingPanel()" title="Open Testing Panel">🧪</button>
+    
+    <div class="testing-panel" id="testing-panel">
+        <h3>🧪 Randomization Testing</h3>
+        
+        <div class="current-pattern" id="current-pattern-display">
+            Loading...
+        </div>
+        
+        <button class="pattern-btn" onclick="window.testPattern('A')">Test Pattern A</button>
+        <button class="pattern-btn" onclick="window.testPattern('B')">Test Pattern B</button>
+        <button class="pattern-btn" onclick="window.testPattern('C')">Test Pattern C</button>
+        <button class="pattern-btn" onclick="window.testPattern('D')">Test Pattern D</button>
+        
+        <button class="test-all-btn" onclick="window.testAllPatterns()">🚀 Open All 4 Patterns</button>
+        <button class="clear-btn" onclick="window.clearAllAndReload()">🧹 Clear & Reload</button>
+        <button class="close-btn" onclick="window.toggleTestingPanel()">Close Panel</button>
+    </div>
+    
     <!-- Consent Form Section -->
     <div class="consent-section" id="consent-section">
         <div class="container">
@@ -2820,9 +2952,7 @@
     <script>
         // Apps Script Configuration (Much simpler than API!)
         // const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwkkflMcmFgsMQnVEIU4j-kGHO9Kg3ZFGm8Lw1aGTaUb28qyuouHKYpj83BzGDWQNLv/exec';
-        const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzToT948UEOS-nGxg8FsuV1FCjOQale6rJJroxsVaWosB0Zt_4f5_JEEqEEqk_dJlt3/exec';
-        // const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxOUs3f31uLKKN0QeI4EzeeXClIvyvQEwWy5B9iAHjJlg0Zemo0B-B8VLHIfA3aM66p/exec';
-        // const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxaOAGGHi7I1DJrXNkvdI_asRMLPdG30nfYN1aT61bgOEebEtKhyyHeYNeuJl4TAXZh/exec';
+        const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxaOAGGHi7I1DJrXNkvdI_asRMLPdG30nfYN1aT61bgOEebEtKhyyHeYNeuJl4TAXZh/exec';
         
         // Old Google Sheets API config (not needed with Apps Script)
         // const GOOGLE_SHEETS_CONFIG = {
@@ -3553,20 +3683,39 @@
             // Get consent information
             const consentInfo = JSON.parse(localStorage.getItem('surveyConsent') || '{}');
             
+            // Get randomization metadata
+            const randomizationPattern = localStorage.getItem('randomizationPattern') || 'unknown';
+            const displayConditionsData = JSON.parse(localStorage.getItem('displayConditions') || '{}');
+            
+            console.log('🔍 METADATA EXTRACTED:', {
+                randomizationPattern: randomizationPattern,
+                displayConditions: displayConditionsData
+            });
+            
             const submissionData = {
                 respondent_id: respondentId,
                 timestamp: new Date().toISOString(),
                 consent_timestamp: consentInfo.timestamp || '',
                 consent_study_id: consentInfo.studyId || 'STUDY2023_00001234',
-                responses: formattedResponses
+                responses: formattedResponses,
+                metadata: {
+                    randomizationPattern: randomizationPattern,
+                    displayConditions: displayConditionsData
+                }
             };
             
-            console.log('Submitting data:', submissionData);
+            console.log('🚀 Submitting data:', submissionData);
+            console.log('🎯 Metadata field exists?', submissionData.hasOwnProperty('metadata'));
+            console.log('🎯 Metadata content:', submissionData.metadata);
             console.log('Final questions in submission:', {
                 'final-q1': formattedResponses['final-q1'],
                 'final-q2': formattedResponses['final-q2'],
                 'final-q3': formattedResponses['final-q3'],
                 'career-stage': formattedResponses['career-stage']
+            });
+            console.log('Randomization metadata:', {
+                'pattern': randomizationPattern,
+                'displayConditions': displayConditionsData
             });
             
             // Submit to Apps Script
@@ -3665,6 +3814,137 @@
             console.log('📊 Display Conditions:', conditions);
             return { pattern, conditions };
         };
+        
+        // ============================================
+        // TESTING UTILITIES FOR RANDOMIZATION
+        // ============================================
+        
+        window.testPattern = function(patternType) {
+            if (!['A', 'B', 'C', 'D'].includes(patternType)) {
+                console.error('❌ Invalid pattern. Use A, B, C, or D');
+                return;
+            }
+            localStorage.setItem('randomizationPattern', patternType);
+            console.log(`✅ Set to Pattern ${patternType} - Reloading...`);
+            location.reload();
+        };
+        
+        window.testAllPatterns = function() {
+            console.log('🧪 TESTING ALL 4 PATTERNS');
+            console.log('This will open 4 new tabs/windows, one for each pattern.');
+            console.log('');
+            
+            const patterns = ['A', 'B', 'C', 'D'];
+            patterns.forEach((pattern, index) => {
+                setTimeout(() => {
+                    const url = new URL(window.location.href);
+                    url.searchParams.set('testPattern', pattern);
+                    window.open(url.toString(), `_blank`);
+                    console.log(`✅ Opened Pattern ${pattern} in new tab`);
+                }, index * 500);
+            });
+        };
+        
+        window.displayPatternInfo = function() {
+            const pattern = localStorage.getItem('randomizationPattern');
+            const conditions = JSON.parse(localStorage.getItem('displayConditions') || '{}');
+            
+            console.log('═══════════════════════════════════════════');
+            console.log('📊 CURRENT RANDOMIZATION PATTERN: ' + (pattern || 'NOT ASSIGNED'));
+            console.log('═══════════════════════════════════════════');
+            console.log('');
+            console.log('Comparison | Anonymity   | Info Level');
+            console.log('-----------|-------------|------------');
+            
+            for (let i = 1; i <= 12; i++) {
+                const cond = conditions[i];
+                if (cond) {
+                    console.log(
+                        `    ${i.toString().padStart(2)}     | ` +
+                        `${cond.anonymity.padEnd(11)} | ` +
+                        `${cond.info}`
+                    );
+                }
+            }
+            console.log('');
+            console.log('═══════════════════════════════════════════');
+            
+            return { pattern, conditions };
+        };
+        
+        // Check if URL has testPattern parameter (for automated testing)
+        (function checkTestParam() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const testPattern = urlParams.get('testPattern');
+            if (testPattern && ['A', 'B', 'C', 'D'].includes(testPattern)) {
+                localStorage.clear();
+                localStorage.setItem('randomizationPattern', testPattern);
+                console.log(`🧪 TEST MODE: Forced to Pattern ${testPattern}`);
+                // Remove the parameter from URL to clean it up
+                window.history.replaceState({}, document.title, window.location.pathname);
+            }
+        })();
+        
+        // Toggle testing panel visibility
+        window.toggleTestingPanel = function() {
+            const panel = document.getElementById('testing-panel');
+            const toggle = document.querySelector('.testing-toggle');
+            
+            if (panel.classList.contains('visible')) {
+                panel.classList.remove('visible');
+                toggle.classList.remove('hidden');
+            } else {
+                panel.classList.add('visible');
+                toggle.classList.add('hidden');
+                updatePatternDisplay();
+            }
+        };
+        
+        // Update the current pattern display in the testing panel
+        window.updatePatternDisplay = function() {
+            const pattern = localStorage.getItem('randomizationPattern');
+            const display = document.getElementById('current-pattern-display');
+            
+            if (display) {
+                if (pattern) {
+                    display.innerHTML = `Current Pattern: <strong>${pattern}</strong>`;
+                } else {
+                    display.innerHTML = '<strong>Not Assigned Yet</strong><br>(Will be assigned on first load)';
+                }
+            }
+        };
+        
+        // Display instructions on page load
+        console.log('');
+        console.log('═══════════════════════════════════════════════════════════');
+        console.log('🧪 RANDOMIZATION TESTING UTILITIES AVAILABLE:');
+        console.log('═══════════════════════════════════════════════════════════');
+        console.log('');
+        console.log('• testPattern("A")        - Force Pattern A and reload');
+        console.log('• testPattern("B")        - Force Pattern B and reload');
+        console.log('• testPattern("C")        - Force Pattern C and reload');
+        console.log('• testPattern("D")        - Force Pattern D and reload');
+        console.log('');
+        console.log('• testAllPatterns()       - Open all 4 patterns in new tabs');
+        console.log('• displayPatternInfo()    - Show current pattern details');
+        console.log('• showCurrentPattern()    - Show pattern object');
+        console.log('• clearAllAndReload()     - Clear localStorage and reload');
+        console.log('• toggleTestingPanel()    - Show/hide visual testing panel');
+        console.log('');
+        console.log('URL parameter for testing:');
+        console.log('• Add ?testPattern=A to URL to force a specific pattern');
+        console.log('');
+        console.log('Visual Testing Panel:');
+        console.log('• Click the 🧪 button in bottom-right corner');
+        console.log('');
+        console.log('═══════════════════════════════════════════════════════════');
+        console.log('');
+        
+        // Automatically display current pattern on load
+        displayPatternInfo();
+        
+        // Initialize pattern display in testing panel
+        setTimeout(updatePatternDisplay, 100);
     </script>
     </div> <!-- Close survey-content div -->
 </body>
